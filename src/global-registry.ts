@@ -46,3 +46,35 @@ export function getRegistry(): Partial<Registry> {
         console.warn(`[global-registry] 函数 ${name} 未注册`);
     }
 };
+
+// ===== 事件委托：以 [data-action] 替代内联 onclick，收敛 CSP =====
+
+function datasetArgs(action: string, el: HTMLElement): unknown[] {
+    const ds = el.dataset;
+    if (action === 'playPronunciation') {
+        return [ds.pron ?? ds.pronType ?? '', ds.word ?? ''];
+    }
+    if (action === 'playSentencePronunciation') return [ds.word ?? ''];
+    if (action === 'toggleHistoryDay' || action === 'toggleDueWords' || action === 'toggleHistoryPanel') return [el];
+    return [ds.word ?? ds.arg ?? ''];
+}
+
+let delegationStarted = false;
+
+/** 在 document 捕获阶段统一处理 [data-action]；带 data-stop 的元素会阻止继续向下传递 */
+export function initActionDelegation(): void {
+    if (delegationStarted) return;
+    delegationStarted = true;
+    document.addEventListener('click', (e) => {
+        const target = e.target as HTMLElement | null;
+        const el = target && typeof target.closest === 'function'
+            ? target.closest('[data-action]') as HTMLElement | null
+            : null;
+        if (!el) return;
+        const action = el.dataset.action as keyof Registry;
+        const fn = registry[action];
+        if (typeof fn !== 'function') return;
+        if (el.dataset.stop !== undefined) e.stopPropagation();
+        fn(...datasetArgs(action, el));
+    }, true);
+}

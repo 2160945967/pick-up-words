@@ -2,7 +2,6 @@
 
 import { QuizMode } from '../types/enums';
 import { normalizeNewlines } from './translation';
-import { appState } from '../store';
 import { apiPost } from './api';
 
 export interface MeaningItem {
@@ -22,13 +21,61 @@ export interface SelectMeaningsResult {
   displayText: string;
 }
 
+export interface SemanticCallRecord {
+  input: string;
+  target: string;
+  match: boolean;
+  score?: number;
+  latencyMs?: number;
+}
+
 export interface CheckAnswerResult {
   isCorrect: boolean;
   isPartial: boolean;
   /** EnToZh 单词模式：字符串匹配命中 / 未命中的用户释义片段（用于逐义项红绿纠错） */
   zhCorrect?: string[];
   zhWrong?: string[];
+  /** EnToZh 单词模式：语义兜底的调用明细（供判题日志） */
+  semantic?: {
+    used: boolean;
+    available: boolean;
+    calls: SemanticCallRecord[];
+  };
 }
+
+/** 语义打分器单次结果 */
+export interface SemanticScoreResult {
+  match: boolean;
+  score?: number;
+  latencyMs?: number;
+  /** false = 打分器不可用（模型缺失 / 超时 / 报错） */
+  available?: boolean;
+}
+
+/** 语义判分器：判断单个用户片段与某个正确义项是否语义等价 */
+export type SemanticScorer = (userFragment: string, correctMeaning: string) => Promise<SemanticScoreResult>;
+
+export interface CheckQuizOptions {
+  /** 是否启用语义兜底，默认 true */
+  semanticEnabled?: boolean;
+  /** 语义判分器；缺省经本地后端 /api/semantic-similarity */
+  scorer?: SemanticScorer;
+}
+
+// 默认适配器：经本地后端 /api/semantic-similarity（保留原生产行为，失败静默）
+const defaultHttpScorer: SemanticScorer = async (input, target) => {
+  const t0 = Date.now();
+  try {
+    const r = await apiPost('/api/semantic-similarity', { text1: input, text2: target });
+    const latencyMs = Date.now() - t0;
+    if (r && r.success && r.data) {
+      return { match: !!r.data.isSimilar, score: r.data.score, latencyMs, available: true };
+    }
+    return { match: false, latencyMs, available: false };
+  } catch {
+    return { match: false, latencyMs: Date.now() - t0, available: false };
+  }
+};
 
 // 常见词性标签白名单；不在此列表的标记（如 na.）直接忽略，避免显示成奇怪前缀
 const VALID_POS_TAGS = new Set([
@@ -285,12 +332,17 @@ export async function checkQuizAnswer(
   mode: QuizMode,
   isSentence: boolean,
   acceptableAnswers?: string[],
-  extraCorrectMeanings?: string[]
+  extraCorrectMeanings?: string[],
+  options?: CheckQuizOptions
 ): Promise<CheckAnswerResult> {
+  const semanticEnabled = options?.semanticEnabled !== false;
+  const scorer: SemanticScorer = options?.scorer ?? defaultHttpScorer;
   let isCorrect = false;
   let isPartial = false;
   let zhCorrect: string[] | undefined;
   let zhWrong: string[] | undefined;
+  const semanticCalls: SemanticCallRecord[] = [];
+  let scorerAvailable: boolean | null = null;
 
   if (mode === QuizMode.ZhToEn || mode === QuizMode.Dictation || mode === QuizMode.Spelling || mode === QuizMode.ListeningStuck) {
     if (isSentence) {
@@ -345,22 +397,16 @@ export async function checkQuizAnswer(
           continue;
         }
         let semOk = false;
-        // 仅在开启「语义相似度模型」时调用。text1 与每个正确义项【单独】比对：
+        // 仅在启用语义兜底时调用注入的 scorer。用户片段与每个正确义项【单独】比对：
         // 不能把多义项 join 成一串，否则同一词的不同义项（如 fantastic 的「极好的」与「怪诞的」）
         // 混在一起会互相拉低相似度，导致近义说法漏判。
-        if (appState.settings.semanticSimilarityEnabled !== false) {
+        if (semanticEnabled) {
           for (const cm of allCorrectMeanings) {
-            try {
-              // 统一封装带分级超时（语义接口 60s），推理卡住不会永久转圈
-              const result = await apiPost('/api/semantic-similarity', {
-                text1: ua,
-                text2: cm,
-              });
-              if (result.success && result.data?.isSimilar) { semOk = true; break; }
-            } catch {
-              // 模型不可用：不再对剩余义项逐个等超时，该片段按错误处理
-              break;
-            }
+            const r = await scorer(ua, cm);
+            semanticCalls.push({ input: ua, target: cm, match: r.match, score: r.score, latencyMs: r.latencyMs });
+            if (r.available === false) { scorerAvailable = false; break; }
+            scorerAvailable = true;
+            if (r.match) { semOk = true; break; }
           }
         }
         if (semOk) correctUserAnswers.push(ua);
@@ -375,8 +421,55 @@ export async function checkQuizAnswer(
       } else if (correctUserAnswers.length > 0 && wrongUserAnswers.length > 0) {
         isPartial = true;
       }
+
+      return {
+        isCorrect,
+        isPartial,
+        zhCorrect,
+        zhWrong,
+        semantic: { used: semanticEnabled, available: scorerAvailable === true, calls: semanticCalls },
+      };
     }
   }
 
   return { isCorrect, isPartial, zhCorrect, zhWrong };
+}
+
+// ===== 错题义项权重（纯函数） =====
+
+export interface MeaningWeight {
+  weight: number;
+  errorCount: number;
+  correctCount: number;
+}
+
+type MeaningWeightInput = { weight?: number; errorCount: number; correctCount: number };
+
+/** 单次作答后更新单个义项权重：答对降权(×0.9，下限 0.1)，答错升权(×1.1) */
+export function updateMeaningWeight(prev: MeaningWeightInput | undefined, isCorrect: boolean): MeaningWeight {
+  const base: MeaningWeight = {
+    weight: prev?.weight ?? 1,
+    errorCount: prev?.errorCount ?? 0,
+    correctCount: prev?.correctCount ?? 0,
+  };
+  if (isCorrect) {
+    return { ...base, correctCount: base.correctCount + 1, weight: Math.max(0.1, base.weight * 0.9) };
+  }
+  return { ...base, errorCount: base.errorCount + 1, weight: base.weight * 1.1 };
+}
+
+/** 对一组义项批量更新权重（纯函数，返回新 map，不改原对象） */
+export function updateMeaningWeights(
+  prevMap: Record<string, MeaningWeightInput> | undefined,
+  definitions: string[],
+  isCorrect: boolean
+): Record<string, MeaningWeight> {
+  const next: Record<string, MeaningWeight> = {};
+  for (const [k, v] of Object.entries(prevMap ?? {})) {
+    next[k] = { weight: v.weight ?? 1, errorCount: v.errorCount, correctCount: v.correctCount };
+  }
+  for (const def of definitions) {
+    next[def] = updateMeaningWeight(next[def], isCorrect);
+  }
+  return next;
 }

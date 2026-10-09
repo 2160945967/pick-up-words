@@ -6220,3 +6220,35 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 - macOS 暂未签名 / 公证：用户首次打开需「右键 → 打开」；要彻底消除提示需 Apple 开发者账号。
 - GitHub Release 单文件 ≤2GB：若某平台离线包压缩后超限需改分卷（当前预估 <2GB，待 CI 实测）。
 - 云同步仍不做（无服务器），维持导出 / 导入迁移数据。
+
+## 37. 判题可观测性、判题纯函数化与安全加固（重构三阶段，2026-10-09）
+
+依据 `REFACTOR_PLAN.md`（重构工作底稿，git 未跟踪）对代码逐条核实后落地，分三段。
+
+### 37.1 阶段 0：判题可观测性（JSONL 日志 + 评测集 + 阈值扫描）
+
+- **判题日志**：新增主进程服务 `electron/services/gradingLog.ts`，把每次判题结果追加到 `USER_DATA_DIR/logs/grading-log.jsonl`（schema `grading-v1`，每天首次写入清理、保留 14 天，失败静默）；渲染端 `src/utils/gradingLog.ts` 构造条目（模式、目标、输入、判定、语义分数、FSRS grade），在 `quiz.ts` 的 checkAnswer 内统一记录。设置项 `gradingLogEnabled`（默认开），设置页可开关并导出日志（`GET /api/grading-log/export`）。
+- **评测集**：`tools/gen_grading_eval.py` 人工标注生成 `tests/fixtures/grading-eval.jsonl`，320 条（positive 130 / hard-negative 110 / literal 80；en-to-zh 250、zh-to-en 70），覆盖同义换述、反义否定、范畴偏移、无关词、标点空格、英美拼写、漏字母 / 换位等。
+- **阈值扫描（关键结论）**：`tools/scan-semantic-threshold.cjs` 以与线上完全一致的配置（MacBERT feature-extraction、mean pooling、L2 归一、向量余弦）评估 220 条 en-to-zh 样本。正例分数中位 0.749、负例中位 0.639，**两类大面积重叠**：数学最优阈值 0.86（precision≥0.95）下 recall 仅 0.146；当前线上 0.58 为 precision 0.654 / recall 0.915（F1 最高）。误放行集中在同语义场范畴词（计算器 / 计算机 0.889、艺术家 / 艺术 0.849）与反义词（减少 / 增加 0.834）。这是双编码器均值余弦的**结构性限制，调阈值无法解决**；报告 `tests/fixtures/semantic-threshold-report.json` 给出的方向（cross-encoder / 中文 NLI / 规则补否定与包含关系 / 语义低权重）需另行决策，本次未换模型。
+
+### 37.2 阶段 1：判题逻辑纯函数化与可测试
+
+- `checkQuizAnswer` 末参新增 `options?`（`src/utils/quizHelper.ts`）：语义打分经 `SemanticScorer` 接口注入（默认 `defaultHttpScorer` 走 `/api/semantic-similarity`，失败静默），结果携带 `semantic:{used,available,calls}`，使判题在无网络 / 无 DOM 下可测。
+- 错题权重抽为纯函数 `updateMeaningWeight` / `updateMeaningWeights`（答对 ×0.9 下限 0.1、答错 ×1.1，不改原对象），`quiz.ts` 两处内联更新改为调用。
+- FSRS grade 决策集中为 `scheduler.ts` 的 `decideFsrsGrade`（again / hard / good / easy 表驱动），`recordLearningHistory` 与判题日志共用。
+- 测验会话改纯 reducer：`quizSession.ts` 新增 `sessionReducer(state,event)`，`markAnswered` 委托它。
+- 后端语义服务新增 `evaluateSemanticSimilarity`，端点返回 `{isSimilar,score,threshold}`。
+
+### 37.3 D7：去内联事件与 CSP 收紧
+
+- 全量审计 82 处 `innerHTML/outerHTML/insertAdjacentHTML`（13 文件），修复 3 处错误消息未转义（`backup.ts:180`、`dictionary.ts:1868/1871`），其余动态回显均已 `escapeHtml`。
+- src 25 处 + index.html 3 处内联 `onclick` 全部替换为 `data-action`：全局动作（camelCase）由 `global-registry.ts` 的 `initActionDelegation()` 在 document 捕获阶段统一分发，`data-stop` 阻止冒泡；exam / charts / dictionary 的局部 kebab-case 动作仍由各模块委托处理。
+- 两段内联无障碍脚本（弹窗焦点陷阱、键盘可访问性）外置为 `src/a11y/focusTrap.ts`、`src/a11y/keyboard.ts`，由 `main.ts` 引入；仅保留 head 中防主题闪烁的必要内联脚本。
+- **CSP**：`script-src` 去掉 `'unsafe-inline'`，改为 `'self' https://unpkg.com 'sha256-…'`。新增构建后工具 `tools/inject-csp-hash.cjs`（已接入 `npm run build`），自动扫描产物内联脚本、计算并注入 hash，源码改动后无需手工维护。
+- 双向真机验证（静态 http 托管 static）：合法脚本（防闪烁 hash、主 bundle、Vue CDN）全部放行、页面正常渲染；动态注入的未授权内联脚本被 CSP 拦截并上报。
+
+### 37.4 验证记录
+
+- `npm run typecheck`、`npm run typecheck:electron` 0 错误；`npm test` 12 文件 **124 项全部通过**（新增 actionDelegation 7 项；quizAnswer 26、scheduler 12、quizSession 8）。
+- `npm run build` 通过并自动注入 CSP hash；产物已同步 `static/`。
+- 遗留：原阶段 2（localStorage→SQLite）涉及本地数据、进入前需再确认；GitHub 推送此前受网络重置影响，待网络恢复补推。

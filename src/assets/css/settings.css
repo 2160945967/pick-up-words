@@ -99,6 +99,26 @@ body.dark-mode .setting-item input[type="number"]::-webkit-outer-spin-button {
     line-height: 1.5;
 }
 
+.setting-inline-btn {
+    margin-top: 10px;
+    padding: 6px 14px;
+    border: 1px solid #d5dbe0;
+    border-radius: 8px;
+    background: #f5f7fa;
+    color: #34495e;
+    font-size: 13px;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.1s ease;
+}
+.setting-inline-btn:hover { background: #eaeef2; border-color: #b9c2cc; }
+.setting-inline-btn:active { transform: scale(0.97); }
+html.dark-mode .setting-inline-btn {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.12);
+    color: #d6dde5;
+}
+html.dark-mode .setting-inline-btn:hover { background: rgba(255, 255, 255, 0.1); border-color: rgba(255, 255, 255, 0.2); }
+
 .sortable-container {
     position: relative;
 }

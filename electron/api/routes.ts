@@ -11,7 +11,8 @@ import { getTTS } from '../services/tts';
 import { recognizeWithSherpa, isSherpaModelReady } from '../services/sherpa_asr';
 import { translateText, getCachedTranslation, putCachedTranslation, getTranslationCacheData, clearTranslationCache } from '../services/translate';
 import { classifyText, normalizeCaseByType } from '../services/nlp';
-import { checkSemanticSimilarity } from '../services/semanticSimilarity';
+import { checkSemanticSimilarity, evaluateSemanticSimilarity } from '../services/semanticSimilarity';
+import { appendGradingLog, getGradingLogPath } from '../services/gradingLog';
 import {
   successResponse, errorResponse, ensureDirExists,
   getRequestParam, normalizeWordForFilename, ROOT_DIR, APP_ROOT_DIR, CACHE_DIR, ASSETS_DIR, USER_DATA_DIR, resolveAssetPath,
@@ -1972,10 +1973,42 @@ export function setupRoutes(app: any) {
         return;
       }
 
-      const isSimilar = await checkSemanticSimilarity(text1, text2, threshold);
-      res.json(successResponse({ isSimilar, threshold }));
+      const sem = await evaluateSemanticSimilarity(text1, text2, threshold);
+      res.json(successResponse({ isSimilar: sem.similar, score: sem.score, threshold }));
     } catch (e: any) {
       res.status(500).json(errorResponse(e.message || '语义相似度判断失败', 500));
+    }
+  });
+
+  // ---------------- 判题日志（全本地，供评测集采样 / 阈值标定） ----------------
+  // 追加一条判题记录
+  app.post('/api/grading-log', (req: Request, res: Response) => {
+    try {
+      const entry = req.body && req.body.entry ? req.body.entry : req.body;
+      if (!entry || typeof entry !== 'object') {
+        res.status(400).json(errorResponse('判题记录格式不正确'));
+        return;
+      }
+      appendGradingLog(entry);
+      res.json(successResponse({ logged: true }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '判题日志写入失败', 500));
+    }
+  });
+
+  // 导出判题日志（下载 JSONL）
+  app.get('/api/grading-log/export', (req: Request, res: Response) => {
+    try {
+      const file = getGradingLogPath();
+      if (!fs.existsSync(file)) {
+        res.status(404).json(errorResponse('暂无判题日志', 404));
+        return;
+      }
+      res.set('Content-Type', 'application/x-ndjson; charset=utf-8');
+      res.set('Content-Disposition', "attachment; filename*=UTF-8''" + encodeURIComponent('grading-log.jsonl'));
+      res.sendFile(file);
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '判题日志导出失败', 500));
     }
   });
 

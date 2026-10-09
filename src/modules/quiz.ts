@@ -13,9 +13,10 @@ import { updateFavoritesDisplay } from './favorites';
 import { animateCorrectFeedback, animateErrorShake, showToast } from '../utils/gsap';
 import { playCorrectSound, playWrongSound, playCompleteSound, playClickSound } from '../utils/audio';
 import { apiTranslate } from '../utils/api';
-import { selectMeaningsForQuestion, buildMeaningDisplayHtml, checkQuizAnswer, zhMeaningMatch, splitEcdictTranslation, type CheckAnswerResult } from '../utils/quizHelper';
+import { selectMeaningsForQuestion, buildMeaningDisplayHtml, checkQuizAnswer, zhMeaningMatch, splitEcdictTranslation, updateMeaningWeights, type CheckAnswerResult } from '../utils/quizHelper';
 import { safeParse } from '../utils/storage';
-import { computeFsrs, type FsrsGrade } from '../utils/scheduler';
+import { computeFsrs, decideFsrsGrade, type FsrsGrade } from '../utils/scheduler';
+import { buildGradingEntry, logGrading } from '../utils/gradingLog';
 import {
     recordWordLearned, getStreakData, getTodayEntry, fireCelebration,
     type GamEvent,
@@ -259,11 +260,11 @@ export function recordLearningHistory(word: string, isCorrect: boolean): void {
         // 答错（含主动看答案揭晓）→ Again；本轮错过后才答对 → Hard；
         // 一次答对且该卡已复习 3 次以上（成熟卡仍秒答）→ Easy；其余一次答对 → Good
         const oldCard = learningHistory[word].card;
-        let grade: FsrsGrade;
-        if (!isCorrect) grade = 'again';
-        else if (appState.errorCount > 0) grade = 'hard';
-        else if (oldCard && Number(oldCard.reps) >= 3) grade = 'easy';
-        else grade = 'good';
+        const grade = decideFsrsGrade({
+            isCorrect,
+            errorCountThisRound: appState.errorCount,
+            oldReps: oldCard ? Number(oldCard.reps) : undefined,
+        });
 
         const r = computeFsrs(oldCard, grade, now);
         learningHistory[word].card = r.card;
@@ -340,7 +341,7 @@ function formatDayLabel(dayKey: string): string {
 function buildWordHtml(word: string, timestamp: number, showRemove: boolean = false): string {
     const timeStr = new Date(timestamp).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
     const removeBtn = showRemove
-        ? `<button class="wordlist-btn remove-btn" onclick="event.stopPropagation(); g('removeDueWord', '${escapeForJsString(word)}')">移除</button>`
+        ? `<button class="wordlist-btn remove-btn" data-action="removeDueWord" data-word="${escapeHtml(word)}" data-stop>移除</button>`
         : '';
     const words = word.trim().split(/\s+/);
     let type = 'word';
@@ -360,13 +361,13 @@ function buildWordHtml(word: string, timestamp: number, showRemove: boolean = fa
         <div class="wordlist-item">
             <div class="wordlist-word quiz-word-row">
                 <span class="type-badge ${type}">${typeLabel}</span>
-                <a href="#" onclick="g('navigateToWord', '${escapeForJsString(word)}'); return false;" class="quiz-word-link">${escapeHtml(displayWord)}</a>
+                <a href="#" data-action="navigateToWord" data-word="${escapeHtml(word)}" class="quiz-word-link">${escapeHtml(displayWord)}</a>
                 <span class="quiz-word-hint">${hintText}</span>
                 <span class="quiz-word-time">${timeStr}</span>
             </div>
             <div class="wordlist-actions">
-                <button class="wordlist-btn" onclick="g('playPronunciation', 'us', '${escapeForJsString(word)}')">美式发音</button>
-                <button class="wordlist-btn" onclick="g('playPronunciation', 'uk', '${escapeForJsString(word)}')">英式发音</button>
+                <button class="wordlist-btn" data-action="playPronunciation" data-pron="us" data-word="${escapeHtml(word)}">美式发音</button>
+                <button class="wordlist-btn" data-action="playPronunciation" data-pron="uk" data-word="${escapeHtml(word)}">英式发音</button>
                 ${removeBtn}
             </div>
         </div>
@@ -433,7 +434,7 @@ export function showLearningHistory(): void {
 
         return `
             <div class="history-day-group">
-                <div class="history-day-header" onclick="g('toggleHistoryDay', this)">
+                <div class="history-day-header" data-action="toggleHistoryDay">
                     <span class="history-collapse-arrow history-day-arrow">▼</span>
                     <span class="history-day-date">${dayLabel}</span>
                     <span class="history-day-count">${words.length} 个词</span>
@@ -1071,7 +1072,7 @@ export async function generateQuestion(): Promise<void> {
         quizQuestion.innerHTML = `
             <p><strong>听写模式：</strong></p>
             <p style="margin-top: 10px;">请听发音并写出单词</p>
-            <button class="quiz-play-btn" onclick="g('playPronunciation', '${appState.settings.pronunciationType}', '${escapeForJsString(appState.currentQuizWord.word)}')">
+            <button class="quiz-play-btn" data-action="playPronunciation" data-pron="${appState.settings.pronunciationType}" data-word="${escapeHtml(appState.currentQuizWord.word)}">
                 🔊 播放发音
             </button>
         `;
@@ -1083,7 +1084,7 @@ export async function generateQuestion(): Promise<void> {
         quizQuestion.innerHTML = `
             <p><strong>听力卡壳词追踪：</strong></p>
             <p style="margin-top: 10px;">${isSentence ? '请听发音并写出整句' : '请听发音并写出单词'}</p>
-            <button class="quiz-play-btn" onclick="g('playPronunciation', '${appState.settings.pronunciationType}', '${escapeForJsString(appState.currentQuizWord.word)}')">
+            <button class="quiz-play-btn" data-action="playPronunciation" data-pron="${appState.settings.pronunciationType}" data-word="${escapeHtml(appState.currentQuizWord.word)}">
                 🔊 播放发音
             </button>
             ${isSentence && appState.currentQuizWord.meanings && appState.currentQuizWord.meanings[0]?.definition
@@ -1097,7 +1098,7 @@ export async function generateQuestion(): Promise<void> {
         const meaningsHtml = buildMeaningDisplayHtml(selectedMeanings, formatDefinitionHtml);
 
         const pronunciationKey = appState.settings.playPronunciationKey || '2';
-        const speakerHtml = `<button type="button" id="quiz-speak-btn" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" onclick="g('playPronunciation', '${appState.settings.pronunciationType}', '${escapeForJsString(appState.currentQuizWord.word)}')">🔊</button>`;
+        const speakerHtml = `<button type="button" id="quiz-speak-btn" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" data-action="playPronunciation" data-pron="${appState.settings.pronunciationType}" data-word="${escapeHtml(appState.currentQuizWord.word)}">🔊</button>`;
 
         quizQuestion.innerHTML = `<p><strong>跟练模式：</strong></p><p>看着下方浅色的完整拼写逐字母跟打，输对的字母会变清晰</p><p class="quiz-zh-to-en-meanings">${meaningsHtml}${speakerHtml}</p>`;
     } else if (appState.currentQuizMode === QuizMode.ZhToEn) {
@@ -1105,13 +1106,13 @@ export async function generateQuestion(): Promise<void> {
         const meaningsHtml = buildMeaningDisplayHtml(selectedMeanings, formatDefinitionHtml);
 
         const pronunciationKey = appState.settings.playPronunciationKey || '2';
-        const speakerHtml = `<button type="button" id="quiz-speak-btn" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" onclick="g('playPronunciation', '${appState.settings.pronunciationType}', '${escapeForJsString(appState.currentQuizWord.word)}')">🔊</button>`;
+        const speakerHtml = `<button type="button" id="quiz-speak-btn" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" data-action="playPronunciation" data-pron="${appState.settings.pronunciationType}" data-word="${escapeHtml(appState.currentQuizWord.word)}">🔊</button>`;
 
         quizQuestion.innerHTML = `<p><strong>请写出对应的英文单词：</strong></p><p class="quiz-zh-to-en-meanings">${meaningsHtml}${speakerHtml}</p>`;
     } else {
         // 英文 -> 中文模式
         const pronunciationKey = appState.settings.playPronunciationKey || '2';
-        const speakerHtml = `<button type="button" id="quiz-speak-btn" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" onclick="g('playPronunciation', '${appState.settings.pronunciationType}', '${escapeForJsString(appState.currentQuizWord.word)}')">🔊</button>`;
+        const speakerHtml = `<button type="button" id="quiz-speak-btn" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" data-action="playPronunciation" data-pron="${appState.settings.pronunciationType}" data-word="${escapeHtml(appState.currentQuizWord.word)}">🔊</button>`;
 
         const displayWord = normalizeCaseByType(appState.currentQuizWord.word);
         let questionHtml = `<p><strong>请写出对应的中文意思：</strong></p><p class="quiz-question-word">${escapeHtml(displayWord)}${speakerHtml}</p>`;
@@ -1536,8 +1537,40 @@ export async function checkAnswer(): Promise<void> {
         appState.currentQuizMode,
         isSentence,
         (appState.currentQuizWord as QuizWordData).answers,
-        (appState.currentQuizWord as QuizWordData).extraMeanings
+        (appState.currentQuizWord as QuizWordData).extraMeanings,
+        { semanticEnabled: appState.settings.semanticSimilarityEnabled !== false }
     );
+
+    // 判题日志（全本地、失败静默）：阶段 0 先记录可取得字段，
+    // 语义分数明细与 gradedGrade 随阶段 1（注入化 / grade 集中）补全。
+    {
+        const srcEl = document.getElementById('word-source') as HTMLSelectElement | null;
+        const wd = appState.currentQuizWord as QuizWordData;
+        let gradedGrade: FsrsGrade | null = null;
+        if (appState.settings.scheduler === 'fsrs') {
+            // 此时 errorCount 反映本轮此前的错误次数（本次答错的 ++ 在其后），
+            // 与 recordLearningHistory 的评分口径一致。
+            const hist = safeParse<Record<string, { card?: { reps?: number } }>>('learningHistory', {});
+            const oldCard = hist[wd.word]?.card;
+            gradedGrade = decideFsrsGrade({
+                isCorrect: result.isCorrect,
+                errorCountThisRound: appState.errorCount,
+                oldReps: oldCard ? Number(oldCard.reps) : undefined,
+            });
+        }
+        const entry = buildGradingEntry({
+            mode: appState.currentQuizMode,
+            word: wd.word,
+            source: srcEl ? srcEl.value : '',
+            targetMeanings: collectCorrectMeanings(wd),
+            userInput: answer,
+            result,
+            cloze: appState.settings.showExampleInQuiz === true,
+            semanticEnabled: appState.settings.semanticSimilarityEnabled !== false,
+            gradedGrade,
+        });
+        void logGrading(entry);
+    }
 
     if (result.isCorrect) {
         // 完全正确
@@ -1561,23 +1594,12 @@ export async function checkAnswer(): Promise<void> {
             appState.errorbook[appState.currentQuizWord.word].correctCount++;
 
             if (appState.currentQuizMode !== QuizMode.Dictation) {
-                appState.currentQuizMeanings.forEach(meaning => {
-                    if (!appState.errorbook[appState.currentQuizWord.word].meaningWeights) {
-                        appState.errorbook[appState.currentQuizWord.word].meaningWeights = {};
-                    }
-                    if (!appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition]) {
-                        appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition] = {
-                            weight: 1,
-                            errorCount: 0,
-                            correctCount: 0
-                        };
-                    }
-                    appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition].correctCount++;
-                    appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition].weight = Math.max(
-                        0.1,
-                        appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition].weight * 0.9
-                    );
-                });
+                const eb = appState.errorbook[appState.currentQuizWord.word];
+                eb.meaningWeights = updateMeaningWeights(
+                    eb.meaningWeights,
+                    appState.currentQuizMeanings.map(m => m.definition),
+                    true
+                );
             }
 
             if (appState.errorbook[appState.currentQuizWord.word].correctCount >= appState.settings.errorCorrectCount) {
@@ -1630,20 +1652,12 @@ export async function checkAnswer(): Promise<void> {
         }
 
         if (appState.currentQuizMode !== QuizMode.Dictation) {
-            if (!appState.errorbook[appState.currentQuizWord.word].meaningWeights) {
-                appState.errorbook[appState.currentQuizWord.word].meaningWeights = {};
-            }
-            appState.currentQuizMeanings.forEach(meaning => {
-                if (!appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition]) {
-                    appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition] = {
-                        weight: 1,
-                        errorCount: 0,
-                        correctCount: 0
-                    };
-                }
-                appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition].errorCount++;
-                appState.errorbook[appState.currentQuizWord.word].meaningWeights[meaning.definition].weight *= 1.1;
-            });
+            const eb = appState.errorbook[appState.currentQuizWord.word];
+            eb.meaningWeights = updateMeaningWeights(
+                eb.meaningWeights,
+                appState.currentQuizMeanings.map(m => m.definition),
+                false
+            );
         }
 
         localStorage.setItem('errorbook', JSON.stringify(appState.errorbook));
@@ -1695,7 +1709,7 @@ function markAsListeningStuck(wordData: QuizWordData): void {
 function linkifyWords(text: string): string {
     const safe = escapeHtml(text || '');
     return safe.replace(/([a-zA-Z]+(?:'[a-zA-Z]+)?)/g, m =>
-        `<a href="#" onclick="g('jumpToWord','${escapeForJsString(m.toLowerCase())}');return false;" class="quiz-clickable-word">${m}</a>`);
+        `<a href="#" data-action="jumpToWord" data-word="${escapeHtml(m.toLowerCase())}" class="quiz-clickable-word">${m}</a>`);
 }
 
 // 英译中（EnToZh）逐义项红绿纠错：把用户输入按分隔符切成多个中文释义，
@@ -1765,7 +1779,7 @@ function buildBookExtraHtml(wd: QuizWordData): string {
     const blocks: string[] = [];
 
     if (be.derivedFrom) {
-        blocks.push(`<div class="be-block be-derived-from"><div class="be-h">🔗 派生词</div><p>自主词 <a class="quiz-clickable-word" href="#" onclick="g('jumpToWord','${escapeForJsString(be.derivedFrom.toLowerCase())}');return false;">${escapeHtml(be.derivedFrom)}</a> 派生，结合词根对照记忆</p></div>`);
+        blocks.push(`<div class="be-block be-derived-from"><div class="be-h">🔗 派生词</div><p>自主词 <a class="quiz-clickable-word" href="#" data-action="jumpToWord" data-word="${escapeHtml(be.derivedFrom.toLowerCase())}">${escapeHtml(be.derivedFrom)}</a> 派生，结合词根对照记忆</p></div>`);
     }
 
     if (be.mem && be.mem.trim()) {
@@ -1786,7 +1800,7 @@ function buildBookExtraHtml(wd: QuizWordData): string {
     if (be.der && be.der.length > 0 && !appState.settings.includeDerivations) {
         const items = be.der.map(d => {
             const def = (d.pos || []).map(x => `${x.p ? escapeHtml(x.p) + '. ' : ''}${escapeHtml(x.d)}`).join('；');
-            return `<span class="be-der-item"><a class="be-der-w quiz-clickable-word" href="#" onclick="g('jumpToWord','${escapeForJsString(d.w.toLowerCase())}');return false;">${escapeHtml(d.w)}</a>${d.ph ? ` <span class="be-der-ph">/${escapeHtml(d.ph)}/</span>` : ''}${def ? ` <span class="be-der-d">${def}</span>` : ''}</span>`;
+            return `<span class="be-der-item"><a class="be-der-w quiz-clickable-word" href="#" data-action="jumpToWord" data-word="${escapeHtml(d.w.toLowerCase())}">${escapeHtml(d.w)}</a>${d.ph ? ` <span class="be-der-ph">/${escapeHtml(d.ph)}/</span>` : ''}${def ? ` <span class="be-der-d">${def}</span>` : ''}</span>`;
         }).join('');
         blocks.push(`<div class="be-block be-deriv"><div class="be-h">🔗 派生词</div><div class="be-der-list">${items}</div></div>`);
     }
@@ -1842,7 +1856,7 @@ export function showAnswer(manual: boolean = false): void {
     if (!isSentence && !hasBookExample) {
         const appendExampleCard = (example: { text: string; translation: string }) => {
             const exampleText = example.text.replace(/([a-zA-Z]+(?:'[a-zA-Z]+)?)/g, (match: string) => {
-                return '<a href="#" onclick="g(\'jumpToWord\', \'' + escapeForJsString(match.toLowerCase()) + '\'); return false;" class="quiz-clickable-word">' + escapeHtml(match) + '</a>';
+                return '<a href="#" data-action="jumpToWord" data-word="' + escapeHtml(match.toLowerCase()) + '" class="quiz-clickable-word">' + escapeHtml(match) + '</a>';
             });
             let exampleHtml = '<div class="quiz-example-section">';
             exampleHtml += '<h3 class="quiz-example-heading"><span>📖</span> 例句</h3>';
@@ -2017,7 +2031,7 @@ function buildCurrentRoundStuckWordsHtml(): string {
             ? escapeHtml(stuck.meanings[0].definition)
             : '';
         return `<li class="quiz-stuck-word-item">
-            <span class="quiz-stuck-word-text" onclick="g('jumpToWord', '${escapeForJsString(word)}')">${escapeHtml(word)}</span>
+            <span class="quiz-stuck-word-text" data-action="jumpToWord" data-word="${escapeHtml(word)}">${escapeHtml(word)}</span>
             ${meaning ? `<span class="quiz-stuck-word-meaning">${meaning}</span>` : ''}
             <span class="quiz-stuck-word-count">卡壳 ${stuck?.stuckCount || 1} 次</span>
         </li>`;

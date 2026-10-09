@@ -95,15 +95,30 @@ export async function calculateSimilarity(text1: string, text2: string): Promise
  * @param threshold 相似度阈值（默认0.58）
  * @returns 是否相似，模型不可用时返回 false
  */
+export interface SemanticEvalResult {
+  similar: boolean;
+  score: number | null;
+  threshold: number;
+}
+
+/** 同时给出是否相似与余弦分数（供 API 返回与判题日志记录） */
+export async function evaluateSemanticSimilarity(
+  userInput: string,
+  correctAnswer: string,
+  threshold: number = 0.58
+): Promise<SemanticEvalResult> {
+  const similarity = await calculateSimilarity(userInput, correctAnswer);
+  if (similarity === null) return { similar: false, score: null, threshold };
+  console.log(`[SemanticSimilarity] "${userInput}" vs "${correctAnswer}" = ${similarity.toFixed(3)} (阈值: ${threshold})`);
+  return { similar: similarity >= threshold, score: similarity, threshold };
+}
+
 export async function checkSemanticSimilarity(
   userInput: string,
   correctAnswer: string,
   threshold: number = 0.58
 ): Promise<boolean> {
-  const similarity = await calculateSimilarity(userInput, correctAnswer);
-  if (similarity === null) return false;
-  console.log(`[SemanticSimilarity] "${userInput}" vs "${correctAnswer}" = ${similarity.toFixed(3)} (阈值: ${threshold})`);
-  return similarity >= threshold;
+  return (await evaluateSemanticSimilarity(userInput, correctAnswer, threshold)).similar;
 }
 
 /**

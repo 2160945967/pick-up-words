@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import { checkQuizAnswer, zhMeaningMatch, splitEcdictTranslation } from '../src/utils/quizHelper';
+import { checkQuizAnswer, zhMeaningMatch, splitEcdictTranslation, updateMeaningWeight, updateMeaningWeights } from '../src/utils/quizHelper';
 import { QuizMode } from '../src/types/enums';
 import { apiPost } from '../src/utils/api';
 import { appState } from '../src/store';
@@ -94,5 +94,59 @@ describe('splitEcdictTranslation', () => {
   it('空输入返回空数组', () => {
     expect(splitEcdictTranslation('')).toEqual([]);
     expect(splitEcdictTranslation(null)).toEqual([]);
+  });
+});
+
+describe('checkQuizAnswer 依赖注入', () => {
+  const meanings = [{ part: 'adv.', definition: '或许' }];
+
+  it('使用注入的 scorer，并在结果中返回语义明细', async () => {
+    const scorer = vi.fn().mockResolvedValue({ match: true, score: 0.72, latencyMs: 5, available: true });
+    const r = await checkQuizAnswer('也许', 'probably', meanings, M.EnToZh, false, undefined, undefined, { scorer });
+    expect(r.isCorrect).toBe(true);
+    expect(scorer).toHaveBeenCalledWith('也许', '或许');
+    expect(r.semantic?.available).toBe(true);
+    expect(r.semantic?.calls[0].score).toBe(0.72);
+  });
+
+  it('semanticEnabled=false 时不调用 scorer', async () => {
+    const scorer = vi.fn();
+    const r = await checkQuizAnswer(
+      '也许', 'probably', meanings, M.EnToZh, false, undefined, undefined,
+      { scorer, semanticEnabled: false },
+    );
+    expect(r.isCorrect).toBe(false);
+    expect(scorer).not.toHaveBeenCalled();
+    expect(r.semantic?.used).toBe(false);
+  });
+
+  it('scorer 不可用(available=false)时该片段按错误处理', async () => {
+    const scorer = vi.fn().mockResolvedValue({ match: false, available: false });
+    const r = await checkQuizAnswer('也许', 'probably', meanings, M.EnToZh, false, undefined, undefined, { scorer });
+    expect(r.semantic?.available).toBe(false);
+    expect(r.zhWrong).toEqual(['也许']);
+  });
+});
+
+describe('错题义项权重 updateMeaningWeight(s)', () => {
+  it('答对：correctCount++ 且权重 ×0.9', () => {
+    const r = updateMeaningWeight({ weight: 1, errorCount: 0, correctCount: 0 }, true);
+    expect(r.correctCount).toBe(1);
+    expect(r.weight).toBeCloseTo(0.9);
+  });
+  it('答对降权有 0.1 下限', () => {
+    const r = updateMeaningWeight({ weight: 0.1, errorCount: 2, correctCount: 3 }, true);
+    expect(r.weight).toBeCloseTo(0.1);
+  });
+  it('答错（无初始记录）：errorCount=1 且权重 ×1.1', () => {
+    const r = updateMeaningWeight(undefined, false);
+    expect(r.errorCount).toBe(1);
+    expect(r.weight).toBeCloseTo(1.1);
+  });
+  it('批量更新且不修改原 map', () => {
+    const prev = { a: { weight: 1, errorCount: 0, correctCount: 0 } };
+    const next = updateMeaningWeights(prev, ['a'], true);
+    expect(next.a.weight).toBeCloseTo(0.9);
+    expect(prev.a.weight).toBe(1);
   });
 });

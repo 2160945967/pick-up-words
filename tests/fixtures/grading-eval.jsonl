@@ -1,0 +1,320 @@
+{"id": "E001", "mode": "en-to-zh", "cat": "positive", "word": "probably", "target": ["或许", "大概"], "input": "也许", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E002", "mode": "en-to-zh", "cat": "positive", "word": "abandon", "target": ["抛弃", "放弃"], "input": "舍弃", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E003", "mode": "en-to-zh", "cat": "positive", "word": "abundant", "target": ["丰富的", "充裕的"], "input": "充足的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E004", "mode": "en-to-zh", "cat": "positive", "word": "accurate", "target": ["精确的", "准确的"], "input": "精准的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E005", "mode": "en-to-zh", "cat": "positive", "word": "acquire", "target": ["获得", "取得"], "input": "获取", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E006", "mode": "en-to-zh", "cat": "positive", "word": "adequate", "target": ["充足的", "适当的"], "input": "足够的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E007", "mode": "en-to-zh", "cat": "positive", "word": "adjust", "target": ["调整", "适应"], "input": "调节", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E008", "mode": "en-to-zh", "cat": "positive", "word": "admire", "target": ["钦佩", "欣赏"], "input": "佩服", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E009", "mode": "en-to-zh", "cat": "positive", "word": "admit", "target": ["承认", "准许进入"], "input": "供认", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E010", "mode": "en-to-zh", "cat": "positive", "word": "adopt", "target": ["采用", "收养"], "input": "采纳", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E011", "mode": "en-to-zh", "cat": "positive", "word": "advocate", "target": ["提倡", "拥护"], "input": "倡导", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E012", "mode": "en-to-zh", "cat": "positive", "word": "affect", "target": ["影响"], "input": "波及", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E013", "mode": "en-to-zh", "cat": "positive", "word": "afford", "target": ["买得起", "承担得起"], "input": "负担得起", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E014", "mode": "en-to-zh", "cat": "positive", "word": "aggressive", "target": ["侵略的", "好斗的"], "input": "有攻击性的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E015", "mode": "en-to-zh", "cat": "positive", "word": "aid", "target": ["援助", "帮助"], "input": "帮忙", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E016", "mode": "en-to-zh", "cat": "positive", "word": "alter", "target": ["改变", "更改"], "input": "改动", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E017", "mode": "en-to-zh", "cat": "positive", "word": "amaze", "target": ["使惊奇"], "input": "使惊讶", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E018", "mode": "en-to-zh", "cat": "positive", "word": "amuse", "target": ["逗乐", "娱乐"], "input": "使开心", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E019", "mode": "en-to-zh", "cat": "positive", "word": "analyze", "target": ["分析"], "input": "剖析", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E020", "mode": "en-to-zh", "cat": "positive", "word": "ancient", "target": ["古代的", "古老的"], "input": "久远的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E021", "mode": "en-to-zh", "cat": "positive", "word": "announce", "target": ["宣布", "通告"], "input": "公布", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E022", "mode": "en-to-zh", "cat": "positive", "word": "annual", "target": ["每年的", "年度的"], "input": "一年一度的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E023", "mode": "en-to-zh", "cat": "positive", "word": "anticipate", "target": ["预期", "预料"], "input": "预想", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E024", "mode": "en-to-zh", "cat": "positive", "word": "anxious", "target": ["焦虑的", "渴望的"], "input": "焦急的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E025", "mode": "en-to-zh", "cat": "positive", "word": "apparent", "target": ["明显的", "表面上的"], "input": "显而易见的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E026", "mode": "en-to-zh", "cat": "positive", "word": "appeal", "target": ["吸引", "呼吁", "上诉"], "input": "恳求", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E027", "mode": "en-to-zh", "cat": "positive", "word": "appear", "target": ["出现", "显得"], "input": "显现", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E028", "mode": "en-to-zh", "cat": "positive", "word": "applaud", "target": ["鼓掌", "称赞"], "input": "拍手叫好", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E029", "mode": "en-to-zh", "cat": "positive", "word": "appoint", "target": ["任命", "约定"], "input": "委任", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E030", "mode": "en-to-zh", "cat": "positive", "word": "appreciate", "target": ["欣赏", "感激", "领会"], "input": "感谢", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E031", "mode": "en-to-zh", "cat": "positive", "word": "approach", "target": ["接近", "方法"], "input": "靠近", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E032", "mode": "en-to-zh", "cat": "positive", "word": "appropriate", "target": ["适当的"], "input": "恰当的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E033", "mode": "en-to-zh", "cat": "positive", "word": "arise", "target": ["出现", "上升"], "input": "产生", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E034", "mode": "en-to-zh", "cat": "positive", "word": "arrange", "target": ["安排", "整理"], "input": "布置", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E035", "mode": "en-to-zh", "cat": "positive", "word": "arrest", "target": ["逮捕", "阻止"], "input": "拘捕", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E036", "mode": "en-to-zh", "cat": "positive", "word": "assemble", "target": ["集合", "装配"], "input": "聚集", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E037", "mode": "en-to-zh", "cat": "positive", "word": "assess", "target": ["评估", "估价"], "input": "评定", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E038", "mode": "en-to-zh", "cat": "positive", "word": "assign", "target": ["分配", "指派"], "input": "分派", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E039", "mode": "en-to-zh", "cat": "positive", "word": "assist", "target": ["帮助", "协助"], "input": "援助", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E040", "mode": "en-to-zh", "cat": "positive", "word": "associate", "target": ["联系", "联想", "伙伴"], "input": "联想到", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E041", "mode": "en-to-zh", "cat": "positive", "word": "assume", "target": ["假定", "承担"], "input": "假设", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E042", "mode": "en-to-zh", "cat": "positive", "word": "assure", "target": ["保证", "使确信"], "input": "担保", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E043", "mode": "en-to-zh", "cat": "positive", "word": "attach", "target": ["系", "附上", "依恋"], "input": "附属", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E044", "mode": "en-to-zh", "cat": "positive", "word": "attain", "target": ["达到", "获得"], "input": "达成", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E045", "mode": "en-to-zh", "cat": "positive", "word": "attempt", "target": ["尝试", "企图"], "input": "试图", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E046", "mode": "en-to-zh", "cat": "positive", "word": "attend", "target": ["出席", "照料"], "input": "参加", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E047", "mode": "en-to-zh", "cat": "positive", "word": "attract", "target": ["吸引"], "input": "招引", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E048", "mode": "en-to-zh", "cat": "positive", "word": "available", "target": ["可获得的", "有空的"], "input": "可使用的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E049", "mode": "en-to-zh", "cat": "positive", "word": "avoid", "target": ["避免", "避开"], "input": "躲开", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E050", "mode": "en-to-zh", "cat": "positive", "word": "aware", "target": ["意识到的"], "input": "察觉到的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E051", "mode": "en-to-zh", "cat": "positive", "word": "awful", "target": ["糟糕的", "可怕的"], "input": "极差的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E052", "mode": "en-to-zh", "cat": "positive", "word": "awkward", "target": ["尴尬的", "笨拙的"], "input": "难为情的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E053", "mode": "en-to-zh", "cat": "positive", "word": "ban", "target": ["禁止", "禁令"], "input": "取缔", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E054", "mode": "en-to-zh", "cat": "positive", "word": "bear", "target": ["忍受", "生育"], "input": "容忍", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E055", "mode": "en-to-zh", "cat": "positive", "word": "behave", "target": ["表现", "举止"], "input": "行事", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E056", "mode": "en-to-zh", "cat": "positive", "word": "beneficial", "target": ["有益的"], "input": "有好处的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E057", "mode": "en-to-zh", "cat": "positive", "word": "blame", "target": ["责备", "归咎于"], "input": "责怪", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E058", "mode": "en-to-zh", "cat": "positive", "word": "boost", "target": ["促进", "推动"], "input": "拉升", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E059", "mode": "en-to-zh", "cat": "positive", "word": "bother", "target": ["打扰", "麻烦"], "input": "打搅", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E060", "mode": "en-to-zh", "cat": "positive", "word": "brilliant", "target": ["杰出的", "灿烂的"], "input": "出色的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E061", "mode": "en-to-zh", "cat": "positive", "word": "burden", "target": ["负担", "使负重"], "input": "重压", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E062", "mode": "en-to-zh", "cat": "positive", "word": "calculate", "target": ["计算", "估计"], "input": "核算", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E063", "mode": "en-to-zh", "cat": "positive", "word": "cancel", "target": ["取消", "废除"], "input": "撤销", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E064", "mode": "en-to-zh", "cat": "positive", "word": "capacity", "target": ["容量", "能力"], "input": "容积", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E065", "mode": "en-to-zh", "cat": "positive", "word": "cautious", "target": ["谨慎的"], "input": "小心的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E066", "mode": "en-to-zh", "cat": "positive", "word": "challenge", "target": ["挑战", "质疑"], "input": "考验", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E067", "mode": "en-to-zh", "cat": "positive", "word": "characteristic", "target": ["特征", "典型的"], "input": "特点", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E068", "mode": "en-to-zh", "cat": "positive", "word": "chase", "target": ["追逐", "追赶"], "input": "追捕", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E069", "mode": "en-to-zh", "cat": "positive", "word": "cheat", "target": ["欺骗", "作弊"], "input": "蒙骗", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E070", "mode": "en-to-zh", "cat": "positive", "word": "claim", "target": ["声称", "要求", "索赔"], "input": "宣称", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E071", "mode": "en-to-zh", "cat": "positive", "word": "classify", "target": ["分类", "归类"], "input": "分门别类", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E072", "mode": "en-to-zh", "cat": "positive", "word": "combine", "target": ["结合", "联合"], "input": "组合", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E073", "mode": "en-to-zh", "cat": "positive", "word": "command", "target": ["命令", "指挥"], "input": "指令", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E074", "mode": "en-to-zh", "cat": "positive", "word": "comment", "target": ["评论", "议论"], "input": "评价", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E075", "mode": "en-to-zh", "cat": "positive", "word": "commit", "target": ["犯罪", "承诺", "投入"], "input": "投身", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E076", "mode": "en-to-zh", "cat": "positive", "word": "communicate", "target": ["交流", "传达"], "input": "沟通", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E077", "mode": "en-to-zh", "cat": "positive", "word": "compare", "target": ["比较", "对比"], "input": "比照", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E078", "mode": "en-to-zh", "cat": "positive", "word": "compete", "target": ["竞争", "比赛"], "input": "比拼", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E079", "mode": "en-to-zh", "cat": "positive", "word": "complain", "target": ["抱怨", "投诉"], "input": "发牢骚", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E080", "mode": "en-to-zh", "cat": "positive", "word": "complex", "target": ["复杂的", "综合体"], "input": "繁杂的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E081", "mode": "en-to-zh", "cat": "positive", "word": "comprise", "target": ["包含", "组成"], "input": "构成", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E082", "mode": "en-to-zh", "cat": "positive", "word": "concentrate", "target": ["集中", "专心"], "input": "专注", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E083", "mode": "en-to-zh", "cat": "positive", "word": "concept", "target": ["概念", "观念"], "input": "理念", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E084", "mode": "en-to-zh", "cat": "positive", "word": "concern", "target": ["关心", "涉及", "担忧"], "input": "挂念", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E085", "mode": "en-to-zh", "cat": "positive", "word": "conclude", "target": ["推断出", "结束"], "input": "断定", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E086", "mode": "en-to-zh", "cat": "positive", "word": "concrete", "target": ["具体的", "混凝土"], "input": "实在的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E087", "mode": "en-to-zh", "cat": "positive", "word": "conduct", "target": ["实施", "指挥", "行为"], "input": "开展", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E088", "mode": "en-to-zh", "cat": "positive", "word": "confidence", "target": ["信心", "信任"], "input": "自信", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E089", "mode": "en-to-zh", "cat": "positive", "word": "confirm", "target": ["确认", "证实"], "input": "核实", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E090", "mode": "en-to-zh", "cat": "positive", "word": "conflict", "target": ["冲突", "矛盾"], "input": "抵触", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E091", "mode": "en-to-zh", "cat": "positive", "word": "confront", "target": ["面对", "对抗"], "input": "直面", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E092", "mode": "en-to-zh", "cat": "positive", "word": "confuse", "target": ["使困惑", "混淆"], "input": "搞混", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E093", "mode": "en-to-zh", "cat": "positive", "word": "conscious", "target": ["有意识的", "清醒的"], "input": "清醒的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E094", "mode": "en-to-zh", "cat": "positive", "word": "consequence", "target": ["结果", "后果"], "input": "结局", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E095", "mode": "en-to-zh", "cat": "positive", "word": "conservative", "target": ["保守的", "守旧的"], "input": "守旧的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E096", "mode": "en-to-zh", "cat": "positive", "word": "consider", "target": ["考虑", "认为"], "input": "斟酌", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E097", "mode": "en-to-zh", "cat": "positive", "word": "consist", "target": ["组成", "在于"], "input": "由…构成", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E098", "mode": "en-to-zh", "cat": "positive", "word": "constant", "target": ["持续的", "恒定的"], "input": "不间断的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E099", "mode": "en-to-zh", "cat": "positive", "word": "construct", "target": ["建造", "构想"], "input": "搭建", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E100", "mode": "en-to-zh", "cat": "positive", "word": "consult", "target": ["咨询", "查阅"], "input": "请教", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E101", "mode": "en-to-zh", "cat": "positive", "word": "consume", "target": ["消耗", "消费"], "input": "耗费", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E102", "mode": "en-to-zh", "cat": "positive", "word": "contain", "target": ["包含", "容纳"], "input": "装有", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E103", "mode": "en-to-zh", "cat": "positive", "word": "contemporary", "target": ["当代的", "同时代的"], "input": "现今的", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E104", "mode": "en-to-zh", "cat": "positive", "word": "contest", "target": ["竞赛", "争辩"], "input": "赛事", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E105", "mode": "en-to-zh", "cat": "positive", "word": "context", "target": ["上下文", "背景"], "input": "语境", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E106", "mode": "en-to-zh", "cat": "positive", "word": "contradict", "target": ["反驳", "与…矛盾"], "input": "驳斥", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E107", "mode": "en-to-zh", "cat": "positive", "word": "contribute", "target": ["贡献", "促成", "投稿"], "input": "捐助", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E108", "mode": "en-to-zh", "cat": "positive", "word": "convince", "target": ["使确信", "说服"], "input": "劝服", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E109", "mode": "en-to-zh", "cat": "positive", "word": "cooperate", "target": ["合作", "协作"], "input": "联手", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E110", "mode": "en-to-zh", "cat": "positive", "word": "cope", "target": ["应付", "处理"], "input": "应对", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E111", "mode": "en-to-zh", "cat": "positive", "word": "correspond", "target": ["符合", "通信", "相应"], "input": "信函往来", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E112", "mode": "en-to-zh", "cat": "positive", "word": "create", "target": ["创造", "创建"], "input": "创立", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E113", "mode": "en-to-zh", "cat": "positive", "word": "cultivate", "target": ["培养", "耕作"], "input": "培育", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E114", "mode": "en-to-zh", "cat": "positive", "word": "damage", "target": ["损害", "损坏"], "input": "毁坏", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E115", "mode": "en-to-zh", "cat": "positive", "word": "debate", "target": ["辩论", "争论"], "input": "争辩", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E116", "mode": "en-to-zh", "cat": "positive", "word": "decay", "target": ["腐烂", "衰退"], "input": "腐败", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E117", "mode": "en-to-zh", "cat": "positive", "word": "deceive", "target": ["欺骗", "蒙蔽"], "input": "哄骗", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E118", "mode": "en-to-zh", "cat": "positive", "word": "decline", "target": ["下降", "谢绝"], "input": "下滑", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E119", "mode": "en-to-zh", "cat": "positive", "word": "decrease", "target": ["减少", "降低"], "input": "缩减", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E120", "mode": "en-to-zh", "cat": "positive", "word": "defend", "target": ["防御", "辩护"], "input": "守卫", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E121", "mode": "en-to-zh", "cat": "positive", "word": "define", "target": ["下定义", "界定"], "input": "阐释", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E122", "mode": "en-to-zh", "cat": "positive", "word": "delay", "target": ["推迟", "延误"], "input": "延后", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E123", "mode": "en-to-zh", "cat": "positive", "word": "deliver", "target": ["递送", "发表", "接生"], "input": "运送", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E124", "mode": "en-to-zh", "cat": "positive", "word": "demand", "target": ["要求", "需求"], "input": "索要", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E125", "mode": "en-to-zh", "cat": "positive", "word": "demonstrate", "target": ["证明", "演示", "示威"], "input": "示范", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E126", "mode": "en-to-zh", "cat": "positive", "word": "deny", "target": ["否认", "拒绝给予"], "input": "抵赖", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E127", "mode": "en-to-zh", "cat": "positive", "word": "depart", "target": ["离开", "出发"], "input": "启程", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E128", "mode": "en-to-zh", "cat": "positive", "word": "depend", "target": ["依靠", "取决于"], "input": "依仗", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E129", "mode": "en-to-zh", "cat": "positive", "word": "depict", "target": ["描绘", "描述"], "input": "刻画", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E130", "mode": "en-to-zh", "cat": "positive", "word": "evolve", "target": ["演变", "进化", "发展"], "input": "演化", "expected": "correct", "note": "同义换述，语义等价字面不同"}
+{"id": "E131", "mode": "en-to-zh", "cat": "hard-negative", "word": "probably", "target": ["或许", "大概"], "input": "肯定", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E132", "mode": "en-to-zh", "cat": "hard-negative", "word": "abandon", "target": ["抛弃", "放弃"], "input": "保留", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E133", "mode": "en-to-zh", "cat": "hard-negative", "word": "abundant", "target": ["丰富的", "充裕的"], "input": "稀缺的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E134", "mode": "en-to-zh", "cat": "hard-negative", "word": "accurate", "target": ["精确的", "准确的"], "input": "错误的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E135", "mode": "en-to-zh", "cat": "hard-negative", "word": "acquire", "target": ["获得", "取得"], "input": "失去", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E136", "mode": "en-to-zh", "cat": "hard-negative", "word": "adequate", "target": ["充足的", "适当的"], "input": "不足的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E137", "mode": "en-to-zh", "cat": "hard-negative", "word": "admire", "target": ["钦佩", "欣赏"], "input": "鄙视", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E138", "mode": "en-to-zh", "cat": "hard-negative", "word": "adopt", "target": ["采用", "收养"], "input": "抛弃", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E139", "mode": "en-to-zh", "cat": "hard-negative", "word": "advance", "target": ["进展", "进步", "前进"], "input": "后退", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E140", "mode": "en-to-zh", "cat": "hard-negative", "word": "advantage", "target": ["优势", "有利条件"], "input": "劣势", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E141", "mode": "en-to-zh", "cat": "hard-negative", "word": "aggressive", "target": ["侵略的", "好斗的"], "input": "温顺的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E142", "mode": "en-to-zh", "cat": "hard-negative", "word": "allow", "target": ["允许", "准许"], "input": "禁止", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E143", "mode": "en-to-zh", "cat": "hard-negative", "word": "ancient", "target": ["古代的", "古老的"], "input": "现代的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E144", "mode": "en-to-zh", "cat": "hard-negative", "word": "appear", "target": ["出现", "显得"], "input": "消失", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E145", "mode": "en-to-zh", "cat": "hard-negative", "word": "approve", "target": ["批准", "赞成"], "input": "反对", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E146", "mode": "en-to-zh", "cat": "hard-negative", "word": "arrive", "target": ["到达"], "input": "出发", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E147", "mode": "en-to-zh", "cat": "hard-negative", "word": "attract", "target": ["吸引"], "input": "排斥", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E148", "mode": "en-to-zh", "cat": "hard-negative", "word": "aware", "target": ["意识到的"], "input": "没察觉", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E149", "mode": "en-to-zh", "cat": "hard-negative", "word": "beneficial", "target": ["有益的"], "input": "有害的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E150", "mode": "en-to-zh", "cat": "hard-negative", "word": "blame", "target": ["责备"], "input": "表扬", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E151", "mode": "en-to-zh", "cat": "hard-negative", "word": "bright", "target": ["明亮的", "聪明的"], "input": "昏暗的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E152", "mode": "en-to-zh", "cat": "hard-negative", "word": "calm", "target": ["平静的", "镇静的"], "input": "激动的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E153", "mode": "en-to-zh", "cat": "hard-negative", "word": "cheap", "target": ["便宜的"], "input": "昂贵的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E154", "mode": "en-to-zh", "cat": "hard-negative", "word": "combine", "target": ["结合", "联合"], "input": "分离", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E155", "mode": "en-to-zh", "cat": "hard-negative", "word": "complex", "target": ["复杂的"], "input": "简单的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E156", "mode": "en-to-zh", "cat": "hard-negative", "word": "confirm", "target": ["确认", "证实"], "input": "否认", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E157", "mode": "en-to-zh", "cat": "hard-negative", "word": "connect", "target": ["连接", "联系"], "input": "断开", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E158", "mode": "en-to-zh", "cat": "hard-negative", "word": "conscious", "target": ["有意识的", "清醒的"], "input": "昏迷的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E159", "mode": "en-to-zh", "cat": "hard-negative", "word": "construct", "target": ["建造", "构想"], "input": "拆除", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E160", "mode": "en-to-zh", "cat": "hard-negative", "word": "consume", "target": ["消耗", "消费"], "input": "生产", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E161", "mode": "en-to-zh", "cat": "hard-negative", "word": "increase", "target": ["增加", "增长"], "input": "减少", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E162", "mode": "en-to-zh", "cat": "hard-negative", "word": "defend", "target": ["防御", "辩护"], "input": "进攻", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E163", "mode": "en-to-zh", "cat": "hard-negative", "word": "delay", "target": ["推迟", "延误"], "input": "提前", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E164", "mode": "en-to-zh", "cat": "hard-negative", "word": "demand", "target": ["要求", "需求"], "input": "供给", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E165", "mode": "en-to-zh", "cat": "hard-negative", "word": "deny", "target": ["否认", "拒绝"], "input": "承认", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E166", "mode": "en-to-zh", "cat": "hard-negative", "word": "depend", "target": ["依靠"], "input": "独立", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E167", "mode": "en-to-zh", "cat": "hard-negative", "word": "destroy", "target": ["破坏", "摧毁"], "input": "保护", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E168", "mode": "en-to-zh", "cat": "hard-negative", "word": "encourage", "target": ["鼓励", "鼓舞"], "input": "打击", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E169", "mode": "en-to-zh", "cat": "hard-negative", "word": "expand", "target": ["扩张", "膨胀"], "input": "收缩", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E170", "mode": "en-to-zh", "cat": "hard-negative", "word": "export", "target": ["出口", "输出"], "input": "进口", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E171", "mode": "en-to-zh", "cat": "hard-negative", "word": "expose", "target": ["暴露", "揭露"], "input": "隐藏", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E172", "mode": "en-to-zh", "cat": "hard-negative", "word": "extend", "target": ["延伸", "扩大"], "input": "缩短", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E173", "mode": "en-to-zh", "cat": "hard-negative", "word": "forget", "target": ["忘记"], "input": "记住", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E174", "mode": "en-to-zh", "cat": "hard-negative", "word": "freeze", "target": ["冻结", "结冰"], "input": "融化", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E175", "mode": "en-to-zh", "cat": "hard-negative", "word": "gather", "target": ["聚集", "收集"], "input": "分散", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E176", "mode": "en-to-zh", "cat": "hard-negative", "word": "generous", "target": ["慷慨的"], "input": "吝啬的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E177", "mode": "en-to-zh", "cat": "hard-negative", "word": "guilty", "target": ["有罪的", "内疚的"], "input": "无辜的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E178", "mode": "en-to-zh", "cat": "hard-negative", "word": "humble", "target": ["谦逊的", "卑微的"], "input": "傲慢的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E179", "mode": "en-to-zh", "cat": "hard-negative", "word": "import", "target": ["进口", "输入"], "input": "出口", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E180", "mode": "en-to-zh", "cat": "hard-negative", "word": "include", "target": ["包含", "包括"], "input": "排除", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E181", "mode": "en-to-zh", "cat": "hard-negative", "word": "inferior", "target": ["低劣的", "下级的"], "input": "优越的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E182", "mode": "en-to-zh", "cat": "hard-negative", "word": "inner", "target": ["内部的", "内心的"], "input": "外部的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E183", "mode": "en-to-zh", "cat": "hard-negative", "word": "junior", "target": ["年少的", "下级的"], "input": "年长的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E184", "mode": "en-to-zh", "cat": "hard-negative", "word": "lazy", "target": ["懒惰的"], "input": "勤快的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E185", "mode": "en-to-zh", "cat": "hard-negative", "word": "loose", "target": ["松的", "宽松的"], "input": "紧的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E186", "mode": "en-to-zh", "cat": "hard-negative", "word": "loyal", "target": ["忠诚的"], "input": "背叛的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E187", "mode": "en-to-zh", "cat": "hard-negative", "word": "mature", "target": ["成熟的"], "input": "幼稚的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E188", "mode": "en-to-zh", "cat": "hard-negative", "word": "maximum", "target": ["最大的", "最高的"], "input": "最小的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E189", "mode": "en-to-zh", "cat": "hard-negative", "word": "minor", "target": ["较小的", "次要的"], "input": "主要的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E190", "mode": "en-to-zh", "cat": "hard-negative", "word": "negative", "target": ["否定的", "消极的"], "input": "积极的", "expected": "wrong", "note": "反义/否定/程度对立"}
+{"id": "E191", "mode": "en-to-zh", "cat": "hard-negative", "word": "computer", "target": ["计算机", "电脑"], "input": "计算器", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E192", "mode": "en-to-zh", "cat": "hard-negative", "word": "college", "target": ["大学", "学院"], "input": "大学生", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E193", "mode": "en-to-zh", "cat": "hard-negative", "word": "library", "target": ["图书馆"], "input": "图书", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E194", "mode": "en-to-zh", "cat": "hard-negative", "word": "restaurant", "target": ["餐厅", "饭店"], "input": "服务员", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E195", "mode": "en-to-zh", "cat": "hard-negative", "word": "hospital", "target": ["医院"], "input": "病人", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E196", "mode": "en-to-zh", "cat": "hard-negative", "word": "economy", "target": ["经济"], "input": "经济学家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E197", "mode": "en-to-zh", "cat": "hard-negative", "word": "history", "target": ["历史"], "input": "历史学家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E198", "mode": "en-to-zh", "cat": "hard-negative", "word": "philosophy", "target": ["哲学"], "input": "哲学家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E199", "mode": "en-to-zh", "cat": "hard-negative", "word": "science", "target": ["科学"], "input": "科学家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E200", "mode": "en-to-zh", "cat": "hard-negative", "word": "art", "target": ["艺术", "美术"], "input": "艺术家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E201", "mode": "en-to-zh", "cat": "hard-negative", "word": "music", "target": ["音乐"], "input": "音乐家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E202", "mode": "en-to-zh", "cat": "hard-negative", "word": "novel", "target": ["小说"], "input": "作家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E203", "mode": "en-to-zh", "cat": "hard-negative", "word": "poem", "target": ["诗", "诗歌"], "input": "诗人", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E204", "mode": "en-to-zh", "cat": "hard-negative", "word": "bake", "target": ["烘焙", "烤"], "input": "面包", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E205", "mode": "en-to-zh", "cat": "hard-negative", "word": "paint", "target": ["绘画", "油漆"], "input": "画家", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E206", "mode": "en-to-zh", "cat": "hard-negative", "word": "teach", "target": ["教", "教授"], "input": "教材", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E207", "mode": "en-to-zh", "cat": "hard-negative", "word": "drive", "target": ["驾驶"], "input": "司机", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E208", "mode": "en-to-zh", "cat": "hard-negative", "word": "farm", "target": ["农场", "耕作"], "input": "农民", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E209", "mode": "en-to-zh", "cat": "hard-negative", "word": "fish", "target": ["鱼", "钓鱼"], "input": "渔夫", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E210", "mode": "en-to-zh", "cat": "hard-negative", "word": "cook", "target": ["烹饪", "厨师"], "input": "厨房", "expected": "wrong", "note": "范畴偏移/动作-产物-人物混淆"}
+{"id": "E211", "mode": "en-to-zh", "cat": "hard-negative", "word": "probably", "target": ["或许", "大概"], "input": "香蕉", "expected": "wrong", "note": "语义无关"}
+{"id": "E212", "mode": "en-to-zh", "cat": "hard-negative", "word": "happy", "target": ["高兴的", "幸福的"], "input": "桌子", "expected": "wrong", "note": "语义无关"}
+{"id": "E213", "mode": "en-to-zh", "cat": "hard-negative", "word": "water", "target": ["水"], "input": "汽车", "expected": "wrong", "note": "语义无关"}
+{"id": "E214", "mode": "en-to-zh", "cat": "hard-negative", "word": "book", "target": ["书"], "input": "天气", "expected": "wrong", "note": "语义无关"}
+{"id": "E215", "mode": "en-to-zh", "cat": "hard-negative", "word": "school", "target": ["学校"], "input": "水果", "expected": "wrong", "note": "语义无关"}
+{"id": "E216", "mode": "en-to-zh", "cat": "hard-negative", "word": "dog", "target": ["狗"], "input": "建筑", "expected": "wrong", "note": "语义无关"}
+{"id": "E217", "mode": "en-to-zh", "cat": "hard-negative", "word": "sun", "target": ["太阳"], "input": "纸张", "expected": "wrong", "note": "语义无关"}
+{"id": "E218", "mode": "en-to-zh", "cat": "hard-negative", "word": "tree", "target": ["树"], "input": "音乐", "expected": "wrong", "note": "语义无关"}
+{"id": "E219", "mode": "en-to-zh", "cat": "hard-negative", "word": "car", "target": ["汽车"], "input": "颜色", "expected": "wrong", "note": "语义无关"}
+{"id": "E220", "mode": "en-to-zh", "cat": "hard-negative", "word": "house", "target": ["房子"], "input": "动物", "expected": "wrong", "note": "语义无关"}
+{"id": "E221", "mode": "en-to-zh", "cat": "literal", "word": "probably", "target": ["或许", "大概"], "input": "或许", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E222", "mode": "en-to-zh", "cat": "literal", "word": "abandon", "target": ["抛弃", "放弃"], "input": "放弃", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E223", "mode": "en-to-zh", "cat": "literal", "word": "space", "target": ["外层空间", "太空", "空间"], "input": "空间", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E224", "mode": "en-to-zh", "cat": "literal", "word": "universe", "target": ["宇宙", "领域", "体系"], "input": "宇宙", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E225", "mode": "en-to-zh", "cat": "literal", "word": "diverse", "target": ["不同的", "多种多样的"], "input": "多种多样的", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E226", "mode": "en-to-zh", "cat": "literal", "word": "convert", "target": ["转变", "转换"], "input": "转变", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E227", "mode": "en-to-zh", "cat": "literal", "word": "reverse", "target": ["逆转", "相反的"], "input": "逆转", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E228", "mode": "en-to-zh", "cat": "literal", "word": "develop", "target": ["开发", "发展"], "input": "发展", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E229", "mode": "en-to-zh", "cat": "literal", "word": "evolve", "target": ["演变", "进化"], "input": "进化", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E230", "mode": "en-to-zh", "cat": "literal", "word": "involve", "target": ["涉及", "包含"], "input": "涉及", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E231", "mode": "en-to-zh", "cat": "literal", "word": "improve", "target": ["改进", "改善"], "input": "改进", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E232", "mode": "en-to-zh", "cat": "literal", "word": "approve", "target": ["批准", "赞成"], "input": "赞成", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E233", "mode": "en-to-zh", "cat": "literal", "word": "enhance", "target": ["提高", "增强"], "input": "提高", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E234", "mode": "en-to-zh", "cat": "literal", "word": "enable", "target": ["使能够"], "input": "使能够", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E235", "mode": "en-to-zh", "cat": "literal", "word": "enlarge", "target": ["扩大", "扩展"], "input": "扩大", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E236", "mode": "en-to-zh", "cat": "literal", "word": "form", "target": ["形式", "表格"], "input": "形式", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E237", "mode": "en-to-zh", "cat": "literal", "word": "formal", "target": ["正式的", "正规的"], "input": "正式的", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E238", "mode": "en-to-zh", "cat": "literal", "word": "reform", "target": ["改革", "改善"], "input": "改革", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E239", "mode": "en-to-zh", "cat": "literal", "word": "perform", "target": ["表演", "执行"], "input": "表演", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E240", "mode": "en-to-zh", "cat": "literal", "word": "inform", "target": ["通知", "告知"], "input": "通知", "expected": "correct", "note": "字面规范匹配"}
+{"id": "E241", "mode": "en-to-zh", "cat": "literal", "word": "abandon", "target": ["抛弃", "放弃"], "input": "抛弃。", "expected": "correct", "note": "字面规范匹配：尾标点放行"}
+{"id": "E242", "mode": "en-to-zh", "cat": "literal", "word": "space", "target": ["空间", "太空"], "input": " 空间", "expected": "correct", "note": "字面规范匹配：前导空格放行"}
+{"id": "E243", "mode": "en-to-zh", "cat": "literal", "word": "diverse", "target": ["不同的", "多种多样的"], "input": "不同的", "expected": "correct", "note": "字面规范匹配：另一义项"}
+{"id": "E244", "mode": "en-to-zh", "cat": "literal", "word": "convert", "target": ["转变", "转换"], "input": "转换", "expected": "correct", "note": "字面规范匹配：另一义项"}
+{"id": "E245", "mode": "en-to-zh", "cat": "literal", "word": "reverse", "target": ["相反的", "反向的"], "input": "相反的", "expected": "correct", "note": "字面规范匹配：adj 义项"}
+{"id": "E246", "mode": "en-to-zh", "cat": "literal", "word": "develop", "target": ["开发", "发展"], "input": "开发", "expected": "correct", "note": "字面规范匹配：另一义项"}
+{"id": "E247", "mode": "en-to-zh", "cat": "literal", "word": "involve", "target": ["涉及", "包含"], "input": "包含", "expected": "correct", "note": "字面规范匹配：近义项"}
+{"id": "E248", "mode": "en-to-zh", "cat": "literal", "word": "improve", "target": ["改进", "改善"], "input": "改善", "expected": "correct", "note": "字面规范匹配：另一字面"}
+{"id": "E249", "mode": "en-to-zh", "cat": "literal", "word": "approve", "target": ["批准", "赞成"], "input": "批准", "expected": "correct", "note": "字面规范匹配：另一义项"}
+{"id": "E250", "mode": "en-to-zh", "cat": "literal", "word": "form", "target": ["形式", "表格"], "input": "表格", "expected": "correct", "note": "字面规范匹配：n 另一义项"}
+{"id": "E251", "mode": "zh-to-en", "cat": "literal", "word": "space", "target": ["space"], "input": "Space", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E252", "mode": "zh-to-en", "cat": "literal", "word": "space", "target": ["space"], "input": "SPACE", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E253", "mode": "zh-to-en", "cat": "literal", "word": "space", "target": ["space"], "input": " space ", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E254", "mode": "zh-to-en", "cat": "literal", "word": "space", "target": ["space"], "input": "space.", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E255", "mode": "zh-to-en", "cat": "literal", "word": "space", "target": ["space"], "input": "space,", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E256", "mode": "zh-to-en", "cat": "literal", "word": "color", "target": ["color", "colour"], "input": "colour", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E257", "mode": "zh-to-en", "cat": "literal", "word": "color", "target": ["color", "colour"], "input": "Color", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E258", "mode": "zh-to-en", "cat": "literal", "word": "program", "target": ["program", "programme"], "input": "programme", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E259", "mode": "zh-to-en", "cat": "literal", "word": "program", "target": ["program", "programme"], "input": "Programme", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E260", "mode": "zh-to-en", "cat": "literal", "word": "analyze", "target": ["analyze", "analyse"], "input": "analyse", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E261", "mode": "zh-to-en", "cat": "literal", "word": "honor", "target": ["honor", "honour"], "input": "honour", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E262", "mode": "zh-to-en", "cat": "literal", "word": "favor", "target": ["favor", "favour"], "input": "favour", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E263", "mode": "zh-to-en", "cat": "literal", "word": "center", "target": ["center", "centre"], "input": "centre", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E264", "mode": "zh-to-en", "cat": "literal", "word": "meter", "target": ["meter", "metre"], "input": "metre", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E265", "mode": "zh-to-en", "cat": "literal", "word": "defense", "target": ["defense", "defence"], "input": "defence", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E266", "mode": "zh-to-en", "cat": "literal", "word": "license", "target": ["license", "licence"], "input": "licence", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E267", "mode": "zh-to-en", "cat": "literal", "word": "catalog", "target": ["catalog", "catalogue"], "input": "catalogue", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E268", "mode": "zh-to-en", "cat": "literal", "word": "labor", "target": ["labor", "labour"], "input": "labour", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E269", "mode": "zh-to-en", "cat": "literal", "word": "practice", "target": ["practice", "practise"], "input": "practise", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E270", "mode": "zh-to-en", "cat": "literal", "word": "check", "target": ["check", "cheque"], "input": "cheque", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E271", "mode": "zh-to-en", "cat": "literal", "word": "organize", "target": ["organize", "organise"], "input": "organise", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E272", "mode": "zh-to-en", "cat": "literal", "word": "realize", "target": ["realize", "realise"], "input": "realise", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E273", "mode": "zh-to-en", "cat": "literal", "word": "recognize", "target": ["recognize", "recognise"], "input": "recognise", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E274", "mode": "zh-to-en", "cat": "literal", "word": "apologize", "target": ["apologize", "apologise"], "input": "apologise", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E275", "mode": "zh-to-en", "cat": "literal", "word": "memorize", "target": ["memorize", "memorise"], "input": "memorise", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E276", "mode": "zh-to-en", "cat": "literal", "word": "space", "target": ["space"], "input": "space", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E277", "mode": "zh-to-en", "cat": "literal", "word": "universe", "target": ["universe"], "input": "Universe", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E278", "mode": "zh-to-en", "cat": "literal", "word": "unite", "target": ["unite"], "input": "UNITE", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E279", "mode": "zh-to-en", "cat": "literal", "word": "diverse", "target": ["diverse"], "input": "Diverse", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E280", "mode": "zh-to-en", "cat": "literal", "word": "convert", "target": ["convert"], "input": "Convert", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E281", "mode": "zh-to-en", "cat": "literal", "word": "develop", "target": ["develop"], "input": "Develop", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E282", "mode": "zh-to-en", "cat": "literal", "word": "improve", "target": ["improve"], "input": "Improve", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E283", "mode": "zh-to-en", "cat": "literal", "word": "approve", "target": ["approve"], "input": "Approve", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E284", "mode": "zh-to-en", "cat": "literal", "word": "enhance", "target": ["enhance"], "input": "Enhance", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E285", "mode": "zh-to-en", "cat": "literal", "word": "form", "target": ["form"], "input": "Form", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E286", "mode": "zh-to-en", "cat": "literal", "word": "perform", "target": ["perform"], "input": "Perform", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E287", "mode": "zh-to-en", "cat": "literal", "word": "inform", "target": ["inform"], "input": "Inform", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E288", "mode": "zh-to-en", "cat": "literal", "word": "advance", "target": ["advance"], "input": "Advance", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E289", "mode": "zh-to-en", "cat": "literal", "word": "involve", "target": ["involve"], "input": "Involve", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E290", "mode": "zh-to-en", "cat": "literal", "word": "evolve", "target": ["evolve"], "input": "Evolve", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E291", "mode": "zh-to-en", "cat": "literal", "word": "universe", "target": ["universe"], "input": " universe", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E292", "mode": "zh-to-en", "cat": "literal", "word": "unite", "target": ["unite"], "input": "unite ", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E293", "mode": "zh-to-en", "cat": "literal", "word": "diverse", "target": ["diverse"], "input": "diverse.", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E294", "mode": "zh-to-en", "cat": "literal", "word": "convert", "target": ["convert"], "input": "Convert ", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E295", "mode": "zh-to-en", "cat": "literal", "word": "develop", "target": ["develop"], "input": "DEVELOP", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E296", "mode": "zh-to-en", "cat": "literal", "word": "improve", "target": ["improve"], "input": " improve ", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E297", "mode": "zh-to-en", "cat": "literal", "word": "approve", "target": ["approve"], "input": "APPROVE", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E298", "mode": "zh-to-en", "cat": "literal", "word": "enhance", "target": ["enhance"], "input": "enhance,", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E299", "mode": "zh-to-en", "cat": "literal", "word": "form", "target": ["form"], "input": "Form.", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E300", "mode": "zh-to-en", "cat": "literal", "word": "perform", "target": ["perform"], "input": " perform ", "expected": "correct", "note": "大小写/空格/标点/英美变体放行"}
+{"id": "E301", "mode": "zh-to-en", "cat": "hard-negative", "word": "apple", "target": ["apple"], "input": "appa", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E302", "mode": "zh-to-en", "cat": "hard-negative", "word": "apple", "target": ["apple"], "input": "appale", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E303", "mode": "zh-to-en", "cat": "hard-negative", "word": "apple", "target": ["apple"], "input": "app", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E304", "mode": "zh-to-en", "cat": "hard-negative", "word": "space", "target": ["space"], "input": "spac", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E305", "mode": "zh-to-en", "cat": "hard-negative", "word": "space", "target": ["space"], "input": "spacee", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E306", "mode": "zh-to-en", "cat": "hard-negative", "word": "space", "target": ["space"], "input": "spcae", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E307", "mode": "zh-to-en", "cat": "hard-negative", "word": "universe", "target": ["universe"], "input": "universee", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E308", "mode": "zh-to-en", "cat": "hard-negative", "word": "universe", "target": ["universe"], "input": "univese", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E309", "mode": "zh-to-en", "cat": "hard-negative", "word": "develop", "target": ["develop"], "input": "develp", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E310", "mode": "zh-to-en", "cat": "hard-negative", "word": "develop", "target": ["develop"], "input": "develope", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E311", "mode": "zh-to-en", "cat": "hard-negative", "word": "improve", "target": ["improve"], "input": "improv", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E312", "mode": "zh-to-en", "cat": "hard-negative", "word": "improve", "target": ["improve"], "input": "inprove", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E313", "mode": "zh-to-en", "cat": "hard-negative", "word": "convert", "target": ["convert"], "input": "conver", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E314", "mode": "zh-to-en", "cat": "hard-negative", "word": "convert", "target": ["convert"], "input": "convart", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E315", "mode": "zh-to-en", "cat": "hard-negative", "word": "perform", "target": ["perform"], "input": "perfom", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E316", "mode": "zh-to-en", "cat": "hard-negative", "word": "inform", "target": ["inform"], "input": "infrom", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E317", "mode": "zh-to-en", "cat": "hard-negative", "word": "advance", "target": ["advance"], "input": "advence", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E318", "mode": "zh-to-en", "cat": "hard-negative", "word": "involve", "target": ["involve"], "input": "involv", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E319", "mode": "zh-to-en", "cat": "hard-negative", "word": "approve", "target": ["approve"], "input": "aproove", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}
+{"id": "E320", "mode": "zh-to-en", "cat": "hard-negative", "word": "enhance", "target": ["enhance"], "input": "enhanc", "expected": "wrong", "note": "错拼/漏字母/多字母/换位"}

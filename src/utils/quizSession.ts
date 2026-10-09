@@ -133,15 +133,34 @@ export function createSession(
     };
 }
 
-// 标记已答（每题提交后调用）
-export function markAnswered(session: SessionState, word: string, isCorrect: boolean): void {
-    session.answeredInThisRound.push(word);
-    if (isCorrect) {
-        session.correctCount++;
-    } else {
-        session.wrongCount++;
+// ===== 纯 reducer：state + event -> new state，不修改原 state =====
+
+export type SessionEvent =
+    | { type: 'answer'; word: string; isCorrect: boolean };
+
+export function sessionReducer(state: SessionState, event: SessionEvent): SessionState {
+    switch (event.type) {
+        case 'answer':
+            return {
+                ...state,
+                answeredInThisRound: [...state.answeredInThisRound, event.word],
+                correctCount: state.correctCount + (event.isCorrect ? 1 : 0),
+                wrongCount: state.wrongCount + (event.isCorrect ? 0 : 1),
+                currentIndex: state.currentIndex + 1,
+            };
+        default:
+            return state;
     }
-    session.currentIndex++;
+}
+
+// 标记已答（每题提交后调用）。命令式外壳，委托纯 reducer 后写回同一引用，
+// 保持现有调用方行为不变。
+export function markAnswered(session: SessionState, word: string, isCorrect: boolean): void {
+    const next = sessionReducer(session, { type: 'answer', word, isCorrect });
+    session.answeredInThisRound = next.answeredInThisRound;
+    session.correctCount = next.correctCount;
+    session.wrongCount = next.wrongCount;
+    session.currentIndex = next.currentIndex;
 }
 
 // 中途结束 - 保存进度

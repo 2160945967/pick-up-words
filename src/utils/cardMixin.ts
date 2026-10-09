@@ -176,7 +176,7 @@ export const cardMixin = {
         makeClickableWords(text: string) {
             if (!text) return text;
             return text.replace(/([a-zA-Z][a-zA-Z0-9'-]*)/g, (match) => {
-                return `<span class="clickable-word" onclick="event.stopPropagation(); g('jumpToWord','${match.replace(/'/g, "\\'")}')">${match}</span>`;
+                return `<span class="clickable-word" data-action="jumpToWord" data-word="${match}" data-stop>${match}</span>`;
             });
         },
         measureWordHeight(word: string) {

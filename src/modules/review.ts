@@ -489,13 +489,13 @@ async function renderReviewQuestion(): Promise<void> {
     reviewCurrentMeanings = [...selectedMeanings];
 
     const pronunciationKey = appState.settings.playPronunciationKey || '2';
-    const speakerHtml = `<button type="button" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" onclick="g('playPronunciation', '${appState.settings.pronunciationType}', '${escapeForJsString(word.word)}')">🔊</button>`;
+    const speakerHtml = `<button type="button" class="quiz-speak-btn" aria-label="播放发音（快捷键 ${pronunciationKey}）" title="播放发音（快捷键 ${pronunciationKey}）" data-action="playPronunciation" data-pron="${appState.settings.pronunciationType}" data-word="${escapeHtml(word.word)}">🔊</button>`;
 
     if (reviewCurrentMode === QuizMode.Dictation) {
         questionEl.innerHTML = `
             <p><strong>听写模式：</strong></p>
             <p style="margin-top: 10px;">请听发音并写出单词</p>
-            <button class="quiz-play-btn" onclick="g('playPronunciation', '${appState.settings.pronunciationType}', '${escapeForJsString(word.word)}')">🔊 播放发音</button>
+            <button class="quiz-play-btn" data-action="playPronunciation" data-pron="${appState.settings.pronunciationType}" data-word="${escapeHtml(word.word)}">🔊 播放发音</button>
         `;
         setTimeout(() => playPronunciation(appState.settings.pronunciationType, word.word), 500);
     } else if (reviewCurrentMode === QuizMode.ZhToEn) {

@@ -37,4 +37,6 @@ interface SettingsData {
   grade: GradeLevel;
   // 复习调度算法：固定艾宾浩斯间隔（ebbinghaus）或 ts-fsrs 概率调度（fsrs）
   scheduler: SchedulerAlgo;
+  // 判题日志：全本地记录每次判题的输入/判定明细，供评测集采样与阈值标定（默认开）
+  gradingLogEnabled: boolean;
 }

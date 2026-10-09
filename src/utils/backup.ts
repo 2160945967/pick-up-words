@@ -1,5 +1,5 @@
 // 学习数据全量备份 / 恢复 / 自动备份
-import { showConfirm } from '../global';
+import { showConfirm, escapeHtml } from '../global';
 import { showToast } from './gsap';
 
 export const BACKUP_APP = 'pick-up-words';
@@ -177,7 +177,7 @@ async function renderBackupList(): Promise<void> {
   box.innerHTML = '<span class="backup-empty">加载中…</span>';
   let items: BackupMeta[];
   try { items = await fetchBackupList(); }
-  catch (e: any) { box.innerHTML = `<span class="backup-empty">${e?.message || '加载失败'}</span>`; return; }
+  catch (e: any) { box.innerHTML = `<span class="backup-empty">${escapeHtml(e?.message || '加载失败')}</span>`; return; }
   if (!items.length) { box.innerHTML = '<span class="backup-empty">暂无备份</span>'; return; }
   box.innerHTML = '';
   for (const it of items) {

@@ -62,7 +62,9 @@ function initGlassScrollDegradation(): void {
 }
 
 // 全局函数注册表供动态 HTML 中的 onclick 调用
-import { setupGlobalRegistry } from './global-registry';
+import { setupGlobalRegistry, initActionDelegation } from './global-registry';
+import './a11y/focusTrap';
+import './a11y/keyboard';
 setupGlobalRegistry({
     jumpToWord,
     navigateToWord,
@@ -90,6 +92,7 @@ setupGlobalRegistry({
     removeDueWord,
     toggleHistoryPanel,
 });
+initActionDelegation();
 
 // DOMContentLoaded 初始化
 document.addEventListener('DOMContentLoaded', () => {

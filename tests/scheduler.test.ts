@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import {
-    computeFsrs, curveRetention, getCardRetrievability,
+    computeFsrs, curveRetention, getCardRetrievability, decideFsrsGrade,
 } from '../src/utils/scheduler';
 
 const DAY = 86_400_000;
@@ -51,5 +51,23 @@ describe('遗忘曲线 curveRetention', () => {
     });
     it('相同时间下稳定度越高，留存越高', () => {
         expect(curveRetention(30, 8)).toBeGreaterThan(curveRetention(30, 3));
+    });
+});
+
+describe('decideFsrsGrade 评分映射', () => {
+    it('答错 → again', () => {
+        expect(decideFsrsGrade({ isCorrect: false, errorCountThisRound: 0 })).toBe('again');
+    });
+    it('本轮错过后才答对 → hard', () => {
+        expect(decideFsrsGrade({ isCorrect: true, errorCountThisRound: 1 })).toBe('hard');
+    });
+    it('一次答对且 reps>=3 → easy', () => {
+        expect(decideFsrsGrade({ isCorrect: true, errorCountThisRound: 0, oldReps: 3 })).toBe('easy');
+    });
+    it('一次答对但 reps<3 → good', () => {
+        expect(decideFsrsGrade({ isCorrect: true, errorCountThisRound: 0, oldReps: 1 })).toBe('good');
+    });
+    it('无卡一次答对 → good', () => {
+        expect(decideFsrsGrade({ isCorrect: true, errorCountThisRound: 0 })).toBe('good');
     });
 });

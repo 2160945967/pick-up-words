@@ -9,6 +9,7 @@ import { updateWordbookSelect, updateSelectedWordbookDisplay } from './wordbook'
 import { updateFavoritesDisplay } from './favorites';
 import { updateErrorbookDisplay } from './errorbook';
 import { showAnswer } from './quiz';
+import { exportGradingLog } from '../utils/gradingLog';
 
 let _settingsKeyupHandler: ((e: KeyboardEvent) => void) | null = null;
 let debounceTimer: ReturnType<typeof setTimeout> | null = null;
@@ -82,6 +83,15 @@ export function initSettings(): void {
     if (saveSettingsBtn) {
         saveSettingsBtn.addEventListener('click', function() {
             saveSettings();
+        });
+    }
+
+    // 导出判题日志（浏览器下载 JSONL；无日志时后端返回 404 提示）
+    const exportGradingLogBtn = document.getElementById('export-grading-log');
+    if (exportGradingLogBtn) {
+        exportGradingLogBtn.addEventListener('click', function(e: Event) {
+            e.preventDefault();
+            exportGradingLog();
         });
     }
 
@@ -332,6 +342,8 @@ export function loadSettings(): void {
     if (showExampleInQuizLoad) showExampleInQuizLoad.checked = !!appState.settings.showExampleInQuiz;
     const includeDerivationsLoad = document.getElementById('include-derivations') as HTMLInputElement | null;
     if (includeDerivationsLoad) includeDerivationsLoad.checked = !!appState.settings.includeDerivations;
+    const gradingLogLoad = document.getElementById('grading-log-enabled') as HTMLInputElement | null;
+    if (gradingLogLoad) gradingLogLoad.checked = appState.settings.gradingLogEnabled !== false;
     const gradeLevelSel = document.getElementById('grade-level') as HTMLSelectElement | null;
     if (gradeLevelSel) {
         // 与侧边栏学习类别（exam-category）保持一致
@@ -454,6 +466,8 @@ export function saveSettings(): void {
     if (showExampleInQuizSave) appState.settings.showExampleInQuiz = showExampleInQuizSave.checked;
     const includeDerivationsSave = document.getElementById('include-derivations') as HTMLInputElement | null;
     if (includeDerivationsSave) appState.settings.includeDerivations = includeDerivationsSave.checked;
+    const gradingLogSave = document.getElementById('grading-log-enabled') as HTMLInputElement | null;
+    if (gradingLogSave) appState.settings.gradingLogEnabled = gradingLogSave.checked;
     const gradeLevelSave = document.getElementById('grade-level') as HTMLSelectElement | null;
     if (gradeLevelSave) {
         const cat = gradeLevelSave.value;

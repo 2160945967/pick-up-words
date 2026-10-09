@@ -24,6 +24,26 @@ const GRADE_RATING: Record<FsrsGrade, Grade> = {
     easy: Rating.Easy,
 };
 
+export interface GradeDecisionInput {
+    isCorrect: boolean;
+    /** 本轮（该词本次出现）此前的错误次数，来自会话 errorCount */
+    errorCountThisRound: number;
+    /** 该卡历史复习次数 reps（无卡为 undefined） */
+    oldReps?: number;
+}
+
+/**
+ * 把本次作答表现映射为 FSRS 四级评分（纯函数，集中评分口径）：
+ * 答错（含主动看答案）→ again；本轮错过后才答对 → hard；
+ * 一次答对且该卡已复习 ≥3 次（成熟卡仍秒答）→ easy；其余一次答对 → good。
+ */
+export function decideFsrsGrade(input: GradeDecisionInput): FsrsGrade {
+    if (!input.isCorrect) return 'again';
+    if (input.errorCountThisRound > 0) return 'hard';
+    if (typeof input.oldReps === 'number' && input.oldReps >= 3) return 'easy';
+    return 'good';
+}
+
 /** 可 JSON 序列化的 Card（Date 字段已转毫秒时间戳） */
 export type SerializedCard = Record<string, unknown>;
 

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://unpkg.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; media-src 'self' blob:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://unpkg.com 'sha256-PoyqLBnYiOhXKSOvv68bZtowmhKgBk9d2pOMEjn43uY='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; media-src 'self' blob:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'">
     <title>拾词</title>
     <link rel="icon" href="/logo.svg" type="image/svg+xml">
     <link rel="shortcut icon" href="/logo.svg" type="image/svg+xml">
@@ -482,10 +482,10 @@
 
                 <!-- 艾宾浩斯到期词折叠面板 -->
                 <div class="history-collapse" style="grid-column: span 2; margin-top: 30px;">
-                    <div class="history-collapse-header" role="button" tabindex="0" aria-expanded="false" onclick="g('toggleDueWords', this)">
+                    <div class="history-collapse-header" role="button" tabindex="0" aria-expanded="false" data-action="toggleDueWords">
                         <span class="history-collapse-arrow history-day-arrow">▶</span>
                         <span>艾宾浩斯到期词</span>
-                        <a href="javascript:void(0);" onclick="event.stopPropagation(); g('showDueWordsCondition')" title="查看加入条件" class="text-link" style="margin-left: 6px; font-size: 14px;">查看加入条件</a>
+                        <a href="javascript:void(0);" data-action="showDueWordsCondition" data-stop title="查看加入条件" class="text-link" style="margin-left: 6px; font-size: 14px;">查看加入条件</a>
                         <span class="history-collapse-count" id="due-words-count"></span>
                     </div>
                     <div style="display:none; padding: 20px 15px; background: var(--bg-white); border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; border: 1px solid var(--border-color); border-top: none;">
@@ -498,7 +498,7 @@
 
                 <!-- 历史记录折叠面板 -->
                 <div class="history-collapse" id="history-collapse">
-                    <div class="history-collapse-header" id="history-collapse-header" role="button" tabindex="0" aria-expanded="false" onclick="g('toggleHistoryPanel', this)">
+                    <div class="history-collapse-header" id="history-collapse-header" role="button" tabindex="0" aria-expanded="false" data-action="toggleHistoryPanel">
                         <span class="history-collapse-arrow" id="history-collapse-arrow">▶</span>
                         <span>历史练习记录</span>
                         <span class="history-collapse-count" id="history-collapse-count"></span>
@@ -569,6 +569,15 @@
                             <input type="checkbox" id="include-derivations"> 词书附带练习派生词
                         </label>
                         <span class="setting-desc">仅对《英语四级·你还在背单词吗》生效：开启后每个主词的派生词（如 space → spacious、spatial）作为独立单词紧跟主词进入练习；全本去重后 4499 个主词 + 1528 个派生词 = 共 6027 词</span>
+                    </div>
+
+                    <div class="setting-item setting-item-toggle" draggable="true" data-setting-key="grading-log">
+                        <span class="drag-handle" title="拖动排序">⋮⋮</span>
+                        <label for="grading-log-enabled">
+                            <input type="checkbox" id="grading-log-enabled" checked> 记录判题日志
+                        </label>
+                        <button type="button" id="export-grading-log" class="setting-inline-btn">导出判题日志</button>
+                        <span class="setting-desc">全本地记录每次判题的输入、字面命中、语义分数与判定结论，用于评测采样与阈值标定；仅保留最近 14 天，不联网</span>
                     </div>
 
                     <div class="setting-item" draggable="true" data-setting-key="grade-level">
@@ -1380,204 +1389,7 @@
     </div>
 
 
-    <!-- 模态框统一无障碍：焦点陷阱 / Esc 关闭 / 焦点回归（DOM 驱动，不改动 src 现有开关与动画时序） -->
-    <script>
-    (function () {
-        if (typeof document === 'undefined') return;
-
-        // 仅接管静态存在于 index.html 的 6 个说明/设置类弹窗。
-        // global.ts 动态创建的 custom-prompt-modal（confirm/alert/prompt）已自带 Esc/Enter 与聚焦，不接管其 Esc。
-        var STATIC_IDS = [
-            'ebbinghaus-modal', 'import-format-modal', 'due-words-condition-modal',
-            'api-settings-modal', 'asset-manage-modal', 'usage-guide-modal',
-            'book-picker-modal'
-        ];
-
-        // 所有弹窗显隐都通过 inline style.display 控制（flex/none），直接读取即可；
-        // 避免 getComputedStyle 在高频 DOM 变动（输入 / 动画 / 虚拟列表）下强制回流导致掉帧
-        function isVisible(el) {
-            return !!el && el.style && el.style.display !== 'none';
-        }
-
-        // 取当前最顶层可见的 .modal-overlay（按 z-index 最大者）
-        function getTopModal() {
-            var all = document.querySelectorAll('.modal-overlay');
-            var top = null, maxZ = -1;
-            for (var i = 0; i < all.length; i++) {
-                var el = all[i];
-                if (!isVisible(el)) continue;
-                var zRaw = el.style.zIndex || window.getComputedStyle(el).zIndex || '0';
-                var z = parseInt(zRaw, 10);
-                if (z > maxZ) { maxZ = z; top = el; }
-            }
-            return top;
-        }
-
-        function isStaticManaged(el) {
-            return el && el.id && STATIC_IDS.indexOf(el.id) !== -1;
-        }
-
-        var FOCUSABLE = 'button:not([disabled]), [href], input:not([disabled]):not([type="hidden"]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
-        function getFocusables(modal) {
-            var nodes = modal.querySelectorAll(FOCUSABLE);
-            var out = [];
-            for (var i = 0; i < nodes.length; i++) {
-                var n = nodes[i];
-                if (n.offsetParent === null) continue;
-                if (n.closest && n.closest('[aria-hidden="true"]')) continue;
-                out.push(n);
-            }
-            return out;
-        }
-
-        var currentModal = null;  // 当前接管的最顶层弹窗
-        var restoreEl = null;     // 打开前最后聚焦的元素
-
-        function focusFirst(modal) {
-            var closeBtn = modal.querySelector('.modal-close-btn');
-            if (closeBtn) { closeBtn.focus(); return; }
-            var f = getFocusables(modal);
-            if (f.length) f[0].focus();
-        }
-
-        // 状态同步：检测打开 / 关闭
-        function sync() {
-            var top = getTopModal();
-            if (top && top !== currentModal) {
-                // 新弹窗成为最顶层：记录打开前焦点
-                restoreEl = document.activeElement;
-                currentModal = top;
-                // 仅对静态接管弹窗自动聚焦；动态弹窗自管聚焦，不干预
-                if (isStaticManaged(top)) {
-                    (function (m) {
-                        requestAnimationFrame(function () { focusFirst(m); });
-                    })(top);
-                }
-                return;
-            }
-            if (!top && currentModal) {
-                // 全部关闭：焦点回归
-                var back = restoreEl;
-                currentModal = null;
-                restoreEl = null;
-                if (back && typeof back.focus === 'function' && back.isConnected) {
-                    try { back.focus(); } catch (e) {}
-                }
-            }
-        }
-
-        // Tab / Shift+Tab 焦点陷阱（捕获阶段，先于业务逻辑）
-        document.addEventListener('keydown', function (e) {
-            if (e.key !== 'Tab') return;
-            var top = getTopModal();
-            if (!top) return;
-            var list = getFocusables(top);
-            if (!list.length) { e.preventDefault(); return; }
-            var active = document.activeElement;
-            var idx = list.indexOf(active);
-            if (idx === -1) {
-                e.preventDefault();
-                list[0].focus();
-                return;
-            }
-            if (e.shiftKey && idx === 0) {
-                e.preventDefault();
-                list[list.length - 1].focus();
-            } else if (!e.shiftKey && idx === list.length - 1) {
-                e.preventDefault();
-                list[0].focus();
-            }
-        }, true);
-
-        // Esc 关闭：仅对静态接管弹窗，点击其已有的 .modal-close-btn
-        // （usage-guide 会走 closeGuide 缩放动画，其余走 closeModal 淡出）。
-        // stopImmediatePropagation 阻止 global.ts initModalEscKey 的通用 closeModal 重复触发。
-        document.addEventListener('keydown', function (e) {
-            if (e.key !== 'Escape') return;
-            var top = getTopModal();
-            if (!top) return;
-            if (top.classList.contains('custom-prompt-modal')) return; // 自带 Esc 处理
-            if (!isStaticManaged(top)) return;
-            var closeBtn = top.querySelector('.modal-close-btn');
-            if (!closeBtn) return;
-            e.stopImmediatePropagation();
-            e.preventDefault();
-            closeBtn.click();
-        }, true);
-
-        // 性能：弹窗内部的高频 DOM 变动（拼写输入、进度条、GSAP 动画、虚拟列表）
-        // 与「哪个弹窗最顶层」无关，不能全树监听，否则每次变动都 querySelectorAll + 强制回流。
-        // 只监听 body 直接子节点增删（发现动态弹窗）+ 每个弹窗自身的 style/class 变化。
-        var rafScheduled = false;
-        function scheduleSync() {
-            if (rafScheduled) return;
-            rafScheduled = true;
-            requestAnimationFrame(function () {
-                rafScheduled = false;
-                sync();
-            });
-        }
-        var overlayObserver = null;
-        function trackOverlay(el) {
-            if (!el || el.__bpA11yTracked) return;
-            el.__bpA11yTracked = true;
-            if (overlayObserver) {
-                try { overlayObserver.observe(el, { attributes: true, attributeFilter: ['style', 'class'] }); } catch (e) {}
-            }
-        }
-        if (typeof MutationObserver !== 'undefined') {
-            overlayObserver = new MutationObserver(scheduleSync);
-            var initialOverlays = document.querySelectorAll('.modal-overlay');
-            for (var k = 0; k < initialOverlays.length; k++) trackOverlay(initialOverlays[k]);
-            var bodyObserver = new MutationObserver(function (mutations) {
-                for (var mi = 0; mi < mutations.length; mi++) {
-                    var added = mutations[mi].addedNodes;
-                    for (var ai = 0; ai < added.length; ai++) {
-                        var node = added[ai];
-                        if (node.nodeType === 1) {
-                            if (node.classList && node.classList.contains('modal-overlay')) trackOverlay(node);
-                            if (node.querySelectorAll) {
-                                var inner = node.querySelectorAll('.modal-overlay');
-                                for (var ii = 0; ii < inner.length; ii++) trackOverlay(inner[ii]);
-                            }
-                        }
-                    }
-                }
-                scheduleSync();
-            });
-            bodyObserver.observe(document.body, { childList: true });
-        }
-        setInterval(scheduleSync, 1000); // 兜底轮询（observer 已覆盖，低频即可）
-        sync();
-    })();
-    </script>
-
-    <!-- 键盘可访问性增强：让 <div> 伪装的按钮（汉堡菜单、折叠面板）支持 Enter/Space 触发 -->
-    <script>
-    (function () {
-        if (typeof document === 'undefined') return;
-        function isBtn(el) {
-            return el && (el.id === 'navbar-toggle' || (el.classList && el.classList.contains('history-collapse-header')));
-        }
-        document.addEventListener('keydown', function (e) {
-            var t = e.target;
-            if (!t || !isBtn(t)) return;
-            if (e.key === 'Enter' || e.key === ' ') {
-                e.preventDefault();
-                if (typeof t.click === 'function') t.click();
-            }
-        });
-        // 折叠面板点击后同步 aria-expanded（依据下一兄弟节点的 display，与 modules/quiz 的 toggle 逻辑一致）
-        document.addEventListener('click', function (e) {
-            var t = e.target;
-            var hdr = t && t.closest ? t.closest('.history-collapse-header') : null;
-            if (!hdr) return;
-            var body = hdr.nextElementSibling;
-            var open = !!(body && body.style && body.style.display !== 'none');
-            hdr.setAttribute('aria-expanded', open ? 'true' : 'false');
-        });
-    })();
-    </script>
+    <!-- 模态框无障碍（焦点陷阱 / Esc 关闭 / 焦点回归）已外置至 src/a11y/focusTrap.ts -->
 
     <script type="module" src="/src/main.ts"></script>
 </body>

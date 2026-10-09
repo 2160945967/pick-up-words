@@ -795,7 +795,7 @@ export function buildEnhancedHtml(enhanced: {
                 html += '<strong>例词:</strong> ';
                 rootInfo.info.example.forEach((example: string, idx: number) => {
                     if (idx > 0) html += ', ';
-                    html += '<a href="#" onclick="g(\'jumpToWord\',\'' + escapeForJsString(example.toLowerCase()) + '\'); return false;" class="link-word">' + escapeHtml(example) + '</a>';
+                    html += '<a href="#" data-action="jumpToWord" data-word="' + escapeHtml(example.toLowerCase()) + '" class="link-word">' + escapeHtml(example) + '</a>';
                 });
                 html += '</div>';
             }
@@ -810,7 +810,7 @@ export function buildEnhancedHtml(enhanced: {
         html += '<div>';
         enhanced.similar_words.forEach((w: string, idx: number) => {
             if (idx > 0) html += ', ';
-            html += '<a href="#" onclick="g(\'jumpToWord\',\'' + escapeForJsString(w) + '\'); return false;" class="link-word">' + escapeHtml(w) + '</a>';
+            html += '<a href="#" data-action="jumpToWord" data-word="' + escapeHtml(w) + '" class="link-word">' + escapeHtml(w) + '</a>';
         });
         html += '</div>';
 
@@ -942,13 +942,13 @@ export function displayResult(data: WordData): void {
             if (baseForm) {
                 exchangeHtml += '<div class="exchange-item">';
                 exchangeHtml += '<span class="exchange-label">原型:</span>';
-                exchangeHtml += '<a href="#" onclick="g(\'jumpToWord\',\'' + escapeForJsString(baseForm) + '\'); return false;" class="exchange-link">' + escapeHtml(baseForm) + '</a>';
+                exchangeHtml += '<a href="#" data-action="jumpToWord" data-word="' + escapeHtml(baseForm) + '" class="exchange-link">' + escapeHtml(baseForm) + '</a>';
                 exchangeHtml += '</div>';
             }
             validExchanges.forEach(ex => {
                 exchangeHtml += '<div class="exchange-item">';
                 exchangeHtml += '<span class="exchange-label">' + ex.name + ':</span>';
-                exchangeHtml += '<a href="#" onclick="g(\'jumpToWord\',\'' + escapeForJsString(ex.value) + '\'); return false;" class="exchange-link">' + escapeHtml(ex.value) + '</a>';
+                exchangeHtml += '<a href="#" data-action="jumpToWord" data-word="' + escapeHtml(ex.value) + '" class="exchange-link">' + escapeHtml(ex.value) + '</a>';
                 exchangeHtml += '</div>';
             });
             exchangeHtml += '</div>';
@@ -1026,8 +1026,8 @@ export function displayResult(data: WordData): void {
     buttonsHtml += '<select id="wordbook-selector" class="result-wb-select" aria-label="选择单词本" data-popup-title="选择单词本">';
     buttonsHtml += wordbookOptions;
     buttonsHtml += '</select>';
-    buttonsHtml += '<button class="favorites-btn" onclick="event.stopPropagation(); g(\'playPronunciation\',\'us\',\'' + escapeForJsString(data.word) + '\')">美式发音</button>';
-    buttonsHtml += '<button class="favorites-btn" onclick="event.stopPropagation(); g(\'playPronunciation\',\'uk\',\'' + escapeForJsString(data.word) + '\')">英式发音</button>';
+    buttonsHtml += '<button class="favorites-btn" data-action="playPronunciation" data-pron="us" data-word="' + escapeHtml(data.word) + '" data-stop>美式发音</button>';
+    buttonsHtml += '<button class="favorites-btn" data-action="playPronunciation" data-pron="uk" data-word="' + escapeHtml(data.word) + '" data-stop>英式发音</button>';
     buttonsHtml += '<button class="favorites-btn ' + (isInWordlist ? 'active' : '') + '" id="add-to-wordlist">';
     buttonsHtml += isInWordlist ? '已在单词本' : '加入单词本';
     buttonsHtml += '</button>';
@@ -1058,7 +1058,7 @@ export function displayResult(data: WordData): void {
             let processedText = example.text;
             if (example.lang === 'eng') {
                 processedText = example.text.replace(/([a-zA-Z]+(?:'[a-zA-Z]+)?)/g, function(match: string) {
-                    return '<a href="#" onclick="g(\'jumpToWord\',\'' + escapeForJsString(match.toLowerCase()) + '\'); return false;" class="clickable-word">' + escapeHtml(match) + '</a>';
+                    return '<a href="#" data-action="jumpToWord" data-word="' + escapeHtml(match.toLowerCase()) + '" class="clickable-word">' + escapeHtml(match) + '</a>';
                 });
             }
 
@@ -1865,10 +1865,10 @@ export async function translateText(text: string): Promise<void> {
                 }
             }, 150);
         } else {
-            translationResult.innerHTML = `<p class="translation-error">翻译失败：${data.error || '未知错误'}</p>`;
+            translationResult.innerHTML = `<p class="translation-error">翻译失败：${escapeHtml(data.error || '未知错误')}</p>`;
         }
     } catch (error: unknown) {
-        translationResult.innerHTML = `<p class="translation-error">翻译失败：${(error as any).message || '未知错误'}</p>`;
+        translationResult.innerHTML = `<p class="translation-error">翻译失败：${escapeHtml((error as any).message || '未知错误')}</p>`;
     }
 }
 

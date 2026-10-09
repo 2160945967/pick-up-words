@@ -94,6 +94,8 @@ export interface AppState {
         grade: GradeLevel;
         // 复习调度算法：艾宾浩斯 / ts-fsrs
         scheduler: SchedulerAlgo;
+        // 判题日志开关
+        gradingLogEnabled: boolean;
         quizMode?: QuizMode;
         wordSource?: WordSource;
         quizCount?: number;
@@ -180,6 +182,7 @@ function getDefaultState(): AppState {
             includeDerivations: false,
             grade: GradeLevel.Primary,
             scheduler: SchedulerAlgo.Ebbinghaus,
+            gradingLogEnabled: true,
         },
         quizWords: [],
         currentQuizWord: null,
