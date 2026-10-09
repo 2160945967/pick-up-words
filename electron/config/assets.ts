@@ -86,10 +86,10 @@ export const ASSET_GROUPS: AssetGroup[] = [
         name: 'StarDict 词典库',
         localPath: 'stardict.db',
         required: true,
-        size: 156_594_244,
+        size: 147_642_257,
         parts: [
           { filename: 'stardict.7z.001', url: mainUrl('stardict.7z.001'), size: VOL },
-          { filename: 'stardict.7z.002', url: mainUrl('stardict.7z.002'), size: 56_979_524 },
+          { filename: 'stardict.7z.002', url: mainUrl('stardict.7z.002'), size: 48_027_537 },
         ],
       },
     ],

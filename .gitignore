@@ -84,6 +84,9 @@ gitee-assets/
 !/resource/lemma.en.txt
 !/resource/wordroot.txt
 
+# 官方 ECDict 原版参考素材（仅数据清洗时对照，不入库）
+/ECDICT-master/
+
 # 冗余旧构建拷贝 / 临时目录
 /static/
 /cache/
