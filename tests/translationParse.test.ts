@@ -16,6 +16,12 @@ describe('fallbackPart', () => {
   it('无词性的单词返回空', () => {
     expect(fallbackPart(undefined, 'apple')).toBe('');
   });
+  it('中文类型标签原样透传（用户词典）', () => {
+    expect(fallbackPart('句子', "it's still early days")).toBe('句子');
+    expect(fallbackPart('词组', 'good morning')).toBe('词组');
+    expect(fallbackPart('短语', 'by the way')).toBe('短语');
+    expect(fallbackPart('n.', 'customword')).toBe('n.');
+  });
 });
 
 describe('normalizeNewlines', () => {
@@ -54,5 +60,9 @@ describe('parseMeanings', () => {
   it('同一词性重复释义去重', () => {
     const r = parseMeanings('n. 苹果；苹果');
     expect(r[0].definition).toBe('苹果');
+  });
+  it('用户词典句子词条用中文类型标签兜底', () => {
+    const r = parseMeanings('尚在初期', '', { pos: '句子', word: "it's still early days" });
+    expect(r).toEqual([{ part: '句子', definition: '尚在初期' }]);
   });
 });

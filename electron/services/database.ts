@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import Database from 'better-sqlite3';
 import { parse } from 'csv-parse';
 import { LRUCache } from '../utils/cache';
-import { ROOT_DIR, resolveAssetPath } from '../utils/helpers';
+import { ROOT_DIR, USER_DATA_DIR, resolveAssetPath } from '../utils/helpers';
 import { phoneticToIpa } from './phoneticIpa';
 
 // Database instance type (extracted from the constructor)
@@ -879,6 +879,275 @@ function buildStardictDbFromCsvs(outputPath: string): Promise<void> {
   });
 }
 
+// ==================== 用户词典（独立存储，可编辑） ====================
+// 用户自建 / 自定义词条，独立于 stardict.db（ECDICT 只读），资源升级不覆盖。
+// word_type: noun/adj/verb/adv/phrase/idiom/sentence
+// is_custom: 1=纯自建词；0=针对 stardict 词的自定义释义
+// override_mode: merge=合并显示；replace=替换 stardict 释义
+// hidden: 隐藏标记（stardict 词删除=置 1，可恢复；自建词删除=真删）
+
+const USER_DB_PATH = path.join(USER_DATA_DIR, 'user_dict.db');
+
+const USER_WORD_TYPES = ['noun', 'adj', 'verb', 'adv', 'phrase', 'idiom', 'sentence'] as const;
+
+function normalizeUserWord(word: string): string {
+  return String(word || '').trim().toLowerCase();
+}
+
+class UserDict {
+  private db: DatabaseInstance | null = null;
+  private dbPath: string;
+
+  constructor(dbPath: string) {
+    this.dbPath = dbPath;
+    this.initTables();
+  }
+
+  private initTables(): void {
+    const conn = new Database(this.dbPath);
+    conn.exec(`
+      CREATE TABLE IF NOT EXISTS user_dict (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        word TEXT NOT NULL,
+        word_display TEXT NOT NULL,
+        word_type TEXT NOT NULL DEFAULT 'phrase'
+          CHECK(word_type IN ('noun','adj','verb','adv','phrase','idiom','sentence')),
+        translation TEXT NOT NULL DEFAULT '',
+        definition TEXT NOT NULL DEFAULT '',
+        example TEXT NOT NULL DEFAULT '',
+        example_trans TEXT NOT NULL DEFAULT '',
+        tags TEXT NOT NULL DEFAULT '',
+        is_custom INTEGER NOT NULL DEFAULT 1,
+        override_mode TEXT NOT NULL DEFAULT 'merge'
+          CHECK(override_mode IN ('merge','replace')),
+        hidden INTEGER NOT NULL DEFAULT 0,
+        created_at TEXT DEFAULT (datetime('now','localtime')),
+        updated_at TEXT DEFAULT (datetime('now','localtime'))
+      );
+      CREATE UNIQUE INDEX IF NOT EXISTS idx_user_dict_word ON user_dict(word);
+      CREATE INDEX IF NOT EXISTS idx_user_dict_hidden ON user_dict(hidden);
+    `);
+    conn.close();
+  }
+
+  private getDb(): DatabaseInstance {
+    if (!this.db) {
+      this.db = new Database(this.dbPath);
+    }
+    return this.db;
+  }
+
+  /** 按归一化 word 查询（含隐藏条目） */
+  getByWord(word: string): any {
+    const db = this.getDb();
+    return db.prepare('SELECT * FROM user_dict WHERE word = ?').get(normalizeUserWord(word)) || null;
+  }
+
+  /** 按 id 查询 */
+  getById(id: number): any {
+    const db = this.getDb();
+    return db.prepare('SELECT * FROM user_dict WHERE id = ?').get(id) || null;
+  }
+
+  /** 列表查询：关键词（word/翻译模糊）+ 类型筛选 + 是否含隐藏 */
+  list(opts: { q?: string; type?: string; includeHidden?: boolean; limit?: number; offset?: number } = {}): { items: any[]; total: number } {
+    const db = this.getDb();
+    const where: string[] = [];
+    const params: any[] = [];
+    if (!opts.includeHidden) where.push('hidden = 0');
+    if (opts.type && (USER_WORD_TYPES as readonly string[]).includes(opts.type)) {
+      where.push('word_type = ?');
+      params.push(opts.type);
+    }
+    if (opts.q && opts.q.trim()) {
+      where.push('(word LIKE ? OR word_display LIKE ? OR translation LIKE ?)');
+      const like = `%${opts.q.trim().toLowerCase()}%`;
+      params.push(like, like, `%${opts.q.trim()}%`);
+    }
+    const whereSql = where.length ? `WHERE ${where.join(' AND ')}` : '';
+    const total = (db.prepare(`SELECT COUNT(*) AS c FROM user_dict ${whereSql}`).get(...params) as any).c;
+    const limit = Math.min(Math.max(opts.limit ?? 100, 1), 1000);
+    const offset = Math.max(opts.offset ?? 0, 0);
+    const items = db
+      .prepare(`SELECT * FROM user_dict ${whereSql} ORDER BY updated_at DESC, id DESC LIMIT ? OFFSET ?`)
+      .all(...params, limit, offset);
+    return { items, total };
+  }
+
+  /** 新增词条；word 冲突时抛错（由调用方决定覆盖或报 409） */
+  insert(data: {
+    word: string; word_display?: string; word_type?: string; translation: string;
+    definition?: string; example?: string; example_trans?: string; tags?: string;
+    is_custom?: number; override_mode?: string; hidden?: number;
+  }): any {
+    const db = this.getDb();
+    const word = normalizeUserWord(data.word);
+    if (!word) throw new Error('词条不能为空');
+    if (!String(data.translation || '').trim()) throw new Error('翻译不能为空');
+    const wordType = (USER_WORD_TYPES as readonly string[]).includes(data.word_type || '')
+      ? data.word_type : 'phrase';
+    const overrideMode = data.override_mode === 'replace' ? 'replace' : 'merge';
+    const info = db.prepare(`
+      INSERT INTO user_dict (word, word_display, word_type, translation, definition, example, example_trans, tags, is_custom, override_mode, hidden)
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    `).run(
+      word,
+      data.word_display || String(data.word || '').trim(),
+      wordType,
+      String(data.translation).trim(),
+      data.definition || '',
+      data.example || '',
+      data.example_trans || '',
+      data.tags || '',
+      data.is_custom ?? 1,
+      overrideMode,
+      data.hidden ?? 0
+    );
+    return this.getById(Number(info.lastInsertRowid));
+  }
+
+  /** 更新词条（部分字段） */
+  update(id: number, data: Partial<{
+    word_display: string; word_type: string; translation: string; definition: string;
+    example: string; example_trans: string; tags: string; override_mode: string; hidden: number;
+  }>): any {
+    const db = this.getDb();
+    const cur = this.getById(id);
+    if (!cur) throw new Error('词条不存在');
+    const fields: string[] = [];
+    const params: any[] = [];
+    const set = (col: string, val: any) => { fields.push(`${col} = ?`); params.push(val); };
+    if (data.word_display !== undefined) set('word_display', data.word_display);
+    if (data.word_type !== undefined) {
+      if (!(USER_WORD_TYPES as readonly string[]).includes(data.word_type)) throw new Error('无效的词性类型');
+      set('word_type', data.word_type);
+    }
+    if (data.translation !== undefined) {
+      if (!String(data.translation).trim()) throw new Error('翻译不能为空');
+      set('translation', String(data.translation).trim());
+    }
+    if (data.definition !== undefined) set('definition', data.definition);
+    if (data.example !== undefined) set('example', data.example);
+    if (data.example_trans !== undefined) set('example_trans', data.example_trans);
+    if (data.tags !== undefined) set('tags', data.tags);
+    if (data.override_mode !== undefined) set('override_mode', data.override_mode === 'replace' ? 'replace' : 'merge');
+    if (data.hidden !== undefined) set('hidden', data.hidden ? 1 : 0);
+    if (fields.length === 0) return cur;
+    set('updated_at', `datetime('now','localtime')`);
+    // updated_at 直接拼 SQL 函数
+    const lastIdx = fields.length - 1;
+    fields[lastIdx] = 'updated_at = datetime(\'now\',\'localtime\')';
+    params.pop();
+    params.push(id);
+    db.prepare(`UPDATE user_dict SET ${fields.join(', ')} WHERE id = ?`).run(...params);
+    return this.getById(id);
+  }
+
+  /** 删除词条（真删，返回是否有删除） */
+  deleteById(id: number): boolean {
+    const db = this.getDb();
+    const info = db.prepare('DELETE FROM user_dict WHERE id = ?').run(id);
+    return info.changes > 0;
+  }
+
+  /** 设置 / 取消隐藏 */
+  setHidden(id: number, hidden: boolean): any {
+    return this.update(id, { hidden: hidden ? 1 : 0 });
+  }
+
+  /**
+   * 按 word 隐藏/恢复：无记录时插入纯隐藏记录（is_custom 由调用方按 stardict 是否存在给定）。
+   * 隐藏记录 translation 允许为空（仅作标记，不参与释义显示）。
+   */
+  setHiddenByWord(word: string, hidden: boolean, isCustom: number = 0): any {
+    const db = this.getDb();
+    const w = normalizeUserWord(word);
+    if (!w) throw new Error('词条不能为空');
+    const cur = this.getByWord(w);
+    if (cur) {
+      db.prepare('UPDATE user_dict SET hidden = ?, updated_at = datetime(\'now\',\'localtime\') WHERE id = ?')
+        .run(hidden ? 1 : 0, cur.id);
+      return this.getById(cur.id);
+    }
+    if (!hidden) return null;
+    db.prepare(`
+      INSERT INTO user_dict (word, word_display, word_type, translation, hidden, is_custom)
+      VALUES (?, ?, ?, '', 1, ?)
+    `).run(w, String(word).trim(), 'phrase', isCustom ? 1 : 0);
+    return this.getByWord(w);
+  }
+
+  /** 导出全部（含隐藏），供备份与 CSV */
+  exportAll(): any[] {
+    const db = this.getDb();
+    return db.prepare('SELECT * FROM user_dict ORDER BY id').all();
+  }
+
+  /** 中文释义搜索（翻译模糊匹配，过滤隐藏） */
+  searchByTranslation(keyword: string, limit: number = 50): any[] {
+    const db = this.getDb();
+    const rows = db
+      .prepare('SELECT * FROM user_dict WHERE hidden = 0 AND translation LIKE ? ORDER BY LENGTH(word) ASC, id DESC LIMIT ?')
+      .all(`%${String(keyword || '').trim()}%`, limit);
+    return rows;
+  }
+
+  /** 批量 upsert（按 word 幂等）；返回 {added, updated} */
+  upsertMany(rows: Array<Record<string, any>>): { added: number; updated: number } {
+    const db = this.getDb();
+    let added = 0, updated = 0;
+    const insertSql = `
+      INSERT INTO user_dict (word, word_display, word_type, translation, definition, example, example_trans, tags, is_custom, override_mode, hidden)
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      ON CONFLICT(word) DO UPDATE SET
+        word_display = excluded.word_display,
+        word_type = excluded.word_type,
+        translation = excluded.translation,
+        definition = excluded.definition,
+        example = excluded.example,
+        example_trans = excluded.example_trans,
+        tags = excluded.tags,
+        is_custom = excluded.is_custom,
+        override_mode = excluded.override_mode,
+        hidden = excluded.hidden,
+        updated_at = datetime('now','localtime')
+    `;
+    const stmt = db.prepare(insertSql);
+    const tx = db.transaction((items: Array<Record<string, any>>) => {
+      for (const r of items) {
+        const word = normalizeUserWord(r.word);
+        if (!word) continue;
+        const exists = db.prepare('SELECT 1 FROM user_dict WHERE word = ?').get(word);
+        stmt.run(
+          word,
+          r.word_display || r.word || word,
+          (USER_WORD_TYPES as readonly string[]).includes(r.word_type) ? r.word_type : 'phrase',
+          String(r.translation || '').trim(),
+          r.definition || '',
+          r.example || '',
+          r.example_trans || '',
+          r.tags || '',
+          r.is_custom ?? 1,
+          r.override_mode === 'replace' ? 'replace' : 'merge',
+          r.hidden ? 1 : 0
+        );
+        if (exists) updated++; else added++;
+      }
+    });
+    tx(rows);
+    return { added, updated };
+  }
+}
+
+let _userDb: UserDict | null = null;
+
+function getUserDb(): UserDict {
+  if (!_userDb) {
+    _userDb = new UserDict(USER_DB_PATH);
+  }
+  return _userDb;
+}
+
 // ==================== 公共 API ====================
 
 /** 初始化词典数据库 */
@@ -936,10 +1205,14 @@ export {
   LemmaDB,
   WordRootDB,
   ResembleDB,
+  UserDict,
+  USER_WORD_TYPES,
+  normalizeUserWord,
   initDatabases,
   getLemmaDB,
   getWordRootDB,
   getResembleDB,
+  getUserDb,
   getWordEnhancedInfo,
   findExamplesForWord,
   getMainDb,

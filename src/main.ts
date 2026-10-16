@@ -20,6 +20,7 @@ import { initSearch, searchWord, initKeyboardShortcuts, translateText, showSearc
 import { initQuiz, showLearningHistory, toggleHistoryDay, toggleDueWords, showDueWordsCondition, removeDueWord, toggleHistoryPanel, cleanupShowAnswerEnterHandler, updateStreakPanel } from './modules/quiz';
 import { initWordbookManagement, loadWordbooks, abortLoadWordbooks, abortWordbookRendering, saveWordbookScroll, restoreWordbookScroll, renameWordbook, updateSelectedWordbookDisplay, updateWordbookSelect } from './modules/wordbook';
 import { initSettings, startSettingsPolling, stopSettingsPolling } from './modules/settings';
+import { initUserDict } from './modules/userDict';
 import { initBackupUI, initAutoBackup } from './utils/backup';
 import { initStudyStats, renderStatOverview } from './modules/stats';
 import { initStudyTimer, startStudyTimer, stopStudyTimer, recordActivity } from './modules/timer';
@@ -192,6 +193,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 9. 初始化设置页面
     initSettings();
+
+    // 9.1 初始化词库管理（用户词典）
+    initUserDict();
 
     // 9.5 初始化数据备份 / 自动备份
     initBackupUI();

@@ -317,7 +317,42 @@ API 返回上限 50 条，避免大数据量传输。
 
 清洗共改动约 1800 条，数据行数保持 3,287,301；合法音标、拉丁词变音字母、希腊字母科技术语（α/β）、数学符号及真实外文短语均保留。清洗后需删除根目录 `stardict.db` 重新由应用构建，并重新生成 `gitee-assets/stardict.7z.*` 分卷。
 
-#### 1.3.4 二级词典数据
+#### 1.3.4 用户词典（user_dict.db）
+
+数据库文件：`USER_DATA_DIR/user_dict.db`（开发模式 `%APPDATA%/拾词-dev`，打包模式 `%APPDATA%/拾词`），由 `getUserDb()` 懒加载单例（`electron/services/database.ts` 的 `UserDict` 类）读写。与只读的 `stardict.db` 分离存放，升级 / 重新下载词库资源不影响用户数据。
+
+表名 `user_dict`：
+
+```
+CREATE TABLE IF NOT EXISTS user_dict (
+  id             INTEGER PRIMARY KEY AUTOINCREMENT,
+  word           TEXT NOT NULL,                -- 归一化主键（trim + 小写）
+  word_display   TEXT,                         -- 展示原文
+  word_type      TEXT NOT NULL DEFAULT 'noun', -- noun/adj/verb/adv/phrase/idiom/sentence（CHECK 约束）
+  translation    TEXT NOT NULL DEFAULT '',     -- 中文释义（必填校验在应用层）
+  definition     TEXT,                         -- 英文释义
+  example        TEXT,                         -- 例句
+  example_trans  TEXT,                         -- 例句翻译
+  tags           TEXT,                         -- 标签（分号分隔）
+  is_custom      INTEGER NOT NULL DEFAULT 0,   -- 1=自建词；0=对 stardict 词的自定义释义
+  override_mode  TEXT NOT NULL DEFAULT 'merge',-- merge=追加【自定义】释义；replace=整体替换
+  hidden         INTEGER NOT NULL DEFAULT 0,   -- 1=搜索不可见（stardict 词的“删除”=隐藏）
+  created_at     TEXT DEFAULT (datetime('now','localtime')),
+  updated_at     TEXT DEFAULT (datetime('now','localtime'))
+);
+CREATE UNIQUE INDEX idx_user_dict_word ON user_dict(word);
+```
+
+**语义约定**：
+
+* **隐藏优先**：`queryDict` 中 `hidden=1` 的词条一律不返回（无论 stardict 是否有该词），实现“删除 stardict 词条 = 隐藏”；恢复可见 = 清除隐藏标记。
+* **删除**：自建词（`is_custom=1`）为真删除；stardict 覆盖条删除条目即恢复原释义（接口返回 `restored: true`）。删除纯隐藏条同样恢复可见。
+* **is_custom 自动判定**：新增 / 导入时服务端按 stardict 是否存在该词自动设置，前端不传。
+* **类型标签**：名词等用英文词性前缀（`n.` 等）拼进 `translation` 供前端 `parseMeanings` 解析；词组 / 短语 / 句子不前置，类型经 `pos` 字段传中文标签（`词组`/`短语`/`句子`），前端 `fallbackPart` 对中文标签原样透传。
+
+**查询合并**（`queryDict`）：隐藏 → 返回 null；自建词 → `userDictToStardictShape` 作为主结果；stardict 存在 → 按 `override_mode` merge（追加 `\n【自定义】…`）或 replace 合并，`from_dicts: ['stardict','user']`；其余兜底 user 形状。`/api/search-chinese` 合并 user 结果排前去重；`/api/examples` 用户例句排前且不进缓存。
+
+#### 1.3.5 二级词典数据
 
 
 
@@ -327,7 +362,7 @@ API 返回上限 50 条，避免大数据量传输。
 
 * **resemble.txt**：形近词数据库，格式 `%单词1,单词2,单词3` 开头为一组
 
-#### 1.3.5 单词本（wordbooks.json）
+#### 1.3.6 单词本（wordbooks.json）
 
 JSON 格式存储自定义单词本，结构为 `Record<string, string[]>`，键为单词本名称，值为单词数组。系统单词本的数据存储在 SQLite 中，通过 `/api/system-wordbook/words` 动态分页查询。
 
@@ -3325,6 +3360,16 @@ PRONUNCIATIONS\_DIR // 发音文件目录（优先 USER\_DATA\_DIR，回退 APP\
 | 38 | GET  | `/api/system-wordbook/words`          | 系统单词本分页单词               |
 | 39 | GET  | `/api/system-wordbook/search`         | 系统单词本内搜索                |
 | 40 | POST | `/api/cache/clear`                    | 清除翻译缓存与音频缓存             |
+| 41 | GET  | `/api/user-dict`                      | 用户词典列表（分页 / 搜索 / 类型筛选）   |
+| 42 | GET  | `/api/user-dict/all`                  | 用户词典全量导出（备份用）           |
+| 43 | GET  | `/api/user-dict/word/:word`           | 探测词条（返回用户条目与 stardict 存在性）|
+| 44 | POST | `/api/user-dict`                      | 新增用户词条（翻译必填，冲突 409）     |
+| 45 | PUT  | `/api/user-dict/:id`                  | 修改用户词条                    |
+| 46 | DELETE | `/api/user-dict/:id`                | 删除词条（自建真删 / stardict 覆盖条恢复原释义）|
+| 47 | POST | `/api/user-dict/:id/hide` `/unhide`   | 隐藏 / 恢复单条                 |
+| 48 | POST | `/api/user-dict/hide-word`            | 按词条隐藏 / 恢复（stardict 词的“删除”）|
+| 49 | GET  | `/api/user-dict/export`               | 导出 CSV（带 BOM，逗号/引号/换行转义）|
+| 50 | POST | `/api/user-dict/import`               | 导入 CSV（multipart，≤5000 行，返回 added/updated/skipped/errors）|
 
 #### 关键实现细节
 
@@ -3638,6 +3683,7 @@ export async function apiPostForm\<T = any>(url: string, formData: FormData): Pr
 | 前端状态   | `localStorage`                         | 主题、侧边栏、收藏、单词本、错题本、学习统计、设置等 |
 | 主词典    | `stardict.db`                          | SQLite，只读，启动必需资源（可下载）      |
 | 例句     | `examples.db`                          | SQLite，只读，可选下载资源           |
+| 用户词典   | `USER_DATA_DIR/user_dict.db`           | SQLite，读写；词条增删改 / 隐藏，随备份导出 |
 | 自定义单词本 | `wordbooks.json`                       | JSON 文件，后端读写               |
 | 发音文件   | `pronunciations/`                      | 永久缓存，可批量下载                 |
 | 翻译缓存   | `USER_DATA_DIR/cache/translation.json` | 文件持久化                      |

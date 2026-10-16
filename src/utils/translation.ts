@@ -28,10 +28,16 @@ function defaultPartForHeadword(word?: string): string {
     return '';
 }
 
+// 中文类型标签（用户词典等场景直接传入），原样透传不加点号
+const CHINESE_POS_LABELS = new Set(['句子', '词组', '短语', '名词', '形容词', '动词', '副词']);
+
 // 解析不出词性时的兜底标签：
+// pos 是中文类型标签（如用户词典的“句子”）时直接透传；
 // pos 字段只有唯一词性时才贴（多词性无法判断该义项属于哪个，贴一串会误导）；
 // 其余情况按词头是否含空格判断是否为“词组”，单个单词不贴标签
 export function fallbackPart(pos?: string, word?: string): string {
+    const p = (pos || '').trim();
+    if (CHINESE_POS_LABELS.has(p)) return p;
     const labels = parsePosField(pos);
     if (labels.length === 1) return labels[0];
     return defaultPartForHeadword(word);
@@ -299,15 +305,11 @@ export function buildTranslationHtml(translation?: string, phonetic?: string, de
             // 领域标签可能在词性前面，也可能在词性后面
             tagHtml += extractDomain(text);
 
-            if (meaning.part && meaning.part !== '词组') {
+            // 有标签就展示（含“词组”“句子”等中文类型标签）；单个单词无词性时不输出标签行
+            if (meaning.part) {
                 tagHtml += `<div class="part-of-speech">${escapeHtmlText(meaning.part)}</div>`;
                 // 词性后面还可能跟着领域标签，如 art. [计]
                 tagHtml += extractDomain(text);
-            }
-
-            // 仅当解析器判定为词组时贴“词组”；单个单词无词性时不输出标签行
-            if (!tagHtml && meaning.part === '词组') {
-                tagHtml += '<div class="part-of-speech">词组</div>';
             }
 
             if (tagHtml) {

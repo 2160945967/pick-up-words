@@ -43,8 +43,16 @@ function downloadText(filename: string, content: string): void {
   setTimeout(() => URL.revokeObjectURL(url), 1500);
 }
 
-export function exportBackupManually(): void {
+export async function exportBackupManually(): Promise<void> {
   const payload = collectBackupData();
+  // 用户词典一并导出（含隐藏条目）；失败不阻塞导出
+  try {
+    const r = await fetch('/api/user-dict/all');
+    const j = await r.json();
+    if (j && j.success && Array.isArray(j.data) && j.data.length) {
+      payload.data.user_dict = JSON.stringify(j.data);
+    }
+  } catch { /* 后端不可达时仅导出 localStorage */ }
   downloadText(`拾词备份_${fileTimestamp()}.json`, JSON.stringify(payload, null, 2));
   showToast('已导出全部学习数据', 'success');
 }
@@ -58,7 +66,7 @@ export function parseBackup(text: string): BackupFile {
   return obj as BackupFile;
 }
 
-/** 用备份覆盖恢复：先写后端 wordbooks.json，再覆盖 localStorage */
+/** 用备份覆盖恢复：先写后端 wordbooks.json + 用户词典，再覆盖 localStorage */
 export async function restoreFromBackup(backup: BackupFile): Promise<void> {
   try {
     await fetch('/api/backup/restore', {
@@ -66,7 +74,11 @@ export async function restoreFromBackup(backup: BackupFile): Promise<void> {
       body: JSON.stringify({ data: backup.data }),
     });
   } catch { /* 后端不可达则仅恢复 localStorage */ }
-  for (const k of Object.keys(backup.data)) localStorage.setItem(k, backup.data[k]);
+  // user_dict / wordbooks 是服务端数据（SQLite / JSON 文件），不写入 localStorage
+  for (const k of Object.keys(backup.data)) {
+    if (k === 'user_dict' || k === 'wordbooks') continue;
+    localStorage.setItem(k, backup.data[k]);
+  }
 }
 
 async function fetchBackupContent(name: string): Promise<BackupFile> {
@@ -205,7 +217,7 @@ export function initBackupUI(): void {
   const refreshBtn = document.getElementById('backup-refresh');
   const listBox = document.getElementById('backup-list');
 
-  exportBtn?.addEventListener('click', () => exportBackupManually());
+  exportBtn?.addEventListener('click', () => void exportBackupManually());
   importBtn?.addEventListener('click', () => importFile?.click());
   importFile?.addEventListener('change', () => {
     const f = importFile.files?.[0];

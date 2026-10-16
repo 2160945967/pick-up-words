@@ -57,6 +57,22 @@ export async function apiPost<T = any>(url: string, body: any): Promise<T> {
   return parseResponse<T>(response);
 }
 
+export async function apiPut<T = any>(url: string, body: any): Promise<T> {
+  const response = await fetchWithTimeout(url, {
+    method: 'PUT',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(body)
+  });
+  return parseResponse<T>(response);
+}
+
+export async function apiDelete<T = any>(url: string): Promise<T> {
+  const response = await fetchWithTimeout(url, { method: 'DELETE' });
+  return parseResponse<T>(response);
+}
+
 export async function apiPostForm<T = any>(url: string, formData: FormData): Promise<T> {
   const response = await fetchWithTimeout(url, {
     method: 'POST',

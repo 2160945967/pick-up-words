@@ -680,3 +680,196 @@ input[type="range"] { accent-color: var(--primary-blue); cursor: pointer; }
 }
 .grade-skip:hover { color: var(--primary-blue); }
 @media (max-width: 480px) { .grade-options { grid-template-columns: repeat(2, 1fr); } }
+/* ==================== 词库管理（用户词典） ==================== */
+.user-dict-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+.user-dict-search {
+    flex: 1;
+    min-width: 140px;
+    padding: 8px 12px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    font-size: 14px;
+    background: var(--bg-white, #fff);
+    color: var(--text-dark);
+}
+.user-dict-type-filter {
+    padding: 8px 10px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    font-size: 14px;
+    background: var(--bg-white, #fff);
+    color: var(--text-dark);
+}
+.user-dict-hidden-toggle {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 13px;
+    color: var(--text-gray);
+    cursor: pointer;
+    white-space: nowrap;
+}
+.user-dict-count {
+    margin-left: auto;
+    font-size: 13px;
+    color: var(--text-gray);
+}
+.user-dict-btn {
+    padding: 8px 14px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    background: var(--bg-white, #fff);
+    color: var(--text-dark);
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+}
+.user-dict-btn:hover {
+    border-color: var(--primary-blue, #3498db);
+    color: var(--primary-blue, #3498db);
+}
+.user-dict-btn-primary {
+    background: var(--primary-blue, #3498db);
+    border-color: var(--primary-blue, #3498db);
+    color: #fff;
+}
+.user-dict-btn-primary:hover {
+    filter: brightness(1.08);
+    color: #fff;
+}
+.user-dict-btn-sm {
+    padding: 4px 10px;
+    font-size: 12px;
+}
+.user-dict-btn-danger:hover {
+    border-color: #e74c3c;
+    color: #e74c3c;
+}
+.user-dict-list {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    background: var(--bg-white, #fff);
+    padding: 4px;
+}
+.user-dict-empty {
+    padding: 32px 12px;
+    text-align: center;
+    color: var(--text-gray);
+    font-size: 14px;
+}
+.user-dict-item {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: var(--radius-sm);
+    transition: background 0.15s;
+}
+.user-dict-item:hover {
+    background: var(--bg-light);
+}
+.user-dict-item + .user-dict-item {
+    border-top: 1px solid var(--border-color);
+}
+.user-dict-item-main {
+    flex: 1;
+    min-width: 0;
+}
+.user-dict-item-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.user-dict-item-word {
+    font-weight: 700;
+    font-size: 15px;
+    color: var(--text-dark);
+    word-break: break-word;
+}
+.user-dict-item-type {
+    font-size: 12px;
+    color: var(--text-gray);
+    background: var(--bg-light);
+    padding: 2px 8px;
+    border-radius: 10px;
+}
+.user-dict-badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 10px;
+}
+.user-dict-badge-own {
+    color: #27ae60;
+    background: rgba(39, 174, 96, 0.12);
+}
+.user-dict-badge-custom {
+    color: #e67e22;
+    background: rgba(230, 126, 34, 0.12);
+}
+.user-dict-badge-hidden {
+    color: #95a5a6;
+    background: rgba(149, 165, 166, 0.15);
+}
+.user-dict-item-trans {
+    margin-top: 4px;
+    font-size: 13px;
+    color: var(--text-dark);
+    word-break: break-word;
+}
+.user-dict-item-example {
+    margin-top: 3px;
+    font-size: 12px;
+    color: var(--text-gray);
+    word-break: break-word;
+}
+.user-dict-item-actions {
+    display: flex;
+    gap: 6px;
+    flex-shrink: 0;
+    align-items: center;
+}
+.user-dict-form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+}
+.user-dict-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.user-dict-field-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+.user-dict-required {
+    color: #e74c3c;
+    font-style: normal;
+}
+.user-dict-field input,
+.user-dict-field select {
+    padding: 8px 12px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    font-size: 14px;
+    background: var(--bg-white, #fff);
+    color: var(--text-dark);
+}
+.user-dict-field input:focus,
+.user-dict-field select:focus {
+    outline: none;
+    border-color: var(--primary-blue, #3498db);
+}
+.user-dict-hint {
+    font-size: 12px;
+    min-height: 16px;
+}

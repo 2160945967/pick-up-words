@@ -1794,7 +1794,7 @@ export async function translateText(text: string): Promise<void> {
                 const meanings = parseMeanings(data.translation, '', { word: text });
                 if (meanings.length > 0) {
                     translationHtml = meanings.map((m: any) => {
-                        const part = m.part && m.part !== '词组' ? `<strong>${m.part}</strong> ` : '';
+                        const part = m.part ? `<strong>${m.part}</strong> ` : '';
                         return `${part}${m.definition}`;
                     }).join('<br>');
                 }

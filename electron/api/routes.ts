@@ -5,7 +5,8 @@ import { Request, Response } from 'express';
 import {
   getMainDb, getExamplesDb, getExamplesDbPath, getLemmaDB,
   getWordRootDB, getResembleDB, getWordEnhancedInfo,
-  findExamplesForWord, cleanTranslation, cleanPhonetic
+  findExamplesForWord, cleanTranslation, cleanPhonetic,
+  getUserDb, normalizeUserWord
 } from '../services/database';
 import { getTTS } from '../services/tts';
 import { recognizeWithSherpa, isSherpaModelReady } from '../services/sherpa_asr';
@@ -155,18 +156,94 @@ function extractWordsFromText(text: string): string[] {
   return words;
 }
 
+// 用户词条 → 与 stardict 同构的翻译串（前置词性标签），前端 parseMeanings 可直接解析
+// 名词等用英文词性标签前置；词组/短语/句子不前置（避免被当作词性解析），类型经 pos 传中文标签
+const USER_DICT_TYPE_LABELS: Record<string, string> = {
+  noun: 'n.', adj: 'adj.', verb: 'v.', adv: 'adv.', phrase: '', idiom: '', sentence: '',
+};
+const USER_DICT_TYPE_POS: Record<string, string> = {
+  noun: 'n.', adj: 'adj.', verb: 'v.', adv: 'adv.', phrase: '词组', idiom: '短语', sentence: '句子',
+};
+
+function userDictToStardictShape(item: any): any {
+  const label = USER_DICT_TYPE_LABELS[item.word_type] ?? '';
+  const translation = label
+    ? `${label}${item.translation ? ' ' + item.translation : ''}`
+    : (item.translation || '');
+  return {
+    id: `user_${item.id}`,
+    word: item.word_display || item.word,
+    sw: item.word,
+    phonetic: '',
+    definition: item.definition || '',
+    translation,
+    pos: USER_DICT_TYPE_POS[item.word_type] ?? label,
+    collins: 0,
+    oxford: 0,
+    tag: '',
+    bnc: null,
+    frq: null,
+    exchange: '',
+    audio: '',
+    from_dicts: ['user'],
+    input_type: classifyText(item.word_display || item.word),
+    user_entry: {
+      id: item.id,
+      word_type: item.word_type,
+      example: item.example || '',
+      example_trans: item.example_trans || '',
+      tags: item.tags || '',
+      is_custom: item.is_custom,
+      override_mode: item.override_mode,
+    },
+  };
+}
+
 function queryDict(word: string): any {
   const mainDb = getMainDb();
-  if (!mainDb) return null;
+  const stardict = mainDb ? mainDb.query(word) : null;
+  const userItem = getUserDb().getByWord(word);
 
-  const result = mainDb.query(word);
-  if (!result) return null;
+  // 隐藏优先：无论词典里是否有该词，隐藏后搜索不到（恢复前不显示任何来源）
+  if (userItem && userItem.hidden === 1) return null;
 
-  const merged = { ...result };
-  if (!merged.word) merged.word = merged.sw || word;
-  merged.from_dicts = ['stardict'];
-  merged.input_type = classifyText(word);
-  return merged;
+  // 自建词（不在 stardict 或明确标记 is_custom）：作为主结果
+  if (userItem && userItem.is_custom === 1 && userItem.translation) {
+    return userDictToStardictShape(userItem);
+  }
+
+  if (stardict) {
+    const merged = { ...stardict };
+    if (!merged.word) merged.word = merged.sw || word;
+    merged.from_dicts = ['stardict'];
+    // stardict 词的自定义释义：replace 覆盖 / merge 追加
+    if (userItem && userItem.translation) {
+      const customShape = userDictToStardictShape(userItem);
+      if (userItem.override_mode === 'replace') {
+        merged.translation = customShape.translation;
+        if (userItem.definition) merged.definition = userItem.definition;
+      } else {
+        merged.translation = merged.translation
+          ? `${merged.translation}\n【自定义】${customShape.translation}`
+          : `【自定义】${customShape.translation}`;
+        if (userItem.definition) {
+          merged.definition = merged.definition
+            ? `${merged.definition}\n${userItem.definition}`
+            : userItem.definition;
+        }
+      }
+      merged.from_dicts = ['stardict', 'user'];
+      merged.user_entry = customShape.user_entry;
+    }
+    merged.input_type = classifyText(word);
+    return merged;
+  }
+
+  // stardict 没有但 user 有（含兜底：is_custom=0 但词典已不可查）
+  if (userItem && userItem.translation) {
+    return userDictToStardictShape(userItem);
+  }
+  return null;
 }
 
 // ==================== 单词本文件操作 ====================
@@ -502,7 +579,15 @@ export function setupRoutes(app: any) {
         return;
       }
 
-      const results = mainDb.searchByChinese(keyword, 50);
+      const userResults = getUserDb().searchByTranslation(keyword, 20).map((it: any) => ({
+        id: `user_${it.id}`,
+        word: it.word_display || it.word,
+        translation: userDictToStardictShape(it).translation,
+      }));
+      const stardictResults = mainDb.searchByChinese(keyword, 50);
+      // 用户词条排前，去重（同一词不再重复展示词典条目）
+      const userWords = new Set(userResults.map((r: any) => r.word.toLowerCase()));
+      const results = [...userResults, ...stardictResults.filter((r: any) => !userWords.has(r.word.toLowerCase()))];
       console.log('[API] /api/search-chinese 搜索结果:', keyword, results.length);
       res.json(successResponse(results));
     } catch (e: any) {
@@ -550,15 +635,22 @@ export function setupRoutes(app: any) {
       }
 
       const cached = examplesCache.get(word);
-      if (cached !== undefined) {
-        res.json(successResponse(cached));
-        return;
-      }
-
-      const examples = findExamplesForWord(word);
-      if (examples && examples.length > 0) {
+      let examples = cached !== undefined ? cached : findExamplesForWord(word);
+      if (cached === undefined && examples && examples.length > 0) {
         examplesCache.put(word, examples);
       }
+
+      // 用户自定义例句排前（每次读取，编辑即时生效；不进缓存）
+      const userItem = getUserDb().getByWord(word);
+      if (userItem && userItem.hidden !== 1 && userItem.example) {
+        const userExample = {
+          id: `user_ex_${userItem.id}`,
+          eng_text: userItem.example,
+          cmn_text: userItem.example_trans || '',
+        };
+        examples = [userExample, ...(examples || [])];
+      }
+
       res.json(successResponse(examples));
     } catch (e: any) {
       res.status(500).json(errorResponse(e.message || '查询例句失败', 500));
@@ -2005,6 +2097,264 @@ export function setupRoutes(app: any) {
     }
   });
 
+  // ---------------- 用户词典（可编辑词库） ----------------
+
+  // CSV 字段转义（含逗号/引号/换行时加引号，引号加倍）
+  const csvEscape = (v: any): string => {
+    const s = v == null ? '' : String(v);
+    return /[",\n\r]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+  };
+  const USER_DICT_CSV_COLUMNS = ['word', 'word_type', 'translation', 'definition', 'example', 'example_trans', 'tags', 'override_mode', 'hidden'];
+
+  // 列表：?q=&type=&include_hidden=&limit=&offset=
+  app.get('/api/user-dict', (req: Request, res: Response) => {
+    try {
+      const userDb = getUserDb();
+      const q = (req.query.q as string || '').trim();
+      const type = (req.query.type as string || '').trim();
+      const includeHidden = String(req.query.include_hidden || '') === 'true';
+      const limit = parseInt(req.query.limit as string || '100', 10);
+      const offset = parseInt(req.query.offset as string || '0', 10);
+      const { items, total } = userDb.list({ q, type, includeHidden, limit, offset });
+      res.json(successResponse({ items, total }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '查询用户词典失败', 500));
+    }
+  });
+
+  // 全量导出（供备份），含隐藏条目
+  app.get('/api/user-dict/all', (req: Request, res: Response) => {
+    try {
+      res.json(successResponse(getUserDb().exportAll()));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '导出失败', 500));
+    }
+  });
+
+  // 探测词条（新增/编辑表单失焦调用）：返回用户条目 + stardict 是否已有
+  app.get('/api/user-dict/word/:word', (req: Request, res: Response) => {
+    try {
+      const word = String(req.params.word || '').trim();
+      if (!word) {
+        res.status(400).json(errorResponse('请提供词条', 400));
+        return;
+      }
+      const userDb = getUserDb();
+      const item = userDb.getByWord(word);
+      const stardictExists = !!getMainDb()?.query(word);
+      res.json(successResponse({ item, stardict_exists: stardictExists }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '查询词条失败', 500));
+    }
+  });
+
+  // 新增词条
+  app.post('/api/user-dict', (req: Request, res: Response) => {
+    try {
+      const body = req.body || {};
+      const userDb = getUserDb();
+      const existing = userDb.getByWord(body.word);
+      if (existing) {
+        res.status(409).json(errorResponse('词条已存在，请改为编辑该词条', 409));
+        return;
+      }
+      const stardictExists = !!getMainDb()?.query(String(body.word || ''));
+      const item = userDb.insert({
+        word: String(body.word || ''),
+        word_display: body.word_display || String(body.word || '').trim(),
+        word_type: body.word_type,
+        translation: String(body.translation || ''),
+        definition: body.definition,
+        example: body.example,
+        example_trans: body.example_trans,
+        tags: body.tags,
+        // stardict 里已有的词 → 标记为自定义释义条目
+        is_custom: stardictExists ? 0 : 1,
+        override_mode: body.override_mode,
+      });
+      res.json(successResponse({ item }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '新增词条失败', 500));
+    }
+  });
+
+  // 编辑词条
+  app.put('/api/user-dict/:id', (req: Request, res: Response) => {
+    try {
+      const id = parseInt(req.params.id, 10);
+      if (!Number.isInteger(id)) {
+        res.status(400).json(errorResponse('无效的词条 ID', 400));
+        return;
+      }
+      const body = req.body || {};
+      const item = getUserDb().update(id, {
+        word_display: body.word_display,
+        word_type: body.word_type,
+        translation: body.translation,
+        definition: body.definition,
+        example: body.example,
+        example_trans: body.example_trans,
+        tags: body.tags,
+        override_mode: body.override_mode,
+      });
+      res.json(successResponse({ item }));
+    } catch (e: any) {
+      const code = e.message === '词条不存在' ? 404 : 500;
+      res.status(code).json(errorResponse(e.message || '编辑词条失败', code));
+    }
+  });
+
+  // 删除词条：自建 → 真删；stardict 自定义释义条 → 删条目恢复原释义；
+  // 纯隐藏条（无释义的 stardict 隐藏标记）→ 取消隐藏恢复可见
+  app.delete('/api/user-dict/:id', (req: Request, res: Response) => {
+    try {
+      const id = parseInt(req.params.id, 10);
+      if (!Number.isInteger(id)) {
+        res.status(400).json(errorResponse('无效的词条 ID', 400));
+        return;
+      }
+      const userDb = getUserDb();
+      const item = userDb.getById(id);
+      if (!item) {
+        res.status(404).json(errorResponse('词条不存在', 404));
+        return;
+      }
+      const stardictExists = !!getMainDb()?.query(item.word);
+      if (item.is_custom === 1 || !stardictExists) {
+        userDb.deleteById(id);
+        res.json(successResponse({ deleted: true, restored: false }));
+      } else if (item.hidden === 1 && !item.translation) {
+        // 纯隐藏标记条：删除 = 恢复可见
+        userDb.deleteById(id);
+        res.json(successResponse({ deleted: true, restored: true }));
+      } else {
+        // stardict 词的自定义释义条：删掉即恢复词典原释义
+        userDb.deleteById(id);
+        res.json(successResponse({ deleted: true, restored: true }));
+      }
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '删除词条失败', 500));
+    }
+  });
+
+  // 隐藏 / 恢复（按 id）
+  app.post('/api/user-dict/:id/hide', (req: Request, res: Response) => {
+    try {
+      const id = parseInt(req.params.id, 10);
+      const item = getUserDb().setHidden(id, true);
+      res.json(successResponse({ item }));
+    } catch (e: any) {
+      const code = e.message === '词条不存在' ? 404 : 500;
+      res.status(code).json(errorResponse(e.message || '隐藏失败', code));
+    }
+  });
+  app.post('/api/user-dict/:id/unhide', (req: Request, res: Response) => {
+    try {
+      const id = parseInt(req.params.id, 10);
+      const item = getUserDb().setHidden(id, false);
+      res.json(successResponse({ item }));
+    } catch (e: any) {
+      const code = e.message === '词条不存在' ? 404 : 500;
+      res.status(code).json(errorResponse(e.message || '恢复失败', code));
+    }
+  });
+
+  // 按 word 隐藏/恢复（用于隐藏 stardict 词，无须先建自定义条目）
+  app.post('/api/user-dict/hide-word', (req: Request, res: Response) => {
+    try {
+      const word = String((req.body && req.body.word) || '').trim();
+      const hidden = !!(req.body && req.body.hidden);
+      if (!word) {
+        res.status(400).json(errorResponse('请提供词条', 400));
+        return;
+      }
+      const userDb = getUserDb();
+      const stardictExists = !!getMainDb()?.query(word);
+      const item = userDb.setHiddenByWord(word, hidden, stardictExists ? 0 : 1);
+      res.json(successResponse({ item }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '操作失败', 500));
+    }
+  });
+
+  // CSV 导出（含 hidden 状态列）
+  app.get('/api/user-dict/export', (req: Request, res: Response) => {
+    try {
+      const items = getUserDb().exportAll();
+      const lines = [USER_DICT_CSV_COLUMNS.join(',')];
+      for (const it of items) {
+        lines.push(USER_DICT_CSV_COLUMNS.map(c => csvEscape((it as any)[c])).join(','));
+      }
+      // 带 BOM，Excel 打开 CSV 中文不乱码
+      const buf = Buffer.from('\uFEFF' + lines.join('\r\n'), 'utf-8');
+      res.set('Content-Type', 'text/csv;charset=utf-8');
+      res.set('Content-Disposition', `attachment; filename="user_dict.csv"`);
+      res.send(buf);
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '导出失败', 500));
+    }
+  });
+
+  // CSV 导入（批量 upsert，逐行校验返回行级错误）
+  app.post('/api/user-dict/import', upload.single('file'), async (req: Request, res: Response) => {
+    try {
+      const file = (req as any).file;
+      if (!file || !file.buffer || file.size === 0) {
+        res.status(400).json(errorResponse('请上传 CSV 文件'));
+        return;
+      }
+      const { parse } = await import('csv-parse');
+      const rows: Array<Record<string, string>> = await new Promise((resolve, reject) => {
+        parse(file.buffer, {
+          columns: true,
+          bom: true,
+          skip_empty_lines: true,
+          relax_column_count: true,
+          trim: true,
+        }, (err: any, records: any) => err ? reject(err) : resolve(records));
+      });
+      if (rows.length > 5000) {
+        res.status(400).json(errorResponse(`单次导入最多 5000 行，当前 ${rows.length} 行`));
+        return;
+      }
+      const errors: Array<{ line: number; msg: string }> = [];
+      const valid: Array<Record<string, any>> = [];
+      rows.forEach((r, i) => {
+        const word = String(r.word || '').trim();
+        const translation = String(r.translation || '').trim();
+        if (!word) { errors.push({ line: i + 2, msg: '词条为空' }); return; }
+        if (!translation && String(r.hidden || '') !== '1') {
+          errors.push({ line: i + 2, msg: '翻译为空（隐藏标记行除外）' });
+          return;
+        }
+        valid.push({
+          word,
+          word_display: word,
+          word_type: String(r.word_type || 'phrase').trim(),
+          translation,
+          definition: r.definition || '',
+          example: r.example || '',
+          example_trans: r.example_trans || '',
+          tags: r.tags || '',
+          override_mode: r.override_mode === 'replace' ? 'replace' : 'merge',
+          hidden: r.hidden === '1' || String(r.hidden).toLowerCase() === 'true' ? 1 : 0,
+        });
+      });
+      const userDb = getUserDb();
+      // 标记 stardict 已有词的覆盖条目
+      const mainDb = getMainDb();
+      for (const v of valid) {
+        v.is_custom = mainDb?.query(v.word) ? 0 : 1;
+      }
+      const { added, updated } = valid.length > 0
+        ? userDb.upsertMany(valid)
+        : { added: 0, updated: 0 };
+      res.json(successResponse({ added, updated, skipped: errors.length, errors }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '导入失败', 500));
+    }
+  });
+
   // ---------------- 判题日志（全本地，供评测集采样 / 阈值标定） ----------------
   // 追加一条判题记录
   app.post('/api/grading-log', (req: Request, res: Response) => {
@@ -2084,6 +2434,11 @@ export function setupRoutes(app: any) {
         const wb = loadWordbooks();
         if (wb && Object.keys(wb).length) body.data.wordbooks = JSON.stringify(wb);
       } catch {}
+      // 用户词典一并入备份（含隐藏条目）
+      try {
+        const ud = getUserDb().exportAll();
+        if (ud && ud.length) body.data.user_dict = JSON.stringify(ud);
+      } catch {}
       const file = path.join(BACKUPS_DIR, backupReadableName());
       fs.writeFileSync(file + '.tmp', JSON.stringify(body), 'utf-8');
       fs.renameSync(file + '.tmp', file);
@@ -2141,6 +2496,13 @@ export function setupRoutes(app: any) {
         try {
           const wb = JSON.parse(data.wordbooks);
           if (wb && typeof wb === 'object') saveWordbooks(wb);
+        } catch {}
+      }
+      // 用户词典恢复：按 word 幂等 upsert（含隐藏条目），缺失字段容错
+      if (typeof data.user_dict === 'string') {
+        try {
+          const ud = JSON.parse(data.user_dict);
+          if (Array.isArray(ud) && ud.length) getUserDb().upsertMany(ud);
         } catch {}
       }
       res.json(successResponse({ restored: true }));

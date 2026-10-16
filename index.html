@@ -742,6 +742,15 @@
                             <a href="#" id="asset-manage-link" class="text-link" style="font-size: 14px;">管理数据资源</a>
                         </div>
                     </div>
+
+                    <div class="setting-item" draggable="true" data-setting-key="user-dict">
+                        <span class="drag-handle" title="拖动排序">⋮⋮</span>
+                        <label>词库管理：</label>
+                        <p class="setting-desc">编辑本地词库数据：新增词语/词组/短语/句子及其翻译、自定义已有词条释义、隐藏不想要的词条，支持 CSV 批量导入导出</p>
+                        <div class="setting-action-row">
+                            <a href="#" id="user-dict-link" class="text-link" style="font-size: 14px;">打开词库管理</a>
+                        </div>
+                    </div>
                 </div>
                 <div class="settings-actions" style="grid-column: span 2; margin-top: 20px; display: flex; justify-content: center; gap: 10px;">
                     <button id="save-settings">保存设置</button>
@@ -1153,6 +1162,103 @@
         </div>
     </div>
 
+    <!-- 词库管理弹窗 -->
+    <div id="user-dict-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="user-dict-title" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); z-index: 9999; justify-content: center; align-items: center;">
+        <div class="modal-content glass" style="padding: 24px; max-width: 720px; width: 92%; box-shadow: 0 4px 20px rgba(0,0,0,0.3); max-height: 85vh; display: flex; flex-direction: column;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; flex-shrink: 0;">
+                <h2 class="modal-title" id="user-dict-title">词库管理</h2>
+                <button id="user-dict-close" class="modal-close-btn" aria-label="关闭弹窗">&times;</button>
+            </div>
+
+            <!-- 列表视图 -->
+            <div id="user-dict-list-view" style="display: flex; flex-direction: column; min-height: 0; flex: 1;">
+                <div class="user-dict-toolbar" style="flex-shrink: 0;">
+                    <input type="text" id="user-dict-search" placeholder="搜索词条或翻译…" class="user-dict-search">
+                    <select id="user-dict-type-filter" class="user-dict-type-filter" aria-label="按类型筛选">
+                        <option value="">全部类型</option>
+                        <option value="noun">名词</option>
+                        <option value="adj">形容词</option>
+                        <option value="verb">动词</option>
+                        <option value="adv">副词</option>
+                        <option value="phrase">词组</option>
+                        <option value="idiom">短语</option>
+                        <option value="sentence">句子</option>
+                    </select>
+                    <label class="user-dict-hidden-toggle"><input type="checkbox" id="user-dict-show-hidden"> 显示已隐藏</label>
+                    <button id="user-dict-add" class="user-dict-btn user-dict-btn-primary">新增词条</button>
+                </div>
+                <div class="user-dict-toolbar" style="flex-shrink: 0;">
+                    <button id="user-dict-import" class="user-dict-btn">导入 CSV</button>
+                    <button id="user-dict-export" class="user-dict-btn">导出 CSV</button>
+                    <input type="file" id="user-dict-import-file" accept=".csv,text/csv" hidden>
+                    <span id="user-dict-count" class="user-dict-count"></span>
+                </div>
+                <div id="user-dict-list" class="user-dict-list" style="overflow-y: auto; flex: 1; min-height: 0;">
+                    <!-- 由 JS 动态生成 -->
+                </div>
+            </div>
+
+            <!-- 新增/编辑表单视图 -->
+            <div id="user-dict-form-view" style="display: none; flex-direction: column; min-height: 0; overflow-y: auto;">
+                <h3 id="user-dict-form-title" style="margin: 0 0 12px; font-size: 17px;">新增词条</h3>
+                <div class="user-dict-form-grid">
+                    <label class="user-dict-field">
+                        <span class="user-dict-field-label">词条 <em class="user-dict-required">*</em></span>
+                        <input type="text" id="user-dict-f-word" placeholder="如 apple / it's still early days" autocomplete="off">
+                        <span id="user-dict-f-hint" class="user-dict-hint"></span>
+                    </label>
+                    <label class="user-dict-field">
+                        <span class="user-dict-field-label">类型 <em class="user-dict-required">*</em></span>
+                        <select id="user-dict-f-type">
+                            <option value="noun">名词</option>
+                            <option value="adj">形容词</option>
+                            <option value="verb">动词</option>
+                            <option value="adv">副词</option>
+                            <option value="phrase" selected>词组</option>
+                            <option value="idiom">短语</option>
+                            <option value="sentence">句子</option>
+                        </select>
+                    </label>
+                    <label class="user-dict-field">
+                        <span class="user-dict-field-label">中文翻译 <em class="user-dict-required">*</em></span>
+                        <input type="text" id="user-dict-f-translation" placeholder="如 尚在初期">
+                    </label>
+                    <label class="user-dict-field">
+                        <span class="user-dict-field-label">英文释义（可选）</span>
+                        <input type="text" id="user-dict-f-definition" placeholder="英文解释">
+                    </label>
+                    <label class="user-dict-field">
+                        <span class="user-dict-field-label">例句（可选）</span>
+                        <input type="text" id="user-dict-f-example" placeholder="英文例句">
+                    </label>
+                    <label class="user-dict-field">
+                        <span class="user-dict-field-label">例句翻译（可选）</span>
+                        <input type="text" id="user-dict-f-example-trans" placeholder="例句中文翻译">
+                    </label>
+                    <label class="user-dict-field">
+                        <span class="user-dict-field-label">标签（可选，逗号分隔）</span>
+                        <input type="text" id="user-dict-f-tags" placeholder="如 cet4,重点">
+                    </label>
+                    <label class="user-dict-field" id="user-dict-f-override-row" style="display: none;">
+                        <span class="user-dict-field-label">释义显示方式</span>
+                        <select id="user-dict-f-override">
+                            <option value="merge">合并显示（追加到词典释义后）</option>
+                            <option value="replace">替换词典释义</option>
+                        </select>
+                    </label>
+                </div>
+                <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 18px; flex-shrink: 0;">
+                    <button id="user-dict-f-cancel" class="user-dict-btn">取消</button>
+                    <button id="user-dict-f-save" class="user-dict-btn user-dict-btn-primary">保存</button>
+                </div>
+            </div>
+
+            <div style="display: flex; justify-content: flex-end; margin-top: 14px; flex-shrink: 0;">
+                <button id="user-dict-done" class="asset-download-btn" style="background: var(--primary-blue, #3498db);">完成</button>
+            </div>
+        </div>
+    </div>
+
     <!-- 使用说明弹窗 -->
     <div id="usage-guide-modal" class="modal-overlay usage-guide-overlay" role="dialog" aria-modal="true" aria-labelledby="usage-guide-title" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.55); z-index: 10000; justify-content: center; align-items: center;">
         <div class="modal-content glass usage-guide-modal" style="padding: 0; max-width: 720px; width: 92%; max-height: 85vh; display: flex; flex-direction: column; box-shadow: 0 8px 40px rgba(0,0,0,0.3);">
@@ -1340,6 +1446,7 @@
                             <li><strong>API设置：</strong>可配置自定义腾讯云翻译API密钥，留空使用默认密钥。</li>
                             <li><strong>每日学习单词数：</strong>设置每日新学单词目标。</li>
                             <li><strong>数据资源管理：</strong>管理词库、例句库、语音识别模型、离线发音包的下载和删除。</li>
+                            <li><strong>词库管理：</strong>编辑自己的词库数据。可新增、修改、删除词条（支持单词、词组、短语、句子等类型，词库没有的词可直接新建）；内置词典的词条删除即隐藏（可随时恢复），自建词条为真删除；支持按中文释义搜索、隐藏/恢复、CSV 导入导出。保存后立即生效，查词、搜索联想、中文搜索都会同步更新。</li>
                             <li><strong>数据备份与恢复：</strong>可手动导出 / 导入全部学习数据；默认开启磁盘自动备份（定时 + 退出前落盘，保留最近 10 份），备份文件按「拾词备份_年-月-日_时-分-秒」命名，可查看、恢复、下载或删除历史备份。</li>
                         </ul>
                         <p><strong>清除数据：</strong>可清除本地存储数据、翻译缓存和音频缓存。</p>
