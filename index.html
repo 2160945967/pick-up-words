@@ -746,7 +746,7 @@
                     <div class="setting-item" draggable="true" data-setting-key="user-dict">
                         <span class="drag-handle" title="拖动排序">⋮⋮</span>
                         <label>词库管理：</label>
-                        <p class="setting-desc">编辑本地词库数据：新增词语/词组/短语/句子及其翻译、自定义已有词条释义、隐藏不想要的词条，支持 CSV 批量导入导出</p>
+                        <p class="setting-desc">「我的备注」新增/自定义/隐藏词条，支持 CSV 导入导出；「词库修改」直接编辑词典释义，支持撤销/重做与版本恢复</p>
                         <div class="setting-action-row">
                             <a href="#" id="user-dict-link" class="text-link" style="font-size: 14px;">打开词库管理</a>
                         </div>
@@ -1170,6 +1170,14 @@
                 <button id="user-dict-close" class="modal-close-btn" aria-label="关闭弹窗">&times;</button>
             </div>
 
+            <!-- 标签切换：我的备注 / 词库修改 -->
+            <div class="user-dict-tabs" role="tablist" style="flex-shrink: 0;">
+                <button class="user-dict-tab active" data-tab="note" role="tab">我的备注</button>
+                <button class="user-dict-tab" data-tab="edit" role="tab">词库修改</button>
+            </div>
+
+            <!-- 我的备注（原有用户词典功能） -->
+            <div id="user-dict-tab-note" style="display: flex; flex-direction: column; min-height: 0; flex: 1;">
             <!-- 列表视图 -->
             <div id="user-dict-list-view" style="display: flex; flex-direction: column; min-height: 0; flex: 1;">
                 <div class="user-dict-toolbar" style="flex-shrink: 0;">
@@ -1252,6 +1260,46 @@
                     <button id="user-dict-f-save" class="user-dict-btn user-dict-btn-primary">保存</button>
                 </div>
             </div>
+            </div><!-- /user-dict-tab-note -->
+
+            <!-- 词库修改（释义级编辑 + 版本留痕） -->
+            <div id="user-dict-tab-edit" style="display: none; flex-direction: column; min-height: 0; flex: 1;">
+                <div class="user-dict-toolbar" style="flex-shrink: 0;">
+                    <input type="text" id="dict-edit-search" placeholder="输入词库中的英文单词…" class="user-dict-search" autocomplete="off">
+                    <button id="dict-edit-load" class="user-dict-btn user-dict-btn-primary">载入</button>
+                </div>
+                <div id="dict-edit-status-bar" class="dict-edit-status-bar" style="display: none;"></div>
+
+                <!-- 编辑视图 -->
+                <div id="dict-edit-view" style="display: none; flex-direction: column; min-height: 0; flex: 1;">
+                    <div class="dict-edit-word-head">
+                        <span class="dict-edit-word" id="dict-edit-word"></span>
+                        <span class="dict-edit-phonetic" id="dict-edit-phonetic"></span>
+                    </div>
+                    <div class="user-dict-toolbar" style="flex-shrink: 0;">
+                        <button id="dict-edit-add" class="user-dict-btn">新增释义</button>
+                        <button id="dict-edit-undo" class="user-dict-btn">撤销</button>
+                        <button id="dict-edit-redo" class="user-dict-btn">重做</button>
+                        <button id="dict-edit-history-btn" class="user-dict-btn">版本历史</button>
+                    </div>
+                    <div id="dict-edit-entries" class="dict-edit-entries" style="overflow-y: auto; flex: 1; min-height: 0;">
+                        <!-- 由 JS 动态生成：按词性分组的释义卡片 -->
+                    </div>
+                    <div class="dict-edit-footnote">修改记录保留 14 天，期间可随时撤销 / 重做 / 恢复到任意版本</div>
+                </div>
+
+                <!-- 版本历史子视图 -->
+                <div id="dict-edit-history-view" style="display: none; flex-direction: column; min-height: 0; flex: 1;">
+                    <div class="user-dict-toolbar" style="flex-shrink: 0;">
+                        <button id="dict-edit-history-back" class="user-dict-btn">返回编辑</button>
+                        <span class="dict-edit-history-title">版本历史（点击「恢复到此版本」可跳转到任意版本）</span>
+                    </div>
+                    <div id="dict-edit-history-list" class="dict-edit-history-list" style="overflow-y: auto; flex: 1; min-height: 0;">
+                        <!-- 由 JS 动态生成 -->
+                    </div>
+                    <div class="dict-edit-footnote">记录保留 14 天，过期记录自动清理；恢复操作本身也会生成新版本，可继续撤销</div>
+                </div>
+            </div><!-- /user-dict-tab-edit -->
 
             <div style="display: flex; justify-content: flex-end; margin-top: 14px; flex-shrink: 0;">
                 <button id="user-dict-done" class="asset-download-btn" style="background: var(--primary-blue, #3498db);">完成</button>
@@ -1446,7 +1494,7 @@
                             <li><strong>API设置：</strong>可配置自定义腾讯云翻译API密钥，留空使用默认密钥。</li>
                             <li><strong>每日学习单词数：</strong>设置每日新学单词目标。</li>
                             <li><strong>数据资源管理：</strong>管理词库、例句库、语音识别模型、离线发音包的下载和删除。</li>
-                            <li><strong>词库管理：</strong>编辑自己的词库数据。可新增、修改、删除词条（支持单词、词组、短语、句子等类型，词库没有的词可直接新建）；内置词典的词条删除即隐藏（可随时恢复），自建词条为真删除；支持按中文释义搜索、隐藏/恢复、CSV 导入导出。保存后立即生效，查词、搜索联想、中文搜索都会同步更新。</li>
+                            <li><strong>词库管理：</strong>弹窗内分两个标签。<strong>「我的备注」</strong>管理你自己的词条：新增、修改、删除（支持单词、词组、短语、句子等类型，词库没有的词可直接新建）；内置词典的词条删除即隐藏（可随时恢复），自建词条为真删除；支持按中文释义搜索、隐藏/恢复、CSV 导入导出。<strong>「词库修改」</strong>直接修改内置词典的释义：可增、删、改单条释义（含改词性），也可一键删除某个词性的全部释义；所有修改都有二次确认，并自动生成修改记录，支持「撤销 / 重做」（Ctrl+Z / Ctrl+Y）和「版本历史」恢复到任意版本（含恢复到原始词库数据），记录保留 14 天。保存后立即生效，查词、搜索联想、中文搜索都会同步更新。</li>
                             <li><strong>数据备份与恢复：</strong>可手动导出 / 导入全部学习数据；默认开启磁盘自动备份（定时 + 退出前落盘，保留最近 10 份），备份文件按「拾词备份_年-月-日_时-分-秒」命名，可查看、恢复、下载或删除历史备份。</li>
                         </ul>
                         <p><strong>清除数据：</strong>可清除本地存储数据、翻译缓存和音频缓存。</p>
@@ -1481,6 +1529,7 @@
                             <li>设置中所有带 ⋮⋮ 拖拽手柄的项目均可拖动调整顺序。</li>
                             <li>弹窗打开时快捷键会自动禁用，关闭后恢复。</li>
                             <li>资源下载支持暂停和恢复，关闭程序后下次启动自动继续。</li>
+                            <li>词库管理「词库修改」标签中，<strong>Ctrl+Z 撤销、Ctrl+Y（或 Ctrl+Shift+Z）重做</strong>（输入框聚焦时不触发）。</li>
                         </ul>
                     </div>
                 </div>

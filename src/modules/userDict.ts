@@ -208,7 +208,7 @@ async function setItemHidden(id: number, hidden: boolean): Promise<void> {
 }
 
 /** 保存/隐藏/删除后立即刷新词典当前查询结果（即时生效） */
-async function refreshDictResult(): Promise<void> {
+export async function refreshDictResult(): Promise<void> {
     try {
         const searchInput = document.getElementById('word') as HTMLInputElement | null;
         const currentWord = searchInput ? searchInput.value.trim() : '';
@@ -279,6 +279,18 @@ export function initUserDict(): void {
     $('user-dict-done')!.addEventListener('click', close);
     modal.addEventListener('click', (e: MouseEvent) => {
         if (e.target === modal) close();
+    });
+
+    // 标签切换：我的备注 / 词库修改（词库修改面板由 dictEdit 模块接管）
+    modal.querySelectorAll<HTMLButtonElement>('.user-dict-tab').forEach((tab) => {
+        tab.addEventListener('click', () => {
+            const name = tab.dataset.tab;
+            modal.querySelectorAll('.user-dict-tab').forEach(t => t.classList.toggle('active', t === tab));
+            const note = $('user-dict-tab-note');
+            const edit = $('user-dict-tab-edit');
+            if (note) note.style.display = name === 'note' ? 'flex' : 'none';
+            if (edit) edit.style.display = name === 'edit' ? 'flex' : 'none';
+        });
     });
 
     // 工具条

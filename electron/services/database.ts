@@ -3,14 +3,16 @@ import * as fs from 'fs';
 import Database from 'better-sqlite3';
 import { parse } from 'csv-parse';
 import { LRUCache } from '../utils/cache';
-import { ROOT_DIR, USER_DATA_DIR, resolveAssetPath } from '../utils/helpers';
+import { ROOT_DIR, USER_DATA_DIR, ASSETS_DIR, resolveAssetPath } from '../utils/helpers';
 import { phoneticToIpa } from './phoneticIpa';
+import { ensureHistoryTables, HistoryConflictError, HistoryGoneError } from './dictEdit/history';
 
 // Database instance type (extracted from the constructor)
 type DatabaseInstance = InstanceType<typeof Database>;
 
 // ==================== 路径解析 ====================
-const MAIN_DB_PATH = resolveAssetPath('stardict.db');
+// 词库不可写时（packaged 安装目录只读）会迁移副本到 ASSETS_DIR，路径需可重解析
+let MAIN_DB_PATH = resolveAssetPath('stardict.db');
 const EXAMPLES_DB_PATH = resolveAssetPath('examples.db');
 const STARDICT_CSV_PATH = resolveAssetPath('stardict.csv');
 const LEMMA_PATH = resolveAssetPath('lemma.en.txt');
@@ -179,9 +181,14 @@ class StarDict {
       CREATE INDEX IF NOT EXISTS "sd_1" ON stardict (word collate nocase);
     `;
 
-    const conn = new Database(this.dbPath);
-    conn.exec(sql);
-    conn.close();
+    try {
+      const conn = new Database(this.dbPath);
+      conn.exec(sql);
+      conn.close();
+    } catch (e) {
+      // packaged 只读安装目录等场景建表失败不阻断启动（表已存在时无影响）
+      console.warn('[DB] stardict 建表跳过（可能只读）:', (e as Error).message);
+    }
   }
 
   private getDb(): DatabaseInstance {
@@ -415,6 +422,33 @@ class StarDict {
     }
     const rows = db.prepare(sql).all(...params) as Array<{ word: string }>;
     return rows.map(r => r.word);
+  }
+
+  /** 当前连接的数据库文件路径 */
+  getDbPath(): string {
+    return this.dbPath;
+  }
+
+  /** 原始 better-sqlite3 连接（供跨库事务等高级操作） */
+  getRawDb(): DatabaseInstance {
+    return this.getDb();
+  }
+
+  /**
+   * 更新某词的 translation（词库修改功能；只动 translation 字段）。
+   * 抛 SQLITE_READONLY 等错误由调用方做只读迁移兜底。
+   */
+  updateTranslation(id: number, translation: string): void {
+    const db = this.getDb();
+    db.prepare('UPDATE stardict SET translation = ? WHERE id = ?').run(translation, id);
+  }
+
+  /** 迁移只读词库后重连到新路径 */
+  reopen(newPath: string): void {
+    this.close();
+    this.dbPath = newPath;
+    this.db = null;
+    this.initTables();
   }
 
   /** 关闭数据库连接 */
@@ -927,6 +961,8 @@ class UserDict {
       CREATE UNIQUE INDEX IF NOT EXISTS idx_user_dict_word ON user_dict(word);
       CREATE INDEX IF NOT EXISTS idx_user_dict_hidden ON user_dict(hidden);
     `);
+    // 词库修改版本留痕表（与 user_dict 同库，备份不含）
+    ensureHistoryTables(conn);
     conn.close();
   }
 
@@ -935,6 +971,11 @@ class UserDict {
       this.db = new Database(this.dbPath);
     }
     return this.db;
+  }
+
+  /** 原始连接（供版本留痕等只读查询使用） */
+  getRawDb(): DatabaseInstance {
+    return this.getDb();
   }
 
   /** 按归一化 word 查询（含隐藏条目） */
@@ -1150,6 +1191,75 @@ function getUserDb(): UserDict {
 
 // ==================== 公共 API ====================
 
+/** 当前 stardict.db 路径（只读迁移后会变为 ASSETS_DIR 副本） */
+function getMainDbPath(): string {
+  return MAIN_DB_PATH;
+}
+
+function isReadonlyError(e: unknown): boolean {
+  const msg = String((e as Error)?.message || e);
+  return /READONLY|read-only|EROFS|EACCES/i.test(msg);
+}
+
+/**
+ * 只读兜底：把 stardict.db 复制到 ASSETS_DIR（resolveAssetPath 优先该目录），
+ * 重连主词典后由调用方重试写入。下次启动自动命中用户副本。
+ */
+function migrateStardictToAssets(): string {
+  const main = _mainDb;
+  const src = main ? main.getDbPath() : MAIN_DB_PATH;
+  const dst = path.join(ASSETS_DIR, 'stardict.db');
+  if (path.resolve(src) === path.resolve(dst)) {
+    throw new Error('词库文件不可写');
+  }
+  fs.mkdirSync(ASSETS_DIR, { recursive: true });
+  if (main) main.close();
+  const tmp = dst + '.tmp';
+  fs.copyFileSync(src, tmp);
+  fs.renameSync(tmp, dst);
+  MAIN_DB_PATH = dst;
+  if (main) main.reopen(dst);
+  else _mainDb = new StarDict(dst);
+  console.log(`[DB] 词库已迁移到用户目录: ${dst}`);
+  return dst;
+}
+
+/**
+ * 跨库原子事务：stardict 连接 ATTACH user_dict.db（别名 hist），
+ * 事务内完成「留痕写入 + 词条更新 + 版本指针」。只读失败自动迁移副本重试一次。
+ */
+function runDictEditTx<T>(fn: (db: DatabaseInstance, histSchema: string) => T): T {
+  const main = _mainDb;
+  if (!main) throw new Error('词典未初始化');
+
+  const attempt = (conn: DatabaseInstance): T => {
+    conn.exec(`ATTACH DATABASE '${USER_DB_PATH.replace(/'/g, "''")}' AS hist`);
+    try {
+      conn.exec('BEGIN IMMEDIATE');
+      try {
+        const result = fn(conn, 'hist');
+        conn.exec('COMMIT');
+        return result;
+      } catch (e) {
+        try { conn.exec('ROLLBACK'); } catch { /* ignore */ }
+        throw e;
+      }
+    } finally {
+      try { conn.exec('DETACH DATABASE hist'); } catch { /* ignore */ }
+    }
+  };
+
+  try {
+    return attempt(main.getRawDb());
+  } catch (e) {
+    if (isReadonlyError(e)) {
+      migrateStardictToAssets();
+      return attempt(_mainDb!.getRawDb());
+    }
+    throw e;
+  }
+}
+
 /** 初始化词典数据库 */
 async function initDatabases(): Promise<void> {
   if (isDbEmpty(MAIN_DB_PATH)) {
@@ -1216,6 +1326,10 @@ export {
   getWordEnhancedInfo,
   findExamplesForWord,
   getMainDb,
+  getMainDbPath,
+  runDictEditTx,
+  HistoryConflictError,
+  HistoryGoneError,
   getExamplesDb,
   getExamplesDbPath,
   buildStardictDbFromCsvs,

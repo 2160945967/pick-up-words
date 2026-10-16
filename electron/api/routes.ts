@@ -6,8 +6,19 @@ import {
   getMainDb, getExamplesDb, getExamplesDbPath, getLemmaDB,
   getWordRootDB, getResembleDB, getWordEnhancedInfo,
   findExamplesForWord, cleanTranslation, cleanPhonetic,
-  getUserDb, normalizeUserWord
+  getUserDb, normalizeUserWord,
+  getMainDbPath, runDictEditTx, HistoryConflictError, HistoryGoneError
 } from '../services/database';
+import { parseEditable, rebuildTranslation, MEANING_POS_OPTIONS, MeaningEntry } from '../services/dictEdit/meaningEdit';
+import {
+  getState as getDictHistoryState,
+  currentEntries as dictCurrentEntries,
+  appendVersion as appendDictVersion,
+  undo as dictHistoryUndo,
+  redo as dictHistoryRedo,
+  restoreTo as dictHistoryRestore,
+  listHistory as listDictHistory
+} from '../services/dictEdit/history';
 import { getTTS } from '../services/tts';
 import { recognizeWithSherpa, isSherpaModelReady } from '../services/sherpa_asr';
 import { translateText, getCachedTranslation, putCachedTranslation, getTranslationCacheData, clearTranslationCache } from '../services/translate';
@@ -2352,6 +2363,244 @@ export function setupRoutes(app: any) {
       res.json(successResponse({ added, updated, skipped: errors.length, errors }));
     } catch (e: any) {
       res.status(500).json(errorResponse(e.message || '导入失败', 500));
+    }
+  });
+
+  // ---------------- 词库修改（释义级编辑 + 版本留痕） ----------------
+  // 所有写操作必须带 confirm: true（前端二次确认后才提交）；
+  // expected_head_seq 乐观锁，防止多窗口/多步操作互相覆盖。
+
+  function dictEditError(res: Response, e: any): void {
+    if (e instanceof HistoryConflictError) {
+      res.status(409).json(errorResponse(e.message, 409));
+    } else if (e instanceof HistoryGoneError) {
+      res.status(400).json(errorResponse(e.message, 400));
+    } else {
+      res.status(500).json(errorResponse(e.message || '词库修改失败', 500));
+    }
+  }
+
+  // 写操作二次确认校验
+  function requireConfirm(body: any, res: Response): boolean {
+    if (!body || body.confirm !== true) {
+      res.status(400).json(errorResponse('危险操作需要二次确认', 400));
+      return false;
+    }
+    return true;
+  }
+
+  // 释义条目校验（允许空数组=清空释义，需二次确认后提交）
+  function normalizeEditEntries(raw: any): MeaningEntry[] | null {
+    if (!Array.isArray(raw)) return null;
+    const out: MeaningEntry[] = [];
+    for (const it of raw) {
+      if (!it || typeof it !== 'object') return null;
+      const pos = String((it as any).pos ?? '').trim();
+      const text = String((it as any).text ?? '').trim();
+      if (!text || pos.length > 16 || text.length > 2000) return null;
+      out.push({ pos, text });
+    }
+    return out;
+  }
+
+  // 当前生效释义：有留痕取 head 快照，无留痕取词库原始数据的可逆拆解
+  function dictEditCurrentEntries(conn: any, histSchema: string, word: string, rawTranslation: string): MeaningEntry[] {
+    return dictCurrentEntries(conn, word, histSchema) ?? parseEditable(cleanTranslation(rawTranslation));
+  }
+
+  // 查询词条（编辑器打开时调用）
+  app.get('/api/dict-edit/word/:word', (req: Request, res: Response) => {
+    try {
+      const word = String(req.params.word || '').trim();
+      if (!word) {
+        res.status(400).json(errorResponse('请提供词条', 400));
+        return;
+      }
+      const mainDb = getMainDb();
+      if (!mainDb) {
+        res.status(503).json(errorResponse('词典未初始化', 503));
+        return;
+      }
+      const row = mainDb.query(word);
+      if (!row) {
+        res.status(404).json(errorResponse('词库中没有该词条', 404));
+        return;
+      }
+      const rawRow = mainDb.getRawDb().prepare('SELECT translation FROM stardict WHERE id = ?').get(row.id) as any;
+      const rawTranslation = String(rawRow?.translation ?? row.translation ?? '');
+      const userDb = getUserDb();
+      const histDb = userDb.getRawDb();
+      const state = getDictHistoryState(histDb, word);
+      const overrideItem = userDb.getByWord(word);
+      res.json(successResponse({
+        word: { id: row.id, word: row.word, phonetic: row.phonetic || '' },
+        raw_translation: rawTranslation,
+        entries: dictEditCurrentEntries(histDb, 'main', word, rawTranslation),
+        history: state,
+        user_override: overrideItem ? {
+          id: overrideItem.id,
+          word_type: overrideItem.word_type,
+          translation: overrideItem.translation,
+          override_mode: overrideItem.override_mode,
+          hidden: !!overrideItem.hidden,
+        } : null,
+        pos_options: MEANING_POS_OPTIONS,
+      }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '查询词条失败', 500));
+    }
+  });
+
+  // 整体提交释义（新增 / 编辑 / 删除单条 / 删除某词性全部都走这里）
+  app.post('/api/dict-edit/word/:word/entries', (req: Request, res: Response) => {
+    try {
+      const word = String(req.params.word || '').trim();
+      const body = req.body || {};
+      if (!word) {
+        res.status(400).json(errorResponse('请提供词条', 400));
+        return;
+      }
+      if (!requireConfirm(body, res)) return;
+      const entries = normalizeEditEntries(body.entries);
+      if (!entries) {
+        res.status(400).json(errorResponse('释义格式不正确', 400));
+        return;
+      }
+      const mainDb = getMainDb();
+      const row = mainDb?.query(word);
+      if (!mainDb || !row) {
+        res.status(404).json(errorResponse('词库中没有该词条', 404));
+        return;
+      }
+      const expected = typeof body.expected_head_seq === 'number' ? body.expected_head_seq : undefined;
+      const action = String(body.action || 'edit');
+      const summary = String(body.summary || '').slice(0, 200);
+      const result = runDictEditTx((conn, hist) => {
+        const rawRow = conn.prepare('SELECT translation FROM stardict WHERE id = ?').get(row.id) as any;
+        const before = dictEditCurrentEntries(conn, hist, word, String(rawRow?.translation ?? ''));
+        const headSeq = appendDictVersion(conn, word, row.id, action, summary, before, entries, expected, hist);
+        conn.prepare('UPDATE stardict SET translation = ? WHERE id = ?').run(rebuildTranslation(entries), row.id);
+        return { head_seq: headSeq };
+      });
+      res.json(successResponse(result));
+    } catch (e: any) {
+      dictEditError(res, e);
+    }
+  });
+
+  // 撤销一步
+  app.post('/api/dict-edit/word/:word/undo', (req: Request, res: Response) => {
+    try {
+      const word = String(req.params.word || '').trim();
+      const body = req.body || {};
+      if (!requireConfirm(body, res)) return;
+      const mainDb = getMainDb();
+      const row = mainDb?.query(word);
+      if (!mainDb || !row) {
+        res.status(404).json(errorResponse('词库中没有该词条', 404));
+        return;
+      }
+      const expected = typeof body.expected_head_seq === 'number' ? body.expected_head_seq : undefined;
+      const result = runDictEditTx((conn, hist) => {
+        const r = dictHistoryUndo(conn, word, expected, hist);
+        conn.prepare('UPDATE stardict SET translation = ? WHERE id = ?').run(rebuildTranslation(r.entries), row.id);
+        return { head_seq: r.head_seq };
+      });
+      res.json(successResponse(result));
+    } catch (e: any) {
+      dictEditError(res, e);
+    }
+  });
+
+  // 前进一步
+  app.post('/api/dict-edit/word/:word/redo', (req: Request, res: Response) => {
+    try {
+      const word = String(req.params.word || '').trim();
+      const body = req.body || {};
+      if (!requireConfirm(body, res)) return;
+      const mainDb = getMainDb();
+      const row = mainDb?.query(word);
+      if (!mainDb || !row) {
+        res.status(404).json(errorResponse('词库中没有该词条', 404));
+        return;
+      }
+      const expected = typeof body.expected_head_seq === 'number' ? body.expected_head_seq : undefined;
+      const result = runDictEditTx((conn, hist) => {
+        const r = dictHistoryRedo(conn, word, expected, hist);
+        conn.prepare('UPDATE stardict SET translation = ? WHERE id = ?').run(rebuildTranslation(r.entries), row.id);
+        return { head_seq: r.head_seq };
+      });
+      res.json(successResponse(result));
+    } catch (e: any) {
+      dictEditError(res, e);
+    }
+  });
+
+  // 版本历史列表（含 seq=0 原始词库数据）
+  app.get('/api/dict-edit/word/:word/history', (req: Request, res: Response) => {
+    try {
+      const word = String(req.params.word || '').trim();
+      if (!word) {
+        res.status(400).json(errorResponse('请提供词条', 400));
+        return;
+      }
+      const userDb = getUserDb();
+      const histDb = userDb.getRawDb();
+      res.json(successResponse({
+        state: getDictHistoryState(histDb, word),
+        items: listDictHistory(histDb, word),
+      }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '获取版本历史失败', 500));
+    }
+  });
+
+  // 恢复到指定版本（seq=0 为原始词库数据；恢复本身生成新版本可再撤销）
+  app.post('/api/dict-edit/word/:word/restore', (req: Request, res: Response) => {
+    try {
+      const word = String(req.params.word || '').trim();
+      const body = req.body || {};
+      if (!requireConfirm(body, res)) return;
+      const seq = Number(body.seq);
+      if (!Number.isInteger(seq) || seq < 0) {
+        res.status(400).json(errorResponse('目标版本号不正确', 400));
+        return;
+      }
+      const mainDb = getMainDb();
+      const row = mainDb?.query(word);
+      if (!mainDb || !row) {
+        res.status(404).json(errorResponse('词库中没有该词条', 404));
+        return;
+      }
+      const expected = typeof body.expected_head_seq === 'number' ? body.expected_head_seq : undefined;
+      const result = runDictEditTx((conn, hist) => {
+        const r = dictHistoryRestore(conn, word, seq, expected, row.id, hist);
+        conn.prepare('UPDATE stardict SET translation = ? WHERE id = ?').run(rebuildTranslation(r.entries), row.id);
+        return { head_seq: r.head_seq };
+      });
+      res.json(successResponse(result));
+    } catch (e: any) {
+      dictEditError(res, e);
+    }
+  });
+
+  // 词库可写状态（packaged 只读安装目录会自动迁移副本，前端提示用）
+  app.get('/api/dict-edit/status', (req: Request, res: Response) => {
+    try {
+      const dbPath = getMainDbPath();
+      let writable = true;
+      try {
+        fs.accessSync(dbPath, fs.constants.W_OK);
+      } catch {
+        writable = false;
+      }
+      res.json(successResponse({
+        writable,
+        stardict_path: dbPath,
+        migrated: path.resolve(dbPath) === path.resolve(path.join(ASSETS_DIR, 'stardict.db')),
+      }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '查询词库状态失败', 500));
     }
   });
 

@@ -352,6 +352,38 @@ CREATE UNIQUE INDEX idx_user_dict_word ON user_dict(word);
 
 **查询合并**（`queryDict`）：隐藏 → 返回 null；自建词 → `userDictToStardictShape` 作为主结果；stardict 存在 → 按 `override_mode` merge（追加 `\n【自定义】…`）或 replace 合并，`from_dicts: ['stardict','user']`；其余兜底 user 形状。`/api/search-chinese` 合并 user 结果排前去重；`/api/examples` 用户例句排前且不进缓存。
 
+**词库修改版本留痕（dict_edit_history / dict_edit_state）**：词库修改功能（释义级编辑，直接改 `stardict.translation`）的留痕表同样存放在 `user_dict.db`，由 `electron/services/dictEdit/history.ts` 管理：
+
+```
+CREATE TABLE dict_edit_history (
+  id          INTEGER PRIMARY KEY AUTOINCREMENT,
+  word        TEXT NOT NULL,          -- 归一化小写词条
+  word_id     INTEGER NOT NULL,       -- stardict.id
+  seq         INTEGER NOT NULL,       -- 版本号（每词从 1 递增，0=原始词库数据隐式版本）
+  action      TEXT NOT NULL,          -- edit/add/delete/restore
+  summary     TEXT NOT NULL DEFAULT '',
+  before_json TEXT NOT NULL,          -- 修改前释义快照 [{pos,text}...]
+  after_json  TEXT NOT NULL,          -- 修改后释义快照
+  created_at  TEXT NOT NULL DEFAULT (datetime('now','localtime')),
+  UNIQUE(word, seq)
+);
+CREATE TABLE dict_edit_state (
+  word        TEXT PRIMARY KEY,
+  word_id     INTEGER NOT NULL,
+  head_seq    INTEGER NOT NULL DEFAULT 0,  -- 当前生效版本（0=未修改过，用词库原始数据）
+  updated_at  TEXT NOT NULL DEFAULT (datetime('now','localtime'))
+);
+```
+
+* **撤销 / 重做**：`head_seq` 前后移动指向不同版本，写回该版本快照到 `stardict.translation`。撤销一步 = 回到 `head_seq-1` 的 before；重做 = 跳到 `head_seq+1` 的 after。
+* **恢复版本**：`restoreTo(seq)` 生成新版本（`action='restore'`）而非跳指针，因此恢复后仍可撤销；`seq=0` 表示恢复到原始词库数据（取最早一行的 `before_json`）。
+* **重做分支截断**：`appendVersion` 先删除 `seq > head_seq` 的行再追加（Word 的分支截断行为）。
+* **清理策略**：保留 14 天（每词至少保留最新一条），每词上限 200 条，`head_seq` 自动收敛到现存版本范围。
+* **乐观锁**：所有写操作携带 `expected_head_seq`，与服务端不一致时返回 409 `HistoryConflictError`，防止多窗口并发覆盖。
+* **可逆拆解**：`electron/services/dictEdit/meaningEdit.ts` 的 `parseEditable` / `rebuildTranslation` 在「词性 + 分号分隔释义」串与条目数组间幂等互转（不去重、不截断），编辑器以此粒度（单条释义 / 单词性全部）增删改。
+* **跨库事务**：写入经 `runDictEditTx`（主连接 `ATTACH user_dict.db AS hist` + `BEGIN IMMEDIATE`），保证「留痕 + stardict 更新 + 版本指针」原子性；stardict 只读（打包安装目录）时自动迁移副本到 `ASSETS_DIR` 后重试。
+* **与备份的关系**：永久修改直接落在 `stardict.db`，留痕表在 `user_dict.db` 但**均不进备份/CSV**（备份只含 `user_dict` 表与 localStorage/wordbooks.json）。
+
 #### 1.3.5 二级词典数据
 
 
@@ -3370,6 +3402,13 @@ PRONUNCIATIONS\_DIR // 发音文件目录（优先 USER\_DATA\_DIR，回退 APP\
 | 48 | POST | `/api/user-dict/hide-word`            | 按词条隐藏 / 恢复（stardict 词的“删除”）|
 | 49 | GET  | `/api/user-dict/export`               | 导出 CSV（带 BOM，逗号/引号/换行转义）|
 | 50 | POST | `/api/user-dict/import`               | 导入 CSV（multipart，≤5000 行，返回 added/updated/skipped/errors）|
+| 51 | GET  | `/api/dict-edit/word/:word`           | 词库修改：查询词条原始释义拆解 + 留痕状态 + 用户覆盖提示 |
+| 52 | POST | `/api/dict-edit/word/:word/entries`    | 整体提交释义（需 confirm:true + expected_head_seq，409=版本冲突）|
+| 53 | POST | `/api/dict-edit/word/:word/undo`       | 撤销一步（写回 before 快照）              |
+| 54 | POST | `/api/dict-edit/word/:word/redo`       | 前进一步（写回 after 快照）               |
+| 55 | GET  | `/api/dict-edit/word/:word/history`    | 版本历史列表（含 seq=0 原始词库数据）          |
+| 56 | POST | `/api/dict-edit/word/:word/restore`    | 恢复到指定版本（生成新版本，可再撤销）          |
+| 57 | GET  | `/api/dict-edit/status`                | 词库可写状态（只读迁移后路径变化提示）           |
 
 #### 关键实现细节
 
@@ -3681,9 +3720,10 @@ export async function apiPostForm\<T = any>(url: string, formData: FormData): Pr
 | 数据     | 存储位置                                   | 说明                         |
 | ------ | -------------------------------------- | -------------------------- |
 | 前端状态   | `localStorage`                         | 主题、侧边栏、收藏、单词本、错题本、学习统计、设置等 |
-| 主词典    | `stardict.db`                          | SQLite，只读，启动必需资源（可下载）      |
+| 主词典    | `stardict.db`                          | SQLite，启动必需资源（可下载）；词库修改功能可写（只读安装目录时自动迁移副本到 `assets/`） |
 | 例句     | `examples.db`                          | SQLite，只读，可选下载资源           |
 | 用户词典   | `USER_DATA_DIR/user_dict.db`           | SQLite，读写；词条增删改 / 隐藏，随备份导出 |
+| 词库修改留痕 | `USER_DATA_DIR/user_dict.db`           | `dict_edit_history` / `dict_edit_state` 表，保留 14 天，不随备份导出 |
 | 自定义单词本 | `wordbooks.json`                       | JSON 文件，后端读写               |
 | 发音文件   | `pronunciations/`                      | 永久缓存，可批量下载                 |
 | 翻译缓存   | `USER_DATA_DIR/cache/translation.json` | 文件持久化                      |
