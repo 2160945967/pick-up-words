@@ -68,7 +68,40 @@ export function ensureHistoryTables(db: Db, schema = 'main'): void {
       head_seq    INTEGER NOT NULL DEFAULT 0,
       updated_at  TEXT NOT NULL DEFAULT (datetime('now','localtime'))
     );
+    -- 不可变的「词库原始数据」快照：每词首次编辑时写入一次，cleanupHistory 永不删除。
+    -- 不能依赖 seq=1 的 before_json：14 天清理或 200 版上限裁剪会删 seq=1，
+    -- 那样版本列表会把最早存活快照错标为「原始」、恢复原始也会失败。
+    CREATE TABLE IF NOT EXISTS ${table(schema, 'dict_edit_original')} (
+      word         TEXT PRIMARY KEY,
+      word_id      INTEGER NOT NULL,
+      entries_json TEXT NOT NULL,
+      created_at   TEXT NOT NULL DEFAULT (datetime('now','localtime'))
+    );
   `);
+}
+
+/** 读取不可变的原始快照（不存在返回 null，用于旧数据兜底） */
+export function getOriginal(db: Db, word: string, schema = 'main'): MeaningEntry[] | null {
+  const row = db.prepare(`SELECT entries_json FROM ${table(schema, 'dict_edit_original')} WHERE word = ?`).get(normalizeWord(word)) as any;
+  if (!row) return null;
+  try {
+    return JSON.parse(row.entries_json) as MeaningEntry[];
+  } catch {
+    return null;
+  }
+}
+
+/** 首次编辑时固化原始快照（INSERT OR IGNORE，幂等；已存在则不动） */
+function ensureOriginal(db: Db, word: string, wordId: number, schema: string): void {
+  const w = normalizeWord(word);
+  const existing = db.prepare(`SELECT 1 FROM ${table(schema, 'dict_edit_original')} WHERE word = ?`).get(w);
+  if (existing) return;
+  // 此时 seq=1 必已存在（首次 append 后即原始）；旧数据也能借此回填。
+  const first = readVersion(db, w, 1, schema);
+  if (!first) return;
+  db.prepare(
+    `INSERT OR IGNORE INTO ${table(schema, 'dict_edit_original')} (word, word_id, entries_json) VALUES (?, ?, ?)`
+  ).run(w, wordId, JSON.stringify(first.before));
 }
 
 function normalizeWord(word: string): string {
@@ -104,12 +137,11 @@ function readVersion(db: Db, word: string, seq: number, schema: string): { befor
   };
 }
 
-/** 当前生效版本的释义快照（head=0 时取最早一行的 before，即词库原始数据） */
+/** 当前生效版本的释义快照（head=0 时取不可变原始快照，缺失时回退 seq=1.before） */
 export function currentEntries(db: Db, word: string, schema = 'main'): MeaningEntry[] | null {
   const st = getState(db, word, schema);
   if (st.head_seq === 0) {
-    const first = readVersion(db, word, 1, schema);
-    return first ? first.before : null;
+    return getOriginal(db, word, schema) ?? readVersion(db, word, 1, schema)?.before ?? null;
   }
   const v = readVersion(db, word, st.head_seq, schema);
   return v ? v.after : null;
@@ -150,6 +182,9 @@ export function appendVersion(
      VALUES (?, ?, ?, datetime('now','localtime'))
      ON CONFLICT(word) DO UPDATE SET head_seq = excluded.head_seq, word_id = excluded.word_id, updated_at = excluded.updated_at`
   ).run(w, wordId, newSeq);
+
+  // 固化一次不可变原始快照（清理不触碰）；已存在则幂等跳过
+  ensureOriginal(db, w, wordId, schema);
 
   cleanupHistory(db, schema);
   return newSeq;
@@ -201,8 +236,10 @@ export function restoreTo(
   if (seq === st.head_seq) throw new HistoryGoneError('该版本已是当前版本');
   if (seq < 0 || seq > st.latest_seq) throw new HistoryGoneError('目标版本不存在');
 
-  // 目标快照：seq=0 取最早一行的 before（词库原始数据），否则取该版本的 after
-  const target = seq === 0 ? readVersion(db, w, 1, schema)?.before : readVersion(db, w, seq, schema)?.after;
+  // 目标快照：seq=0 取不可变原始快照（缺失回退 seq=1.before），否则取该版本的 after
+  const target = seq === 0
+    ? (getOriginal(db, w, schema) ?? readVersion(db, w, 1, schema)?.before)
+    : readVersion(db, w, seq, schema)?.after;
   if (!target) throw new HistoryGoneError('目标版本不存在');
   const current = currentEntries(db, w, schema) ?? [];
 
@@ -219,14 +256,19 @@ export function listHistory(db: Db, word: string, schema = 'main'): HistoryItem[
   const st = getState(db, w, schema);
   const items: HistoryItem[] = [];
   if (rows.length) {
-    items.push({
-      seq: 0,
-      action: 'original',
-      summary: '原始词库数据',
-      created_at: '',
-      is_head: st.head_seq === 0,
-      after: JSON.parse(rows[0].before_json) as MeaningEntry[],
-    });
+    // 原始快照优先取不可变表（裁剪后仍准确），缺失时回退最早一行的 before
+    const original = getOriginal(db, w, schema);
+    const fallback = (() => { try { return JSON.parse(rows[0].before_json) as MeaningEntry[]; } catch { return null; } })();
+    if (original || fallback) {
+      items.push({
+        seq: 0,
+        action: 'original',
+        summary: '原始词库数据',
+        created_at: '',
+        is_head: st.head_seq === 0,
+        after: (original ?? fallback) as MeaningEntry[],
+      });
+    }
   }
   for (const r of rows) {
     items.push({

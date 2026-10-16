@@ -373,15 +373,23 @@ CREATE TABLE dict_edit_state (
   head_seq    INTEGER NOT NULL DEFAULT 0,  -- 当前生效版本（0=未修改过，用词库原始数据）
   updated_at  TEXT NOT NULL DEFAULT (datetime('now','localtime'))
 );
+CREATE TABLE dict_edit_original (
+  word         TEXT PRIMARY KEY,
+  word_id      INTEGER NOT NULL,
+  entries_json TEXT NOT NULL,  -- 该词首次编辑时固化的「词库原始数据」快照，不可变
+  created_at   TEXT NOT NULL DEFAULT (datetime('now','localtime'))
+);
 ```
 
+> **原始快照为什么单独建表**：seq=0 的「原始词库数据」最初隐式取 `seq=1` 的 `before_json`，但 14 天清理或每词 200 条上限裁剪会删 `seq=1`，此后版本列表会把最旧的存活快照错标成「原始」、恢复原始也会失败。现由 `dict_edit_original` 在每词首次编辑时 `INSERT OR IGNORE` 固化一份（`ensureOriginal`，旧数据在下次编辑时用 `seq=1.before` 回填），清理永不删除；`currentEntries` / `restoreTo(0)` / `listHistory` 的 seq=0 一律优先读它，缺失才回退 `seq=1.before`。
+
 * **撤销 / 重做**：`head_seq` 前后移动指向不同版本，写回该版本快照到 `stardict.translation`。撤销一步 = 回到 `head_seq-1` 的 before；重做 = 跳到 `head_seq+1` 的 after。
-* **恢复版本**：`restoreTo(seq)` 生成新版本（`action='restore'`）而非跳指针，因此恢复后仍可撤销；`seq=0` 表示恢复到原始词库数据（取最早一行的 `before_json`）。
+* **恢复版本**：`restoreTo(seq)` 生成新版本（`action='restore'`）而非跳指针，因此恢复后仍可撤销；`seq=0` 表示恢复到原始词库数据，取 `dict_edit_original` 的不可变快照（缺失才回退最早一行的 `before_json`）。
 * **重做分支截断**：`appendVersion` 先删除 `seq > head_seq` 的行再追加（Word 的分支截断行为）。
-* **清理策略**：保留 14 天（每词至少保留最新一条），每词上限 200 条，`head_seq` 自动收敛到现存版本范围。
+* **清理策略**：`dict_edit_history` 保留 14 天（每词至少保留最新一条）、每词上限 200 条，`head_seq` 自动收敛到现存版本范围；`dict_edit_original` 不参与清理（每词仅一行，永久保留）。
 * **乐观锁**：所有写操作携带 `expected_head_seq`，与服务端不一致时返回 409 `HistoryConflictError`，防止多窗口并发覆盖。
 * **可逆拆解**：`electron/services/dictEdit/meaningEdit.ts` 的 `parseEditable` / `rebuildTranslation` 在「词性 + 分号分隔释义」串与条目数组间幂等互转（不去重、不截断），编辑器以此粒度（单条释义 / 单词性全部）增删改。
-* **跨库事务**：写入经 `runDictEditTx`（主连接 `ATTACH user_dict.db AS hist` + `BEGIN IMMEDIATE`），保证「留痕 + stardict 更新 + 版本指针」原子性；stardict 只读（打包安装目录）时自动迁移副本到 `ASSETS_DIR` 后重试。
+* **跨库事务**：写入经 `runDictEditTx`（主连接 `ATTACH user_dict.db AS hist`，随后幂等 `ensureHistoryTables(conn,'hist')` 确保旧库升级后新表齐全，再 `BEGIN IMMEDIATE`），保证「留痕 + stardict 更新 + 版本指针」原子性；stardict 只读（打包安装目录）时自动迁移副本到 `ASSETS_DIR` 后重试。
 * **与备份的关系**：永久修改直接落在 `stardict.db`，留痕表在 `user_dict.db` 但**均不进备份/CSV**（备份只含 `user_dict` 表与 localStorage/wordbooks.json）。
 
 #### 1.3.5 二级词典数据

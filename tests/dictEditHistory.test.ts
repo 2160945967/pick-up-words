@@ -2,7 +2,7 @@ import { describe, it, expect, beforeEach, afterEach } from 'vitest';
 import Database from 'better-sqlite3';
 import {
   ensureHistoryTables, getState, appendVersion, undo, redo, restoreTo,
-  listHistory, currentEntries, cleanupHistory, HistoryConflictError, HistoryGoneError,
+  listHistory, currentEntries, cleanupHistory, getOriginal, HistoryConflictError, HistoryGoneError,
 } from '../electron/services/dictEdit/history';
 import { MeaningEntry } from '../electron/services/dictEdit/meaningEdit';
 
@@ -141,5 +141,29 @@ describe('版本留痕状态机', () => {
     const items = listHistory(db, WORD);
     // 200 条版本 + 1 条原始
     expect(items.length).toBe(201);
+  });
+
+  it('原始快照在裁剪掉 seq=1 后仍准确，恢复原始不依赖 seq=1', () => {
+    const original = [e('n.', '苹果')];
+    let prev = original;
+    for (let i = 1; i <= 210; i++) {
+      const after = [e('n.', `释义${i}`)];
+      appendVersion(db, WORD, 1, 'edit_entry', `v${i}`, prev, after, i - 1);
+      prev = after;
+    }
+    // 裁剪删 seq=1..10，seq=1 被删除
+    cleanupHistory(db, 'main', 14, 200);
+    const seq1 = db.prepare('SELECT seq FROM dict_edit_history WHERE word = ? AND seq = 1').get(WORD);
+    expect(seq1).toBeUndefined();
+
+    // 不可变原始快照仍为真正的原始数据，不受裁剪影响
+    expect(getOriginal(db, WORD)).toEqual(original);
+    const seq0 = listHistory(db, WORD).find(i => i.seq === 0);
+    expect(seq0).toBeTruthy();
+    expect(seq0!.after).toEqual(original);
+
+    // 恢复到原始（seq=0）仍可成功，且内容正确
+    const r = restoreTo(db, WORD, 0, getState(db, WORD).head_seq, 1);
+    expect(r.entries).toEqual(original);
   });
 });

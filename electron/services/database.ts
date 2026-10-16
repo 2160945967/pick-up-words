@@ -1234,6 +1234,8 @@ function runDictEditTx<T>(fn: (db: DatabaseInstance, histSchema: string) => T): 
 
   const attempt = (conn: DatabaseInstance): T => {
     conn.exec(`ATTACH DATABASE '${USER_DB_PATH.replace(/'/g, "''")}' AS hist`);
+    // 幂等确保留痕表（含升级后新增的原始快照表）在附加库中存在，再开事务
+    ensureHistoryTables(conn, 'hist');
     try {
       conn.exec('BEGIN IMMEDIATE');
       try {
