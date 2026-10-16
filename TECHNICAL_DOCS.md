@@ -3438,7 +3438,7 @@ PRONUNCIATIONS\_DIR // 发音文件目录（优先 USER\_DATA\_DIR，回退 APP\
 
 * **模型加载**：通过 `resolveAssetPath('semantic-model-files')` 加载本地模型，支持安装包内置或用户下载
 
-* **API 接口**：`POST /api/semantic-similarity`，接收 `text1`、`text2` 和可选的 `threshold`（默认 0.58）
+* **API 接口**：`POST /api/semantic-similarity`，接收 `text1`、`text2` 和可选的 `threshold`（默认 0.58）；`POST /api/semantic-similarity-batch`，接收 `pairs`（`[{text1,text2}]` 数组）与可选 `threshold`，返回 `{available, threshold, results:[{isSimilar,score,latencyMs}]}`
 
 * **性能优化**：
 
@@ -3448,6 +3448,8 @@ PRONUNCIATIONS\_DIR // 发音文件目录（优先 USER\_DATA\_DIR，回退 APP\
   * 使用 ONNX Runtime 加速推理
 
   * q8 量化模型，体积约 358MB，平衡精度与性能
+
+  * **embedding LRU 缓存**（`encodeText`，上限 4000 条）：文本 → 归一化向量，同一文本（尤其中文义项这类静态数据）只做一次前向；批量接口对去重后的全部文本编码一次，余弦相似度在 JS 内计算，消除「用户片段 × 义项」逐对调用时的 N+1 重复编码（实测热缓存命中调用约 1ms，6 个全新文本编码约 77ms）
 
 * **降级策略**：模型不可用时保持原有字符串匹配逻辑，不影响测验流程
 
@@ -5902,9 +5904,10 @@ zh-checking 态展示层由 flex 改为 block、去除 gap，span 为 inline；�
 EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合并为 `allCorrectMeanings`；用户答案按 `，,；;` 与空白拆成片段，对每个片段：
 
 1. 先字面 `zhMeaningMatch`，命中即 correct；
-2. 未命中且开启语义模型时，与 `allCorrectMeanings` 中**每个义项单独** POST `/api/semantic-similarity`，任一 `isSimilar` 即该片段 correct（`break`）；模型抛错则 `break`，不再对剩余义项逐个等超时。
+2. 未命中且开启语义模型时，把全部「片段 × 义项」配对**一次性** POST `/api/semantic-similarity-batch`（服务端按文本去重编码 + LRU 缓存，用户片段只编码一次），任一义项 `isSimilar` 即该片段 correct；打分器不可用 / 抛错时该片段按错误处理，不影响其他片段。
+3. 逐对注入的 `scorer` 路径保留短路语义（兼容测试与调用方）：短路到首个匹配义项，打分器不可用即终止该片段剩余义项扫描；`batchScorer` 与 `scorer` 同时注入时批量优先。
 
-全部片段串行判定（不并发），避免压垮本地 sherpa-onnx 模型。
+全部片段的配对合并在**一次**批量请求中判定（服务端串行编码去重后的文本，不并发压垮本地模型），较逐对 POST 显著降低等待（一题多片段 × 多义项由 N 次往返降为 1 次）。
 
 **（2）判别等待反馈**（src/modules/quiz.ts）
 
@@ -6233,7 +6236,7 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 
 ### 37.2 阶段 1：判题逻辑纯函数化与可测试
 
-- `checkQuizAnswer` 末参新增 `options?`（`src/utils/quizHelper.ts`）：语义打分经 `SemanticScorer` 接口注入（默认 `defaultHttpScorer` 走 `/api/semantic-similarity`，失败静默），结果携带 `semantic:{used,available,calls}`，使判题在无网络 / 无 DOM 下可测。
+- `checkQuizAnswer` 末参新增 `options?`（`src/utils/quizHelper.ts`）：语义打分经 `SemanticScorer` / `SemanticBatchScorer` 接口注入（默认批量走 `/api/semantic-similarity-batch`，失败静默），结果携带 `semantic:{used,available,calls}`，使判题在无网络 / 无 DOM 下可测。
 - 错题权重抽为纯函数 `updateMeaningWeight` / `updateMeaningWeights`（答对 ×0.9 下限 0.1、答错 ×1.1，不改原对象），`quiz.ts` 两处内联更新改为调用。
 - FSRS grade 决策集中为 `scheduler.ts` 的 `decideFsrsGrade`（again / hard / good / easy 表驱动），`recordLearningHistory` 与判题日志共用。
 - 测验会话改纯 reducer：`quizSession.ts` 新增 `sessionReducer(state,event)`，`markAnswered` 委托它。

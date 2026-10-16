@@ -11,7 +11,7 @@ import { getTTS } from '../services/tts';
 import { recognizeWithSherpa, isSherpaModelReady } from '../services/sherpa_asr';
 import { translateText, getCachedTranslation, putCachedTranslation, getTranslationCacheData, clearTranslationCache } from '../services/translate';
 import { classifyText, normalizeCaseByType } from '../services/nlp';
-import { checkSemanticSimilarity, evaluateSemanticSimilarity } from '../services/semanticSimilarity';
+import { checkSemanticSimilarity, evaluateSemanticSimilarity, evaluateSemanticBatch } from '../services/semanticSimilarity';
 import { appendGradingLog, getGradingLogPath } from '../services/gradingLog';
 import {
   successResponse, errorResponse, ensureDirExists,
@@ -1977,6 +1977,31 @@ export function setupRoutes(app: any) {
       res.json(successResponse({ isSimilar: sem.similar, score: sem.score, threshold }));
     } catch (e: any) {
       res.status(500).json(errorResponse(e.message || '语义相似度判断失败', 500));
+    }
+  });
+
+  // 批量判分：一次请求携带全部「用户片段 × 义项」配对，服务端按文本去重编码（LRU 缓存），
+  // 消除逐对调用时用户片段被反复编码的 N+1 开销。判定语义与单条接口一致。
+  app.post('/api/semantic-similarity-batch', async (req: Request, res: Response) => {
+    try {
+      const threshold = parseFloat(getRequestParam(req, 'threshold', '0.58') as string) || 0.58;
+      const raw = req.body && Array.isArray(req.body.pairs) ? req.body.pairs : [];
+      const pairs = raw
+        .map((p: any) => ({
+          text1: String(p && p.text1 != null ? p.text1 : '').trim(),
+          text2: String(p && p.text2 != null ? p.text2 : '').trim(),
+        }))
+        .filter((p: { text1: string; text2: string }) => p.text1 && p.text2);
+
+      if (pairs.length === 0) {
+        res.status(400).json(errorResponse('请提供非空的 pairs 数组'));
+        return;
+      }
+
+      const batch = await evaluateSemanticBatch(pairs, threshold);
+      res.json(successResponse({ available: batch.available, threshold, results: batch.results }));
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '语义相似度批量判断失败', 500));
     }
   });
 

@@ -55,25 +55,45 @@ export interface SemanticScoreResult {
 /** 语义判分器：判断单个用户片段与某个正确义项是否语义等价 */
 export type SemanticScorer = (userFragment: string, correctMeaning: string) => Promise<SemanticScoreResult>;
 
+/** 批量判分器：一次判完全部配对（服务端按文本去重编码，消除 N+1 重复前向） */
+export type SemanticBatchScorer = (
+  pairs: Array<{ input: string; target: string }>
+) => Promise<SemanticScoreResult[]>;
+
 export interface CheckQuizOptions {
   /** 是否启用语义兜底，默认 true */
   semanticEnabled?: boolean;
-  /** 语义判分器；缺省经本地后端 /api/semantic-similarity */
+  /** 语义判分器（逐对）；与 batchScorer 二选一，优先 batchScorer */
   scorer?: SemanticScorer;
+  /** 批量语义判分器；缺省经本地后端 /api/semantic-similarity-batch（一次请求判完） */
+  batchScorer?: SemanticBatchScorer;
 }
 
-// 默认适配器：经本地后端 /api/semantic-similarity（保留原生产行为，失败静默）
-const defaultHttpScorer: SemanticScorer = async (input, target) => {
+// 默认批量适配器：一次请求判完全部配对（服务端 embedding 缓存 + 去重编码）。
+// 失败时返回全不可用，调用方按字面匹配兜底，与原逐对行为一致。
+const defaultHttpBatchScorer: SemanticBatchScorer = async (pairs) => {
   const t0 = Date.now();
   try {
-    const r = await apiPost('/api/semantic-similarity', { text1: input, text2: target });
+    const r = await apiPost('/api/semantic-similarity-batch', {
+      pairs: pairs.map(p => ({ text1: p.input, text2: p.target })),
+    });
     const latencyMs = Date.now() - t0;
-    if (r && r.success && r.data) {
-      return { match: !!r.data.isSimilar, score: r.data.score, latencyMs, available: true };
+    if (r && r.success && r.data && Array.isArray(r.data.results)) {
+      const results: SemanticScoreResult[] = r.data.results.map((x: any) => ({
+        match: !!x.isSimilar,
+        score: typeof x.score === 'number' ? x.score : undefined,
+        latencyMs,
+        available: r.data.available !== false,
+      }));
+      // 结果长度必须与配对一致，否则视为不可用，避免错位判分
+      return results.length === pairs.length
+        ? results
+        : pairs.map(() => ({ match: false, latencyMs, available: false }));
     }
-    return { match: false, latencyMs, available: false };
+    return pairs.map(() => ({ match: false, latencyMs, available: false }));
   } catch {
-    return { match: false, latencyMs: Date.now() - t0, available: false };
+    const latencyMs = Date.now() - t0;
+    return pairs.map(() => ({ match: false, latencyMs, available: false }));
   }
 };
 
@@ -336,7 +356,11 @@ export async function checkQuizAnswer(
   options?: CheckQuizOptions
 ): Promise<CheckAnswerResult> {
   const semanticEnabled = options?.semanticEnabled !== false;
-  const scorer: SemanticScorer = options?.scorer ?? defaultHttpScorer;
+  // 批量优先：默认走批量端点一次判完全部配对（服务端 embedding 缓存，消除 N+1 重复编码）；
+  // 仅当显式注入逐对 scorer 时才逐对短路调用（兼容既有测试与调用方）。
+  const batchScorer: SemanticBatchScorer | undefined =
+    options?.batchScorer ?? (options?.scorer ? undefined : defaultHttpBatchScorer);
+  const scorer: SemanticScorer | undefined = options?.scorer;
   let isCorrect = false;
   let isPartial = false;
   let zhCorrect: string[] | undefined;
@@ -389,28 +413,83 @@ export async function checkQuizAnswer(
       const correctUserAnswers: string[] = [];
       const wrongUserAnswers: string[] = [];
 
-      // 逐释义片段判定：先字面匹配，未命中再逐个走语义相似度模型（串行，避免并发压垮本地模型）
+      // 先做字面匹配；仅对未命中的「片段 × 义项」配对收集语义判定。
+      // 批量路径一次判完全部配对（服务端去重编码 + LRU 缓存），判定口径与逐对短路一致：
+      // 某片段任一义项判对即该片段正确。短路只减少请求数量、不影响判定结果，
+      // 批量多算的配对一并记入 semantic.calls 便于观测。
+      interface PendingPair { fragment: string; meaning: string; }
+      const pending: PendingPair[] = [];
+
       for (const ua of userAnswers) {
         const literal = allCorrectMeanings.some(cm => zhMeaningMatch(ua, cm));
         if (literal) {
           correctUserAnswers.push(ua);
           continue;
         }
-        let semOk = false;
-        // 仅在启用语义兜底时调用注入的 scorer。用户片段与每个正确义项【单独】比对：
-        // 不能把多义项 join 成一串，否则同一词的不同义项（如 fantastic 的「极好的」与「怪诞的」）
+        // 用户片段与每个正确义项【单独】配对：不能把多义项 join 成一串，
+        // 否则同一词的不同义项（如 fantastic 的「极好的」与「怪诞的」）
         // 混在一起会互相拉低相似度，导致近义说法漏判。
         if (semanticEnabled) {
           for (const cm of allCorrectMeanings) {
-            const r = await scorer(ua, cm);
-            semanticCalls.push({ input: ua, target: cm, match: r.match, score: r.score, latencyMs: r.latencyMs });
-            if (r.available === false) { scorerAvailable = false; break; }
-            scorerAvailable = true;
-            if (r.match) { semOk = true; break; }
+            pending.push({ fragment: ua, meaning: cm });
           }
+        } else {
+          wrongUserAnswers.push(ua);
         }
-        if (semOk) correctUserAnswers.push(ua);
-        else wrongUserAnswers.push(ua);
+      }
+
+      if (semanticEnabled && pending.length > 0) {
+        // fragment → 任一义项判对即该片段正确
+        const fragmentMatch = new Map<string, boolean>();
+        pending.forEach(p => { if (!fragmentMatch.has(p.fragment)) fragmentMatch.set(p.fragment, false); });
+
+        if (batchScorer) {
+          // 一次批量请求判完全部配对（默认走 /api/semantic-similarity-batch）
+          const results = await batchScorer(pending.map(p => ({ input: p.fragment, target: p.meaning })));
+          let available = false;
+          pending.forEach((p, i) => {
+            const r = results[i] || { match: false, available: false };
+            semanticCalls.push({
+              input: p.fragment,
+              target: p.meaning,
+              match: r.match,
+              score: r.score,
+              latencyMs: r.latencyMs,
+            });
+            if (r.available !== false) available = true;
+            if (r.match) fragmentMatch.set(p.fragment, true);
+          });
+          scorerAvailable = available;
+        } else if (scorer) {
+          // 逐对注入路径（兼容既有测试 / 调用方）：短路到首个匹配的义项；
+          // 打分器不可用时终止该片段的剩余义项扫描（与原实现 break 语义一致）
+          const skipFragment = new Set<string>();
+          for (const p of pending) {
+            if (skipFragment.has(p.fragment) || fragmentMatch.get(p.fragment)) continue;
+            const r = await scorer(p.fragment, p.meaning);
+            semanticCalls.push({
+              input: p.fragment,
+              target: p.meaning,
+              match: r.match,
+              score: r.score,
+              latencyMs: r.latencyMs,
+            });
+            if (r.available === false) {
+              scorerAvailable = false;
+              skipFragment.add(p.fragment);
+              continue;
+            }
+            scorerAvailable = true;
+            if (r.match) fragmentMatch.set(p.fragment, true);
+          }
+        } else {
+          scorerAvailable = false;
+        }
+
+        for (const [fragment, matched] of fragmentMatch) {
+          if (matched) correctUserAnswers.push(fragment);
+          else wrongUserAnswers.push(fragment);
+        }
       }
 
       zhCorrect = correctUserAnswers;

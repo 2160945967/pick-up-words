@@ -70,10 +70,35 @@ describe('英译中判题', () => {
     expect(r.isCorrect).toBe(false);
   });
   it('语义模型判定近义说法正确', async () => {
-    mockedApiPost.mockResolvedValue({ success: true, data: { isSimilar: true } } as any);
+    mockedApiPost.mockResolvedValue({
+      success: true,
+      data: { available: true, results: [{ isSimilar: true, score: 0.81, latencyMs: 30 }] },
+    } as any);
     const r = await checkQuizAnswer('也许', 'probably', [{ part: 'adv.', definition: '或许' }], M.EnToZh, false);
     expect(r.isCorrect).toBe(true);
     expect(r.zhCorrect).toEqual(['也许']);
+  });
+  it('默认走批量端点：多片段 × 多义项只发 1 次请求', async () => {
+    mockedApiPost.mockResolvedValue({
+      success: true,
+      data: {
+        available: true,
+        results: [
+          { isSimilar: true, score: 0.8, latencyMs: 20 },
+          { isSimilar: false, score: 0.1, latencyMs: 20 },
+          { isSimilar: false, score: 0.2, latencyMs: 20 },
+          { isSimilar: false, score: 0.15, latencyMs: 20 },
+        ],
+      },
+    } as any);
+    const r = await checkQuizAnswer(
+      '特棒，诡异', 'fantastic', [{ part: 'adj.', definition: '极好的；怪诞的' }], M.EnToZh, false,
+    );
+    expect(mockedApiPost).toHaveBeenCalledTimes(1);
+    expect(mockedApiPost.mock.calls[0][0]).toBe('/api/semantic-similarity-batch');
+    expect(r.isPartial).toBe(true);
+    expect(r.zhCorrect).toEqual(['特棒']);
+    expect(r.zhWrong).toEqual(['诡异']);
   });
 });
 
@@ -125,6 +150,44 @@ describe('checkQuizAnswer 依赖注入', () => {
     const r = await checkQuizAnswer('也许', 'probably', meanings, M.EnToZh, false, undefined, undefined, { scorer });
     expect(r.semantic?.available).toBe(false);
     expect(r.zhWrong).toEqual(['也许']);
+  });
+
+  it('批量 scorer 一次判完全部配对（多片段 × 多义项）', async () => {
+    const multi = [
+      { part: 'adj.', definition: '极好的；怪诞的' },
+    ];
+    // 「特棒」「诡异」字面均不命中，全部进语义判定：2 片段 × 2 义项 = 4 对
+    // 批量 scorer 仅对「特棒 vs 极好的」判对
+    const batchScorer = vi.fn().mockImplementation(async (pairs: Array<{ input: string; target: string }>) =>
+      pairs.map(p => ({
+        match: p.input === '特棒' && p.target === '极好的',
+        score: 0.77,
+        latencyMs: 8,
+        available: true,
+      })));
+    const r = await checkQuizAnswer('特棒，诡异', 'fantastic', multi, M.EnToZh, false, undefined, undefined, { batchScorer });
+    expect(batchScorer).toHaveBeenCalledTimes(1);
+    expect(r.isPartial).toBe(true);
+    expect(r.zhCorrect).toEqual(['特棒']);
+    expect(r.zhWrong).toEqual(['诡异']);
+    expect(r.semantic?.calls).toHaveLength(4);
+  });
+
+  it('批量 scorer 优先于逐对 scorer（同时注入时逐对不被调用）', async () => {
+    const batchScorer = vi.fn().mockResolvedValue([{ match: true, score: 0.9, latencyMs: 3, available: true }]);
+    const scorer = vi.fn();
+    const r = await checkQuizAnswer('也许', 'probably', meanings, M.EnToZh, false, undefined, undefined, { batchScorer, scorer });
+    expect(r.isCorrect).toBe(true);
+    expect(batchScorer).toHaveBeenCalledTimes(1);
+    expect(scorer).not.toHaveBeenCalled();
+  });
+
+  it('批量结果长度错位时视为打分器不可用，按错误处理', async () => {
+    const batchScorer = vi.fn().mockResolvedValue([]); // 长度不匹配
+    const r = await checkQuizAnswer('也许', 'probably', meanings, M.EnToZh, false, undefined, undefined, { batchScorer });
+    expect(r.isCorrect).toBe(false);
+    expect(r.zhWrong).toEqual(['也许']);
+    expect(r.semantic?.available).toBe(false);
   });
 });
 
