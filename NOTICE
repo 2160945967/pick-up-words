@@ -1,26 +1,73 @@
-# 开源词典声明
+# 开源数据与模型声明
 
-本项目使用了以下开源词典项目：
+本项目使用了以下开源词典数据库、例句数据库与预训练模型。感谢各开源项目的贡献者。
 
-## ECDICT
+---
+
+## 一、词典数据库与词表
+
+### ECDICT / StarDict
 
 - 项目地址：https://github.com/skywind3000/ECDICT
 - 许可证：MIT License
-- 说明：免费英汉字典数据库，提供了丰富的单词释义、词频统计和考试大纲标注
+- Copyright (c) 2017-2026 skywind3000
+- 说明：免费英汉字典数据库，提供了丰富的单词释义、音标、词频统计、考试大纲标注与变形还原。
+- 用于本项目：
+  - `stardict.db`（StarDict 格式词典数据库，查词核心数据）
+  - `lemma.en.txt`（词形还原表）
+  - `wordroot.txt`（词根词缀表）
+  - `resemble.txt`（形近词表）
 
-## StarDict
+> StarDict 格式的词典数据与 ECDICT 同源，均遵循 MIT License。
 
-- 项目地址：https://github.com/skywind3000/ECDICT
-- 说明：与 ECDICT 同项目，提供了 StarDict 格式的词典数据
+---
 
-## Tatoeba
+## 二、例句数据库
+
+### Tatoeba
 
 - 项目地址：https://tatoeba.org/
-- 许可证：CC-BY 2.0 FR
-- 说明：多语言例句数据库，提供了海量的真实例句，用于帮助用户学习单词的实际用法
+- 许可证：CC BY 2.0 FR License
+- 说明：多语言例句数据库，提供了海量真实例句，用于帮助用户学习单词的实际用法。
+- 用于本项目：`examples.db`（双语例句库）
 - 数据文件：sentences.csv, links.csv
 
-## 许可证说明
+> 使用时须遵守 CC BY 2.0 FR 署名要求，标注来源为 Tatoeba 项目。
+
+---
+
+## 三、预训练模型
+
+### SenseVoice 语音识别模型
+
+- 项目地址：https://github.com/FunAudioLLM/SenseVoice
+- 许可证：模型权重 Apache License 2.0（SenseVoiceSmall 模型卡标注 apache-2.0）；仓库源码 MIT License
+- 说明：多语言音频理解模型，支持中文、粤语、英文、日文、韩文的语音识别，并具备语种识别、情感识别与声学事件检测能力。
+- 用于本项目：`sherpa-onnx-sense-voice-zh-en-ja-ko-yue`（语音输入识别功能）
+
+### sherpa-onnx（模型运行框架）
+
+- 项目地址：https://github.com/k2-fsa/sherpa-onnx
+- 许可证：Apache License 2.0
+- 说明：Next-gen Kaldi 的 ONNX 部署框架，用于加载并推理 SenseVoice 等语音识别模型。
+- 用于本项目：语音识别运行时依赖（`sherpa-onnx-win-x64` 等原生库）
+
+> 注意：sherpa-onnx 框架代码为 Apache-2.0，所选具体模型的许可以各模型卡为准（本项目使用的 SenseVoice 模型为 Apache-2.0）。
+
+### text2vec-base-chinese 语义相似度模型
+
+- 项目地址：https://github.com/shibing624/text2vec
+- 模型地址：https://huggingface.co/shibing624/text2vec-base-chinese
+- 许可证：Apache License 2.0
+- Copyright (c) shibing624 (XuMing)
+- 说明：基于 CoSENT 的中文文本向量模型，将句子映射为 768 维稠密向量，用于中文语义相似度计算。
+- 用于本项目：`semantic-model-files`（看英文写中文模式的多释义智能判别）
+
+> Apache License 2.0 允许免费商用，要求在产品说明中附加 text2vec 的链接与授权协议（见本文档）。
+
+---
+
+## 四、许可证全文
 
 ### ECDICT MIT License
 
@@ -45,3 +92,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+### Apache License 2.0
+
+以下项目遵循 Apache License 2.0：
+
+- sherpa-onnx（https://github.com/k2-fsa/sherpa-onnx）
+- SenseVoice 模型权重（https://github.com/FunAudioLLM/SenseVoice）
+- text2vec-base-chinese（https://github.com/shibing624/text2vec）
+
+Apache License 2.0 全文见：http://www.apache.org/licenses/LICENSE-2.0
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+these files except in compliance with the License. You may obtain a copy of the
+License at the URL above. Unless required by applicable law or agreed to in
+writing, software distributed under the License is distributed on an "AS IS"
+BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and limitations
+under the License.
+
+### CC BY 2.0 FR
+
+Tatoeba 例句数据遵循 CC BY 2.0 FR License（https://creativecommons.org/licenses/by/2.0/fr/）。
+使用时须保留署名，标注数据来源为 Tatoeba（https://tatoeba.org/）。
