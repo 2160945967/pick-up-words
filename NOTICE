@@ -20,6 +20,8 @@
 
 > StarDict 格式的词典数据与 ECDICT 同源，均遵循 MIT License。
 
+> 修改说明：`stardict.db` 词库并非原版原样使用，已在 ECDICT / StarDict 原始数据基础上经本人整理修改（对词条进行筛选、增删条目）。原作者署名与 MIT License 声明按许可要求保留。
+
 ---
 
 ## 二、例句数据库
@@ -33,6 +35,8 @@
 - 数据文件：sentences.csv, links.csv
 
 > 使用时须遵守 CC BY 2.0 FR 署名要求，标注来源为 Tatoeba 项目。
+
+> 修改说明：`examples.db` 例句库并非原版原样使用，已在 Tatoeba 原始数据基础上经本人整理修改（对例句进行筛选、增删条目）。按 CC BY 2.0 FR 要求注明改动，并保留数据来源署名。
 
 ---
 
