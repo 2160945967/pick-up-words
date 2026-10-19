@@ -334,6 +334,27 @@ body.sidebar-collapsed .main-content {
     margin-left: 0;
 }
 
+/* 底部版权页脚 */
+.app-footer {
+    margin-top: 20px;
+    padding: 18px 32px;
+    background: var(--bg-light);
+    border-top: 1px solid var(--border-color);
+    text-align: center;
+    color: var(--text-gray);
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+.app-footer-line {
+    margin: 0;
+}
+
+.app-footer-sub {
+    font-size: 12px;
+    opacity: 0.85;
+}
+
 /* 导航栏 */
 .navbar {
     background: linear-gradient(135deg, var(--secondary-blue) 0%, #34495e 100%);
