@@ -8,6 +8,7 @@ import { SortBy, FilterType } from '../types/enums';
 import { playPronunciation } from '../utils/audio';
 import { virtualScrollMixin } from '../utils/virtualScroll';
 import { cardMixin } from '../utils/cardMixin';
+import { favoritesRender } from '../vue-renders';
 
 let lastRenderSignature = '';
 
@@ -177,7 +178,7 @@ export function initFavoritesVue(): void {
     const { createApp } = (window as any).Vue;
 
     const app = createApp({
-        template: '#favorites-vue-template',
+        render: favoritesRender,
         mixins: [virtualScrollMixin, cardMixin],
         data() {
             return {

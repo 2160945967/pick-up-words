@@ -8,6 +8,7 @@ import { playPronunciation } from '../utils/audio';
 import { virtualScrollMixin } from '../utils/virtualScroll';
 import { cardMixin } from '../utils/cardMixin';
 import { CARD_GAP } from '../constants';
+import { errorbookRender } from '../vue-renders';
 
 let lastRenderSignature = '';
 
@@ -188,7 +189,7 @@ export function initErrorbookVue(): void {
     const { createApp } = (window as any).Vue;
 
     const app = createApp({
-        template: '#errorbook-vue-template',
+        render: errorbookRender,
         mixins: [virtualScrollMixin, cardMixin],
         data() {
             return {

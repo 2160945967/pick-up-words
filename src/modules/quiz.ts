@@ -16,6 +16,8 @@ import { apiTranslate } from '../utils/api';
 import { selectMeaningsForQuestion, buildMeaningDisplayHtml, checkQuizAnswer, zhMeaningMatch, splitEcdictTranslation, updateMeaningWeights, type CheckAnswerResult } from '../utils/quizHelper';
 import { safeParse } from '../utils/storage';
 import { computeFsrs, decideFsrsGrade, type FsrsGrade } from '../utils/scheduler';
+import { applyLeech, getLeechWords, getLeechCount, clearLeech } from '../utils/leech';
+import { TypingTracker, getTypingStats, keyAccuracy, charsPerMinute, resetTypingStats } from '../utils/typingStats';
 import { buildGradingEntry, logGrading } from '../utils/gradingLog';
 import {
     recordWordLearned, getStreakData, getTodayEntry, fireCelebration,
@@ -186,6 +188,9 @@ export function initQuiz(): void {
 
         // 输入即时反馈：英文拼写类模式逐字符回显/红绿着色，中文模式仅同步状态
         quizAnswerInput.addEventListener('input', function() {
+            // 逐键打字统计：传入变更前/后的值
+            if (typingTracker) typingTracker.onInput(lastInputValue, quizAnswerInput.value);
+            lastInputValue = quizAnswerInput.value;
             updateSpellingFeedback();
         });
 
@@ -255,6 +260,12 @@ export function recordLearningHistory(word: string, isCorrect: boolean): void {
         learningHistory[word].correctCount = 0;
     }
 
+    // 顽固词检测：累计答错达 8 次标记，首次标记时提示一次
+    const leech = applyLeech(learningHistory[word], isCorrect);
+    if (leech.becameLeech) {
+        showToast(`「${word}」已累计答错 ${leech.lapses} 次，标记为顽固词，可在复习页查看并换助记强化`, 'error');
+    }
+
     if (appState.settings.scheduler === 'fsrs') {
         // ts-fsrs 概率调度，本次表现映射为四级评分：
         // 答错（含主动看答案揭晓）→ Again；本轮错过后才答对 → Hard；
@@ -266,7 +277,10 @@ export function recordLearningHistory(word: string, isCorrect: boolean): void {
             oldReps: oldCard ? Number(oldCard.reps) : undefined,
         });
 
-        const r = computeFsrs(oldCard, grade, now);
+        const r = computeFsrs(oldCard, grade, now, {
+            requestRetention: appState.settings.fsrsRequestRetention,
+            fuzzing: appState.settings.fsrsFuzzing,
+        });
         learningHistory[word].card = r.card;
         learningHistory[word].nextReviewTime = r.nextReviewTime;
     } else {
@@ -517,6 +531,62 @@ export function toggleDueWords(el: HTMLElement): void {
     }
 }
 
+// 顽固词列表渲染
+export function showLeechWords(): void {
+    const container = document.getElementById('leech-words');
+    const empty = document.getElementById('leech-words-empty');
+    const count = document.getElementById('leech-words-count');
+    if (!container || !empty) return;
+    const leech = getLeechWords();
+    if (leech.length === 0) {
+        container.innerHTML = '';
+        empty.style.display = 'block';
+        if (count) count.textContent = '';
+        return;
+    }
+    empty.style.display = 'none';
+    if (count) count.textContent = ` (${leech.length})`;
+    container.innerHTML = leech.map(item => {
+        const displayWord = normalizeCaseByType(item.word);
+        const timeStr = new Date(item.lastStudyTime).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
+        return `
+        <div class="wordlist-item">
+            <div class="wordlist-word quiz-word-row">
+                <a href="#" data-action="navigateToWord" data-word="${escapeHtml(item.word)}" class="quiz-word-link">${escapeHtml(displayWord)}</a>
+                <span class="quiz-word-hint">累计答错 ${item.lapses} 次</span>
+                <span class="quiz-word-time">${timeStr}</span>
+            </div>
+            <div class="wordlist-actions">
+                <button class="wordlist-btn" data-action="playPronunciation" data-pron="us" data-word="${escapeHtml(item.word)}">美式发音</button>
+                <button class="wordlist-btn" data-action="playPronunciation" data-pron="uk" data-word="${escapeHtml(item.word)}">英式发音</button>
+                <button class="wordlist-btn remove-btn" data-action="removeLeechWord" data-word="${escapeHtml(item.word)}" data-stop>移出顽固词</button>
+            </div>
+        </div>`;
+    }).join('');
+}
+
+// 移出顽固词（保留累计答错次数，仅清标记）
+export function removeLeechWord(word: string): void {
+    clearLeech(word);
+    showLeechWords();
+}
+
+export function toggleLeechWords(el: HTMLElement): void {
+    if (!el) return;
+    const body = el.nextElementSibling as HTMLElement | null;
+    const arrow = el.querySelector('.leech-words-arrow') as HTMLElement | null;
+    if (!body) return;
+    const isOpen = body.style.display !== 'none';
+    if (isOpen) {
+        body.style.display = 'none';
+        if (arrow) arrow.textContent = '▶';
+    } else {
+        body.style.display = 'block';
+        if (arrow) arrow.textContent = '▼';
+        showLeechWords();
+    }
+}
+
 export function toggleHistoryPanel(el: HTMLElement): void {
     if (!el) return;
     const body = document.getElementById('history-collapse-body');
@@ -558,6 +628,12 @@ let _showAnswerEnterHandler: ((e: KeyboardEvent) => void) | null = null;
 let quizSession: SessionState | null = null;
 let spellingAutoSubmitTimer: ReturnType<typeof setTimeout> | null = null;
 let currentRoundStuckWords: string[] = []; // 本轮听力卡壳词
+let typingTracker: TypingTracker | null = null; // 本题逐键打字统计
+let lastInputValue = ''; // 输入框上一次的值，用于逐键判定新增字符
+// 本轮打字统计聚合（每次开始测验重置，结果页展示本轮输入速度/击键正确率）
+let roundTyping = { correctKeys: 0, wrongKeys: 0, activeMs: 0 };
+// 章节默写：章节末听音拼写复习。为独立复习轮，不改动全局「已测词」进度
+let isDictationRound = false;
 
 // 区域显隐
 function showQuizAnswerArea(): void {
@@ -610,8 +686,17 @@ function commitCurrentAnswer(isCorrect: boolean): void {
     const word = appState.currentQuizWord.word;
     answerCommitted = true;
 
-    quizAnsweredWords.add(word);
+    // 章节默写轮不改动全局「已测词」集合（这些词本就已测）
+    if (!isDictationRound) quizAnsweredWords.add(word);
     recordLearningHistory(word, isCorrect);
+    // 结束本题打字统计（合并入汇总 + 本轮聚合）
+    if (typingTracker) {
+        const t = typingTracker.finish();
+        roundTyping.correctKeys += t.correctKeys;
+        roundTyping.wrongKeys += t.wrongKeys;
+        roundTyping.activeMs += t.activeMs;
+        typingTracker = null;
+    }
     incrementStudyDay();
     appState.studyStats.todayWords++;
     appState.studyStats.learnedCount++;
@@ -620,7 +705,7 @@ function commitCurrentAnswer(isCorrect: boolean): void {
     // 连胜 / 每日目标 / 里程碑
     handleGamEvent(recordWordLearned(1));
     void updateWordSourceSelect();
-    saveAnsweredWords();
+    if (!isDictationRound) saveAnsweredWords();
     if (quizSession) {
         markAnswered(quizSession, word, isCorrect);
         // 自动持久化当前进度：直接关窗口 / 关机也能从 currentIndex 续测。
@@ -822,6 +907,7 @@ export async function startQuiz(): Promise<void> {
 
     loadAnsweredWords();
     quizAnsweredCount = 0;
+    roundTyping = { correctKeys: 0, wrongKeys: 0, activeMs: 0 };
 
     // 先过滤已答过的词
     appState.quizWords = appState.quizWords.filter(w => !quizAnsweredWords.has(w.word));
@@ -966,9 +1052,9 @@ export async function generateQuestion(): Promise<void> {
     // 注：上一题的落库已在 checkAnswer/showAnswer 判定后立即执行（commitCurrentAnswer），
     // 此处不再推迟提交；answerCommitted 已在选题时重置。
 
-    // 跳过已答过的单词
+    // 跳过已答过的单词（章节默写轮不跳过，全部词都要默写）
     let skippedCount = 0;
-    while (appState.quizWords.length > 0 && quizAnsweredWords.has(appState.quizWords[0].word)) {
+    while (!isDictationRound && appState.quizWords.length > 0 && quizAnsweredWords.has(appState.quizWords[0].word)) {
         appState.quizWords.splice(0, 1);
         skippedCount++;
     }
@@ -1007,6 +1093,11 @@ export async function generateQuestion(): Promise<void> {
     let selectedIndex = 0;
     appState.currentQuizWord = appState.quizWords[selectedIndex];
     appState.quizWords.splice(selectedIndex, 1);
+
+    // 打字统计：英文输入模式逐键记录，目标为当前词（含可接受拼写变体时取第一个）
+    const isEnglishTyping = isEnglishInputMode(appState.currentQuizMode);
+    typingTracker = new TypingTracker(appState.currentQuizWord.word, isEnglishTyping);
+    lastInputValue = '';
 
     quizAnswerSubmitted = false; // 重置提交标记
     answerCommitted = false; // 新题允许落库一次
@@ -2046,8 +2137,22 @@ function buildCurrentRoundStuckWordsHtml(): string {
 }
 
 // 显示测验完成结果界面
+// 本轮打字统计 HTML（输入速度 / 击键正确率），无英文击键则不显示
+function buildRoundTypingHtml(): string {
+    const total = roundTyping.correctKeys + roundTyping.wrongKeys;
+    if (total === 0 || roundTyping.activeMs <= 0) return '';
+    const cpm = Math.round(total / (roundTyping.activeMs / 60000));
+    const acc = Math.round((roundTyping.correctKeys / total) * 100);
+    return `
+        <div class="review-stat-row">本轮输入速度：<span class="review-stat-val">${cpm} 字符/分</span></div>
+        <div class="review-stat-row">本轮击键正确率：<span class="review-stat-val">${acc}%</span></div>`;
+}
+
 function showQuizResult(): void {
     if (!quizSession) return;
+    // 离开默写轮，恢复正常标记（全局已测词集合未被改动）
+    const wasDictation = isDictationRound;
+    isDictationRound = false;
     endSessionComplete(quizSession);
     // 一轮完成：立即备份最终状态
     backupNow();
@@ -2093,9 +2198,11 @@ function showQuizResult(): void {
                 <div class="review-stat-row">答对的单词：<span class="review-stat-val">${correct}</span></div>
                 <div class="review-stat-row">答错的单词：<span class="review-stat-val">${wrong}</span></div>
                 <div class="review-stat-row">循环次数：<span class="review-stat-val">${loopCount}</span></div>
+                ${buildRoundTypingHtml()}
                 ${stuckWordsHtml}
                 <div class="quiz-result-actions">
                     <button id="quiz-restart-wordbook" class="btn-gradient btn-green">重新测验该单词本</button>
+                    <button id="quiz-chapter-dictation" class="btn-gradient btn-blue">章节默写（听音拼写）</button>
                     <button id="quiz-finish" class="btn-gradient btn-red">结束测验</button>
                 </div>
                 <div class="quiz-result-hints">
@@ -2106,7 +2213,9 @@ function showQuizResult(): void {
         `;
         const restartBtn = document.getElementById('quiz-restart-wordbook');
         const finishBtn = document.getElementById('quiz-finish');
+        const dictationBtn = document.getElementById('quiz-chapter-dictation');
         if (restartBtn) restartBtn.addEventListener('click', () => confirmRestartCurrentWordbook());
+        if (dictationBtn) dictationBtn.addEventListener('click', () => startChapterDictation());
         if (finishBtn) finishBtn.addEventListener('click', () => {
             quizSession = null;
             hideQuizResult();
@@ -2137,10 +2246,12 @@ function showQuizResult(): void {
             <div class="review-stat-row">答对：<span class="review-stat-val">${correct}</span></div>
             <div class="review-stat-row">答错：<span class="review-stat-val">${wrong}</span></div>
             <div class="review-stat-row">正确率：<span class="review-stat-val">${accuracy}%</span></div>
+            ${buildRoundTypingHtml()}
             ${stuckWordsHtml}
             <div class="quiz-result-actions">
                 <button id="quiz-retry" class="btn-gradient btn-green">重新测验</button>
                 <button id="quiz-next-round" class="btn-gradient btn-blue">开始下一轮</button>
+                <button id="quiz-chapter-dictation" class="btn-gradient btn-blue">章节默写（听音拼写）</button>
                 <button id="quiz-finish" class="btn-gradient btn-red">结束测验</button>
             </div>
             <div class="quiz-result-hints">
@@ -2155,8 +2266,10 @@ function showQuizResult(): void {
     const retryBtn = document.getElementById('quiz-retry');
     const nextRoundBtn = document.getElementById('quiz-next-round');
     const finishBtn = document.getElementById('quiz-finish');
+    const dictationBtn = document.getElementById('quiz-chapter-dictation');
     if (retryBtn) retryBtn.addEventListener('click', () => retryQuiz());
     if (nextRoundBtn) nextRoundBtn.addEventListener('click', () => startNextRound());
+    if (dictationBtn) dictationBtn.addEventListener('click', () => startChapterDictation());
     if (finishBtn) finishBtn.addEventListener('click', () => {
         quizSession = null;
         hideQuizResult();
@@ -2223,6 +2336,35 @@ async function startNextRound(): Promise<void> {
     clearSessionState();
     // 重新触发 startQuiz，但会过滤已练习的
     await startQuiz();
+}
+
+// 章节末默写：用本轮单词做听音拼写复习（不改动全局已测进度）
+async function startChapterDictation(): Promise<void> {
+    const state = quizSession;
+    if (!state || state.words.length === 0) return;
+    const words = state.words;
+    hideQuizResult();
+    clearSessionState();
+
+    isDictationRound = true;
+    appState.currentQuizMode = QuizMode.Dictation;
+    appState.quizWords = [...words];
+    quizTotalCount = words.length;
+    quizAnsweredCount = 0;
+    roundTyping = { correctKeys: 0, wrongKeys: 0, activeMs: 0 };
+
+    quizSession = createSession('quiz', state.source, words);
+    quizSession.interrupted = true;
+    saveSessionState(quizSession);
+
+    const quizContainer = document.getElementById('quiz-container');
+    if (quizContainer) quizContainer.classList.add('quiz-container-visible');
+    const quizAnswer = document.getElementById('quiz-answer');
+    if (quizAnswer) quizAnswer.classList.remove('quiz-answer-hidden');
+    const progress = document.getElementById('quiz-progress');
+    if (progress) progress.style.display = 'block';
+
+    await generateQuestion();
 }
 
 // 二次确认后重新测验整个单词本：清空该来源进度、循环次数+1

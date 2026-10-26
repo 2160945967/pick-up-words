@@ -17,7 +17,7 @@ import {
 } from './global';
 
 import { initSearch, searchWord, initKeyboardShortcuts, translateText, showSearchHistory, removeFromSearchHistory, refreshResultWordbookSelector } from './modules/dictionary';
-import { initQuiz, showLearningHistory, toggleHistoryDay, toggleDueWords, showDueWordsCondition, removeDueWord, toggleHistoryPanel, cleanupShowAnswerEnterHandler, updateStreakPanel } from './modules/quiz';
+import { initQuiz, showLearningHistory, toggleHistoryDay, toggleDueWords, showDueWordsCondition, removeDueWord, toggleHistoryPanel, toggleLeechWords, removeLeechWord, cleanupShowAnswerEnterHandler, updateStreakPanel } from './modules/quiz';
 import { initWordbookManagement, loadWordbooks, abortLoadWordbooks, abortWordbookRendering, saveWordbookScroll, restoreWordbookScroll, renameWordbook, updateSelectedWordbookDisplay, updateWordbookSelect } from './modules/wordbook';
 import { initSettings, startSettingsPolling, stopSettingsPolling } from './modules/settings';
 import { initUserDict } from './modules/userDict';
@@ -93,6 +93,8 @@ setupGlobalRegistry({
     showDueWordsCondition,
     removeDueWord,
     toggleHistoryPanel,
+    toggleLeechWords,
+    removeLeechWord,
 });
 initActionDelegation();
 

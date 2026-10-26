@@ -27,6 +27,7 @@ import { virtualScrollMixin } from '../utils/virtualScroll';
 import { cardMixin } from '../utils/cardMixin';
 import { showToast } from '../utils/gsap';
 import { safeParse } from '../utils/storage';
+import { wordbookRender } from '../vue-renders';
 
 let lastRenderSignature = '';
 
@@ -1319,7 +1320,7 @@ export function initWordbookVue(): void {
     const { createApp, ref, reactive, computed, nextTick, watch } = (window as any).Vue;
 
     const app = createApp({
-        template: '#wordbook-vue-template',
+        render: wordbookRender,
         mixins: [virtualScrollMixin, cardMixin],
         data() {
             return {

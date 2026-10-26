@@ -26,6 +26,8 @@ interface Registry {
     showDueWordsCondition: Fn;
     removeDueWord: Fn;
     toggleHistoryPanel: Fn;
+    toggleLeechWords: Fn;
+    removeLeechWord: Fn;
 }
 
 const registry: Partial<Registry> = {};
@@ -55,7 +57,7 @@ function datasetArgs(action: string, el: HTMLElement): unknown[] {
         return [ds.pron ?? ds.pronType ?? '', ds.word ?? ''];
     }
     if (action === 'playSentencePronunciation') return [ds.word ?? ''];
-    if (action === 'toggleHistoryDay' || action === 'toggleDueWords' || action === 'toggleHistoryPanel') return [el];
+    if (action === 'toggleHistoryDay' || action === 'toggleDueWords' || action === 'toggleHistoryPanel' || action === 'toggleLeechWords') return [el];
     return [ds.word ?? ds.arg ?? ''];
 }
 

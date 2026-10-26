@@ -37,6 +37,10 @@ interface SettingsData {
   grade: GradeLevel;
   // 复习调度算法：固定艾宾浩斯间隔（ebbinghaus）或 ts-fsrs 概率调度（fsrs）
   scheduler: SchedulerAlgo;
+  // FSRS 期望保留率（0~1，到期时能回忆出的目标比例；默认 0.9，越高间隔越短、每日复习越多）
+  fsrsRequestRetention: number;
+  // FSRS 负载均衡（fuzz）：给间隔加随机抖动，把同一天到期的词摊开，避免爆发日（默认开）
+  fsrsFuzzing: boolean;
   // 判题日志：全本地记录每次判题的输入/判定明细，供评测集采样与阈值标定（默认开）
   gradingLogEnabled: boolean;
 }

@@ -14,6 +14,13 @@ import { exportGradingLog } from '../utils/gradingLog';
 let _settingsKeyupHandler: ((e: KeyboardEvent) => void) | null = null;
 let debounceTimer: ReturnType<typeof setTimeout> | null = null;
 
+/** 仅当选择 FSRS 调度时显示「期望保留率 / 负载均衡」选项，否则隐藏 */
+function updateFsrsOptionsVisibility(): void {
+    const item = document.getElementById('fsrs-options-item');
+    const algo = (document.getElementById('scheduler-algo') as HTMLSelectElement | null)?.value;
+    if (item) item.style.display = algo === SchedulerAlgo.Fsrs ? '' : 'none';
+}
+
 function quizAddToFavorites(): void {
     const word = appState.currentQuizWord?.word;
     if (!word) return;
@@ -33,6 +40,10 @@ export function initSettings(): void {
     const clearCacheBtn = document.getElementById('clear-cache');
 
     loadSettings();
+
+    // 切换调度算法时，即时显示/隐藏 FSRS 专属选项
+    const schedulerAlgoInit = document.getElementById('scheduler-algo');
+    if (schedulerAlgoInit) schedulerAlgoInit.addEventListener('change', updateFsrsOptionsVisibility);
 
     initSortableContainers();
 
@@ -352,6 +363,11 @@ export function loadSettings(): void {
     }
     const schedulerAlgoSel = document.getElementById('scheduler-algo') as HTMLSelectElement | null;
     if (schedulerAlgoSel) schedulerAlgoSel.value = appState.settings.scheduler || SchedulerAlgo.Ebbinghaus;
+    const fsrsRetentionSel = document.getElementById('fsrs-retention') as HTMLSelectElement | null;
+    if (fsrsRetentionSel) fsrsRetentionSel.value = String(appState.settings.fsrsRequestRetention ?? 0.9);
+    const fsrsFuzzingChk = document.getElementById('fsrs-fuzzing') as HTMLInputElement | null;
+    if (fsrsFuzzingChk) fsrsFuzzingChk.checked = appState.settings.fsrsFuzzing !== false;
+    updateFsrsOptionsVisibility();
     const playbackRateSlider = document.getElementById('playback-rate') as HTMLInputElement;
     const playbackRateValue = document.getElementById('playback-rate-value');
     if (playbackRateSlider) {
@@ -483,6 +499,13 @@ export function saveSettings(): void {
     }
     const schedulerAlgoSave = document.getElementById('scheduler-algo') as HTMLSelectElement | null;
     if (schedulerAlgoSave) appState.settings.scheduler = schedulerAlgoSave.value as SchedulerAlgo;
+    const fsrsRetentionSave = document.getElementById('fsrs-retention') as HTMLSelectElement | null;
+    if (fsrsRetentionSave) {
+        const r = parseFloat(fsrsRetentionSave.value);
+        if (Number.isFinite(r)) appState.settings.fsrsRequestRetention = r;
+    }
+    const fsrsFuzzingSave = document.getElementById('fsrs-fuzzing') as HTMLInputElement | null;
+    if (fsrsFuzzingSave) appState.settings.fsrsFuzzing = fsrsFuzzingSave.checked;
     const playbackRateSlider = document.getElementById('playback-rate') as HTMLInputElement;
     if (playbackRateSlider) {
         appState.settings.playbackRate = parseFloat(playbackRateSlider.value) || 1.0;

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://unpkg.com 'sha256-PoyqLBnYiOhXKSOvv68bZtowmhKgBk9d2pOMEjn43uY='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; media-src 'self' blob:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-PoyqLBnYiOhXKSOvv68bZtowmhKgBk9d2pOMEjn43uY='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; media-src 'self' blob:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'">
     <title>拾词</title>
     <link rel="icon" href="/logo.svg" type="image/svg+xml">
     <link rel="shortcut icon" href="/logo.svg" type="image/svg+xml">
@@ -21,8 +21,8 @@
     <link rel="stylesheet" href="/src/assets/css/bookpicker.css">
     <link rel="stylesheet" href="/src/assets/css/exam.css">
 
-    <!-- Vue 3 CDN (for global window.Vue compatibility) -->
-    <script src="https://unpkg.com/vue@3.4.0/dist/vue.global.prod.js"></script>
+    <!-- Vue 3 runtime-only build (vendored locally; templates precompiled at build time, CSP-safe) -->
+    <script src="/vendor/vue.runtime.global.prod.js"></script>
 
     <!-- Theme initialization (inline, before DOM parse to prevent flash) -->
     <script>
@@ -496,6 +496,21 @@
                     </div>
                 </div>
 
+                <!-- 顽固词折叠面板 -->
+                <div class="history-collapse" style="grid-column: span 2; margin-top: 20px;">
+                    <div class="history-collapse-header" role="button" tabindex="0" aria-expanded="false" data-action="toggleLeechWords">
+                        <span class="history-collapse-arrow leech-words-arrow">▶</span>
+                        <span>顽固词（反复答错）</span>
+                        <span class="history-collapse-count" id="leech-words-count"></span>
+                    </div>
+                    <div style="display:none; padding: 20px 15px; background: var(--bg-white); border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; border: 1px solid var(--border-color); border-top: none;">
+                        <div id="leech-words" class="wordlist-content"></div>
+                        <div id="leech-words-empty" style="display: none; text-align: center; color: #7f8c8d; margin-top: 20px;">
+                            暂无顽固词（累计答错 8 次的词会出现在这里）
+                        </div>
+                    </div>
+                </div>
+
                 <!-- 历史记录折叠面板 -->
                 <div class="history-collapse" id="history-collapse">
                     <div class="history-collapse-header" id="history-collapse-header" role="button" tabindex="0" aria-expanded="false" data-action="toggleHistoryPanel">
@@ -607,6 +622,23 @@
                             <option value="fsrs">ts-fsrs 智能调度</option>
                         </select>
                         <span class="setting-desc">艾宾浩斯按 1/2/4/7/15/30/60/90 天固定安排；FSRS 依据每次评分动态预测到期时间，公开基准显示同等记忆量下复习次数更少。切换不丢失历史</span>
+                    </div>
+
+                    <div class="setting-item" draggable="true" data-setting-key="fsrs-options" id="fsrs-options-item">
+                        <span class="drag-handle" title="拖动排序">⋮⋮</span>
+                        <label for="fsrs-retention">FSRS 期望保留率：</label>
+                        <select id="fsrs-retention">
+                            <option value="0.8">80%</option>
+                            <option value="0.85">85%</option>
+                            <option value="0.9">90%（推荐）</option>
+                            <option value="0.93">93%</option>
+                            <option value="0.95">95%</option>
+                            <option value="0.97">97%</option>
+                        </select>
+                        <label for="fsrs-fuzzing" style="margin-left:14px; white-space:nowrap;">
+                            <input type="checkbox" id="fsrs-fuzzing" checked> 负载均衡（fuzz 分散到期日）
+                        </label>
+                        <span class="setting-desc">期望保留率＝到期时能回忆出的比例，越高则间隔越短、每日复习越多（90% 以上负担快速上升，97% 可能难以承受）；开启负载均衡会给间隔加随机抖动，把同一天到期的词摊开，避免“爆发日”。仅在 FSRS 调度下生效</span>
                     </div>
 
                     <div class="setting-item" draggable="true" data-setting-key="answer-key">
@@ -1387,6 +1419,8 @@
                         </ul>
                         <p><strong>测验设置：</strong>可设置测验个数（1-100）和出题顺序（随机/顺序），各设置项支持拖拽排序。选择四级词书后，可在选书窗口底部切换「顺序 / 乱序」：顺序按单元、课程、词群的原始排列出题，乱序则随机打乱；该选择会自动记住。</p>
                         <p><strong>艾宾浩斯遗忘曲线：</strong>启用后系统根据遗忘规律安排复习，答错的单词会在特定时间点重复出现。</p>
+                        <p><strong>章节末默写：</strong>一轮测验结束后，结果页提供「章节默写（听音拼写）」按钮，可把本轮全部单词再做一遍听音拼写，作为收尾巩固。</p>
+                        <p><strong>输入速度 / 击键正确率：</strong>结果页显示本轮的「输入速度（字符/分）」与「击键正确率」，量化打字熟练度。</p>
                         <p><strong>连胜与每日目标：</strong>测验页顶部显示 🔥 连续学习天数、🧊 保护卡数量与今日目标进度。每天完成「每日学习单词数」即达成目标并累积连胜；达成 3 / 7 / 30 / 100 / 365 天里程碑会奖励保护卡。若中断一天，保护卡会自动消耗一张补上连胜。</p>
                     </div>
                     <!-- 单词本 -->
@@ -1441,6 +1475,7 @@
                             <li>答错的单词缩短复习间隔，加强记忆。</li>
                             <li>可在侧边栏查看「明日学习单词数」。</li>
                         </ul>
+                        <p><strong>顽固词：</strong>累计答错 8 次的词会被标记为顽固词，复习页可展开「顽固词」面板查看（按答错次数排序），也可手动移除标记。</p>
                         <p><strong>记忆数据看板：</strong>复习页底部以图表展示每日练习折线（X 轴为日期、Y 轴为当日单词数，各点用直线连接，没学的日子记 0；可切换「学习时长」）、到期词分布、答题留存率与遗忘曲线。每日练习按月长期保留，用 ‹ › 切换月份，按住图表左右拖动可查看月内日期；到期词分布与遗忘曲线也可按住拖动横向查看，遗忘曲线覆盖 0~90 天、按程序实际遗忘公式绘制，竖线标出艾宾浩斯复习节点（1/2/4/7/15/30/60/90 天），橙色虚线为目标记忆率。</p>
                     </div>
                     <!-- 模拟题 -->
@@ -1484,6 +1519,7 @@
                             <li><strong>到期词分布：</strong>按「已逾期 / 今天 / 明天 / 2-3 天 / 4-7 天 / 7 天后」展示待复习单词数量；鼠标停在柱子上可查看该区间的具体日期与单词数。</li>
                             <li><strong>答题留存率：</strong>环形显示答对 / 答错比例。</li>
                             <li><strong>遗忘曲线：</strong>展示 0~90 天的回忆概率变化，竖线标出艾宾浩斯复习节点，橙色虚线为目标记忆率；可左右拖动查看完整曲线。</li>
+                            <li><strong>年度复习热力图：</strong>以 GitHub 风格方格展示近一年每天的学习量（颜色越深当天学得越多），鼠标停在某格可查看当天具体单词数。</li>
                         </ul>
                     </div>
                     <!-- 设置 -->
@@ -1499,7 +1535,7 @@
                             <li><strong>错题答对次数：</strong>连续答对几次后自动移出错题本。</li>
                             <li><strong>多词性/同词性概率：</strong>调整测验中多词性单词和同词性单词的出现比例。</li>
                             <li><strong>查词历史数量：</strong>设置保存的查词历史条数。</li>
-                            <li><strong>复习调度算法：</strong>可选固定「艾宾浩斯」间隔，或启用「FSRS」（有公开实验支撑的自适应间隔算法，在记忆更牢的同时减少复习次数）；切换不丢失学习历史。</li>
+                            <li><strong>复习调度算法：</strong>可选固定「艾宾浩斯」间隔，或启用「FSRS」（有公开实验支撑的自适应间隔算法，在记忆更牢的同时减少复习次数）；切换不丢失学习历史。FSRS 下可设置「期望保留率」（默认 90%，越高复习越多）与「fuzz 负载均衡」（把同一天到期的词随机摊开）。</li>
                             <li><strong>学习类别：</strong>首次进入时选择（小学 / 中考 / 高考 / 四级 / 六级 / 专四 / 专八 / 考研 / 托福 / 雅思 / GRE），与侧边栏学习类别同步，决定默认词库与难度；可在此修改。</li>
                             <li><strong>API设置：</strong>可配置自定义腾讯云翻译API密钥，留空使用默认密钥。</li>
                             <li><strong>每日学习单词数：</strong>设置每日新学单词目标。</li>

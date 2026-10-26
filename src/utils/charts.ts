@@ -3,7 +3,7 @@
 // 落点：复习页「记忆数据看板」。数据来源 learningHistory / dailyLog / ts-fsrs。
 
 import { safeParse } from './storage';
-import { getDailyLogForMonth, getEarliestLogMonth } from './gamification';
+import { getDailyLogForMonth, getEarliestLogMonth, getRecentDailyLog } from './gamification';
 import { curveRetention, FSRS_TARGET_RETENTION } from './scheduler';
 
 const NS = 'http://www.w3.org/2000/svg';
@@ -335,9 +335,17 @@ function renderRetentionRing(host: HTMLElement): void {
     host.appendChild(root);
 }
 
+/** 读取用户设置的 FSRS 期望保留率（无有效设置时回退默认 0.9） */
+function getConfiguredRetention(): number {
+    const s = safeParse<Record<string, unknown>>('quizSettings', {});
+    const r = Number(s?.fsrsRequestRetention);
+    return Number.isFinite(r) && r >= 0.7 && r <= 0.99 ? r : FSRS_TARGET_RETENTION;
+}
+
 function renderForgettingCurve(host: HTMLElement): void {
     host.innerHTML = '';
     const S = 3;                 // 代表稳定度（复习数次后的常见值）
+    const targetRetention = getConfiguredRetention();
     const MAXDAY = 90;           // 与艾宾浩斯最大复习间隔一致
     const CSLOT = 18;            // 每天固定宽度，0~90 天超出视口可横向滚动
     const padL = 10;
@@ -375,7 +383,7 @@ function renderForgettingCurve(host: HTMLElement): void {
     });
 
     // 目标记忆率横线
-    const ty = yOfR(FSRS_TARGET_RETENTION);
+    const ty = yOfR(targetRetention);
     const targetLine = `<line x1="0" y1="${ty.toFixed(1)}" x2="${scrollW}" y2="${ty.toFixed(1)}" class="mc-target-line" stroke-dasharray="5 5"/>`;
 
     host.innerHTML = `
@@ -392,7 +400,7 @@ function renderForgettingCurve(host: HTMLElement): void {
           </svg>
         </div>
       </div>
-      <p class="md-scroll-hint">按住图表左右拖动，查看 0~90 天回忆概率（稳定度 S=3，曲线为程序实际遗忘公式）；竖线与数字为艾宾浩斯复习节点，橙色虚线为目标记忆率 ${Math.round(FSRS_TARGET_RETENTION * 100)}%。</p>`;
+      <p class="md-scroll-hint">按住图表左右拖动，查看 0~90 天回忆概率（稳定度 S=3，曲线为程序实际遗忘公式）；竖线与数字为艾宾浩斯复习节点，橙色虚线为目标记忆率 ${Math.round(targetRetention * 100)}%。</p>`;
 
     const sc = document.getElementById('md-curve-scroll');
     if (sc) enableDragPan(sc);
@@ -447,6 +455,90 @@ function bindChartTooltip(host: HTMLElement): void {
 }
 
 // ---------------- 看板装配 ----------------
+// ---------------- 年度复习热力图（GitHub 风格） ----------------
+function heatLevel(words: number): number {
+    if (words <= 0) return 0;
+    if (words < 5) return 1;
+    if (words < 10) return 2;
+    if (words < 20) return 3;
+    return 4;
+}
+function heatColor(level: number): string {
+    return ['var(--heat-0, #ebedf0)', '#9be9a8', '#40c463', '#30a14e', '#216e39'][level];
+}
+
+function renderAnnualHeatmap(host: HTMLElement): void {
+    host.innerHTML = '';
+    // 近 371 天数据，构建 date -> words 映射
+    const recent = getRecentDailyLog(371);
+    const map = new Map<string, number>();
+    recent.forEach(({ date, entry }) => map.set(date, entry.words));
+
+    const today = new Date();
+    const start = new Date(today.getFullYear(), today.getMonth(), today.getDate() - 364);
+    start.setDate(start.getDate() - start.getDay()); // 对齐到周日
+    const totalDays = Math.round((today.getTime() - start.getTime()) / 86400000) + 1;
+    const weeks = Math.ceil(totalDays / 7);
+
+    const cell = 13, gap = 3, padL = 30, padT = 22, padB = 20;
+    const W = padL + weeks * (cell + gap) + 4;
+    const H = padT + 7 * (cell + gap) + padB;
+    const root = svg('svg', { viewBox: `0 0 ${W} ${H}`, class: 'mc-svg mc-heatmap' });
+
+    // 星期标签（一、三、五）
+    const wdLabels: [number, string][] = [[1, '一'], [3, '三'], [5, '五']];
+    wdLabels.forEach(([row, label]) => {
+        const t = svg('text', { x: padL - 8, y: padT + row * (cell + gap) + cell - 2, class: 'mc-axis', 'text-anchor': 'end' });
+        t.textContent = label;
+        root.appendChild(t);
+    });
+
+    // 月份标签（在每月第一周列上方）
+    let lastMonth = -1;
+    for (let w = 0; w < weeks; w++) {
+        const d = new Date(start);
+        d.setDate(start.getDate() + w * 7);
+        const m = d.getMonth();
+        if (m !== lastMonth) {
+            lastMonth = m;
+            const t = svg('text', { x: padL + w * (cell + gap), y: padT - 8, class: 'mc-axis' });
+            t.textContent = `${m + 1}月`;
+            root.appendChild(t);
+        }
+    }
+
+    // 单元格
+    for (let i = 0; i < totalDays; i++) {
+        const d = new Date(start);
+        d.setDate(start.getDate() + i);
+        const w = Math.floor(i / 7), dow = i % 7;
+        const k = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+        const words = map.get(k) ?? 0;
+        const level = heatLevel(words);
+        const x = padL + w * (cell + gap), y = padT + dow * (cell + gap);
+        const r = svg('rect', { x, y, width: cell, height: cell, rx: 2, ry: 2, fill: heatColor(level), class: 'mc-heat-cell' });
+        const title = svg('title');
+        title.textContent = words > 0 ? `${k}：练习 ${words} 词` : `${k}：未练习`;
+        r.appendChild(title);
+        root.appendChild(r);
+    }
+
+    // 图例（少 → 多）
+    const legendY = H - 6;
+    let legendX = padL;
+    const lt = svg('text', { x: legendX, y: legendY, class: 'mc-axis' });
+    lt.textContent = '少'; root.appendChild(lt);
+    legendX += 18;
+    for (let lvl = 0; lvl <= 4; lvl++) {
+        root.appendChild(svg('rect', { x: legendX, y: legendY - 10, width: 11, height: 11, rx: 2, fill: heatColor(lvl) }));
+        legendX += 15;
+    }
+    const mt = svg('text', { x: legendX + 2, y: legendY, class: 'mc-axis' });
+    mt.textContent = '多'; root.appendChild(mt);
+
+    host.appendChild(root);
+}
+
 export function initMemoryDashboard(): void {
     const host = document.getElementById('memory-dashboard');
     if (!host) return;
@@ -468,12 +560,17 @@ export function initMemoryDashboard(): void {
             <div class="md-chart" id="md-curve"></div>
           </div>
         </div>
+        <div class="md-card">
+          <h4>年度复习热力图（近 12 个月，按当日练习单词数）</h4>
+          <div class="md-chart md-heatmap-host" id="md-heatmap"></div>
+        </div>
       </div>`;
 
     renderDailyCard();
     renderDueDistribution(document.getElementById('md-due-chart') as HTMLElement);
     renderRetentionRing(document.getElementById('md-retention') as HTMLElement);
     renderForgettingCurve(document.getElementById('md-curve') as HTMLElement);
+    renderAnnualHeatmap(document.getElementById('md-heatmap') as HTMLElement);
 
     bindChartTooltip(host);
 
@@ -506,4 +603,6 @@ export function refreshMemoryDashboard(): void {
     if (due) renderDueDistribution(due);
     if (ret) renderRetentionRing(ret);
     if (curve) renderForgettingCurve(curve);
+    const heat = document.getElementById('md-heatmap');
+    if (heat) renderAnnualHeatmap(heat);
 }

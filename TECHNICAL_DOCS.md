@@ -6349,3 +6349,48 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 - `npm run typecheck`、`npm run typecheck:electron` 0 错误；`npm test` 12 文件 **124 项全部通过**（新增 actionDelegation 7 项；quizAnswer 26、scheduler 12、quizSession 8）。
 - `npm run build` 通过并自动注入 CSP hash；产物已同步 `static/`。
 - 遗留：原阶段 2（localStorage→SQLite）涉及本地数据、进入前需再确认；GitHub 推送此前受网络重置影响，待网络恢复补推。
+
+## 38. 同类项目借鉴：FSRS 可调、章节默写、顽固词、热力图、打字速度（2026-10-26）
+
+参考 Qwerty Learner（打字肌肉记忆 / 章节末默写 / 速度正确率）、Anki+FSRS（期望保留率、fuzz、leech）、Lute（词族）、墨墨（记忆持久度），落地以下高价值低成本功能。
+
+### 38.1 FSRS 期望保留率可调 + fuzz 负载均衡
+
+- `src/utils/scheduler.ts`：新增 `FsrsConfig`（`requestRetention`、`fuzzing`）、`normalizeRetention()`（合法区间 0.7~0.99，越界回退 0.9）、`makeFsrs()`（透传 ts-fsrs 的 `request_retention` 与 `enable_fuzz`，注意参数名是 `enable_fuzz`）、`computeFsrs()` 增加第 4 个可选 config 参数。
+- 设置页 `index.html`：FSRS 调度下显示「期望保留率」下拉（80/85/90/93/95/97%）与「fuzz 负载均衡」复选框（默认开）；`settings.ts` 负责可见性与读写。
+- 字段：`setting.d.ts`、`store/index.ts`（默认 `fsrsRequestRetention=0.9`、`fsrsFuzzing=true`）。
+- `charts.ts`：遗忘曲线目标线与提示改用配置的保留率。
+- 事实：保留率 >90% 后复习负担显著上升；fuzz 仅在 interval ≥ 2.5 天生效，且 ts-fsrs 用含复习时刻的 alea 种子，同一卡同一时刻重复调用结果相同。
+
+### 38.2 章节末默写（听音拼写）
+
+- 测验结果页新增「章节默写（听音拼写）」按钮，`startChapterDictation()` 复用本轮全部单词，进入 `QuizMode.Dictation`，仅听音拼写、不跳过已测词。
+- 模块级 `isDictationRound` 守卫：默写轮不写入全局 `quizAnsweredWords` / `saveAnsweredWords`，保护全局已测进度；`showQuizResult` 开头复位。
+
+### 38.3 顽固词（leech）检测
+
+- 新建 `src/utils/leech.ts`：`LEECH_THRESHOLD=8`，`applyLeech()` 累计答错次数（lapses），达阈值置 `leech`；提供 `getLeechWords()`（按 lapses 降序）、`getLeechCount()`、`clearLeech()`。
+- `recordLearningHistory` 中调用，首次成为顽固词时 toast 提示；复习页新增「顽固词」折叠面板（`toggleLeechWords` / `removeLeechWord`，已注册全局 data-action）。
+
+### 38.4 年度复习热力图
+
+- `charts.ts`：`renderAnnualHeatmap()` 基于 `dailyLog`（近 371 天 date→words），渲染 GitHub 风格 53 周×7 天 SVG，含月份/星期标签、五级热度（0、1-4、5-9、10-19、20+）、每格 `<title>` 原生提示与图例；统计页展示。
+
+### 38.5 打字速度 / 击键正确率
+
+- 新建 `src/utils/typingStats.ts`：`TypingTracker` 逐位判定新增字符对错（退格不计）、相邻击键间隙封顶 2 秒计主动输入时长，`finish()` 合并入 localStorage（仅有击键才计 answer）。
+- 测验输入/commit 流程挂接；结果页显示「本轮输入速度（字符/分）」「本轮击键正确率」。
+
+### 38.6 修复：CSP 下 Vue 运行时模板编译被拦（真实缺陷）
+
+- 现象：错题本 / 我的收藏 / 单词本三个 Vue 页面在 CSP（无 `unsafe-eval`）下，`template: '#…'` 由 Vue 全量包运行时经 `new Function()` 编译，被 CSP 拦截抛 `EvalError`，页面渲染为空；答错后 `initErrorbookVue()` 同样抛错并被 `.catch(()=>{})` 吞掉，表现为反馈卡在「正在判别答案…」。
+- 修复（同时满足离线与严格 CSP）：
+  - 新建构建工具 `tools/compile-vue-templates.cjs`（已接入 `npm run build`，在 typecheck/vite 前执行），用 `@vue/compiler-dom` 把三个模板预编译为渲染函数，生成 `src/vue-renders.ts`；三个模块改为传 `render` 而非 `template`。
+  - 渲染函数采用**懒初始化**（首次渲染才访问全局 `Vue`），使测试环境无 Vue 时 import 不抛错。
+  - Vue 改为本地 vendor：`public/vendor/vue.runtime.global.prod.js`（运行时版，3.5.35），`index.html` 不再从 unpkg CDN 加载（离线可用），CSP `script-src` 移除 `https://unpkg.com`。
+
+### 38.7 验证记录
+
+- `npm run typecheck`、`npm run typecheck:electron` 0 错误；`npm test` 16 文件 **168 项全部通过**（新增 leech 4、typingStats 6、scheduler +3）。
+- 静态 http 真机验证：错题本 6 张卡片正常渲染；中译英答错显示「回答错误，请再试一次」不再卡住；结果页显示打字速度/正确率并可进入章节默写；统计页热力图、到期词分布、留存率、遗忘曲线正常。
+- 遗留：Qwerty 词书（COCA/RAZ/Oxford 等）是否转成拾词词书待确认；语义判分是否换 cross-encoder/NLI 待确认。

@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import {
     computeFsrs, curveRetention, getCardRetrievability, decideFsrsGrade,
+    normalizeRetention,
 } from '../src/utils/scheduler';
 
 const DAY = 86_400_000;
@@ -69,5 +70,50 @@ describe('decideFsrsGrade 评分映射', () => {
     });
     it('无卡一次答对 → good', () => {
         expect(decideFsrsGrade({ isCorrect: true, errorCountThisRound: 0 })).toBe('good');
+    });
+});
+
+describe('FSRS 可调参数（保留率 / fuzz）', () => {
+    /** 连续 Good 培育一张成熟卡（进入 Review、间隔数天） */
+    function buildMatureCard(rounds = 8): { card: Record<string, unknown>; t: number } {
+        let card: Record<string, unknown> | undefined;
+        let t = Date.now();
+        for (let i = 0; i < rounds; i++) {
+            const r = computeFsrs(card, 'good', t, { fuzzing: false });
+            card = r.card;
+            t = r.nextReviewTime;
+        }
+        return { card: card as Record<string, unknown>, t };
+    }
+
+    it('normalizeRetention 越界/非法值回退 0.9，合法值保留', () => {
+        expect(normalizeRetention(0.5)).toBe(0.9);
+        expect(normalizeRetention(1.2)).toBe(0.9);
+        expect(normalizeRetention('x')).toBe(0.9);
+        expect(normalizeRetention(undefined)).toBe(0.9);
+        expect(normalizeRetention(0.95)).toBe(0.95);
+    });
+
+    it('期望保留率越高，毕业间隔越短（复习更频繁）', () => {
+        const now = Date.now();
+        const gradInterval = (ret: number): number => {
+            const r1 = computeFsrs(undefined, 'good', now, { requestRetention: ret, fuzzing: false });
+            const r2 = computeFsrs(r1.card, 'good', r1.nextReviewTime, { requestRetention: ret, fuzzing: false });
+            return r2.nextReviewTime - r1.nextReviewTime;
+        };
+        expect(gradInterval(0.97)).toBeLessThan(gradInterval(0.8));
+    });
+
+    it('关闭 fuzz 间隔确定；开启 fuzz 后不同复习时刻得到散开的间隔', () => {
+        const { card, t } = buildMatureCard();
+        const off = new Set<number>();
+        const on = new Set<number>();
+        for (let i = 0; i < 50; i++) {
+            const reviewAt = t + i * 1000; // 不同复习时刻 → 不同 fuzz 种子
+            off.add(computeFsrs(card, 'good', reviewAt, { fuzzing: false }).scheduledDays);
+            on.add(computeFsrs(card, 'good', reviewAt, { fuzzing: true }).scheduledDays);
+        }
+        expect(off.size).toBe(1);
+        expect(on.size).toBeGreaterThan(1);
     });
 });

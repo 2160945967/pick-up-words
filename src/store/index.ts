@@ -94,6 +94,10 @@ export interface AppState {
         grade: GradeLevel;
         // 复习调度算法：艾宾浩斯 / ts-fsrs
         scheduler: SchedulerAlgo;
+        // FSRS 期望保留率（0~1）
+        fsrsRequestRetention: number;
+        // FSRS 负载均衡（fuzz）
+        fsrsFuzzing: boolean;
         // 判题日志开关
         gradingLogEnabled: boolean;
         quizMode?: QuizMode;
@@ -182,6 +186,8 @@ function getDefaultState(): AppState {
             includeDerivations: false,
             grade: GradeLevel.Primary,
             scheduler: SchedulerAlgo.Ebbinghaus,
+            fsrsRequestRetention: 0.9,
+            fsrsFuzzing: true,
             gradingLogEnabled: true,
         },
         quizWords: [],

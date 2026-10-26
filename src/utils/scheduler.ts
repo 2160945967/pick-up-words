@@ -17,6 +17,26 @@ export type FsrsGrade = 'again' | 'hard' | 'good' | 'easy';
 const f = fsrs();
 const DEFAULT_PARAMS = generatorParameters();
 
+/** FSRS 可调参数（来自设置）：期望保留率 0~1、是否开启 fuzz 负载均衡 */
+export interface FsrsConfig {
+    requestRetention: number;
+    fuzzing: boolean;
+}
+
+/** 校正期望保留率到合理区间（FSRS 允许 0.7~0.99；超出则回退默认 0.9） */
+export function normalizeRetention(r: unknown): number {
+    const n = Number(r);
+    if (!Number.isFinite(n) || n < 0.7 || n > 0.99) return 0.9;
+    return Math.round(n * 100) / 100;
+}
+
+/** 按设置构建 FSRS 实例：透传 request_retention 与 enable_fuzzing（其余参数用默认） */
+function makeFsrs(config?: Partial<FsrsConfig>) {
+    const request_retention = normalizeRetention(config?.requestRetention ?? DEFAULT_PARAMS.request_retention);
+    const enable_fuzz = config?.fuzzing ?? false;
+    return fsrs(generatorParameters({ request_retention, enable_fuzz }));
+}
+
 const GRADE_RATING: Record<FsrsGrade, Grade> = {
     again: Rating.Again,
     hard: Rating.Hard,
@@ -83,9 +103,11 @@ export function computeFsrs(
     cardRaw: SerializedCard | undefined,
     grade: FsrsGrade,
     now: number = Date.now(),
+    config?: Partial<FsrsConfig>,
 ): FsrsResult {
+    const engine = makeFsrs(config);
     const card = reviveCard(cardRaw, now);
-    const { card: next } = f.next(card, new Date(now), GRADE_RATING[grade]);
+    const { card: next } = engine.next(card, new Date(now), GRADE_RATING[grade]);
     return {
         card: serializeCard(next),
         nextReviewTime: next.due.getTime(),
