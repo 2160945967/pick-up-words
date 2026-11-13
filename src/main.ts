@@ -34,6 +34,7 @@ import { playPronunciation, playSentencePronunciation, setAppState } from './uti
 import { initGsapAnimations, setupGsapGlobal } from './utils/gsap';
 import { initBookPicker } from './modules/bookPicker';
 import { initExam } from './modules/exam';
+import { initArticleType } from './modules/articleType';
 import { initGradeModal } from './modules/gradeModal';
 import { initMemoryDashboard, refreshMemoryDashboard } from './utils/charts';
 import { warmupStructuredBook } from './utils/structuredBook';
@@ -120,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
     pageHandlers.cleanupShowAnswerEnterHandler = cleanupShowAnswerEnterHandler;
     pageHandlers.onPageEnter = (page: string) => {
         // 进入学习相关页面时启动计时器
-        if (['quiz', 'review', 'exam'].includes(page)) {
+        if (['quiz', 'review', 'exam', 'article-type'].includes(page)) {
             startStudyTimer();
         }
         // 进入设置页面时启动资源状态轮询
@@ -134,7 +135,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     pageHandlers.onPageLeave = (page: string) => {
         // 离开学习相关页面时停止计时器
-        if (['quiz', 'review', 'exam'].includes(page)) {
+        if (['quiz', 'review', 'exam', 'article-type'].includes(page)) {
             stopStudyTimer();
         }
         // 离开设置页面时停止资源状态轮询
@@ -190,6 +191,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 7.6 初始化模拟题模块（阅读理解 / 听力理解）
     initExam();
+
+    // 7.7 初始化文章练习模块（跟打 / 听写）
+    initArticleType();
 
     // 8. 初始化单词本页面
     initWordbookManagement();

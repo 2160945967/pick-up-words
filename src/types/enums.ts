@@ -55,6 +55,7 @@ export const enum PageSection {
     Review = 'review',
     Settings = 'settings',
     Exam = 'exam',
+    ArticleType = 'article-type',
     Statistics = 'statistics',
 }
 

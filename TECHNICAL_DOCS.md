@@ -6394,3 +6394,36 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 - `npm run typecheck`、`npm run typecheck:electron` 0 错误；`npm test` 16 文件 **168 项全部通过**（新增 leech 4、typingStats 6、scheduler +3）。
 - 静态 http 真机验证：错题本 6 张卡片正常渲染；中译英答错显示「回答错误，请再试一次」不再卡住；结果页显示打字速度/正确率并可进入章节默写；统计页热力图、到期词分布、留存率、遗忘曲线正常。
 - 遗留：Qwerty 词书（COCA/RAZ/Oxford 等）是否转成拾词词书待确认；语义判分是否换 cross-encoder/NLI 待确认。
+
+## 39. 文章练习：整篇逐句跟打与听写（参考 TypeWords，2026-11-13）
+
+参考 `zyronon/TypeWords`（词文记，Vue/Nuxt，GPL-3.0）。核对后确认拾词已有**单词级**跟打（测验「跟练模式」spelling，quiz.ts 的 ghost 红绿渲染），缺的是**整篇/逐句**这一层。新增独立模块复用 CET 阅读真题，含跟打、听写两种模式。
+
+### 39.1 接入点
+
+- `src/types/enums.ts`：`PageSection` 新增 `ArticleType = 'article-type'`（位于 Exam 与 Statistics 之间）。
+- `index.html`：侧边栏在「模拟题」与「统计」之间加「文章练习」导航；`#exam-page` 后加空容器 `#article-type-page`；head 加 `article-type.css` 的 link（CSS 仍走 link 而非 TS import）。
+- `src/main.ts`：import 并在 DOMContentLoaded 调用 `initArticleType()`；把 `'article-type'` 加入 `onPageEnter/onPageLeave` 的学习计时数组，文章练习计入学习时长。
+
+### 39.2 句子清洗与切分（纯函数 `src/utils/articleSentences.ts`）
+
+- `stripCjkParentheses`：①删除含汉字的全角/半角括号注释（替换为空格，避免相邻单词粘连）；②全角括号内为英文术语的去括号保留英文；③删除括号外的内嵌中文（如 `become高风险`）；返回前折叠空白。
+- `splitSentences`：先把常见缩写（Mr/Dr/e.g/i.e/u.s/a.m 等）与小数（`\d\.\d`）中的句点替换为 ASCII 哨兵 `@@DOT@@`，再用 `/[^.!?]+[.!?]+["'”’\)\]]?\s*/g` 切句，最后还原哨兵、折叠空白、去标点前空格，并保留无句末标点的尾部片段。
+- `buildArticleSentences`：先做整篇级判断——原始文本汉字数 > 拉丁字母数即判为中文文章返回空（模块提示不适合英文练习）；否则清洗、切句，并过滤拉丁字母 <3 的非英文片段。
+- 关键坑：缩写内部含点（`e.g.`），最初只替换结尾点导致内部点被当句末，改为把匹配串内所有点一起保护；占位符曾用不可见字符在写入时丢失，改用纯 ASCII 哨兵。
+
+### 39.3 模块 `src/modules/articleType.ts`（自包含视图，结构参考 exam.ts）
+
+- 三视图：home（两种模式说明 + CET4/CET6 入口）、list（模式切换 + 文章网格，带 fetch 缓存）、practice（顶栏 + 进度条 + 句子卡 + 控件）。
+- 打字交互复用 quiz 的覆盖模式：`.at-type-area` 相对定位，`.at-type-display` 放字符 span（`tc-ok/tc-bad/tc-ghost/tc-neutral/tc-caret`，复用 quiz.css 的字符类），`#at-input` 绝对定位 `inset:0`、文字与光标透明，仅捕获键盘；输入只刷新展示层不整页重渲染，避免丢焦。
+- **按词换行（不拆词）**：渲染先把字符归为 `Piece`（char/space/caret），再由 `groupWords()` 把连续非空格片段包进 `.at-word`（`inline-flex;flex-wrap:nowrap`，整词不可断行），空格单独成 `.at-space`（`white-space:pre`）作为唯一可断点；外层 `.at-type-display` 仍 flex-wrap，故长内容自动换行且单词不会从中间断开，数字（如 `10,000`）、尾随标点（如 `meters.`）随词保持完整。
+- 跟打：ghost 铺底，逐字符对绿错红；归一化（小写 + 折叠空白）完全匹配后 260ms 自动进句；统计错误击键。
+- 听写：隐藏目标、进入句子自动 `playSentencePronunciation`（口音取 `appState.settings.pronunciationType`），提供重播；未揭晓只回显输入不暴露原文；精确匹配自动进句，也可「查看答案」填入原文对照。
+- 完成后渲染总结（句子数、错误击键），可再练本篇/返回列表/回首页。
+
+### 39.4 验证记录
+
+- 真实数据抽样：CET4 199 篇 → 3809 句、CET6 200 篇 → 5433 句；清洗后残留 CJK、空句、多空格均为 0；单词粘连（`crustaceansthat` 等）修复；整篇中文文章（6G 一篇）正确返回空。
+- `npm run typecheck` 0 错误；`npm test` 18 文件 **191 项全部通过**（articleSentences 19、articleTypeFlow 4 个 DOM 流程测试，含按词分组断言；用 vi.mock 隔离 global/audio、mock fetch 驱动完整流程）。
+- `vite build` + CSP 注入通过，产物已同步 `static/`（index.html 与 assets）；内置浏览器静态 http 真机验证：跟打 ghost 与红绿反馈、长句换行、听写隐藏与重播、查看答案对照均正常；按词换行经逐词 `offsetTop` 测量（823px 宽 6 行、压窄到 320px 宽 9 行）确认 **0 个单词被拆行**。
+- 已知限制：个别源数据把中文当唯一语义（如 `become高风险`），清洗后该词位置留空，无法在不臆造内容的前提下补回英文；长句（约 500 字符）保留为单句未强制再切。

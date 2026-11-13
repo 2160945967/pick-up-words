@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="/src/assets/css/glass.css">
     <link rel="stylesheet" href="/src/assets/css/bookpicker.css">
     <link rel="stylesheet" href="/src/assets/css/exam.css">
+    <link rel="stylesheet" href="/src/assets/css/article-type.css">
 
     <!-- Vue 3 runtime-only build (vendored locally; templates precompiled at build time, CSP-safe) -->
     <script src="/vendor/vue.runtime.global.prod.js"></script>
@@ -142,6 +143,9 @@
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link" data-section="exam">模拟题</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" data-section="article-type">文章练习</a>
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link" data-section="statistics">统计</a>
@@ -532,6 +536,8 @@
             </div>
 
             <div id="exam-page" class="content-page"></div>
+
+            <div id="article-type-page" class="content-page"></div>
 
             <!-- 统计页：学习数据概览 + 记忆数据看板 -->
             <div id="statistics-page" class="content-page">
@@ -1368,6 +1374,7 @@
                     <button class="usage-tab" data-tab="errorbook">❌ 错题本</button>
                     <button class="usage-tab" data-tab="review">🔄 复习模式</button>
                     <button class="usage-tab" data-tab="exam">🎧 模拟题</button>
+                    <button class="usage-tab" data-tab="article">📖 文章练习</button>
                     <button class="usage-tab" data-tab="statistics">📈 统计</button>
                     <button class="usage-tab" data-tab="settings">⚙️ 设置</button>
                     <button class="usage-tab" data-tab="sidebar">📊 侧边栏</button>
@@ -1507,6 +1514,17 @@
                             <li>听力开启模拟模式后，音频播放结束会立即自动交卷。</li>
                         </ul>
                         <p><strong>资源提示：</strong>听力音频体积较大，默认不随安装包内置。若某套显示「未检测到音频」，将 <code>CET4_Listening_Bank</code> 放入 <code>resource/模拟题</code> 目录或安装听力资源包即可；音频缺失时题目与原文仍可正常练习。</p>
+                    </div>
+                    <!-- 文章练习 -->
+                    <div class="usage-section" data-section="article">
+                        <h3 style="margin-top: 0;">📖 文章练习（整篇逐句打字）</h3>
+                        <p>把阅读真题整篇逐句作为打字材料，训练整句拼写与记忆；素材与「模拟题」同源（四级 199 篇、六级 200 篇），在侧边栏「文章练习」进入。</p>
+                        <p><strong>两种练习方式：</strong></p>
+                        <ul>
+                            <li><strong>⌨️ 跟打模式：</strong>显示完整句子，浅色铺底，逐字符输入——对的变绿、错的变红，敲完一句自动进入下一句；长内容按词自动换行，单词不会从中间断开。</li>
+                            <li><strong>🎧 听写模式：</strong>隐藏句子并自动播放整句发音（可点「播放/重播发音」反复听），凭记忆敲出整句；完成后自动对照，也可点「查看答案」显示原文。</li>
+                        </ul>
+                        <p><strong>操作提示：</strong>输入框覆盖在文字上，直接打字即可，无需点选；「跳过本句」可直接进入下一句；整篇完成后显示句子数与错误击键统计，可再练一篇或返回列表。</p>
                     </div>
                     <!-- 统计 -->
                     <div class="usage-section" data-section="statistics">
