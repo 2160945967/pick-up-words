@@ -150,6 +150,9 @@
 .ex-score { display: flex; align-items: baseline; gap: 10px; }
 .ex-score-num { font-size: 24px; font-weight: 700; color: var(--accent-green); }
 .ex-score-pct { color: var(--text-gray); font-size: 14px; }
+.ex-elapsed { display: flex; flex-direction: column; gap: 2px; }
+.ex-elapsed-label { color: var(--text-gray); font-size: 12px; }
+.ex-elapsed-val { font-size: 15px; font-weight: 600; color: var(--text-dark); font-variant-numeric: tabular-nums; }
 .ex-result-toggles { display: flex; flex-wrap: wrap; gap: 8px; margin-left: auto; }
 #ex-extra { flex-basis: 100%; width: 100%; }
 

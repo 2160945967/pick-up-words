@@ -6427,3 +6427,41 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 - `npm run typecheck` 0 错误；`npm test` 18 文件 **191 项全部通过**（articleSentences 19、articleTypeFlow 4 个 DOM 流程测试，含按词分组断言；用 vi.mock 隔离 global/audio、mock fetch 驱动完整流程）。
 - `vite build` + CSP 注入通过，产物已同步 `static/`（index.html 与 assets）；内置浏览器静态 http 真机验证：跟打 ghost 与红绿反馈、长句换行、听写隐藏与重播、查看答案对照均正常；按词换行经逐词 `offsetTop` 测量（823px 宽 6 行、压窄到 320px 宽 9 行）确认 **0 个单词被拆行**。
 - 已知限制：个别源数据把中文当唯一语义（如 `become高风险`），清洗后该词位置留空，无法在不臆造内容的前提下补回英文；长句（约 500 字符）保留为单句未强制再切。
+
+## 40. 「模拟题」重构为「题库」：真题/模拟双入口、官方计时、作答用时（2026-11-13，第一步框架）
+
+把原「模拟题」模块重构为「题库」，分两步走：先搭不依赖外部数据的框架（本节），再做真题数据下载与转换流水线（待办）。写作/翻译评分暂不处理，先做题目展示、作答记录与范文/参考译文对照。
+
+### 40.1 导航与首页（index.html / exam.ts）
+
+- `index.html` 侧边导航 `data-section="exam"` 文案「模拟题」→「题库」；使用说明弹窗的 tab 与正文同步更新（路径类文案 `resource/模拟题` 保留，因目录实际名未改）。
+- `renderHome()` 重写：保留严格模式开关（元素 id 仍为 `sim-mode-toggle`/`sim-duration`，存储键 `examSimMode`/`examSimDurationMin` 与内部函数名 isSimMode 等均不改，降低回归风险）+ 两张入口卡「历年真题」「模拟练习」。
+- 新增 `renderMockHub()`：返回题库 + 现有听力（100 套）/阅读（399 篇）两张卡，旧数据链路不变。
+
+### 40.2 官方计时常量（exam.ts）
+
+- 新增 `OfficialTiming` 接口与 `OFFICIAL_TIMING`（秒），口径核对自中国教育考试网：CET4 `{writing:1800, listening:1500, reading:2400, translation:1800, total:7500}`（125 分钟）；CET6 `{writing:1800, listening:1800, reading:2400, translation:1800, total:7800}`（130 分钟）。
+- 真实考试顺序固定：写作 → 听力 → 阅读 → 翻译，分段计时不可提前做后面。
+
+### 40.3 真题 hub 与整套/单项视图（exam.ts）
+
+- View 类型扩展：`'home' | 'mock-hub' | 'real-hub' | 'real-papers' | 'real-single' | 'reading-list' | 'listening-list' | 'reading' | 'listening'`；新增状态 `realLevel`、`practiceStartAt`、`lastElapsedSec`。
+- `renderRealHub()`：级别选择（CET-4/CET-6，`pick-level`）+ 整套真题/单项训练两张卡，整套卡文案随级别显示官方分钟数。
+- `renderRealPapers()`：整套空态（数据准备中），显示官方总时长与各部分固定时间。
+- `renderRealSingle()`：6 张部件卡（听力/选词填空/长篇/仔细/写作/翻译），各带官方分钟数，数据接入后可勾选任意搭配。
+- 新增 switch 动作：`open-mock-hub`、`open-real-hub`、`pick-level`、`open-real-papers`、`open-real-single`、`back-real-hub`。
+
+### 40.4 作答用时与严格模式（exam.ts / exam.css）
+
+- 计时起点：阅读 `reading-start-quiz` 设 `practiceStartAt=Date.now()`（注释阅读阶段不计时）；听力在非 review 的 `openListening` 分支设置；retry 时阅读置 null（回阶段1）、听力重置为 now。
+- `submit()` 计算 `lastElapsedSec`（实际经过秒数，强制交卷同样记录），结果条新增 `.ex-elapsed` 块显示「本次作答用时」；`formatElapsed()` 输出「X 分 Y 秒 / X 分钟 / X 秒」。
+- `ExamRecord` 加可选 `elapsed`，`markCompleted(key, answers?, elapsed?)` 内部经 record() 工厂保存用时；新增 `getSavedElapsed(key)`；完成记录键 `examCompleted` 不变。
+- 文案「模拟模式」→「严格模式」（两处 sim-bar 与使用说明），到点强制交卷逻辑沿用既有 startSimTimer；整套严格模式的官方时间锁定在数据流水线接入整套流程时落地，常量已就位。
+
+### 40.5 验证记录
+
+- 渲染层 `tsc --noEmit` 0 错误；`vitest run` 18 文件 **191 项全部通过**；`vite build` 成功，CSP 注入 1 个 hash（`sha256-PoyqLBnYiOhXKSOvv68bZtowmhKgBk9d2pOTEjn43uY=`，未变）。
+- 产物已同步 `static/`，index.html 与三个 assets（index-BzQ8xNx6.css、index-a9woYdh8.js、index-DXsUuaGO.js）dist/static 哈希全部一致。
+- 内置浏览器真机验证：题库首页（严格模式 + 两入口）、真题 hub 级别切换（CET6 听力 30 分钟）、整套空态（130 分钟）、单项六部件、模拟 hub 与现有听力/阅读列表、阅读作答交卷后结果条显示「本次作答用时 28 秒」，且 localStorage 完成记录 `reading:cet4:1` 含 `elapsed:28`。
+- 环境说明：离屏浏览器的使用说明开场动画（`shrinking-to-logo`）与导航 `.click()` 在该环境不稳定，验证时以 JS 直接触发/激活，属环境限制而非代码缺陷；导航切换本身是未改动的 global.ts 逻辑。
+- 待办：第二步真题数据流水线（下载 PDF/MP3、解析结构化、逐套校验，先四级后六级，音频放 `resource/` 不入库）；整套严格模式锁定与更细粒度进度随数据接入完成。

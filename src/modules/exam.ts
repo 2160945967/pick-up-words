@@ -14,6 +14,14 @@ const EXAM_URL = `${BASE_URL}/exams`;
 const PAGE_ID = 'exam-page';
 const LETTERS = ['A', 'B', 'C', 'D'];
 
+// ---------------- 官方各部分限时（秒，中国教育考试网） ----------------
+// 四级总 125 分钟、六级总 130 分钟；整套严格模式按此锁定，不可改。
+interface OfficialTiming { writing: number; listening: number; reading: number; translation: number; total: number }
+const OFFICIAL_TIMING: Record<ReadingLevel, OfficialTiming> = {
+    cet4: { writing: 30 * 60, listening: 25 * 60, reading: 40 * 60, translation: 30 * 60, total: 125 * 60 },
+    cet6: { writing: 30 * 60, listening: 30 * 60, reading: 40 * 60, translation: 30 * 60, total: 130 * 60 },
+};
+
 // ---------------- 数据类型（对应构建 JSON 短键） ----------------
 interface RQuestion { n: number; s: string; o: string[]; a: string; e: string; zs: string; zo: string[] }
 interface RArticle { n: number; t: string; p: string[]; q: RQuestion[]; zt: string; zp: string[] }
@@ -31,7 +39,7 @@ interface ListeningIndexItem { id: string; title: string; hasWav: boolean }
 interface ListeningIndex { type: string; label: string; count: number; tests: ListeningIndexItem[] }
 interface Keyword { w: string; ph: string; mean: string; count: number }
 
-type View = 'home' | 'reading-list' | 'listening-list' | 'reading' | 'listening';
+type View = 'home' | 'mock-hub' | 'real-hub' | 'real-papers' | 'real-single' | 'reading-list' | 'listening-list' | 'reading' | 'listening';
 type ReadingLevel = 'cet4' | 'cet6';
 
 // ---------------- 模块状态 ----------------
@@ -45,6 +53,11 @@ let readingLevel: ReadingLevel = 'cet4';
 let readingPos = 0;
 let listeningPos = 0;
 let currentTest: ListeningTest | null = null;
+
+// 真题入口状态 + 作答计时
+let realLevel: ReadingLevel = 'cet4';
+let practiceStartAt: number | null = null;
+let lastElapsedSec = 0;
 
 let answers: Record<number, string> = {};
 let submitted = false;
@@ -60,7 +73,7 @@ let targetWords: Set<string> = new Set();
 
 // ---- 已交卷完成状态（持久化，用于列表序号圆圈标绿） ----
 const COMPLETED_KEY = 'examCompleted';
-interface ExamRecord { done: true; answers: Record<number, string>; }
+interface ExamRecord { done: true; answers: Record<number, string>; elapsed?: number }
 type CompletedMap = Record<string, boolean | ExamRecord>;
 
 function loadCompleted(): CompletedMap {
@@ -71,15 +84,20 @@ function isCompleted(key: string): boolean {
     const v = loadCompleted()[key];
     return v === true || (!!v && typeof v === 'object' && (v as ExamRecord).done === true);
 }
-/** 交卷时保存答案，便于右键“查看上次答题情况” */
-function markCompleted(key: string, answers?: Record<number, string>): void {
+/** 交卷时保存答案与用时，便于右键“查看上次答题情况” */
+function markCompleted(key: string, answers?: Record<number, string>, elapsed?: number): void {
     const m = loadCompleted();
+    const record = (): ExamRecord => {
+        const r: ExamRecord = { done: true, answers: { ...(answers || {}) } };
+        if (Number.isFinite(elapsed)) r.elapsed = elapsed;
+        return r;
+    };
     if (!isCompleted(key)) {
-        m[key] = answers ? { done: true, answers: { ...answers } } : true;
+        m[key] = answers ? record() : true;
         localStorage.setItem(COMPLETED_KEY, JSON.stringify(m));
     } else if (answers) {
-        // 已完成但重做后再次交卷：更新答案
-        m[key] = { done: true, answers: { ...answers } };
+        // 已完成但重做后再次交卷：更新答案与用时
+        m[key] = record();
         localStorage.setItem(COMPLETED_KEY, JSON.stringify(m));
     }
 }
@@ -87,6 +105,12 @@ function markCompleted(key: string, answers?: Record<number, string>): void {
 function getSavedAnswers(key: string): Record<number, string> | null {
     const v = loadCompleted()[key];
     if (v && typeof v === 'object' && (v as ExamRecord).answers) return { ...(v as ExamRecord).answers };
+    return null;
+}
+/** 读取某篇 / 套上次作答用时（秒）；无记录返回 null */
+function getSavedElapsed(key: string): number | null {
+    const v = loadCompleted()[key];
+    if (v && typeof v === 'object' && Number.isFinite((v as ExamRecord).elapsed)) return (v as ExamRecord).elapsed as number;
     return null;
 }
 function readingDoneKey(level: string, n: number | string): string { return `reading:${level}:${n}`; }
@@ -127,6 +151,14 @@ function el(): HTMLElement {
 }
 function esc(s: unknown): string {
     return escapeHtml(s == null ? '' : String(s));
+}
+/** 秒 -> “X 分 Y 秒”（Y 为 0 时省略秒），用于作答用时展示 */
+function formatElapsed(sec: number): string {
+    const s = Math.max(0, Math.round(sec));
+    const m = Math.floor(s / 60), r = s % 60;
+    if (m && r) return `${m} 分 ${r} 秒`;
+    if (m) return `${m} 分钟`;
+    return `${r} 秒`;
 }
 // 把英文正文逐词包成“隐藏式”超链接：默认外观与正文一致，hover 高光，点击跳词典；
 // 靶词（本篇四级核心词）额外加 ex-target 高亮。
@@ -248,23 +280,62 @@ function applyReviewState(saved: Record<number, string>): void {
     readingStage = 3;
 }
 
-// ---------------- 首页 ----------------
+// ---------------- 首页（题库） ----------------
 function renderHome(): void {
     view = 'home';
     render(`
     <div class="ex-home">
-      <h1>模拟题</h1>
-      <p class="ex-home-sub">阅读理解按四级、六级分开；听力为四级完整模拟套卷。做题交卷后可查看翻译、答案解析、听力原文与四级核心词。</p>
+      <h1>题库</h1>
+      <p class="ex-home-sub">汇总历年真题与模拟练习，覆盖四级、六级的听力、阅读、写作与翻译。交卷后可查看答案解析、听力原文、参考译文并做查词。</p>
       <div class="ex-sim glass">
         <label class="ex-sim-toggle">
           <input type="checkbox" id="sim-mode-toggle" ${isSimMode() ? 'checked' : ''}>
-          <span><strong>模拟模式</strong> · 限时作答，模拟真实考试节奏</span>
+          <span><strong>严格模式</strong> · 限时作答，到点强制交卷</span>
         </label>
         <div class="ex-sim-duration">
-          阅读限时
-          <input type="number" id="sim-duration" min="5" max="180" step="5" value="${Math.round(simDurationSec() / 60)}">
-          分钟（点「开始答题」后倒计时，到点自动交卷）；听力开启后音频播放完立即自动交卷
+          单项限时
+          <input type="number" id="sim-duration" min="1" max="180" step="5" value="${Math.round(simDurationSec() / 60)}">
+          分钟（单项练习点「开始答题」后倒计时，到点强制交卷）；整套真题严格模式按官方时间锁定，不可更改
         </div>
+      </div>
+      <div class="ex-cards">
+        <div class="ex-card glass">
+          <div class="ex-card-head">
+            <span class="ex-card-icon">📝</span>
+            <div>
+              <h2>历年真题</h2>
+              <span class="ex-badge ex-badge-cet4">CET-4</span>
+              <span class="ex-badge ex-badge-cet6">CET-6</span>
+            </div>
+          </div>
+          <p class="ex-card-desc">按官方试卷结构整套计时，或按部分 / 题型单项训练（听力、选词填空、长篇、仔细阅读、写作、翻译任意搭配）。</p>
+          <button class="btn ex-primary" data-action="open-real-hub">进入历年真题</button>
+        </div>
+        <div class="ex-card glass">
+          <div class="ex-card-head">
+            <span class="ex-card-icon">🧪</span>
+            <div>
+              <h2>模拟练习</h2>
+              <span class="ex-badge ex-badge-cet4">CET-4</span>
+              <span class="ex-badge ex-badge-cet6">CET-6</span>
+            </div>
+          </div>
+          <p class="ex-card-desc">四级听力 100 套、四六级阅读 399 篇，含原声音频、听力原文、答案解析与核心词。</p>
+          <button class="btn ex-primary" data-action="open-mock-hub">进入模拟练习</button>
+        </div>
+      </div>
+    </div>`);
+}
+
+// ---------------- 模拟练习 hub（现有题库） ----------------
+function renderMockHub(): void {
+    view = 'mock-hub';
+    render(`
+    <div class="ex-home">
+      <div class="ex-topbar">
+        <button class="btn ex-ghost" data-action="back-home">‹ 返回题库</button>
+        <div class="ex-topbar-title"><h1>模拟练习</h1>
+          <span class="ex-topbar-meta">听力 100 套 · 阅读 399 篇</span></div>
       </div>
       <div class="ex-cards">
         <div class="ex-card glass">
@@ -297,12 +368,90 @@ function renderHome(): void {
     </div>`);
 }
 
+// ---------------- 历年真题 hub ----------------
+function levelLabel(level: ReadingLevel): string { return level === 'cet4' ? 'CET-4' : 'CET-6'; }
+
+function renderRealHub(): void {
+    view = 'real-hub';
+    render(`
+    <div class="ex-home">
+      <div class="ex-topbar">
+        <button class="btn ex-ghost" data-action="back-home">‹ 返回题库</button>
+        <div class="ex-topbar-title"><h1>历年真题</h1>
+          <span class="ex-topbar-meta">先选级别，再选整套或单项</span></div>
+      </div>
+      <div class="ex-sim glass">
+        <span class="ex-sim-duration">选择级别
+          <button class="btn ${realLevel === 'cet4' ? 'ex-primary' : 'ex-secondary'}" data-action="pick-level" data-level="cet4">CET-4</button>
+          <button class="btn ${realLevel === 'cet6' ? 'ex-primary' : 'ex-secondary'}" data-action="pick-level" data-level="cet6">CET-6</button>
+        </span>
+      </div>
+      <div class="ex-cards">
+        <div class="ex-card glass">
+          <div class="ex-card-head"><span class="ex-card-icon">📄</span><div><h2>整套真题</h2></div></div>
+          <p class="ex-card-desc">按官方顺序与时间整套作答：写作 30 → 听力 ${OFFICIAL_TIMING[realLevel].listening / 60} → 阅读 40 → 翻译 30（分钟）。严格模式下时间锁定、到点强制交卷。</p>
+          <button class="btn ex-primary" data-action="open-real-papers">选择整套</button>
+        </div>
+        <div class="ex-card glass">
+          <div class="ex-card-head"><span class="ex-card-icon">🎯</span><div><h2>单项训练</h2></div></div>
+          <p class="ex-card-desc">自由搭配：听力某 section、阅读某题型（选词填空 / 长篇 / 仔细）或某一篇，写作、翻译可单独练。</p>
+          <button class="btn ex-primary" data-action="open-real-single">选择单项</button>
+        </div>
+      </div>
+    </div>`);
+}
+
+function renderRealPapers(): void {
+    view = 'real-papers';
+    const t = OFFICIAL_TIMING[realLevel];
+    render(`
+    <div class="ex-home">
+      <div class="ex-topbar">
+        <button class="btn ex-ghost" data-action="back-real-hub">‹ 返回</button>
+        <div class="ex-topbar-title"><h1>${levelLabel(realLevel)} 整套真题</h1>
+          <span class="ex-topbar-meta">官方总时长 ${t.total / 60} 分钟</span></div>
+      </div>
+      <div class="ex-error glass">
+        <h2>真题数据准备中</h2>
+        <p>整套真题将在数据流水线接入后按年份 / 月份 / 套卷列出。严格模式固定时间：写作 ${t.writing / 60}、听力 ${t.listening / 60}、阅读 ${t.reading / 60}、翻译 ${t.translation / 60}（分钟）。</p>
+        <button class="btn ex-secondary" data-action="back-real-hub">返回</button>
+      </div>
+    </div>`);
+}
+
+function renderRealSingle(): void {
+    view = 'real-single';
+    const t = OFFICIAL_TIMING[realLevel];
+    const parts: { icon: string; name: string; detail: string; mins: number }[] = [
+        { icon: '🎧', name: '听力理解', detail: realLevel === 'cet4' ? '新闻 / 长对话 / 听力篇章，可按 section 或某一篇选' : '长对话 / 听力篇章 / 讲座，可按 section 或某一篇选', mins: t.listening / 60 },
+        { icon: '🔤', name: '选词填空（词汇理解）', detail: '10 空，词库匹配', mins: t.reading / 60 },
+        { icon: '📑', name: '长篇阅读（匹配）', detail: '10 题，段落匹配', mins: t.reading / 60 },
+        { icon: '🔍', name: '仔细阅读', detail: '10 题，可只选某一篇', mins: t.reading / 60 },
+        { icon: '✍️', name: '写作', detail: '短文写作，官方 30 分钟', mins: t.writing / 60 },
+        { icon: '🌐', name: '翻译', detail: '段落汉译英，官方 30 分钟', mins: t.translation / 60 },
+    ];
+    const cards = parts.map(p => `
+      <div class="ex-card glass">
+        <div class="ex-card-head"><span class="ex-card-icon">${p.icon}</span><div><h2>${p.name}</h2></div></div>
+        <p class="ex-card-desc">${p.detail}。官方限时约 ${p.mins} 分钟，数据接入后可勾选并任意搭配。</p>
+      </div>`).join('');
+    render(`
+    <div class="ex-home">
+      <div class="ex-topbar">
+        <button class="btn ex-ghost" data-action="back-real-hub">‹ 返回</button>
+        <div class="ex-topbar-title"><h1>${levelLabel(realLevel)} 单项训练</h1>
+          <span class="ex-topbar-meta">数据接入后可自由勾选搭配</span></div>
+      </div>
+      <div class="ex-cards">${cards}</div>
+    </div>`);
+}
+
 function renderError(title: string, detail: string): void {
     render(`
       <div class="ex-error glass">
         <h2>${esc(title)}</h2>
         <p>${esc(detail)}</p>
-        <button class="btn ex-secondary" data-action="back-home">返回模拟题首页</button>
+        <button class="btn ex-secondary" data-action="back-home">返回题库首页</button>
       </div>`);
 }
 
@@ -455,7 +604,7 @@ function renderReading(): void {
         ? ''
         : `<div class="ex-questions glass">
              <h3>题目（共 ${a.q.length} 题）</h3>
-             ${isSimMode() && stage === 2 ? '<div class="ex-sim-bar"><span id="sim-countdown" class="ex-sim-clock">⏱ --:--</span><span class="ex-sim-note">模拟模式 · 到点自动交卷</span></div>' : ''}
+             ${isSimMode() && stage === 2 ? '<div class="ex-sim-bar"><span id="sim-countdown" class="ex-sim-clock">⏱ --:--</span><span class="ex-sim-note">严格模式 · 到点强制交卷</span></div>' : ''}
              ${a.q.map(q => questionHtml(q)).join('')}
            </div>
            ${submitBarHtml(a.q.length)}`;
@@ -474,7 +623,7 @@ async function openListening(pos: number, review: boolean = false): Promise<void
     listeningPos = Math.max(0, Math.min(pos, listeningIndex.tests.length - 1));
     const meta = listeningIndex.tests[listeningPos];
     const saved = review ? getSavedAnswers(listeningDoneKey(meta.id)) : null;
-    if (!review) resetAnswers();
+    if (!review) { resetAnswers(); practiceStartAt = Date.now(); }
     render('<div class="ex-loading">正在加载听力题目…</div>');
     try {
         let test = testCache[meta.id];
@@ -530,7 +679,7 @@ function renderListening(): void {
         </div>
         <div class="ex-questions glass">
           <h3>题目（共 ${total} 题）</h3>
-          ${isSimMode() && !submitted ? '<div class="ex-sim-bar"><span class="ex-sim-clock">⏱ 模拟模式</span><span class="ex-sim-note">音频播放结束将自动交卷</span></div>' : ''}
+          ${isSimMode() && !submitted ? '<div class="ex-sim-bar"><span class="ex-sim-clock">⏱ 严格模式</span><span class="ex-sim-note">音频播放结束将自动交卷</span></div>' : ''}
           ${sectionsHtml}
         </div>
         ${submitBarHtml(total)}
@@ -633,6 +782,10 @@ function submitBarHtml(total: number): string {
           <div class="ex-score">
             <span class="ex-score-num">${correct} / ${total}</span>
             <span class="ex-score-pct">正确率 ${pct}%</span>
+          </div>
+          <div class="ex-elapsed">
+            <span class="ex-elapsed-label">本次作答用时</span>
+            <span class="ex-elapsed-val">⏱ ${formatElapsed(lastElapsedSec)}</span>
           </div>
           <div class="ex-result-toggles">
             <button class="btn ex-secondary" data-action="toggle-answers">${showAnswers ? '隐藏答案与解析' : '显示答案与解析'}</button>
@@ -810,12 +963,14 @@ function submit(force: boolean = false): void {
     if (!force && answeredCount() < totalQuestions()) return;
     stopSimTimer();
     submitted = true;
+    // 本次作答用时（秒）；强制交卷同样按实际经过时间记录
+    lastElapsedSec = practiceStartAt ? Math.max(0, Math.round((Date.now() - practiceStartAt) / 1000)) : 0;
     // 标记本篇 / 本套已完成（列表序号圆圈标绿）
     if (view === 'reading') {
         readingStage = 3; // 交卷后进入「无注释回看」
-        markCompleted(readingDoneKey(readingLevel, readingCache[readingLevel]!.articles[readingPos].n), answers);
+        markCompleted(readingDoneKey(readingLevel, readingCache[readingLevel]!.articles[readingPos].n), answers, lastElapsedSec);
     } else if (currentTest) {
-        markCompleted(listeningDoneKey(currentTest.id), answers);
+        markCompleted(listeningDoneKey(currentTest.id), answers, lastElapsedSec);
     }
     // 重渲染整页（题目着对错色 + 交卷条变结果条）
     if (view === 'reading') renderReading();
@@ -830,8 +985,13 @@ function submit(force: boolean = false): void {
 
 function retry(): void {
     resetAnswers();
-    if (view === 'reading') renderReading();
-    else if (view === 'listening') renderListening();
+    if (view === 'reading') {
+        practiceStartAt = null; // 回到阶段1，点「开始答题」时再计时
+        renderReading();
+    } else if (view === 'listening') {
+        practiceStartAt = Date.now();
+        renderListening();
+    }
 }
 
 // ---------------- 事件委托 ----------------
@@ -864,6 +1024,25 @@ async function onClick(e: MouseEvent): Promise<void> {
             break;
         case 'open-listening-list':
             await openListeningList();
+            break;
+        case 'open-mock-hub':
+            renderMockHub();
+            break;
+        case 'open-real-hub':
+            renderRealHub();
+            break;
+        case 'pick-level':
+            realLevel = (node.dataset.level as ReadingLevel) || 'cet4';
+            renderRealHub();
+            break;
+        case 'open-real-papers':
+            renderRealPapers();
+            break;
+        case 'open-real-single':
+            renderRealSingle();
+            break;
+        case 'back-real-hub':
+            renderRealHub();
             break;
         case 'back-home':
             renderHome();
@@ -909,6 +1088,7 @@ async function onClick(e: MouseEvent): Promise<void> {
             break;
         case 'reading-start-quiz':
             readingStage = 2;
+            practiceStartAt = Date.now();
             renderReading();
             if (isSimMode()) startSimTimer(simDurationSec());
             requestAnimationFrame(() => {
