@@ -6488,7 +6488,7 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 ### 41.3 解析与构建脚本（`tools/exam/real/`，仅标准库 + pymupdf）
 
 - **`parse_paper.py`**：整卷文本 PDF 解析器，含 `PaperParseError`、四部分切分、`parse_mcq`（题号锚行首、同字母重复标记合并）、选词/长篇/仔细/听力/写作/翻译解析、`build_paper`、`_apply_keys`；`_norm` 去水印并折叠空行，`_strip_directions` 按句末标点切除 Directions；选词贪心按 26–35 选空号、双格式（带括号/裸字母）；长篇匹配字母放宽到 A–Z；`_parse_clips` 整块解析 + 范围分组 + 去重 + 物理位置回退。CLI：`<test.pdf> <answer.pdf> [out.json]`。
-- **`parse_lazynote.py`**：标准库 `html.parser` 实现 `_ListeningExtractor`（DOM 平行栈，跟踪 section 锚、clip 容器、卷面题、选项、答案、题干、原文段号、中译）与 `_SupplementExtractor`（按题号关联答案首字母、范文、翻译定稿）；对外 `parse_listening_html`、`extract_supplement`。
+- **`parse_lazynote.py`**：标准库 `html.parser` 实现 `_ListeningExtractor`（DOM 平行栈，跟踪 section 锚、clip 容器、卷面题、选项、答案、题干、原文段号、中译）与 `_SupplementExtractor`（按题号关联答案首字母、范文、翻译定稿）；对外 `parse_listening_html`、`extract_supplement`。模块级 `_BLOCK_TAGS`（p/div/br/li/ul/ol/h1–h6/tr/td/th/section/article/header/footer/blockquote/pre/table/thead/tbody）：`_SupplementExtractor` 在块标签起止且存在活动捕获时向缓冲补一个空格，避免 `wp-essay__body` 内多个 `<p>` 边界无空白导致段落拼接（如 `world.A`），最终 `re.sub(r"\s+"," ")` 折叠、`.strip()` 去首尾，多余空格无害。
 - **`build_real.py`**：构建编排。从 hub 正则枚举 76 slug，下载并缓存整卷 PDF 与各题型 HTML（`_get` 5 次重试 / 90s / 递增退避），先 `build_paper` 出无答案整卷，再逐页 `extract_supplement` 合并答案/范文/译文，按 clip 并入听力原文，`_apply_keys` 校验 1–55 全覆盖后写盘。含共用部分泛化（`_resolve_shared`/`_resolve_reading_sub`/占位识别，深拷贝源套并注入答案）。CLI：`list|one|all <level> [slug]`。
 - **`build_manifest.py`**：汇总 papers 产出 `public/exams/real/index.json`：`{levels:[{level,label,count,pers:[{id,year,month,set,title,hasAudio}]}]}`，每级别 76 套、按 (year,month) 降序、set 升序；`hasAudio` 依据 `resource/真题/audio/<id>.mp3` 是否存在。无参数直接运行。
 
@@ -6520,6 +6520,7 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 
 - 结构校验：papers 152、每套 55 个答案位（值集合唯一）、watermark 0。
 - 深度内容校验：152/152 套 clip 级听力原文（en/zh）齐全；写作 prompt/sample、翻译 source/reference 非空；阅读/听力正文无 Directions 残留；各部分答案字母合法（听力/仔细 A–D、选词在词库、长篇在段落集）；选项无空文本。
+- 范文空格专项（2026-11-15 抽查）：全量扫描发现写作范文在块级段落拼接处丢空格（正则 `[.!?,;][A-Za-z]`，共 331 处、152 套全中），翻译参考 0 处。根因修复（`_BLOCK_TAGS` 块边界补空格）后，用修复解析器重解析各套缓存 writing.html 定点替换 `writing.sample`，152 套真实拼接归零；邮箱域名点（`campus.com`/`.edu`）与缩写（`p.m.`）经白名单保留。另修正源数据一处首句缺空格（cet6-2026-6-3 的 `globalization,students`，prompt 与 sample 同步改）。修复后字数仍全部在区间、begins-with 约束全部满足。
 
 ### 41.8 验证记录
 
@@ -6528,6 +6529,7 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 - 内置浏览器真机验证（vite preview 4173）：题库首页两入口；真题 hub 级别切换；CET4/CET6 整套 55 题作答→交卷判分（55/55、100%）→结果条显示用时与四个复习开关，参考答案/听力原文（中英）/范文/译文与查词链接均渲染；严格模式计时条显示官方总时长（CET4 125:00、CET6 130:00）并走秒，到 0 经真实计时回调强制交卷（选项禁用、结果条 0/55）；单项勾选（section 全选/clip/仔细按篇）→子集仅渲染选中块、判分与开关随配置；「已练」标签与套卷切换正确；模拟 hub 入口无回归。
 - 环境说明：验证中旧 preview 进程因连接池耗尽出现静态请求挂起（与数据无关，重启进程后 CET4/CET6 均 200 正常）；离屏 rAF/WAAPI 可能冻结，不稳定的点击以 JS 触发，属环境限制。
 - 音频专项验证（2026-11-15）：`tsc -p tsconfig.electron.json` 编译/类型检查 0 错误；挂载真实 express 路由做集成测试——非法 id（含 `..`/分隔符/坏格式）返回 400、合法但无文件 404、完整文件 200 且 Content-Type 按魔数为 `audio/mp4`、Range 请求返回 206（`Content-Range: bytes 0-99/1000`，内容与尾部 Range 均正确）。启动「dist 静态 + 真题 API」服务做真机验证：带音频套渲染 `<audio>` 且 src 指向 `/api/exam/real-audio/<id>`，加载得 `duration≈1410s`、`readyState=4`、可寻址；可信手势内 `play()` 成功（paused=false、时间推进），暂停与跳转（currentTime=60）正常；共用套（2019-12-3）src 解析到源套 2019-12-1 并加载元数据；无音频套（2015 期）只显示「录音未就绪」、无 audio 元素。58 个真实 MP3（M4A）文件全程未被测试覆盖，验证后临时文件已删。
+- 范文空格修复验证（2026-11-15）：`tsc --noEmit` 0 错误、`vitest run` 全通过、`vite build` 成功且 CSP hash 未变；dist 152 套 sample 无真实拼接，robocopy `/MIR` 已同步 static。vite preview（4173）确认服务器返回的 JSON 含正确空格，并以与 exam.ts 相同的纯文本机制写入 div，渲染段为 `world. A viv`、无拼接。
 
 ### 41.9 待办
 

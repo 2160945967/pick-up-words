@@ -202,6 +202,13 @@ def _clip_label(clip: dict) -> str:
 _QID_RE = re.compile(r"^(?:q|qp)-(\d+)$")
 
 
+_BLOCK_TAGS = {
+    "p", "div", "br", "li", "ul", "ol", "h1", "h2", "h3", "h4", "h5", "h6",
+    "tr", "td", "th", "section", "article", "header", "footer", "blockquote",
+    "pre", "table", "thead", "tbody",
+}
+
+
 class _SupplementExtractor(HTMLParser):
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -233,12 +240,17 @@ class _SupplementExtractor(HTMLParser):
             self._cap.append({"kind": "essay", "tag": tag, "buf": []})
         elif "tqp-final" in cls:
             self._cap.append({"kind": "final", "tag": tag, "buf": []})
+        if self._cap and tag in _BLOCK_TAGS:
+            # guarantee whitespace at block boundaries so paragraphs never merge
+            self._cap[-1]["buf"].append(" ")
 
     def handle_data(self, data):
         if self._cap:
             self._cap[-1]["buf"].append(data)
 
     def handle_endtag(self, tag):
+        if self._cap and tag in _BLOCK_TAGS:
+            self._cap[-1]["buf"].append(" ")
         if self._cap and self._cap[-1]["tag"] == tag:
             cap = self._cap.pop()
             text = re.sub(r"\s+", " ", "".join(cap["buf"])).strip()
