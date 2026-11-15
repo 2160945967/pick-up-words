@@ -6533,4 +6533,4 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 
 - 音频：后端路由、下载与前端播放已闭环（98 套可播放、54 套无音频）。剩余 54 套（2015–2018、2026 期）CET通 404，若后续找到可用音频源再补，重跑 `build_manifest.py` 即可翻转；当前无音频不影响题目与原文练习。
 - `download.py`（面向 Gitee、受 403 阻塞）待评估改造或废弃；其职责已被 `download_audio.py` 覆盖，可考虑删除。
-- 推送阻塞于新令牌（旧 Gitee/GitHub 令牌均 401），拿到后推 main:main，本地提交无需重做。
+- 推送已完成：第二步提交 `2d1d0b7`（164 文件、212064 行新增）已 fast-forward 推送到 Gitee 与 GitHub 的 main，两远程 tip 一致；令牌走临时 URL 未写入 git 配置。**Gitee 仓库当前 849.2MB、已超 819MB 推荐配额（提示用量超 80%）**，本次推送成功，但后续体积继续增长存在被限制的风险，需留意。
