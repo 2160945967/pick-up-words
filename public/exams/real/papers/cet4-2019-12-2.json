@@ -1,0 +1,1312 @@
+{
+  "id": "cet4-2019-12-2",
+  "level": "cet4",
+  "year": 2019,
+  "month": 12,
+  "set": 2,
+  "title": "2019年12月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a letter to a foreign friend who wants to learn Chinese. Please recommend a place to him. You should write at least 120 words but no more than 180 words.",
+    "sample": "Dear Chris, I was so glad to hear that you have decided to learn Chinese. As your friend, I'd like to recommend Beijing as the ideal place for you to study our language.The first reason is its wonderful language environment. As the capital, Beijing is the home of standard Mandarin, so almost everyone around you, from taxi drivers to shopkeepers, speaks clear Putonghua. Chatting with locals every day will improve your listening and speaking far faster than any textbook could.What also makes Beijing special is its rich cultural atmosphere and learning resources. You can visit the Forbidden City and old hutongs to feel the living history behind the characters, and top universities such as Peking University offer excellent Chinese courses designed for foreigners.I'm sure this city will make your learning both easy and enjoyable. If you come, I'd be more than happy to show you around and practise together. Best wishes, Li Hua"
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The number of nurses has dropped to a record low."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There is a growing shortage of medical personnel."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There is discrimination against male nurses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The number of male nurses has gone down."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cultural bias."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inadequate pay."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Educational system."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Working conditions.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The British government has called for more men to consider a career in nursing. Figures show the number of male nurses has fallen in the last three years. Now, the number of men working in the nursing sector has reached a seven-year low. Numbers of male nurses increased between 2011 and 2014, and reached a peak of 7,168. This figure has dropped to only 6,924 in 2017. The UK Health Secretary said, \"This is clearly a cultural problem, and probably one that exists in many parts of the world. But we can make efforts to change that now. We want to persuade males to think about career options of going into nursing. There is absolutely no reason why men can't go into this profession.\" The Health Secretary said that the government already has plans to attract a more varied workforce into nursing. She stated, \"We are leading the way on workforce planning. We will become the first nation in Europe to publish a national health and care workforce plan.\"",
+                "zh": "英国政府呼吁更多男性考虑从事护理职业。数据显示，男性护士的数量在过去三年中有所下降。现在，从事护理行业的男性数量已降至七年来的最低点。男性护士的数量在2011年至2014年间有所增加，并在2014年达到7168人的峰值。这一数字在2017年已降至仅6924人。英国卫生大臣表示：\"这显然是一个文化问题,而且可能是世界许多地方都存在的问题。但我们现在可以努力改变这种状况。我们希望说服男性考虑进入护理行业的职业选择。男性完全没有理由不能从事这个职业。\"卫生大臣表示,政府已经制定了吸引更多元化劳动力进入护理行业的计划。她说:\"我们在劳动力规划方面处于领先地位。我们将成为欧洲第一个发布国家卫生与护理劳动力计划的国家。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He fell out of a lifeboat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He lost his way on a beach."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was almost drowned."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He enjoyed swimming in the sea."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The beach is a popular tourist resort."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The emergency services are efficient."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The beach is a good place to watch the tide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The lifeboats patrol the area round the clock.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A man from Libya was enjoying a walk along the sands at Southport Beach. When he was about half a mile out from the dock, he felt a bit tired. So he lay down and fell asleep. But the tide swept in quickly at the beach. And the man was shocked to wake up and find the tide had come in and completely surrounded him, cutting him off from the shore. Fortunately for him, the beach lifeguards were quickly on the scene to stop him from drowning. They acted professionally to ensure the man was comfortable until an ambulance arrived. He was then taken to hospital. He is now in a stable condition. When interviewed, Keith Porter of the Southport Beach said, \"Our beach is so flat that it's very common for the tide to come around the back of people and cut them off from the beach. Thankfully the emergency services have again worked well together to ensure a positive outcome. And we wish the gentleman a speedy recovery.\"",
+                "zh": "一名来自利比亚的男子正在Southport海滩的沙滩上散步。当他走到离码头约半英里的地方时，他感到有点累。于是他躺下来睡着了。但海滩上的潮水迅速涌入。这名男子震惊地醒来，发现潮水已经涨起来并完全包围了他，使他与岸边隔绝。幸运的是，海滩救生员迅速赶到现场，阻止他溺水。他们专业地行动，确保这名男子在救护车到达之前感到舒适。随后他被送往医院。他现在情况稳定。在接受采访时，Southport海滩的Keith Porter说：\"我们的海滩非常平坦，潮水绕到人们身后并将他们与海滩隔开是很常见的。值得庆幸的是，应急服务部门再次通力合作，确保了积极的结果。我们祝愿这位先生早日康复。\""
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It became an online star."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It broke into an office room."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It escaped from a local zoo."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It climbed 25 storeys at one go."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Send it back to the zoo."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Release it into the wild."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Return it to its owner."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Give it a physical checkup."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A raccoon can perform acts no human can."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A raccoon can climb much higher than a cat."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The raccoon became as famous as some politicians."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The raccoon did something no politician could."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A raccoon, a small cat-like animal, climbed to the top of a 25-storey skyscraper early on Wednesday. It was captured after becoming an online star across the world. At a little before 3 a.m., the animal made it to the roof of the building after it took a long break on a 17th floor window edge. At the top of the building, animal control officers put cat food in traps and captured the raccoon. A private wildlife management company will release the animal into the wild. The raccoon's upward journey began on Monday. The brown animal was spotted stuck on a narrow window edge of the office tower. On Tuesday, the raccoon slowly climbed the building. It reached the 23rd floor, and its legend continued to grow on social media with every floor it climbed. As it went up, people gathered on the sidewalk below to take photos and cheer for its safety. Online office workers posted photos and videos of the raccoon resting on window edges and climbing up the building's concrete exterior. One online post said that the raccoon has succeeded in uniting the country the way no politician could.",
+                "zh": "一只浣熊，一种像猫一样的小动物，周三清晨爬到了一座25层摩天大楼的顶部。它在成为全球网络明星后被捕获。凌晨3点前不久，这只动物在17楼窗台边缘休息了很长时间后，成功到达了大楼顶部。在楼顶，动物管理人员在陷阱中放置了猫粮并捕获了这只浣熊。一家私人野生动物管理公司将把这只动物放归野外。浣熊的向上之旅始于周一。这只棕色动物被发现困在办公大楼的狭窄窗台边缘上。周二，浣熊慢慢爬上大楼。它到达了23楼，随着它爬上的每一层楼，它的传奇在社交媒体上不断发酵。随着它向上爬，人们聚集在下面的人行道上拍照并为它的安全欢呼。在线办公人员发布了浣熊在窗台边缘休息和攀爬大楼混凝土外墙的照片和视频。一条网络帖子称,这只浣熊成功地团结了全国,其方式是任何政治家都做不到的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She got a well-paying job in a bank."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She received a bonus unexpectedly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She received her first monthly salary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She got a pay raise for her performance."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Several years ago."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Two decades ago."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Right after graduation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Just last month."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He sent a small check to his parents."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He took a few of his friends to a gym."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He immediately deposited it in a bank."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He treated his parents to a nice meal."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Buy some professional clothes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Budget her salary carefully."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Join her colleagues for gym exercise."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Visit her former university campus.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: I have really amazing news. I just got a text message from my bank, saying my salary has been deposited in my account.",
+                "zh": "W: 我有个特别棒的消息。我刚收到银行发来的短信，说我的工资已经打到账户里了。"
+              },
+              {
+                "en": "M: Getting paid is good. But I don't understand why you're so excited. It happens every month.",
+                "zh": "M: 拿到工资是好事。但我不明白你为什么这么激动。这每个月都会发生啊。"
+              },
+              {
+                "en": "W: Well, I've been working for a few years. In fact, I worked all through university, but I only had part-time jobs then. So this is the first time I've ever been paid for a month of full-time work.",
+                "zh": "W: 嗯，我已经工作几年了。实际上，我大学期间一直在打工，但那时候都是兼职。所以这是我第一次拿到全职工作一整个月的工资。"
+              },
+              {
+                "en": "M: Wow, then you must feel great. I mean, it's been two decades, but I can still remember when I got my first real salary. I was happy for days. I felt like it was a small fortune, even though it wasn't.",
+                "zh": "M: 哇，那你肯定感觉很棒。我是说，虽然已经过去二十年了，但我还能记得我拿到第一份真正工资的时候。我高兴了好几天。当时觉得那是一笔小财富，虽然其实并不多。"
+              },
+              {
+                "en": "W: Yeah, I've never earned so much money before. And there're so many things I'd like to do with it. What did you do with your first pay?",
+                "zh": "W: 是啊,我以前从来没挣过这么多钱。我想用这笔钱做好多事情。你当时用第一份工资做了什么?"
+              },
+              {
+                "en": "M: I bought a new suit for work and took my parents to a nice restaurant to celebrate. Maybe you could do the same.",
+                "zh": "M: 我买了一套新西装上班穿，还带我父母去了一家不错的餐厅庆祝。也许你也可以这样做。"
+              },
+              {
+                "en": "W: I have enough professional clothes. And my parents are across the country. So seeing them is impossible. But some people from the office are members of a gym I want to join. And my university classmates are arranging a trip to visit our old campus, and I'd love to go with them. But I can't afford both.",
+                "zh": "W: 我有足够的职业装了。而且我父母在国家的另一边。所以去看他们不太可能。但办公室有些同事是我想加入的健身房的会员。还有我大学同学正在安排去参观我们的老校园，我很想跟他们一起去。但我两样都负担不起。"
+              },
+              {
+                "en": "M: If I were you, I'd join the gym, because it's a good way to stay healthy, and it might help you build a stronger relationship with your colleagues. And good relationships are key to a successful career.",
+                "zh": "M: 如果我是你，我会加入健身房，因为这是保持健康的好方法，而且可能有助于你和同事建立更牢固的关系。良好的关系是成功职业生涯的关键。"
+              },
+              {
+                "en": "W: Hmm. You're right. Thanks for the advice. I'm taking it.",
+                "zh": "W: 嗯。你说得对。谢谢你的建议。我听你的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has a difficult decision to make."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has been overworked recently."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has just quarreled with his girlfriend."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has just too many things to attend to."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Give priority to things more urgent."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Turn to his girlfriend for assistance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Think twice before making the decision."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Seek advice from his family and advisor."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His parents and advisor have different opinions."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is not particularly keen on the job offered."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He lacks the money for his doctoral program."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His girlfriend does not support his decision."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They need time to make preparations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They need to save enough money for it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They haven't started their careers yet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They haven't won their parents' approval."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: What's going on with you lately? You seem so distracted, like you aren't really listening to anything I say.",
+                "zh": "W: 你最近怎么了?你看起来心不在焉的,好像我说什么你都没在听。"
+              },
+              {
+                "en": "M: I know. I'm sorry. I can't seem to focus on anything, because I still haven't decided if I should accept the offer for that PhD program in London, or if I should take the job offer in New York.",
+                "zh": "M: 我知道。对不起。我好像没法集中注意力,因为我还没决定好是接受伦敦那个博士项目的录取,还是接受纽约的工作offer。"
+              },
+              {
+                "en": "W: Look, it's a tough decision. But you're running out of time, aren't you? I thought you said the company expected an answer by the end of the month.",
+                "zh": "W: 听着,这确实是个艰难的决定。但你时间不多了,不是吗?我记得你说过那家公司要求月底前给答复。"
+              },
+              {
+                "en": "M: Actually, it's the beginning of next month for the job, but the university needs a decision by the end of the week. So I have to act quickly.",
+                "zh": "M: 其实工作那边是下月初,但大学那边需要这周末前做决定。所以我得赶紧行动了。"
+              },
+              {
+                "en": "W: You definitely need advice for an important decision like this. So who have you talked to about it? What does your family think? And your advisor for your master's program?",
+                "zh": "W: 这么重要的决定你肯定需要听听建议。那你都跟谁商量过?你家人怎么看?还有你硕士项目的导师呢?"
+              },
+              {
+                "en": "M: I've asked their advice and that's part of the problem. My parents want me to get the degree, but my advisor thinks it's time for me to get more work experience.",
+                "zh": "M: 我问过他们的意见,这也是问题的一部分。我父母希望我去读学位,但我导师觉得我该多积累些工作经验了。"
+              },
+              {
+                "en": "W: What do you mean by part of the problem? Oh, wait. It's your girlfriend, isn't it? You've been dating since your first year of university, so that's six years now. She must have an opinion about all this. I mean, isn't it time for you to think about getting married?",
+                "zh": "W: 什么叫问题的一部分?哦,等等。是你女朋友的事,对吧?你们从大一就开始约会了,到现在都六年了。她对这事肯定有看法吧。我是说,你们是不是也该考虑结婚了?"
+              },
+              {
+                "en": "M: Well, I do want to get married, but she thinks we need to wait until we've launched our careers. Plus, she's not sure what she'll be doing next year. She's considering a job in England and one in Australia. And her parents are pushing for the latter.",
+                "zh": "M: 嗯,我是想结婚,但她觉得我们得等到事业起步了再说。而且她自己也不确定明年要做什么。她在考虑英格兰的一份工作和澳大利亚的一份工作。她父母更倾向于后者。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Acquiring information and professional knowledge."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Using information to understand and solve problems."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enriching social and intellectual lives."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Expressing ideas and opinions freely."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Improving mind-reading strategies."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Reading classic scientific literature."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Playing games that challenge one's mind."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Traveling to different places in the world."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Give others freedom to express themselves."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Expose themselves to different cultures."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Discard personal biases and prejudices."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Participate in debates or discussions.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Analytical skills are our ability to understand and solve problems using information we have available. These skills are extremely important for our professional, social, and intellectual lives. What are the best ways to improve them? One way is to expand your world view. Unfortunately, this takes time. Ultimately, it will help you better evaluate information and analyze different ideas and outcomes. Traveling is a great way to expand your world view, although it can be expensive.",
+                "zh": "分析能力是我们利用现有信息理解和解决问题的能力。这些技能对我们的职业、社交和智力生活极为重要。提高分析能力的最佳方法有哪些?一种方法是拓展你的世界观。遗憾的是,这需要时间。但最终,它将帮助你更好地评估信息,分析不同的想法和结果。旅行是拓展世界观的绝佳方式,尽管费用可能较高。"
+              },
+              {
+                "en": "An entertaining way of enhancing your analytical skills is to engage them by playing brain games. These are games that challenge you to think deeply and to develop your analytical skills. These games will get you used to thinking in a certain way. As a result, they will help improve your ability to think. However, opinions vary on whether video games are effective. The general consensus is that the best ones avoid mindless violence, and instead focus on strategy and challenge us to solve problems and achieve broad goals.",
+                "zh": "提升分析能力的一种有趣方式是通过玩益智游戏来锻炼大脑。这些游戏挑战你进行深度思考,培养你的分析能力。这些游戏会让你习惯于以特定方式思考。因此,它们将有助于提高你的思维能力。然而,对于电子游戏是否有效,人们意见不一。普遍共识是,最好的游戏避免无意义的暴力,而是注重策略,挑战我们解决问题并实现更广泛的目标。"
+              },
+              {
+                "en": "Joining a debate or reading club or group is also a good idea. This provides people with the opportunity to come together and discuss ideas, literature and problems. Groups like these will help you refine your analytical skills and enable you to express yourself better. Any social group that encourages free exchange of ideas and pursuit of knowledge is beneficial. It helps you to actively develop your analytical skills.",
+                "zh": "加入辩论会、读书俱乐部或小组也是个好主意。这为人们提供了聚在一起讨论思想、文学和问题的机会。这类团体将帮助你完善分析能力,使你能够更好地表达自己。任何鼓励自由交流思想和追求知识的社交团体都是有益的。它帮助你积极发展自己的分析能力。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The nature of relationships between dogs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The reason a great many people love dogs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Why dogs can be faithful friends of humans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How dogs feel about their bonds with humans."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have an unusual sense of responsibility."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can respond to humans' questions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can fall in love just like humans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They behave like other animals in many ways."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have their own joys and sorrows."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They experience true romantic love."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They help humans in various ways."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They stay with one partner for life.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "There's an endless amount of scientific data proving that dogs can develop strong bonds with their owners. People aren't kidding when they say they \"love\" their dog, or their dog \"loves\" them. But we're rather ignorant about the nature of the relationships that form between dogs.",
+                "zh": "有无数科学数据证明狗能与主人建立牢固的纽带。人们说他们\"爱\"自己的狗,或者他们的狗\"爱\"他们时,并非开玩笑。但我们对狗与狗之间形成的关系的本质却相当无知。"
+              },
+              {
+                "en": "In an effort to understand the matter further, I spoke with Dr. Marc Bekoff, a researcher and former professor of animal behavior. The doctor's response to the question of whether or not dogs can fall in love like humans do was a straight \"Of course.\" He went on to say that if love is defined as a long-term commitment—meaning dogs seek one another out when they're apart, they're happy when they're reunited, they protect one another, they feed one another, they raise their children together—then of course dogs love each other.",
+                "zh": "为了进一步理解这个问题,我采访了动物行为研究员兼前教授Marc Bekoff博士。对于狗是否能像人类一样坠入爱河这个问题,博士直截了当地回答\"当然可以\"。他接着说,如果爱被定义为一种长期承诺——即狗在分开时会寻找彼此,重聚时会感到快乐,它们会互相保护,互相喂食,共同抚养后代——那么狗当然会彼此相爱。"
+              },
+              {
+                "en": "Now our furry friends don't really experience \"romantic\" love like in the movies, but they can form deep and lasting bonds with their fellow dogs as well as humans. In fact, evidence shows that most dogs stay with one partner their whole lives. In actuality, love between dogs can be even more intimate than human relationships. When they interact, they aren't afraid to smell each other and will express themselves clearly and honestly. Once again, it seems we have a lot to learn from dogs.",
+                "zh": "现在我们毛茸茸的朋友们并不会真正体验到电影中那种\"浪漫\"的爱情,但它们可以与同类以及人类形成深厚而持久的纽带。事实上,证据表明大多数狗一生只与一个伴侣在一起。实际上,狗之间的爱甚至可以比人类关系更加亲密。当它们互动时,它们不怕闻对方的气味,并会清晰而诚实地表达自己。再一次,我们似乎可以从狗身上学到很多东西。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A cow bone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A rare animal."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A historical site."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A precious stone."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Measuring it."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Preserving it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Dating it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Identifying it."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The site should have been protected."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The boy's family had acted correctly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The boy should have called an expert."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The channel needs to interview the boy."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Search for similar fossils elsewhere."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ask the university to reward Jude."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Conduct a more detailed search."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Seek additional funds for the search."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A piece of history has been found thanks to a boy tripping on a rare, 1.2-million-year-old animal fossil. In November 2016, Jude Sparks, now 10, was on an outing with his family near their New Mexico home when he tripped over what he thought was a cow bone. Now, researchers at New Mexico State University are preserving this discovery, which was identified as an ancient elephant-like animal.",
+                "zh": "一名男孩因绊倒在一块罕见的120万年前的动物化石上而发现了一段历史。2016年11月,现年10岁的Jude Sparks与家人在新墨西哥州家附近郊游时,被他以为是牛骨的东西绊倒了。现在,新墨西哥州立大学的研究人员正在保存这一发现,该化石被鉴定为一种古代类象动物。"
+              },
+              {
+                "en": "Kyle Sparks, father of Jude, said he let his son decide what to do with the fossil. So Jude reached out to Peter Houde, a professor at New Mexico State University, who had experience with the same type of fossil in the past. The next day, Houde came out to see the fossil for himself. Houde told ABC News that he was quite excited about the find. \"It was fortunate that the family didn't try to dig up the fossil because that could destroy the specimen. They did the right thing by calling someone who would know what to do. It's great for the community because now everybody can appreciate it,\" he added.",
+                "zh": "Jude的父亲Kyle Sparks说,他让儿子决定如何处理这块化石。于是Jude联系了新墨西哥州立大学的教授Peter Houde,他过去曾处理过同类化石。第二天,Houde前来亲自查看化石。Houde告诉ABC新闻,他对这一发现感到非常兴奋。\"幸运的是这家人没有试图挖掘化石,因为那可能会破坏标本。他们做对了,打电话给知道该怎么做的人。这对社区来说很好,因为现在每个人都能欣赏它,\"他补充道。"
+              },
+              {
+                "en": "Houde and his fellow faculty members dug up the fossil in late May. They hope to return to the site with geologists for an additional search as there could be more fossils near the site. Jude and his family had been invited by the researchers to see the fossil being preserved at the university.",
+                "zh": "Houde和他的同事们在5月下旬挖掘了这块化石。他们希望与地质学家一起返回该地点进行进一步搜索,因为现场附近可能有更多化石。Jude和他的家人已受研究人员邀请,前往大学观看化石保存过程。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Finally, some good news about airplane travel. If you are on a plane with a sick passenger, you are unlikely to get sick. That is the"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "of a new study that looked at how respiratory(呼吸道) viruses"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "on airplanes. Researchers found that only people who were seated in the same row as a passenger with the flu, for example—or one row in front of or behind that individual—had a high risk of catching the illness. All other passengers had only a very"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "chance of getting sick, according to the findings. Media reports have not necessarily presented"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "information about the risk of getting infected on an airplane in the past. Therefore, these new findings should help airplane passengers to feel less"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "to catching respiratory infections while traveling by air. Prior to the new study, little was known about the risks of getting"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "infected by common respiratory viruses, such as the flu or common cold, on an airplane, the researchers said. So, to"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "the risks of infection, the study team flew on 10 different"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "in the U.S. during the flu season. The researchers found that passengers sitting within two seats on"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "side of a person infected with the flu, as well as those sitting one row in front of or behind this individual, had about an 80 percent chance of getting sick. But other passengers were"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "safe from infection. They had a less than 3 percent chance of catching the flu."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "accurate"
+        },
+        {
+          "l": "B",
+          "w": "conclusion"
+        },
+        {
+          "l": "C",
+          "w": "directly"
+        },
+        {
+          "l": "D",
+          "w": "either"
+        },
+        {
+          "l": "E",
+          "w": "evaluate"
+        },
+        {
+          "l": "F",
+          "w": "explorations"
+        },
+        {
+          "l": "G",
+          "w": "flights"
+        },
+        {
+          "l": "H",
+          "w": "largely"
+        },
+        {
+          "l": "I",
+          "w": "nearby"
+        },
+        {
+          "l": "J",
+          "w": "respond"
+        },
+        {
+          "l": "K",
+          "w": "slim"
+        },
+        {
+          "l": "L",
+          "w": "spread"
+        },
+        {
+          "l": "M",
+          "w": "summit"
+        },
+        {
+          "l": "N",
+          "w": "vividly"
+        },
+        {
+          "l": "O",
+          "w": "vulnerable"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "B"
+        },
+        {
+          "n": 27,
+          "a": "L"
+        },
+        {
+          "n": 28,
+          "a": "K"
+        },
+        {
+          "n": 29,
+          "a": "A"
+        },
+        {
+          "n": 30,
+          "a": "O"
+        },
+        {
+          "n": 31,
+          "a": "C"
+        },
+        {
+          "n": 32,
+          "a": "E"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "H"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Is Breakfast Really the Most Important Meal of the Day?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Along with old classics like \"carrots give you night vision\" and \"Santa doesn't bring toys to misbehaving children\", one of the most well-worn phrases of tired parents everywhere is that breakfast is the most important meal of the day. Many of us grow up believing that skipping breakfast is a serious mistake, even if only two thirds of adults in the UK eat breakfast regularly, according to the British Dietetic Association, and around three-quarters of Americans."
+        },
+        {
+          "l": "B",
+          "t": "\"The body uses a lot of energy stores for growth and repair through the night,\" explains diet specialist Sarah Elder. \"Eating a balanced breakfast helps to up our energy, as well as make up for protein and calcium used throughout the night.\" But there's widespread disagreement over whether breakfast should keep its top spot in the hierarchy(等级) of meals. There have been concerns around the sugar content of cereal and the food industry's involvement in pro-breakfast research—and even one claim from an academic that breakfast is \"dangerous\"."
+        },
+        {
+          "l": "C",
+          "t": "What's the reality? Is breakfast a necessary start to the day or a marketing tactic by cereal companies? The most researched aspect of breakfast (and breakfast-skipping) has been its links to obesity. Scientists have different theories as to why there's a relationship between the two. In one US study that analysed the health data of 50,000 people over seven years, researchers found that those who made breakfast the largest meal of the day were more likely to have a lower body mass index (BMI) than those who ate a large lunch or dinner. The researchers argued that breakfast helps reduce daily calorie intake and improve the quality of our diet—since breakfast foods are often higher in fibre and nutrients."
+        },
+        {
+          "l": "D",
+          "t": "But as with any study of this kind, it was unclear if that was the cause—or if breakfast-skippers were just more likely to be overweight to begin with. To find out, researchers designed a study in which 52 obese women took part in a 12-week weight loss programme. All had the same number of calories over the day, but half had breakfast, while the other half did not. What they found was that it wasn't breakfast itself that caused the participants to lose weight: it was changing their normal routine."
+        },
+        {
+          "l": "E",
+          "t": "If breakfast alone isn't a guarantee of weight loss, why is there a link between obesity and breakfast- skipping? Alexandra Johnstone, professor of appetite research at the University of Aberdeen, argues that it may simply be because breakfast-skippers have been found to be less knowledgeable about nutrition and health. \"There are a lot of studies on the relationship between breakfast eating and possible health outcomes, but this may be because those who eat breakfast choose to habitually have health-enhancing behaviours such as regular exercise and not smoking,\" she says."
+        },
+        {
+          "l": "F",
+          "t": "A 2016 review of 10 studies looking into the relationship between breakfast and weight management concluded there is \"limited evidence\" supporting or refuting( 反驳) the argument that breakfast influences weight or food intake, and more evidence is required before breakfast recommendations can be used to help prevent obesity."
+        },
+        {
+          "l": "G",
+          "t": "Researchers from the University of Surrey and University of Aberdeen are halfway through research looking into the mechanisms behind how the time we eat influences body weight. Early findings suggest that a bigger breakfast is beneficial to weight control. Breakfast has been found to affect more than just weight. Skipping breakfast has been associated with a 27% increased risk of heart disease, a 21% higher risk of type 2 diabetes in men, and a 20% higher risk of type 2 diabetes in women. One reason may be breakfast's nutritional value partly because cereal is fortified(增加营养价值) with vitamins. In one study on the breakfast habits of 1,600 young people in the UK, researchers found that the fibre and micronutrient intake was better in those who had breakfast regularly. There have been similar findings in Australia, Brazil, Canada and the US."
+        },
+        {
+          "l": "H",
+          "t": "Breakfast is also associated with improved brain function, including concentration and language use. A review of 54 studies found that eating breakfast can improve memory, though the effects on other brain functions were inconclusive. However, one of the review's researchers, Mary Beth Spitznagel, says there is \"reasonable\" evidence breakfast does improve concentration—there just needs to be more research. \"Looking at studies that tested concentration the number of studies showing a benefit was exactly the same as the number that found no benefit,\" she says. \"And no studies found that eating breakfast was bad for concentration.\""
+        },
+        {
+          "l": "I",
+          "t": "What's most important, some argue, is what we eat for breakfast. High-protein breakfasts have been found particularly effective in reducing the longing for food and consumption later in the day, according to research by the Australian Commonwealth Scientific and Industrial Research Organisation. While cereal remains a firm favourite among breakfast consumers in the UK and US, a recent investigation into the sugar content of 'adult' breakfast cereals found that \"some cereals contain more than three-quarters of the recommended daily amount of free sugars in each portion, and sugar was the second or third highest ingredient in cereals.\""
+        },
+        {
+          "l": "J",
+          "t": "But some research suggests if we're going to eat sugary foods, it's best to do it early. One study recruited 200 obese adults to take part in a 16-week-long diet, where half added dessert to their breakfast, and half didn't. Those who added dessert lost an average of 40 pounds more—however, the study was unable to show the long-term effects. A review of 54 studies found that there is no consensus yet on what type of breakfast is healthier, and concluded that the type of breakfast doesn't matter as much as simply eating something."
+        },
+        {
+          "l": "K",
+          "t": "While there's no conclusive evidence on exactly what we should be eating and when, the consensus is that we should listen to our own bodies and eat when we're hungry. \"Breakfast is most important for people who are hungry when they wake up,\" Johnstone says. \"Each body starts the day differently—and those individual differences need to be researched more closely,\" Spitznagel says. \"A balanced breakfast is really helpful, but getting regular meals throughout the day is more important to leave blood sugar stable through the day, which helps control weight and hunger levels,\" says Elder. \"Breakfast isn't the only meal we should be getting right.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "According to one professor, obesity is related to a lack of basic awareness of nutrition and health.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "Some scientists claim that people should consume the right kind of food at breakfast.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "Opinions differ as to whether breakfast is the most important meal of the day.",
+          "a": "B"
+        },
+        {
+          "n": 39,
+          "s": "It has been found that not eating breakfast is related to the incidence of certain diseases in some countries.",
+          "a": "G"
+        },
+        {
+          "n": 40,
+          "s": "Researchers found it was a change in eating habits rather than breakfast itself that induced weight loss.",
+          "a": "D"
+        },
+        {
+          "n": 41,
+          "s": "To keep oneself healthy, eating breakfast is more important than choosing what to eat.",
+          "a": "J"
+        },
+        {
+          "n": 42,
+          "s": "It is widely considered wrong not to eat breakfast.",
+          "a": "A"
+        },
+        {
+          "n": 43,
+          "s": "More research is needed to prove that breakfast is related to weight loss or food intake.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "People who prioritise breakfasts tend to have lower calorie but higher nutritional intake.",
+          "a": "C"
+        },
+        {
+          "n": 45,
+          "s": "Many studies reveal that eating breakfast helps people memorise and concentrate.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Textbooks represent an 11 billion dollar industry, up from $8 billion in 2014. Textbook publisher Pearson is the largest publisher—of any kind—in the world. It costs about $1 million to create a new textbook. A freshman textbook will have dozens of contributors, from subject-matter experts through graphic and layout artists to expert reviewers and classroom testers. Textbook publishers connect professors, instructors and students in ways that alternatives, such as open e-textbooks and open educational resources, simply do not. This connection happens not only by means of collaborative development, review and testing, but also at conferences where faculty regularly decide on their textbooks and curricula for the coming year. It is true that textbook publishers have recently reported losses, largely due to students renting or buying used print textbooks. But this can be chalked up to the excessively high cost of their books—which has increased over 1,000 percent since 1977. A restructuring of the textbook industry may well be in order. But this does not mean the end of the textbook itself. While they may not be as dynamic as an iPad, textbooks are not passive or lifeless. For example, over the centuries, they have simulated(模拟) dialogues in a number of ways. From 1800 to the present day, textbooks have done this by posing questions for students to answer inductively(归纳性地). That means students are asked to use their individual experience to come up with answers to general questions. Today's psychology texts, for example, ask: \"How much of your personality do you think you inherited?\" while ones in physics say: \"How can you predict where the ball you tossed will land?\" Experts observe that \"textbooks come in layers, something like an onion\". For an active learner, engaging with a textbook can be an interactive experience: Readers proceed at their own pace. They \"customize\" their books by engaging with different layers and linkages. Highlighting, Post-It notes, dog-ears and other techniques allow for further customization that students value in print books over digital forms of books.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the passage say about open educational resources?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They contribute to teaching as much as to learning."
+              },
+              {
+                "l": "B",
+                "t": "They don't profit as much as traditional textbooks do."
+              },
+              {
+                "l": "C",
+                "t": "They can't connect professors and students as textbooks do."
+              },
+              {
+                "l": "D",
+                "t": "They compete fiercely for customers with textbook producers."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What is the main cause of the publishers' losses?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Failure to meet student need."
+              },
+              {
+                "l": "B",
+                "t": "Industry restructuring."
+              },
+              {
+                "l": "C",
+                "t": "Emergence of e-books."
+              },
+              {
+                "l": "D",
+                "t": "Falling sales."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What does the textbook industry need to do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Reform its structures."
+              },
+              {
+                "l": "B",
+                "t": "Cut its retail prices."
+              },
+              {
+                "l": "C",
+                "t": "Find replacements for printed textbooks."
+              },
+              {
+                "l": "D",
+                "t": "Change its business strategy periodically."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What are students expected to do in the learning process?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Think carefully before answering each question."
+              },
+              {
+                "l": "B",
+                "t": "Ask questions based on their own understanding."
+              },
+              {
+                "l": "C",
+                "t": "Answer questions using their personal experience."
+              },
+              {
+                "l": "D",
+                "t": "Give answers showing their respective personality."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What do experts say about students using textbooks?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can digitalize the prints easily."
+              },
+              {
+                "l": "B",
+                "t": "They can purchase customized versions."
+              },
+              {
+                "l": "C",
+                "t": "They can learn in an interactive way."
+              },
+              {
+                "l": "D",
+                "t": "They can adapt the material themselves."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "When we think of animals and plants, we have a pretty good way of dividing them into two distinct groups: one converts sunlight into energy and the other has to eat food to make its energy. Well, those dividing lines come crashing down with the discovery of a sea slug(海姑蛹) that's truly half animal and half plant. It's pretty incredible how it has managed to hijack the genes of the algae(藻类) on which it feeds. The slugs can manufacture chlorophyll, the green pigment( 色素) in plants that captures energy from sunlight, and hold these genes within their body. The term kleptoplasty is used to describe the practice of using hijacked genes to create nutrients from sunlight. And so far, this green sea slug is the only known animal that can be truly considered solar-powered, although some animals do exhibit some plant-like behaviors. Many scientists have studied the green sea slugs to confirm that they are actually able to create energy from sunlight. In fact, the slugs use the genetic material so well that they pass it on to their future generations. Their babies retain the ability to produce their own chlorophyll, though they can't generate energy from sunlight until they've eaten enough algae to steal the necessary genes, which they can't yet produce on their own. \"There's no way on earth that genes from an alga should work inside an animal cell,\" says Sidney Pierce from the University of South Florida. \"And yet here, they do. They allow the animal to rely on sunshine for its nutrition. So if something happens to their food source, they have a way of not starving to death until they find more algae to eat.\" The sea slugs are so good at gathering energy from the sun that they can live up to nine months without having to eat any food. They get all their nutritional needs met by the genes that they've hijacked from the algae.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is the distinctive feature of a sea slug?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It looks like both a plant and animal."
+              },
+              {
+                "l": "B",
+                "t": "It lives half on animals and half on plants."
+              },
+              {
+                "l": "C",
+                "t": "It converts some sea animals into plants."
+              },
+              {
+                "l": "D",
+                "t": "It gets energy from both food and sunlight."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What enables the sea slug to live like a plant?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The genes it captures from the sea plant algae."
+              },
+              {
+                "l": "B",
+                "t": "The nutrients it hijacks from other species."
+              },
+              {
+                "l": "C",
+                "t": "The mechanism by which it conserves energy."
+              },
+              {
+                "l": "D",
+                "t": "The green pigment it inherits from its ancestors."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What does the author say about baby sea slugs?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can live without sunlight for a long time."
+              },
+              {
+                "l": "B",
+                "t": "They can absorb sunlight right after their birth."
+              },
+              {
+                "l": "C",
+                "t": "They can survive without algae for quite some time."
+              },
+              {
+                "l": "D",
+                "t": "They can produce chlorophyll on their own."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What does Sidney Pierce say about genes from an alga?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are stolen from animals like the sea slug."
+              },
+              {
+                "l": "B",
+                "t": "They can't function unless exposed to sunlight."
+              },
+              {
+                "l": "C",
+                "t": "They don't usually function inside animal cells."
+              },
+              {
+                "l": "D",
+                "t": "They can readily be converted to sea slug genes."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What do we learn about sea slugs from the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They behave the way most plant species do."
+              },
+              {
+                "l": "B",
+                "t": "They can survive for months without eating."
+              },
+              {
+                "l": "C",
+                "t": "They will turn into plants when they mature."
+              },
+              {
+                "l": "D",
+                "t": "They will starve to death without sunlight."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国的家庭观念与其文化传统有关。和睦的大家庭曾非常令人羡慕。过去四代同堂并不少见。由于这个传 统，许多年轻人婚后继续与父母同住。今天，这个传统正在改变。随着住房条件的改善，越来越多年轻夫妇选 择与父母分开住。但他们之间的联系仍然很密切。许多老年人仍然帮清照看孙辈。年轻夫妇也抽时间探望父 母，特别是在春节和中秋节等重要节日。",
+    "reference": "China's family values are closely related to its cultural traditions. Harmonious extended families were once much admired. In the past, it was not uncommon for four generations to live under one roof. Because of this tradition, many young people continued to live with their parents after marriage. Today, this tradition is changing. With the improvement of housing conditions, more and more young couples choose to live apart from their parents. However, the ties between them remain close. Many elderly people still help take care of their grandchildren. Young couples also make time to visit their parents, especially during important festivals such as the Spring Festival and the Mid-Autumn Festival."
+  }
+}

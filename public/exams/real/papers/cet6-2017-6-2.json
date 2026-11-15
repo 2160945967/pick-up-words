@@ -1,0 +1,1369 @@
+{
+  "id": "cet6-2017-6-2",
+  "level": "cet6",
+  "year": 2017,
+  "month": 6,
+  "set": 2,
+  "title": "2017年6月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part,Suppose you are asked to give advice on whether to attend a vocational college or a university, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+    "sample": "When young people stand at the crossroads between a vocational college and a university, my advice is clear: choose the university whenever it is within reach.Admittedly, vocational colleges have real strengths. They train practical, job-ready skills and often lead to employment faster, which appeals to students eager to earn early. However, I still believe a university offers deeper and more lasting benefits. Firstly, a university builds a broad academic foundation and cultivates critical thinking, abilities that keep paying off as careers evolve. A friend of mine who studied engineering at university was later promoted to a management role precisely because he could analyse problems, not merely operate machines. Moreover, the wider network and long-term earning potential a degree brings usually outweigh the short-term gap in starting salaries.In contrast, narrow technical training may limit future growth once industries change. Therefore, unless a student has a strong practical calling, I would firmly recommend the university path for its broader and more enduring rewards."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He would feel insulted."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He would feel very sad."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He would be embarrassed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He would be disappointed."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are worthy of a prize."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are of little value."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They make good reading."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They need improvement."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He seldom writes a book straight through."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He writes several books simultaneously."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He draws on his real-life experiences."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He often turns to his wife for help."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Writing a book is just like watching a football match."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Writers actually work every bit as hard as footballers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He likes watching a football match after finishing a book."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Unlike a football match, there is no end to writing a book.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Mr. Ishiguro, have you ever found one of your books at a second-hand bookstore?",
+                "zh": "W: 石黑先生，您有没有在二手书店里发现过自己写的书？"
+              },
+              {
+                "en": "M: Yes. That kind of thing is difficult. If they've got my book there, I think, \"Well, this is an insult! Somebody didn't want to keep my book!\" But if it's not there, I feel it's an insult too. I think, \"Why aren't people exchanging my book? Why isn't it in this store?\"",
+                "zh": "M: 有。这种事挺让人难受的。如果那里有我的书，我会想：“这真是种侮辱！有人不想留着我的书！”但如果那里没有，我也会觉得受到了侮辱。我会想：“为什么人们不交换我的书？为什么这家店里没有我的书？”"
+              },
+              {
+                "en": "W: Does being a writer require a thick skin?",
+                "zh": "W: 当作家需要脸皮厚一点吗？"
+              },
+              {
+                "en": "M: Yes, for example, my wife can be very harsh. I began working on my latest book, The Buried Giant, in 2004 but I stopped after I showed my wife a little section. She thought it was rubbish.",
+                "zh": "M: 是的。比如说，我妻子可能会非常严厉。我在2004年开始写我的新书《被掩埋的巨人》，但给妻子看了一小段之后就停下来了。她觉得那写得一团糟。"
+              },
+              {
+                "en": "W: Even after you won a Booker Prize?",
+                "zh": "W: 即使是在您获得布克奖之后？"
+              },
+              {
+                "en": "M: She's not intimidated at all and she criticizes me in exactly the same way she did when I was first unpublished and I was starting.",
+                "zh": "M: 她完全不会感到畏惧，她批评我的方式和我刚开始写作、还没有出版过作品时一模一样。"
+              },
+              {
+                "en": "W: But you would never compromise on your vision.",
+                "zh": "W: 但您绝不会在自己的创作理念上妥协。"
+              },
+              {
+                "en": "M: No, I wouldn't ever compromise on the essential, the ideas or the themes. This isn't really what my wife is trying to criticize me about. It's always about execution.",
+                "zh": "M: 不会，我绝不会在根本性的东西、思想或主题上妥协。我妻子真正想批评的并不是这些。她说的总是作品的完成方式。"
+              },
+              {
+                "en": "W: So why did you put your book, The Buried Giant, aside for so long? Apparently you started working on it over 10 years ago.",
+                "zh": "W: 那您为什么把《被掩埋的巨人》搁置了这么久？显然，您在十多年前就开始写这本书了。"
+              },
+              {
+                "en": "M: I've often stopped writing a book and left it for a few years. And by the time I come back to it, it may have changed. Usually my imagination has moved on and I can think of different contexts or a different way to do it.",
+                "zh": "M: 我经常会停下正在写的书，把它搁上几年。等我回来继续写时，它可能已经发生了变化。通常是我的想象已经向前发展了，我可以想到不同的背景，或者不同的写法。"
+              },
+              {
+                "en": "W: What does it feel like when you finally finish a book?",
+                "zh": "W: 最终写完一本书是什么感觉？"
+              },
+              {
+                "en": "M: It's funny you ask that because I never have this moment when I feel, \"Ah, I've finished!\" I watch footballers at the end of the match, you know, the whistle goes and they've won or lost. Until then they've been giving everything they have and at that moment they know it's over. It's funny for an author. There's never a finishing whistle.",
+                "zh": "M: 你这么问很有意思，因为我从来不会有那种“啊，我写完了！”的时刻。我看足球运动员在比赛结束时的样子，你知道，哨声响起，他们赢了或者输了。在那之前，他们一直倾尽全力，而到了那一刻，他们知道比赛结束了。对作家来说，这很奇怪。永远不会有一声表示结束的哨响。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Achievements of black male athletes in college."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Financial assistance to black athletes in college."
+                  },
+                  {
+                    "l": "C",
+                    "t": "High college dropout rates among black athletes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Undergraduate enrollments of black athletes."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They display great talent in every kind of game."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are better at sports than at academic work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have difficulty finding money to complete their studies."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They make money for the college but often fail to earn a degree."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About 15%."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Around 40%."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Slightly over 50%."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Approximately 70%."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Coaches lack the incentive to graduate them."
+                  },
+                  {
+                    "l": "B",
+                    "t": "College degrees do not count much to them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have little interest in academic work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Schools do not deem it a serious problem."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: According to a study of Race & Equity in Education, black athletes are dropping out of college across the country at alarming rates. With us to talk about the findings in the study is Washington Post columnist Kevin Blackstone. Good morning!",
+                "zh": "W: 根据一项关于教育中的种族与公平的研究，全美黑人运动员正在以令人担忧的速度从大学辍学。今天和我们一起谈谈这项研究结果的是《华盛顿邮报》专栏作家凯文·布莱克斯通。早上好！"
+              },
+              {
+                "en": "M: Good morning. How are you?",
+                "zh": "M: 早上好。你好吗？"
+              },
+              {
+                "en": "W: Fine, thank you. What is new that you found in this study?",
+                "zh": "W: 谢谢，我很好。这项研究有什么新的发现？"
+              },
+              {
+                "en": "M: Well, this is Shaun Harper's study. And he points out that on major college campuses across the country, black males make up less than 3 percent of undergraduate enrollments. Yet, when you look at their numbers or percentages on the revenue-generating sports teams of football and basketball, they make up well into 50-60 percent of those teams. So the idea is that they are really there to be part of the revenue-generating working class of athletes on campus and not necessarily there to be part of the educating class as most students in other groups are.",
+                "zh": "M: 这项研究是 Shaun Harper 做的。他指出，在全美主要大学校园里，黑人男性占本科生总数不到3%。然而，当你看他们在能带来收入的橄榄球和篮球队中的人数或比例时，他们占到了这些队伍的50%到60%以上。所以，问题在于，他们实际上是作为校园里创造收入的运动员劳动阶层的一部分而存在的，并不一定是为了成为受教育阶层的一部分，而其他群体的大多数学生则是来接受教育的。"
+              },
+              {
+                "en": "W: Compared with other groups, I think the numbers in this group at those 65 schools are something like just barely more than half of the black male athletes graduate at all.",
+                "zh": "W: 和其他群体相比，我想在那65所学校里，这一群体的数据大概是，黑人男性运动员中能毕业的仅仅略多于一半。"
+              },
+              {
+                "en": "M: Exactly. And what's really bad about this is these athletes are supposedly promised at least one thing as reward for all their blood and sweat. And that is a college degree, which can be a transformative tool in our society when you talk about upward mobility. And that's really the troubling part about this.",
+                "zh": "M: 没错。真正糟糕的是，据说这些运动员至少被承诺了一样东西，作为他们付出所有血汗的回报，那就是一张大学文凭。谈到社会阶层向上流动时，大学学位可以成为改变人生的工具。这正是这件事令人担忧的地方。"
+              },
+              {
+                "en": "W: Well, this has been talked about so much, really, in recent years. Why hasn't it changed?",
+                "zh": "W: 近年来，人们确实经常谈论这件事。为什么情况还没有改变？"
+              },
+              {
+                "en": "M: Well, I think one of the reasons it hasn't changed is because there is really no economic pressure to change this. All of the incentive is really on winning and not losing on the field or on the court. Coaches do not necessarily have the incentive to graduate players.",
+                "zh": "M: 我认为，情况没有改变的原因之一是，实际上没有经济压力促使人们改变这一点。所有激励机制都在于赢得比赛，而不是在赛场或球场上输掉比赛。教练未必有动力让球员毕业。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 12 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Marketing strategies."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Holiday shopping."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Shopping malls."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Online stores."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About 50% of holiday shoppers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "About 20-30% of holiday shoppers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "About 136 million."
+                  },
+                  {
+                    "l": "D",
+                    "t": "About 183.8 million."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have fewer customers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They find it hard to survive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are thriving once more."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They appeal to elderly customers."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Better quality of consumer goods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Higher employment and wages."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Greater varieties of commodities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People having more leisure time.\n\nQuestions 13 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "America's holiday shopping season starts on Black Friday, the day after Thanksgiving. It is the busiest shopping day of the year. Retailers make the most money this time of year, about 20 to 30 percent of annual revenue. About 136 million people will shop during the Thanksgiving Holiday weekend.",
+                "zh": "美国的节日购物季从黑色星期五开始，也就是感恩节后的第二天。这是一年中最繁忙的购物日。零售商在每年这个时候赚取最多的钱，约占全年收入的20%至30%。约有1.36亿人将在感恩节假日期间的周末购物。"
+              },
+              {
+                "en": "More and more will shop online. In an era of instant information, shoppers can use their mobile phones to find deals. About 183.8 million people will shop on Cyber Monday, the first Monday after Thanksgiving. More than half of all holiday purchases will be made online. One in five Americans will use a tablet or smartphone. Online spending on Black Friday will rise 15 percent to hit $2.7 billion this year. Cyber Monday spending will increase 12 percent to $3 billion.",
+                "zh": "越来越多的人将选择网上购物。在即时信息时代，购物者可以使用手机寻找优惠。约有1.838亿人将在网络星期一购物，即感恩节后的第一个星期一。节日购物总额中超过一半将在网上完成。每五名美国人中就有一人会使用平板电脑或智能手机。黑色星期五的网上消费额将增长15%，今年达到27亿美元。网络星期一的消费额将增长12%，达到30亿美元。"
+              },
+              {
+                "en": "For many, shopping online was \"a more comfortable alternative\" than crowded malls. The shift to online shopping has had a big impact on traditional shopping malls. Since 2010, more than 24 shopping malls have closed and an additional 60 are struggling. However, Fortune says the weakest of the malls have closed. The sector is thriving again. The International Council of Shopping Centers said 94.2 percent of malls were full, or occupied with shops by the end of 2014. That is the highest level in 27 years. Economist Gus Faucher said lower unemployment and rising wages could give Americans more money to spend. The average American consumer will spend about $805 on gifts. That's about $630.5 billion between November and December—an increase of 3.7 percent from last year.",
+                "zh": "对许多人来说，网上购物是比拥挤的购物中心“更舒适的选择”。转向网上购物对传统购物中心产生了巨大影响。自2010年以来，已有24多家购物中心关闭，另有60家陷入困境。然而，《财富》杂志称，最弱的购物中心已经关闭。这个行业正在重新繁荣。国际购物中心协会表示，截至2014年底，94.2%的购物中心已经满员，即店铺已经入驻。这是27年来的最高水平。经济学家Gus Faucher表示，较低的失业率和不断上涨的工资可能会让美国人有更多的钱可以消费。美国消费者平均将花费约805美元购买礼物。11月至12月期间的消费总额约为6305亿美元，比去年增长3.7%。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 13 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are new species of big insects."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are overprescribed antibiotics."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are life-threatening diseases."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are antibiotic-resistant bacteria."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Antibiotics are now in short supply."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Many infections are no longer curable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Large amounts of tax money are wasted."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Routine operations have become complex."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Facilities."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Expertise."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Money."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Publicity."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "For years, many of us have relied on antibiotic use to treat various infections. And the reality is that antibiotics have been responsible for saving millions of lives since penicillin, one of the earliest antibiotics, was first used on a clinical basis 70 years ago.",
+                "zh": "多年来，我们中的许多人一直依靠使用抗生素来治疗各种感染。事实上，自从青霉素这一最早的抗生素之一于70年前首次应用于临床以来，抗生素已经挽救了数百万人的生命。"
+              },
+              {
+                "en": "However, today is a new era in which taking antibiotics can cause some very dangerous and potentially life-threatening situations. In fact, you may have heard about the new \"superbugs\", which are antibiotic-resistant bacteria that have developed as a result of overprescribed antibiotics. In the past, health experts warned us that the day would come in which it would become very difficult to provide medical care for even common problems, such as lung infection or severe sore throat. And, apparently, that day has come because seemingly routine operations such as knee replacements are now much more hazardous due to the looming threat of these infections.",
+                "zh": "然而，如今我们进入了一个新时代，服用抗生素可能会导致一些非常危险、甚至危及生命的情况。事实上，你可能听说过新出现的“超级细菌”，它们是由于抗生素开具过量而产生的耐抗生素细菌。过去，卫生专家曾警告我们，总有一天，即使是肺部感染或严重咽喉痛等常见问题，也会变得很难得到医疗救治。显然，这一天已经到来，因为由于这些感染迫在眉睫的威胁，像膝关节置换这样看似常规的手术如今也危险得多。"
+              },
+              {
+                "en": "The problem has grown into such epidemic proportions that this severe strain of resistant bacteria is being blamed for nearly 700,000 deaths each year throughout the world, and, unfortunately, health experts worry that the number will rise to 10 million or more on a yearly basis by 2050.",
+                "zh": "这个问题已经发展到了如此严重的流行规模，以至于这种严重的耐药细菌菌株被认为是导致全球每年近70万人死亡的罪魁祸首。遗憾的是，卫生专家担心，到2050年，这一数字将按年升至1000万甚至更多。"
+              },
+              {
+                "en": "With such a large life-threatening epidemic, it is sad to say that only 1.2 percent of budgetary money for the National Institutes of Health is currently being spent on research to tackle this problem. This is a far cry from the funds necessary for a problem of such magnitude.",
+                "zh": "面对如此严重且危及生命的流行病，遗憾的是，目前美国国立卫生研究院的预算资金中，只有1.2%用于研究如何应对这一问题。这与如此严重的问题所需的资金相去甚远。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is accessible only to the talented."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It improves students' ability to think."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It starts a lifelong learning process."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It gives birth to many eminent scholars."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They encourage academic democracy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They promote globalization."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They uphold the presidents' authority."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They protect students' rights."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His thirst for knowledge."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His eagerness to find a job."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His contempt for authority."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His potential for leadership.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "This is the reason you are here in a university. You are here to be educated. You are here to understand thinking better and to think better yourself. It isn't a chance you're going to have throughout your lifetime. For the next few years, you have a chance to focus on thinking.",
+                "zh": "这就是你来到大学的原因。你来到这里是为了接受教育，是为了更好地理解思考，并让自己思考得更好。这不是你一生中随时都会拥有的机会。在接下来的几年里，你有机会专注于思考。"
+              },
+              {
+                "en": "I think about some of the students who took advantage of their opportunities in a university. One of the stories I always like to tell is of a freshman seminar that I had a chance to teach at Harvard when I was president of the university. I taught a seminar on globalization and I assigned a reading that I had written about global capital flows. And as I did each week, I asked one of the students to introduce the readings. And this young man, in October of his freshman year, said something like the following. \"The reading by President Summers on the flow of capital across countries, it was kind of interesting, but the data did not come close to supporting the conclusions.\" And I thought to myself, \"What a fantastic thing this was! How could somebody who had been there for five weeks tell the person who had the title 'President' that he didn't really know what he was talking about?\" And it was a special moment.",
+                "zh": "我想起了一些在大学里充分利用机会的学生。我总喜欢讲的一个故事，是我担任哈佛大学校长期间有机会教授的一门新生研讨课。我讲授的是一门关于全球化的研讨课，并布置了一篇我写的关于全球资本流动的文章。和每周一样，我请一名学生介绍阅读材料。那年十月，这名大一新生大致这样说道：“Summers校长关于资本跨国流动的文章还挺有意思，但数据根本不足以支持这些结论。”我心想：“这真是太棒了！一个来这里才五周的人，怎么会告诉一位拥有‘校长’头衔的人，他其实不知道自己在说什么呢？”那是一个特别的时刻。"
+              },
+              {
+                "en": "Now, I don't want to be misunderstood. I explained to my student that I actually thought he was rather more confused than I was and I argued back, but what was really important about that was the universities stand out as places that really are about the authority of ideas. You see it in faculty members who are pleased when their students make a discovery that undermines a cherished theory that they had put forward.",
+                "zh": "现在，我不希望被误解。我向这名学生解释说，我其实认为他比我更加困惑，并对他的观点进行了反驳；但其中真正重要的是，大学是以思想的权威为核心的地方。这一点体现在这样的教师身上：当学生提出的发现推翻了他们曾经提出并珍视的理论时，他们会感到高兴。"
+              },
+              {
+                "en": "I think of another student I had who came to me one morning, one evening actually, walked into my office and said that I had written a pretty good paper, but that it had five important mistakes and that he wanted a job. You could debate whether they actually were mistakes, but you couldn't debate that young man's hunger to learn. You could not debate that this young man was someone who wanted to make a difference in economics and he is today a professor of economics. And his works are more cited as an economist than any other economist in the world.",
+                "zh": "我还想起另一名学生。有一天早晨，不，实际上是一天晚上，他走进我的办公室，说我写了一篇相当不错的论文，但其中有五个重要错误，而且他想要一份工作。你可以争论那些是否真的算错误，但你无法质疑那个年轻人求知的渴望。你无法质疑这个年轻人想在经济学领域有所作为，而他如今已经是一名经济学教授。他作为经济学家的作品，被引用的次数比世界上任何其他经济学家的作品都多。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Few people know how to retrieve information properly."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People can enhance their memory with a few tricks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Most people have a rather poor long-term memory."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People tend to underestimate their mental powers."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They present the states in a surprisingly different order."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They include more or less the same number of states."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are exactly the same as is shown in the atlas."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They contain names of the most familiar states."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Focusing on what is likely to be tested."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having a good sleep the night before."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Reviewing your lessons where the exam is to take place."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making sensible decisions while choosing your answers."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Discover when you can learn best."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Change your time of study daily."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Give yourself a double bonus afterwards."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Follow the example of a marathon runner.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Psychological research shows we consistently underestimate our mental powers. If you think this does not apply to you, then here is a simple test to show you are wrong. Write down the names of all the American states you can remember. Put the list away and then set yourself the same task a week later. Provided you have not cheated by consulting an atlas, you will notice something rather surprising. The two lists will contain roughly the same number of states, but they will not be identical. Some names will have slipped away, but others will have replaced them. This suggests that somewhere in your mind you may well have a record of virtually every state. So it is not really your memory letting you down; just your ability to retrieve information from it.",
+                "zh": "心理学研究表明，我们总是低估自己的心智能力。如果你认为这不适用于自己，那么下面这个简单的测试就能证明你错了。写下你能记住的所有美国州名。把这份名单收起来，一周后再完成同样的任务。只要你没有查阅地图册作弊，就会注意到一个相当令人惊讶的现象：两份名单中州的数量大致相同，但并不完全一致。有些州名已经从记忆中溜走了，但另一些州名取代了它们。这说明，在你的头脑某处，很可能记录着几乎所有州的信息。因此，真正让你失望的并不是记忆本身，而只是你从记忆中提取信息的能力。"
+              },
+              {
+                "en": "We would remember a lot more if we had more confidence in our memories and knew how to use them properly. One useful tip is that things are more likely to be remembered if you are in exactly the same state and place as you were when you learned them. So if you are a student who always reviews over black coffee, perhaps it would be sensible to prime yourself with a cup before the exam. If possible, you should also try to learn information in the room where it is going to be tested.",
+                "zh": "如果我们对自己的记忆更有信心，并且知道如何正确使用记忆，就会记住更多东西。一个有用的窍门是：如果你所处的身心状态和地点恰好与学习这些内容时相同，那么这些内容就更有可能被记住。因此，如果你是一名总是喝着黑咖啡复习的学生，那么考试前喝一杯咖啡也许是明智的。可能的话，你还应该尽量在将要进行测试的房间里学习相关信息。"
+              },
+              {
+                "en": "When you learn is also important. Lots of people swear they can absorb new information more efficiently at some time of the day than at others. Research shows this is not just imagination. There is a biological rhythm for learning, though it affects different people in different ways. For most of us, the best plan is to take in new information in the morning and then try to consolidate it into memory during the afternoon. But this does not apply to everyone, so it is essential to establish your own rhythm. You can do this by learning a set number of lines of poetry at different times of the day and seeing when most lines stick. When you have done this, try to organize your life so that the time set aside for learning coincides with the time when your memory is at its best.",
+                "zh": "学习的时间也很重要。许多人坚信，在一天中的某些时段，他们吸收新信息的效率要高于其他时段。研究表明，这并不只是想象。学习存在一种生物节律，不过它对不同人的影响方式各不相同。对我们大多数人来说，最好的安排是上午吸收新信息，然后在下午努力将其巩固到记忆中。但这并不适用于所有人，因此确定自己的节律至关重要。你可以在一天中的不同时间学习数量相同的诗歌诗行，观察在哪个时间段记住的诗行最多，以此找出自己的节律。完成这项测试后，尽量安排自己的生活，使专门用于学习的时间与记忆力处于最佳状态的时间相一致。"
+              },
+              {
+                "en": "Avoid learning marathons—they do not make the best use of your mind. Take plenty of breaks, because they offer a double bonus: the time off gives your mind a chance to do some preliminary consolidation and it also gives a memory boost to the learning.",
+                "zh": "避免进行长时间不间断的学习马拉松式学习，因为那样无法最有效地利用你的大脑。要安排充足的休息，因为休息能带来双重好处：空闲时间让你的大脑有机会进行一些初步巩固，同时也能增强学习内容的记忆。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is a politician."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is a businessman."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is a sociologist."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is an economist."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In slums."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In Africa."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In pre-industrial societies."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In developing countries."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have no access to health care, let alone entertainment or recreation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their income is less than 50% of the national average family income."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They work extra hours to have their basic needs met."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their children cannot afford to go to private schools."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Hello, today I'm going to talk about poverty.",
+                "zh": "大家好，今天我将谈谈贫困问题。"
+              },
+              {
+                "en": "Poverty has become a critical issue in today's world. It concerns not only us sociologists, but also economists, politicians and business people. Poverty has been understood in many different ways. One useful way is to distinguish between three degrees of poverty: extreme poverty, moderate poverty, and relative poverty.",
+                "zh": "贫困已经成为当今世界的一个关键问题。它不仅关系到我们社会学家，也关系到经济学家、政治家和商界人士。人们从许多不同的角度理解贫困。一种有用的方法是将贫困区分为三个程度：极端贫困、中度贫困和相对贫困。"
+              },
+              {
+                "en": "The first type of poverty is extreme poverty; it's also called absolute poverty. In extreme poverty, households cannot meet basic needs for survival. People are chronically hungry. They are unable to access safe drinking water, let alone health care. They cannot afford education for their children. In short, people who live in extreme poverty do not have even the minimum resources to support themselves and their families. Where does extreme poverty occur? Well, you can find it only in developing countries.",
+                "zh": "第一种贫困是极端贫困，也称为绝对贫困。处于极端贫困状态的家庭无法满足生存所需的基本需求。人们长期处于饥饿之中。他们无法获得安全的饮用水，更不用说医疗保健了。他们无力负担子女的教育费用。简而言之，生活在极端贫困中的人甚至没有维持自己和家人生存所需的最低限度资源。极端贫困发生在哪里？嗯，你只能在发展中国家发现这种情况。"
+              },
+              {
+                "en": "Well, what about moderate poverty? Unlike extreme poverty, moderate poverty generally refers to conditions of life in which basic needs are met but barely. People living in moderate poverty have the resources to keep themselves alive, but only at a very basic level. For example, they may have access to drinking water, but not clean, safe drinking water. They may have a home to shelter themselves, but it does not have power supply, a telephone or plumbing.",
+                "zh": "那么，中度贫困又是怎样的呢？与极端贫困不同，中度贫困通常指的是这样一种生活状况：基本需求能够得到满足，但仅仅勉强达到。生活在中度贫困中的人拥有维持生存的资源，但生活水平仅处于最基本的层次。例如，他们可能能够获得饮用水，但却不是清洁、安全的饮用水。他们可能有一个可以遮蔽自身的住所，但那里没有电力供应、电话或管道设施。"
+              },
+              {
+                "en": "The third kind of poverty is relative poverty. Relative poverty is generally considered to be a household income level, which is below a given proportion of average family income. The relatively poor live in high-income countries, but they do not have a high income themselves. The method of calculating the poverty line is different from country to country, but we can say that basically a family living in relative poverty has less than a percentage of the average family income. For example, in the United States, a family can be considered poor if their income is less than 50% of the national average family income. They can meet their basic needs, but they lack access to cultural guts, entertainment and recreation. They also do not have access to quality health care, or other prerequisites for upward social mobility.",
+                "zh": "第三种贫困是相对贫困。相对贫困通常被认为是家庭收入水平低于平均家庭收入的某一比例。相对贫困者生活在高收入国家，但他们自身并没有高收入。各国计算贫困线的方法有所不同，但我们可以说，基本上，生活在相对贫困中的家庭收入低于平均家庭收入的某个百分比。例如，在美国，如果一个家庭的收入低于全国平均家庭收入的50%，就可以被视为贫困家庭。他们能够满足基本需求，但无法获得文化产品、娱乐和休闲活动。他们也无法享有优质的医疗保健，或其他实现社会向上流动所必需的条件。"
+              },
+              {
+                "en": "Well, I have briefly explained to you how poverty can be distinguished as extreme poverty, moderate poverty and relative poverty. We should keep these distinctions in mind when we research people's living conditions, either in the developing or the developed world.",
+                "zh": "好了，我已经简要向大家解释了贫困如何区分为极端贫困、中度贫困和相对贫困。无论我们研究的是发展中世界还是发达世界中人们的生活状况，都应该牢记这些区别。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Half of your brain stays alert and prepared for danger when you sleep in a new place, a study has revealed. This phenomenon is often"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to as the \"first-night-effect\". Researchers from Brown University found that a network in the left hemisphere of the brain \"remained more active\" than the network in the right side of the brain. Playing sounds into the right ears (stimulating the left hemisphere) of"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "was more likely to wake them up than if the noises were played into their left ear. It was"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "observed that the left side of the brain was more active during deep sleep. When the researchers repeated the laboratory experiment on the second and third nights they found the left hemisphere could not be stimulated in the same way during deep sleep. The researchers explained that the study demonstrated when we are in a"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "environment the brain partly remains alert so that humans can defend themselves against any"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "danger. The researchers believe this is the first time that the \"first-night-effect\" of different brain states has been"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "in humans. It isn't, however, the first time it has ever been seen. Some animal"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "also display this phenomenon. For example, dolphins, as well as other"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "animals, shut down one hemisphere of the brain when they go to sleep. A previous study noted that dolphins always"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "control their breathing. Without keeping the brain active while sleeping, they would probably drown. But, as the human study suggests, another reason for dolphins keeping their eyes open during sleep is that they can look out for"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "while asleep. It also keeps their physiological processes working."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "classified"
+        },
+        {
+          "l": "B",
+          "w": "consciously"
+        },
+        {
+          "l": "C",
+          "w": "dramatically"
+        },
+        {
+          "l": "D",
+          "w": "exotic"
+        },
+        {
+          "l": "E",
+          "w": "identified"
+        },
+        {
+          "l": "F",
+          "w": "inherent"
+        },
+        {
+          "l": "G",
+          "w": "marine"
+        },
+        {
+          "l": "H",
+          "w": "novel"
+        },
+        {
+          "l": "I",
+          "w": "potential"
+        },
+        {
+          "l": "J",
+          "w": "predators"
+        },
+        {
+          "l": "K",
+          "w": "referred"
+        },
+        {
+          "l": "L",
+          "w": "species"
+        },
+        {
+          "l": "M",
+          "w": "specifically"
+        },
+        {
+          "l": "N",
+          "w": "varieties"
+        },
+        {
+          "l": "O",
+          "w": "volunteers"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "K"
+        },
+        {
+          "n": 27,
+          "a": "O"
+        },
+        {
+          "n": 28,
+          "a": "M"
+        },
+        {
+          "n": 29,
+          "a": "H"
+        },
+        {
+          "n": 30,
+          "a": "I"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "L"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "B"
+        },
+        {
+          "n": 35,
+          "a": "J"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Elite Math Competitions Struggle to Diversify Their Talent Pool",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Interest in elite high school math competitions has grown in recent years, and in light of last summer's U.S. win at the International Math Olympiad (IMO)—the first for an American team in more than two decades— the trend is likely to continue."
+        },
+        {
+          "l": "B",
+          "t": "But will such contests, which are overwhelmingly dominated by Asian and white students from middle-class and affluent families, become any more diverse? Many social and cultural factors play roles in determining which promising students get on the path toward international math recognition. But efforts are in place to expose more black, Hispanic, and low-income students to advanced math, in the hope that the demographic pool of high-level contenders will eventually begin to shift and become less exclusive."
+        },
+        {
+          "l": "C",
+          "t": "\"The challenge is if certain types of people are doing something, it's difficult for other people to break into it,\" said Po-Shen Loh, the head coach of last year's winning U.S. Math Olympiad team. Participation grows through friends and networks and if \"you realize that's how they're growing, you can start to take action\" and bring in other students, he said."
+        },
+        {
+          "l": "D",
+          "t": "Most of the training for advanced-math competitions happens outside the confines of the normal school day. Students attend after-school clubs, summer camps, online forums and classes, and university-based \"math circles\", to prepare for the competitions."
+        },
+        {
+          "l": "E",
+          "t": "One of the largest feeders for high school math competitions—including those that eventually lead to the IMO—is a middle school program called Math Counts. About 100,000 students around the country participate in the program's competition series, which culminates in a national game-show-style contest held each May. The most recent one took place last week in Washington, D.C. Students join a team through their schools, which provide a volunteer coach and pay a nominal fee to send students to regional and state competitions. The 224 students who make it to the national competition get an all-expenses-paid trip."
+        },
+        {
+          "l": "F",
+          "t": "Nearly all members of last year's winning U.S. IMO team took part in Math Counts as middle school students, as did Loh, the coach. \"Middle school is an important age because students have enough math capability to solve advanced problems, but they haven't really decided what they want to do with their lives,\" said Loh. \"They often get hooked then.\""
+        },
+        {
+          "l": "G",
+          "t": "Another influential feeder for advanced-math students is an online school called Art of Problem Solving, which began about 13 years ago and now has 15,000 users. Students use forums to chat, play games, and solve problems together at no cost, or they can pay a few hundred dollars to take courses with trained teachers. According to Richard Rusczyk, the company founder, the six U.S. team members who competed at the IMO last year collectively took more than 40 courses on the site. Parents of advanced-math students and Math Counts coaches say the children are on the website constantly."
+        },
+        {
+          "l": "H",
+          "t": "There are also dozens of summer camps—many attached to universities—that aim to prepare elite math students. Some are pricey—a three-week intensive program can cost $4,500 or more—but most offer scholarships. The Math Olympiad Summer Training Program is a three-week math camp held by the Mathematical Association of America that leads straight to the international championship and is free for those who make it. Only about 50 students are invited based on their performance on written tests and at the USA Math Olympiad."
+        },
+        {
+          "l": "I",
+          "t": "Students in university towns may also have access to another lever for involvement in accelerated math: math circles. In these groups, which came out of an Eastern European tradition of developing young talent, professors teach promising K-12 students advanced mathematics for several hours after school or on weekends. The Los Angeles Math Circle, held at the University of California, Los Angeles, began in 2007 with 20 students and now has more than 250. \"These math circles cost nothing, or they're very cheap for students to get involved in, but you have to know about them,\" said Rusczyk. \"Most people would love to get students from more underserved populations, but they just can't get them in the door. Part of it is communication; part of it is transportation.\""
+        },
+        {
+          "l": "J",
+          "t": "It's no secret in the advanced-math community that diversity is a problem. According to Mark Saul, the director of competitions for the Mathematical Association of America, not a single African-American or Hispanic student—and only a handful of girls—has ever made it to the Math Olympiad team in its 50 years of existence. Many schools simply don't prioritize academic competitions. \"Do you know who we have to beat?\" asked Saul. \"The football team, the basketball team—that's our competition for resources, student time, attention, school dollars, parent efforts, school enthusiasm.\""
+        },
+        {
+          "l": "K",
+          "t": "Teachers in low-income urban and rural areas with no history of participating in math competitions may not know about advanced-math opportunities like Math Counts—and those who do may not have support or feel trained to lead them."
+        },
+        {
+          "l": "L",
+          "t": "But there are initiatives in place to try to get more underrepresented students involved in accelerated math. A New York City-based nonprofit called Bridge to Enter Mathematics runs a residential summer program aimed at getting underserved students, mostly black and Hispanic, working toward math and science careers. The summer after 7th grade, students spend three weeks on a college campus studying advanced math for seven hours a day. Over the next five years, the group helps the students get into other elite summer math programs, high-performing high schools, and eventually college. About 250 students so far have gone through the program, which receives funding from the Jack Kent Cooke Foundation."
+        },
+        {
+          "l": "M",
+          "t": "\"If you look at a lot of low-income communities in the United States, there are programs that are serving them, but they're primarily centered around 'Let's get these kids' grades up', and not around 'Let's get these kids access to the same kinds of opportunities as more-affluent kids,'\" said Daniel Zaharopol, the founder and executive director of the program. \"We're trying to create that pathway.\" Students apply to the program directly through their schools. \"We want to reach parents who are not plugged into the system,\" said Zaharopol."
+        },
+        {
+          "l": "N",
+          "t": "In the past few years, Math Counts added two new middle school programs to try to diversify its participant pool—the National Math Club and the Math Video Challenge. Schools or teachers who sign up for the National Math Club receive a kit full of activities and resources, but there's no special teacher training and no competition attached."
+        },
+        {
+          "l": "O",
+          "t": "The Math Video Challenge is a competition, but a collaborative one. Teams of four students make a video illustrating a math problem and its real-world application. After the high-pressure Countdown round at this year's national Math Counts competition, in which the top 12 students went head to head solving complex problems in rapid fire, the finalists for the Math Video Challenge took the stage to show their videos. The demographics of that group looked quite different from those in the competition round—of the 16 video finalists, 13 were girls and eight were African-American students. The video challenge does not put individual students on the hot seat—so it's less intimidating by design. It also adds the element of artistic creativity to attract a new pool of students who may not see themselves as \"math people\"."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Middle school is a crucial period when students may become keenly interested in advanced mathematics.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "Elite high school math competitions are attracting more interest throughout the United States.",
+          "a": "A"
+        },
+        {
+          "n": 38,
+          "s": "Math circles provide students with access to advanced-math training by university professors.",
+          "a": "I"
+        },
+        {
+          "n": 39,
+          "s": "Students may take advantage of online resources to learn to solve math problems.",
+          "a": "G"
+        },
+        {
+          "n": 40,
+          "s": "The summer program run by a nonprofit organization has helped many underserved students learn advanced math.",
+          "a": "L"
+        },
+        {
+          "n": 41,
+          "s": "Winners of local contests will participate in the national math competition for free.",
+          "a": "E"
+        },
+        {
+          "n": 42,
+          "s": "Many schools don't place academic competitions at the top of their priority list.",
+          "a": "J"
+        },
+        {
+          "n": 43,
+          "s": "Contestants of elite high school math competitions are mostly Asian and white students from well-off families.",
+          "a": "B"
+        },
+        {
+          "n": 44,
+          "s": "Some math training programs primarily focus on raising students' math scores.",
+          "a": "M"
+        },
+        {
+          "n": 45,
+          "s": "Some intensive summer programs are very expensive but most of them provide scholarships.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and other women who liberated American fashion from the confines of Parisian design. Independence came in tying, wrapping, storing, harmonizing, and rationalizing that wardrobe. These designers established the modern dress code, letting playsuits and other active wear outfits suffice for casual clothing, allowing pants to enter the wardrobe, and prizing rationalism and versatility in dress, in contradiction to dressing for an occasion or allotment of the day. Fashion in America was logical and answerable to the will of the women who wore it. Implicitly or explicitly, American fashion addressed a democracy, whereas traditional Paris-based fashion was prescriptive and imposed on women, willing or not. In an earlier time, American fashion had also followed the dictates of Paris, or even copied and pirated specific French designs. Designer sportswear was not modeled on that of Europe, as \"modern art\" would later be; it was genuinely invented and developed in America. Its designers were not high-end with supplementary lines. The design objective and the business commitment were to sportswear, and the distinctive traits were problem- solving ingenuity and realistic lifestyle applications. Ease of care was most important: summer dresses and outfits, in particular, were chiefly cotton, readily capable of being washed and pressed at home. Closings were simple, practical, and accessible, as the modern woman depended on no personal maid to dress her. American designers prized resourcefulness and the freedom of women who wore the clothing. Many have argued that the women designers of this time were able to project their own clothing values into a new style. Of course, much of this argument in the 1930s-40s was advanced because there was little or no experience in justifying apparel(服装) on the basis of utility. If Paris was cast aside, the tradition of beauty was also to some degree slighted. Designer sportswear would have to be verified by a standard other than that of pure beauty; the emulation of a designer's life in designer sportswear was a crude version of this relationship. The consumer was ultimately to be mentioned as well, especially by the likes of Dorothy Shaver, who could point to the sales figures at Lord & Taylor. Could utility alone justify the new ideas of the American designers? Fashion is often regarded as a pursuit of beauty, and some cherished fashion's trivial relationship to the fine arts. What the designers of the American sportswear proved was that fashion is a genuine design art, answering to the demanding needs of service. Of course these practical, insightful designers have determined the course of late twentieth-century fashion. They were the pioneers of gender equity, in their useful, adaptable clothing, which was both made for the masses and capable of self-expression.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What contribution did the women designers make to American fashion?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They made some improvements on the traditional Parisian design."
+              },
+              {
+                "l": "B",
+                "t": "They formulated a dress code with distinctive American features."
+              },
+              {
+                "l": "C",
+                "t": "They came up with a brand new set of design procedures."
+              },
+              {
+                "l": "D",
+                "t": "They made originality a top priority in their fashion design."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What do we learn about American designer sportswear?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It imitated the European model."
+              },
+              {
+                "l": "B",
+                "t": "It laid emphasis on women's beauty."
+              },
+              {
+                "l": "C",
+                "t": "It represented genuine American art."
+              },
+              {
+                "l": "D",
+                "t": "It was a completely new invention."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What characterized American designer sportswear?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Pursuit of beauty."
+              },
+              {
+                "l": "B",
+                "t": "Decorative closings."
+              },
+              {
+                "l": "C",
+                "t": "Ease of care."
+              },
+              {
+                "l": "D",
+                "t": "Fabric quality."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What occurred in the design of women's apparel in America during the 1930s-40s?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A shift of emphasis from beauty to utility."
+              },
+              {
+                "l": "B",
+                "t": "The emulation of traditional Parisian design."
+              },
+              {
+                "l": "C",
+                "t": "A search for balance between tradition and novelty."
+              },
+              {
+                "l": "D",
+                "t": "The involvement of more women in fashion design."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What do we learn about designers of American sportswear?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They catered to the taste of the younger generation."
+              },
+              {
+                "l": "B",
+                "t": "They radically changed people's concept of beauty."
+              },
+              {
+                "l": "C",
+                "t": "They advocated equity between men and women."
+              },
+              {
+                "l": "D",
+                "t": "They became rivals of their Parisian counterparts."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Massive rubbish dumps and sprawling landfills constitute one of the more uncomfortable impacts that humans have on wildlife. They have led some birds to give up on migration. Instead of flying thousands of miles in search of food, they make the waste sites their winter feeding grounds. Researchers in Germany used miniature GPS tags to track the migrations of 70 white storks( 鹳) from different sites across Europe and Asia during the first five months of their lives. While many birds travelled along well-known routes to warmer climates, others stopped short and spent the winter on landfills, feeding on food waste, and the multitudes of insects that thrive on the dumps. In the short-term, the birds seem to benefit from overwintering(过冬) on rubbish dumps. Andrea Flack of the Max Planck Institute found that birds following traditional migration routes were more likely to die than German storks that flew only as far as northern Morocco, and spent the winter there on rubbish dumps. \"For the birds it's a very convenient way to get food. There are huge clusters of organic waste they can feed on,\" said Flack. The meals are not particularly appetising, or even safe. Much of the waste is discarded rotten meat, mixed in with other human debris such as plastic bags and old toys. \"It's very risky. The birds can easily eat pieces of plastic or rubber bands and they can die,\" said Flack. \"And we don't know about the long-term consequences. They might eat something toxic and damage their health. We cannot estimate that yet.\" The scientists tracked white storks from different colonies in Europe and Africa. The Russian, Greek and Polish storks flew as far as South Africa, while those from Spain, Tunisia and Germany flew only as far as the Sahel. Landfill sites on the Iberian peninsula have long attracted local white storks, but all of the Spanish birds tagged in the study flew across the Sahara desert to the western Sahel. Writing in the journal, the scientists describe how the storks from Germany were clearly affected by the presence of waste sites, with four out of six birds that survived for at least five months overwintering on rubbish dumps in northern Morocco, instead of migrating to the Sahel. Flack said it was too early to know whether the benefits of plentiful food outweighed the risks of feeding on landfills. But that's not the only uncertainty. Migrating birds affect ecosystems both at home and at their winter destinations, and disrupting the traditional routes could have unexpected side effects. White storks feed on locusts(蝗虫) and other insects that can become pests if their numbers get out of hand. \"They provide a useful service,\" said Flack.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is the impact of rubbish dumps on wildlife?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have forced white storks to search for safer winter shelters."
+              },
+              {
+                "l": "B",
+                "t": "They have seriously polluted the places where birds spend winter."
+              },
+              {
+                "l": "C",
+                "t": "They have accelerated the reproduction of some harmful insects."
+              },
+              {
+                "l": "D",
+                "t": "They have changed the previous migration habits of certain birds."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What do we learn about birds following the traditional migration routes?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can multiply at an accelerating rate."
+              },
+              {
+                "l": "B",
+                "t": "They can better pull through the winter."
+              },
+              {
+                "l": "C",
+                "t": "They help humans kill harmful insects."
+              },
+              {
+                "l": "D",
+                "t": "They are more likely to be at risk of dying."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What does Andrea Flack say about the birds overwintering on rubbish dumps?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may end up staying there permanently."
+              },
+              {
+                "l": "B",
+                "t": "They may eat something harmful."
+              },
+              {
+                "l": "C",
+                "t": "They may evolve new feeding habits."
+              },
+              {
+                "l": "D",
+                "t": "They may have trouble getting adequate food."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What can be inferred about the Spanish birds tagged in the study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They gradually lose the habit of migrating in winter."
+              },
+              {
+                "l": "B",
+                "t": "They prefer rubbish dumps far away to those at home."
+              },
+              {
+                "l": "C",
+                "t": "They are not attracted to the rubbish dumps on their migration routes."
+              },
+              {
+                "l": "D",
+                "t": "They join the storks from Germany on rubbish dumps in Morocco."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What is scientists' other concern about white storks feeding on landfills?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The potential harm to the ecosystem."
+              },
+              {
+                "l": "B",
+                "t": "The genetic change in the stork species."
+              },
+              {
+                "l": "C",
+                "t": "The spread of epidemics to their homeland."
+              },
+              {
+                "l": "D",
+                "t": "The damaging effect on bio-diversity."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "宋朝始于960年，一直延续到1279年。这一时期，中国经济大幅增长，成为世界上最先进的经济体，科 学、技术、哲学和数学蓬勃发展。宋代中国是世界历史上首先发行纸币的国家。宋朝还最早使用火药并发明了 活字(movable-type)印刷。人口增长迅速，越来越多的人住进城市，那里有热闹的娱乐场所。社会生活多种多 样。人们聚集在一起观看和交易珍贵艺术品。宋朝的政府体制在当时也是先进的。政府官员均通过竞争性考试 选拔任用。",
+    "reference": "The Song Dynasty began in 960 and lasted until 1279. During this period, the Chinese economy grew significantly, becoming the most advanced in the world, while science, technology, philosophy and mathematics all flourished. Song China was the first country in the world to issue paper money. The Song Dynasty was also the first to use gunpowder and invented movable-type printing. The population grew rapidly, and more and more people moved into cities, where there were lively entertainment venues. Social life was diverse. People gathered to view and trade precious works of art. The Song government system was also advanced for its time. Government officials were all selected through competitive examinations."
+  }
+}

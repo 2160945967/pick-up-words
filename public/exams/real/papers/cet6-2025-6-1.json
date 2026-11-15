@@ -1,0 +1,1397 @@
+{
+  "id": "cet6-2025-6-1",
+  "level": "cet6",
+  "year": 2025,
+  "month": 6,
+  "set": 1,
+  "title": "2025年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"As requirements for job applications are getting increasingly higher, college students ought to be better prepared for their future career.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+    "sample": "As requirements for job applications are getting increasingly higher, college students ought to be better prepared for their future career. In an era when employers demand not only a diploma but also practical competence, waiting until graduation to think about work is simply too late.There are concrete steps every student can take. To begin with, obtaining relevant certificates and mastering professional skills builds a solid foundation. Last summer, for instance, I taught myself data analysis and earned a certificate, which later helped me stand out in an internship interview. What is more, internships offer irreplaceable experience: by working in a real company, students learn how a workplace actually operates and discover which career truly suits them. Such preparation turns abstract knowledge into employable ability.In conclusion, the fiercer competition becomes, the more valuable early preparation is. Therefore, college students should seize every chance to enrich their skills and experience, so that when opportunity knocks, they are ready to open the door."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Met the computer technician."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Told the man about her trouble."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Called the man's company."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Visited Alpha Maintenance."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Consulted someone in charge."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Came as soon as possible."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Informed the central office at once."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Designated an engineer to the case."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Frustration."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Intimidation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Desperation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Indignation."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Whether the contents have been backed up."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether they can find help somewhere else."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether all data stored on the hard drive has got lost."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether they need to wipe the system directories clean.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Good morning. My name is Bob Fetterman. I'm the computer technician.",
+                "zh": "M：早上好。我叫鲍勃·费特曼，是电脑技术员。"
+              },
+              {
+                "en": "W: Didn't I call for you last week?",
+                "zh": "W：上周不是我打电话叫你来的吗？"
+              },
+              {
+                "en": "M: Maybe? I work for Alpha Maintenance. I imagine someone from your office called our central office and I'm the engineer designated to your case.",
+                "zh": "M：可能吧？我为 Alpha Maintenance 工作。我想应该是你们办公室有人打电话给了我们的总部，而我是负责处理你们这个问题的工程师。"
+              },
+              {
+                "en": "W: Yeah, I spoke to a lady there last Tuesday, which is now 10 days ago. I made it clear it was an urgent matter and please send someone as soon as possible. Couldn't you or someone else have come sooner?",
+                "zh": "W：是的，我上周二，也就是十天前，跟那边的一位女士谈过。我明确说过这是件急事，请尽快派人过来。你或者其他人就不能早点来吗？"
+              },
+              {
+                "en": "M: I'm sorry, but I'm not in charge of scheduling all logistics. I simply do not know. All I can tell you is I got the call this week and came as soon as I could.",
+                "zh": "M：很抱歉，但我不负责安排所有的后勤事宜。我确实不知道。我只能告诉你，我是这周接到电话的，并且已经尽可能快地赶来了。"
+              },
+              {
+                "en": "W: I see. Well, I'll have you know, my manager is rather indignant that it's taken you this long to come. I understand it might not be your fault, but nevertheless, you should know what the feeling is around here.",
+                "zh": "W：我明白了。不过我要告诉你，我的经理对你们花了这么长时间才过来相当不满。我知道这可能不是你的错，但不管怎样，你应该知道这里对此事的看法。"
+              },
+              {
+                "en": "M: I understand, and I'm sorry for any inconvenience. I will try to resolve your computer problem as swiftly and optimally as I can. What and where is the issue?",
+                "zh": "M：我明白，也很抱歉给你带来不便。我会尽我所能，尽快、妥善地解决你们的电脑问题。问题是什么，在哪里？"
+              },
+              {
+                "en": "W: It's this machine right here. It was running slow for a while, I guess, and gradually got worse and worse. Last Tuesday, it just stopped working altogether. If you switch it on, you will see what I mean.",
+                "zh": "W：就是这台机器。它运行缓慢有一阵子了，我想，然后逐渐变得越来越糟。上周二，它彻底停止工作了。你把它打开就知道我说的是什么意思了。"
+              },
+              {
+                "en": "M: Okay. Do you know if it's backed up?",
+                "zh": "M：好的。你知道它有没有备份吗？"
+              },
+              {
+                "en": "W: Backed up?",
+                "zh": "W：备份？"
+              },
+              {
+                "en": "M: I mean, do you know if its contents have been copied and saved somewhere else?",
+                "zh": "M：我的意思是，你知道里面的内容有没有被复制并保存到其他地方吗？"
+              },
+              {
+                "en": "W: I don't know.",
+                "zh": "W：我不知道。"
+              },
+              {
+                "en": "M: Well, depending on the ensuing operative scenario, if I need to wipe the system directories clean in order to reconfigure default protocols, then my first intervention should be to intricately retrieve all inventories that I can. Otherwise, all data that was stored on its hard drive will be forever lost.",
+                "zh": "M：这个嘛，具体要看接下来采取什么操作。如果我需要清空系统目录，以便重新配置默认协议，那么我的第一步应该是尽可能仔细地找回所有资料。否则，存储在硬盘上的所有数据都会永久丢失。"
+              },
+              {
+                "en": "W: My manager would know. Let me go get him.",
+                "zh": "W：我的经理应该知道。我去把他叫来。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It's boring."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It's challenging."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It's a beautiful thing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It's unlike most jobs."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Arbitrating between disagreeing solicitors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Preventing disputes from escalating."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Buying and selling property."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Mediating land disputes."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Courts are intended for fixing major legal disputes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Courts are getting too bureaucratic to function."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Courts can be frustrating and expensive."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Courts can be frightening and arbitrary."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The ability to make arguments in a unique way."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The skill of preventing conflicts between parties concerned."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The skill of foreseeing any potential stakes in their work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The ability to express themselves clearly and forcefully."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Have you given more thought to studying law?",
+                "zh": "M: 你有没有进一步考虑过学法律？"
+              },
+              {
+                "en": "W: I've been thinking about it a lot, yes. In fact, this is why I wished to speak to you. I wanted to hear more about what it's like.",
+                "zh": "W: 我确实认真考虑过很多次。事实上，这就是我想和你谈谈的原因。我想多了解一下这个职业到底是什么样的。"
+              },
+              {
+                "en": "M: A career in law is a beautiful thing in my opinion. Many people will say it's a boring field, but I disagree. The thing is there are many different branches of law and many different jobs.",
+                "zh": "M: 在我看来，从事法律工作是一件很美好的事。很多人会说这是个无聊的领域，但我不这么认为。问题在于，法律有许多不同的分支，也有许多不同的工作。"
+              },
+              {
+                "en": "W: You are involved with buildings and construction, right?",
+                "zh": "W: 你是从事建筑和施工方面工作的，对吧？"
+              },
+              {
+                "en": "M: Correct. I'm a solicitor, specializing in real estate. Most of my work involves mediating land disputes.",
+                "zh": "M: 没错。我是一名事务律师，专门从事房地产法律事务。我的大部分工作都涉及调解土地纠纷。"
+              },
+              {
+                "en": "W: Do you mind giving me an example?",
+                "zh": "W: 你介意举个例子吗？"
+              },
+              {
+                "en": "M: Sure. So in many cases I am employed to arbitrate between two clashing parties. Let's say for example, there are two landowners who are in a thorny disagreement about something like the borders of their adjacent plots. Someone may employ me to break the deadlock and resolve the dispute. Often my work involves negotiating agreements, plain and simple.",
+                "zh": "M: 当然可以。很多时候，我会受雇在两个发生冲突的当事人之间进行仲裁。比如说，有两位土地所有者，因为相邻地块的边界之类的问题而陷入棘手的争执。有人可能会聘请我来打破僵局，解决这场纠纷。很多时候，我的工作就是协商达成协议，仅此而已。"
+              },
+              {
+                "en": "W: So you are saying that a lot of what you do is fix people's legal issues, like you try to find a solution that benefits everyone and that prevents a problem from escalating.",
+                "zh": "W: 所以你的意思是，你所做的很多事情都是在解决人们的法律问题，比如努力找到一个对大家都有利的解决方案，防止问题进一步恶化。"
+              },
+              {
+                "en": "M: Exactly, well put. You need to remember that courts, like all bureaucracies really, can be very messy, frustrating, and expensive. For this reason, it's usually better to resolve problems outside of court whenever possible.",
+                "zh": "M: 没错，你说得很准确。你要记住，法院和所有官僚机构一样，往往会非常混乱、令人沮丧，而且费用高昂。因此，只要有可能，通常最好在法院之外解决问题。"
+              },
+              {
+                "en": "W: I see. So besides knowing the law inside out, you need good people skills, right?",
+                "zh": "W: 我明白了。所以除了要对法律了如指掌之外，还需要有很好的人际交往能力，对吧？"
+              },
+              {
+                "en": "M: Of course. Any job that involves people requires good interpersonal skills, and any law professional needs to be very eloquent at articulating that argument.",
+                "zh": "M: 当然。任何涉及与人打交道的工作都需要良好的人际交往能力，而任何法律从业者都需要非常善于清晰、有说服力地表达自己的观点。"
+              },
+              {
+                "en": "W: Right. So I've been thinking about studying criminal law. I think it sounds very interesting.",
+                "zh": "W: 对。所以我一直在考虑学习刑法。我觉得这听起来很有意思。"
+              },
+              {
+                "en": "M: Mm-hmm, yes. I'd say there's more money in property law, but the stakes are higher in criminal law. I can see how you would find it more interesting.",
+                "zh": "M: 嗯，是的。我想房地产法能赚更多钱，但刑法涉及的利害关系更大。我能理解你为什么会觉得它更有趣。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They looked into the relationship between one's prior knowledge and creativity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They offered novel ways to help older adults to keep their memories from aging."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They proposed an explanation for old people's difficulty in retrieving memories."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They advanced a new model concerning human information storage and retrieval."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Young adults rely on memory while older adults keep notes as a reminder."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Older adults often retrieve irrelevant memories along with what they want."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Young adults accumulate knowledge much more quickly than older adults."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Older adults generally perform cognitive tasks much slower than young adults."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They show preserved, and sometimes enhanced, creativity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They frequently suffer from disorderly crowded memories."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can rely on their accumulated wisdom in an emergency."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They may well be served by forgetting their prior knowledge.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When a person tries to access a memory, their brains quickly examine everything stored in it to find the relevant information. But as we age, many of us have difficulty retrieving memories.",
+                "zh": "当一个人试图提取一段记忆时，其大脑会迅速检查其中储存的所有内容，以找出相关信息。但随着年龄增长，我们中的许多人会难以回忆起记忆。"
+              },
+              {
+                "en": "In a review published in the journal *Trends in Cognitive Sciences* on February 11th, researchers propose an explanation for why this might be happening: the brains of older adults allocate more space to accumulated knowledge and have more material to navigate when attempting to access memories. While this wealth of prior knowledge can make memory retrieval challenging, the researchers say it has its upsides—this life experience can aid with creativity and decision-making.",
+                "zh": "研究人员在2月11日发表于《认知科学趋势》杂志的一篇综述中提出了这一现象可能发生的原因：老年人的大脑会为积累的知识分配更多空间，因此在尝试提取记忆时需要在更多内容中进行搜索。研究人员表示，尽管这些丰富的既有知识会使记忆提取变得更具挑战性，但它也有积极的一面——这些人生经历能够帮助人们进行创造和决策。"
+              },
+              {
+                "en": "Researchers Tarek Amer, Jordana Wynn and Lynn Hasher looked at several behavioral and brain imaging studies, which show that older adults have difficulty suppressing information that is no longer relevant and that when searching for a specific memory, they often retrieve other, irrelevant memories along with it. The studies also showed that when given a cognitive task, older adults rely more heavily on previous knowledge than younger adults do.",
+                "zh": "研究人员塔雷克·阿梅尔、乔丹娜·温和林恩·哈舍尔考察了多项行为研究和脑成像研究。这些研究显示，老年人难以抑制已经不再相关的信息；在寻找某一特定记忆时，他们常常会连同其他无关记忆一起提取出来。研究还显示，在面对认知任务时，老年人比年轻人更加依赖既有知识。"
+              },
+              {
+                "en": "While the researchers focus primarily on the difficulties that these disorderly, crowded memories may pose, they also highlight a few situations in which these same memory patterns may be useful. \"Evidence suggests that older adults show preserved, and at times enhanced, creativity as a function of enriched memories,\" the researchers write. They further hypothesize that older adults may be well served by their prior knowledge when it comes to decision-making, where they can pull on their accumulated wisdom.",
+                "zh": "尽管研究人员主要关注这些杂乱、拥挤的记忆可能造成的困难，但他们也指出了几种相同记忆模式可能发挥作用的情形。研究人员写道：“证据表明，老年人的创造力得益于记忆内容的丰富，不仅得以保持，有时还会有所增强。”他们进一步推测，在进行决策时，老年人可能会受益于自己的既有知识，因为他们能够运用积累的智慧。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are actually proud of the goods and services they produce."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are worried about being alienated from the outside world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are rarely in control of many things related to their work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are longing to share the profits made from their work."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The steady decrease in productivity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The adverse effect on physical health."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The feeling of being time poor."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The rising economic inequality."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It alters the structure of work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It puts jobs and wages at risk."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It liberates people from tedious and laborious work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It creates new work opportunities in the IT industry."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Finding meaning in work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Prioritizing life over work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Improving relationships in the community."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Realizing one's social value in the workplace."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "There are at least four major problems with work in America today.",
+                "zh": "如今，美国的工作至少存在四个主要问题。"
+              },
+              {
+                "en": "First, work can be alienating. Workers are often not in control of how they work, when they work, what is done with the goods and services they produce, and what is done with the profits made from their work.",
+                "zh": "首先，工作可能导致异化。劳动者往往无法掌控自己的工作方式、工作时间、对其生产的商品和服务的处置方式，以及对其劳动所创造利润的处置方式。"
+              },
+              {
+                "en": "Second, workers are not paid the full value of their labor. Real wages have not kept pace with productivity, driving economic inequality and a decline in labor's share of income.",
+                "zh": "其次，劳动者没有获得其劳动的全部价值。实际工资未能与生产率同步增长，导致经济不平等加剧，并使劳动收入在总收入中的占比下降。"
+              },
+              {
+                "en": "Third, people are time poor. In the U.S., full time employees work an average of 8.72 hours per day despite productivity increases. Long working hours contribute to the feeling of \"time poverty\", which has an adverse effect on psychological well-being.",
+                "zh": "第三，人们缺乏时间。尽管生产率有所提高，美国的全职雇员每天平均工作8.72小时。长时间工作加剧了“时间贫困”感，并对心理健康产生不利影响。"
+              },
+              {
+                "en": "Fourth, automation puts jobs and wages at risk. Technological innovation could in theory liberate people from the 40-hour work week. But unless changes are made to the structure of work, automation will simply exert downward pressure on wages and further diminish work opportunities.",
+                "zh": "第四，自动化使工作岗位和工资面临风险。从理论上说，技术创新可以使人们摆脱每周40小时的工作制。但是，除非对工作结构进行改变，否则自动化只会给工资施加下行压力，并进一步减少工作机会。"
+              },
+              {
+                "en": "So, what can be done to alleviate these problems? There are competing visions of the best way to arrive at a solution. One vision is what's known as the \"post-work\" position. The post-work theorists believe that work should not hold a central position in our lives or take up so much of our time. They assert that although doing some work might be necessary, meaning, purpose and social value reside in the communities and relationships built and sustained outside of the workplace. Thus, life should be seen as an end in itself.",
+                "zh": "那么，可以采取什么措施来缓解这些问题呢？对于如何实现解决方案，人们存在相互竞争的构想。其中一种构想被称为“后工作”立场。后工作理论家认为，工作不应在我们的生活中占据核心地位，也不应占用我们如此多的时间。他们主张，尽管从事一定的工作可能是必要的，但意义、目标和社会价值存在于工作场所以外建立并维系的社区和关系之中。因此，生活本身应被视为目的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Affect our attitude to novel tasks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Distinguish us in the social world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Outweigh IQ in importance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Impact academic achievements."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By pressing a hidden button."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By pushing a big button on top."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By pressing two buttons at the same time."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By helping the babies push the right button."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Perform difficult tasks successfully just by observing how adults acted."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make generalizable inferences about persistence from a few examples."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Adapt themselves to different social contexts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Work hard to interact with experimenters.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Recent studies show that self-control and persistence increase academic outcomes, independence of IQ. Even our personal beliefs about efforts can affect academic outcomes. Children who think effort leads to achievement outperform those who believe ability is a fixed trait. Given the link between persistence and academic success, decisions about efforts are particularly important in childhood.",
+                "zh": "近期研究表明，自我控制和坚持不懈能够提升学业表现，而这一作用独立于智商。甚至我们对努力的个人看法也会影响学业表现。认为努力能够带来成就的儿童，比那些认为能力是一种固定特质的儿童表现更好。鉴于坚持不懈与学业成功之间的联系，童年时期对是否付出努力的判断尤为重要。"
+              },
+              {
+                "en": "Yet, relatively little research has explored how young children learn what's worth the effort. We all know that infants are keen observers of the social world, but they're not just idly watching; they are tiny learning machines. They can generalize such abstract concepts as causal relationships and social roles from just a few examples. Even a 15-month-old infant can outperform a high level computer in such tasks. Could infants also make broad generalizable inferences from a few examples when it comes to effort? If so, then maybe persistence isn't simply a character trait. Maybe it's flexible and adaptable based on social context.",
+                "zh": "然而，相对而言，很少有研究探讨幼儿是如何学会判断什么值得付出努力的。我们都知道，婴儿善于观察社会世界，但他们并非只是无所事事地观看；他们是微型的学习机器。他们仅凭几个例子，就能概括出因果关系和社会角色等抽象概念。即使是15个月大的婴儿，在这类任务中的表现也可能超过高水平的计算机。当涉及努力时，婴儿是否也能根据少数几个例子作出广泛且可推广的推断？如果可以，那么坚持不懈也许并不只是某种性格特征，而是会根据社会情境灵活调整、适应变化的能力。"
+              },
+              {
+                "en": "To explore this question, we showed 15-month-old babies one of two things—an experimenter working hard to achieve two different goals, or an experimenter who effortlessly reached each goal. Then we introduced the baby to a novel music toy that seemed as if it could be activated by pushing a big button on top. The button could be pressed down, but didn't actually activate anything. Out of sight of the babies, we turned on the music toy with a hidden button so that they heard the toy making music. We gave the babies the music toy and left the room. Then analysts who didn't know which condition each baby was in, watched video tapes of the experiment and counted how many times babies tried to activate the toy by pressing the button.",
+                "zh": "为了探究这一问题，我们向15个月大的婴儿展示两种情形中的一种：一名实验者努力工作以实现两个不同的目标，或者一名毫不费力地实现每个目标的实验者。随后，我们向婴儿介绍一个新颖的音乐玩具，看起来似乎可以通过按下顶部的大按钮来启动。这个按钮可以被按下，但实际上并不会启动任何功能。在婴儿看不见的地方，我们用一个隐藏按钮打开了音乐玩具，让他们听到玩具发出音乐。我们把音乐玩具交给婴儿，然后离开房间。之后，不知道每个婴儿属于哪种实验条件的分析人员观看了实验录像，并统计婴儿试图通过按下按钮启动玩具的次数。"
+              },
+              {
+                "en": "Across one study and a pre-registered duplication, babies who had seen an adult persist and succeed push the button about twice as many times as those who saw an adult effortlessly succeed. In other words, babies learned that effort was valuable after watching just two examples of an adult working hard and succeeding. Part of what's exciting about this finding is that the babies didn't just imitate the adult's actions. Instead, they generalized the value of effort to a novel task. The experimenter never demonstrated pushing a button or trying to make music. Instead, the babies learned from different examples of effortful actions that the new toy probably also required persistence.",
+                "zh": "在一项研究及其预注册重复实验中，看过成年人坚持不懈并取得成功的婴儿，按下按钮的次数约为看过成年人毫不费力地取得成功的婴儿的两倍。换言之，婴儿仅仅观察成年人努力工作并取得成功的两个例子后，就学会了努力是有价值的。这一发现令人兴奋的部分原因在于，婴儿并不只是模仿成年人的动作。相反，他们把努力的价值推广到了一个全新的任务中。实验者从未示范按按钮或尝试让玩具播放音乐。相反，婴儿从不同的努力行为示例中学到，这个新玩具可能也需要坚持不懈。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Offering advice on overcoming habitual lateness."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Exemplifying various recreational opportunities."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Scrutinizing individuals' defining traits."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Suggesting ways for setting priorities."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Make the breakfast simpler."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Take the alarms seriously."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Ready yourself in the early dawn."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Get prepared the night before."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Finish the prior task 30 minutes earlier."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Keep ourselves from hitting a bump."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Leave time in between activities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Try to avoid possible hold-ups.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If chronic lateness has taken over your life and turned into a defining trait of who you are, it's likely that you're losing out on job offers, recreational opportunities, friendships, and more. If you are showing up late to your own life, get organized, prioritize punctuality, and address any underlying causes.",
+                "zh": "如果长期迟到已经占据了你的生活，并变成了定义你这个人的特征，那么你很可能正因此错失工作机会、休闲活动、友谊以及更多其他东西。如果你在自己的人生中都迟到，请做好组织安排，优先重视守时，并处理任何潜在原因。"
+              },
+              {
+                "en": "When you have to be somewhere, try to arrive 15 to 30 minutes before you need to. If you always run late, that means you must be failing to account for something you always do. Anticipate that by giving yourself extra time to arrive. Keep track of whether or not you actually do arrive early. You might find that leaving early gets you to places exactly on time.",
+                "zh": "当你必须前往某个地方时，尽量提前15到30分钟到达。如果你总是迟到，这意味着你一定没有考虑到某件自己总会做的事情。通过给自己预留额外时间来提前应对这一点。记录自己是否真的提前到达。你可能会发现，提前出发反而能让你恰好准时到达目的地。"
+              },
+              {
+                "en": "Set two alarms. Set one alarm that lets you know it's time to drop what you're doing and a second alarm that means you need to walk out the door. Obey the alarms. As soon as the first alarm goes off, stop what you're doing. If it's something you'll be coming back to, like a project for work, make a note to remind yourself where you left off. Grab everything you need and make sure you know how to get where you're going. Aim to be out the door and on your way before the second alarm rings. This will only work if you take the alarms seriously, so make sure you react as soon as you hear them.",
+                "zh": "设置两个闹钟。设置一个闹钟，提醒你该放下手头正在做的事情；再设置第二个闹钟，表示你必须出门了。遵守闹钟的提醒。第一个闹钟一响，就停止手头的事情。如果那是你之后还会继续做的事情，比如工作项目，就记下来提醒自己做到哪里。拿上所有需要的东西，并确保自己知道如何到达目的地。目标是在第二个闹钟响起之前出门上路。只有认真对待这两个闹钟，这种方法才会奏效，所以一听到闹钟响就要立即作出反应。"
+              },
+              {
+                "en": "Prepare for the day ahead. Have all of your notes and materials organized well in advance of each event, so that all you have to do is grab them and go when it's the actual day. If mornings are a struggle for you, do as much as you can to ready yourself the night before. Before you go to bed, lay out your clothes and pack your bag for the next day.",
+                "zh": "为第二天做好准备。提前整理好每项活动所需的全部笔记和材料，这样到了当天，你只需拿上它们就可以出发。如果早晨对你来说很难熬，就尽可能在前一晚做好准备。睡觉前，准备好第二天要穿的衣服，并收拾好包。"
+              },
+              {
+                "en": "Learn to leave time in between tasks and meetings. It soon becomes unbearable to shift between one meeting and another without space in between. If you overschedule yourself, however, you'll arrive late as soon as you hit a bump. As well as giving you space, this time also acts as a buffer between events, which can be borrowed from, should you be held up in a prior meeting, allowing you to still get to the next one on time. Calculate transit time between activities and then add 10 to 30 minutes for unexpected delays.",
+                "zh": "学会在任务和会议之间留出时间。在两个会议之间没有任何间隔地转换，很快就会让人难以忍受。然而，如果你的日程安排得过于紧凑，一遇到意外情况，你就会迟到。除了为你提供喘息空间外，这段时间还可以充当活动之间的缓冲；如果你在前一个会议上被耽搁了，就可以借用这段时间，从而仍能准时参加下一个会议。计算各项活动之间的交通时间，然后再增加10到30分钟，以应对意外延误。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their lifestyles vary."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their traits vary."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have different customs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have different feels."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are not as willing to help strangers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are not as patient with one another."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They violate traffic rules more frequently."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They become more easily irritated in public."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was practiced by Boston's founding fathers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is not deemed exotic by Proper Bostonians."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was adopted by Boston's upper class."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is not part of Boston's local culture."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Stick to its own way of showing courtesy to strangers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Follow the examples set by Paris and New York City."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Learn from the world's major cities in promoting tourism."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Take pride in its history and adhere to its cultural tradition."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Do you think Bostonians put out the welcome mat? Do you find other cities to be more or less polite? Different cities have different feels for visitors. Some are friendly and open; some are formal and distant. Boston tends to seem hurried and sometimes a little rude. That's what some tourists have said. One study found that people here are less willing to volunteer to help strangers than those residents of other U.S. cities. Take a close look next time you're in Boston, and here are some of the things you'll probably see: people smoking in the subway stations despite the frequent reminders not to do so; pedestrians walking when the crosswalk lights say not to do so, ignoring the cars; car drivers speeding, making a loud noise with the horn and occasionally cursing at each other. Drivers who can't be bothered to find a place to park, but instead simply turn on their blinker and stop in the middle of the street.",
+                "zh": "你认为波士顿人会铺上迎宾垫吗？你觉得其他城市的人更有礼貌，还是不那么有礼貌？不同的城市给游客的感觉各不相同。有些城市友好而开放，有些则拘谨而疏远。波士顿往往给人一种行色匆匆、有时还有些粗鲁的感觉。一些游客就是这么说的。一项研究发现，这里的人主动自愿帮助陌生人的意愿低于美国其他城市的居民。下次你在波士顿时，不妨仔细看看，你很可能会看到以下一些情景：尽管地铁站经常提醒人们不要吸烟，还是有人在那里吸烟；人行横道信号灯显示禁止通行时，行人仍然无视汽车继续行走；汽车司机超速行驶，大声按喇叭，偶尔还互相破口大骂。有些司机懒得找停车位，反而只是打开转向灯，把车停在马路中央。"
+              },
+              {
+                "en": "Sometimes Bostonians seem like they're just too busy to be polite. Why is their city like that? Former U.S. representative Chester Atkins says it's because the Puritan founding fathers were themselves impatient and bad-tempered, and had little time for courtesy. That culture has carried down to the present day, he believes. Boston College professor Thomas O'Connor thinks a contributing factor is Boston's history as a city where each new group of immigrants was treated with suspicion and exclusion. That's given Boston a sense of clannishness and reserve, he thinks. The idea of a stranger greeting another stranger is simply not part of the local culture, he says. People will begin a conversation with someone they know, but not with a stranger. Ralph Whitehead, a professor of journalism at the University of Massachusetts at Amherst, thinks it's because Boston's upper class used manners to make class distinctions. By being snobbish about manners, Proper Bostonians made other people scornful of courtesy, he says.",
+                "zh": "有时波士顿人给人的感觉是，他们只是太忙了，顾不上讲礼貌。他们的城市为什么会这样？美国前众议员切斯特·阿特金斯说，这是因为那些清教徒开拓者本身就缺乏耐心、脾气暴躁，没有多少时间讲究礼节。他认为，这种文化一直延续到了今天。波士顿学院教授托马斯·奥康纳认为，另一个促成因素是波士顿的历史：每一批新来的移民都曾受到猜疑和排斥。他认为，这使波士顿形成了一种排外和矜持的气质。他说，陌生人主动向另一个陌生人打招呼，根本不属于当地文化的一部分。人们会与自己认识的人开始交谈，却不会与陌生人交谈。马萨诸塞大学阿默斯特分校新闻学教授拉尔夫·怀特黑德认为，这是因为波士顿上流社会曾利用礼仪来划分阶层。他说，波士顿那些讲究“正统礼仪”的人对礼仪表现得势利，从而使其他人开始鄙视礼节。"
+              },
+              {
+                "en": "Some say that's just the way Boston is and that the city will never change. Still, other cities with reputations for worse rudeness are trying hard to change their images. Paris is one example where people are trying to be friendly. New York City is another. There, the city is trying to persuade subway riders to be more considerate. If those cities can make the effort, maybe Boston should as well.",
+                "zh": "有人说，波士顿就是这样，这座城市永远不会改变。不过，一些因粗鲁而声名更差的城市正在努力改变自己的形象。巴黎就是一个例子，那里的人们正在努力变得友好。纽约市是另一个例子。在那里，市政府正试图劝说地铁乘客更加体谅他人。如果那些城市都能付出努力，波士顿或许也应该这样做。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "In her second year, Charlene Duong learned of the use of poisonous, synthetic pesticides on her college campus. Shocked but not surprised, she knew she had to do something. Along with a couple of classmates, Charlene did a quick web search and discovered a small but growing movement led by the organization, Herbicide-Free Campus (HFC), to rid college campuses of artificial herbicides(灭草剂). They were"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ". Like many, Charlene experiences climate anxiety—a"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "fear of a climate catastrophe—and was, at the time, looking for an"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ". When she discovered the HFC movement, she said she felt she \"had found a specific area to focus on that still fit into the larger picture of fighting for a healthier, safer, cleaner"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "for all.\" Toxic herbicide use in university land care is not unique. Most institutions of higher education rely on synthetic pesticides and fertilizers to achieve"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "goals. Having a \"beautiful\" campus means green and perfectly maintained lawns along with flower beds and paved sidewalks. But these"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "managed campuses can come at a cost: increased cancer risk,"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "waterways, poisoned wildlife and lifeless soil. Pesticide use on college campuses also contributes to our global climate crisis. The use of chemicals to get rid of insects or unwanted plant life can increase indirect"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "as they can include petroleum-based ingredients. Pesticide use also decreases the life in soil,"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "the ability of soils to absorb carbon or retain water and thus reducing campuses' ability to recover quickly from climate-related extreme weather events like droughts and floods. Instead of using toxic chemicals, students working with HFC help out with"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "the campus grounds. \"This work reminds me to be in the present moment as I play my role in reducing herbicide use and keeping my campus safe and healthy,\" says Charlene."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "aesthetic"
+        },
+        {
+          "l": "B",
+          "w": "chronic"
+        },
+        {
+          "l": "C",
+          "w": "contaminated"
+        },
+        {
+          "l": "D",
+          "w": "conventionally"
+        },
+        {
+          "l": "E",
+          "w": "emissions"
+        },
+        {
+          "l": "F",
+          "w": "environment"
+        },
+        {
+          "l": "G",
+          "w": "hampering"
+        },
+        {
+          "l": "H",
+          "w": "incidentally"
+        },
+        {
+          "l": "I",
+          "w": "infringement"
+        },
+        {
+          "l": "J",
+          "w": "intrigued"
+        },
+        {
+          "l": "K",
+          "w": "juvenile"
+        },
+        {
+          "l": "L",
+          "w": "outlet"
+        },
+        {
+          "l": "M",
+          "w": "rotating"
+        },
+        {
+          "l": "N",
+          "w": "vibrations"
+        },
+        {
+          "l": "O",
+          "w": "weeding"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "J"
+        },
+        {
+          "n": 27,
+          "a": "B"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "F"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "D"
+        },
+        {
+          "n": 32,
+          "a": "C"
+        },
+        {
+          "n": 33,
+          "a": "E"
+        },
+        {
+          "n": 34,
+          "a": "G"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Why Your Library Is the Most Important Place in Town",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Librarians know the value of their community services, and their patrons appreciate their importance as well. But in an increasingly digital world, we see the role of libraries as community and cultural centers at times undervalued. When shrinking municipal budgets combine with the nonstop technological revolution, public library services that focus on building communities face-to-face, inspiring and educating patrons about art, literature, and music, and helping patrons engage in civil discourse can seem old-fashioned. But it is precisely those shrinking budgets and the assault of technologically mediated life that make public libraries' cultural and community offerings more important than ever."
+        },
+        {
+          "l": "B",
+          "t": "Many people point out the value public libraries bring to their communities. More than just books and banks of computers, libraries are still places where individuals gather to explore, interact, and imagine. Some of the specific ways in which libraries add value to our communities and serve as cultural centers for our patrons are community builders, centers for the arts, and champions of youth. Libraries serve in these capacities and are more than just about information."
+        },
+        {
+          "l": "C",
+          "t": "As community builders libraries are engaged in incredible work. From tiny public libraries to huge city institutions with multiple branches, libraries across the United States are building community and supporting local culture in exciting ways. These are inspiring and hopefully will encourage librarians interested in community services and cultural outreach to make connections with each other, share ideas, and build partnerships. Supporters of libraries as community builders claim that unless you are out there changing neighborhoods, you are not completing the work you are to do. Strengthening neighborhoods and championing the cultural lives of communities are big responsibilities."
+        },
+        {
+          "l": "D",
+          "t": "Place-based economic development stresses the importance of offering attractive, functional, and community- based places, such as libraries, in town squares and depressed neighborhoods. Like a major department store in a mall, libraries attract large numbers of people, creating economic opportunities for numerous businesses and organizations in the surrounding area. Large cities, medium-sized ones, and even small towns have successfully transformed their libraries into the hubs(枢纽) of vibrant neighborhoods."
+        },
+        {
+          "l": "E",
+          "t": "As key municipal agencies, and focal points for community education, libraries are major players in creating livable, environmentally friendly cities and towns. The Urban Libraries Council released a report detailing the unique ways in which libraries can further sustainability at the local level. Beyond ensuring that library construction projects consider environmental impact, libraries can take a lead in supporting local foods and craftsmen, like the Peabody Institute Library's partnering with local businesses to pioneer a farmers' market in their courtyard, or the Richmond Public Library's seed lending library which \"nurtures locally-adapted plant varieties, and fosters community resilience(韧性), self-reliance and a culture of sharing.\""
+        },
+        {
+          "l": "F",
+          "t": "Archives preserve historic artifacts, oral histories, digital history projects, and scholarly writings relevant to the community, including minority groups. Communities lucky enough to have archivists have a great advantage when it comes to organizing historical records and artifacts. An organized archive is a place where people can research their ancestry and immigration history, do environmental research, and more. An archivist is an advocate for preservation who, among other things, coordinates the restoration of maps and paintings, the digitization of vital records, and the creation of oral history projects. With projects like the Massachussets Memories Road Show and the Veterans History Project, evidence of the importance of archives is everywhere."
+        },
+        {
+          "l": "G",
+          "t": "In the words of Robert Putnam, \"People may go to the library looking mainly for information, but they find each other there.\" New moms connect at baby story-times; elderly people, often facing difficult life transitions, attend events and find that they make new friends; teenagers meet up in libraries' teen spaces after school; and readers discuss current events in the periodicals room. In libraries, community-building connections are happening all the time."
+        },
+        {
+          "l": "H",
+          "t": "As Keith Richards said, \"The public library is the great equalizer.\" Despite the rising costs of concert and theater tickets, public library events (including concerts, author visits, and gallery displays) are often offered free of charge, enabling people of any income level to attend. In addition, library book groups allow people to explore and discuss the literary arts, and the Great Stories Club introduces at-risk youth to literature. The best part: it's all free and open to the public."
+        },
+        {
+          "l": "I",
+          "t": "In a time when education is increasingly expensive, public libraries provide information and educational opportunities free for all people, regardless of their socio-economic status. Offered by libraries across the country, American Library Association's Let's Talk about It programs are wonderful examples of scholar- facilitated learning opportunities in libraries. In addition, many libraries present classes and discussion programs, and some even provide online continuing education courses such as the Universal Class database."
+        },
+        {
+          "l": "J",
+          "t": "Librarians know that patrons aren't just information consumers, they're information producers. Patrons use the library to gain knowledge in order to create their own new and independent works. Increasing numbers of libraries provide spaces and services that meet the needs of people who want to learn how to edit Wikipedia, set up blogs or podcasts, create their own magazines, and so much more. Many libraries offer art or writing workshops and groups, and some provide music practice rooms for patrons. Programs like ImaginOn in Charlotte, North Carolina, provide exciting models that take community partnership, creativity, and creation to a new level."
+        },
+        {
+          "l": "K",
+          "t": "The decline of civil discourse stems in part from the fact that it is so easy for people to watch news about, buy products from, and engage—in both the virtual and real worlds—only with those of similar backgrounds and ideologies. Public libraries, through such programs as The Human Library and Socrates Café, can help build small communities of difference that encourage people to interact with and learn from each other through dialogue. By both actively promoting civil discourse through these programs, and modeling and upholding the principles of free inquiry and expression for all, libraries help individuals rediscover the importance of and increased need for civil discourse in American life."
+        },
+        {
+          "l": "L",
+          "t": "Free tutoring, homework help programs, and summer reading programs for kids and teens help bridge the economic divide that impacts students' academic performance. The cost of hiring a private tutor is well beyond what many library patrons can afford, so libraries offer homework help and tutoring online, by phone, in person, and even through social media and homework apps. Annual summer reading programs also have a positive impact on student performance and, according to a 2010 study conducted by Dominican University's Graduate School of Library and Information Science, students' reading skills get a boost from these popular nationwide events."
+        },
+        {
+          "l": "M",
+          "t": "Through library collections, programs, and physical spaces, children learn to share, to be engaged in their communities, to participate in the arts, and to explore their immediate world and the world at large. There are surely endless examples of innovative library services for children, including the Middle Country Public Library's Nature Explorium, which engages children in learning about the natural world."
+        },
+        {
+          "l": "N",
+          "t": "These examples are just a few of the many amazing things that public libraries around the United States (and the world) are doing to build and maintain strong community connections. We encourage you to try some of these ideas in your own libraries, and we hope that these ideas will help you be better able to convince your community leaders of the important role that public libraries play in communities large and small."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "People going to the library in search of information can build connections with each other there.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "According to advocates of libraries as community builders, librarians are not doing their job well if they do not change their communities.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "With the costs of education continually rising, public libraries remain places where all people can have access to education.",
+          "a": "I"
+        },
+        {
+          "n": 39,
+          "s": "Libraries draw large crowds, thus creating lots of business opportunities in neighboring areas.",
+          "a": "D"
+        },
+        {
+          "n": 40,
+          "s": "With the world more and more digitalized, people sometimes underestimate the role of libraries as community and cultural centers.",
+          "a": "A"
+        },
+        {
+          "n": 41,
+          "s": "Various programs organized by public libraries for children and adolescents help narrow the gap between students from varying economic backgrounds.",
+          "a": "L"
+        },
+        {
+          "n": 42,
+          "s": "In an organized archive, people can do research on their family history and find out how their ancestors came to settle in the new land.",
+          "a": "F"
+        },
+        {
+          "n": 43,
+          "s": "Public libraries organize cultural events, often allowing people of different income levels to attend free of charge.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "Besides being an information provider, the library performs many other important services for the community.",
+          "a": "B"
+        },
+        {
+          "n": 45,
+          "s": "Public libraries can help build small communities of people with different backgrounds and ideologies.",
+          "a": "K"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Nationally, one in six children miss 15 or more days of school in a year. Education officials have deplored all this missed instruction. These chronically absent students suffer academically because of all the classroom instruction they miss out on. In 2015, the U.S. secretary of education responded to this crisis, urging communities to support every student to attend every day and be successful in school. His open letter stated that missing 10% of school days in a year for any reason—excused or unexcused—is a primary cause of low academic achievement. Worrying about whether children attend school makes sense. After all, if students don't show up, teachers can't teach them. But what if America's attendance crisis is about much more than students missing class? What if, instead, it is a reflection of family and community crises these students face—such as being ejected from the family apartment, fearing for their safety in their neighborhood or suffering an illness? As social scientists we investigated how excused and unexcused absences relate to children's academic achievement. We find that absences excused by a parent do little to harm children's learning. In fact, children with no unexcused absences—but 15 to 18 excused absences—have test scores equal to their peers who have no absences. Meanwhile, the average child with even just one unexcused absence does much worse academically than peers with none. We believe unexcused absence is a strong signal of the many challenges children and families face, including economic and medical hardships. Unexcused absences can be a powerful signal of how those out-of- school challenges affect children's academic progress. Our evidence suggests unexcused absences are problematic, but for a different reason than people often think. Absence from school, and especially unexcused absence, matters mainly as a signal of many crises children and their families may be facing. It matters less as a cause of lower student achievement due to missed instruction. How we choose to think of school absences matters for educational policy. School attendance policies typically hold schools and families accountable for the days children miss, regardless of whether they were excused or unexcused absences. These policies assume that missing school for any reason harms children academically because they are missing classroom instruction. They also assume that schools will be able to effectively intervene by reducing student absences. We find neither to be the case. As a result, these attendance policies end up disproportionately punishing families dealing with out-of-school crises in their lives and pressuring schools who serve them to get students to school more often. We instead suggest using unexcused absence from school as a signal to channel resources to the children and families who need them most.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the U.S. secretary of education say in his open letter?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is of vital importance to respond promptly to the school absence crisis."
+              },
+              {
+                "l": "B",
+                "t": "The academic performance of chronically absent students is deplorable."
+              },
+              {
+                "l": "C",
+                "t": "Low academic achievement is mainly attributed to school absences."
+              },
+              {
+                "l": "D",
+                "t": "The effect of school absences on American education is worrisome."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What do the authors find about school absences?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Excused school absences have little impact on children's learning."
+              },
+              {
+                "l": "B",
+                "t": "There is little difference between unexcused and excused absences."
+              },
+              {
+                "l": "C",
+                "t": "Excused absences lead to comparatively better school performance."
+              },
+              {
+                "l": "D",
+                "t": "Unexcused absences are a big challenge to both schools and families."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What do the authors believe concerning unexcused school absences?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are likely to cause a decrease in students' academic achievements due to missed instruction."
+              },
+              {
+                "l": "B",
+                "t": "They point directly to many of the out-of-school challenges confronting children and their families."
+              },
+              {
+                "l": "C",
+                "t": "They are matters the American government typically ignores when formulating educational policies."
+              },
+              {
+                "l": "D",
+                "t": "They give a clear signal to children and their families of the crises they are likely to face in the future."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What is the assumption underlying education policies in the U.S.?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Children's academic performance depends on reducing the number of absences."
+              },
+              {
+                "l": "B",
+                "t": "Schools can boost children's academic performance by effective intervention."
+              },
+              {
+                "l": "C",
+                "t": "Schools as well as families should be held responsible for out-of-school crises."
+              },
+              {
+                "l": "D",
+                "t": "Children's academic performance is closely related to the quality of instruction."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What do the authors suggest doing regarding school absences?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Identifying their underlying causes."
+              },
+              {
+                "l": "B",
+                "t": "Reframing school attendance policies."
+              },
+              {
+                "l": "C",
+                "t": "Directing resources to helping needy children."
+              },
+              {
+                "l": "D",
+                "t": "Pressuring schools to reduce unexcused ones."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "After earning a bachelor's degree, I was determined to do what I love. I headed straight to graduate school to investigate the social problems that fascinated me. For almost a decade, I told everyone I encountered that they should do the same. \"Follow your passion,\" I counseled. \"You can figure out the employment stuff later.\" It wasn't until I began to research this widely accepted career advice that I understood how problematic it really was. As a sociologist, I interviewed college students and professional workers to learn what it really meant to pursue their dreams, which I will refer to here as the passion principle. I was stunned by what I found out about this principle in the research for my new book. Surveys show the American public has long held the passion principle in high regard as a career decision- making priority. And its popularity is even stronger among those facing job instability. Advocates of the passion principle found it compelling because they believed that following one's passion can provide workers with both the motivation necessary to work hard and a place to find fulfillment. Yet, what I found is that following one's passion does not necessarily lead to fulfillment, but is one of the most powerful cultural forces perpetuating overwork. I also found that promoting the pursuit of one's passion helps perpetuate social inequalities due to the fact that not everyone has the same economic resources to allow them to pursue their passion with ease. While the passion principle is broadly popular, not everyone has the necessary resources to turn their passion into a stable, good-paying job. Passion-seekers from wealthy families are better able to wait until a job they are passionate about comes along without worrying about student loans in the meantime. They are also better situated to take unpaid internships to get their foot in the door while their parents pay their rent. And they often have access to parents' social networks to help them find jobs. Surveys revealed that working-class and first-generation college graduates, regardless of their career field, are more likely than their wealthier peers to end up in low-paying unskilled jobs when they pursue their passion. Colleges, workplaces and career counselors who promote the \"follow your passion\" path for everyone, without leveling the playing field, help perpetuate socioeconomic inequalities among career aspirants. It's not just well-off passion-seekers who benefit from the passion principle. Employers of passionate workers do, too. Potential employers showed greater interest in passionate applicants in part because they believed the applicants would work hard at their jobs without expecting an increase in pay. They even sacrifice a good salary, job stability and leisure time to work in a job they love.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What did the author advise people do for almost a decade?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Figure out what is the most fascinating job."
+              },
+              {
+                "l": "B",
+                "t": "Follow widely accepted career counsel."
+              },
+              {
+                "l": "C",
+                "t": "Pursue their careers with passion."
+              },
+              {
+                "l": "D",
+                "t": "Do whatever they are zealous for."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "How did the author feel about the passion principle through his research?",
+            "o": [
+              {
+                "l": "A",
+                "t": "He was astonished by its consequences."
+              },
+              {
+                "l": "B",
+                "t": "He was further convinced of its soundness."
+              },
+              {
+                "l": "C",
+                "t": "He was actually right to follow it through."
+              },
+              {
+                "l": "D",
+                "t": "He was struck by its broad popularity."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What is important to turning one's passion into a stable, good-paying job?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Willingness to take unpaid internships and low-paying jobs."
+              },
+              {
+                "l": "B",
+                "t": "Full academic preparedness and sound career counseling."
+              },
+              {
+                "l": "C",
+                "t": "Hard work and sacrifice of leisure time."
+              },
+              {
+                "l": "D",
+                "t": "Financial backing and social connections."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What happens when everyone is encouraged to follow their passion?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Many more career aspirants end up unemployed."
+              },
+              {
+                "l": "B",
+                "t": "People are less concerned with socioeconomic inequality."
+              },
+              {
+                "l": "C",
+                "t": "Socioeconomic inequality is likely to persist."
+              },
+              {
+                "l": "D",
+                "t": "Career counselors are going to lose credibility."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What does the author say about employers of passionate workers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They provide these workers with job stability and a good salary."
+              },
+              {
+                "l": "B",
+                "t": "They exploit these workers' passion to benefit themselves."
+              },
+              {
+                "l": "C",
+                "t": "They level the playing field for these workers to reach their goals."
+              },
+              {
+                "l": "D",
+                "t": "They encourage these workers to realize their aspirations."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "天宫空间站(Tiangong Space Station)是中国首个太空实验室,拥有110多立方米使用空间,可驻留三名宇航员, 在距地球表面400-450公里的轨道上运行。天宫空间站已实施180多个科学研究与应用项目,涉及空间生命科 学、太空医学、空间材料科学等领域。天宫空间站的研究成果在我国得到了广泛应用,产生了显著的经济效 益。例如,太空育种创造的直接经济效益高达数千亿元。这不仅标志中国在航天技术上取得了巨大进步,也表明 中国为全球的太空研究和应用做出了重大贡献。",
+    "reference": "The Tiangong Space Station, China's first space laboratory, boasts over 110 cubic meters of usable space and is able to accommodate three astronauts, orbiting at an altitude of 400 to 450 kilometers above the Earth's surface. The station has carried out more than 180 scientific research and application projects, covering such fields as space life science, space medicine, and space materials science. The research achievements of the station have been widely applied in China and have generated remarkable economic benefits. For example, the direct economic benefits created by space breeding reach hundreds of billions of yuan. This not only marks China's tremendous progress in aerospace technology, but also demonstrates that China has made significant contributions to global space research and application."
+  }
+}

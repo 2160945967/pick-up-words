@@ -1,0 +1,1421 @@
+{
+  "id": "cet6-2020-12-1",
+  "level": "cet6",
+  "year": 2020,
+  "month": 12,
+  "set": 1,
+  "title": "2020年12月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to develop creativity.You should write at least 150 words but no more than 200 words.",
+    "sample": "In an age driven by innovation, the ability to think in original ways has never been more valuable. Therefore, I firmly believe that students should be actively encouraged to develop their creativity, for it benefits both their growth and society at large.First, creativity makes learning far more engaging. When students are free to imagine and design their own solutions, rather than merely memorizing answers, they become genuinely curious and study with real enthusiasm. Moreover, creativity sharpens the ability to solve problems. A learner who is used to exploring different approaches can adapt flexibly to new challenges, which is exactly what future workplaces demand. For instance, many employers today value an engineer who can propose an original design over one who only follows fixed rules.In conclusion, encouraging creativity is far from a luxury; it is a necessity. By nurturing imagination and original thinking, schools equip students to enrich their own lives and to meet the uncertain demands of tomorrow."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Her house has not been repaired in time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She has failed to reach the manager again."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Her claim has been completely disregarded."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She has not received any letter from the man."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The ground floor of their cottage was flooded."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their caravan was washed away by the flood."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their entire house was destroyed by the flood."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The roof of their cottage collapsed in the flood."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The woman's misreading of the insurance company's letter."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The woman's ignorance of the insurance company's policy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The woman's inaccurate description of the whole incident."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The woman's failure to pay her house insurance in time."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "File a lawsuit against the insurance company."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Talk to the manager of Safe House Insurance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Consult her lawyer about the insurance policy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Revise the terms and conditions of the contract.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Good morning, Safe House Insurance. My name is Paul. How can I help you today?",
+                "zh": "M: 早上好，这里是 Safe House Insurance。我叫保罗。今天有什么可以帮您的吗？"
+              },
+              {
+                "en": "W: Morning. I wouldn't say that it's good from where I am standing. This is Miss Wilson and this is the third time I've called this week since receiving your letter about our insurance claim. I'm getting a little fed up with my calls about my claim being completely disregarded.",
+                "zh": "W: 早上好。从我的处境来看，我可不觉得这是个美好的早晨。我是威尔逊女士。自从收到你们关于我们保险理赔的信以来，这是我本周第三次打电话了。我对你们完全不理会我关于理赔的来电，已经有点受够了。"
+              },
+              {
+                "en": "M: Miss Wilson, thank you for calling back. Can I take some details to help me look at your claim?",
+                "zh": "M: 威尔逊女士，谢谢您再次来电。我可以先记录一些信息，以便查看您的理赔情况吗？"
+              },
+              {
+                "en": "W: It's Miss May Wilson of 15 South Sea Road in Cornwall, and the details are that our village was extensively flooded 2 months ago. The entire ground floor of our cottage was submerged in water and five of us have been living in a caravan ever since. You people are still withholding the money we are entitled to over a bizarre technical detail. And it's not acceptable, Paul!",
+                "zh": "W: 我是康沃尔郡南海路15号的梅·威尔逊女士。事情是这样的：两个月前，我们的村子遭遇了严重洪水。我们小屋的整个底层都被水淹没了，我们五个人从那以后一直住在一辆拖车里。你们还在因为一个荒唐的技术细节，扣着我们应得的赔款不肯支付。这不可接受，保罗！"
+              },
+              {
+                "en": "M: Miss Wilson, according to the notes on your account, the bizarre technical detail that you mentioned refers to the fact that you hadn't paid house insurance the month before the incident.",
+                "zh": "M: 威尔逊女士，根据您账户上的记录，您提到的那个荒唐的技术细节，是指在事故发生前的那个月，您没有支付房屋保险费。"
+              },
+              {
+                "en": "W: That money left our account, and now that you should be paying out, you're suddenly saying that you didn't receive it on time. I'm really skeptical about this claim.",
+                "zh": "W: 那笔钱已经从我们的账户里扣走了，而现在到了你们该赔付的时候，你们却突然说没有及时收到这笔钱。我真的对这次理赔感到怀疑。"
+              },
+              {
+                "en": "M: The contract does say that any missed payment in a year will affect the terms and conditions of the insurance contract and may affect claims. Of course, I can pass you on to my manager to talk to you more about this.",
+                "zh": "M: 合同确实规定，一年中任何一次漏缴都会影响保险合同的条款和条件，并可能影响理赔。当然，我可以把电话转给我的经理，让他就此事与您进一步沟通。"
+              },
+              {
+                "en": "W: I've already spoken to him, and you can tell him I'm furious now, and that your company has a lawsuit on its hands. You will be hearing from my lawyer. Goodbye.",
+                "zh": "W: 我已经和他谈过了，你可以告诉他，我现在非常愤怒，而且你们公司马上就要面临一场诉讼了。你们会收到我律师的通知。再见。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They work in different fields of AI technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They disagree about the future of AI technology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They differ greatly in their knowledge of modern technology."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are both worried about the negative impact of technology."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Simply writing AI software."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Stimulating and motivating."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Less time-consuming and focusing on creation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More demanding and requiring special training."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "There could be jobs nobody wants to do."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Digital life could replace human civilization."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Humans would be tired of communicating with one another."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Old people would be taken care of solely by unfeeling robots."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Life will become like a science fiction film."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will take away humans' jobs altogether."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Chips will be inserted in human brains."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will be smarter than human beings."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: How do you feel about the future of artificial intelligence? Personally, I feel quite optimistic about it.",
+                "zh": "W: 你怎么看人工智能的未来？就我个人而言，我对此相当乐观。"
+              },
+              {
+                "en": "M: AI? I'm not so optimistic actually. In fact, it's something we should be concerned about.",
+                "zh": "M: 人工智能？其实我没那么乐观。事实上，这是我们应该担心的事情。"
+              },
+              {
+                "en": "W: Well, it will help us humans understand ourselves better. And, when we have a better understanding of ourselves, we can improve the world.",
+                "zh": "W: 嗯，它会帮助我们人类更好地了解自己。而当我们更了解自己时，就能改善这个世界。"
+              },
+              {
+                "en": "M: Well, one thing is for sure: Technology is evolving faster than our ability to understand it. And in the future, AI will make jobs kind of pointless.",
+                "zh": "M: 嗯，有一点是肯定的：科技发展的速度已经超过了我们理解它的能力。而在未来，人工智能会让工作变得有些毫无意义。"
+              },
+              {
+                "en": "W: I think artificial intelligence will actually help create new kinds of jobs, which would require less of our time and allow us to be centered on creative tasks.",
+                "zh": "W: 我认为人工智能实际上会帮助创造出新类型的工作，这些工作占用我们的时间会更少，也能让我们专注于创造性的任务。"
+              },
+              {
+                "en": "M: I doubt that very much. Probably the last job that will remain will be writing AI software. And then eventually, AI will just write its own software.",
+                "zh": "M: 我对此非常怀疑。可能最后会保留下来的工作就是编写人工智能软件。然后最终，人工智能会编写自己的软件。"
+              },
+              {
+                "en": "W: At that time, we're going to have a lot of jobs which nobody will want to do, so we'll need artificial intelligence for the robots to take care of the old guys, like us.",
+                "zh": "W: 到那时，我们会有很多没人愿意做的工作，所以我们需要人工智能让机器人来照顾老人，比如我们这样的老人。"
+              },
+              {
+                "en": "M: I don't know. There's a risk that human civilization could be replaced by a superior type of digital life. AI will be able to completely simulate a person in every way possible. In fact, some people think we are in the simulation, right now.",
+                "zh": "M: 我不知道。人类文明有可能被一种更高级的数字生命所取代。人工智能将能够以各种可能的方式完全模拟一个人。事实上，有些人认为我们现在就处在一个模拟世界里。"
+              },
+              {
+                "en": "W: That's impossible. Humans can't even make a mosquito. Computers only have chips. People have brains, and that's where the wisdom comes from.",
+                "zh": "W: 那不可能。人类甚至连一只蚊子都造不出来。计算机只有芯片，而人有大脑，智慧就来自那里。"
+              },
+              {
+                "en": "M: Once it's fully developed, AI will become tired of trying to communicate with humans, as we would be much slower thinkers in comparison.",
+                "zh": "M: 一旦人工智能得到充分发展，它就会厌倦尝试与人类交流，因为相比之下，我们的思维速度会慢得多。"
+              },
+              {
+                "en": "W: I'm not so sure. A computer is a computer, and a computer is just a toy.",
+                "zh": "W: 我不太确定。计算机就是计算机，而计算机只不过是个玩具。"
+              },
+              {
+                "en": "M: Computers can easily communicate incredibly fast, so the computer will just get impatient talking to humans. It will be barely getting any information out.",
+                "zh": "M: 计算机可以非常轻松地以极快的速度交流，所以计算机和人类交谈时只会变得不耐烦。它几乎得不到什么信息。"
+              },
+              {
+                "en": "W: Well, I believe there is a benevolent future with AI. I also think you watch too many science fiction films.",
+                "zh": "W: 嗯，我相信人工智能会带来一个美好的未来。我还觉得你看了太多科幻电影。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Restrain themselves from high-risk investments."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Save one-fifth of their net monthly income."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Invest shrewdly in lucrative businesses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Try to earn as much money as possible."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Start by doing something small."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ask a close friend for advice."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Try to stick to their initial plan."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cut 20% of their daily spending."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "An optimistic attitude."
+                  },
+                  {
+                    "l": "B",
+                    "t": "An ambitious plan."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A proper mindset."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A keen interest.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "To achieve financial security, how much you save is always more important than the amount you earn or how shrewdly you invest. If you are under 30 years old, your goal should be to save 20% of your monthly income after tax deductions. This is irrespective of how much you earn. Approximately 50% should be reserved for essentials like food and accommodation. The remaining 30% is for recreation and entertainment.",
+                "zh": "要实现财务安全，你储蓄的金额始终比你的收入多少或投资有多精明更为重要。如果你未满30岁，你的目标应当是在扣除税款后，将月收入的20%存下来。这与收入多少无关。大约50%应留作食物和住宿等基本生活开支。剩下的30%用于休闲和娱乐。"
+              },
+              {
+                "en": "But for many young people, it'll be difficult to designate such a large proportion of their income for savings. If you find it hard to save any money at all, start by cutting all unnecessary spending. Allocate a tiny amount of 1 or 2 percent for savings, and gradually increase that amount. Always keep that 20% goal in mind to prevent yourself from becoming complacent. It can be challenging to stick to such a strict plan, but if you adopt the right mindset, you should be able to make it work for you.",
+                "zh": "但是，对许多年轻人来说，将如此大比例的收入用于储蓄会很困难。如果你发现自己连一点钱都很难存下来，就先从削减所有不必要的开支开始。拿出一小部分收入，也就是1%或2%，用于储蓄，然后逐步提高这一比例。始终牢记20%的目标，以免自己变得安于现状。坚持这样严格的计划可能颇具挑战，但如果你采取正确的心态，就应该能够让它为你发挥作用。"
+              },
+              {
+                "en": "So, what should you be doing with the money that you're saving? Some must be kept easily accessible in case you need some cash in an emergency. The largest proportion should be invested in retirement plans, either through your employer or privately. And you can keep some money for high-risk but potentially lucrative investments. Dividends can be reinvested or used to purchase something you like. By following this plan, you should hopefully be able to enjoy your life now, and still be financially secure in the future.",
+                "zh": "那么，你应该如何使用正在储蓄的钱呢？其中一部分必须放在容易取用的地方，以备紧急情况下需要现金。最大的一部分应当投资于退休计划，可以通过雇主进行，也可以自行投资。你还可以留出一部分资金，用于高风险但可能带来丰厚收益的投资。股息可以再投资，也可以用来购买你喜欢的东西。遵循这一计划，你应该有望既享受当下的生活，又在未来保持财务安全。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She was uninterested in advertising."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She found her outfit inappropriate."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She was unhappy with fashion trends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She often checked herself in a mirror."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To save the trouble of choosing a unique outfit every day."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To meet the expectations of fashion-conscious clients."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To keep up with the current trends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To save the expenses on clothing."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It enhances people's ability to work independently."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It helps people succeed in whatever they are doing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It matters a lot in jobs involving interaction with others."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It boosts one's confidence when looking for employment."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Design their own uniform to appear unique."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Wear classic pieces to impress their clients."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fight the ever-changing trends in fashion."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Do whatever is possible to look smart."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I work in advertising and I like to keep up with current trends, mainly because I'm aware that we live in an image-obsessed world. However, when I first started my job, occasionally I'd catch a glimpse of myself in the lifts, and find myself thinking that I looked a total mess. Was I being held back by my choice of clothing? The short answer is yes, especially when clients are quick to judge you on your style rather than your work.",
+                "zh": "我从事广告行业，喜欢跟上当前的潮流，主要是因为我意识到我们生活在一个痴迷于外表的世界里。不过，刚开始工作时，我偶尔会在电梯里瞥见自己，然后发现自己觉得自己看起来一团糟。我的着装选择是否阻碍了我的发展？简短的答案是“是”，尤其是当客户很快就会根据你的风格而不是你的工作来评判你时。"
+              },
+              {
+                "en": "But no one can be unique with their outfit every day. I mean, that's why uniforms were invented. So, here's what I did. I created my own uniform. To do this, I chose an appropriate outfit. Then I bought multiple items of the same style in different shades. Now, I never worry about what I'm wearing in the morning even if I do get a bit tired of just wearing the same classic pieces.",
+                "zh": "但是，没有人能每天都穿出与众不同的服装。我的意思是，这就是制服被发明出来的原因。所以，我采取了这样的做法：我为自己设计了一套制服。为此，我选择了一套合适的服装，然后购买了多件不同色调的同款服饰。现在，我早上再也不用担心该穿什么了，尽管总是穿同样的经典款式确实会让我有些厌倦。"
+              },
+              {
+                "en": "Overall, when it comes to work, you have to ask yourself: will looking smarter enhance my ability to do my job? For some, this question may not be an issue at all. Especially if you work remotely and rarely see your colleagues or clients face to face. But if your job involves interacting with other people, the answer to this is often yes. So rather than fighting the system, I think we should just do whatever helps us to achieve our goals at work. If that means playing it safe with your image, then let's face it. It's probably worth it.",
+                "zh": "总的来说，说到工作，你必须问问自己：看起来更得体会增强我的工作能力吗？对有些人来说，这个问题根本不成问题，尤其是当你远程工作，很少与同事或客户面对面交流时。但如果你的工作需要与他人互动，答案通常是肯定的。所以，我认为，与其对抗这种规则，不如做一切有助于我们在工作中实现目标的事情。如果这意味着在外表上采取稳妥的做法，那我们就面对现实吧。这可能是值得的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their obsession with consumption."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their failure to accumulate wealth."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The ever-increasing costs of housing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The deterioration of the environment."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Things that are rare to find."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Things that cost less money."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Things that boost efficiency."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Things that we cherish most."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They serve multiple purposes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They benefit the environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are mostly durable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are easily disposable.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Did you know that Americans have approximately three times the amount of space we had 50 years ago? Therefore, you'd think we'd have sufficient room for all of our possessions. On the contrary, the personal storage business is now a growing industry. We've got triple the space, but we've become such enthusiastic consumers that we require even more. This phenomenon has resulted in significant credit card debt, enormous environmental footprints, and perhaps not coincidentally, our happiness levels have failed to increase over the same half century.",
+                "zh": "你知道吗，美国人如今拥有的空间大约是50年前的三倍。因此，你可能会认为，我们应该有足够的空间容纳所有个人物品。然而事实恰恰相反，个人储物业务如今正成为一个不断发展的行业。我们的空间增加了三倍，但我们已经成了如此热衷消费的人，以至于还需要更多空间。这一现象导致了严重的信用卡债务和巨大的环境足迹，而且或许并非巧合，在这半个世纪里，我们的幸福感并没有随之提升。"
+              },
+              {
+                "en": "I'm here to suggest an alternative: having less might actually be a preferable decision. Many of us have experienced, at some stage, the pleasure of possessing less. I propose that less stuff and less space can not only help you economize, but also simplify your life.",
+                "zh": "我想在此提出另一种选择：拥有更少的东西实际上可能是更好的决定。我们中的许多人都曾在人生的某个阶段体验过拥有更少物品所带来的快乐。我认为，减少物品和空间不仅能帮助你节省开支，还能简化你的生活。"
+              },
+              {
+                "en": "I recently started an innovative project to discover some creative solutions that offered me everything I required. By purchasing an apartment that was 40 square meters instead of 60, I immediately saved $200,000. Smaller space leads to reduced utility bills, and also a smaller carbon footprint. Because it is designed around an edited collection of possessions, limited to my favorite stuff, I'm really excited to live there.",
+                "zh": "最近，我启动了一个创新项目，旨在寻找一些能满足我全部需求的创意解决方案。我购买了一套40平方米而不是60平方米的公寓，立即节省了20万美元。空间更小意味着更低的水电费，也意味着更小的碳足迹。由于这套公寓是围绕一组经过筛选、仅限于我最喜爱物品的收藏来设计的，我非常期待住在那里。"
+              },
+              {
+                "en": "How can we live more basically? Firstly, we must ruthlessly cut the unnecessary objects out of our lives. To stem consumption, we should think before we buy, and ask ourselves, \"Will it truly make me happier?\" Obviously, we should possess some great stuff, but we want belongings that we're going to love for years.",
+                "zh": "我们怎样才能过得更加简朴？首先，我们必须毫不留情地从生活中剔除不必要的物品。为了遏制消费，我们应该在购买之前先思考，并问自己：“它真的会让我更快乐吗？”当然，我们应该拥有一些很棒的物品，但我们希望拥有的是那些我们会喜爱多年的东西。"
+              },
+              {
+                "en": "Secondly, we require space efficiency. We want appliances that are designed for use most of the time, not for occasional use. Why own a six-burner stove when you rarely use even three burners?",
+                "zh": "其次，我们需要提高空间利用效率。我们想要的是那些为大多数时间的使用而设计的电器，而不是只供偶尔使用的电器。既然你连三个炉头都很少同时使用，为什么还要拥有一台六炉头的炉灶呢？"
+              },
+              {
+                "en": "Finally, we need multifunctional spaces and housewares. I combined a movable wall with transforming furniture to get more out of my limited space. Consider my coffee table. It increases in size to accommodate ten. My office is tucked away, easily hidden. My bed simply pops out of the wall. For guests, I can relocate the movable wall and utilize the foldable guest beds I installed.",
+                "zh": "最后，我们需要多功能空间和家居用品。我把一面可移动的墙与可变形家具结合起来，以便更充分地利用有限的空间。以我的咖啡桌为例，它可以扩大，以容纳十个人。我的办公室收纳在隐蔽处，可以轻松藏起来。我的床只需从墙里弹出即可。来客人时，我可以移动那面墙，并使用我安装好的折叠式客床。"
+              },
+              {
+                "en": "I'm not saying we should all live in tiny apartments, but consider the benefits of an edited life. When you return home and walk through your front door, take a moment to ask yourselves, \"Could I do with a little life editing? Would that give me more freedom and more time?\"",
+                "zh": "我并不是说我们都应该住在小公寓里，但请想一想精简生活的好处。当你回到家，走过前门时，花一点时间问问自己：“我是否可以对生活做些删减？这样会不会让我拥有更多自由和时间？”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All respondents were afraid of making a high expense claim."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A number of respondents gave an average answer of 400 miles."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Over 10% of the respondents lied about the distance they drove."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Most of the respondents got compensated for driving 384 miles."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They responded to colleagues' suspicion."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They cared about other people's claims."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They wanted to protect their reputation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They endeavored to actually be honest."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They seem positive."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They seem intuitive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are illustrative."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are conclusive.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Now, believe it or not, people sometimes lie in order to maintain a good, honest reputation—even if it hurts them to do so. At least, this is what a team of scientists is suggesting, with evidence to prove it.",
+                "zh": "信不信由你，人们有时会为了维护良好、诚实的声誉而撒谎，即使这样做会让他们蒙受损失。至少，一组科学家提出了这一观点，并且有证据支持他们的说法。"
+              },
+              {
+                "en": "Picture this scenario: You often drive for work and can be compensated for up to 400 miles per month. Most people at your company drive about 300 miles each month. But this month, you drove 400 miles. How many miles do you think you'd claim in your expense report?",
+                "zh": "设想一下这种情形：你经常因工作需要开车，每月最多可以报销400英里的里程。你所在公司的大多数人每月开车约300英里。但这个月，你开了400英里。你认为自己会在费用报销单上申报多少英里？"
+              },
+              {
+                "en": "The scientists asked this exact question as part of the study we're discussing today. With surprising results, they found that 12% of respondents reported the distance they drove as less than the actual figure, giving an average answer of 384 miles. In other words, they lied about the number of miles, even though they would forfeit money they were owed.",
+                "zh": "作为我们今天要讨论的这项研究的一部分，科学家们提出了这个一模一样的问题。结果令人惊讶：他们发现，12%的受访者报告的驾驶距离低于实际数值，平均回答为384英里。换句话说，他们谎报了驾驶里程，尽管这意味着他们会放弃本应得到的钱。"
+              },
+              {
+                "en": "The researchers believe this was to seem honest, with the assumption being that others would be suspicious of a high expense claim. But why would people fabricate numbers to their own detriment? The researchers explain that many people care a great deal about their reputation and how they'll be judged by others. If they care enough, their concern about appearing honest and not losing the respect of others may be greater than their desire to actually be honest.",
+                "zh": "研究人员认为，这样做是为了显得诚实，因为他们假定别人会对高额费用申报产生怀疑。但人们为什么要捏造数字，让自己蒙受损失呢？研究人员解释说，许多人非常在意自己的声誉，以及别人会如何评价自己。如果这种在意程度足够高，那么他们对显得诚实以及不失去他人尊重的担忧，可能会超过他们真正做到诚实的愿望。"
+              },
+              {
+                "en": "The researchers assert that the findings suggest that when people obtain very favorable outcomes, they anticipate other people's suspicious reactions and prefer lying and appearing honest to telling the truth and appearing as selfish liars.",
+                "zh": "研究人员断言，这些研究结果表明，当人们获得非常有利的结果时，他们会预料到他人产生怀疑的反应，并且更愿意撒谎、装作诚实，也不愿意说出真相、显得像自私的骗子。"
+              },
+              {
+                "en": "So why is this research important? Well, experts generally agree there are two main types of lie-selfish lies and lies that are meant to benefit others. The first, as you may predict, is for selfish gain, such as submitting a fraudulent claim to an insurance company, while the second involves lying to help others or not offend others, for example, telling a friend whose outfit you don't like that they look great.",
+                "zh": "那么，这项研究为什么重要呢？一般来说，专家们认为谎言主要有两种类型：自私的谎言，以及旨在让他人受益的谎言。第一种，正如你可能预料的那样，是为了谋取私利，例如向保险公司提交欺诈性索赔；第二种则是为了帮助他人或不冒犯他人而撒谎，例如告诉一个你不喜欢其穿着的朋友，他们看起来很棒。"
+              },
+              {
+                "en": "But the researchers are suggesting a third type of lying—lying to maintain a good reputation. Now this hypothesis is new and some skeptics argue that this isn't a whole new category of lie.",
+                "zh": "但研究人员提出了第三种撒谎类型，即为了维护良好声誉而撒谎。这个假设是新的，一些怀疑论者认为，这并不是一种全新的谎言类别。"
+              },
+              {
+                "en": "But the findings seem intuitive to me. After all, one of the main motivations for lying is to increase our worth in the eyes of others. So it seems highly likely that people will lie to seem honest.",
+                "zh": "但在我看来，这些研究结果似乎很符合直觉。毕竟，撒谎的主要动机之一，就是提升自己在他人眼中的价值。因此，人们很可能会为了显得诚实而撒谎。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Deterioration in the quality of new music."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Insights into the features of good music."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Older people's changing musical tastes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Older people's aversion to new music."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They no longer listen to new music."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They find all music sounds the same."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can make subtle distinctions about music."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They seldom listen to songs released in their teens."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The more you are exposed to something, the more familiar it'll be to you."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The more you are exposed to something, the deeper you'll understand it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The more you experience something, the longer you'll remember it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The more you experience something, the better you'll appreciate it."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Teenagers' memories are more lasting."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Teenagers' emotions are more intense."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Teenagers are much more sensitive."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Teenagers are much more sentimental."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Why do old people dislike new music? As I've grown older, I often hear people my age say things like \"They just don't make good music like they used to\". Why does this happen? Luckily, psychology can give us some insights into this puzzle. Musical tastes begin to crystallize as early as age 13 or 14. By the time we're in our early 20s, these tastes get locked into place pretty firmly.",
+                "zh": "为什么老年人不喜欢新音乐？随着年龄增长，我经常听到和我年龄相仿的人说：“现在的音乐就是没有过去的好听。”为什么会这样？幸运的是，心理学可以为这个谜题提供一些见解。音乐品味早在十三四岁时就开始逐渐定型。到了二十岁出头，这些品味通常已经相当牢固地固定下来。"
+              },
+              {
+                "en": "In fact, studies have found that by the time we turn 33, most of us have stopped listening to new music. Meanwhile, popular songs released when you're in your early teens are likely to remain quite popular among your age group through the rest of your life.",
+                "zh": "事实上，研究发现，到我们三十三岁时，大多数人已经不再听新音乐了。与此同时，在你十几岁早期发行的流行歌曲，很可能会在你的年龄群体中一直保持相当高的人气，直至你一生的余下时光。"
+              },
+              {
+                "en": "There could be a biological explanation for this, as there's evidence that the brain's ability to make subtle distinctions between different chords, rhythms and melodies deteriorates with age. So to older people, newer, less familiar songs might all \"sound the same\".",
+                "zh": "对此可能存在一种生物学上的解释，因为有证据表明，随着年龄增长，大脑区分不同和弦、节奏和旋律之间细微差别的能力会逐渐衰退。因此，对老年人来说，较新且不太熟悉的歌曲可能听起来都“一个样”。"
+              },
+              {
+                "en": "But there may be some simpler reasons for older people's aversion to newer music. One of the most researched laws of social psychology is something called the \"mere exposure effect\", which, in essence, means that the more we're exposed to something, the more we tend to like it. This happens with people we know, the advertisements we see and the songs we listen to.",
+                "zh": "但老年人排斥新音乐也可能有一些更简单的原因。社会心理学中研究最充分的规律之一被称为“纯粹接触效应”，其本质是，我们接触某种事物越多，就越倾向于喜欢它。我们对熟悉的人、所看到的广告以及所听的歌曲，都会产生这种效应。"
+              },
+              {
+                "en": "When you're in your early teens, you probably spend a fair amount of time listening to music or watching music videos. Your favorite songs and artists become familiar, comforting parts of your routine.",
+                "zh": "十几岁早期时，你可能会花相当多的时间听音乐或看音乐视频。你喜欢的歌曲和音乐人会逐渐成为日常生活中熟悉而令人感到安心的一部分。"
+              },
+              {
+                "en": "For many people over 30, job and family obligations increase, so there's less time to spend discovering new music. Instead, many will simply listen to old, familiar favorites from that period of their lives when they had more free time.",
+                "zh": "对许多三十岁以上的人来说，工作和家庭责任增加了，因此用于发现新音乐的时间减少了。相反，许多人会一直听那些熟悉的老歌，那些歌曲来自他们人生中拥有更多空闲时间的时期。"
+              },
+              {
+                "en": "Of course, those teen years weren't necessarily carefree. They're famously confusing, which is why so many TV shows and movies revolve around high school turmoil.",
+                "zh": "当然，青少年时期并不一定无忧无虑。这个阶段出了名地充满困惑，这也是为什么那么多电视节目和电影都围绕高中生活中的动荡展开。"
+              },
+              {
+                "en": "Psychology research has shown that the emotions that we experience as teens seem more intense than those that come later. And we also know that intense emotions are associated with stronger memories and preferences. Both of these might explain why the songs we listen to during this period become so memorable and beloved.",
+                "zh": "心理学研究表明，我们在青少年时期体验到的情绪似乎比后来经历的情绪更加强烈。我们也知道，强烈的情绪与更深刻的记忆和更强烈的偏好有关。这两点都可能解释了为什么我们在这一时期听过的歌曲会变得如此令人难忘，并深受喜爱。"
+              },
+              {
+                "en": "So there's nothing wrong with your parents because they don't like your music. Rather it's all part of the natural order of things.",
+                "zh": "所以，你的父母不喜欢你听的音乐，并不意味着他们有什么问题。这只是事物自然规律的一部分。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The idea of taxing things that are bad for society has a powerful allure. It offers the possibility of a double benefit—"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "harmful activities, while also providing the government with revenue. Take sin taxes. Taxes on alcohol make it more expensive to get drunk, which reduces excessive drinking and"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "driving. At the same time, they provide state and local governments with billions of dollars of revenue. Tobacco taxes, which generate more than twice as much, have proven"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "in the decline of smoking, which has saved millions of lives. Taxes can also be an important tool for environmental protection, and many economists say taxing carbon would be the best way to reduce greenhouse gas emissions. Economic theory says that unlike income or sales taxes, carbon taxes can actually increase economic efficiency; because companies that"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "carbon dioxide into the sky don't pay the costs of the climate change they cause, carbon taxes would restore the proper"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "to the market. In reality, carbon taxes alone won't be enough to halt global warming, but they would be a useful part of any climate plan. What's more, the revenue from this tax, which would"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "be hundreds of billions of dollars per year, could be handed out to citizens as a"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "or used to fund green infrastructure projects. Similarly, a wealth tax has been put forward as a way to reduce inequality while raising revenue. The revenue from this tax, which some experts"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "will be over $4 trillion per decade, would be designated for housing, child care, health care and other government benefits. If you believe, as many do, that wealth inequality is"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "bad, then these taxes improve society while also"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "government coffers(金库)."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "discouraging"
+        },
+        {
+          "l": "B",
+          "w": "dividend"
+        },
+        {
+          "l": "C",
+          "w": "emotional"
+        },
+        {
+          "l": "D",
+          "w": "fragments"
+        },
+        {
+          "l": "E",
+          "w": "impaired"
+        },
+        {
+          "l": "F",
+          "w": "imprisoned"
+        },
+        {
+          "l": "G",
+          "w": "incentives"
+        },
+        {
+          "l": "H",
+          "w": "inherently"
+        },
+        {
+          "l": "I",
+          "w": "initially"
+        },
+        {
+          "l": "J",
+          "w": "instrumental"
+        },
+        {
+          "l": "K",
+          "w": "merging"
+        },
+        {
+          "l": "L",
+          "w": "predict"
+        },
+        {
+          "l": "M",
+          "w": "probably"
+        },
+        {
+          "l": "N",
+          "w": "pump"
+        },
+        {
+          "l": "O",
+          "w": "swelling"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "A"
+        },
+        {
+          "n": 27,
+          "a": "E"
+        },
+        {
+          "n": 28,
+          "a": "J"
+        },
+        {
+          "n": 29,
+          "a": "N"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "M"
+        },
+        {
+          "n": 32,
+          "a": "B"
+        },
+        {
+          "n": 33,
+          "a": "L"
+        },
+        {
+          "n": 34,
+          "a": "H"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The Challenges for Artificial Intelligence in Agriculture",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "A group of corn farmers stands huddled around an agronomist(农学家) and his computer on the side of an irrigation machine in central South Africa. The agronomist has just flown over the field with a hybrid unmanned aerial vehicle (UAV) that takes off and lands using propellers yet maintains distance and speed for scanning vast hectares of land through the use of its fixed wings."
+        },
+        {
+          "l": "B",
+          "t": "The UAV is fitted with a four spectral band precision sensor that conducts onboard processing immediately after the flight, allowing farmers and field staff to address, almost immediately, any crop abnormalities that the sensor may have recorded, making the data collection truly real-time."
+        },
+        {
+          "l": "C",
+          "t": "In this instance, the farmers and agronomist are looking to specialized software to give them an accurate plant population count. It's been 10 days since the corn emerged and the farmer wants to determine if there are any parts of the field that require replanting due to a lack of emergence or wind damage, which can be severe in the early stages of the summer rainy season."
+        },
+        {
+          "l": "D",
+          "t": "At this growth stage of the plant's development, the farmer has another 10 days to conduct any replanting before the majority of his fertilizer and chemical applications need to occur. Once these have been applied, it becomes economically unviable to take corrective action, making any further collected data historical and useful only to inform future practices for the season to come."
+        },
+        {
+          "l": "E",
+          "t": "The software completes its processing in under 15 minutes producing a plant population count map. It's difficult to grasp just how impressive this is, without understanding that just over a year ago it would have taken three to five days to process the exact same data set, illustrating the advancements that have been achieved in precision agriculture and remote sensing in recent years. With the software having been developed in the United States on the same variety of crops in seemingly similar conditions, the agronomist feels confident that the software will produce a nearly accurate result."
+        },
+        {
+          "l": "F",
+          "t": "As the map appears on the screen, the agronomist's face begins to drop. Having walked through the planted rows before the flight to gain a physical understanding of the situation on the ground, he knows the instant he sees the data on his screen that the plant count is not correct, and so do the farmers, even with their limited understanding of how to read remote sensing maps."
+        },
+        {
+          "l": "G",
+          "t": "Hypothetically, it is possible for machines to learn to solve any problem on earth relating to the physical interaction of all things within a defined or contained environment by using artificial intelligence and machine learning."
+        },
+        {
+          "l": "H",
+          "t": "Remote sensors enable algorithms( 算法) to interpret a field's environment as statistical data that can be understood and useful to farmers for decision-making. Algorithms process the data, adapting and learning based on the data received. The more inputs and statistical information collected, the better the algorithm will be at predicting a range of outcomes. And the aim is that farmers can use this artificial intelligence to achieve their goal of a better harvest through making better decisions in the field."
+        },
+        {
+          "l": "I",
+          "t": "In 2011, IBM, through its R&D Headquarters in Haifa, Israel, launched an agricultural cloud-computing project. The project, in collaboration with a number of specialized IT and agricultural partners, had one goal in mind—to take a variety of academic and physical data sources from an agricultural environment and turn these into automatic predictive solutions for farmers that would assist them in making real-time decisions in the field."
+        },
+        {
+          "l": "J",
+          "t": "Interviews with some of the IBM project team members at the time revealed that the team believed it was entirely possible to \"algorithm\" agriculture, meaning that algorithms could solve any problem in the world. Earlier that year, IBM's cognitive learning system, Watson, competed in the game Jeopardy against former winners Brad Rutter and Ken Jennings with astonishing results. Several years later, Watson went on to produce ground-breaking achievements in the field of medicine."
+        },
+        {
+          "l": "K",
+          "t": "So why did the project have such success in medicine but not agriculture? Because it is one of the most difficult fields to contain for the purpose of statistical quantification. Even within a single field, conditions are always changing from one section to the next. There's unpredictable weather, changes in soil quality, and the ever-present possibility that pests and diseases may pay a visit. Growers may feel their prospects are good for an upcoming harvest, but until that day arrives, the outcome will always be uncertain."
+        },
+        {
+          "l": "L",
+          "t": "By comparison, our bodies are a contained environment. Agriculture takes place in nature, among ecosystems of interacting organisms and activity, and crop production takes place within that ecosystem environment. But these ecosystems are not contained. They are subject to climatic occurrences such as weather systems, which impact upon hemispheres as a whole, and from continent to continent. Therefore, understanding how to manage an agricultural environment means taking literally many hundreds if not thousands of factors into account."
+        },
+        {
+          "l": "M",
+          "t": "What may occur with the same seed and fertilizer program in the United States' Midwest region is almost certainly unrelated to what may occur with the same seed and fertilizer program in Australia or South Africa. A few factors that could impact on variation would typically include the measurement of rain per unit of a crop planted, soil type, patterns of soil degradation, daylight hours, temperature and so forth."
+        },
+        {
+          "l": "N",
+          "t": "So the problem with deploying machine learning and artificial intelligence in agriculture is not that scientists lack the capacity to develop programs and protocols to begin to address the biggest of growers' concerns; the problem is that in most cases, no two environments will be exactly alike, which makes the testing, validation and successful rollout of such technologies much more laborious than in most other industries."
+        },
+        {
+          "l": "O",
+          "t": "Practically, to say that AI and Machine Learning can be developed to solve all problems related to our physical environment is to basically say that we have a complete understanding of all aspects of the interaction of physical or material activity on the planet. After all, it is only through our understanding of \"the nature of things\" that protocols and processes are designed for the rational capabilities of cognitive systems to take place. And, although AI and Machine Learning are teaching us many things about how to understand our environment, we are still far from being able to predict critical outcomes in fields like agriculture purely through the cognitive ability of machines."
+        },
+        {
+          "l": "P",
+          "t": "Backed by the venture capital community, which is now investing billions of dollars in the sector, most agricultural technology startups today are pushed to complete development as quickly as possible and then encouraged to flood the market as quickly as possible with their products."
+        },
+        {
+          "l": "Q",
+          "t": "This usually results in a failure of a product, which leads to skepticism from the market and delivers a blow to the integrity of Machine Learning technology. In most cases, the problem is not that the technology does not work, the problem is that industry has not taken the time to respect that agriculture is one of the most uncontained environments to manage. For technology to truly make an impact on agriculture, more effort, skills, and funding is needed to test these technologies in farmers' fields."
+        },
+        {
+          "l": "R",
+          "t": "There is huge potential for artificial intelligence and machine learning to revolutionize agriculture by integrating these technologies into critical markets on a global scale. Only then can it make a difference to the grower, where it really counts."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Farmers will not profit from replanting once they have applied most of the fertilizer and other chemicals to their fields.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "Agriculture differs from the medical science of the human body in that its environment is not a contained one.",
+          "a": "L"
+        },
+        {
+          "n": 38,
+          "s": "The agronomist is sure that he will obtain a nearly accurate count of plant population with his software.",
+          "a": "E"
+        },
+        {
+          "n": 39,
+          "s": "The application of artificial intelligence to agriculture is much more challenging than to most other industries.",
+          "a": "N"
+        },
+        {
+          "n": 40,
+          "s": "Even the farmers know the data provided by the UAV is not correct.",
+          "a": "F"
+        },
+        {
+          "n": 41,
+          "s": "The pressure for quick results leads to product failure, which, in turn, arouses doubts about the applicability of AI technology to agriculture.",
+          "a": "Q"
+        },
+        {
+          "n": 42,
+          "s": "Remote sensors are aimed to help farmers improve decision-making to increase yields.",
+          "a": "H"
+        },
+        {
+          "n": 43,
+          "s": "The farmer expects the software to tell him whether he will have to replant any parts of his farm fields.",
+          "a": "C"
+        },
+        {
+          "n": 44,
+          "s": "Agriculture proves very difficult to quantify because of the constantly changing conditions involved.",
+          "a": "K"
+        },
+        {
+          "n": 45,
+          "s": "The same seed and fertilizer program may yield completely different outcomes in different places.",
+          "a": "M"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "What is the place of art in a culture of inattention? Recent visitors to the Louvre report that tourists can now spend only a minute in front of the Mona Lisa before being asked to move on. Much of that time, for some of them, is spent taking photographs not even of the painting but of themselves with the painting in the background. One view is that we have democratised tourism and gallery-going so much that we have made it effectively impossible to appreciate what we've travelled to see. In this oversubscribed society, experience becomes a commodity like any other. There are queues to climb Mt. Jolmo Lungma as well as to see famous paintings. Leisure, thus conceived, is hard labour, and returning to work becomes a well-earned break from the ordeal. What gets lost in this industrialised haste is the quality of looking. Consider an extreme example, the late philosopher Richard Wollheim. When he visited the Louvre he could spend as much as four hours sitting before a painting. The first hour, he claimed, was necessary for misperceptions to be eliminated. It was only then that the picture would begin to disclose itself. This seems unthinkable today, but it is still possible to organise. Even in the busiest museums there are many rooms and many pictures worth hours of contemplation which the crowds largely ignore. Sometimes the largest crowds are partly the products of bad management; the Mona Lisa is such a hurried experience today partly because the museum is being reorganised. The Uffizi in Florence, another site of cultural pilgrimage, has cut its entry queues down to seven minutes by clever management. And there are some forms of art, those designed to be spectacles as well as objects of contemplation, which can work perfectly well in the face of huge crowds. Olafur Eliasson's current Tate Modern show, for instance, might seem nothing more than an entertainment, overrun as it is with kids romping(喧闹地玩耍) in fog rooms and spray mist installations. But it's more than that: where Eliasson is at his most entertaining, he is at his most serious too, and his disorienting installations bring home the reality of the destructive effects we are having on the planet—not least what we are doing to the glaciers of Eliasson's beloved Iceland. Marcel Proust, another lover of the Louvre, wrote: \"It is only through art that we can escape from ourselves and know how another person sees the universe, whose landscapes would otherwise have remained as unknown as any on the moon.\" If any art remains worth seeing, it must lead us to such escapes. But a minute in front of a painting in a hurried crowd won't do that.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the scene at the Louvre demonstrate according to the author?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The enormous appeal of a great piece of artistic work to tourists."
+              },
+              {
+                "l": "B",
+                "t": "The near impossibility of appreciating art in an age of mass tourism."
+              },
+              {
+                "l": "C",
+                "t": "The ever-growing commercial value of long-cherished artistic works."
+              },
+              {
+                "l": "D",
+                "t": "The real difficulty in getting a glimpse at a masterpiece amid a crowd."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "Why did the late philosopher Richard Wollheim spend four hours before a picture?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It takes time to appreciate a piece of art fully."
+              },
+              {
+                "l": "B",
+                "t": "It is quite common to misinterpret artistic works."
+              },
+              {
+                "l": "C",
+                "t": "The longer people contemplate a picture, the more likely they will enjoy it."
+              },
+              {
+                "l": "D",
+                "t": "The more time one spends before a painting, the more valuable one finds it."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What does the case of the Uffizi in Florence show?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Art works in museums should be better taken care of."
+              },
+              {
+                "l": "B",
+                "t": "Sites of cultural pilgrimage are always flooded with visitors."
+              },
+              {
+                "l": "C",
+                "t": "Good management is key to handling large crowds of visitors."
+              },
+              {
+                "l": "D",
+                "t": "Large crowds of visitors cause management problems for museums."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What do we learn from Olafur Eliasson's current Tate Modern show?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Children learn to appreciate art works most effectively while they are playing."
+              },
+              {
+                "l": "B",
+                "t": "It is possible to combine entertainment with appreciation of serious art."
+              },
+              {
+                "l": "C",
+                "t": "Art works about the environment appeal most to young children."
+              },
+              {
+                "l": "D",
+                "t": "Some forms of art can accommodate huge crowds of visitors."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What can art do according to Marcel Proust?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Enable us to live a much fuller life."
+              },
+              {
+                "l": "B",
+                "t": "Allow us to escape the harsh reality."
+              },
+              {
+                "l": "C",
+                "t": "Help us to see the world from a different perspective."
+              },
+              {
+                "l": "D",
+                "t": "Urge us to explore the unknown domain of the universe."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Every five years, the government tries to tell Americans what to put in their bellies. Eat more vegetables. Dial back the fats. It's all based on the best available science for leading a healthy life. But the best available science also has a lot to say about what those food choices do to the environment, and some researchers are annoyed that new dietary recommendations of the USDA (United States Department of Agriculture) released yesterday seem to utterly ignore that fact. Broadly, the 2016–2020 dietary recommendations aim for balance: More vegetables, leaner meats and far less sugar. But Americans consume more calories per capita than almost any other country in the world. So the things Americans eat have a huge impact on climate change. Soil tilling releases carbon dioxide, and delivery vehicles emit exhaust. The government's dietary guidelines could have done a lot to lower that climate cost. Not just because of their position of authority: The guidelines drive billions of dollars of food production through federal programs like school lunches and nutrition assistance for the needy. On its own, plant and animal agriculture contributes 9 percent of all the country's greenhouse gas emissions. That's not counting the fuel burned in transportation, processing, refrigeration, and other waypoints between farm and belly. Red meats are among the biggest and most notorious emitters, but trucking a salad from California to Minnesota in January also carries a significant burden. And greenhouse gas emissions aren't the whole story. Food production is the largest user of fresh water, largest contributor to the loss of biodiversity, and a major contributor to using up natural resources. All of these points and more showed up in the Dietary Guidelines Advisory Committee's scientific report, released last February. Miriam Nelson chaired the subcommittee in charge of sustainability for the report, and is disappointed that eating less meat and buying local food aren't in the final product. \"Especially if you consider that eating less meat, especially red and processed, has health benefits,\" she says. So what happened? The official response is that sustainability falls too far outside the guidelines' official scope, which is to provide \"nutritional and dietary information.\" Possibly the agencies in charge of drafting the decisions are too close to the industries they are supposed to regulate. On one hand, the USDA is compiling dietary advice. On the other, their clients are US agriculture companies. The line about keeping the guidelines' scope to nutrition and diet doesn't ring quite right with researchers. David Wallinga, for example, says, \"In previous guidelines, they've always been concerned with things like food security—which is presumably the mission of the USDA. You absolutely need to be worried about climate impacts and future sustainability if you want secure food in the future.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "Why are some researchers irritated at the USDA's 2016-2020 Dietary Guidelines?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It ignores the harmful effect of red meat and processed food on health."
+              },
+              {
+                "l": "B",
+                "t": "Too much emphasis is given to eating less meat and buying local food."
+              },
+              {
+                "l": "C",
+                "t": "The dietary recommendations are not based on medical science."
+              },
+              {
+                "l": "D",
+                "t": "It takes no notice of the potential impact on the environment."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "Why does the author say the USDA could have contributed a lot to lowering the climate cost through its\n dietary guidelines?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has the capacity and the financial resources to do so."
+              },
+              {
+                "l": "B",
+                "t": "Its researchers have already submitted relevant proposals."
+              },
+              {
+                "l": "C",
+                "t": "Its agencies in charge of drafting the guidelines have the expertise."
+              },
+              {
+                "l": "D",
+                "t": "It can raise students' environmental awareness through its programs."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What do we learn from the Dietary Guidelines Advisory Committee's scientific report?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Food is easily contaminated from farm to belly."
+              },
+              {
+                "l": "B",
+                "t": "Greenhouse effect is an issue still under debate."
+              },
+              {
+                "l": "C",
+                "t": "Modern agriculture has increased food diversity."
+              },
+              {
+                "l": "D",
+                "t": "Farming consumes most of our natural resources."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What may account for the neglect of sustainability in the USDA's Dietary Guidelines according to the\n author?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its exclusive concern with Americans' food safety."
+              },
+              {
+                "l": "B",
+                "t": "Its sole responsibility for providing dietary advice."
+              },
+              {
+                "l": "C",
+                "t": "Its close ties with the agriculture companies."
+              },
+              {
+                "l": "D",
+                "t": "Its alleged failure to regulate the industries."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What should the USDA do to achieve food security according to David Wallinga?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Give top priority to things like nutrition and food security."
+              },
+              {
+                "l": "B",
+                "t": "Endeavor to ensure the sustainable development of agriculture."
+              },
+              {
+                "l": "C",
+                "t": "Fulfill its mission by closely cooperating with the industries."
+              },
+              {
+                "l": "D",
+                "t": "Study the long-term impact of climate change on food production."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "青藏铁路是世界上最高最长的高原铁路，全长1 956公里，其中有960公里在海拔4 000多米之上，是连接 西藏和中国其他地区的第一条铁路。由于铁路穿越世界上最脆弱的生态系统， 在建设期间和建成后都采取了 生态保护措施，以确保其成为一条\"绿色铁路\"。青藏铁路大大缩短了中国内地与西藏之间的旅行时间。更重要 的是，它极大地促进了西藏的经济发展，改善了当地居民的生活。铁路开通后，愈来愈多的人选择乘火车前往 西藏，这样还有机会欣赏沿线的美景。",
+    "reference": "The Qinghai-Tibet Railway is the highest and longest plateau railway in the world, with a total length of 1,956 kilometers, of which 960 kilometers lie at an altitude of over 4,000 meters. It is also the first railway connecting Tibet with the other regions of China. Since the railway runs through the most fragile ecosystem in the world, ecological protection measures were taken both during and after its construction to ensure that it would become a \"green railway\". The Qinghai-Tibet Railway has greatly shortened the travel time between mainland China and Tibet. More importantly, it has greatly promoted the economic development of Tibet and improved the lives of local residents. After the railway was opened, more and more people choose to travel to Tibet by train, which also gives them a chance to enjoy the beautiful scenery along the way."
+  }
+}

@@ -1,0 +1,1373 @@
+{
+  "id": "cet6-2015-6-2",
+  "level": "cet6",
+  "year": 2015,
+  "month": 6,
+  "set": 2,
+  "title": "2015年6月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on Albert Einstein’s remark “ I have no special talents. I am only passionately curious.” You can give an example or two to illustrate your point of view.You should write at least 150 words but no more than 200 words.",
+    "sample": "\"I have no special talents. I am only passionately curious.\" With these modest words, Albert Einstein attributes his extraordinary achievements not to inborn genius but to an unquenchable curiosity. I firmly agree: a burning desire to ask \"why\" is what truly powers human progress.Curiosity turns ordinary effort into discovery because it keeps us questioning what others take for granted. Einstein himself is the best proof: he was no prodigy at school, yet his childlike wonder about light and time drove him to puzzle for years over problems that others ignored, and this persistence eventually reshaped modern physics. On a far smaller scale, I have felt the same force. Fascinated by how mobile apps actually work, I taught myself to code late at night, not for grades but simply to satisfy my curiosity, and that habit gradually grew into a real skill.Therefore, talent may open a door, but it is curiosity that pushes us through it. If we keep our sense of wonder alive, even ordinary people can achieve remarkable things."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Providing aid to the disabled."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Selling products made for left-handers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Promoting products for manufacturers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Printing labels for manufactured goods."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About half of them are unavailable on the market."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The kitchenware in his shop is of unique design."
+                  },
+                  {
+                    "l": "C",
+                    "t": "All of them are manufactured in his own plant."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Most of them are specially made for his shop."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the man who is talking that set up the business."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There was more competition in the business about 30 years ago."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There are more left-handed products on the market now."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People in the business should run stores to sell products."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They specialise in one product only."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have outlets throughout Britain."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They run chain stores in central London."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They sell by mail order only.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Now, could you tell me where the idea for the business first came from?",
+                "zh": "W: 现在，您能告诉我，这项业务最初的想法是从何而来的吗？"
+              },
+              {
+                "en": "M: Well, the original shop was opened by a retired printer by the name of Gruby. Mr. Gruby, being left-handed himself, thought of the idea to try and promote a few products for left-handers.",
+                "zh": "M: 最初的店是由一位名叫 Gruby 的退休印刷工开办的。Gruby 先生自己是左撇子，于是想到了一个主意，试着推广一些适合左撇子使用的产品。"
+              },
+              {
+                "en": "W: And how did he then go about actually setting up the business?",
+                "zh": "W: 那么，他后来是如何着手创办这项业务的呢？"
+              },
+              {
+                "en": "M: Well, he looked for any left-handed products that might already be on the market, which were very few, and then contacted the manufacturers with the idea of having products produced for him, mainly in the scissor range to start with.",
+                "zh": "M: 他先寻找市场上已经有的适合左撇子使用的产品，但这样的产品非常少。然后，他联系生产商，希望由他们为自己生产产品，起初主要是剪刀类产品。"
+              },
+              {
+                "en": "W: Right. So you do commission some part of your stock.",
+                "zh": "W: 明白了。所以，你们有一部分库存是委托定制的。"
+              },
+              {
+                "en": "M: Yes, very much so. About 75 percent of our stock is specially made for us.",
+                "zh": "M: 是的，确实如此。我们大约百分之七十五的库存都是专门为我们定制的。"
+              },
+              {
+                "en": "W: And the rest of it?",
+                "zh": "W: 那剩下的呢？"
+              },
+              {
+                "en": "M: Hmm, the rest of it now, some 25, 30 years after Mr. Gruby's initial efforts, there are more left-handed products actually on the market. Manufacturers are now beginning to see that there is a market for left-handed products.",
+                "zh": "M: 嗯，距离 Gruby 先生最初尝试已经过去了二十五到三十年，现在市场上实际上有了更多适合左撇子使用的产品。生产商也开始意识到，适合左撇子使用的产品是有市场的。"
+              },
+              {
+                "en": "W: And what's the range of your stock?",
+                "zh": "W: 你们的库存品种有哪些？"
+              },
+              {
+                "en": "M: The range consists of a variety of scissors, from children scissors to scissors for tailors, hairdressers, etc. We also have a large range of kitchenware.",
+                "zh": "M: 品种包括各种剪刀，从儿童剪刀到裁缝、理发师等使用的剪刀。我们还有种类繁多的厨房用品。"
+              },
+              {
+                "en": "W: What's the competition like? Do you have quite a lot of competition?",
+                "zh": "W: 竞争情况怎么样？你们的竞争对手多吗？"
+              },
+              {
+                "en": "M: There are other people in the business now as specialists, but only as mail order outlets. But we have a shop here in central London plus a mail order outlet. And we are without any doubt the largest supplier of left-handed items.",
+                "zh": "M: 现在也有其他人专门从事这项业务，但他们只有邮购渠道。而我们在伦敦市中心有一家实体店，同时也提供邮购服务。毫无疑问，我们是左撇子用品最大的供应商。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It publishes magazines."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is engaged in product design."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It sponsors trade fairs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It runs sales promotion campaigns."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The woman's company failed to make payments in time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The ad specifications had not been given in detail."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The woman's company made last-minute changes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Organising the promotion was really time-consuming."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Run another four-week campaign."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Give her a 10 percent discount."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Extend the campaign to next year."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cut the fee by half for this year."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Calm down and make peace."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Improve their promotion plans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Stop negotiating for the time being."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Reflect on their respective mistakes."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Can we make you an offer? We would like to run the campaign for four extra weeks.",
+                "zh": "M: 我们能给你们一个方案吗？我们希望把这次活动延长四周。"
+              },
+              {
+                "en": "W: Well, can we summarise the problem from my point of view? First of all, the campaign was late. It missed two important trade fairs. The ads also did not appear in two key magazines. As a result, the campaign failed. Do you accept that summary of what happened?",
+                "zh": "W: 好吧，我们能不能先从我的角度总结一下这个问题？首先，这次活动延期了，错过了两个重要的贸易展会。广告也没有刊登在两本重要的杂志上。因此，这次活动失败了。你们接受我对事情经过的这个总结吗？"
+              },
+              {
+                "en": "M: Well, the delay wasn't entirely our fault. You did in fact make late changes to the specifications of the advertisements.",
+                "zh": "M: 嗯，这次延误不能完全怪我们。事实上，是你们晚些时候修改了广告的规格要求。"
+              },
+              {
+                "en": "W: Um, actually, you were late with the initial proposals so you have very little time and in fact, we only asked for small changes.",
+                "zh": "W: 嗯，其实是你们最初提交方案晚了，所以你们的时间非常紧。事实上，我们只要求做一些小改动。"
+              },
+              {
+                "en": "M: Well, whatever. Can we repeat our offer to run the campaign for four extra weeks?",
+                "zh": "M: 好吧，随便吧。我们能不能重申我们的提议，把这次活动延长四周？"
+              },
+              {
+                "en": "W: That's not really the point. The campaign missed two key trade fairs. Because of this, we are asking you either to repeat the campaign next year for free, or we only pay 50% of the fee for this year.",
+                "zh": "W: 这其实不是问题的关键。这次活动错过了两个重要的贸易展会。因此，我们要求你们要么明年免费重新开展这次活动，要么今年我们只支付50%的费用。"
+              },
+              {
+                "en": "M: Could we suggest a 20% reduction to the fee together with the four weeks' extension to the campaign?",
+                "zh": "M: 我们能不能提议将费用降低20%，同时把活动延长四周？"
+              },
+              {
+                "en": "W: We are not happy. We lost business.",
+                "zh": "W: 我们很不满意。我们损失了业务。"
+              },
+              {
+                "en": "M: I think we both made mistakes. The responsibility is on both sides.",
+                "zh": "M: 我认为我们双方都犯了错误。双方都有责任。"
+              },
+              {
+                "en": "W: OK, let's suggest a new solution. How about a 40% cut in fee, or a free repeat campaign?",
+                "zh": "W: 好吧，我们提出一个新的解决方案。费用削减40%，或者免费重新开展这次活动，怎么样？"
+              },
+              {
+                "en": "M: Well, let's take a break. We're not getting very far. Perhaps we should think about this.",
+                "zh": "M: 好吧，我们休息一下吧。我们没有取得什么进展。也许我们应该考虑一下这件事。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 12 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are labeled pet animals by the researchers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They look spotlessly clean throughout their lives."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are looked after by animal-care organizations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They sacrifice their lives for the benefit of humans."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They may behave abnormally."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They may breed out of control."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may affect the results of experiments."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They may cause damage to the environment."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When they are no longer useful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "when they become ill."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When they become escapees."
+                  },
+                  {
+                    "l": "D",
+                    "t": "when they get too old."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "While holding a burial ceremony for a pet mouse, they were killing pest mice."
+                  },
+                  {
+                    "l": "B",
+                    "t": "While advocating freedom for animals, they kept their pet mouse in a cage."
+                  },
+                  {
+                    "l": "C",
+                    "t": "While calling for animal rights, they allowed their kids to keep pet animals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "While launching animal protection campaigns, they were trapping kitchen mice.\n\nQuestions 13 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The University of Tennessee's Walters Life Sciences Building is a model animal facility, spotlessly clean, careful in obtaining prior approval for experiments from an animal-care committee. Of the 15,000 mice housed there in a typical year, most give their lives for humanity. These are \"good\" mice and as such won the protection of the animal-care committee. At any given time, however, some mice escape and run free. These mice are \"pests\". They can disrupt experiments with the bacteria organisms they carry. They are \"bad\" mice and must be captured and destroyed. Usually, this is accomplished by means of sticky traps, a kind of fly paper on which they become increasingly stuck. But the real point of this cautionary tale, says animal behaviorist Herzog, is that the labels we put on things can affect our moral responses to them. Using stick traps or the more deadly snap traps would be deemed unacceptable for good mice. Yet the killing of bad mice requires no prior approval. Once a research animal hits the floor and becomes an escapee, says Herzog, its moral standing is instantly diminished. In Herzog's own home, there was a more ironic example: when his young son's pet mouse Willy died recently, it was accorded a tearful ceremonial burial in the garden. Yet even as they mourned Willy, says Herzog, he and his wife were setting snap traps to kill the pest mice in their kitchen. With the bare change in labels from \"pet\" to \"pest\", the kitchen mice obtained totally different moral status.",
+                "zh": "田纳西大学的沃尔特斯生命科学大楼是一所规范的动物设施，洁净得一尘不染，并且在进行实验前，会谨慎地向动物护理委员会申请批准。在那里饲养的老鼠中，典型年份约有15,000只，大多数为人类献出了生命。这些是“好”老鼠，因此得到了动物护理委员会的保护。然而，在任何时候，都有一些老鼠逃脱并在外面乱跑。这些老鼠是“害兽”。它们携带的细菌生物可能会干扰实验。它们是“坏”老鼠，必须被捕获并消灭。通常，人们会使用黏鼠板来完成这件事，那是一种类似苍蝇纸的东西，老鼠会越来越牢地粘在上面。但动物行为学家赫尔佐格说，这个警示故事真正要说明的是，我们赋予事物的标签会影响我们对它们作出的道德反应。对于“好”老鼠来说，使用黏鼠板或更致命的捕鼠夹都会被视为不可接受。然而，捕杀“坏”老鼠却不需要事先获得批准。赫尔佐格说，一只实验动物一旦落到地板上，成为逃逸动物，它的道德地位就会立即降低。在赫尔佐格自己的家里，还有一个更加讽刺的例子：最近，他年幼的儿子养的宠物鼠威利死了，人们含泪在花园里为它举行了仪式性的埋葬。然而，赫尔佐格说，就在他们哀悼威利的同时，他和妻子却在设置捕鼠夹，准备杀死厨房里的害鼠。仅仅把标签从“宠物”改成“害兽”，厨房里的老鼠便获得了完全不同的道德地位。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 13 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They contribute most to it."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are crazy about it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They often find fault with it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They take it for granted."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Tidal restlessness."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Heat and light."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Economic prosperity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Historical continuity."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They lack knowledge of the culture of the city."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are adventurers from all over the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have difficulty surviving."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They find the city alien to them."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "There are roughly three New Yorks. There is, first, the New York of the man or woman who was born here, who takes the city for granted and accepts its size and its turbulence as natural and inevitable. Second, there is the New York of the commuter, the city that is swallowed up by locusts each day and spat out each night. Third, there is the New York of the person who was born somewhere else and came to New York in quest of something. Of these three trembling cities the greatest is the last, the city of final destination, the city that is a goal. It is this third city that accounts for New York's high-strung disposition, its dedication to the arts, and its incomparable achievements. Commuters give the city its tidal restlessness; natives give it solidity and continuity; but the settlers give it passion. And whether it is a farmer arriving from Italy to set up a small grocery store in a slum, or a young girl arriving from a small town in Mississippi to escape the indignity of being observed by her neighbors, or a boy arriving from the Corn Belt with a manuscript in his suitcase and a pain in his heart, it makes no difference: each embraces New York with the intense excitement of first love; each absorbs New York with the fresh eyes of an adventurer; each generates heat and light to dwarf the Consolidated Edison Company.",
+                "zh": "大致说来，纽约有三种。第一种是土生土长的纽约人眼中的纽约：他们在这里出生，把这座城市视为理所当然，认为它的规模和喧嚣既自然又不可避免。第二种是通勤者眼中的纽约，这座城市每天被蝗虫般涌入的人群吞没，到了夜晚又被吐出。第三种则是那些出生在别处、为追寻某种目标而来到纽约的人眼中的纽约。在这三个颤动不息的城市中，最伟大的是最后一个，是最终目的地之城，是一座本身就是目标的城市。正是这第三种纽约造就了它神经紧绷的气质、对艺术的投入以及无与伦比的成就。通勤者赋予这座城市潮汐般的躁动；本地人赋予它坚实与延续；而移居者则赋予它激情。不论是从意大利来到贫民区开一家小杂货店的农民，还是从密西西比州的小镇来到这里、为了逃避邻居注视所带来的屈辱的少女，抑或是从玉米带地区赶来、手提箱里装着一份手稿、心中怀着一阵痛楚的男孩，结果都没有区别：他们每个人都以初恋般强烈的兴奋拥抱纽约；每个人都以冒险家般清新的目光吸收纽约；每个人都释放出足以使联合爱迪生公司相形见绌的热量与光芒。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Protein was recognized as an essential component of diet."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Vitamins were synthesized from foods."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Effective measures of weight loss were determined."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Certain foods were found to be harmful to good health."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In order to urge medical doctors to participate in research studies on nutrition."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In order to encourage medical doctors to apply concepts of nutrition in the treatment of disease."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In order to persuade doctors to conduct experimental vitamin therapies on their patients."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In order to support the creation of artificial vitamins."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The public lost interest in vitamins."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Medical schools stopped teaching nutritional concepts."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Nutritional research was of poor quality."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Claims for the effectiveness of vitamin therapy were exaggerated.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Moderator:",
+                "zh": "主持人："
+              },
+              {
+                "en": "Good evening, ladies and gentlemen. Today we are honored to have Professor Dreiser from the Johns Hopkins University. He will introduce to us the study of the relationship between health and nutrition-utilization. Professor Dreiser, please.",
+                "zh": "女士们、先生们，晚上好。今天我们很荣幸请到来自约翰斯·霍普金斯大学的Dreiser教授。他将向我们介绍健康与营养利用之间关系的研究。Dreiser教授，请。"
+              },
+              {
+                "en": "Professor Dreiser.",
+                "zh": "Dreiser教授。"
+              },
+              {
+                "en": "Thank you for your introduction, Cara. Well, the study of the relationship between health and how the body takes in and utilizes food substances can be divided into four distinct eras:",
+                "zh": "感谢你的介绍，Cara。健康与身体摄取并利用食物成分的方式之间关系的研究，可以划分为四个截然不同的时期："
+              },
+              {
+                "en": "The first era began in the nineteenth century and extended into the early twentieth century when it was recognized for the first time that food contained components that were essential for human function and that different foods provided different amounts of these essential agents. Near the end of this era, research studies demonstrated that rapid weight loss was associated with nutrition imbalance and could only be rectified by providing adequate dietary protein associated with certain foods.",
+                "zh": "第一个时期始于19世纪，一直延续到20世纪初。当时人们首次认识到，食物中含有对人体功能至关重要的成分，而且不同食物所提供的这些必需成分的数量各不相同。在这一时期接近尾声时，研究表明，体重迅速下降与营养失衡有关，只有提供与某些食物相关的充足膳食蛋白质，才能纠正这种状况。"
+              },
+              {
+                "en": "The second era was initiated in the early decades of the twentieth century and might be called the vitamin period. Vitamins came to be recognized in foods, and deficiency syndromes were described. As vitamins became recognized as essential food constituents necessary for health, it became tempting to suggest that every disease and condition for which there had been no previous effective treatment might be responsive to vitamin therapy. At that point in time, medical schools started to become more interested in having their curricula integrate nutritional concepts into the basic sciences. Much of the focus of this education was on the recognition of vitamin deficiency symptoms. Herein lay the beginning of what ultimately turned from ignorance to denial of the value of nutritional therapies in medicine. Reckless claims were made for effects of vitamins that went far beyond what could actually be achieved from the use of them.",
+                "zh": "第二个时期始于20世纪最初几十年，也可以称为维生素时期。人们逐渐认识到食物中含有维生素，并描述了维生素缺乏综合征。随着维生素被确认为维持健康所必需的食物成分，人们很容易提出这样的观点：对于所有此前没有有效治疗方法的疾病和病症，维生素疗法或许都能奏效。在那个时期，医学院开始更加重视将营养学概念纳入基础科学课程。这种教育很大一部分内容集中于识别维生素缺乏的症状。医学领域对营养疗法的价值从无知最终转向否定，正是由此开始的。人们不计后果地宣称维生素具有种种功效，而这些功效远远超出了实际使用维生素所能达到的效果。"
+              },
+              {
+                "en": "In the third era of nutritional history in the early 1950s to mid-1960s, vitamin therapy began to fall into disrepute. Together with this, nutrition education in medical schools also became less popular. It was just a decade before this that many drug companies had found their vitamin sales skyrocketing and were quick to supply practicing physicians with generous samples of vitamins. Expectations as to the success of vitamins in disease control were exaggerated. As is known in retrospect, vitamin and mineral therapies are much less effective when applied to health-crisis conditions than when applied to long-term problems of undernutrition that lead to chronic health problems.",
+                "zh": "在20世纪50年代初至60年代中期的营养学史第三个时期，维生素疗法开始声名狼藉。与此同时，医学院中的营养学教育也变得不那么受欢迎。就在这之前十年，许多制药公司发现维生素的销量猛增，于是迅速向执业医生提供大量维生素样品。人们夸大了维生素在控制疾病方面的预期效果。如今回顾可知，与用于导致慢性健康问题的长期营养不良相比，维生素和矿物质疗法用于处于健康危机状态的情况时，效果要差得多。"
+              },
+              {
+                "en": "And the fourth era…",
+                "zh": "至于第四个时期……"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How babies differentiate between the sound of the human voice and other sounds."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The differences between a baby's and an adult's ability to comprehend language."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How babies perceive and respond to the human voice in their early stages of language development."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The response of a baby to sounds other than the human voice."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To contrast the reactions of babies to human and nonhuman sounds."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To give examples of sounds that will cause a baby to cry."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To explain how babies distinguish between different nonhuman sounds."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To give examples of typical toys that babies do not like."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Babies who are exposed to more than one language can acquire languages earlier than those to a single\n language."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Mothers from different cultures speak to their babies in a similar way."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Babies ignore facial expressions in comprehending their parents' language."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The mothers observed by the researchers were consciously teaching their babies to speak."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They understand the rhythm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They enjoy the sounds of them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can remember them easily."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They focus on their parents' words.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Long before they can actually speak, babies pay special attention to the speech they hear around them. Within the first month of their lives, babies' responses to the sound of the human voice will be different from their responses to other sorts of sounds. They will stop crying when they hear a person talking, but not if they hear a bell ring. At first, the sounds that an infant notices might be only those words that receive the heaviest emphasis and that often occur at the ends of sentences. By the time they are six or seven weeks old, babies can detect the difference between the rising and falling of tones. Very soon, these differences in adults' stress and tones can influence babies' emotional states and behavior. Long before they develop actual language comprehension, babies can sense when an adult is cheerful or angry, attempting to do or stop doing something, and so on, merely based on the rate, volume, and melody of adults' speech.",
+                "zh": "早在真正会说话之前，婴儿就会特别注意他们周围听到的言语。在出生后的第一个月内，婴儿对人声的反应会不同于对其他类型声音的反应。他们听到有人说话时会停止哭泣，但听到铃声时却不会。起初，婴儿注意到的声音可能只有那些重读最明显、并且经常出现在句末的词。到了六七周大时，婴儿就能察觉音调上升和下降的差异。很快，成人重音和音调上的这些差异就会影响婴儿的情绪状态和行为。早在形成真正的语言理解能力之前，婴儿仅仅根据成人说话的速度、音量和旋律，就能感知成人是在高兴还是生气，是试图做某事还是阻止某事，等等。"
+              },
+              {
+                "en": "Adults make it as easy as they can for babies to pick up a language by exaggerating such characteristics. One researcher observed babies and their mothers in six diverse cultures and found that, in all six languages, the mothers used simplified grammar, short sentences, and transformed certain sounds into baby talk. Other investigators have found that when mothers talk to babies who are only a few months old, they often raise their volume, and speak slowly. They also exaggerate their facial expressions, and emphasize certain words.",
+                "zh": "成人会通过夸大这些特征，尽可能让婴儿更容易学会一门语言。一位研究人员观察了六种不同文化中的婴儿及其母亲，发现这六种语言中，母亲都使用简化的语法和短句，并把某些声音变成婴儿语。其他研究人员发现，母亲和只有几个月大的婴儿说话时，往往会提高音量，并放慢语速。她们还会夸张面部表情，并强调某些词语。"
+              },
+              {
+                "en": "More significant for language development than their response to general intonation is observation that tiny babies can make relatively fine distinctions between speech sounds. In other words, babies enter the world with the ability to make precisely those perceptual discriminations that are necessary if they are to acquire aural language.",
+                "zh": "比婴儿对一般语调的反应更能说明语言发展的重要现象是：非常年幼的婴儿能够对语音进行相当细致的区分。换句话说，婴儿来到这个世界时，就具备了获得听觉语言所必需的、能够进行精确知觉区分的能力。"
+              },
+              {
+                "en": "Babies obviously derive pleasure from sound input, too: at even as young as nine months they will listen to songs or stories, although the words themselves are beyond their understanding. For babies, language is a sensory-motor delight rather than the route to dull meaning that it often is for adults.",
+                "zh": "婴儿显然也能从声音输入中获得乐趣：即使在只有九个月大的时候，他们也会听歌曲或故事，尽管歌曲和故事中的词语本身超出了他们的理解范围。对婴儿来说，语言是一种感官运动上的愉悦，而不是成年人通常所认为的通向枯燥意义的途径。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Britain."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Germany."
+                  },
+                  {
+                    "l": "C",
+                    "t": "France."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Japan."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The United States had a leading position on the world market by the start of World War I."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The centre of film-making moved eastwards from Hollywood to New York."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many film industries could compete with that of Hollywood."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The film markets of Russia and Japan were the only promising ones."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Indifferent."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Biased."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Negative."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Neutral."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The history of the cinema in its first thirty years is one of major and, to this day, unparalleled expansion and growth. Beginning as something unusual in a handful of big cities-New York, London, Paris and Berlin-the new medium quickly found its way across the world, attracting larger and larger audiences wherever it was shown and replacing other forms of entertainment as it did so. Meanwhile, films themselves developed from being short \"attractions\" only a couple of minutes long, to the full-length feature that has dominated the world's screens up to the present day.",
+                "zh": "电影在其最初三十年中的历史，是一段规模巨大、时至今日仍无可比拟的扩张与发展历程。起初，这种新媒介只是纽约、伦敦、巴黎和柏林等少数大城市中一种不同寻常的事物，但它很快传遍世界各地，无论在哪里放映，都吸引了越来越多的观众，并在这一过程中取代了其他娱乐形式。与此同时，电影本身也从只有几分钟长的短片“节目”，发展成了直到今天一直占据世界银幕主导地位的长篇故事片。"
+              },
+              {
+                "en": "Although French, German, American and British pioneers have all been credited with the invention of cinema, the British and the Germans played a relatively small role in its world-wide exploitation. It was above all the French, followed closely by the Americans, who were the most passionate exporters of the new invention, helping to start cinema in China, Japan, Latin America and Russia. In terms of artistic development, it was again the French and the Americans who took the lead, though in the years before the First World War, Italy, Denmark and Russia also played a part.",
+                "zh": "尽管法国、德国、美国和英国的先驱者都被认为参与了电影的发明，但英国人和德国人在电影的全球推广中所发挥的作用相对较小。最热衷于输出这项新发明的，首先是法国人，其次紧随其后的是美国人；正是他们帮助电影在中国、日本、拉丁美洲和俄罗斯起步。在艺术发展方面，带头的同样是法国人和美国人，不过在第一次世界大战前的几年里，意大利、丹麦和俄罗斯也发挥了一定作用。"
+              },
+              {
+                "en": "In the end, it was the United States that was to become, and remain, the largest single market for films. By protecting their own market and pursuing a vigorous export policy, the Americans achieved a dominant position on the world market by the start of the First World War. The centre of film-making had moved westwards, to Hollywood, and it was films from these new Hollywood studios that flooded onto the world's film markets in the years after the First World War, and have done so ever since. Faced with total Hollywood domination, few film industries proved competitive. The Italian industry almost collapsed. In Scandinavia, the Swedish cinema had a brief period of glory, notably with powerful epic films and comedies. Even the French cinema found itself in a difficult position. In Europe, only Germany proved industrially capable, while in Russia and in Japan the development of the cinema took place in conditions of commercial isolation.",
+                "zh": "最终，美国成为并一直保持着世界上最大的单一电影市场。通过保护本国市场并推行积极有力的出口政策，美国人在第一次世界大战开始时便取得了世界市场上的主导地位。电影制作中心向西移到了好莱坞；第一次世界大战之后的几年里，来自这些新兴好莱坞制片厂的电影涌入世界各地的电影市场，此后一直如此。面对好莱坞的全面统治，少数电影产业能够保持竞争力。意大利电影业几乎崩溃。在斯堪的纳维亚，瑞典电影曾有过一段短暂的辉煌时期，尤其是凭借气势恢宏的史诗片和喜剧片。就连法国电影也发现自己处境艰难。在欧洲，只有德国在工业层面展现出竞争能力；而在俄罗斯和日本，电影的发展则是在商业孤立的条件下进行的。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "\"That which does not kill us makes us stronger.\" But parents can't handle it when teenagers put this"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "into practice. Now technology has become the new field for the age-old battle between adults and their freedom-seeking kids. Locked indoors, unable to get on their bicycles and hang out with their friends, teens have turned to social media and their mobile phones to socialize with their peers. What they do online often"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "what they might otherwise do if their mobility weren't so heavily"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "in the age of helicopter parenting. Social media and smart-phone apps have become so popular in recent years because teens need a place to call their own. They want the freedom to"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "their identity and the world around them. Instead of"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "out, they jump online. As teens have moved online, parents have projected their fears onto the Internet, imagining all the"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "dangers that youth might face—from"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "strangers to cruel peers to pictures or words that could haunt them on Google for the rest of their lives. Rather than helping teens develop strategies for negotiating public life and the risks of"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "with others, fearful parents have focused on tracking, monitoring and blocking. These tactics(策略) don't help teens develop the skills they need to manage complex social situations,"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "risks and get help when they're in trouble. \"Protecting\" kids may feel like the right thing to do, but it"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "the learning that teens need to do as they come of age in a technology-soaked world."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "assess"
+        },
+        {
+          "l": "B",
+          "w": "constrained"
+        },
+        {
+          "l": "C",
+          "w": "contains"
+        },
+        {
+          "l": "D",
+          "w": "explore"
+        },
+        {
+          "l": "E",
+          "w": "influence"
+        },
+        {
+          "l": "F",
+          "w": "interacting"
+        },
+        {
+          "l": "G",
+          "w": "interpretation"
+        },
+        {
+          "l": "H",
+          "w": "magnified"
+        },
+        {
+          "l": "I",
+          "w": "mirrors"
+        },
+        {
+          "l": "J",
+          "w": "philosophy"
+        },
+        {
+          "l": "K",
+          "w": "potential"
+        },
+        {
+          "l": "L",
+          "w": "sneaking"
+        },
+        {
+          "l": "M",
+          "w": "sticking"
+        },
+        {
+          "l": "N",
+          "w": "undermines"
+        },
+        {
+          "l": "O",
+          "w": "violent"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "J"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "B"
+        },
+        {
+          "n": 29,
+          "a": "D"
+        },
+        {
+          "n": 30,
+          "a": "L"
+        },
+        {
+          "n": 31,
+          "a": "K"
+        },
+        {
+          "n": 32,
+          "a": "O"
+        },
+        {
+          "n": 33,
+          "a": "F"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "N"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Inequality Is Not Inevitable",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "A dangerous trend has developed over this past third of a century. A country that experienced shared growth after World WarⅡ began to tear apart, so much so that when the Great Recession hit in late 2007, one could no longer ignore the division that had come to define the American economic landscape. How did this \"shining city on a hill\" become the advanced country with the greatest level of inequality?"
+        },
+        {
+          "l": "B",
+          "t": "Over the past year and a half, The Great Divide, a series in The New York Times, has presented a wide range of examples that undermine the notion that there are any truly fundamental laws of capitalism. The dynamics of the imperial capitalism of the 19th century needn't apply in the democracies of the 21st. We don't need to have this much inequality in America."
+        },
+        {
+          "l": "C",
+          "t": "Our current brand of capitalism is a fake capitalism. For proof of this go back to our response to the Great Recession, where we socialized losses, even as we privatized gains. Perfect competition should drive profits to zero, at least theoretically, but we have monopolies making persistently high profits. C.E.O.s enjoy incomes that are on average 295 times that of the typical worker, a much higher ratio than in the past, without any evidence of a proportionate increase in productivity."
+        },
+        {
+          "l": "D",
+          "t": "If it is not the cruel laws of economics that have led to America's great divide, what is it? The straightforward answer: our policies and our politics! People get tired of hearing about Scandinavian success stories, but the fact of the matter is that Sweden, Finland and Norway have all succeeded in having about as much or faster growth in per capita(人均的) incomes than the United States and with far greater equality."
+        },
+        {
+          "l": "E",
+          "t": "So why has America chosen these inequality-enhancing policies? Part of the answer is that as World War II faded into memory, so too did the solidarity it had created. As America triumphed in the Cold War, there didn't seem to be a real competitor to our economic model. Without this international competition, we no longer had to show that our system could deliver for most of our citizens."
+        },
+        {
+          "l": "F",
+          "t": "Ideology and interests combined viciously. Some drew the wrong lesson from the collapse of the Soviet system in 1991. The pendulum swung from much too much government there to much too little here. Corporate interests argued for getting rid of regulations, even when those regulations had done so much to protect and improve our environment, our safety, our health and the economy itself."
+        },
+        {
+          "l": "G",
+          "t": "But this ideology was hypocritical(虚伪的). The bankers, among the strongest advocates of laissez-faire(自由 放任的) economics, were only too willing to accept hundreds of billions of dollars from the government in the aid programs that have been a recurring feature of the global economy since the beginning of the Thatcher-Reagan era of \"free\" markets and deregulation."
+        },
+        {
+          "l": "H",
+          "t": "The American political system is overrun by money. Economic inequality translates into political inequality, and political inequality yields increasing economic inequality. So corporate welfare increases as we reduce welfare for the poor. Congress maintains subsidies for rich farmers as we cut back on nutritional support for the needy. Drug companies have been given hundreds of billions of dollars as we limit Medicaid benefits. The banks that brought on the global financial crisis got billions while a tiny bit went to the homeowners and victims of the same banks' predatory(掠夺性的) lending practices. This last decision was particularly foolish. There were alternatives to throwing money at the banks and hoping it would circulate through increased lending."
+        },
+        {
+          "l": "I",
+          "t": "Our divisions are deep. Economic and geographic segregation has immunized those at the top from the problems of those down below. Like the kings of ancient times, they have come to perceive their privileged positions essentially as a natural right."
+        },
+        {
+          "l": "J",
+          "t": "Our economy, our democracy and our society have paid for these gross inequalities. The true test of an economy is not how much wealth its princes can accumulate in tax havens(庇护所), but how well off the typical citizen is. But average incomes are lower than they were a quarter-century ago. Growth has gone to the very, very top, whose share has almost increased four times since 1980. Money that was meant to have trickled(流淌) down has instead evaporated in the agreeable climate of the Cayman Islands."
+        },
+        {
+          "l": "K",
+          "t": "With almost a quarter of American children younger than 5 living in poverty, and with America doing so little for its poor, the deprivations of one generation are being visited upon the next. Of course, no country has ever come close to providing complete equality of opportunity. But why is America one of the advanced countries where the life prospects of the young are most sharply determined by the income and education of their parents?"
+        },
+        {
+          "l": "L",
+          "t": "Among the most bitter stories in The Great Divide were those that portrayed the frustrations of the young, who long to enter our shrinking middle class. Soaring tuitions and declining incomes have resulted in larger debt burdens. Those with only a high school diploma have seen their incomes decline by 13 percent over the past 35 years."
+        },
+        {
+          "l": "M",
+          "t": "Where justice is concerned, there is also a huge divide. In the eyes of the rest of the world and a significant part of its own population, mass imprisonment has come to define America—a country, it bears repeating, with about 5 percent of the world's population but around a fourth of the world's prisoners."
+        },
+        {
+          "l": "N",
+          "t": "Justice has become a commodity, affordable to only a few. While Wall Street executives used their expensive lawyers to ensure that their ranks were not held accountable for the misdeeds that the crisis in 2008 so graphically revealed, the banks abused our legal system to foreclose(取消赎回权) on mortgages and eject tenants, some of whom did not even owe money."
+        },
+        {
+          "l": "O",
+          "t": "More than a half-century ago, America led the way in advocating for the Universal Declaration of Human Rights, adopted by the United Nations in 1948. Today, access to health care is among the most universally accepted rights, at least in the advanced countries. America, despite the implementation of the Affordable Care Act, is the exception. In the relief that many felt when the Supreme Court did not overturn the Affordable Care Act, the implications of the decision for Medicaid were not fully appreciated. Obamacare's objective—to ensure that all Americans have access to health care—has been blocked: 24 states have not implemented the expanded Medicaid program, which was the means by which Obamacare was supposed to deliver on its promise to some of the poorest."
+        },
+        {
+          "l": "P",
+          "t": "We need not just a new war on poverty but a war to protect the middle class. Solutions to these problems do not have to be novel. Far from it. Making markets act like markets would be a good place to start. We must end the rent-seeking society we have gravitated toward, in which the wealthy obtain profits by manipulating the system."
+        },
+        {
+          "l": "Q",
+          "t": "The problem of inequality is not so much a matter of technical economics. It's really a problem of practical politics. Inequality is not just about the top marginal tax rate but also about our children's access to food and the right to justice for all. If we spent more on education, health and infrastructure(基础设施), we would strengthen our economy, now and in the future."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "In theory, free competition is supposed to reduce the margin of profits to the minimum.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "The United States is now characterized by a great division between the rich and the poor.",
+          "a": "A"
+        },
+        {
+          "n": 38,
+          "s": "America lacked the incentive to care for the majority of its citizens as it found no rival for its economic model.",
+          "a": "E"
+        },
+        {
+          "n": 39,
+          "s": "The wealthy top have come to take privileges for granted.",
+          "a": "I"
+        },
+        {
+          "n": 40,
+          "s": "Many examples show the basic laws of imperial capitalism no longer apply in present-day America.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "The author suggests a return to the true spirit of the market.",
+          "a": "P"
+        },
+        {
+          "n": 42,
+          "s": "A quarter of the world's prisoner population is in America.",
+          "a": "M"
+        },
+        {
+          "n": 43,
+          "s": "Government regulation in America went from one extreme to the other in the past two decades.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "Justice has become so expensive that only a small number of people like corporate executives can afford it.",
+          "a": "N"
+        },
+        {
+          "n": 45,
+          "s": "No country in the world so far has been able to provide completely equal opportunities for all.",
+          "a": "K"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "I'll admit I've never quite understood the obsession(难以破除的成见) surrounding genetically modified (GM) crops. To environmentalist opponents, GM foods are simply evil, an understudied, possibly harmful tool used by big agricultural businesses to control global seed markets and crush local farmers. They argue that GM foods have never delivered on their supposed promise, that money spent on GM crops would be better channeled to organic farming and that consumers should be protected with warning labels on any products that contain genetically modified ingredients. To supporters, GM crops are a key part of the effort to sustainably provide food to meet a growing global population. But more than that, supporters see the GM opposition of many environmentalists as fundamentally anti-science, no different than those who question the basics of man-made climate change. For both sides, GM foods seem to act as a symbol: you're pro-agricultural business or anti-science. But science is exactly what we need more of when it comes to GM foods, which is why I was happy to see Nature devote a special series of articles to the GM food controversy. The conclusion: while GM crops haven't yet realized their initial promise and have been dominated by agricultural businesses, there is reason to continue to use and develop them to help meet the enormous challenge of sustainably feeding a growing planet. That doesn't mean GM crops are perfect, or a one-size-fits-all solution to global agriculture problems. But anything that can increase farming efficiency—the amount of crops we can produce per acre of land—will be extremely useful. GM crops can and almost certainly will be part of that suite of tools, but so will traditional plant breeding, improved soil and crop management—and perhaps most important of all, better storage and transport infrastructure(基础设施), especially in the developing world. (It doesn't do much good for farmers in places like sub-Saharan Africa to produce more food if they can't get it to hungry consumers.) I'd like to see more non-industry research done on GM crops—not just because we'd worry less about bias, but also because seed companies like Monsanto and Pioneer shouldn't be the only entities working to harness genetic modification. I'd like to see GM research on less commercial crops, like corn. I don't think it's vital to label GM ingredients in food, but I also wouldn't be against it—and industry would be smart to go along with labeling, just as a way of removing fears about the technology. Most of all, though, I wish a tenth of the energy that's spent endlessly debating GM crops was focused on those more pressing challenges for global agriculture. There are much bigger battles to fight.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "How do environmentalist opponents view GM foods according to the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They will eventually ruin agriculture and the environment."
+              },
+              {
+                "l": "B",
+                "t": "They are used by big businesses to monopolize agriculture."
+              },
+              {
+                "l": "C",
+                "t": "They have proved potentially harmful to consumers' health."
+              },
+              {
+                "l": "D",
+                "t": "They pose a tremendous threat to current farming practice."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What does the author say is vital to solving the controversy between the two sides of the debate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Breaking the GM food monopoly."
+              },
+              {
+                "l": "B",
+                "t": "More friendly exchange of ideas."
+              },
+              {
+                "l": "C",
+                "t": "Regulating GM food production."
+              },
+              {
+                "l": "D",
+                "t": "More scientific research on GM crops."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What is the main point of the Nature articles?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Feeding the growing population makes it imperative to develop GM crops."
+              },
+              {
+                "l": "B",
+                "t": "Popularizing GM technology will help it to live up to its initial promises."
+              },
+              {
+                "l": "C",
+                "t": "Measures should be taken to ensure the safety of GM foods."
+              },
+              {
+                "l": "D",
+                "t": "Both supporters and opponents should make compromises."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What is the author's view on the solution to agricultural problems?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has to depend more and more on GM technology."
+              },
+              {
+                "l": "B",
+                "t": "It is vital to the sustainable development of human society."
+              },
+              {
+                "l": "C",
+                "t": "GM crops should be allowed until better alternatives are found."
+              },
+              {
+                "l": "D",
+                "t": "Whatever is useful to boost farming efficiency should be encouraged."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What does the author think of the ongoing debate around GM crops?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It arises out of ignorance of and prejudice against new science."
+              },
+              {
+                "l": "B",
+                "t": "It distracts the public attention from other key issues of the world."
+              },
+              {
+                "l": "C",
+                "t": "Efforts spent on it should be turned to more urgent issues of agriculture."
+              },
+              {
+                "l": "D",
+                "t": "Neither side is likely to give in until more convincing evidence is found."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Early decision—you apply to one school? and admission is binding—seems like a great choice for nervous applicants. Schools let in a higher percentage of early-decision applicants, which arguably means that you have a better chance of getting in. And if you do, you're done with the whole agonizing process by December. But what most students and parents don't realize is that schools have hidden motives for offering early decision. Early decision, since it's binding, allows schools to fill their classes with qualified students; it allows admissions committees to select the students that are in particular demand for their college and know those students will come. It also gives schools a higher yield rate, which is often used as one of the ways to measure college selectivity and popularity. The problem is that this process effectively shortens the window of time students have to make one of the most important decisions of their lives up to that point. Under regular admissions, seniors have until May 1 to choose which school to attend; early decision effectively steals six months from them, months that could be used to visit more schools, do more research, speak to current students and alumni(校友) and arguably make a more informed decision. There are, frankly, an astonishing number of exceptional colleges in America, and for any given student, there are a number of schools that are a great fit. When students become too fixated(专注) on a particular school early in the admissions process, that fixation can lead to severe disappointment if they don't get in or, if they do, the possibility that they are now bound to go to a school that, given time for further reflection, may not actually be right for them. Insofar as early decision offers a genuine admissions edge, that advantage goes largely to students who already have numerous advantages. The students who use early decision tend to be those who have received higher-quality college guidance, usually a result of coming from a more privileged background. In this regard, there's an argument against early decision, as students from lower-income families are far less likely to have the admissions know-how to navigate the often confusing early deadlines. Students who have done their research and are confident that there's one school they would be thrilled to get into should, under the current system, probably apply under early decision. But for students who haven't yet done enough research, or who are still constantly changing their minds on favorite schools, the early-decision system needlessly and prematurely narrows the field of possibility just at a time when students should be opening themselves to a whole range of thrilling options.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What are students obliged to do under early decision?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Look into a lot of schools before they apply."
+              },
+              {
+                "l": "B",
+                "t": "Attend the school once they are admitted."
+              },
+              {
+                "l": "C",
+                "t": "Think twice before they accept the offer."
+              },
+              {
+                "l": "D",
+                "t": "Consult the current students and alumni."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "Why do schools offer early decision?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To make sure they get qualified students."
+              },
+              {
+                "l": "B",
+                "t": "To avoid competition with other colleges."
+              },
+              {
+                "l": "C",
+                "t": "To provide more opportunities for applicants."
+              },
+              {
+                "l": "D",
+                "t": "To save students the agony of choosing a school."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What is said to be the problem with early decision for students?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It makes their application process more complicated."
+              },
+              {
+                "l": "B",
+                "t": "It places too high a demand on their research ability."
+              },
+              {
+                "l": "C",
+                "t": "It allows them little time to make informed decisions."
+              },
+              {
+                "l": "D",
+                "t": "It exerts much more psychological pressure on them."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "Why are some people opposed to early decision?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It interferes with students' learning in high school."
+              },
+              {
+                "l": "B",
+                "t": "It is biased against students at ordinary high schools."
+              },
+              {
+                "l": "C",
+                "t": "It causes unnecessary confusion among college applicants."
+              },
+              {
+                "l": "D",
+                "t": "It places students from lower-income families at a disadvantage."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does the author advise college applicants to do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Refrain from competing with students from privileged families."
+              },
+              {
+                "l": "B",
+                "t": "Avoid choosing early decision unless they are fully prepared."
+              },
+              {
+                "l": "C",
+                "t": "Find sufficient information about their favorite schools."
+              },
+              {
+                "l": "D",
+                "t": "Look beyond the few supposedly thrilling options."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "汉朝是中国历史上最重要的朝代之一。汉朝统治期间有很多显著的成就。它最先向其他文化敞开大门,对 外贸易兴旺。汉朝开拓的丝绸之路通向了中西亚乃至罗马。各类艺术一派繁荣,涌现了很多文学、历史、哲学 巨著。公元100年中国第一部字典编纂完成,收入9000个字,提供释义并列举不同的写法。其间,科技方面也取得 了很大进步,发明了纸张、水钟、日暑(sundials )以及测量地震的仪器。汉朝历经400年,但统治者的腐败最终导 致了它的灭亡。",
+    "reference": "The Han Dynasty was one of the most important dynasties in Chinese history. There were many remarkable achievements during its reign. It was the first to open its doors to other cultures, and foreign trade flourished. The Silk Road, which was opened up by the Han Dynasty, led to Central and Western Asia and even Rome. Various forms of art flourished, and many great works of literature, history and philosophy were produced. In 100 AD, China's first dictionary was completed, containing 9,000 characters, providing definitions and listing different ways of writing. During this period, science and technology also made great progress, and paper, water clocks, sundials and instruments for measuring earthquakes were invented. The Han Dynasty lasted for about 400 years, but the corruption of its rulers eventually led to its fall."
+  }
+}

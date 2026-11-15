@@ -1,0 +1,1356 @@
+{
+  "id": "cet4-2021-6-1",
+  "level": "cet4",
+  "year": 2021,
+  "month": 6,
+  "set": 1,
+  "title": "2021年6月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part , you are allowed 30 minutes to write an essay titled“Are people becoming addicted to technology?”.The statement given below is for your reference. You should write at least 120 words but no more than 180 words. Numerous studies claim that addiction to technology is real and it has the same effect on the brain as drug addiction.",
+    "sample": "Are people becoming addicted to technology? My answer is a definite yes. As numerous studies claim that addiction to technology is real, this problem deserves our serious attention.Signs of such addiction are everywhere in daily life. Many people check their smartphones the moment they wake up and keep scrolling short videos until midnight. While technology is designed to make life easier, an increasing number of us feel anxious once we are separated from our screens. As a result, real conversations, sleep and study are all disturbed, which shows that our reliance has quietly turned into dependence.In my view, therefore, people are indeed getting hooked on technology. However, this does not mean we should abandon it. What matters is to use technology in a rational way, setting limits on screen time and leaving room for the real world."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Enrol him in a Newcastle football club."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Send him to an after-school art class."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Forbid him to draw in his workbook."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Help him post his drawings online."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Contacted Joe to decorate its dining-room."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Hired Joe to paint all the walls of its buildings."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Renovated its kitchen and all the dining-rooms."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Asked Joe for permission to use his online drawings.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "And finally in tonight's news, a 9-year-old boy named Joe, told not to draw in class, wins a job decorating a restaurant with his drawings. Rather than shutting down the habit of drawing in his school's workbook, Joe's parents decided to encourage his creativity by sending their son to an after-school art class. His teacher recognized Joe's talent and posted all his work online, which led to something pretty wonderful.",
+                "zh": "最后是今晚的新闻，一名9岁男孩Joe在课堂上被禁止画画，却凭借自己的画作赢得了一份装饰餐厅的工作。Joe的父母没有制止他在学校作业本上画画的习惯，而是决定鼓励他的创造力，送他去参加课后艺术班。他的老师认可了Joe的天赋，并把他所有的作品发布到网上，这带来了一件非常美好的事情。"
+              },
+              {
+                "en": "A restaurant named \"Number 4\" in Newcastle contacted Joe's teacher to ask if the 9-year-old could come and decorate its dining-room with his drawings. Every day after school, Joe's dad drives him to the restaurant so he can put his ideas straight on the wall. Once he's all done, the work will remain there permanently.",
+                "zh": "Newcastle一家名为\"Number 4\"的餐厅联系了Joe的老师，询问这个9岁的孩子能否来用他的画作装饰餐厅的用餐区。每天放学后，Joe的爸爸开车送他去餐厅，这样他就可以把自己的创意直接画在墙上。一旦全部完成，这些作品将永久保留在那里。"
+              },
+              {
+                "en": "Joe's dad said Joe is a really talented little boy. He's excellent at school. He's great at football. But drawing is definitely what he is most passionate about.",
+                "zh": "Joe的爸爸说Joe是一个非常有天赋的小男孩。他在学校表现出色。他足球踢得很好。但画画绝对是他最热爱的事情。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Get her pet dog back."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Identify the suspect on the security video."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Beg for help from the police."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Post pictures of her pet dog on social media."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is suffering a great deal from the incident."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is helping the police with the investigation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is bringing the case to the local district court."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is offering a big reward to anyone who helps.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Kirsteen Marshall, a 34-year-old mum of one, posted a tearful video on social media Wednesday, begging for the safe return of her beloved pet dog. After combing through the security video outside a Gorbals shop, Kirsteen has now posted an image of a man suspected of stealing the dog.",
+                "zh": "34岁的单亲妈妈Kirsteen Marshall周三在社交媒体上发布了一段含泪视频,恳求安全归还她心爱的宠物狗。在仔细查看Gorbals一家商店外的监控视频后,Kirsteen现已发布了一名涉嫌偷狗男子的照片。"
+              },
+              {
+                "en": "The image appears to show a man carrying the dog in his arms. Kirsteen also believes the video obtained from the shop shows the dog being stolen by a man before driving off in a car which had been waiting nearby.",
+                "zh": "照片似乎显示一名男子抱着这只狗。Kirsteen还认为从商店获得的视频显示,这只狗被一名男子偷走,随后乘坐一辆在附近等候的汽车离开。"
+              },
+              {
+                "en": "The family is now offering a £5,000 reward for the safe return of the dog after launching a social media campaign to find the thief.",
+                "zh": "在发起社交媒体活动寻找窃贼后,这家人现在悬赏5000英镑以安全找回这只狗。"
+              },
+              {
+                "en": "The dog is six and a half years old and was last seen wearing a red collar.",
+                "zh": "这只狗六岁半,最后被看到时戴着红色项圈。"
+              },
+              {
+                "en": "Kirsteen said: \"We'll pay that to anyone who brings him home as long as they are not responsible for his disappearance.\"",
+                "zh": "Kirsteen说:\"只要他们不是对狗的失踪负有责任,我们会付钱给任何把它带回家的人。"
+              },
+              {
+                "en": "Police are investigating the incident.",
+                "zh": "警方正在调查此事。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Provide free meals to the local poor."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Help people connect with each other."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help eliminate class difference in his area."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Provide customers with first-class service."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It does not supervise its employees."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It donates regularly to a local charity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It does not use volunteers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is open round the clock."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will realise the importance of communication."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will come to the café even more frequently."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will care less about their own background."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will find they have something in common."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "London's Eggs & Bread café offers boiled eggs, toast, jam, and bacon, as well as tea, coffee and orange juice. But at the end of the meal, customers don't have to worry about the bill. Hungry customers can pay whatever amount they can afford to eat at the café, or nothing at all.",
+                "zh": "伦敦的Eggs & Bread咖啡馆提供煮鸡蛋、吐司、果酱和培根,以及茶、咖啡和橙汁。但在用餐结束时,顾客不必担心账单。饥饿的顾客可以支付他们能承受的任何金额在这家咖啡馆用餐,或者什么都不付。"
+              },
+              {
+                "en": "Owner Guy Wilson says his café aims to build community, rather than profits. He wants to provide a bridge for people to connect in an area that has been divided by class and wealth by providing affordable breakfasts.",
+                "zh": "店主Guy Wilson说,他的咖啡馆旨在建立社区,而非追求利润。他希望通过提供人们负担得起的早餐,为这个被阶级和财富分割的地区的人们搭建一座连接的桥梁。"
+              },
+              {
+                "en": "The café is open in the mornings every day of the year and has two members of staff or supervisors on shift every day. The café doesn't use volunteers, but pays its staff to ensure consistency in its service. It doesn't take donations and doesn't want to be seen as a charity.",
+                "zh": "这家咖啡馆全年每天早上营业,每天有两名员工或主管值班。咖啡馆不使用志愿者,而是支付员工工资以确保服务的一致性。它不接受捐赠,也不希望被视为慈善机构。"
+              },
+              {
+                "en": "Mr. Wilson says, when people start to know other people around them, they realize they're not that different. And whatever their financial background, or their educational background, most people will have something in common with each other. He says it's important that his café can offer his customers security and permanence.",
+                "zh": "Wilson先生说,当人们开始了解周围的其他人时,他们会意识到彼此并没有那么不同。无论他们的经济背景或教育背景如何,大多数人都会与彼此有一些共同点。他说,他的咖啡馆能够为顾客提供安全感和稳定性是很重要的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A surprise party for Paul's birthday."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Travel plans for the coming weekend."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Preparations for Saturday's get-together."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The new market on the other side of town."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It makes the hostess's job a whole lot easier."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It enables guests to walk around and chat freely."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It saves considerable time and labor."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It requires fewer tables and chairs."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It offers some big discounts."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is quite close to her house."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is more spacious and less crowded."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It sells local wines and soft drinks."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cook a dish for the party."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Arrive 10 minutes earlier."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Prepare a few opening remarks."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Bring his computer and speakers.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: So what time do you think we should have the party on Saturday?",
+                "zh": "M: 那你觉得我们星期六的聚会应该定在什么时候？"
+              },
+              {
+                "en": "W: How about inviting people to come at 6:00 p.m.? Then we'll have the afternoon to prepare food and drink, and stuff like that.",
+                "zh": "W: 邀请大家下午6点来怎么样？这样我们下午就有时间准备食物、饮料这些东西了。"
+              },
+              {
+                "en": "M: Yes, I was thinking that around 6:00 would be good too. What food should we provide?",
+                "zh": "M: 是的,我也在想6点左右比较好。我们应该准备什么食物？"
+              },
+              {
+                "en": "W: Well, I had thought about baking a cake, and some biscuits. And now I think we should prepare some sandwiches and snacks, and some other kinds of food, so that people can just help themselves, rather than getting everyone to sit down at the table to eat a meal. I think that's a bit too formal. It's better to let people walk around and talk to each other, or sit where they like.",
+                "zh": "W: 嗯,我本来想烤个蛋糕,还有一些饼干。现在我觉得我们应该准备一些三明治和零食,还有其他种类的食物,这样大家可以自己取用,而不是让所有人都坐在餐桌前吃正餐。我觉得那样有点太正式了。最好让大家随意走动聊天,或者坐在他们喜欢的地方。"
+              },
+              {
+                "en": "M: Yes, that sounds good. I'll go to the supermarket to get some drinks. I think I might try that big new supermarket on the other side of town and see what they have. I've not been there before. I think we should get some beer and wine, and some fruit juice, and other soft drinks. What do you think?",
+                "zh": "M: 好的,听起来不错。我去超市买些饮料。我想去镇子另一边那家新开的大超市看看他们有什么。我以前没去过那儿。我觉得我们应该买些啤酒和葡萄酒,还有一些果汁和其他软饮料。你觉得呢？"
+              },
+              {
+                "en": "W: Sounds great. I think those drinks will be enough. And I heard that the new supermarket offers some big discounts to attract customers. So going there should be a great idea. What should we do about music?",
+                "zh": "W: 听起来很好。我觉得这些饮料就够了。而且我听说那家新超市为了吸引顾客有很大的折扣。所以去那里应该是个好主意。音乐方面我们怎么办？"
+              },
+              {
+                "en": "M: Maybe we should ask Paul to bring his computer and speakers, so that we can play some music. He has a great collection of different stuff.",
+                "zh": "M: 也许我们应该让Paul带上他的电脑和音箱,这样我们就能放些音乐了。他收藏了很多不同类型的音乐。"
+              },
+              {
+                "en": "W: Yes. All right.",
+                "zh": "W: 好的。行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "For commuting to work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "For long-distance travel."
+                  },
+                  {
+                    "l": "C",
+                    "t": "For getting around in Miami."
+                  },
+                  {
+                    "l": "D",
+                    "t": "For convenience at weekends."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are reliable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are compact."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are spacious."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are easy to drive."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Buy a second-hand car."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Trust her own judgment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Seek advice from his friend."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Look around before deciding."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He sells new cars."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He can be trusted."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is starting a business."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is a successful car dealer."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: I'm thinking of buying a car. I wouldn't need to use it every day, but I think it would be very convenient to have one for the weekends.",
+                "zh": "W: 我在考虑买辆车。我不需要每天都用，但我觉得周末有辆车会很方便。"
+              },
+              {
+                "en": "M: That's exciting. Would this be your first car?",
+                "zh": "M: 那挺让人兴奋的。这会是你的第一辆车吗？"
+              },
+              {
+                "en": "W: No, I actually owned a car for a little while when I lived in Miami. You see in America, many cities don't have good public transport. So, most people need their own car to get around.",
+                "zh": "W: 不是，实际上我在Miami住的时候拥有过一辆车，时间不长。你知道在美国，很多城市的公共交通都不太好。所以大多数人需要自己的车来出行。"
+              },
+              {
+                "en": "M: I see. So have you got your mind set on a specific model?",
+                "zh": "M: 我明白了。那你心里有想好要哪个具体型号吗？"
+              },
+              {
+                "en": "W: No, not really. I've heard that German cars are very reliable, but I haven't decided on a specific model yet. I'd also like it to be small, so that it's easy to drive in the city.",
+                "zh": "W: 没有，还没定。我听说德国车很可靠，但我还没决定具体型号。我还想要辆小点的，这样在城里开起来方便。"
+              },
+              {
+                "en": "M: I have a friend who sells second-hand cars. In fact, I think his family owns the business. He's a really nice guy, and he knows a lot about cars. I could give you his phone number if you want, and you could call him and ask him questions.",
+                "zh": "M: 我有个朋友卖二手车。实际上，我觉得他家就是做这个生意的。他人特别好，而且很懂车。如果你愿意的话，我可以把他的电话号码给你，你可以打给他问问题。"
+              },
+              {
+                "en": "W: Hmm, that's nice of you, but I don't want to feel obliged to buy one of his cars.",
+                "zh": "W: 嗯，你人挺好的，但我不想觉得有义务必须买他的车。"
+              },
+              {
+                "en": "M: Oh, no, he's not like that. He's a good friend of mine, and he would never try to pressure you or cheat you.",
+                "zh": "M: 哦，不会的，他不是那样的人。他是我的好朋友，他绝不会试图向你施压或者骗你。"
+              },
+              {
+                "en": "W: Well, if you trust him, then, I guess it should be OK. To be honest, I could use some help in deciding what type of vehicle would best suit my needs. Speaking to an expert would be a good idea.",
+                "zh": "W: 嗯，如果你信任他的话，那我想应该没问题。说实话，在决定什么类型的车最适合我的需求这方面，我确实需要一些帮助。跟专家聊聊会是个好主意。"
+              },
+              {
+                "en": "M: Exactly. You have nothing to worry about. He's a lovely guy, and he'll be happy to help.",
+                "zh": "M: 没错。你完全不用担心。他人很好，会很乐意帮忙的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many escaped from farms and became wild."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were actually native to North America."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many got killed in the wild when searching for food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were hunted by Spanish and Russian explorers."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They often make sudden attacks on people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They break up nature's food supply chain."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They cause much environmental pollution."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They carry a great many diseases."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They lived peacefully with wild pigs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They ran out of food completely."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They fell victim to eagles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They reproduced quickly.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Pigs are not native to North America. They were first introduced to California by Spanish and Russian explorers and settlers many centuries ago. In the early times, pigs were allowed to wander freely in search of food. This practice also allowed many pigs to escape from farms and live in the wild, which became a problem.",
+                "zh": "猪并非北美洲的原生物种。它们最早是在许多世纪前由西班牙和俄罗斯的探险者及定居者引入加利福尼亚的。在早期,猪被允许自由游荡觅食。这种做法也使许多猪从农场逃脱并在野外生活,这成为了一个问题。"
+              },
+              {
+                "en": "In fact, as one of the most damaging invasive species on the continent, wild pigs cause millions of dollars in crop damage yearly. They also harbor dozens of diseases that threaten both humans and farm animals. Forest patches with wild pigs have been found to have considerably reduced plant and animal diversity. In addition to either eating other animals or their food supply, wild pigs damage native habitats by rooting up grasses and rubbing on trees. Their activities may also create opportunities for invasive plants to colonize these areas. Wild pigs will eat almost anything containing calories. Mice, deer, birds, snakes and frogs are among their victims. They can also harm other wild species through indirect competition, rather than eating them or shrinking their food supply. On one particular United States island, wild pigs themselves became an attractive food source for a species of mainland eagle. The eagles began breeding on the island, and also feeding on a species of native fox. The foxes were almost wiped out completely.",
+                "zh": "事实上,作为该大陆上破坏性最强的入侵物种之一,野猪每年造成数百万美元的作物损失。它们还携带数十种威胁人类和家畜的疾病。有野猪出没的林地被发现植物和动物多样性大幅减少。除了吃掉其他动物或它们的食物来源外,野猪还通过拱掘草地和摩擦树木破坏原生栖息地。它们的活动也可能为入侵植物在这些地区定殖创造机会。野猪几乎会吃任何含有热量的东西。老鼠、鹿、鸟类、蛇和青蛙都是它们的受害者。它们还可以通过间接竞争而非吃掉其他野生物种或减少其食物供应来伤害它们。在美国的一个特定岛屿上,野猪本身成为了一种大陆鹰的诱人食物来源。这些鹰开始在岛上繁殖,并且也以一种本地狐狸为食。这些狐狸几乎被完全消灭。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Taste coffee while in outer space."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Roast coffee beans in outer space."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Develop a new strain of coffee bean."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Use a pressurised tank to brew coffee."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can easily get burned."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They float around in the oven."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have to be heated to 360℃."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They receive evenly distributed heat."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They charged a high price for their space-roasted coffee beans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They set up a branch in Dubai to manufacture coffee roasters."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They collaborated on building the first space coffee machine."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They abandoned the attempt to roast coffee beans in space.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A pair of entrepreneurs are planning to build and launch a spacecraft that would carry and roast coffee beans in outer space.",
+                "zh": "一对创业者正计划建造并发射一艘航天器，用于在外太空中携带并烘焙咖啡豆。"
+              },
+              {
+                "en": "The craft will use the heat of re-entry to roast coffee beans as they float inside it in a pressurised tank. The effect would be to roast the beans all over, and produce perfect coffee. The businessmen say that on Earth, beans can easily break apart and get burned in the roaster. But if gravity is removed, the beans float around in a heated oven, receiving 360 degrees of evenly distributed heat and roast to near perfection.",
+                "zh": "该航天器将利用再入大气层时产生的热量来烘焙咖啡豆,豆子会在一个加压舱内漂浮。这种方式能够全方位烘焙咖啡豆,制作出完美的咖啡。这两位商人表示,在地球上,咖啡豆在烘焙机中很容易破碎和烧焦。但如果去除重力,咖啡豆就会在加热的烤箱中四处漂浮,接受360度均匀分布的热量,烘焙至近乎完美的状态。"
+              },
+              {
+                "en": "The spacecraft will reach a height of around 200 km. The beans would then be roasted in the heat generated by the craft's 20-minute re-entry into Earth's atmosphere. Temperatures in the pressurised tank will be kept to around 200℃.",
+                "zh": "航天器将到达约200公里的高度。随后咖啡豆将在航天器重返地球大气层的20分钟过程中,利用产生的热量进行烘焙。加压舱内的温度将保持在200℃左右。"
+              },
+              {
+                "en": "Once back on Earth, the planet's first space-roasted beans would be used to make coffee that would be sold for the first time in Dubai. This is where the pair's company is based. It is not clear how much they would charge for a cup.",
+                "zh": "返回地球后,这些地球上首批太空烘焙的咖啡豆将被用来制作咖啡,并首次在Dubai销售。这正是这对创业者公司的所在地。目前尚不清楚他们会对一杯咖啡收取多少费用。"
+              },
+              {
+                "en": "Surprisingly, the Space Roaster concept—should it go ahead—will not be the first attempt to take coffee into space. In 2015, two Italian companies collaborated on the construction of a similar type of spacecraft, which was the first coffee machine designed for use in space.",
+                "zh": "令人惊讶的是,Space Roaster概念——如果能够实施的话——将不是首次尝试将咖啡带入太空。2015年,两家意大利公司合作建造了一种类似的航天器,那是首台为太空使用而设计的咖啡机。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the best time for sightseeing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A race passes through it annually."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They come to clean the Iditarod Trail."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is when the villagers choose a queen."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its children's baking skills."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its unique winter scenery."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its tasty fruit pies."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its great food variety."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The contestants."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The entire village."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Jan Newton and her friends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People from the state of Idaho."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She owned a restaurant in Idaho."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She married her husband in 1972."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She went to Alaska to compete in a race."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She helped the village to become famous."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In cold and snowy Alaska, there's a village called Takotna. It has a population of a mere 49 souls. Each March, this tiny village swells up in numbers, because it is located in the middle of a race that takes place every year. It is a seven-day race, called the Iditarod Trail, and participants stop at Takotna for their obligatory 24-hour rest. Lucky for them, Takotna is famous for its delicious fruit pies.",
+                "zh": "在寒冷多雪的阿拉斯加，有一个名叫Takotna的村庄。它的人口仅有49人。每年三月，这个小村庄的人数会激增，因为它位于一年一度举行的比赛路线中途。这是一场为期七天的比赛，名为Iditarod Trail，参赛者会在Takotna停留进行规定的24小时休息。对他们来说幸运的是，Takotna以其美味的水果派而闻名。"
+              },
+              {
+                "en": "Weeks before the competitors arrive, the residents of Takotna start preparing for what is without question their biggest event of the year. The whole village chips in to help, including the kids, who end up developing their baking skills at an early age. The exhausted and hungry racers are greeted with delightful pies of all kinds, such as apple, orange, lemon or banana. They consume the pies as stomach warming race fuel. The toughness of the race allows for racers to eat pretty much whatever they want. The more calories, the better.",
+                "zh": "在参赛者到来前几周，Takotna的居民就开始为这场毫无疑问是他们全年最盛大的活动做准备。全村人都参与帮忙，包括孩子们，他们因此在很小的时候就开始培养烘焙技能。筋疲力尽且饥肠辘辘的参赛者会受到各种美味派的款待，比如苹果派、橙子派、柠檬派或香蕉派。他们将这些派作为暖胃的比赛燃料来食用。比赛的艰苦程度使得参赛者几乎可以想吃什么就吃什么。卡路里越高越好。"
+              },
+              {
+                "en": "Takotna has gained a reputation for its dessert-based hospitality since the 1970s. It started with one person, Jan Newton. Jan moved from Idaho with her husband in 1972 and opened a restaurant. Her rich and filling-fruit pies quickly got the racers' attention, and the village gained some fame as a result. Proud residents then started to refer to Jan as Queen of Takotna.",
+                "zh": "自20世纪70年代以来，Takotna因其以甜点为特色的热情好客而声名远扬。这一切始于一个人，Jan Newton。Jan和她的丈夫在1972年从Idaho搬来，并开了一家餐厅。她制作的香浓饱腹的水果派很快引起了参赛者的注意，村庄也因此获得了一些名气。自豪的居民随后开始称Jan为Takotna女王。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Most animals seek shade when temperatures in the Sahara Desert soar to 120 degrees Fahrenheit. But for the Saharan silver ant,"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "from their underground nests into the sun's brutal rays to"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "for food, this is the perfect time to seek lunch. In 2015 these ants were joined in the desert by scientists from two Belgian universities, who spent a month in the"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "heat tracking the ants and digging out their nests. The goal was simple, to discover how the"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "adapted to the kind of heat that can"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "melt the bottom of shoes. Back in Belgium, the scientists looked at the ants under an electronic microscope and found that their"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ", triangular hair reflects light like a prism(棱镜), giving them a metallic reflection and protecting them from the sun's awful heat. When Ph.D. student Quentin Willot"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "the hair from an ant with a"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "knife and put it under a heat lamp, its temperature jumped. The ants' method of staying cool is"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "among animals. Could this reflective type of hair protect people? Willot says companies are interested in"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "these ants' method of heat protection for human use, including everything from helping to protect the lives of firefighters to keeping homes cool in summer."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "adapting"
+        },
+        {
+          "l": "B",
+          "w": "consciously"
+        },
+        {
+          "l": "C",
+          "w": "crawling"
+        },
+        {
+          "l": "D",
+          "w": "crowded"
+        },
+        {
+          "l": "E",
+          "w": "extreme"
+        },
+        {
+          "l": "F",
+          "w": "hunt"
+        },
+        {
+          "l": "G",
+          "w": "literally"
+        },
+        {
+          "l": "H",
+          "w": "moderate"
+        },
+        {
+          "l": "I",
+          "w": "remote"
+        },
+        {
+          "l": "J",
+          "w": "removed"
+        },
+        {
+          "l": "K",
+          "w": "species"
+        },
+        {
+          "l": "L",
+          "w": "specimens"
+        },
+        {
+          "l": "M",
+          "w": "thick"
+        },
+        {
+          "l": "N",
+          "w": "tiny"
+        },
+        {
+          "l": "O",
+          "w": "unique"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "C"
+        },
+        {
+          "n": 27,
+          "a": "F"
+        },
+        {
+          "n": 28,
+          "a": "E"
+        },
+        {
+          "n": 29,
+          "a": "K"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "M"
+        },
+        {
+          "n": 32,
+          "a": "J"
+        },
+        {
+          "n": 33,
+          "a": "N"
+        },
+        {
+          "n": 34,
+          "a": "O"
+        },
+        {
+          "n": 35,
+          "a": "A"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The start of high school doesn't have to be stressful",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "This month, more than 4 million students across the nation will begin high school. Many will do well. But many will not. Consider that nearly two-thirds of students will experience the \"ninth-grade shock,\" which refers to a dramatic drop in a student's academic performance. Some students cope with this shock by avoiding challenges. For instance, they may drop difficult coursework. Others may experience a hopelessness that results in failing their core classes, such as English, science and math."
+        },
+        {
+          "l": "B",
+          "t": "This should matter a great deal to parents, teachers and policymakers. Ultimately it should matter to the students themselves and society at large, because students' experience of transitioning(过渡) to the ninth grade can have long-term consequences not only for the students themselves but for their home communities. We make these observations as research psychologists who have studied how schools and families can help young people thrive."
+        },
+        {
+          "l": "C",
+          "t": "In the new global economy, students who fail to finish the ninth grade with passing grades in college preparatory coursework are very unlikely to graduate on time and go on to get jobs. One study has calculated that the lifetime benefit to the local economy for a single additional student who completes high school is half a million dollars or more. This is based on higher earnings and avoided costs in health care, crime, welfare dependence and other things."
+        },
+        {
+          "l": "D",
+          "t": "The consequences of doing poorly in the ninth grade can impact more than students' ability to find a good job. It can also impact the extent to which they enjoy life. Students lose many of the friends they turned to for support when they move from the eighth to the ninth grade. One study of ninth-grade students found that 50 percent of friendships among ninth graders changed from one month to the next, signaling striking instability in friendships."
+        },
+        {
+          "l": "E",
+          "t": "In addition, studies find the first year of high school typically shows one of the greatest increases in depression of any year over the lifespan. Researchers think that one explanation is that ties to friends are broken while academic demands are rising. Furthermore, most adult cases of clinical depression first emerge in adolescence(青春期). The World Health Organization reports that depression has the greatest burden of disease worldwide, in terms of the total cost of treatment and the loss of productivity."
+        },
+        {
+          "l": "F",
+          "t": "Given all that's riding on having a successful ninth grade experience, it pays to explore what can be done to meet the academic, social and emotional challenges of the transition to high school. So far, our studies have yielded one main insight: Students' beliefs about change—their beliefs about whether people are stuck one way forever, or whether people can change their personalities and abilities—are related to their ability to cope, succeed academically and maintain good mental health. Past research has called these beliefs \"mindsets(思维模式),\" with a \"fixed mindset\" referring to the belief that people cannot change and a \"growth mindset\" referring to the belief that people can change."
+        },
+        {
+          "l": "G",
+          "t": "In one recent study, we examined 360 adolescents' beliefs about the nature of \"smartness\"—that is, their fixed mindsets about intelligence. We then assessed biological stress responses for students whose grades were dropping by examining their stress hormones(荷尔蒙). Students who believed that intelligence is fixed —that you are stuck being \"not smart\" if you struggle in school—showed higher levels of stress hormones when their grades were declining at the beginning of the ninth grade. If students believed that intelligence could improve—that is to say, when they held more of a growth mindset of intelligence—they showed lower levels of stress hormones when their grades were declining. This was an exciting result because it showed that the body's stress responses are not determined solely by one's grades. Instead, declining grades only predicted worse stress hormones among students who believed that worsening grades were a permanent and hopeless state of affairs."
+        },
+        {
+          "l": "H",
+          "t": "We also investigated the social side of the high school transition. In this study, instead of teaching students that their smartness can change, we taught them that their social standing—that is, whether they are bullied or excluded or left out—can change over time. We then looked at high school students' stress responses to daily social difficulties. That is, we taught them a growth mindset about their social lives. In this study, students came into the laboratory and were asked to give a public speech in front of upper-year students. The topic of the speech was what makes one popular in high school. Following this, students had to complete a difficult mental math task in front of the same upper-year students."
+        },
+        {
+          "l": "I",
+          "t": "Experiment results showed that students who were not taught that people can change showed poor stress responses. When these students gave the speech, their blood vessels contracted and their hearts pumped less blood through the body—both responses that the body shows when it is preparing for damage or defeat after a physical threat. Then they gave worse speeches and made more mistakes in math. But when students were taught that people can change, they had better responses to stress, in part because they felt like they had the resources to deal with the demanding situation. Students who got the growth mindset intervention( 干预) showed less-contracted blood vessels and their hearts pumped more blood—both of which contributed to more oxygen getting to the brain, and, ultimately, better performance on the speech and mental math tasks."
+        },
+        {
+          "l": "J",
+          "t": "These findings lead to several possibilities that we are investigating further. First, we are working to replicate( 复制) these findings in more diverse school communities. We want to know in which types of schools and for which kinds of students these growth mindset ideas help young people adapt to the challenges of high school. We also hope to learn how teachers, parents or school counselors can help students keep their ongoing academic or social difficulties in perspective. We wonder what would happen if schools helped to make beliefs about the potential for change and improvement a larger feature of the overall school culture, especially for students starting the ninth grade."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "The number of people experiencing depression shows a sharp increase in the first year of high school.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "According to one study, students' academic performance is not the only decisive factor of their stress responses.",
+          "a": "G"
+        },
+        {
+          "n": 38,
+          "s": "Researchers would like to explore further how parents and schools can help ninth graders by changing their mindset.",
+          "a": "J"
+        },
+        {
+          "n": 39,
+          "s": "According to one study, each high school graduate contributes at least 500,000 dollars to the local economy.",
+          "a": "C"
+        },
+        {
+          "n": 40,
+          "s": "In one study, students were told their social position in school is not unchangeable.",
+          "a": "H"
+        },
+        {
+          "n": 41,
+          "s": "It is reported that depression results in enormous economic losses worldwide.",
+          "a": "E"
+        },
+        {
+          "n": 42,
+          "s": "One study showed that friendships among ninth graders were far from stable.",
+          "a": "D"
+        },
+        {
+          "n": 43,
+          "s": "More than half of students will find their academic performance declining sharply when they enter the ninth grade.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "Researchers found through experiments that students could be taught to respond to stress in a more positive way.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "It is beneficial to explore ways to cope with the challenges facing students entering high school.",
+          "a": "F"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Educators and business leaders have more in common than it may seem. Teachers want to prepare students for a successful future. Technology companies have an interest in developing a workforce with the STEM (science, technology, engineering and math) skills needed to grow the company and advance the industry. How can they work together to achieve these goals? Play may be the answer. Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. This combination is proving to be the best way to prepare today's children to be the makers and builders of tomorrow. That is why technology companies are partnering with educators to bring back good, old-fashioned play. In fact many experts argue that the most important 21st-century skills aren't related to specific technologies or subject matter, but to creativity; skills like imagination, problem-finding and problem-solving, teamwork, optimism, patience and the ability to experiment and take risks. These are skills acquired when kids tinker(鼓捣 小玩意). High-tech industries such as NASA's Jet Propulsion Laboratory have found that their best overall problem solvers were master tinkerers in their youth. There are cognitive( 认知的) benefits of doing things the way we did as children—building something, tearing it down, then building it up again. Research shows that given 15 minutes of free play, four- and five- year-olds will spend a third of this time engaged in spatial, mathematical, and architectural activities. This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry. If play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, so fostering(培养) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older. Secondly, it doesn't take 21st- century technology to foster 21st-century skills. This is especially important for under-resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important \"maker\" skills. And anyone, anywhere, can do it.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the author say about educators?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They seek advice from technology companies to achieve teaching goals."
+              },
+              {
+                "l": "B",
+                "t": "They have been successful in preparing the workforce for companies."
+              },
+              {
+                "l": "C",
+                "t": "They help students acquire the skills needed for their future success."
+              },
+              {
+                "l": "D",
+                "t": "They partner with technology companies to enhance teaching efficiency."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "How can educators better develop students' STEM skills, according to the author?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By blending them with traditional, stimulating activities."
+              },
+              {
+                "l": "B",
+                "t": "By inviting business leaders to help design curriculums."
+              },
+              {
+                "l": "C",
+                "t": "By enhancing students' ability to think in a critical way."
+              },
+              {
+                "l": "D",
+                "t": "By showing students the best way to learn is through play."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "How do children acquire the skills needed for the 21st century?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By engaging in activities involving specific technologies."
+              },
+              {
+                "l": "B",
+                "t": "By playing with things to solve problems on their own."
+              },
+              {
+                "l": "C",
+                "t": "By familiarizing themselves with high-tech gadgets."
+              },
+              {
+                "l": "D",
+                "t": "By mastering basic principles through teamwork."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What can we do to help children learn the basics of math and geometry?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Stimulate their interest as early as possible."
+              },
+              {
+                "l": "B",
+                "t": "Spend more time playing games with them."
+              },
+              {
+                "l": "C",
+                "t": "Encourage them to make things with hands."
+              },
+              {
+                "l": "D",
+                "t": "Allow them to tinker freely with calculators."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What does the author advise disadvantaged schools and communities to do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Train students to be makers to meet future market demands."
+              },
+              {
+                "l": "B",
+                "t": "Develop students' creative skills with the resources available."
+              },
+              {
+                "l": "C",
+                "t": "Engage students with challenging tasks to foster their creativity."
+              },
+              {
+                "l": "D",
+                "t": "Work together with companies to improve their teaching facilities."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Being an information technology, or IT, worker is not a job I envy. They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working. They have to tolerate the bad tempers of colleagues frustrated at the number of times they've had to call the help desk for the same issue. They are also the ones who know there are systems that are more powerful, reliable and faster, but their employer simply will not put up the funds to buy them. According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction. Through no fault of their own, they can suddenly find their productivity deteriorating or quality control non-existent. And there's little they can do about it. The experience of using IT penetrates almost the entire work field. It has become a crucial part of employees' overall work experience. When IT is operating as it should, employee self-confidence swells. Their job satisfaction, too, can surge when well-functioning machines relieve them of dull tasks or repetitive processes. But if there's one thing that triggers widespread employee frustration, it's an IT transformation project gone wrong, where swollen expectations have been popped and a long list of promised efficiencies has been reversed. This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user. Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. Adequate and timely IT support should also be available to enable users to cope with technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT. Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees' work, rather than adjust their work to fit in with the company's IT limitations.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about working in IT?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is envied by many."
+              },
+              {
+                "l": "B",
+                "t": "It does not appeal to him."
+              },
+              {
+                "l": "C",
+                "t": "It is financially rewarding."
+              },
+              {
+                "l": "D",
+                "t": "It does not match his abilities."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What is the finding of a recent survey on employees who have a job reliant on IT support?",
+            "o": [
+              {
+                "l": "A",
+                "t": "IT helps boost productivity."
+              },
+              {
+                "l": "B",
+                "t": "IT helps improve quality control."
+              },
+              {
+                "l": "C",
+                "t": "Many employees are deeply frustrated by IT."
+              },
+              {
+                "l": "D",
+                "t": "Most employees rely heavily on IT in their work."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What is said to happen when IT is functioning properly?",
+            "o": [
+              {
+                "l": "A",
+                "t": "There is a big boost in employees' work efficiency."
+              },
+              {
+                "l": "B",
+                "t": "Employees become more dependent on machines."
+              },
+              {
+                "l": "C",
+                "t": "There are no longer any boring or repetitive tasks."
+              },
+              {
+                "l": "D",
+                "t": "Employees become more confident in their work."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What should business leaders do before implementing new IT initiatives?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Consider the various expectations of their customers."
+              },
+              {
+                "l": "B",
+                "t": "Draw up a list of the efficiencies to be promised."
+              },
+              {
+                "l": "C",
+                "t": "Assess the swollen cost of training the employees."
+              },
+              {
+                "l": "D",
+                "t": "Think about the possible effects on their employees."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "How can a business help improve its employees' experience in using IT?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By designing systems that suit their needs."
+              },
+              {
+                "l": "B",
+                "t": "By ensuring that their mental health is sound."
+              },
+              {
+                "l": "C",
+                "t": "By adjusting their work to suit the IT system."
+              },
+              {
+                "l": "D",
+                "t": "By offering them regular in-service training."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "铁观音(Tieguanyin)是中国最受欢迎的茶之一,原产于福建省安溪县西坪镇,如今安溪全县普遍种植，但该县 不同地区生产的铁观音又各具风味。铁观音一年四季均可采摘,尤以春秋两季采摘的茶叶品质最佳。铁观音的 加工非常复杂,需要专门的技术和丰富的经验。铁观音含有多种维生素,喝起来口感独特。常饮铁观音有助于预 防心脏病、降低血压、增强记忆力。",
+    "reference": "Tieguanyin, originating in Xiping Town, Anxi County, Fujian Province, is one of the most popular teas in China, and is now widely cultivated throughout Anxi County, while that produced in different parts of the county has its own distinctive flavor. Tieguanyin can be picked all year round, with those picked in spring and autumn being of the highest quality. The processing of Tieguanyin is highly complex, requiring specialized techniques and extensive experience. Tieguanyin contains various vitamins and has a unique taste. Drinking Tieguanyin regularly helps prevent heart disease, lower blood pressure, and improve memory."
+  }
+}

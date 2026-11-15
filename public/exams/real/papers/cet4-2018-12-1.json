@@ -1,0 +1,1308 @@
+{
+  "id": "cet4-2018-12-1",
+  "level": "cet4",
+  "year": 2018,
+  "month": 12,
+  "set": 1,
+  "title": "2018年12月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on the challenges of living in a big city. You should write at least 120 words but no more than 180 words.",
+    "sample": "Living in a big city may look glamorous, but it actually confronts ordinary residents with a series of tough challenges. From my point of view, three of them stand out and deserve our serious attention.To begin with, the high cost of living places a heavy financial burden on city dwellers. Renting even a small apartment near the centre can easily swallow half of an average monthly salary. In addition, overcrowding makes daily life exhausting, for commuters are often packed into a crowded subway carriage for more than an hour twice a day. Moreover, the fast pace and fierce competition leave many people constantly stressed, while neighbours living next door barely know one another.In conclusion, expensive housing, overcrowding and mounting pressure are the real prices of urban life. Only by budgeting wisely and setting aside time to relax can we cope with these challenges instead of being overwhelmed by them."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Land a space vehicle on the moon in 2019."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Design a new generation of mobile phones."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Set up a mobile phone network on the moon."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Gather data from the moon with a tiny device."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is stable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is durable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is inexpensive."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is sophisticated.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A device that weighs less than one kilogram is part of a mission that will allow scientists to deliver fourth generation or 4G mobile coverage to the moon in 2019. If successful, the tiny device will provide the moon with its first-ever mobile phone network. The lunar network will support high-definition streaming of video and data between the moon and Earth. The network is part of Mission to the Moon. This is a project with the goal of landing the first privately paid for mission to the moon. The 4G mission is set to launch from Cape Canaveral in the United States on a SpaceX Falcon 9 rocket in 2019. Mission to the Moon intends to establish and test the first elements of a communications network on the moon. The scientists working on the project opted to build a 4G, rather than a fifth generation or 5G network. This is because fifth generation networks are still in testing and trial phases. This means that a 5G network may not yet be stable enough to work on the moon's surface.",
+                "zh": "一个重量不到一公斤的设备是一项任务的一部分，该任务将使科学家能够在2019年向月球提供第四代或4G移动覆盖。如果成功，这个微型设备将为月球提供有史以来第一个移动电话网络。该月球网络将支持月球与地球之间高清视频和数据的传输。该网络是登月任务的一部分。这是一个旨在实现首次私人付费登月任务的项目。4G任务定于2019年从美国卡纳维拉尔角由SpaceX猎鹰9号火箭发射。登月任务旨在建立并测试月球上通信网络的首批要素。参与该项目的科学家选择建立4G网络，而不是第五代或5G网络。这是因为第五代网络仍处于测试和试验阶段。这意味着5G网络可能还不够稳定，无法在月球表面运行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It lasted more than six hours."
+                  },
+                  {
+                    "l": "B",
+                    "t": "No injuries were yet reported."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Nobody was in the building when it broke out."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It had burned for 45 minutes by the time firefighters arrived."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Recruit and train more firefighters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Pull down the deserted shopping mall."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Turn the shopping mall into an amusement park."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Find money to renovate the local neighborhood.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Firefighters responded to a fire Wednesday night at an abandoned mall in Hayward. The fire was reported at 9:26 p.m. at an old shopping centre on Mission Avenue near Saint Mary's church. Six fire engines, two trucks and two chiefs responded to the scene. Crews had the fire under control in about 45 minutes and managed to contain the fire to its point of origin. There were some people inside the building when the fire broke out, but there were no reports of any injuries. Fire investigators have responded to the scene but have not yet determined the cause of the fire. Firefighters will remain on the scene until later this morning to ensure that the fire doesn't start up again. The shopping mall had not been in use since 2002. In 2014, City Hall developed a plan to knock down the building and replace it with affordable housing. However, the plan was dropped due to lack of funds.",
+                "zh": "消防员周三晚上对Hayward一座废弃购物中心的火灾做出了响应。火灾于晚上9点26分在Mission Avenue靠近Saint Mary's教堂的一座旧购物中心被报告。六辆消防车、两辆卡车和两名消防队长赶到现场。消防人员在大约45分钟内控制住了火势,并成功将火势控制在起火点。火灾发生时建筑物内有一些人,但没有人员伤亡的报告。火灾调查人员已赶到现场,但尚未确定起火原因。消防员将在现场留守至今天上午晚些时候,以确保火势不会再次燃起。该购物中心自2002年以来一直未投入使用。2014年,市政厅制定了一项计划,拟拆除该建筑并用经济适用房取而代之。然而,该计划因缺乏资金而被放弃。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Shrinking potato farming."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Heavy reliance on import."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Widespread plant disease."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Insufficient potato supply."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It intends to keep its traditional diet."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It wants to expand its own farming."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is afraid of the spread of disease."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is worried about unfair competition."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Global warming."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ever-rising prices."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Government regulation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Diminishing investment."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Potato chips in Japan are being sold for 6 times their normal price. This is after the country's main manufacturer stopped sales due to a potato shortage. Storms and floods in its main potato-growing region last year caused the worst harvest in more than 3 decades. Local media reports suggest Calbee and its main rival Koike-Ya are halting almost 50 products. \"We don't know when we'll be able to restart,\" a company spokesman said. Snack lovers are panic buying, and many supermarket shelves are bare. Japanese laws limit the amount of imported potatoes that can be used in Japanese-made products. Japan says fear of disease is its main reason to block fresh imports. It still only allows potatoes from selected US states. This is only at certain times and on condition that they are processed at factories based near Japanese ports. But global warming has raised the possibility that domestic produce could be seriously affected by rare weather events more often.",
+                "zh": "日本的薯片正以正常价格6倍的价格出售。这是在该国主要制造商因马铃薯短缺而停止销售之后发生的。去年主要马铃薯种植区的暴风雨和洪水导致了30多年来最严重的歉收。当地媒体报道显示，Calbee及其主要竞争对手Koike-Ya正在停产近50种产品。一位公司发言人表示：\"我们不知道何时能够重新开始。\"零食爱好者正在恐慌性购买，许多超市货架已经空空如也。日本法律限制了可用于日本制造产品的进口马铃薯数量。日本表示担心疾病是其阻止新鲜进口的主要原因。它目前仍然只允许来自美国特定州的马铃薯。这也只是在特定时间，并且条件是它们必须在靠近日本港口的工厂进行加工。但全球变暖增加了国内产品可能更频繁地受到罕见天气事件严重影响的可能性。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Informative."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inspiring."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Dull."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Shallow."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She types on a keyboard."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She does recording."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She takes photos."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She takes notes."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It keeps her mind active."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It makes her stay awake."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It enables her to think hard."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It helps her kill time."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It enables her to improve her pronunciation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It helps her better remember what she learns."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It turns out to be an enjoyable way of learning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It proves to be far more effective than writing.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Mr. Brown's lectures are so boring.",
+                "zh": "M: 布朗先生的课太无聊了。"
+              },
+              {
+                "en": "W: Yes, he is not a very exciting speaker. But the subject is interesting.",
+                "zh": "W: 是啊，他讲课确实不太生动。但这门课的内容还是挺有意思的。"
+              },
+              {
+                "en": "M: During every one of his lectures, I try to listen. I really try, but after about ten minutes, my mind begins to wander and I lose concentration. But I see that you seem to be OK. How do you stay focused through the entire hour?",
+                "zh": "M: 每次上他的课，我都努力去听。我真的很努力，但大概十分钟之后，我的思绪就开始游离，注意力就不集中了。但我看你好像没问题。你是怎么在整整一小时里都保持专注的？"
+              },
+              {
+                "en": "W: Well, what I do is keep my pen moving.",
+                "zh": "W: 嗯，我的方法就是让笔一直动着。"
+              },
+              {
+                "en": "M: What do you mean?",
+                "zh": "M: 什么意思？"
+              },
+              {
+                "en": "W: It's a method of active concentration I read about. One of the most effective ways to concentrate is to write things down. But it has to be done by hand, not typing on a keyboard. You see, writing by hand forces you to actually engage with what you are learning in a more physical way.",
+                "zh": "W: 这是我读到的一种主动集中注意力的方法。最有效的集中注意力的方式之一就是把东西写下来。但必须是手写，不能用键盘打字。你看，手写会强迫你以一种更具身体性的方式真正投入到你正在学习的内容中。"
+              },
+              {
+                "en": "M: Do you review your notes afterwards then?",
+                "zh": "M: 那你之后会复习你的笔记吗？"
+              },
+              {
+                "en": "W: Sometimes, but that's not important. My notes may or may not be useful. But the point is that by writing down what Mr. Brown says, I can follow his line of thinking more easily. In fact, sometimes I draw a little too.",
+                "zh": "W: 有时候会，但这不重要。我的笔记可能有用也可能没用。但关键是，通过写下布朗先生说的话，我能更容易地跟上他的思路。其实有时候我还会画一点东西。"
+              },
+              {
+                "en": "M: You draw in class? And that helps you pay attention?",
+                "zh": "M: 你在课上画画？这还能帮你集中注意力？"
+              },
+              {
+                "en": "W: Yes, honestly, it works for me. I just draw little lines and nonsense really. It was also in that article I read. It can keep the mind active, prevent getting bored and help to concentrate. Again, the point is to listen hard while keeping the pen moving. If I'm at home and I need to study, what I do is read out loud. It has a similar effect to writing by hand. It helps memorize information in a physical way.",
+                "zh": "W: 是的，说实话，这对我管用。我就是画一些小线条什么的，其实没什么意义。这也是我在那篇文章里读到的。这能让大脑保持活跃，防止无聊，帮助集中注意力。再说一遍，关键是在让笔动起来的同时努力听讲。如果我在家需要学习，我会大声朗读。这和手写有类似的效果。它能以一种身体性的方式帮助记忆信息。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To spend her honeymoon."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To try authentic Indian food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To take photos of the Taj Mahal."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To trace the origin of a love story."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In memory of a princess."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In honor of a great emperor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To mark the death of an emperor of the 1600s."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To celebrate the birth of a princess's 14th child."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It looks older than expected."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is built of wood and bricks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It stores lots of priceless antiques."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has walls decorated with jewels."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their streets are narrow."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are mostly crowded."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Each one has a unique character."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Life can be tedious in some places."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: And where is this?",
+                "zh": "M: 这是哪里？"
+              },
+              {
+                "en": "W: These photos are from the Taj Mahal in India. We went there about ten years ago for our honeymoon.",
+                "zh": "W: 这些照片是在印度的泰姬陵拍的。我们大约十年前去那里度蜜月。"
+              },
+              {
+                "en": "M: Was it romantic?",
+                "zh": "M: 浪漫吗？"
+              },
+              {
+                "en": "W: Yeah, the Taj Mahal was a very romantic place. The guide told us there is a famous love story behind this building that all Indians learn in school. I think it was during the 1600s and the princess at that time died while giving birth to her 14th child. The emperor loved the princess so much and was so sad when she died that he ordered the palace to be built in her honor.",
+                "zh": "W: 是的，泰姬陵是个非常浪漫的地方。导游告诉我们这座建筑背后有一个著名的爱情故事，所有印度人在学校都会学到。我想是在1600年代，当时的王妃在生第14个孩子时去世了。皇帝非常爱王妃，她去世时他非常伤心，于是下令建造这座宫殿来纪念她。"
+              },
+              {
+                "en": "M: Wow, that sounds very romantic. It looks amazing.",
+                "zh": "M: 哇，听起来真浪漫。看起来太棒了。"
+              },
+              {
+                "en": "W: Yes. It's gorgeous. It's also larger in real life than it looks in the photos. The building is very tall and there are gardens and a wall around it all. It's all built in this white stone. (14) And some walls of the building are decorated with jewels.",
+                "zh": "W: 是的，非常壮观。实际上它比照片里看起来更大。建筑非常高，周围有花园和围墙。全部都是用这种白色石头建造的。建筑的一些墙面还装饰着宝石。"
+              },
+              {
+                "en": "M: It must have been very crowded when you were there.",
+                "zh": "M: 你们在那里的时候一定很拥挤吧。"
+              },
+              {
+                "en": "W: Yes. It's a very famous tourist destination, so there are thousands of visitors every day.",
+                "zh": "W: 是的。它是一个非常著名的旅游目的地，所以每天有成千上万的游客。"
+              },
+              {
+                "en": "M: Was the rest of India crowded?",
+                "zh": "M: 印度其他地方也很拥挤吗？"
+              },
+              {
+                "en": "W: Yes, very crowded in many cities. It was sometimes so crowded that it was difficult to walk along the streets, especially through busy markets. And there are so many cars. Traffic was terrible. But the people are friendly. The culture is amazing. And we had a great time.",
+                "zh": "W: 是的，很多城市都非常拥挤。有时候拥挤到很难沿着街道走，特别是穿过繁忙的市场。而且有那么多汽车，交通糟糕透了。但是人们很友好，文化很神奇，我们玩得很开心。"
+              },
+              {
+                "en": "M: What about the food?",
+                "zh": "M: 食物怎么样？"
+              },
+              {
+                "en": "W: Indian food is great. There are lots of different dishes to try, and every region has its own special food.",
+                "zh": "W: 印度菜很棒。有很多不同的菜可以尝试，每个地区都有自己的特色美食。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They help spread the latest technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They greatly enrich people's leisure life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They provide residents with the resources needed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They allow free access to digital books and videos."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By helping them find jobs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By inspiring their creativity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By keeping them off the streets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By providing a place of relaxation."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their interaction with teenagers proved fruitful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They used libraries less often than teenagers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They tended to visit libraries regularly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their number increased modestly.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A Pew Research Center survey of more than 1,000 Americans conducted in April, 2016, finds that Americans continue to express largely positive views about the current state of their local public libraries. For instance, around three quarters say that public libraries provide them with the resources they need. And 66% say the closing of their local public library would have a major impact on their community although notably, just 33% say this would have a major impact on them personally or on their family. A majority of Americans feel libraries are doing a good job of providing a safe place for people to hang out or spend time as well as opening up educational opportunities for people of all ages. And roughly half think their libraries contribute \"a lot\" to their communities in terms of helping spark creativity among young people and providing a trusted place for people to learn about new technologies. As in past Pew Research Center surveys of library use, the April 2016 survey also measured Americans' usage of and engagement with libraries. Overall, 53% of Americans, aged 16 and older, have had some interaction with a public library in the past year—either through an in-person visit or using a library website. Some 48% of adults specifically visited a library in the past 12 months, a modest increase from the 44% who said that in late 2015.",
+                "zh": "Pew研究中心于2016年4月对1000多名美国人进行的调查发现，美国人继续对当地公共图书馆的现状表达大体积极的看法。例如，约四分之三的人表示公共图书馆为他们提供了所需的资源。66%的人表示，如果当地公共图书馆关闭，将对其社区产生重大影响，不过值得注意的是，只有33%的人表示这将对他们个人或家庭产生重大影响。大多数美国人认为图书馆在为人们提供一个闲逛或消磨时间的安全场所，以及为各年龄段的人开辟教育机会方面做得很好。约半数人认为图书馆在帮助激发年轻人的创造力以及为人们提供学习新技术的可信赖场所方面对其社区贡献\"很大\"。与Pew研究中心过去关于图书馆使用情况的调查一样，2016年4月的调查也衡量了美国人对图书馆的使用和参与情况。总体而言，53%的16岁及以上美国人在过去一年中与公共图书馆有过某种互动——无论是通过亲自访问还是使用图书馆网站。48%的成年人在过去12个月中特别访问过图书馆，与2015年底表示访问过图书馆的44%相比略有增长。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the cleverest cat in the world."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the largest cat in Africa."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is an unusual cross breed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a large-sized wild cat."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are as loyal as dogs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have unusually long tails."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are fond of sleeping in cabinets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They know how to please their owners."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They shake their front paws."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They teach them to dive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They shower with them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They shout at them.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A Savannah cat is a cross breed between a domestic cat and a medium-sized wild African cat called the Serval. The unusual cross became popular among breeders at the end of the 1990s, and in 2001 the International Cat Association accepted it as a new registered breed. The Savannahs are tall and slim and can weigh up to 9.1 kilograms, making them one of the largest breeds of cats that people can own. They have a spotted coat similar to that of many types of wild cats and their ears are very large. They are also commonly compared to dogs in their loyalty, and can be trained to walk on a lead and to fetch. An often-noted characteristic of the Savannah is its jumping ability. They are known to jump on top of doors and high cabinets. Some can leap about 2.5 metres high from a standing position. Cats are typically known for being very inquisitive and so are the Savannahs. They often learn how to open doors and cupboards. Many Savannah cats do not fear water and will play with or even dive into water. Some owners even shower with their Savannah cats. Presenting a water bowl to a Savannah may also prove a challenge, as some will promptly begin to bat all the water out of the bowl until it is empty, using their front paws.",
+                "zh": "Savannah猫是家猫与一种中型非洲野生猫科动物Serval的杂交品种。这种不寻常的杂交品种在20世纪90年代末在繁育者中流行起来,2001年国际猫协会接受其为新注册品种。Savannah猫身材高挑纤细,体重可达9.1公斤,是人们可以饲养的最大猫品种之一。它们有着与许多野生猫科动物相似的斑点皮毛,耳朵非常大。它们的忠诚度也常被拿来与狗相比较,可以训练其用牵引绳行走和捡拾物品。Savannah猫一个经常被提及的特征是其跳跃能力。它们能跳到门顶和高柜子上。有些可以从站立姿势跳跃约2.5米高。猫通常以好奇心强而闻名,Savannah猫也是如此。它们经常学会如何打开门和橱柜。许多Savannah猫不怕水,会玩水甚至潜入水中。一些主人甚至与他们的Savannah猫一起淋浴。给Savannah猫提供水碗也可能是一个挑战,因为有些猫会立即开始用前爪把碗里的水全部拍出来,直到碗空为止。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Anxious and depressed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Contented and relieved."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Excited but somewhat sad."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Proud but a bit nervous."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is becoming parents' biggest concern."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is gaining increasing public attention."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It depends on their parents for success."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It starts the moment they are born."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Set a good example for them to follow."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Read books and magazines to them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help them to learn by themselves."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Choose the right school for them."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their intelligence."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their home life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The effort they put in learning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The quality of their school."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When children start school for the very first time, parents often feel a sense of excitement coupled with a touch of sadness at the end of an era. This is the start of a new adventure for children: playing and interacting with new friends, sharing, taking turns and settling into a new routine. But of course, this is not the start of your child's education which in fact began at birth. Back then, you would have been your child's most influential teachers. During this time at home, your child would have learned more than at any other period in their life. During your child's first year in school, much time will be spent in learning to read and they need to know that this is fun and worthwhile. Your child will naturally copy you, so it is important that you are seen reading and enjoying books, newspapers and magazines rather than just absorbed in screens. Ultimately, an excellent education should be a close partnership between parents and teachers. A child's year splits fairly neatly into thirds: a third at school, a third asleep and a third awake at home or on holiday. Irrespective of the quality of a school, a child's home life is of key importance. It is the determining factor of their academic success. Your child may have started on a new journey but your work is far from finished.",
+                "zh": "当孩子们第一次开始上学时,家长们往往会感到既兴奋又有些伤感,因为一个时代结束了。这是孩子们新冒险的开始:与新朋友一起玩耍和互动,分享,轮流以及适应新的日常安排。但当然,这并不是孩子教育的开始,事实上教育从出生时就已经开始了。那时候,你是孩子最有影响力的老师。在家里的这段时间,孩子学到的东西比生命中任何其他时期都多。在孩子入学的第一年,大部分时间将用于学习阅读,他们需要知道这是有趣的和值得的。你的孩子会自然地模仿你,所以重要的是让他们看到你在阅读和享受书籍、报纸和杂志,而不是只沉浸在屏幕中。归根结底,优质的教育应该是家长和教师之间的紧密合作。孩子的一年可以相当清晰地分为三部分:三分之一在学校,三分之一在睡觉,三分之一在家中或度假时醒着。无论学校的质量如何,孩子的家庭生活都至关重要。它是决定孩子学业成功的关键因素。你的孩子可能已经开始了新的旅程,但你的工作还远未结束。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Millions die early from air pollution each year. Air pollution costs the global economy more than $5 trillion annually in welfare costs, with the most serious"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "occurring in the developing world. The figures include a number of costs"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "with air pollution. Lost income alone amounts to $225 billion a year. The report includes both indoor and outdoor air pollution. Indoor pollution, which includes"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "like home heating and cooking, has remained"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "over the past several decades despite advances in the area. Levels of outdoor pollution have grown rapidly along with rapid growth in industry and transportation. Director of Institute for Health Metrics and Evaluation Chris Murray"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "it as an \"urgent call to action.\" \"One of the risk factors for premature deaths is the air we breathe, over which individuals have little"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ",\" he said. The effects of air pollution are worst in the developing world, where in some places lost-labor income"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "nearly 1% of GDP. Around 9 in 10 people in low- and middle-income countries live in places where they"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "experience dangerous levels of outdoor air pollution. But the problem is not limited"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "to the developing world. Thousands die prematurely in the U.S. as a result of related illnesses. In many European countries, where diesel( 柴油)"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "have become more common in recent years, that number reaches tens of thousands."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "ability"
+        },
+        {
+          "l": "B",
+          "w": "associated"
+        },
+        {
+          "l": "C",
+          "w": "consciously"
+        },
+        {
+          "l": "D",
+          "w": "constant"
+        },
+        {
+          "l": "E",
+          "w": "control"
+        },
+        {
+          "l": "F",
+          "w": "damage"
+        },
+        {
+          "l": "G",
+          "w": "described"
+        },
+        {
+          "l": "H",
+          "w": "equals"
+        },
+        {
+          "l": "I",
+          "w": "exclusively"
+        },
+        {
+          "l": "J",
+          "w": "innovated"
+        },
+        {
+          "l": "K",
+          "w": "regularly"
+        },
+        {
+          "l": "L",
+          "w": "relates"
+        },
+        {
+          "l": "M",
+          "w": "sources"
+        },
+        {
+          "l": "N",
+          "w": "undermine"
+        },
+        {
+          "l": "O",
+          "w": "vehicles"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "F"
+        },
+        {
+          "n": 27,
+          "a": "B"
+        },
+        {
+          "n": 28,
+          "a": "M"
+        },
+        {
+          "n": 29,
+          "a": "D"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "H"
+        },
+        {
+          "n": 33,
+          "a": "K"
+        },
+        {
+          "n": 34,
+          "a": "I"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Food-as-Medicine Movement Is Witnessing Progress",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Several times a month, you can find a doctor in the aisles of Ralph's market in Huntington Beach, California, wearing a white coat and helping people learn about food. On one recent day, this doctor was Daniel Nadeau, wandering the cereal aisle with Allison Scott, giving her some idea on how to feed kids who persistently avoid anything that is healthy. \"Have you thought about trying fresh juices in the morning?\" he asks her. \"The frozen oranges and apples are a little cheaper, and fruits are really good for the brain. Juices are quick and easy to prepare, you can take the frozen fruit out the night before and have it ready the next morning.\""
+        },
+        {
+          "l": "B",
+          "t": "Scott is delighted to get food advice from a physician who is program director of the nearby Mary and Dick Allen Diabetes Center, part of the St. Joseph Hoag Health alliance. The center's 'Shop with Your Doc' program sends doctors to the grocery store to meet with any patients who sign up for the service, plus any other shoppers who happen to be around with questions."
+        },
+        {
+          "l": "C",
+          "t": "Nadeau notices the pre-made macaroni(通心粉) and cheese boxes in Scott's shopping cart and suggests she switch to whole grain macaroni and real cheese. \"So I'd have to make it?\" she asks, her enthusiasm fading at the thought of how long that might take, just to have her kids reject it. \"I'm not sure they'd eat it. They just won't eat it.\""
+        },
+        {
+          "l": "D",
+          "t": "Nadeau says sugar and processed foods are big contributors to the rising diabetes rates among children. \"In America, over 50 percent of our food is processed food,\" Nadeau tells her. \"And only 5 percent of our food is plant-based food. I think we should try to reverse that.\" Scott agrees to try more fruit juices for the kids and to make real macaroni and cheese. Score one point for the doctor, zero for diabetes."
+        },
+        {
+          "l": "E",
+          "t": "Nadeau is part of a small revolution developing across California. The food-as-medicine movement has been around for decades, but it's making progress as physicians and medical institutions make food a formal part of treatment, rather than relying solely on medications(药物). By prescribing nutritional changes or launching programs such as \"Shop with your Doc\", they are trying to prevent, limit or even reverse disease by changing what patients eat. \"There's no question people can take things a long way toward reversing diabetes, reversing high blood pressure, even preventing cancer by food choices,\" Nadeau says."
+        },
+        {
+          "l": "F",
+          "t": "In the big picture, says Dr. Richard Afable, CEO and president of ST. Joseph Hoag Health, medical institutions across the state are starting to make a philosophical switch to becoming a health organization, not just a health care organization. That feeling echoes the beliefs of the Therapeutic Food Pantry program at Zuckerberg San Francisco General Hospital, which completed its pilot phase and is about to expand on an ongoing basis to five clinic sites throughout the city. The program will offer patients several bags of food prescribed for their condition, along with intensive training in how to cook it. \"We really want to link food and medicine, and not just give away food,\" says Dr. Rita Nguyen, the hospital's medical director of Healthy Food Initiatives. \"We want people to understand what they're eating, how to prepare it, the role food plays in their lives.\""
+        },
+        {
+          "l": "G",
+          "t": "In Southern California, Loma Linda University School of Medicine is offering specialized training for its resident physicians in Lifestyle Medicine — that is a formal specialty in using food to treat disease. Research findings increasingly show the power of food to treat or reverse diseases, but that does not mean that diet alone is always the solution, or that every illness can benefit substantially from dietary changes. Nonetheless, physicians say that they look at the collective data and a clear picture emerges: that the salt, sugar, fat and processed foods in the American diet contribute to the nation's high rates of obesity, diabetes and heart disease. According to the World Health Organization, 80 percent of deaths from heart disease and stroke are caused by high blood pressure, tobacco use, elevated cholesterol and low consumption of fruits and vegetables."
+        },
+        {
+          "l": "H",
+          "t": "\"It's a different paradigm(范式) of how to treat disease,\" says Dr. Brenda Rea, who helps run the family and preventive medicine residency program at Loma Linda University School of Medicine. The lifestyle medicine specialty is designed to train doctors in how to prevent and treat disease, in part, by changing patients' nutritional habits. The medical center and school at Loma Linda also has a food cupboard and kitchen for patients. This way, patients not only learn about which foods to buy, but also how to prepare them at home."
+        },
+        {
+          "l": "I",
+          "t": "Many people don't know how to cook, Rea says, and they only know how to heat things up. That means depending on packaged food with high salt and sugar content. So teaching people about which foods are healthy and how to prepare them, she says, can actually transform a patient's life. And beyond that, it might transform the health and lives of that patient's family. \"What people eat can be medicine or poison,\" Rea says. \"As a physician, nutrition is one of the most powerful things you can change to reverse the effects of long- term disease.\""
+        },
+        {
+          "l": "J",
+          "t": "Studies have explored evidence that dietary changes can slow inflammation(炎症), for example, or make the body inhospitable to cancer cells. In general, many lifestyle medicine physicians recommend a plant-based diet — particularly for people with diabetes or other inflammatory conditions."
+        },
+        {
+          "l": "K",
+          "t": "\"As what happened with tobacco, this will require a cultural shift, but that can happen,\" says Nguyen. \"In the same way physicians used to smoke, and then stopped smoking and were able to talk to patients about it, I think physicians can have a bigger voice in it.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "More than half of the food Americans eat is factory-produced.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "There is a special program that assigns doctors to give advice to shoppers in food stores.",
+          "a": "B"
+        },
+        {
+          "n": 38,
+          "s": "There is growing evidence from research that food helps patients recover from various illnesses.",
+          "a": "G"
+        },
+        {
+          "n": 39,
+          "s": "A healthy breakfast can be prepared quickly and easily.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Training a patient to prepare healthy food can change their life.",
+          "a": "I"
+        },
+        {
+          "n": 41,
+          "s": "One food-as-medicine program not only prescribes food for treatment but teaches patients how to cook it.",
+          "a": "F"
+        },
+        {
+          "n": 42,
+          "s": "Scott is not keen on cooking food herself, thinking it would simply be a waste of time.",
+          "a": "C"
+        },
+        {
+          "n": 43,
+          "s": "Diabetes patients are advised to eat more plant-based food.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "Using food as medicine is no novel idea, but the movement is making headway these days.",
+          "a": "E"
+        },
+        {
+          "n": 45,
+          "s": "Americans' high rates of various illnesses result from the way they eat.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "California has been facing a drought for many years now, with certain areas even having to pump freshwater hundreds of miles to their distribution system. The problem is growing as the population of the state continues to expand. New research has found deep water reserves under the state which could help solve their drought crisis. Previous drilling of wells could only reach depths of 1,000 feet, but due to new pumping practices, water deeper than this can now be extracted(抽取). The team at Stanford investigated the aquifers(地下 蓄水层) below this depth and found that reserves may be triple what was previously thought. It is profitable to drill to depths more than 1,000 feet for oil and gas extraction, but only recently in California has it become profitable to pump water from this depth. The aquifers range from 1,000 to 3,000 feet below the ground, which means that pumping will be expensive and there are other concerns. The biggest concern of pumping out water from this deep is the gradual settling down of the land surface. As the water is pumped out, the vacant space left is compacted by the weight of the earth above. Even though pumping from these depths is expensive, it is still cheaper than desalinating(脱盐) the ocean water in the largely coastal state. Some desalination plants exist where feasible, but they are costly to run and can need constant repairs. Wells are much more reliable sources of freshwater, and California is hoping that these deep wells may be the answer to their severe water shortage. One problem with these sources is that the deep water also has a higher level of salt than shallower aquifers. This means that some wells may even need to undergo desalination after extraction, thus increasing the cost. Research from the exhaustive study of groundwater from over 950 drilling logs has just been published. New estimates of the water reserves now go up to 2,700 billion cubic meters of freshwater.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "How could California's drought crisis be solved according to some researchers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By building more reserves of groundwater."
+              },
+              {
+                "l": "B",
+                "t": "By drawing water from the depths of the earth."
+              },
+              {
+                "l": "C",
+                "t": "By developing more advanced drilling devices."
+              },
+              {
+                "l": "D",
+                "t": "By upgrading its water distribution system."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What can be inferred about extracting water from deep aquifers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It was deemed vital to solving the water problem."
+              },
+              {
+                "l": "B",
+                "t": "It was not considered worth the expense."
+              },
+              {
+                "l": "C",
+                "t": "It may not provide quality freshwater."
+              },
+              {
+                "l": "D",
+                "t": "It is bound to gain support from the local people."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What is mentioned as a consequence of extracting water from deep underground?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The sinking of land surface."
+              },
+              {
+                "l": "B",
+                "t": "The harm to the ecosystem."
+              },
+              {
+                "l": "C",
+                "t": "The damage to aquifers."
+              },
+              {
+                "l": "D",
+                "t": "The change of the climate."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What does the author say about deep wells?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They run without any need for repairs."
+              },
+              {
+                "l": "B",
+                "t": "They are entirely free from pollutants."
+              },
+              {
+                "l": "C",
+                "t": "They are the ultimate solution to droughts."
+              },
+              {
+                "l": "D",
+                "t": "They provide a steady supply of freshwater."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What may happen when deep aquifers are used as water sources?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People's health may improve with cleaner water."
+              },
+              {
+                "l": "B",
+                "t": "People's water bills may be lowered considerably."
+              },
+              {
+                "l": "C",
+                "t": "The cost may go up due to desalination."
+              },
+              {
+                "l": "D",
+                "t": "They may be exhausted sooner or later."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The AlphaGo program's victory is an example of how smart computers have become. But can artificial intelligence (AI) machines act ethically, meaning can they be honest and fair? One example of AI is driverless cars. They are already on California roads, so it is not too soon to ask whether we can program a machine to act ethically. As driverless cars improve, they will save lives. They will make fewer mistakes than human drivers do. Sometimes, however, they will face a choice between lives. Should the cars be programmed to avoid hitting a child running across the road, even if that will put their passengers at risk? What about making a sudden turn to avoid a dog? What if the only risk is damage to the car itself, not to the passengers? Perhaps there will be lessons to learn from driverless cars, but they are not super-intelligent beings. Teaching ethics to a machine even more intelligent than we are will be the bigger challenge. About the same time as AlphaGo's triumph, Microsoft's 'chatbot' took a bad turn. The software, named Taylor, was designed to answer messages from people aged 18-24. Taylor was supposed to be able to learn from the messages she received. She was designed to slowly improve her ability to handle conversations, but some people were teaching Taylor racist ideas. When she started saying nice things about Hitler, Microsoft turned her off and deleted her ugliest messages. AlphaGo's victory and Taylor's defeat happened at about the same time. This should be a warning to us. It is one thing to use AI within a game with clear rules and clear goals. It is something very different to use AI in the real world. The unpredictability of the real world may bring to the surface a troubling software problem. Eric Schmidt is one of the bosses of Google, which owns AlphaGo. He thinks AI will be positive for humans. He said people will be the winner, whatever the outcome. Advances in AI will make human beings smarter, more able and \"just better human beings.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author want to show with the example of AlphaGo's victory?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Computers will prevail over human beings."
+              },
+              {
+                "l": "B",
+                "t": "Computers have unmatched potential."
+              },
+              {
+                "l": "C",
+                "t": "Computers are man's potential rivals."
+              },
+              {
+                "l": "D",
+                "t": "Computers can become highly intelligent."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What does the author mean by AI machines acting ethically?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are capable of predicting possible risks."
+              },
+              {
+                "l": "B",
+                "t": "They weigh the gains and losses before reaching a decision."
+              },
+              {
+                "l": "C",
+                "t": "They make sensible decisions when facing moral dilemmas."
+              },
+              {
+                "l": "D",
+                "t": "They sacrifice everything to save human lives."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What is said to be the bigger challenge facing humans in the AI age?",
+            "o": [
+              {
+                "l": "A",
+                "t": "How to make super-intelligent AI machines share human feelings."
+              },
+              {
+                "l": "B",
+                "t": "How to ensure that super-intelligent AI machines act ethically."
+              },
+              {
+                "l": "C",
+                "t": "How to prevent AI machines doing harm to humans."
+              },
+              {
+                "l": "D",
+                "t": "How to avoid being over-dependent on AI machines."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What do we learn about Microsoft's \"chatbot\" Taylor?",
+            "o": [
+              {
+                "l": "A",
+                "t": "She could not distinguish good from bad."
+              },
+              {
+                "l": "B",
+                "t": "She could turn herself off when necessary."
+              },
+              {
+                "l": "C",
+                "t": "She was not made to handle novel situations."
+              },
+              {
+                "l": "D",
+                "t": "She was good at performing routine tasks."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does Eric Schmidt think of artificial intelligence?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will be far superior to human beings."
+              },
+              {
+                "l": "B",
+                "t": "It will keep improving as time goes by."
+              },
+              {
+                "l": "C",
+                "t": "It will prove to be an asset to human beings."
+              },
+              {
+                "l": "D",
+                "t": "It will be here to stay whatever the outcome."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "由于通信网络的快速发展，中国智能手机用户数量近年来以惊人速度增长。这极大地改变了许多人的阅读 方式。他们现在经常在智能手机上看新闻和文章，而不买传统报刊。大量移动应用程序的开发使人们能用手机 读小说和其他形式的文学作品。因此，纸质书籍的销售受到了影响。但调查显示，尽管智能手机阅读市场稳步 增长，超半数成年人仍喜欢读纸质书。",
+    "reference": "Thanks to the rapid development of communication networks, the number of smartphone users in China has grown at an astonishing speed in recent years. This has greatly changed the way many people read. They now often read news and articles on their smartphones instead of buying traditional newspapers and magazines. The development of a large number of mobile applications enables people to read novels and other forms of literary works on their mobile phones. As a result, sales of paper books have been affected. However, surveys show that although the smartphone reading market is growing steadily, more than half of the adults still prefer reading paper books."
+  }
+}

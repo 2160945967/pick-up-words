@@ -1,0 +1,1357 @@
+{
+  "id": "cet6-2017-6-1",
+  "level": "cet6",
+  "year": 2017,
+  "month": 6,
+  "set": 1,
+  "title": "2017年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: Suppose you are asked to give advice on whether to major in science or humanities at college, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+    "sample": "When friends ask me whether to major in science or humanities, my advice is clear: let your genuine interest and personal strengths, rather than fashion or others' expectations, make the decision for you.I hold this view for two reasons. First, sustained interest is the true engine of academic success. A student who loves literature will happily read late into the night, while one forced into physics may soon burn out; passion, not the label of a \"practical\" subject, keeps us going. Second, matching a major to one's natural aptitude greatly improves the odds of excelling. Someone gifted at logic and calculation will thrive in engineering, whereas a person skilled in language and empathy may shine in law or education. Choosing against your strengths only wastes precious years.Therefore, I would suggest that no one blindly follow the crowd toward whatever seems more profitable. Instead, look honestly inward, weigh what you enjoy and what you do well, and let that guide your choice. The right major is the one that fits you."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Doing enjoyable work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having friendly colleagues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Earning a competitive salary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Working for supportive bosses."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "31%."
+                  },
+                  {
+                    "l": "B",
+                    "t": "20%."
+                  },
+                  {
+                    "l": "C",
+                    "t": "25%."
+                  },
+                  {
+                    "l": "D",
+                    "t": "73%."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those of a small size."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those run by women."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those that are well managed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those full of skilled workers."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can hop from job to job easily."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can win recognition of their work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can better balance work and life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They can take on more than one job.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Welcome to Work Place, and in today's program we are looking at the results of two recently published surveys, which both deal with the same topic—happiness at work. John, tell us about the first survey.",
+                "zh": "W: 欢迎收听《职场》节目。今天我们要来看看最近公布的两项调查结果，这两项调查关注的是同一个话题——工作中的幸福感。约翰，给我们介绍一下第一项调查吧。"
+              },
+              {
+                "en": "M: Well, this was done by a human resources consultancy who interviewed more than 1,000 workers and established a top 10 of the factors which make people happy at work. The most important factor, for the majority of the people interviewed, was having friendly, supportive colleagues. In fact, 73% people interviewed put their relationship with colleagues as the key factor contributing to happiness at work, which is a very high percentage. The second most important factor was having work that is enjoyable. The two least important factors were having one's achievements recognized and rather surprisingly, earning a competitive salary.",
+                "zh": "M: 这项调查是由一家人力资源咨询公司进行的，他们采访了1,000多名员工，并列出了让人们在工作中感到幸福的十大因素。对于大多数受访者来说，最重要的因素是拥有友善、乐于提供支持的同事。事实上，73%的受访者认为与同事的关系是影响工作幸福感的关键因素，这个比例非常高。第二重要的因素是从事令人愉快的工作。最不重要的两个因素是自己的成就得到认可，以及相当令人意外的，获得有竞争力的薪酬。"
+              },
+              {
+                "en": "W: So, we are not mainly motivated by money?",
+                "zh": "W: 所以，钱并不是激励我们的主要因素？"
+              },
+              {
+                "en": "M: Apparently not.",
+                "zh": "M: 显然不是。"
+              },
+              {
+                "en": "W: Any other interesting information in the survey?",
+                "zh": "W: 调查中还有其他有趣的信息吗？"
+              },
+              {
+                "en": "M: Yes. For example, 25% of the working people interviewed described themselves as very happy at work. However, 20% of employees described themselves as being unhappy.",
+                "zh": "M: 有。比如，接受采访的在职人士中，有25%的人形容自己在工作中非常开心。不过，也有20%的员工表示自己对工作感到不满意。"
+              },
+              {
+                "en": "W: That's quite a lot of unhappy people at work every day.",
+                "zh": "W: 也就是说，每天都有相当多的人在工作中不开心。"
+              },
+              {
+                "en": "M: It is, isn't it? And there were several more interesting conclusions revealed by the survey. First of all, small is beautiful. People definitely prefer working for smaller organizations or companies with less than 100 staff. We also find out that, generally speaking, women were happier in their work than men.",
+                "zh": "M: 确实如此，不是吗？调查还揭示了几个更有趣的结论。首先，小有小的好处。人们明显更喜欢在员工人数少于100人的小型机构或公司工作。我们还发现，总的来说，女性在工作中比男性更开心。"
+              },
+              {
+                "en": "W: Yes, we are, aren't we?",
+                "zh": "W: 是这样的，不是吗？"
+              },
+              {
+                "en": "M: And workers on part-time contracts who only work 4 or 5 hours a day are happier than those who work full time. The researchers concluded that this is probably due to a better work-life balance.",
+                "zh": "M: 另外，每天只工作四五个小时的兼职员工，比全职员工更开心。研究人员得出的结论是，这可能是因为他们能更好地平衡工作与生活。"
+              },
+              {
+                "en": "W: Are bosses happier than their employees?",
+                "zh": "W: 老板们比员工更开心吗？"
+              },
+              {
+                "en": "M: Yes. Perhaps not surprisingly, the higher people go in a company, the happier they are. So senior managers enjoy their jobs more than people working under them.",
+                "zh": "M: 是的。这或许并不令人意外，人在公司里的职位越高，就越开心。所以，高级管理人员比在他们手下工作的人更享受自己的工作。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a book of European history."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is an introduction to music."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is about the city of Bruges."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a collection of photos."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When painting the concert hall of Bruges."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When vacationing in an Italian coastal city."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When taking pictures for a concert catalogue."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When writing about Belgium's coastal regions."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The entire European coastline will be submerged."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The rich heritage of Europe will be lost completely."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The seawater of Europe will be seriously polluted."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The major European scenic spots will disappear."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its waterways are being increasingly polluted."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People cannot get around without using boats."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It attracts large numbers of tourists from home and abroad."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Tourists use wooden paths to reach their hotels in the morning."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Mr. De Keyzer, I am a great lover of your book, Moments Before the Flood. Can you tell us how you first became interested in this subject matter?",
+                "zh": "W: 德凯泽先生，我非常喜欢您的《洪水前的瞬间》一书。您能告诉我们，您最初是如何对这一主题产生兴趣的吗？"
+              },
+              {
+                "en": "M: In 2006, when the concert hall of the city of Bruges asked me to take some pictures for a catalogue for a new concert season around the theme of water, I found myself working along the Belgian coastline. As there had been numerous alarming articles in the press about a climate catastrophe waiting to happen, I started looking at the sea and the beach very differently, a place where I spent so many perfect days as a child. This fear of a looming danger became the subject of a large-scale photo project.",
+                "zh": "M: 2006年，布鲁日市的音乐厅请我围绕水这一主题，为新一季音乐会的目录拍摄一些照片，当时我开始在比利时海岸线上进行创作。由于当时媒体上刊登了许多关于一场即将发生的气候灾难的警示性文章，我开始以完全不同的方式观察大海和海滩。小时候，我曾在那里度过许多美好的时光。对迫在眉睫的危险的恐惧，后来成为一个大型摄影项目的主题。"
+              },
+              {
+                "en": "W: You wrote in the book \"I don't want to photograph the disaster; I want to photograph the disaster waiting to happen.\" Can you talk a bit about that?",
+                "zh": "W: 您在书中写道：“我不想拍摄灾难；我想拍摄正在等待发生的灾难。”您能谈谈这句话吗？"
+              },
+              {
+                "en": "M: It is clear now that it's a matter of time before the entire European coastline disappears under water. The same goes for numerous big cities around the world. My idea was to photograph this beautiful and very unique coastline, rich in history, before it's too late—as a last witness.",
+                "zh": "M: 现在很明显，整个欧洲海岸线被海水淹没只是时间问题。世界各地许多大城市也面临同样的情况。我的想法是在为时未晚之前，拍摄这条美丽而独特、历史底蕴深厚的海岸线，作为最后的见证。"
+              },
+              {
+                "en": "W: Can you talk a bit about how history plays a role in this project?",
+                "zh": "W: 您能谈谈历史在这个项目中扮演了怎样的角色吗？"
+              },
+              {
+                "en": "M: Sure. The project is also about the history of Europe looking at the sea and wondering when the next enemy would appear. In the images, you see all kinds of possible defense constructions to hold back the Romans, Germans, Vikings, and now nature as enemy number one. For example, there is the image of the bridge into the sea taken at the Normandy D-Day landing site. Also, Venice, the city eternally threatened by the sea, where every morning wooden pathways have to be set up to allow tourists to reach their hotels.",
+                "zh": "M: 当然可以。这个项目也涉及欧洲面对大海的历史，以及人们思考下一个敌人何时会出现的历史。在这些影像中，你可以看到各种各样的防御设施，曾经是为了抵挡罗马人、德国人、维京人，而如今则是为了抵挡头号敌人——大自然。例如，有一张照片拍摄的是诺曼底登陆地点通向大海的桥。还有威尼斯，这座永远受到海洋威胁的城市，每天早晨都必须搭起木制通道，让游客能够抵达他们下榻的酒店。"
+              },
+              {
+                "en": "W: Thank you, Mr. De Keyzer. It was a pleasure to have you with us today.",
+                "zh": "W: 谢谢您，德凯泽先生。今天很高兴邀请您参加我们的节目。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 12 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They make careful preparation beforehand."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They take too many irrelevant factors into account."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They spend too much time anticipating their defeat."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They try hard to avoid getting off on the wrong foot."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A person's nervous system is more complicated than imagined."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Golfers usually have positive mental images of themselves."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Mental images often interfere with athletes' performance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Thinking has the same effect on the nervous system as doing."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Anticipate possible problems."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make a list of do's and don'ts."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Picture themselves succeeding."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Try to appear more professional."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She wore a designer dress."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She won her first jury trial."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She did not speak loud enough."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She presented moving pictures.\n\nQuestions 13 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst. I remember talking with a young lawyer who was about to begin her first jury trial. She was very nervous. I asked what impression she wanted to make on the jury. She replied, \"I don't want to look too inexperienced; I don't want them to suspect this is my first trial.\"",
+                "zh": "面对新的情形时，有些人往往花费过多时间预想最坏的结果，从而反复预演自己的失败。我记得曾与一位即将开始第一次陪审团审判的年轻女律师交谈。她非常紧张。我问她想给陪审团留下什么印象。她回答说：“我不想显得太没有经验；我不想让他们怀疑这是我的第一次审判。”"
+              },
+              {
+                "en": "This lawyer had fallen victim to the \"don'ts\" syndrome, a form of negative goal setting. The \"don'ts\" can be self-fulfilling because your mind responds to pictures. Research conducted at Stanford University shows a mental image fires the nervous system the same way as actually doing something. That means when a golfer tells himself \"Don't hit the ball into the water,\" his mind sees the image of the ball flying into the water. So guess where the ball will go. Consequently, before going into any stressful situation, focus only on what you want to have happen.",
+                "zh": "这位律师成了“不要”综合征的受害者，这是一种消极的目标设定方式。“不要”之所以会自我实现，是因为人的思维会对画面作出反应。斯坦福大学开展的研究表明，心理意象会以与实际做某件事相同的方式激活神经系统。这意味着，当一名高尔夫球手对自己说“不要把球打进水里”时，他的脑海中看到的却是球飞进水里的画面。所以，猜猜球会飞到哪里。因而，在进入任何有压力的情境之前，只应专注于你希望发生的事情。"
+              },
+              {
+                "en": "I asked the lawyer again how she wanted to appear at her first trial, and this time she said: \"I want to look professional and self-assured.\" I told her to create a picture of what \"self-assured\" would look like. To her, it meant moving confidently around the courtroom, using convincing body language and projecting her voice, so it could be heard from the judge's bench to the back door. She also imagined a skillful closing argument and a winning trial. A few weeks after this positive dress rehearsal, the young lawyer did win.",
+                "zh": "我再次问这位律师，她希望自己在第一次审判中呈现出什么样子。这一次，她说：“我想显得专业而自信。”我告诉她，要构想出“自信”具体会是什么样子。对她而言，这意味着自信地在法庭内走动，运用有说服力的肢体语言，并放开声音讲话，使法官席到后门都能听见。她还想象了一个娴熟的结案陈词，以及一场胜诉的审判。几周后，在这次积极的预演之后，这位年轻律师确实赢得了审判。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 13 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its long-term effects are yet to be proved."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its health benefits have been overestimated."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It helps people to avoid developing breast cancer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It enables patients with diabetes to recover sooner."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It focused on their ways of life during young adulthood."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It tracked their change in food preferences for 20 years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It focused on their difference from men in fiber intake."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It tracked their eating habits since their adolescence."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Fiber may help to reduce hormones in the body."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Fiber may bring more benefits to women than men."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fiber may improve the function of heart muscles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Fiber may make blood circulation more smooth."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Most Americans don't eat enough fruits, vegetables or whole grains. Research now says adding fiber to the teen diet may help lower the risk of breast cancer.",
+                "zh": "大多数美国人摄入的水果、蔬菜或全谷物都不够。如今的研究表明，在青少年的饮食中增加膳食纤维，可能有助于降低患乳腺癌的风险。"
+              },
+              {
+                "en": "Conversations about the benefits of fiber are probably more common in nursing homes than high schools. But along comes a new study that could change that. Christy King, a diet specialist at Texas Children's Hospital, finds it hard to get teenage patients' attention about healthy eating. But telling them that eating lots of high-fiber foods could reduce the risk of breast cancer before middle age, that's a powerful message.",
+                "zh": "关于膳食纤维益处的讨论，在养老院里可能比在高中更常见。但一项新研究的出现，可能会改变这一点。德克萨斯儿童医院的营养专家克里斯蒂·金发现，很难引起青少年患者对健康饮食的注意。但如果告诉他们，多吃富含膳食纤维的食物能够降低在步入中年之前患乳腺癌的风险，这就是一个很有力的信息。"
+              },
+              {
+                "en": "The new finding is based on a study of 44,000 women. They were surveyed about their diets during high school, and their eating habits were tracked for two decades. It turns out that those who consumed the highest levels of fiber during adolescence had a lower risk of developing breast cancer, compared to the women who ate the least fiber. This important study demonstrates that the more fiber you eat during your high school years, the lower your risk of developing breast cancer in later life.",
+                "zh": "这一新发现基于一项对44,000名女性进行的研究。研究人员调查了她们在高中时期的饮食情况，并追踪了她们二十年的饮食习惯。结果表明，与摄入膳食纤维最少的女性相比，青春期摄入膳食纤维最多的女性患乳腺癌的风险更低。这项重要研究证明，在高中时期摄入的膳食纤维越多，日后患乳腺癌的风险就越低。"
+              },
+              {
+                "en": "The finding points to long-standing evidence that fiber may reduce circulating female hormone levels, which could explain the reduced risk. The bottom line here is the more fiber you eat, perhaps, a lower level of hormone in your body, and therefore, a lower lifetime risk of developing breast cancer. High-fiber diets are also linked to a reduced risk of heart disease and diabetes. That's why women are told to eat 25 grams of fiber a day-men even more.",
+                "zh": "这一发现指向了长期以来的证据：膳食纤维可能会降低女性体内循环激素的水平，这或许可以解释风险为何会降低。这里的关键是，摄入的膳食纤维越多，体内的激素水平可能就越低，因此一生中患乳腺癌的风险也就越低。高纤维饮食还与降低心脏病和糖尿病风险有关。这就是为什么建议女性每天摄入25克膳食纤维，而男性则应摄入更多。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Observing the changes in marketing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Conducting research on consumer behavior."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Studying the hazards of young people drinking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Investigating the impact of media on government."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the cause of many street riots."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a chief concern of parents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is getting worse year by year."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is an act of socialising."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They spent a week studying their own purchasing behavior."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They researched the impact of mobile phones on young people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They analysed their family budgets over the years."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They conducted a thorough research on advertising.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Well, my current research is really about consumer behavior. So recently I've looked at young people's drinking and it's obviously a major concern to government at the moment. I've also looked at how older people are represented in the media. Again, it's of major current interest with older people becoming a much larger proportion of UK, and indeed, world society. I'm also interested in how consumers operate online and how that online behavior might be different from how they operate offline when they go to the shops.",
+                "zh": "嗯，我目前的研究确实主要是关于消费者行为的。最近，我研究了年轻人的饮酒问题，这显然是当前政府非常关注的一个重大问题。我还研究了媒体如何呈现老年人形象。同样，随着老年人在英国乃至全球社会中所占的比例大幅增加，这也是当前备受关注的问题。我还对消费者如何在网上进行活动，以及他们在网上的行为可能与去商店购物时的线下行为有何不同感兴趣。"
+              },
+              {
+                "en": "Well, I think that the important thing here is to actually understand what's happening from the consumers' perspective. One of the things that businesses and indeed government organizations often fail to do is to really see what is happening from the consumers' perspective. For example, in the case of young people's drinking, one of the things that I've identified is that drinking for people, say, between the ages of 18 and 24 is all about the social activity. A lot of the government advertising has been about individual responsibility, but actually understanding that drinking is very much about the social activity and finding ways to help young people get home safely and not end up in hospital is one of the things that we've tried to present there.",
+                "zh": "嗯，我认为这里重要的是，真正从消费者的角度去理解正在发生什么。企业以及政府机构经常未能做到的一点，就是真正了解从消费者的角度来看究竟发生了什么。例如，就年轻人的饮酒问题而言，我发现，对于年龄在18岁至24岁之间的人来说，饮酒完全是与社交活动有关的。政府的大量宣传一直强调个人责任，但实际上，理解饮酒在很大程度上是一种社交活动，并设法帮助年轻人安全回家而不是最终住进医院，是我们试图在这方面提出的解决思路之一。"
+              },
+              {
+                "en": "The key thing about consumer behavior is that it's very much about how consumers change. Markets always change faster than marketing, so we have to look at what consumers are doing. Currently I teach consumer behavior to undergraduates in their second year and we look at all kinds of things in consumer behavior and particularly how consumers are presented in advertising. So they get involved by looking at advertising and really critically assessing the consumer behavior aspects of it and getting involved, sometimes doing primary research. For example, last year my students spent a week looking at their own purchasing and analysed it in detail from shopping to the relationship that they have with their retail banks and their mobile phone providers. I think they found it very useful and it also helped them identify just what kind of budgets they had too. The fact of the matter is that there is a whole range of interesting research out there. And I think as the years go on, there is going to be much more for us to consider and certainly much more for students to become involved in.",
+                "zh": "消费者行为的关键在于，消费者是如何发生变化的。市场总是比营销变化得更快，因此我们必须关注消费者在做什么。目前，我为大学二年级本科生讲授消费者行为课程，我们会研究消费者行为的各种问题，尤其是广告中如何呈现消费者。因此，他们会通过观察广告并对其中涉及消费者行为的方面进行真正批判性的评估来参与学习，有时还会开展一手研究。例如，去年我的学生花了一周时间观察自己的购买行为，并从购物到他们与零售银行及手机服务提供商之间的关系，对这些行为进行了详细分析。我认为他们觉得这非常有用，同时也帮助他们明确了自己究竟拥有怎样的预算。事实是，外面有各种各样有趣的研究。随着时间推移，我认为会有更多问题值得我们思考，当然也会有更多内容值得学生参与其中。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is helping its banks to improve efficiency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is trying hard to do away with dirty money."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is the first country to use credit cards in the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is likely to give up paper money in the near future."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Whether it is possible to travel without carrying any physical currency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether it is possible to predict how much money one is going to spend."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether the absence of physical currency causes a person to spend more."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether the absence of physical currency is going to affect everyday life."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "There was no food service on the train."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The service on the train was not good."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The restaurant car accepted cash only."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The cash in her handbag was missing."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By putting money into envelopes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By drawing money week by week."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By limiting their day-to-day spending."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By refusing to buy anything on credit.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Sweden was the first European country to print and use paper money, but it may soon do away with physical currencies. Banks can save a lot of money and avoid regulatory headaches by moving to a cash-free system, and they can also avoid bank robberies, theft, and dirty money.",
+                "zh": "瑞典是第一个印刷并使用纸币的欧洲国家，但它可能很快就会取消实体货币。银行转向无现金体系可以节省大量资金，避免监管方面的麻烦，同时也能防范银行抢劫、盗窃和非法资金。"
+              },
+              {
+                "en": "Claer Barrett, the editor of Financial Times Money, says the Western world is headed toward a world without physical currency. Andy Holder—the chief economist at The Bank of England—suggested that the UK move towards a government-backed digital currency. But does a cashless society really make good economic sense? \"The fact that cash is being drawn out of society is less a feature of our everyday lives, than the ease of electronic payments. Is this actually making us spend more money without realizing it?\"",
+                "zh": "《金融时报》Money版编辑克莱尔·巴雷特表示，西方世界正走向一个没有实体货币的世界。英格兰银行首席经济学家安迪·霍尔德曾建议英国转向由政府支持的数字货币。但无现金社会真的符合经济利益吗？“现金退出社会，与其说是我们日常生活的一种特征，不如说是电子支付变得更加便捷的结果。这是否实际上让我们在不知不觉中花了更多的钱？”"
+              },
+              {
+                "en": "Barrett wanted to find out if the absence of physical currency does indeed cause a person to spend more, so she decided to conduct an experiment a few months ago. She decided that she was going to try to just use cash for two weeks to make all of her essential purchases and see what that would do to her spending. She found she did spend a lot less money because it is incredibly hard to predict how much cash one is going to need—she was forever drawing money out of cash points. Months later, she was still finding cash stuffed in her trouser pockets and the pockets of her handbags.",
+                "zh": "巴雷特想弄清楚，没有实体货币是否确实会导致人们花得更多，因此几个月前她决定进行一项实验。她决定连续两周只使用现金购买所有必需品，看看这会对她的消费产生什么影响。她发现自己的确少花了很多钱，因为实在很难预估需要多少现金——她总是不停地从自动取款机取钱。几个月后，她仍然会在裤子口袋和手提包的口袋里发现塞着的现金。"
+              },
+              {
+                "en": "During the experiment, Barrett took a train ride. On the way, there was an announcement that the restaurant car was not currently accepting credit cards. The train cars were filled with groans because many of the passengers were traveling without cash.",
+                "zh": "实验期间，巴雷特乘坐了一趟火车。途中，车上广播通知说，餐车目前不接受信用卡。由于许多乘客出行时没有带现金，车厢里顿时充满了抱怨声。"
+              },
+              {
+                "en": "\"It underlines just how much things have changed in the last generation,\" Barrett says. My parents, when they were younger, used to budget by putting money into envelopes—they'd get paid and they'd immediately separate the cash into piles and put them in envelopes, so they knew what they had to spend week by week. It was a very effective way for them to keep track of their spending.",
+                "zh": "巴雷特说：“这突显了过去一代人的时间里，事物发生了多么大的变化。”我的父母年轻时，会把钱放进信封里来安排预算——他们领到工资后，会立即把现金分成几摞，分别放进信封，这样就知道每周可以花多少钱。对他们来说，这是记录支出的非常有效的方法。"
+              },
+              {
+                "en": "Nowadays, we're all on credit cards, we're doing online purchases, and money is kind of becoming a less physical and more imaginary type of thing that we can't get our hands around.",
+                "zh": "如今，我们都在使用信用卡，进行网上购物，金钱正逐渐变成一种不那么具象、更加虚拟的东西，让我们无法真正把握它。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Population explosion."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Chronic hunger."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Extinction of rare species."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Environmental deterioration."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They contribute to overpopulation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "About half of them are unintended."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have been brought under control."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The majority of them tend to end halfway."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is essential to the wellbeing of all species on earth."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is becoming a subject of interdisciplinary research."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is neglected in many of the developing countries."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is beginning to attract postgraduates' attention."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Why should you consider taking a course in demography in college? You will be growing up in the generation where the baby boomers are going into retirement and dying. You will face problems in the aging of the population that have never been faced before. You will hear more and more about migration between countries, and between rural areas and cities. You need to understand as a citizen and as a taxpayer and as a voter what's really behind the arguments.",
+                "zh": "为什么你应该考虑在大学里选修人口学课程？你将在这样一个时代成长起来：婴儿潮一代正步入退休并逐渐老去、死亡。你将面临前所未有的人口老龄化问题。你会越来越多地听到有关国家之间以及农村地区与城市之间人口迁移的讨论。作为公民、纳税人和选民，你需要了解这些争论背后的真实情况。"
+              },
+              {
+                "en": "I want to tell you about the past, present and future of the human population, so let's start with a few problems. Right now, a billion people are chronically hungry. That means they wake up hungry, they are hungry all day and they go to sleep hungry. A billion people are living in slums, not the same billion people, but there is some overlap. Living in slums means they don't have infrastructure to take the garbage away. They don't have secure water supplies to drink. Nearly a billion people are illiterate. Try to imagine your life being illiterate. You can't read the labels on the bottles in the supermarket, if you can get to a supermarket. Two thirds of those people who are illiterate are women and about 200 to 250 million women don't have access to birth control they want so that they can control their own fertility. This is not only a problem in developing countries; about half of all pregnancies globally are unintended. So those are examples of population problems.",
+                "zh": "我想向你介绍人类人口的过去、现在和未来，所以我们先从几个问题谈起。目前，有十亿人长期处于饥饿状态。这意味着他们醒来时就很饿，整天都在挨饿，晚上也饿着肚子入睡。有十亿人生活在贫民窟中，当然不是同样的那十亿人，但两者之间存在一定重合。生活在贫民窟意味着他们没有基础设施来运走垃圾，也没有可靠的饮用水供应。近十亿人不识字。试着想象一下一个不识字的人生。如果你能去超市，你甚至无法读懂货架上瓶子上的标签。在这些文盲中，三分之二是女性；大约有两亿至两亿五千万女性无法获得她们希望使用的避孕措施，因而无法控制自己的生育能力。这不仅是发展中国家面临的问题；在全球范围内，约有一半的妊娠并非意愿妊娠。这些就是人口问题的一些例子。"
+              },
+              {
+                "en": "Demography gives you the tools to understand and to address these problems. It's not only the study of human population, but the populations of non-human species, including viruses, like influenza, the bacteria in your gut, plants that you eat, animals that you enjoy or that provide you with meat. Demography also includes the study of non-living objects like light bulbs and taxi cabs and buildings because these are also populations. It studies these populations in the past, present and future, using quantitative data and mathematical models as tools of analysis. I see demography as a central subject related to economics. It is the means to intervene more wisely and more effectively in the real world to improve the well being not only of yourself, important as that may be, but of people around you and of other species with whom we share the planet.",
+                "zh": "人口学为你提供了理解和解决这些问题的工具。它研究的不仅是人类人口，还包括非人类物种的种群，例如流感病毒、你肠道中的细菌、你食用的植物、你喜爱的动物或为你提供肉食的动物。人口学还研究灯泡、出租车和建筑物等非生命物体，因为它们同样构成种群。它利用定量数据和数学模型作为分析工具，研究这些种群的过去、现在和未来。在我看来，人口学是一门与经济学密切相关的核心学科。它使我们能够更明智、更有效地介入现实世界，从而改善福祉；这不仅包括你自身的福祉，尽管这同样重要，也包括你周围人们的福祉，以及与我们共享这个星球的其他物种的福祉。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "After becoming president of Purdue University in 2013, Mitch Daniels asked the faculty to prove that their students have actually achieved one of higher education's most important goals: critical thinking skills. Two years before, a nationwide study of college graduates had shown that more than a third had made no"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "gains in such mental abilities during their school years. Mr. Daniels needed to"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "the high cost of attending Purdue to its students and their families. After all, the percentage of Americans who say a college degree is \"very important\" has fallen"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "in the last 5-6 years. Purdue now has a pilot test to assess students' critical thinking skills. Yet like many college teachers around the U.S., the faculty remain"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "that their work as educators can be measured by a \"learning"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "\" such as a graduate's ability to investigate and reason. However, the professors need not worry so much. The results of a recent experiment showed that professors can use"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "metrics to measure how well students do in three key areas: critical thinking, written communication, and quantitative literacy. Despite the success of the experiment, the actual results are worrisome, and mostly"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "earlier studies. The organizers of the experiment concluded that far fewer students were achieving at high levels on critical thinking than they were doing for written communication or quantitative literacy. And that conclusion is based only on students nearing graduation. American universities, despite their global"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "for excellence in teaching, have only begun to demonstrate what they can produce in real-world learning. Knowledge-based degrees are still important, but employers are"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "advanced thinking skills from college graduates. If the intellectual worth of a college degree can be"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "measured, more people will seek higher education—and come out better thinkers."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "accurately"
+        },
+        {
+          "l": "B",
+          "w": "confirm"
+        },
+        {
+          "l": "C",
+          "w": "demanding"
+        },
+        {
+          "l": "D",
+          "w": "doubtful"
+        },
+        {
+          "l": "E",
+          "w": "drastically"
+        },
+        {
+          "l": "F",
+          "w": "justify"
+        },
+        {
+          "l": "G",
+          "w": "monopolized"
+        },
+        {
+          "l": "H",
+          "w": "outcome"
+        },
+        {
+          "l": "I",
+          "w": "predominance"
+        },
+        {
+          "l": "J",
+          "w": "presuming"
+        },
+        {
+          "l": "K",
+          "w": "reputation"
+        },
+        {
+          "l": "L",
+          "w": "significant"
+        },
+        {
+          "l": "M",
+          "w": "signify"
+        },
+        {
+          "l": "N",
+          "w": "simultaneously"
+        },
+        {
+          "l": "O",
+          "w": "standardized"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "L"
+        },
+        {
+          "n": 27,
+          "a": "F"
+        },
+        {
+          "n": 28,
+          "a": "E"
+        },
+        {
+          "n": 29,
+          "a": "D"
+        },
+        {
+          "n": 30,
+          "a": "H"
+        },
+        {
+          "n": 31,
+          "a": "O"
+        },
+        {
+          "n": 32,
+          "a": "B"
+        },
+        {
+          "n": 33,
+          "a": "K"
+        },
+        {
+          "n": 34,
+          "a": "C"
+        },
+        {
+          "n": 35,
+          "a": "A"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The Price of Oil and the Price of Carbon",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Fossil fuel prices are likely to stay \"low for long\". Notwithstanding important recent progress in developing renewable fuel sources, low fossil fuel prices could discourage further innovation in, and adoption of, cleaner energy technologies. The result would be higher emissions of carbon dioxide and other greenhouse gases."
+        },
+        {
+          "l": "B",
+          "t": "Policymakers should not allow low energy prices to derail the clean energy transition. Action to restore appropriate price incentives, notably through corrective carbon pricing, is urgently needed to lower the risk of irreversible and potentially devastating effects of climate change. That approach also offers fiscal benefits."
+        },
+        {
+          "l": "C",
+          "t": "Oil prices have dropped by over 60% since June 2014. A commonly held view in the oil industry is that \"the best cure for low oil prices is low oil prices\". The reasoning behind this saying is that low oil prices discourage investment in new production capacity, eventually shifting the oil supply curve backward and bringing prices back up as existing oil fields—which can be tapped at relatively low marginal cost—are depleted. In fact, in line with past experience, capital expenditure in the oil sector has dropped sharply in many producing countries, including the United States. The dynamic adjustment to low oil prices may, however, be different this time around."
+        },
+        {
+          "l": "D",
+          "t": "Oil prices are expected to remain lower for longer. The advent of new technologies has added about 4.2 million barrels per day to the crude oil market, contributing to a global over-supply. In addition, other factors are putting downward pressure on oil prices: change in the strategic behavior of the Organization of Petroleum Exporting Countries, the projected increase in Iranian exports, the scaling-down of global demand (especially from emerging markets), the long-term drop in petroleum consumption in the United States, and some displacement of oil by substitutes. These likely persistent forces, like the growth of shale(页岩) oil, point to a \"low for long\" scenario. Futures markets, which show only a modest recovery of prices to around $60 a barrel by 2019, support this view."
+        },
+        {
+          "l": "E",
+          "t": "Natural gas and coal—also fossil fuels—have similarly seen price declines that look to be long-lived. Coal and natural gas are mainly used for electricity generation, whereas oil is used mostly to power transportation, yet the prices of all these energy sources are linked. The North American shale gas boom has resulted in record low prices there. The recent discovery of the giant Zohr gas field off the Egyptian coast will eventually have impact on pricing in the Mediterranean region and Europe, and there is significant development potential in many other places, notably Argentina. Coal prices also are low, owing to over- supply and the scaling-down of demand, especially from China, which burns half of the world's coal."
+        },
+        {
+          "l": "F",
+          "t": "Technological innovations have unleashed the power of renewables such as wind, hydro, solar, and geothermal(地热). Even Africa and the Middle East, home to economies that are heavily dependent on fossil fuel exports, have enormous potential to develop renewables. For example, the United Arab Emirates has endorsed an ambitious target to draw 24% of its primary energy consumption from renewable sources by 2021."
+        },
+        {
+          "l": "G",
+          "t": "Progress in the development of renewables could be fragile, however, if fossil fuel prices remain low for long. Renewables account for only a small share of global primary energy consumption, which is still dominated by fossil fuels—30% each for coal and oil, 25% for natural gas. But renewable energy will have to displace fossil fuels to a much greater extent in the future to avoid unacceptable climate risks."
+        },
+        {
+          "l": "H",
+          "t": "Unfortunately, the current low prices for oil, gas, and coal may provide little incentive for research to find even cheaper substitutes for those fuels. There is strong evidence that both innovation and adoption of cleaner technology are strongly encouraged by higher fossil fuel prices. The same is true for new technologies for alleviating fossil fuel emissions."
+        },
+        {
+          "l": "I",
+          "t": "The current low fossil fuel price environment will thus certainly delay the energy transition from fossil fuel to clean energy sources. Unless renewables become cheap enough that substantial carbon deposits are left underground for a very long time, if not forever, the planet will likely be exposed to potentially catastrophic climate risks."
+        },
+        {
+          "l": "J",
+          "t": "Some climate impacts may already be discernible. For example, the United Nations Children's Fund estimates that some 11 million children in Africa face hunger, disease, and water shortages as a result of the strongest El Nino(厄尔尼诺) weather phenomenon in decades. Many scientists believe that El Nino events, caused by warming in the Pacific, are becoming more intense as a result of climate change."
+        },
+        {
+          "l": "K",
+          "t": "Nations from around the world have gathered in Paris for the United Nations Climate Change Conference, COP 21, with the goal of a universal and potentially legally-binding agreement on reducing greenhouse gas emissions. We need very broad participation to fully address the global tragedy that results when countries fail to take into account the negative impact of their carbon emissions on the rest of the world. Moreover, non-participation by nations, if sufficiently widespread, can undermine the political will of participating countries to act."
+        },
+        {
+          "l": "L",
+          "t": "The nations participating at COP 21 are focusing on quantitative emissions-reduction commitments. Economic reasoning shows that the least expensive way for each country is to put a price on carbon emissions. The reason is that when carbon is priced, those emissions reductions that are least costly to implement will happen first. The International Monetary Fund calculates that countries can generate substantial fiscal revenues by eliminating fossil fuel subsidies and levying carbon charges that capture the domestic damage caused by emissions. A tax on upstream carbon sources is one easy way to put a price on carbon emissions, although some countries may wish to use other methods, such as emissions trading schemes. In order to maximize global welfare, every country's carbon pricing should reflect not only the purely domestic damage from emissions, but also the damage to foreign countries."
+        },
+        {
+          "l": "M",
+          "t": "Setting the right carbon price will therefore efficiently align the costs paid by carbon users with the true social opportunity cost of using carbon. By raising relative demand for clean energy sources, a carbon price would also help align the market return to clean-energy innovation with its social return, spurring the refinement of existing technologies and the development of new ones. And it would raise the demand for technologies such as carbon capture and storage, spurring their further development. If not corrected by the appropriate carbon price, low fossil fuel prices are not accurately signaling to markets the true social profitability of clean energy. While alternative estimates of the damage from carbon emissions differ, and it's especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects."
+        },
+        {
+          "l": "N",
+          "t": "Direct subsidies to research and development have been adopted by some governments but are a poor substitute for a carbon price: they do only part of the job, leaving in place market incentives to over-use fossil fuels and thereby add to the stock of atmospheric greenhouse gases without regard to the collateral(附 带的) costs."
+        },
+        {
+          "l": "O",
+          "t": "The hope is that the success of COP 21 opens the door to future international agreement on carbon prices. Agreement on an international carbon-price floor would be a good starting point in that process. Failure to address comprehensively the problem of greenhouse gas emissions, however, exposes all generations, present and future, to incalculable risks."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "A number of factors are driving down the global oil prices not just for now but in the foreseeable future.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "Pricing carbon proves the most economical way to reduce greenhouse gas emissions.",
+          "a": "L"
+        },
+        {
+          "n": 38,
+          "s": "It is estimated that extreme weather conditions have endangered the lives of millions of African children.",
+          "a": "J"
+        },
+        {
+          "n": 39,
+          "s": "The prices of coal are low as a result of over-supply and decreasing demand.",
+          "a": "E"
+        },
+        {
+          "n": 40,
+          "s": "Higher fossil fuel prices prove to be conducive to innovation and application of cleaner technology.",
+          "a": "H"
+        },
+        {
+          "n": 41,
+          "s": "If fossil fuel prices remain low for a long time, it may lead to higher emissions of greenhouse gases.",
+          "a": "A"
+        },
+        {
+          "n": 42,
+          "s": "Fossil fuels remain the major source of primary energy consumption in today's world.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "Even major fossil exporting countries have great potential to develop renewable energies.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "Greenhouse gas emissions, if not properly dealt with, will pose endless risks for mankind.",
+          "a": "O"
+        },
+        {
+          "n": 45,
+          "s": "It is urgent for governments to increase the cost of using fossil fuels to an appropriate level to lessen the catastrophic effects of climate change.",
+          "a": "B"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Open data sharers are still in the minority in many fields. Although many researchers broadly agree that public access to raw data would accelerate science, most are reluctant to post the results of their own labors online. Some communities have agreed to share online—geneticists, for example, post DNA sequences at the GenBank repository(库), and astronomers are accustomed to accessing images of galaxies and stars from, say, the Sloan Digital Sky Survey, a telescope that has observed some 500 million objects—but these remain the exception, not the rule. Historically, scientists have objected to sharing for many reasons: it is a lot of work; until recently, good databases did not exist; grant funders were not pushing for sharing; it has been difficult to agree on standards for formatting data; and there is no agreed way to assign credit for data. But the barriers are disappearing, in part because journals and funding agencies worldwide are encouraging scientists to make their data public. Last year, the Royal Society in London said in its report that scientists need to \"shift away from a research culture where data is viewed as a private preserve\". Funding agencies note that data paid for with public money should be public information, and the scientific community is recognizing that data can now be shared digitally in ways that were not possible before. To match the growing demand, services are springing up to make it easier to publish research products online and enable other researchers to discover and cite them. Although calls to share data often concentrate on the moral advantages of sharing, the practice is not purely altruistic( 利他的). Researchers who share get plenty of personal benefits, including more connections with colleagues, improved visibility and increased citations. The most successful sharers—those whose data are downloaded and cited the most often—get noticed, and their work gets used. For example, one of the most popular data sets on multidisciplinary repository Dryad is about wood density around the world; it has been downloaded 5,700 times. Co-author Amy Zanne thinks that users probably range from climate-change researchers wanting to estimate how much carbon is stored in biomass, to foresters looking for information on different grades of timber. \"I'd much prefer to have my data used by the maximum number of people to ask their own questions,\" she says. \"It's important to allow readers and reviewers to see exactly how you arrive at your results. Publishing data and code allows your science to be reproducible.\" Even people whose data are less popular can benefit. By making the effort to organize and label files so others can understand them, scientists become more organized and better disciplined themselves, thus avoiding confusion later on.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do many researchers generally accept?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is imperative to protect scientists' patents."
+              },
+              {
+                "l": "B",
+                "t": "Repositories are essential to scientific research."
+              },
+              {
+                "l": "C",
+                "t": "Open data sharing is most important to medical science."
+              },
+              {
+                "l": "D",
+                "t": "Open data sharing is conducive to scientific advancement."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What is the attitude of most researchers towards making their own data public?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Opposed."
+              },
+              {
+                "l": "B",
+                "t": "Ambiguous."
+              },
+              {
+                "l": "C",
+                "t": "Liberal."
+              },
+              {
+                "l": "D",
+                "t": "Neutral."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "According to the passage, what might hinder open data sharing?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The fear of massive copying."
+              },
+              {
+                "l": "B",
+                "t": "The lack of a research culture."
+              },
+              {
+                "l": "C",
+                "t": "The belief that research data is private intellectual property."
+              },
+              {
+                "l": "D",
+                "t": "The concern that certain agencies may make a profit out of it."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What helps lift some of the barriers to open data sharing?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The ever-growing demand for big data."
+              },
+              {
+                "l": "B",
+                "t": "The advancement of digital technology."
+              },
+              {
+                "l": "C",
+                "t": "The changing attitude of journals and funders."
+              },
+              {
+                "l": "D",
+                "t": "The trend of social and economic development."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "Dryad serves as an example to show how open data sharing ________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "is becoming increasingly popular"
+              },
+              {
+                "l": "B",
+                "t": "benefits sharers and users alike"
+              },
+              {
+                "l": "C",
+                "t": "makes researchers successful"
+              },
+              {
+                "l": "D",
+                "t": "saves both money and labor"
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Macy's reported its sales plunged 5.2% in November and December at stores open more than a year, a disappointing holiday season performance that capped a difficult year for a department store chain facing wide- ranging challenges. Its flagship stores in major U.S. cities depend heavily on international tourist spending, which shrank at many retailers due to a strong dollar. Meanwhile, Macy's has simply struggled to lure consumers who are more interested in spending on travel or dining out than on new clothes or accessories. The company blamed much of the poor performance in November and December on unseasonably warm weather. \"About 80% of our company's year-over-year declines in comparable sales can be attributed to shortfalls(短缺) in cold-weather goods,\" said chief executive Terry Lundgren in a press release. This prompted the company to cut its forecasts for the full fourth quarter. However, it's clear that Macy's believes its troubles run deeper than a temporary aberration(偏离) off the thermometer. The retail giant said the poor financial performance this year has pushed it to begin implementing $400 million in cost-cutting measures. The company pledged to cut 600 back-office positions, though some 150 workers in those roles would be reassigned to other jobs. It also plans to offer \"voluntary separation\" packages to 165 senior executives. It will slash staffing at its fleet of 770 stores, a move affecting some 3,000 employees. The retailer also announced the locations of 36 stores it will close in early 2016. The company had previously announced the planned closures, but had not said which locations would be affected. None of the chain's stores in the Washington metropolitan area are to be closed. Macy's has been moving aggressively to try to remake itself for a new era of shopping. It has plans to open more locations of Macy's Backstage, a newly-developed off-price concept which might help it better compete with ambitious T. J. Maxx. It's also pushing ahead in 2016 with an expansion of Bluemercury, the beauty chain it bought last year. At a time when young beauty shoppers are often turning to Sephora or Ulta instead of department store beauty counters, Macy's hopes Bluemercury will help strengthen its position in the category. One relative bright spot for Macy's during the holiday season was the online channel, where it rang up \"double-digit\" increases in sales and a 25% increase in the number of orders it filled. That relative strength would be consistent with what was seen in the wider retail industry during the early part of the holiday season. While Thanksgiving, Black Friday and Cyber Monday all saw record spending online, in-store sales plunged over the holiday weekend.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about the shrinking spending of international tourists in the U.S.?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is attributable to the rising value of the U.S. dollar."
+              },
+              {
+                "l": "B",
+                "t": "It is a direct result of the global economic recession."
+              },
+              {
+                "l": "C",
+                "t": "It reflects a shift of their interest in consumer goods."
+              },
+              {
+                "l": "D",
+                "t": "It poses a potential threat to the retail business in the U.S."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What does Macy's believe about its problems?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can be solved with better management."
+              },
+              {
+                "l": "B",
+                "t": "They cannot be attributed to weather only."
+              },
+              {
+                "l": "C",
+                "t": "They are not as serious in its online stores."
+              },
+              {
+                "l": "D",
+                "t": "They call for increased investments."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "In order to cut costs, Macy's decided to ________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "cut the salary of senior executives"
+              },
+              {
+                "l": "B",
+                "t": "relocate some of its chain stores"
+              },
+              {
+                "l": "C",
+                "t": "adjust its promotion strategies"
+              },
+              {
+                "l": "D",
+                "t": "reduce the size of its staff"
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "Why does Macy's plan to expand Bluemercury in 2016?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To experiment on its new business concept."
+              },
+              {
+                "l": "B",
+                "t": "To focus more on beauty products than clothing."
+              },
+              {
+                "l": "C",
+                "t": "To promote sales of its products by lowering prices."
+              },
+              {
+                "l": "D",
+                "t": "To be more competitive in sales of beauty products."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What can we learn about Macy's during the holiday season?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Sales dropped sharply in its physical stores."
+              },
+              {
+                "l": "B",
+                "t": "Its retail sales exceeded those of T. J. Maxx."
+              },
+              {
+                "l": "C",
+                "t": "It helped Bluemercury establish its position worldwide."
+              },
+              {
+                "l": "D",
+                "t": "It filled its stores with abundant supply of merchandise."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "明朝统治中国276年，被人们描绘成人类历史上治理有序、社会稳定的最伟大的时代之一。这一时期，手 工业的发展促进了市场经济和城市化。大量商品，包括酒和丝绸，都在市场销售。同时，还进口许多外国商 品，如时钟和烟草。北京、南京、扬州、苏州这样的大商业中心相继形成。也是在明代，由郑和率领的船队曾 到印度洋进行了七次大规模探险航行。还值得一提的是，中国文学的四大经典名著中有三部写于明代。",
+    "reference": "The Ming Dynasty, which ruled China for 276 years, was described as one of the greatest, most well-governed and socially stable eras in human history. During this period, the development of handicrafts promoted the market economy and urbanization. A large number of goods, including wine and silk, were sold on the market. At the same time, many foreign goods, such as clocks and tobacco, were also imported. Large commercial centers such as Beijing, Nanjing, Yangzhou and Suzhou emerged one after another. It was also during the Ming Dynasty that the fleet led by Zheng He made seven large-scale voyages of exploration to the Indian Ocean. It is also worth mentioning that three of the four great classic novels of Chinese literature were written during the Ming Dynasty."
+  }
+}

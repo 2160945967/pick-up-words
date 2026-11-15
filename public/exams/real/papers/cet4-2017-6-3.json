@@ -1,0 +1,1329 @@
+{
+  "id": "cet4-2017-6-3",
+  "level": "cet4",
+  "year": 2017,
+  "month": 6,
+  "set": 3,
+  "title": "2017年6月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell a computer you used at college. Your advertisement may include its brand, specifications/features, content, their condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+    "sample": "Are you looking for an affordable laptop for your studies? I am selling my Dell Inspiron 15, which has served me faithfully throughout my four years at college and is now ready for a new owner.The laptop runs on an Intel Core i5 processor with 16 GB of memory and a 512 GB solid-state drive, so it handles coursework, coding and video easily. It has a 15.6-inch full-HD screen and a battery that still lasts six hours. Although I have used it since my freshman year, it remains in excellent condition, with no scratches and a keyboard that works perfectly.Since I am graduating soon, I am offering it at only 1,800 yuan, far below its original price, and I will include the charger and a protective case for free.If you are interested, please email me at seller123@campus.edu or add my WeChat (ID: campusdeal). Feel free to message me anytime to arrange a viewing. Do not miss this great deal!"
+  },
+  "listening": {
+    "audio": "cet4-2017-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The self-driving system was faulty."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The car was moving at a fast speed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The man in the car was absent-minded."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The test driver made a wrong judgment."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have generally done quite well."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have caused several severe crashes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have posed a threat to other drivers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have done better than conventional cars.\n\nQuestions 3 and 4 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "One of Google's self-driving cars crashed into a bus in California last month. There were no injuries. It is not the first time one of Google's famed self-driving cars has been involved in a crash, but it may be the first time it has caused one. On February 14th, the self-driving car, traveling at 2 mph, pulled out in front of a public bus going 15 mph. The man in the Google vehicle reported that he assumed the bus would slow down to let the car out, and so he did not switch to the manual mode. In a statement, Google said, \"We clearly bear some responsibility, because if our car hadn't moved, there wouldn't have been a crash. That said, our test driver believed the bus was going to slow or stop to allow us to merge into the traffic, and that there would be sufficient space to do that.\" The company's self-driving cars have done well over a million miles across various states in the US, and until now have only reported minor accidents.",
+                "zh": "上个月，Google的一辆自动驾驶汽车在加利福尼亚州撞上了一辆公交车。没有人员受伤。这不是Google著名的自动驾驶汽车第一次卷入车祸，但这可能是第一次由它造成车祸。2月14日，这辆以每小时2英里行驶的自动驾驶汽车，在一辆以每小时15英里行驶的公交车前方驶出。Google车辆中的男子报告称，他以为公交车会减速让车驶出，所以他没有切换到手动模式。Google在一份声明中表示：\"我们显然负有一定责任，因为如果我们的车没有移动，就不会发生碰撞。话虽如此，我们的测试驾驶员认为公交车会减速或停车以允许我们并入车流，并且有足够的空间这样做。\"该公司的自动驾驶汽车已在美国各州行驶超过一百万英里，到目前为止只报告过轻微事故。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is a queen bee specialist."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He works at a national park."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He removed the bees from the boot."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He drove the bees away from his car."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were making a lot of noise"
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were looking after the queen"
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were dancing in a unique way"
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were looking for a new box to live in\n\nQuestions 5 to 7 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Thousands of bees left a town after landing on the back of a car when their queen got stuck in its boot. Tom Moses, who works at a nearby national park, noticed a \"brown patch\" on the back of the car after the owner parked it to do some shopping. When he looked closer, he realized it was a huge group of bees. Moses said, \"I've never seen that many bees in one spot. It was very unusual. They were very close together and there was a lot of noise and movement. It was interesting to see such a strange sight. But there were a lot of people around and I was a bit worried about the bees and the people stopping to look. I thought that someone might do something stupid.\" Moses called two local bee specialists who helped remove the bees by attracting them into a box. Moses spent three hours looking after the bees and was stung five times. He said, \"My stings are a bit painful, but I'm pleased it all worked out and I could help. People need to realize that bees are valuable and they should be looked after.\"",
+                "zh": "数千只蜜蜂在它们的蜂王被困在一辆汽车后备箱后落在车后，随后离开了一个小镇。在附近国家公园工作的Tom Moses在车主停车去购物后注意到车后有一块\"棕色斑块\"。当他走近观察时,他意识到那是一大群蜜蜂。Moses说:\"我从未在一个地方看到过这么多蜜蜂。这非常不寻常。它们挤得非常紧密,伴随着很多噪音和移动。看到如此奇特的景象很有趣。但周围有很多人,我有点担心这些蜜蜂和驻足观看的人们。我担心有人可能会做出愚蠢的事情。\"Moses打电话给两位当地养蜂专家,他们通过将蜜蜂吸引到一个盒子里帮助移除了蜜蜂。Moses花了三个小时照看这些蜜蜂,被蜇了五次。他说:\"我被蜇的地方有点疼,但我很高兴一切顺利解决,我能帮上忙。人们需要意识到蜜蜂是很宝贵的,应该被好好照顾。\""
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The latest test on a rare animal species"
+                  },
+                  {
+                    "l": "B",
+                    "t": "The finding of two new species of frog"
+                  },
+                  {
+                    "l": "C",
+                    "t": "The second trip to a small remote"
+                  },
+                  {
+                    "l": "D",
+                    "t": "The discovery of a new species of snake"
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He fell from a tall palm tree by accident"
+                  },
+                  {
+                    "l": "B",
+                    "t": "A snake crawled onto his head in his sleep"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He discovered a rare frog on a deserted island"
+                  },
+                  {
+                    "l": "D",
+                    "t": "A poisonous snake attacked him on his field trip"
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "From its origin"
+                  },
+                  {
+                    "l": "B",
+                    "t": "From its length"
+                  },
+                  {
+                    "l": "C",
+                    "t": "From its colour"
+                  },
+                  {
+                    "l": "D",
+                    "t": "From its genes"
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new species of snake has been discovered on a remote island in the Bahamas. Scientists identified 20 of the one-meter-long snakes during two trips to the Caribbean islands. The second trip was made in October last year. One of the creatures made a dramatic appearance by moving onto the head of the team leader as he slept. The snake has been named Silver Boa because it is metal-coloured and the first specimen found was climbing a silver palm tree. The team was led by Dr. Graham Reynolds from Harvard University. The scientist confirmed the snake was a previously unknown species after conducting a genetic analysis of tissue samples. Commenting on the find, snake expert Robert Henderson, from the Milwaukee Museum of Natural History, said, \"Worldwide, new species of frogs are being discovered and described quite regularly. New species of snakes, however, are much rarer.\"",
+                "zh": "在巴哈马一座偏远的岛屿上发现了一种新的蛇类物种。科学家们在两次前往加勒比群岛的考察中识别出20条长达一米的蛇。第二次考察是在去年10月进行的。其中一条蛇以戏剧性的方式出现,爬到了正在睡觉的团队负责人的头上。这种蛇被命名为Silver Boa,因为它呈金属色,且发现的第一个标本正在攀爬一棵银棕榈树。该团队由哈佛大学的Graham Reynolds博士率领。这位科学家在对组织样本进行基因分析后确认该蛇是一个此前未知的物种。Milwaukee自然历史博物馆的蛇类专家Robert Henderson在评论这一发现时说:\"在全球范围内,新的蛙类物种正在被定期发现和描述。然而,新的蛇类物种则要罕见得多。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The airport is a long way from the hotel"
+                  },
+                  {
+                    "l": "B",
+                    "t": "His flight is leaving in less than 2 hours"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has to check a lot of luggage"
+                  },
+                  {
+                    "l": "D",
+                    "t": "The security check takes time"
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In cash"
+                  },
+                  {
+                    "l": "B",
+                    "t": "By credit card"
+                  },
+                  {
+                    "l": "C",
+                    "t": "With his smart phone"
+                  },
+                  {
+                    "l": "D",
+                    "t": "With a traveler's check"
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Look after his luggage"
+                  },
+                  {
+                    "l": "B",
+                    "t": "Find a porter for him"
+                  },
+                  {
+                    "l": "C",
+                    "t": "Give him a receipt"
+                  },
+                  {
+                    "l": "D",
+                    "t": "Confirm his flight"
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Posting a comment on the hotel's webpage"
+                  },
+                  {
+                    "l": "B",
+                    "t": "Staying in the same hotel next time he comes"
+                  },
+                  {
+                    "l": "C",
+                    "t": "Signing up for membership of Sheraton Hotel"
+                  },
+                  {
+                    "l": "D",
+                    "t": "Loading her luggage onto the airport shuttle\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Did you enjoy your stay with us, Mr. Brown?",
+                "zh": "W: Brown先生,您在我们这里住得还愉快吗?"
+              },
+              {
+                "en": "M: Yes, very much. I had a wonderful time here. Now I'm going to the airport. My flight leaves in less than 2 hours, so could you tell me what's the quickest way to get there?",
+                "zh": "M: 是的,非常愉快。我在这里度过了美好的时光。现在我要去机场。我的航班不到2小时就起飞了,所以能告诉我怎么去那里最快吗?"
+              },
+              {
+                "en": "W: Well, we can call a taxi for you. We also have a free airport shuttle service.",
+                "zh": "W: 嗯,我们可以为您叫辆出租车。我们也有免费的机场班车服务。"
+              },
+              {
+                "en": "M: That sounds great. But will the shuttle get me to the airport in time?",
+                "zh": "M: 听起来不错。但班车能让我准时到达机场吗?"
+              },
+              {
+                "en": "W: Yes, it should. The next shuttle leaves in 15 minutes, and it takes some 25 minutes to get to the airport.",
+                "zh": "W: 可以的,应该没问题。下一班车15分钟后出发,大约25分钟就能到机场。"
+              },
+              {
+                "en": "M: Fantastic! I'll just wait in the lobby. Will you please let me know when it's leaving?",
+                "zh": "M: 太好了!我就在大堂等着。班车出发时请告诉我一声好吗?"
+              },
+              {
+                "en": "W: Of course, sir.",
+                "zh": "W: 当然,先生。"
+              },
+              {
+                "en": "M: Now I would like to settle my mini-bar bill. How much is that?",
+                "zh": "M: 现在我想结算一下迷你吧的账单。一共多少钱?"
+              },
+              {
+                "en": "W: Let's see. It comes to $37.50. How would you like to pay for it?",
+                "zh": "W: 我看看。总共是37.50美元。您想怎么支付?"
+              },
+              {
+                "en": "M: I'll pay with my credit card. Thanks. But I'll need a receipt so I can charge it to my company.",
+                "zh": "M: 我用信用卡支付。谢谢。但我需要一张收据,这样我可以向公司报销。"
+              },
+              {
+                "en": "W: Absolutely! Here you are, sir. If you like, you can leave your bags with the porter and he can load them onto the shuttle for you when it arrives.",
+                "zh": "W: 没问题!给您,先生。如果您愿意,可以把行李交给行李员,班车到的时候他会帮您把行李搬上车。"
+              },
+              {
+                "en": "M: That would be great. Thank you.",
+                "zh": "M: 那太好了。谢谢你。"
+              },
+              {
+                "en": "W: Would you like to leave a comment on our webpage when you have time?",
+                "zh": "W: 您有时间的话,愿意在我们的网页上留个评价吗?"
+              },
+              {
+                "en": "M: Sure. I had a really good stay here, and I'd like to recommend your hotel to my friends and colleagues.",
+                "zh": "M: 当然。我在这里住得非常好,我想把你们酒店推荐给我的朋友和同事。"
+              },
+              {
+                "en": "W: That's very kind of you. Thank you again for staying at Sheraton Hotel.",
+                "zh": "W: 您太客气了。再次感谢您入住Sheraton酒店。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Questions 12 to 15 are based on the conversation you have just heard."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is the only boy in his family"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is his teacher's favorite student"
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has stopped making terrible faces"
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Warn him of danger by making up a story"
+                  },
+                  {
+                    "l": "B",
+                    "t": "Give him some cherry stones to play with"
+                  },
+                  {
+                    "l": "C",
+                    "t": "Do something funny to amuse him"
+                  },
+                  {
+                    "l": "D",
+                    "t": "Tell him to play in her backyard"
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They could knock people unconscious"
+                  },
+                  {
+                    "l": "B",
+                    "t": "They could fly against a strong wind"
+                  },
+                  {
+                    "l": "C",
+                    "t": "They could sometimes terrify adults"
+                  },
+                  {
+                    "l": "D",
+                    "t": "They could break people's legs"
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "One would have curly hair if they ate too much stale bread"
+                  },
+                  {
+                    "l": "B",
+                    "t": "One would go to prison if they put a stamp on upside down"
+                  },
+                  {
+                    "l": "C",
+                    "t": "One would have to shave their head to remove a bat in their hair"
+                  },
+                  {
+                    "l": "D",
+                    "t": "One would get a spot on their tongue if they told a lie deliberately"
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: You know, Ben's given up making those terrible faces he used to make. The other day, he came home from school almost in tears. His teacher said if he went on like that, his face would get stuck when the winds changed.",
+                "zh": "M: 你知道吗,Ben已经不做那些他以前常做的可怕鬼脸了。前几天他从学校回家差点哭了。他老师说如果他再那样下去,起风的时候他的脸就会卡住定型。"
+              },
+              {
+                "en": "W: And he believed her?",
+                "zh": "W: 他居然相信了?"
+              },
+              {
+                "en": "M: Yeah, he is only a little boy. Don't you remember all those things we used to believe when we were little? I remember my aunt Mary used to say if you swallow a cherry stone, a tree will grow out of your mouth. And I'm still terrified today, sort of subconsciously. You know, if I swallow one by mistake…",
+                "zh": "M: 是啊,他只是个小孩子。你不记得我们小时候相信的那些事情了吗?我记得我姑妈Mary过去常说如果你吞下一颗樱桃核,嘴里就会长出一棵树。我到今天还是很害怕,就是潜意识里的那种。你知道,如果我不小心吞下一颗……"
+              },
+              {
+                "en": "W: Yeah, I suppose you're right. The one that used to get me was that swans could break your leg with a blow of the wing.",
+                "zh": "W: 是啊,我想你说得对。以前最能吓到我的是说天鹅扇一下翅膀能打断你的腿。"
+              },
+              {
+                "en": "M: They can, can't they? I always thought they could.",
+                "zh": "M: 它们能啊,不是吗?我一直以为它们能做到。"
+              },
+              {
+                "en": "W: No, they are not that strong. But there is another one even more terrifying. That is, if you put a postage stamp on upside down, you'll go to prison.",
+                "zh": "W: 不,它们没那么大力气。不过还有一个更吓人的。就是如果你把邮票倒着贴,你就会进监狱。"
+              },
+              {
+                "en": "M: No, never heard of that. But my grandmother was a terror for that kind of thing. For example, she would say you'll get a spot on your tongue if you tell a lie. If you eat stale bread, your hair will curl. And here is one more. We went on a camping trip once in Italy, and my wife spent the whole time worrying about bats getting into her hair. She said her grandmother reckoned you had to shave your head to get it out. My wife was really terrified.",
+                "zh": "M: 没有,从没听说过。但我奶奶在这方面特别厉害。比如,她会说如果你撒谎舌头上就会长斑点。如果你吃不新鲜的面包,头发就会卷起来。还有一个。我们有一次去意大利露营,我妻子整个行程都在担心蝙蝠会钻进她头发里。她说她奶奶认为你得把头发剃光才能弄出来。我妻子真的特别害怕。"
+              },
+              {
+                "en": "W: Silly, isn't it? But that's how some parents try to keep their kids from doing the wrong thing or getting into trouble.",
+                "zh": "W: 很傻,是不是?但有些家长就是这样想办法不让孩子做错事或惹麻烦的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Everything seemed to be changing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People were formal and disciplined."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People were excited to go travelling overseas."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Things from the Victorian era came back alive."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Watching TV at home."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Meeting people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Drinking coffee."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Trying new foods."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He was interested in stylish dresses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He was able to make a lot of money."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was a young student in the 1960s."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He was a man full of imagination.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If I could go back in history and live when I liked, I wouldn't go back very far. In fact, I'd like to relive a period I've already lived, the 1960s. I was in my twenties, and everything was being renewed. People were coming out of a formal and almost Victorian attitude, and you really felt anything was possible. Meeting people was the thing, and you went to coffee bars where you met friends and spent the evening. The cinema, the theater, all that was very exciting with new things coming out. In fact, we seemed to be out all the time. I don't really remember working—of course I was a student—or sitting around at home very much. That just wasn't where the scene was, even eating. It was the first time ordinary people started going out to eat. We were beginning to be adventurous about food, but we were more interested in meeting people than in eating or drinking. And dress, yes, that was the revolution. I mean, girls went around in really short skirts and wore flowers in their hair. And men were in jeans, and could wear their hair long too. It was a wonderful period. It was like living in an age you could never have imagined, and that never has come back. We didn't have much money, but it didn't matter. And there was plenty of opportunity to do whatever you felt like doing.",
+                "zh": "如果我能回到历史中生活在我喜欢的时代，我不会回到很久以前。事实上，我想重温一段我已经经历过的时期，那就是20世纪60年代。那时我二十多岁，一切都在更新。人们正从一种正式的、近乎维多利亚时代的态度中走出来，你真的感觉一切皆有可能。见人是最重要的事，你会去咖啡馆，在那里遇见朋友并度过整个晚上。电影院、剧院，所有这些都非常令人兴奋，有新事物不断涌现。事实上，我们似乎一直在外面。我真的不记得工作——当然我那时是学生——或者经常坐在家里。那根本不是活动的场所，甚至吃饭也是如此。那是普通人第一次开始出去吃饭。我们开始对食物充满冒险精神，但我们对见人比对吃喝更感兴趣。还有服装，是的，那是一场革命。我的意思是，女孩们穿着非常短的裙子到处走，头发上戴着花。男人们穿着牛仔裤，也可以留长发。那是一个美妙的时期。就像生活在一个你永远无法想象的时代，而且再也没有回来过。我们没有多少钱，但这无关紧要。而且有大量的机会去做任何你想做的事情。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They avoid looking at them."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They run away immediately."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They show anger on their faces."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They make threatening sounds."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It turns to its owner for help."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It turns away to avoid conflict."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It looks away and gets angry too."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It focuses its eyes on their mouths."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By observing their facial features carefully."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By focusing on a particular body movement."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By taking in their facial expressions as a whole."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By interpreting different emotions in different ways.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Dogs, man's best friends, have a clear strategy for dealing with angry owners—they look away. New research shows that dogs limit their eye contact with angry humans. The scientists suggest this may be an attempt to calm humans down. This behavior may have evolved as dogs gradually learned they could benefit from avoiding conflicts with humans. To conduct the tests, the University of Helsinki researchers trained 31 dogs to rest in front of a video screen. Facial photos of dogs and humans were displayed on the screen for 1.5 seconds. They showed threatening, pleasant and neutral expressions. Nearby cameras tracked the dogs' eye movements. Dogs in the study looked most at the eyes of humans and other dogs to sense their emotions. When dogs looked at the expressions of angry dogs, their eyes rested more on the mouth, perhaps to interpret the threatening expressions. And when looking at angry humans, they tended to turn away their gaze. Dogs may have learned to detect threat signs from humans and respond by trying to make peace, according to researcher Sanni Somppi. Avoiding conflicts may have helped dogs develop better bonds with humans. The researchers also note that dogs scan faces as a whole to sense how people are feeling, instead of focusing on a given feature. They suggest this indicates that dogs aren't sensing emotions from a single feature, but piecing together information from all facial features just as humans do.",
+                "zh": "狗是人类最好的朋友，它们有一套明确的策略来应对愤怒的主人——把目光移开。新研究表明，狗会限制与愤怒人类的眼神接触。科学家认为这可能是试图让人类平静下来。这种行为可能是随着狗逐渐了解到可以通过避免与人类冲突而获益而进化形成的。为了进行测试，Helsinki大学的研究人员训练了31只狗在视频屏幕前静止不动。屏幕上显示狗和人类的面部照片，持续1.5秒。这些照片展示了威胁性、愉悦和中性的表情。附近的摄像头追踪狗的眼球运动。研究中的狗最常注视人类和其他狗的眼睛以感知它们的情绪。当狗看到愤怒的狗的表情时，它们的目光更多地停留在嘴部,可能是为了解读威胁性表情。而当看到愤怒的人类时，它们倾向于移开目光。根据研究员Sanni Somppi的说法，狗可能已经学会了从人类那里察觉威胁信号并通过试图和解来做出反应。避免冲突可能帮助狗与人类发展出更好的联系。研究人员还指出，狗会扫描整张脸来感知人们的感受，而不是聚焦于某个特定特征。他们认为这表明狗不是从单一特征中感知情绪，而是像人类一样从所有面部特征中拼凑信息。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have to look for food and shelter underground."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They take little notice of the changes in temperature."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They resort to different means to survive the bitter cold."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have difficulty adapting to the changed environment."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have their weight reduced to the minimum."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They consume energy stored before the long sleep."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can maintain their heart beat at the normal rate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They can keep their body temperature warm and stable."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By staying in hiding places and eating very little."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By seeking food and shelter in people's houses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By growing thicker hair to stay warm."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By storing enough food beforehand."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To stay safe."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To save energy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To keep company."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To protect the young."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Winter in many places is very cold. There is lots of snow around and the ground freezes, which can make life difficult for animals. People in cold places live in warm houses and have learned to adapt. What do animals do? There are three main ways that animals survive the cold in winter: sleep, adapt or migrate. Some animals, such as bears, frogs and snakes, sleep all winter. They sleep very deeply and need little or no food. While sleeping, their body temperature drops and their heart beat slows down. To prepare for this before winter, these animals eat extra food to become fat, which gives them the energy they need while they sleep. Other animals adapt, for example, by staying active in winter. It is often hard for them to find food, so some animals, such as mice, collect extra food before winter and hide it. When winter comes, they return to the hiding places to eat the food. Some animals grow thicker fur, or live in tree holes or underground to stay warm. Some birds migrate by flying to a warmer place for the winter, where they can find more food. Some fly very long distances, including one kind of bird that flies from the remote north of the world all the way to the distant south. Some birds fly in groups for safety, while others fly alone.",
+                "zh": "许多地方的冬天非常寒冷。周围有大量积雪，地面结冰，这会给动物的生活带来困难。寒冷地区的人们住在温暖的房子里，并已学会适应。动物们会怎么做呢？动物在冬天抵御寒冷主要有三种方式：睡眠、适应或迁徙。一些动物，如熊、青蛙和蛇，整个冬天都在睡觉。它们睡得很沉，几乎不需要或完全不需要食物。在睡眠时，它们的体温下降，心跳减慢。为了在冬天到来前做好准备，这些动物会吃额外的食物来变胖，这为它们在睡眠期间提供所需的能量。其他动物则进行适应，例如在冬天保持活跃。它们通常很难找到食物，所以一些动物，如老鼠，会在冬天之前收集额外的食物并将其藏起来。当冬天来临时，它们返回藏匿地点吃这些食物。一些动物长出更厚的皮毛，或住在树洞或地下以保持温暖。一些鸟类通过飞往更温暖的地方过冬来迁徙，在那里它们可以找到更多食物。有些鸟飞行非常远的距离，包括一种从世界遥远的北方一直飞到遥远南方的鸟。一些鸟成群结队飞行以保证安全，而另一些则单独飞行。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2017-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "America's Internet is faster than ever before, but people still complain about their Internet being too slow. New York's Attorney General's office"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "an investigation in the fall into whether or not Verizon, Cablevision and Time Warner are delivering broadband that's as fast as the providers"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "it is. Earlier this month, the office asked for the public's help to measure their speed results, saying consumers"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "to get the speeds they were promised. \"Too many of us may be paying for one thing, and getting another,\" the Attorney General said. If the investigation uncovers anything, it wouldn't be the first time a telecom provider got into"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "over the broadband speeds it promised and delivered customers. Back in June, the Federal Communications Commission fined AT&T $100 million over"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "that the carrier secretly reduced wireless speeds after customers consumed a certain amount of"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ". Even when they stay on the right side of the law, Internet providers arouse customers' anger over bandwidth speed and cost. Just this week, an investigation found that media and telecom giant Comcast is the most"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "provider. Over 10 months, Comcast received nearly 12,000 customer complaints, many"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "to its monthly data cap and overage(超过额度的) charges. Some Americans are getting so"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "with Internet providers they're just giving up. A recent study found that the number of Americans with high-speed Internet at home today"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "fell during the last two years, and 15% of people now consider themselves to be \"cord-cutters.\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "accusations"
+        },
+        {
+          "l": "B",
+          "w": "actually"
+        },
+        {
+          "l": "C",
+          "w": "claim"
+        },
+        {
+          "l": "D",
+          "w": "communicating"
+        },
+        {
+          "l": "E",
+          "w": "complain"
+        },
+        {
+          "l": "F",
+          "w": "data"
+        },
+        {
+          "l": "G",
+          "w": "deserved"
+        },
+        {
+          "l": "H",
+          "w": "frustrated"
+        },
+        {
+          "l": "I",
+          "w": "hated"
+        },
+        {
+          "l": "J",
+          "w": "launched"
+        },
+        {
+          "l": "K",
+          "w": "relating"
+        },
+        {
+          "l": "L",
+          "w": "times"
+        },
+        {
+          "l": "M",
+          "w": "trouble"
+        },
+        {
+          "l": "N",
+          "w": "usually"
+        },
+        {
+          "l": "O",
+          "w": "worried"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "J"
+        },
+        {
+          "n": 27,
+          "a": "C"
+        },
+        {
+          "n": 28,
+          "a": "G"
+        },
+        {
+          "n": 29,
+          "a": "M"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "I"
+        },
+        {
+          "n": 33,
+          "a": "K"
+        },
+        {
+          "n": 34,
+          "a": "H"
+        },
+        {
+          "n": 35,
+          "a": "B"
+        }
+      ]
+    },
+    "matching": {
+      "title": "From Accountant to Yogi: Making a Radical Career Change",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "At some point, almost all of us will experience a period of radical professional change. Some of us will seek it out; for others it will feel like an unwelcome intrusion into otherwise stable careers. Either way, we have choices about how we respond to it when it comes."
+        },
+        {
+          "l": "B",
+          "t": "We recently caught up with yoga entrepreneur Leah Zaccaria, who put herself through the fire of change to completely reinvent herself. In her search to live a life of purpose, Leah left her high-paying accounting job, her husband, and her home. In the process, she built a radically new life and career. Since then, she has founded two yoga studios, met a new life partner, and formed a new community of people. Even if your personal reinvention is less drastic, we think there are lessons from her experience that apply."
+        },
+        {
+          "l": "C",
+          "t": "Where do the seeds of change come from? The Native American Indians have a saying: \"Pay attention to the whispers so you won't have to hear the screams.\" Often the best ideas for big changes come from unexpected places—it's just a matter of tuning in. Great leaders recognize the weak signals or slight signs that point to big changes to come. Leah reflects on a time she listened to the whispers: \"About the time my daughter was five years old. I started having a sense that 'this isn't right.'\" She then realized that her life no longer matched her vision for it."
+        },
+        {
+          "l": "D",
+          "t": "Up until that point, Leah had followed traditional measures of success. After graduating with a degree in business and accounting, she joined a public accounting firm, married, bought a house, put lots of stuff in it, and had a baby. \"I did what everybody else thought looked successful,\" she says. Leah easily could have fallen into a trap of feeling content; instead, her energy sparked a period of experimentation and renewal."
+        },
+        {
+          "l": "E",
+          "t": "Feeling the need to change, Leah started playing with future possibilities by exploring her interests and developing new capabilities. First trying physical exercise and dieting, she lost some weight and discovered an inner strength. \"I felt powerful because I broke through my own limitations,\" she recalls."
+        },
+        {
+          "l": "F",
+          "t": "However, it was another interest that led Leah to radically reinvent herself. \"I remember sitting on a bench with my aunt at a yoga studio,\" she said, \"and having a moment of clarity right then and there: Yoga is saving my life. Yoga is waking me up. I'm not happy and I want to change and I'm done with this.\" In that moment of clarity Leah made an important leap, conquering her inner resistance to change and making a firm commitment to take bigger steps."
+        },
+        {
+          "l": "G",
+          "t": "Creating the future you want is a lot easier if you are ready to exploit the opportunities that come your way. When Leah made the commitment to change, she primed herself to new opportunities she may otherwise have overlooked. She recalls:"
+        },
+        {
+          "l": "H",
+          "t": "One day a man I worked with, Ryan, who had his office next to mine, said, \"Leah, let's go look at this space on Queen Anne.\" He knew my love for yoga and had seen a space close to where he lived that he thought might be good to serve as a yoga studio. As soon as I saw the location, I knew this was it. Of course I was scared, yet I had this strong sense of \"I have to do this.\" Only a few months later Leah opened her first yoga studio, but success was not instant."
+        },
+        {
+          "l": "I",
+          "t": "Creating the future takes time. That's why leaders continue to manage the present while building toward the big changes of the future. When it's time to make the leap, they take action and immediately drop what's no longer serving their purpose. Initially Leah stayed with her accounting job while starting up the yoga studio to make it all work."
+        },
+        {
+          "l": "J",
+          "t": "Soon after, she knew she had to make a bold move to fully commit to her new future. Within two years, Leah shed the safety of her accounting job and made the switch complete. Such drastic change is not easy."
+        },
+        {
+          "l": "K",
+          "t": "Steering through change and facing obstacles brings us face to face with our fears. Leah reflects on one incident that triggered her fears, when her investors threatened to shut her down: \"I was probably up against the most fear I've ever had\" she says. \"I had spent two years cultivating this community, and it had become successful very fast, but within six months I was facing the prospect of losing it all.\""
+        },
+        {
+          "l": "L",
+          "t": "She connected with her sense of purpose and dug deep, cultivating a tremendous sense of strength. \"I was feeling so intentional and strong that I wasn't going to let fear just take over. I was thinking, 'OK, guys, if you want to try to shut me down, shut me down.' And I knew it was a negotiation scheme, so I was able to say to myself, 'This is not real.'\" By naming her fears and facing them head-on, Leah gained confidence. For most of us, letting go of the safety and security of the past gives us great fear. Calling out our fears explicitly, as Leah did, can help us act decisively."
+        },
+        {
+          "l": "M",
+          "t": "The cycle of renewal never ends. Leah's growth spurred her to open her second studio—and it wasn't for the money."
+        },
+        {
+          "l": "N",
+          "t": "I have no desire to make millions of dollars. It's not about that; it's about growth for me. Honestly, I didn't need to open a second studio. I was making as much money as I was as an accountant. But I know if you don't grow, you stand still, and that doesn't work for me."
+        },
+        {
+          "l": "O",
+          "t": "Consider the current moment in your own life, your team or your organization. Where are you in the cycle of renewal: Are you actively preserving the present, or selectively forgetting the past, or boldly creating the future? What advice would Leah give you to move you ahead on your journey? Once we're on the path of growth, we can continually move through the seasons of transformation and renewal."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Readiness to take advantage of new opportunities will make it easier to create one's desired future.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "By conventional standards, Leah was a typical successful woman before she changed her career.",
+          "a": "D"
+        },
+        {
+          "n": 38,
+          "s": "Leah gained confidence by laying out her fears and confronting them directly.",
+          "a": "L"
+        },
+        {
+          "n": 39,
+          "s": "In search of a meaningful life, Leah gave up what she had and set up her own yoga studios.",
+          "a": "B"
+        },
+        {
+          "n": 40,
+          "s": "Leah's interest in yoga prompted her to make a firm decision to reshape her life.",
+          "a": "F"
+        },
+        {
+          "n": 41,
+          "s": "Small signs may indicate great changes to come and therefore merit attention.",
+          "a": "C"
+        },
+        {
+          "n": 42,
+          "s": "Leah's first yoga studio was by no means an immediate success.",
+          "a": "H"
+        },
+        {
+          "n": 43,
+          "s": "Some people regard professional change as an unpleasant experience that disturbs their stable careers.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "The worst fear Leah ever had was the prospect of losing her yoga business.",
+          "a": "K"
+        },
+        {
+          "n": 45,
+          "s": "As she explored new interests and developed new potentials, Leah felt powerful internally.",
+          "a": "E"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Urbanization—migration away from the suburbs to the city center—will be the biggest real estate trend in 2015, according to a new report. The report says America's urbanization will continue to be the most significant issue affecting the industry, as cities across the country imitate the walkability and transit-oriented development making cities like New York and San Francisco so successful. As smaller cities copy the model of these \"24-hour cities,\" more affordable versions of these places will be created. The report refers to this as the coming of the \"18-hour city,\" and uses the term to refer to cities like Houston, Austin, Charlotte, and Nashville, which are \"positioning themselves as highly competitive, in terms of livability, employment offerings, and recreational and cultural facilities.\" Another trend that looks significant in 2015 is that America's largest population group, Millennials(千禧一 代), will continue to put off buying a house. Apartments will retain their appeal for a while for Millennials, haunted by what happened to home-owning parents. This trend will continue into the 2020s, the report projects. After that, survey respondents disagree over whether this generation will follow in their parents' footsteps, moving to the suburbs to raise families, or will choose to remain in the city center. Another issue affecting real estate in the coming year will be America's failing infrastructure. Most roads, bridges, transit, water systems, the electric grid, and communications networks were installed 50 to 100 years ago, and they are largely taken for granted until they fail. The report's writers state that America's failure to invest in infrastructure impacts not only the health of the real-estate market, but also our ability to remain globally competitive. Apart from the specific trends highlighted above, which cause some investors to worry, the report portrays an overall optimism borne by the recent healthy real-estate \"upcycle\" and improving economy. Seventy-four percent of the respondents surveyed report a \"good to excellent\" expectation of real-estate profitability in 2015. While excessive optimism can promote bad investment patterns, resulting in a real-estate \"bubble,\" the report's writers downplay that potential outcome in that it has not yet occurred.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "According to the new report, real estate development in 2015 will witness_______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "an accelerating speed"
+              },
+              {
+                "l": "B",
+                "t": "a shift to city centers"
+              },
+              {
+                "l": "C",
+                "t": "a new focus on small cities"
+              },
+              {
+                "l": "D",
+                "t": "an ever-increasing demand"
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What characterizes \"24-hour cities\" like New York?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People can live without private cars."
+              },
+              {
+                "l": "B",
+                "t": "People are generally more competitive."
+              },
+              {
+                "l": "C",
+                "t": "People can enjoy services around the clock."
+              },
+              {
+                "l": "D",
+                "t": "People are in harmony with the environment."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "Why are Millennials reluctant to buy a house?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can only afford small apartments."
+              },
+              {
+                "l": "B",
+                "t": "The house prices are currently too high."
+              },
+              {
+                "l": "C",
+                "t": "Their parents' bad experience still haunts them."
+              },
+              {
+                "l": "D",
+                "t": "They feel attached to the suburban environment."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What might hinder real estate development in the U.S.?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The continuing economic recession in the country."
+              },
+              {
+                "l": "B",
+                "t": "The lack of confidence on the part of investors."
+              },
+              {
+                "l": "C",
+                "t": "The fierce global competition."
+              },
+              {
+                "l": "D",
+                "t": "The worsening infrastructure."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "How do most of the respondents in the survey feel about the U.S. real-estate market in 2015?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Pessimistic."
+              },
+              {
+                "l": "B",
+                "t": "Hopeful."
+              },
+              {
+                "l": "C",
+                "t": "Cautious."
+              },
+              {
+                "l": "D",
+                "t": "Uncertain."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The brain is a seemingly endless library, whose shelves house our most precious memories as well as our lifetime's knowledge. But is there a point where it reaches capacity? The answer is no, because brains are more sophisticated than that. Instead of just crowding in, old information is sometimes pushed out of the brain for new memories to form. Previous behavioural studies have shown that learning new information can lead to forgetting. But in a new study, researchers demonstrated for the first time how this effect occurs in the brain. In daily life, forgetting actually has clear advantages. Imagine, for instance, that you lost your bank card. The new card you receive will come with a new personal identification number (PIN). Each time you remember the new PIN, you gradually forget the old one. This process improves access to relevant information, without old memories interfering. And most of us may sometimes feel the frustration of having old memories interfere with new, relevant memories. Consider trying to remember where you parked your car in the same car park you were at a week earlier. This type of memory (where you are trying to remember new, but similar information) is particularly vulnerable to interference. When we acquire new information, the brain automatically tries to incorporate( 合并) it within existing information by forming associations. And when we retrieve(检索) information, both the desired and associated but irrelevant information is recalled. The majority of previous research has focused on how we learn and remember new information. But current studies are beginning to place greater emphasis on the conditions under which we forget, as its importance begins to be more appreciated. A very small number of people are able to remember almost every detail of their life. While it may sound like an advantage to many, people with this rare condition often find their unusual ability burdensome. In a sense, forgetting is our brain's way of sorting memories, so the most relevant memories are ready for retrieval. Normal forgetting may even be a safety mechanism to ensure our brain doesn't become too full.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What have past behavioural studies found about our brain?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its capacity actually knows no limits."
+              },
+              {
+                "l": "B",
+                "t": "It grows sophisticated with practice."
+              },
+              {
+                "l": "C",
+                "t": "It keeps our most precious memories until life's end."
+              },
+              {
+                "l": "D",
+                "t": "New information learned pushes old information out."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What is the benefit of forgetting?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It frees us from painful memories."
+              },
+              {
+                "l": "B",
+                "t": "It helps slow down our aging process."
+              },
+              {
+                "l": "C",
+                "t": "It facilitates our access to relevant information."
+              },
+              {
+                "l": "D",
+                "t": "It prevents old information from forming associations."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What is the emphasis of current studies of memory?",
+            "o": [
+              {
+                "l": "A",
+                "t": "When people tend to forget."
+              },
+              {
+                "l": "B",
+                "t": "What contributes to forgetting."
+              },
+              {
+                "l": "C",
+                "t": "How new technology hinders memory capacity."
+              },
+              {
+                "l": "D",
+                "t": "Why learning and forgetting are complementary."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What do people find about their rare ability to remember every detail of their life?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It adds to the burden of their memory."
+              },
+              {
+                "l": "B",
+                "t": "It makes their life more complicated."
+              },
+              {
+                "l": "C",
+                "t": "It contributes to their success in life."
+              },
+              {
+                "l": "D",
+                "t": "It constitutes a rare object of envy."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does the passage say about forgetting?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It can enlarge our brain capacity."
+              },
+              {
+                "l": "B",
+                "t": "It helps get rid of negative memories."
+              },
+              {
+                "l": "C",
+                "t": "It is a way of organising our memories."
+              },
+              {
+                "l": "D",
+                "t": "It should not cause any alarm in any way."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "珠江是华南一大河系，流经广州市，是中国第三长的河流，仅次于长江和黄河。珠江三角洲(delta)是中国 最发达的地区之一，面积约11,000平方公里。它在面积和人口方面也是世界上最大的城市聚集区。珠江三角洲 九个最大城市共有5,700多万人口。上世纪70年代末中国改革开放以来，珠江三角洲已成为中国和世界主要经 济区域和制造中心之一。",
+    "reference": "The Pearl River, a major river system in South China which flows through Guangzhou, is the third-longest river in China, after the Yangtze River and the Yellow River. The Pearl River Delta is one of the most developed regions in China, with an area of about 11,000 square kilometers. It is also the largest urban agglomeration in the world in terms of both area and population. The nine largest cities in the Pearl River Delta have a combined population of more than 57 million. Since China's reform and opening-up in the late 1970s, the Pearl River Delta has become one of the major economic regions and manufacturing centers in China and the world."
+  }
+}

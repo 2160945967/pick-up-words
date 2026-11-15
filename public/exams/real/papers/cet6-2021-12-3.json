@@ -1,0 +1,1395 @@
+{
+  "id": "cet6-2021-12-3",
+  "level": "cet6",
+  "year": 2021,
+  "month": 12,
+  "set": 3,
+  "title": "2021年12月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay related to the short passage given below. In your essay, you are to comment on the phenomenon described in the passage and suggest measures to address the issue. You should write at least 150 words but no more than 200 words. Some parents in China are overprotective of their children. They plan everything for their children, make all the decisions for them, and do not allow them to explore on their own in case they make mistakes or get hurt.",
+    "sample": "It is not uncommon nowadays that some parents in China are overprotective of their children. They arrange everything, make every decision on their behalf, and forbid any independent exploration for fear of mistakes or injuries. In my view, however well-intentioned this practice may be, it does far more harm than good.To begin with, such excessive protection deprives children of the chance to develop independence. When every choice is made for them, they never learn how to weigh options or solve problems on their own. Moreover, being shielded from all failure leaves them without resilience; a child who has never fallen simply does not know how to stand up again. As a result, these children may grow into adults who are competent in theory yet helpless in real life.To address this issue, parents should first loosen their grip and let children make age-appropriate decisions by themselves. In addition, they ought to treat mistakes as valuable lessons rather than disasters to be avoided at all costs. Ultimately, the wisest parents shift their role from controllers to guides, offering support from behind instead of clearing every obstacle ahead."
+  },
+  "listening": {
+    "audio": "cet6-2021-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He was enjoying his holiday."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He was recovering in hospital."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was busy writing his essays."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He was fighting a throat infection."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He broke his wrist."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He lost his antibiotics."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He slipped on ice and fell."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He was laughed at by some girls."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Turn to her father for help."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Call the repair shop to fix it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Ask the manufacturer for repairs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Replace it with a brand-new one."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Help David retrieve his essays."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Introduce David to her parents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Offer David some refreshments."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Accompany David to his home.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Hi, David. I haven't seen you in class for almost two weeks. We thought you had disappeared on holiday early or something.",
+                "zh": "W: 嗨，戴维。我快两周没在课堂上见到你了。我们还以为你提早休假去哪里了呢。"
+              },
+              {
+                "en": "M: Hi, Sarah. Well, it's a bit of a long story I'm afraid. I got a throat infection last week and had to go to the hospital to get some antibiotics as I really wasn't getting any better.",
+                "zh": "M: 嗨，莎拉。唉，说来话长。我上周喉咙感染了，因为病情实在不见好转，不得不去医院开了一些抗生素。"
+              },
+              {
+                "en": "W: Oh yeah. There have been so many viruses going around this winter. The weather has been so awful for the last few weeks.",
+                "zh": "W: 哦，是的。今年冬天有好多病毒在传播。过去几周的天气真是太糟了。"
+              },
+              {
+                "en": "M: And, on the way back from the hospital, I slipped on some ice and fell and then had to go to the hospital to get an X-ray because I basically thought I broke my wrist, although, thankfully, it's not broken. But I need to be careful with it for the next few weeks.",
+                "zh": "M: 还有，在从医院回来的路上，我在冰上滑倒摔了一跤，结果又得去医院拍 X 光，因为我以为自己把手腕给摔断了，不过幸好没断。但接下来的几周我得小心对待这只手。"
+              },
+              {
+                "en": "W: Oh, that's too bad! How unfortunate!",
+                "zh": "W: 哦，那太糟糕了！真是太倒霉了！"
+              },
+              {
+                "en": "M: To make things worse, I managed to fall right in front of four girls from the ninth grade. So I was utterly humiliated. Plus, the laptop in my bag was broken too.",
+                "zh": "M: 更糟糕的是，我偏偏摔在了四个九年级女生面前。简直丢脸丢到家了。而且，我包里的笔记本电脑也摔坏了。"
+              },
+              {
+                "en": "W: No, what a complete catastrophe! Is the laptop still under warranty? If it is, then you can easily send it back to the manufacturer, and they'll send you a brand-new one for free surely.",
+                "zh": "W: 天啊，这真是彻头彻尾的灾难！笔记本电脑还在保修期内吗？如果是的话，你就可以很方便地寄回给厂家，他们肯定会免费给你寄一台全新的。"
+              },
+              {
+                "en": "M: The warranty ran out three days before I broke it. And all my essays are in there, and I need to hand them in before we break for the Christmas holidays.",
+                "zh": "M: 保修期在我摔坏它的前三天就过了。我所有的论文都在里面，而且我必须在放圣诞假之前把它们交上去。"
+              },
+              {
+                "en": "W: Listen, I have the number of a really good, affordable computer repair shop at home. My dad has used this guy before and he can work miracles. Let's go back to my house and we can call the repair shop, and you can have some tea and cookies too.",
+                "zh": "W: 听我说，我家里有一家又好又实惠的电脑维修店的电话。我爸爸以前找过这个人，他简直能创造奇迹。我们回我家吧，我们可以给维修店打电话，你还可以喝点茶、吃点饼干。"
+              },
+              {
+                "en": "M: Wow, thanks, Sarah! That would be great! Let me just call my mom and let her know I'll be home a little bit later.",
+                "zh": "M: 哇，谢谢你，莎拉！那太好了！我先给我妈妈打个电话，跟她说一声我会晚一点回家。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is a critic of works on military affairs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is an acclaimed hostess of Book Talk."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is a researcher of literary genres."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is a historian of military history."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is about the military history of Europe."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is set in the 18th and 19th centuries."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is her fifth book of military history."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a war novel set in the future."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She visited soldiers' wives and mothers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She conducted surveys of many soldiers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She met a large number of soldiers in person."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She looked into the personal lives of soldiers."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She doesn't have much freedom for imagination."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is not easy to make her readers believe in her."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is difficult to attract young readers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She has to combine fact with fiction."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Welcome to this week's episode of Book Talk. With me today is Heidi Brown, a historian who has written five critically acclaimed books about military history.",
+                "zh": "M: 欢迎收听本周的《图书谈》。今天和我一起做节目的是海蒂·布朗，她是一位历史学家，已经写了五本广受评论界好评的军事史著作。"
+              },
+              {
+                "en": "W: Thanks for having me, John. I'm so excited to talk about my latest book, which was published last month.",
+                "zh": "W: 谢谢你邀请我，约翰。我非常高兴能聊聊我的最新著作，这本书上个月刚刚出版。"
+              },
+              {
+                "en": "M: So this book is a novel, your first attempt at that genre. I thought it was a bit of a departure for you.",
+                "zh": "M: 所以，这本书是一部小说，是你第一次尝试这一体裁。我觉得这对你来说是一个不小的转变。"
+              },
+              {
+                "en": "W: I'd say it's a major departure as it's not just a work of fiction. It's set 200 years in the future.",
+                "zh": "W: 我会说这是一次很大的转变，因为它不只是一部虚构作品，故事还设定在两百年后的未来。"
+              },
+              {
+                "en": "M: Right. So how did that happen? You spent three decades writing about the past and focusing on the 18th and 19th centuries. And now you're speculating about the future.",
+                "zh": "M: 好。那么这是怎么发生的？你花了三十年时间写过去的历史，重点关注十八世纪和十九世纪。现在却开始推测未来。"
+              },
+              {
+                "en": "W: Well, after years of researching soldiers and chronicling their lives during battle, I just started wondering about other facets of their lives, especially their personal lives.",
+                "zh": "W: 嗯，多年来研究士兵并记录他们在战斗中的生活之后，我开始思考他们生活中的其他方面，尤其是他们的私人生活。"
+              },
+              {
+                "en": "M: I can see that. Your novel is about soldiers and it focuses on their relationships, especially the bond between sons and mothers and men and their wives.",
+                "zh": "M: 我能理解。你的小说写的是士兵，重点讲述他们之间的关系，尤其是儿子与母亲之间的感情，以及男人与妻子之间的联系。"
+              },
+              {
+                "en": "W: Yes. That focus came about when I still intended to write another book of history. I started by researching soldiers' actual personal lives, studying their letters home.",
+                "zh": "W: 是的。我最初打算再写一本历史书时，就产生了这个关注点。我先研究士兵真实的私人生活，研读他们寄回家的信件。"
+              },
+              {
+                "en": "M: So how did that history book become a novel?",
+                "zh": "M: 那么，这本历史书后来是怎么变成小说的？"
+              },
+              {
+                "en": "W: Well, I realized that the historical record was incomplete. So I'd either have to leave a lot of gaps or make a lot more assumptions than a historian should.",
+                "zh": "W: 嗯，我意识到历史记录并不完整。所以，我要么得留下许多空白，要么就得做出远超历史学家应有程度的大量推断。"
+              },
+              {
+                "en": "M: But why write a novel set in the future when your credentials are perfect for a historical novel? As a historian, any historical novel you write would have a lot of credibility.",
+                "zh": "M: 但既然你的资历非常适合写历史小说，为什么要写一部以未来为背景的小说呢？作为一名历史学家，无论你写什么历史小说，都会很有可信度。"
+              },
+              {
+                "en": "W: I felt too constrained working with the past, like what I wrote needed to be fact as opposed to fiction, but writing about the future gave me more freedom to imagine, to invent.",
+                "zh": "W: 我觉得创作过去的题材束缚太多了，好像我写的东西必须是事实，而不能是虚构。但写未来让我有更多自由去想象和创造。"
+              },
+              {
+                "en": "M: Well, having read your book, I'm glad you made that choice to move into fiction.",
+                "zh": "M: 读过你的书之后，我很高兴你做出了转向小说创作的选择。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Santa Claus."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A polar bear."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Cocoa seeds."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A glass bottle."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To attract customer attention."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To keep up with the times."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To combat counterfeits."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To promote its sales."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It resembles a picture in the encyclopedia."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It appears in the shape of a cocoa seed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has the drink's logo in the middle."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It displays the image of Santa Claus.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Whether it's in the hands of animated polar bears or Santa Claus, there's one thing you'll find in nearly all ads for Coca-Cola: the characteristic glass bottle. Most Americans don't drink soda out of the glass bottles seen in Coke's ads anymore. But this week, the company is celebrating a century of the bottle that's been sold in more than 200 countries.",
+                "zh": "无论是由动画片中的北极熊还是圣诞老人拿着，在几乎所有可口可乐的广告中，你都会看到同一样东西：那只独具特色的玻璃瓶。如今，大多数美国人已经不再用可口可乐广告中出现的玻璃瓶喝汽水了。但本周，这家公司正在庆祝这种已在全球200多个国家销售的瓶子问世一百周年。"
+              },
+              {
+                "en": "Flash back to 1915, when a bottle of Coca-Cola cost just a nickel. As the soft drink gained in popularity, it faced a growing number of competitors—counterfeits even trying to copy Coke's logo. So, according to Coca-Cola historian Ted Ryan, the company decided to come up with packaging that couldn't be duplicated.",
+                "zh": "回到1915年，那时一瓶可口可乐只要5美分。随着这种软饮料越来越受欢迎，它面临的竞争者也越来越多，甚至还有仿冒品试图复制可口可乐的标志。因此，据可口可乐历史学家特德·瑞安介绍，公司决定设计一种无法仿制的包装。"
+              },
+              {
+                "en": "A product request was sent to eight different glass makers. Workers at the Root Glass Company got the request and began flipping through the encyclopedia at the local library, landing on cocoa seed. Though cocoa seed is not an ingredient of the soda, they designed their bottle based on the seed's shape and large middle. It won over Coke executives in Atlanta and would go on to receive its own trademark, spur collections and earn Coca-Cola an iconic image that made it part of American culture for a century.",
+                "zh": "公司向八家不同的玻璃制造商发出了一份产品设计要求。鲁特玻璃公司的工人收到要求后，开始在当地的图书馆翻阅百科全书，最后注意到了可可种子。虽然可可种子并不是这种汽水的原料，但他们根据种子的形状和中部较大的特点设计了瓶子。这一设计赢得了亚特兰大可口可乐公司高管的认可，后来还获得了自己的商标，推动了收藏热潮，并为可口可乐赢得了一个具有标志性的形象，使其在一个世纪里成为美国文化的一部分。"
+              },
+              {
+                "en": "It was 100 years ago this week that the bottle earned a patent. By World War II, Coke bottle sales had ballooned into billions. Americans mostly consume Coke out of aluminum or plastic today, but the glass bottle remains a symbol of America that's readily recognized around the world.",
+                "zh": "就在本周之前的一百年前，这种瓶子获得了专利。到第二次世界大战时，可口可乐瓶装产品的销量已经达到数十亿瓶。如今，美国人饮用可口可乐时主要使用铝罐或塑料瓶，但这种玻璃瓶仍然是美国的象征，在世界各地都很容易被认出。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It often occurs among commuters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It promotes mutual understanding."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It improves their mood considerably."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It takes a great deal of effort to sustain."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Social anxiety."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Excessive caution."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lack of social skills."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Preference for solitude."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People usually regard it as an unforgettable lesson."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Human brains tend to dwell on negative events."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Negative events often hurt people deeply."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People generally resent being rejected."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Contagious."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Temporary."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Unpredictable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Measurable."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Research shows that a few moments of conversation with a stranger creates a measurable improvement in mood. But most of us are reluctant to start these conversations because we presume the opposite.",
+                "zh": "研究表明，与陌生人进行短暂的交谈能使情绪得到明显的改善。但我们大多数人都不愿意开启这些对话，因为我们以为情况恰恰相反。"
+              },
+              {
+                "en": "In an experiment, commuters who talked to nearby strangers found their commute more enjoyable than those who didn't. They were asked to predict whether they'd enjoy the commute more if they conversed with other people. Intriguingly, most expected the more solitary experience to be more pleasurable.",
+                "zh": "在一项实验中，与身边的陌生人交谈的通勤者发现，他们的通勤过程比那些没有交谈的人更令人愉快。他们被要求预测如果与他人交谈，自己是否会更享受通勤。有趣的是，大多数人预想独处的体验会更令人愉快。"
+              },
+              {
+                "en": "Why is this? Social anxiety appears to be the problem. People's reluctance to start conversations with nearby strangers comes partly from \"underestimating others' interest in connecting\". The sad thing is that people presume that a nearby stranger doesn't want to converse and don't start a conversation. Only those who forced themselves to chat because it was required by the experiment found out what a pleasant experience it could be.",
+                "zh": "为什么会这样？社交焦虑似乎是问题所在。人们不愿意与身边的陌生人开启对话，部分原因在于“低估了他人建立联系的兴趣”。令人遗憾的是，人们假定身边的陌生人不想交谈，因而没有开启对话。只有那些因实验要求而强迫自己聊天的人，才发现这会是多么令人愉快的体验。"
+              },
+              {
+                "en": "Human beings are social animals. Those who misunderstand the impact of social interactions may not, in some contexts, be social enough for their own well-being. You should be chatting with the strangers you encounter. You may occasionally have a negative encounter that might stick in your memory. This is because the human brain is biased to dwell on negative events. But starting conversations with strangers is still well worth the risk of rejection.",
+                "zh": "人类是社交动物。那些误解社交互动影响的人，在某些情况下可能为了自身的幸福感而表现得不够合群。你应该与遇到的陌生人聊天。你偶尔可能会遇到不愉快的经历，并且可能会留在记忆中。这是因为人类大脑倾向于关注负面事件。但冒着被拒绝的风险与陌生人开启对话依然非常值得。"
+              },
+              {
+                "en": "It may surprise you that conversing with strangers will make them happier too. The pleasure of connection seems contagious. People who are talked to have equally positive experiences as those who initiate a conversation.",
+                "zh": "与陌生人交谈也会让他们感到更高兴，这可能会让你感到惊讶。建立联系的乐趣似乎具有传染性。被搭话的人与发起对话的人拥有同样积极的体验。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It depends heavily on tourism."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is flourishing in foreign trade."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is mainly based on agriculture."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It relies chiefly on mineral export."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Tobacco."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Bananas."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Coffee."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Sugar."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They toil on farms."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They live a poor life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They live in Spanish-style houses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They hire people to do housework.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The Caribbean islands are divided into two worlds, a rich one and a poor one. This tropical region's economy is based mainly on farming. Farmers are of two types. One is the plantation owner who may have hundreds of thousands of acres. In contrast, the small cultivator is working only a few acres of land. Most visitors to the Caribbean are rich, like the plantation owner. They do not realize or do not want to realize that many farm families barely managed to get by on what they grow.",
+                "zh": "加勒比海诸岛被分为两个世界：一个富裕的世界和一个贫困的世界。这个热带地区的经济主要以农业为基础。农民有两种类型。一种是拥有数十万英亩土地的种植园主。相比之下，小农只耕种几英亩土地。大多数到加勒比海旅游的游客都很富有，就像种植园主一样。他们没有意识到，或者不愿意识到，许多农民家庭仅靠自己种植的东西勉强维持生计。"
+              },
+              {
+                "en": "The Caribbean produces many things. Sugar is the main product. Other export crops are tobacco, coffee, bananas, spices and citrus fruits, such as orange, lemon or grapefruit. From the West Indies also come oil, mineral pitch and many forest products. Jamaica's aluminum ore supplies are the world's largest. Oil comes from Trinidad, Aruba and Curacao. But for many of the smaller islands, sugar is the only export. Rum, a strong alcoholic drink, which is distilled from sugar cane, is also an export. The world's best rum comes from this area. Local kinds vary from the light rums of Puerto Rico to the heavier darker rums of Barbados and Jamaica. American tourists enjoy stocking up on inexpensive high quality Caribbean rum while they're on vacation. In Curacao, the well-known liquor of that name is made from the thick outer skin of a native orange.",
+                "zh": "加勒比海地区生产许多东西。糖是主要产品。其他出口作物包括烟草、咖啡、香蕉、香料和柑橘类水果，如橙子、柠檬或葡萄柚。西印度群岛还出产石油、矿物沥青和许多林产品。牙买加的铝矿储量居世界首位。石油产自特立尼达、阿鲁巴和库拉索。但对许多较小的岛屿来说，糖是唯一的出口产品。朗姆酒是一种从甘蔗中蒸馏出来的烈性酒，也是一种出口产品。世界上最好的朗姆酒产自这一地区。当地朗姆酒的种类各不相同，从波多黎各的淡色朗姆酒，到巴巴多斯和牙买加较为浓烈、颜色较深的朗姆酒都有。美国游客在度假期间喜欢购买价格低廉而品质优良的加勒比朗姆酒。在库拉索，以该地闻名的酒名命名的利口酒，是用当地一种橙子的厚外皮制成的。"
+              },
+              {
+                "en": "Ever since America's colonial days, the Caribbean islands have been favorite places to visit. Since World War II, tourism has increased rapidly. Because great numbers of people go there, the islanders have built elaborate resorts, developed harbors and airfields, improved the beaches and have expanded sea and air routes. Everything is at the resort-hotel, beach, shopping and recreation. The vacationer never has any reason to explore the island.",
+                "zh": "自美国殖民时期以来，加勒比海诸岛一直是人们喜爱的旅游地。第二次世界大战以来，旅游业迅速发展。由于前往那里的人数众多，岛民修建了精致的度假胜地，开发了港口和机场，改善了海滩，并扩展了海上和空中航线。度假酒店、海滩、购物和娱乐一应俱全。度假者完全没有理由去探索这座岛屿。"
+              },
+              {
+                "en": "As in most places, those who have money live well indeed. Those who don't have money live at various levels of poverty. But here the poor greatly outnumber the wealthy. A visitor will find rich people living in apartments or Spanish houses at the seaside or in the countryside. Their servants might include a cook, a maid, and a nurse for their children. Most of the people live well below the poverty level. In towns, they live crowded together in tiny houses. Islanders make the best they can of what they have. Their homes are quite shabby. Sadly, most tourists never see the side of the Caribbean.",
+                "zh": "和大多数地方一样，有钱人确实过着优裕的生活。没有钱的人则处于不同程度的贫困之中。但在这里，穷人的数量远远超过富人。游客会看到富人住在海边或乡间的公寓里，或者住在西班牙式房屋中。他们的仆人可能包括厨师、女佣和照顾孩子的护士。大多数人的生活水平远低于贫困线。在城镇里，他们拥挤地住在狭小的房屋中。岛民们尽可能利用自己所拥有的一切。他们的住房相当破旧。令人遗憾的是，大多数游客从未见过加勒比海的这一面。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will be more demanding of their next generation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will end up lonely, dependent and dissatisfied."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will experience more setbacks than successes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will find it difficult to get along with others."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Failure to pay due attention to their behavior."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Unwillingness to allow them to play with toys."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Unwillingness to satisfy their wishes immediately."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Failure to spend sufficient quality time with them."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It will enable them to learn from mistakes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will help them to handle disappointment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will do much good to their mental health."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will build their ability to endure hardships\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Talk to anyone who is a generation or two older, and they would most likely comment that children are more spoiled these days. No one wants to have or be around demanding, selfish and spoiled children, those who get bad-tempered or silently brood when they are not given everything they want immediately. Paradoxically, the parents of such children encourage this demanding behavior in the mistaken belief that by giving their children everything they can their children will be happy. In the short term, perhaps they are right. But in the longer term, such children end up lonely, dependent, chronically dissatisfied and resentful of the parents who tried so hard to please them.",
+                "zh": "和比自己年长一两代的人交谈，他们很可能会说，如今的孩子更加娇生惯养了。没有人愿意拥有或和那些要求过多、自私且被宠坏的孩子相处；当他们不能立即得到自己想要的一切时，就会变得脾气暴躁或闷闷不乐。矛盾的是，这类孩子的父母却错误地认为，只要尽可能满足孩子的一切要求，孩子就会感到幸福，于是反而助长了这种索取无度的行为。短期来看，他们或许是对的。但从长远来看，这些孩子最终会变得孤独、依赖他人、长期不满，并对那些竭力取悦他们的父母心怀怨恨。"
+              },
+              {
+                "en": "Undoubtedly parents want to raise happy children who are confident, capable and likable rather than spoiled and miserable. One factor hindering this is that parents can't or don't spend enough quality time with their kids, and substitute this deficit with toys, games, gadgets and the like. Rather than getting material things, children need parents' devoted attention. The quantity of time spent together is less important than the content of that time. Instead of instantly satisfying their wishes, parents should help them work out a plan to earn things they'd like to have. This teaches them to value the effort as well as what it achieves.",
+                "zh": "毫无疑问，父母都希望把孩子培养成幸福、自信、有能力且讨人喜欢的人，而不是被宠坏又不快乐的人。阻碍这一目标的一个因素是，父母无法或没有花足够的高质量时间陪伴孩子，于是用玩具、游戏、电子设备之类的东西来弥补这一不足。孩子需要的不是物质上的东西，而是父母全心全意的关注。共同相处的时间长短并不如相处时光的内容重要。父母不应立即满足孩子的愿望，而应帮助他们制定计划，通过努力获得自己想要的东西。这能教会他们既重视努力本身，也重视努力所取得的成果。"
+              },
+              {
+                "en": "Allow them to enjoy anticipation. Numerous psychological studies have demonstrated that children who learn to wait for things they desire are more likely to succeed in a number of ways later in life. One famous experiment in the 1960s involved 3- to 6-year-old children. They were given a choice between receiving a small reward, such as a cookie, immediately, or if they waited 15 minutes, they could have two. Follow up studies have found that those who chose to delay satisfaction are now more academically successful, have greater self-worth, and even tend to be healthier.",
+                "zh": "让孩子享受期待的过程。大量心理学研究表明，学会等待自己渴望的事物的孩子，日后更有可能在许多方面取得成功。20世纪60年代进行的一项著名实验以3至6岁的儿童为对象。他们可以选择立即得到一份小奖励，例如一块饼干；也可以等待15分钟，这样就能得到两块。后续研究发现，那些选择延迟满足的孩子，如今在学业上更加成功，自我价值感更强，而且往往也更加健康。"
+              },
+              {
+                "en": "If they fail, children should be encouraged to keep trying rather than to give up if they really want the desired result. This teaches them how to handle and recover from disappointment, which is associated with greater success and satisfaction academically, financially and in personal relationships.",
+                "zh": "如果失败了，只要孩子确实想要达到预期的结果，就应鼓励他们继续尝试，而不是放弃。这能教会他们如何应对失望并从中恢复，而这与他们在学业、经济状况和个人关系方面取得更大的成功与满足感有关。"
+              },
+              {
+                "en": "And lastly, parents should encourage their children to look at life from other points of view, as well as their own. This teaches them to be understanding of and sympathetic towards others—qualities sure to take them a long way in life.",
+                "zh": "最后，父母还应鼓励孩子从其他人的角度以及自己的角度看待生活。这能教会他们理解和同情他人，而这些品质必将让他们在人生道路上受益匪浅。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Failing to make sufficient preparations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Looking away from the hiring manager."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Saying the wrong thing at the wrong time."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making a wrong judgment of the interview."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Complaining about their previous job."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inquiring about their salary to be paid."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Exaggerating their academic background."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Understating their previous achievements."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those who have both skill and experience."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those who get along well with colleagues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those who take initiative in their work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those who are loyal to their managers."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Ability to shoulder new responsibilities."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Experience of performing multiple roles."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Readiness to work to flexible schedules."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Skills to communicate with colleagues."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It is not hard to mess up an interview. Most people feel nervous sitting across from a hiring manager, answering questions that effectively open themselves up for judgment. And your chances of being more carefully considered for the job can quickly go downhill just by saying the wrong thing at the wrong time.",
+                "zh": "面试出错并不难。大多数人坐在招聘经理对面，回答那些实际上会让自己暴露在评判之下的问题时，都会感到紧张。仅仅因为在错误的时间说了错误的话，你被更认真地考虑录用的机会就可能迅速下降。"
+              },
+              {
+                "en": "The most obvious thing not to do is complain. Employers want to hire positive people. Talking about a previous job negatively raises concerns that you might be difficult to manage, or you might be someone that blames management for your own poor performance.",
+                "zh": "最明显应该避免的事情就是抱怨。雇主希望招聘积极乐观的人。负面谈论上一份工作会引发担忧，让人觉得你可能难以管理，或者你可能是那种把自己的糟糕表现归咎于管理层的人。"
+              },
+              {
+                "en": "Don't say that you've moved around in jobs because you haven't found the right fit or feel that you were not challenged enough. Statements like these will make you sound aimless and lost. An interviewer may well think, why would this role be any different for you? You will probably leave here in six months. It also begs the question of what type of relationship you had with your manager. It doesn't sound like you had open communication with him or her. Managers usually love people who can self-sustain and enable growth through taking initiative, who are strong at following through their work, and who bring ideas and solutions to the table.",
+                "zh": "不要说你换过多份工作是因为一直没有找到合适的岗位，或者觉得自己没有得到足够的挑战。这样的说法会让你听起来漫无目的、迷失方向。面试官很可能会想：这个职位对你来说又会有什么不同呢？你大概六个月后就会离开这里。这也会让人不禁思考你和经理之间的关系如何。听起来，你似乎没有与他或她进行坦诚的沟通。经理通常很喜欢那些能够自我驱动、通过主动采取行动促进成长、善于把工作贯彻到底，并且能够提出想法和解决方案的人。"
+              },
+              {
+                "en": "If you were in a management or leadership position, when discussing your current role, never take all the credit for accomplishments or achievements. Emphasize your team and how through their talents, your vision was realized. Most successful leaders know that they are only as good as their team. And acknowledging this in an interview will go a long way towards suggesting that you might be the right person for the position you are applying for.",
+                "zh": "如果你曾担任管理或领导职位，在谈论当前职位时，绝不要把所有功劳或成就都归于自己。要突出你的团队，以及你是如何凭借他们的才能实现自己的愿景的。大多数成功的领导者都知道，自己的能力取决于团队的表现。在面试中承认这一点，将大大有助于表明你可能正是所申请职位的合适人选。"
+              },
+              {
+                "en": "Lastly, have a good idea of what your role will be and try and convey the idea that you're flexible. Asking what your role will be suggests you will limit yourself purely to what is expected of you. In reality, your role is whatever you make of it. This is especially true in small companies, where the ability to adapt and take on new responsibilities is highly valued. And this is equally important if you're just starting out. Entry level interviewees would do well to demonstrate a broad set of skills in most interviews. It's important to have a wide skill set as many startups and small companies are moving really fast. Employers are looking for candidates that are intelligent and can quickly adapt and excel in a growing company.",
+                "zh": "最后，要清楚了解自己的职责，并努力传达出你具有灵活性。询问自己的职责是什么，会让人觉得你打算把自己严格限制在他人对你的期望之内。实际上，你的职责取决于你如何发挥。在小公司中尤其如此，因为适应变化并承担新的责任的能力备受重视。如果你刚刚开始职业生涯，这一点同样重要。对于初级职位的面试者来说，在大多数面试中展示广泛的技能组合会很有帮助。拥有多方面的技能非常重要，因为许多初创公司和小公司发展得非常快。雇主正在寻找聪明、能够迅速适应并在不断成长的公司中取得优异表现的候选人。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2021-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "If you think life is wonderful and expect it to stay that way, then you may have a good chance of living to a ripe old age, at least that is what the findings of a new study suggest. That study found that participants who reported the highest levels of optimism were far more likely to live to age 85 or"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ". This was compared to those participants who reported the lowest levels of optimism. It is"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "that the findings held even after the researchers considered factors that could"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "the link, including whether participants had health conditions such as heart disease or cancer, or whether they experienced depression. The results add to a growing body of evidence that certain psychological factors may predict a longer life"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": ". For example, previous studies have found that more optimistic people have a lower risk of developing chronic diseases, and a lower risk of"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "death. However, the new study appears to be the first to"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "look at the relationship between optimism and longevity. The researchers"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "that the link found in the new study was not as strong when they factored in the effects of certain health behaviors, including exercise levels, sleep habits and diet. This suggests that these behaviors may, at least in part, explain the link. In other words, optimism may"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "good habits that bolster health. It is also important to note that the study found only a"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ", as researchers did not prove for certain that optimism leads to a longer life. However, if the findings are true, they suggest that optimism could serve as a psychological"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "that promotes health and a longer life."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "affect"
+        },
+        {
+          "l": "B",
+          "w": "beyond"
+        },
+        {
+          "l": "C",
+          "w": "conceded"
+        },
+        {
+          "l": "D",
+          "w": "correlation"
+        },
+        {
+          "l": "E",
+          "w": "foster"
+        },
+        {
+          "l": "F",
+          "w": "henceforth"
+        },
+        {
+          "l": "G",
+          "w": "lofty"
+        },
+        {
+          "l": "H",
+          "w": "noteworthy"
+        },
+        {
+          "l": "I",
+          "w": "plausibly"
+        },
+        {
+          "l": "J",
+          "w": "premature"
+        },
+        {
+          "l": "K",
+          "w": "reconciled"
+        },
+        {
+          "l": "L",
+          "w": "span"
+        },
+        {
+          "l": "M",
+          "w": "specifically"
+        },
+        {
+          "l": "N",
+          "w": "spiral"
+        },
+        {
+          "l": "O",
+          "w": "trait"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "B"
+        },
+        {
+          "n": 27,
+          "a": "H"
+        },
+        {
+          "n": 28,
+          "a": "A"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "J"
+        },
+        {
+          "n": 31,
+          "a": "M"
+        },
+        {
+          "n": 32,
+          "a": "C"
+        },
+        {
+          "n": 33,
+          "a": "E"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ],
+      "shared": "cet6-2021-12-1"
+    },
+    "matching": {
+      "title": "Why facts don't change our minds",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "The economist J. K. Galbraith once wrote, \"Faced with a choice between changing one's mind and proving there is no need to do so, almost everyone gets busy with the proof.\""
+        },
+        {
+          "l": "B",
+          "t": "Leo Tolstoy was even bolder: \"The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of a doubt, what is laid before him.\""
+        },
+        {
+          "l": "C",
+          "t": "What's going on here? Why don't facts change our minds? And why would someone continue to believe a false or inaccurate idea anyway? How do such behaviors serve us? Humans need a reasonably accurate view of the world in order to survive. If your model of reality is wildly different from the actual world, then you struggle to take effective actions each day. However, truth and accuracy are not the only things that matter to the human mind. Humans also seem to have a deep desire to belong."
+        },
+        {
+          "l": "D",
+          "t": "In Atomic Habits, I wrote, \"Humans are herd animals. We want to fit in, to bond with others, and to earn the respect and approval of our peers. Such inclinations are essential to our survival. For most of our evolutionary history, our ancestors lived in tribes. Becoming separated from the tribe—or worse, being cast out—was a death sentence.\""
+        },
+        {
+          "l": "E",
+          "t": "Understanding the truth of a situation is important, but so is remaining part of a tribe. While these two desires often work well together, they occasionally come into conflict. In many circumstances, social connection is actually more helpful to your daily life than understanding the truth of a particular fact or idea. The Harvard psychologist Steven Pinker put it this way, \"People are embraced or condemned according to their beliefs, so one function of the mind may be to hold beliefs that bring the belief-holder the greatest number of allies, protectors, or disciples(信徒), rather than beliefs that are most likely to be true.\""
+        },
+        {
+          "l": "F",
+          "t": "We don't always believe things because they are correct. Sometimes we believe things because they make us look good to the people we care about. I thought Kevin Simler put it well when he wrote, \"If a brain anticipates that it will be rewarded for adopting a particular belief, it's perfectly happy to do so, and doesn't much care where the reward comes from—whether it's pragmatic(实用主义的) (better outcomes resulting from better decisions), social (better treatment from one's peers), or some mix of the two.\""
+        },
+        {
+          "l": "G",
+          "t": "False beliefs can be useful in a social sense even if they are not useful in a factual sense. For lack of a better phrase, we might call this approach \"factually false, but socially accurate.\" When we have to choose between the two, people often select friends and family over facts. This insight not only explains why we might hold our tongue at a dinner party or look the other way when our parents say something offensive, but also reveals a better way to change the minds of others."
+        },
+        {
+          "l": "H",
+          "t": "Convincing someone to change their mind is really the process of convincing them to change their tribe. If they abandon their beliefs, they run the risk of losing social ties. You can't expect someone to change their mind if you take away their community too. You have to give them somewhere to go. Nobody wants their worldview torn apart if loneliness is the outcome."
+        },
+        {
+          "l": "I",
+          "t": "The way to change people's minds is to become friends with them, to integrate them into your tribe, to bring them into your circle. Now, they can change their beliefs without the risk of being abandoned socially."
+        },
+        {
+          "l": "J",
+          "t": "Perhaps it is not difference, but distance, that breeds tribalism and hostility. As proximity increases, so does understanding. I am reminded of Abraham Lincoln's quote, \"I don't like that man. I must get to know him better.\""
+        },
+        {
+          "l": "K",
+          "t": "Facts don't change our minds. Friendship does. Years ago, Ben Casnocha mentioned an idea to me that I haven't been able to shake: The people who are most likely to change our minds are the ones we agree with on 98 percent of topics. If someone you know, like, and trust believes a radical idea, you are more likely to give it merit, weight, or consideration. You already agree with them in most areas of life. Maybe you should change your mind on this one too. But if someone wildly different than you proposes the same radical idea, well, it's easy to dismiss them as nuts."
+        },
+        {
+          "l": "L",
+          "t": "One way to visualize this distinction is by mapping beliefs on a spectrum. If you divide this spectrum into 10 units and you find yourself at Position 7, then there is little sense in trying to convince someone at Position 1. The gap is too wide. When you're at Position 7, your time is better spent connecting with people who are at Positions 6 and 8, gradually pulling them in your direction."
+        },
+        {
+          "l": "M",
+          "t": "The most heated arguments often occur between people on opposite ends of the spectrum, but the most frequent learning occurs from people who are nearby. The closer you are to someone, the more likely it becomes that the one or two beliefs you don't share will bleed over into your own mind and shape your thinking. The further away an idea is from your current position, the more likely you are to reject it outright. When it comes to changing people's minds, it is very difficult to jump from one side to another. You can't jump down the spectrum. You have to slide down it."
+        },
+        {
+          "l": "N",
+          "t": "Any idea that is sufficiently different from your current worldview will feel threatening. And the best place to ponder a threatening idea is in a non-threatening environment. As a result, books are often a better vehicle for transforming beliefs than conversations or debates. In conversation, people have to carefully consider their status and appearance. They want to save face and avoid looking stupid. When confronted with an uncomfortable set of facts, the tendency is often to double down on their current position rather than publicly admit to being wrong. Books resolve this tension. With a book, the conversation takes place inside someone's head and without the risk of being judged by others. It's easier to be open-minded when you aren't feeling defensive."
+        },
+        {
+          "l": "O",
+          "t": "There is another reason bad ideas continue to live on, which is that people continue to talk about them. Silence is death for any idea. An idea that is never spoken or written down dies with the person who conceived it. Ideas can only be remembered when they are repeated. They can only be believed when they are repeated. I have already pointed out that people repeat ideas to signal they are part of the same social group. But here's a crucial point most people miss: People also repeat bad ideas when they complain about them. Before you can criticize an idea, you have to reference that idea. You end up repeating the ideas you're hoping people will forget—but, of course, people can't forget them because you keep talking about them. The more you repeat a bad idea, the more likely people are to believe it."
+        },
+        {
+          "l": "P",
+          "t": "Let's call this phenomenon Clear's Law of Recurrence: The number of people who believe an idea is directly proportional to the number of times it has been repeated during the last year—even if the idea is false."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "According to the author, humans can hardly survive if separated from their community.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "People often accept false beliefs because they prioritize social bonds rather than facts.",
+          "a": "G"
+        },
+        {
+          "n": 38,
+          "s": "Most often people learn from those close to them.",
+          "a": "M"
+        },
+        {
+          "n": 39,
+          "s": "Sometimes people adopt certain beliefs in order to leave a favorable impression on those dear to them.",
+          "a": "F"
+        },
+        {
+          "n": 40,
+          "s": "Compared with face-to-face communication, books often provide a better medium for changing people's beliefs.",
+          "a": "N"
+        },
+        {
+          "n": 41,
+          "s": "On many occasions in daily life, people benefit more from their social bonds than from knowing the truth.",
+          "a": "E"
+        },
+        {
+          "n": 42,
+          "s": "If you want to change somebody's beliefs, you should first establish social connection with them.",
+          "a": "I"
+        },
+        {
+          "n": 43,
+          "s": "Humans cannot survive without a fair knowledge of the actual world.",
+          "a": "C"
+        },
+        {
+          "n": 44,
+          "s": "Repetition of bad ideas increases their chances of being accepted.",
+          "a": "O"
+        },
+        {
+          "n": 45,
+          "s": "Nobody is willing to give up their beliefs at the risk of getting isolated.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "The subject of automation and its role in our economy has taken hold in American public discourse. Technology broadly and automation specifically are dramatically reshaping the way we work. And we need to have a plan for what's still to come. We don't have to look further than our own communities to see the devastating impact of automation. From automated warehouses to cashierless grocery stores to neighborhood libraries that offer self-checkout lanes instead of employing real people—automation is increasingly replacing jobs and leaving too few good new jobs behind. The statistics in manufacturing are staggering. Despite the widespread fears about trade, a recent report showed that just 13 percent of jobs lost in manufacturing are due to trade—the rest of the losses have been due to advances in technology. That is why more people are criticizing the ever-increasing role of technology in our economy. Our country is manufacturing more than ever before, but we are doing it with fewer workers. However, it's not just factories that are seeing losses—software and information technology are also having a dramatic impact on jobs most people think are secure from the forces of a rapidly-changing economy. Something transformative is happening in America that is having an adverse effect on American families. Whether policymakers and politicians admit it or not, workers have made clear their feelings about their economic insecurity and desire to keep good jobs in America. So why are people so insistent on ignoring the perils of automation? They are failing to look ahead at a time when planning for the future is more important than ever. Resisting automation is futile: it is as inevitable as industrialization was before it. I sincerely hope that those who assert that automation will make us more effective and pave the way for new occupations are right, but the reality of automation's detrimental effects on workers makes me skeptical. No one can currently say where the new jobs are coming from or when, and any sensible company or country should prepare for all alternatives. I'm not overstating the danger: look at what's happened to the labor force. According to economic research, one in six working-age men, 25–54, doesn't have a job. Fifty years ago, nearly 100 percent of men that age were working. Women's labor force participation, meanwhile, has slipped back to the level it was at in the late 1980s. American families and prominent business leaders are aware that there's a big problem with automation. The value of a college degree is diminishing, and our upward mobility is declining. If we want an economy that allows everyone to be economically secure, we need to start thinking about how we can rightfully address automation.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What can we observe from the author's description of our communities?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The growing passion for automation."
+              },
+              {
+                "l": "B",
+                "t": "The shift from manual jobs to IT ones."
+              },
+              {
+                "l": "C",
+                "t": "Their changing views on employment."
+              },
+              {
+                "l": "D",
+                "t": "Their fading employment opportunities."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What do we learn from a recent report?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The manufacturing sector is declining at a fast rate."
+              },
+              {
+                "l": "B",
+                "t": "The concerns about the effect of trade are exaggerated."
+              },
+              {
+                "l": "C",
+                "t": "The fears about trade have been spreading far and wide."
+              },
+              {
+                "l": "D",
+                "t": "The impact of trade on employment has been staggering."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What does the passage tell us about American workers in an era of transformation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They feel ignored by politicians."
+              },
+              {
+                "l": "B",
+                "t": "They feel increasingly vulnerable."
+              },
+              {
+                "l": "C",
+                "t": "They keep adapting to the changes."
+              },
+              {
+                "l": "D",
+                "t": "They keep complaining but to no avail."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What does the author think of automation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will have the same impact as industrialization."
+              },
+              {
+                "l": "B",
+                "t": "It provides sensible companies with alternatives."
+              },
+              {
+                "l": "C",
+                "t": "Its alleged positive effects are doubtful."
+              },
+              {
+                "l": "D",
+                "t": "Its detrimental effects are unavoidable."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What should we attach importance to when dealing with automation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "College graduates' job prospects."
+              },
+              {
+                "l": "B",
+                "t": "Women's access to employment."
+              },
+              {
+                "l": "C",
+                "t": "People's economic security."
+              },
+              {
+                "l": "D",
+                "t": "People's social mobility."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Look at the people around you. Some are passive, others more aggressive. Some work best alone, others crave companionship. We easily recognize that there is great variation among the individuals who live near us. Yet, when we speak of people from elsewhere, we seem to inevitably characterize them based on their country of origin. Statistics specialists, when they speak of national averages, often make the same mistake. Newly published research shows how erroneous such overviews are. Three researchers analyzed decades of values-based surveys and found that only between 16% and 21% of the variation in cultural values could be explained by differences between countries. In other words, the vast majority of what makes us culturally distinct from one another has nothing to do with our homeland. To determine what factors really are associated with culture, the authors combined data from 558 prior surveys that each measured one or more of Hofstede's cultural dimensions. These are traits, such as individualism and masculinity, that describe work-related cultural values. (They are not a measure of visible cultural traits, such as food or dress.) Though the validity of Hofstede's dimensions has been questioned, they have the singular benefit of having been in use for decades, which allows for historical and international comparisons. The researchers found that both demographic factors, such as age, and environmental factors, such as long- term unemployment rates, were more correlated with cultural values than nationality. Occupation and social economic status were the most strongly correlated, suggesting that our values are more economically driven than we usually give them credit for. The evidence implies that people with similar jobs and incomes are more culturally alike, regardless of where they live. Vas Taras, the lead author of the study, puts it this way: \"Tell me how much you make and I will make a pretty accurate prediction about your cultural values. Tell me what your nationality is and I probably will make a wrong prediction.\" Taras says our erroneous belief that countries are cultures has caused businesses to teach their employees useless or even harmful ways of interacting with their international peers. Chinese and American lawyers might be trained to interact based on the assumption that the Chinese person is less individualistic, even though their similar social economic situations make it probable they are actually quite alike in that regard. The country, as the unit of authority, is often a convenient way of generalizing about a population. However, our focus on countries can mask broad variations within them. In the majority of cases we would be better off identifying people by the factors that constrain their lives, like income, rather than by the lines surrounding them on a map.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What error do experts often make when describing people from other places?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They tend to overly rely on nationality."
+              },
+              {
+                "l": "B",
+                "t": "They often exaggerate their differences."
+              },
+              {
+                "l": "C",
+                "t": "They often misunderstand their cultures."
+              },
+              {
+                "l": "D",
+                "t": "They tend to dwell on national averages."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What do we learn about Hofstede's cultural dimensions?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are useful in comparing cultural values across time and space."
+              },
+              {
+                "l": "B",
+                "t": "They have brought unusual benefits to people of different cultures."
+              },
+              {
+                "l": "C",
+                "t": "They are widely used to identify people's individual traits."
+              },
+              {
+                "l": "D",
+                "t": "They provide valuable questions for researchers to study."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What did researchers find about previous studies on factors determining people's values?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Environmental factors were prioritized over other factors."
+              },
+              {
+                "l": "B",
+                "t": "An individual's financial status was often underestimated."
+              },
+              {
+                "l": "C",
+                "t": "Too much emphasis had been placed on one's occupation."
+              },
+              {
+                "l": "D",
+                "t": "The impact of social progress on one's values was ignored."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What is the impact on employees when cultures are identified with countries?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may fail to see the cultural biases of their business partners."
+              },
+              {
+                "l": "B",
+                "t": "They may fail to attach sufficient importance to cultural diversity."
+              },
+              {
+                "l": "C",
+                "t": "They may not be taught how to properly interact with overseas partners."
+              },
+              {
+                "l": "D",
+                "t": "They may not be able to learn the legal procedures for business transactions."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What does the author suggest at the end of the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "There is sufficient reason to generalize about a country's population."
+              },
+              {
+                "l": "B",
+                "t": "The majority of people are still constrained by their national identity."
+              },
+              {
+                "l": "C",
+                "t": "It is arguable that the country should be regarded as the unit of authority."
+              },
+              {
+                "l": "D",
+                "t": "Nationality is less useful than socio-economic status as an indicator of one's values."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "井冈山地处湖南、江西两省交界处，因其辉煌的革命历史被誉为\"中国革命红色摇篮\"。1927年10月，毛泽 东、朱德等老一辈革命家率领中国工农红军来到这里，开展了艰苦卓绝的斗争,创建了第一个农村革命根据 地，点燃了中国革命的星星之火，开辟了 \"农村包围 (besiege) 城市, 武装夺取政权\" 这一具有中国特色的革命 道路，中国革命从这里迈向胜利。井冈山现有100多处革命旧址，成为一个\"没有围墙的革命历史博物馆\", 是爱 国主义和革命传统教育的重要基地。",
+    "reference": "Located on the border between Hunan and Jiangxi provinces, the Jinggang Mountains are honored as \"the cradle of the Chinese revolution\" for their glorious revolutionary history. In October 1927, Mao Zedong, Zhu De and other revolutionaries of the older generation led the Chinese Workers' and Peasants' Red Army here, where they waged an arduous struggle, founded the first rural revolutionary base, kindled the spark of the Chinese revolution, and opened up a revolutionary path with Chinese characteristics of \"besieging the cities from the countryside and seizing power by armed force.\" From here, the Chinese revolution marched toward victory. Today the Jinggang Mountains have more than 100 revolutionary sites and have become a \"revolutionary history museum without walls,\" serving as an important base for education in patriotism and revolutionary tradition."
+  }
+}

@@ -1,0 +1,1336 @@
+{
+  "id": "cet4-2024-12-2",
+  "level": "cet4",
+  "year": 2024,
+  "month": 12,
+  "set": 2,
+  "title": "2024年12月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on how to enrich students' knowledge of traditional Chinese culture. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "sample": "Traditional Chinese culture is a treasure that shapes our national identity, yet many students today know little about it. As a contributor to our university newspaper, I would like to share several practical ways to enrich students' understanding of this precious heritage.To begin with, our university could offer optional courses and regular lectures on classical literature, calligraphy and traditional festivals, so as to build a solid foundation of knowledge. In addition, hands-on activities are equally important. By organizing cultural experiences such as paper-cutting workshops or tea ceremonies, students can feel the charm of tradition rather than merely reading about it. Moreover, we can make full use of new media, posting short videos and articles online to spread cultural knowledge in a way that appeals to young people.In conclusion, combining formal learning, personal experience and modern technology would help students appreciate traditional Chinese culture far more deeply. I sincerely hope these suggestions will benefit us all."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will see a 27% higher price to buy natural gas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will have insufficient heating oil to keep warm."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will have a costly bill to pay to heat their homes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will experience the coldest winter in four decades."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Provided additional funding to Low Income Home Energy Assistance Program."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Assured U.S. citizens of an increase in energy supplies by the end of this year."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Predicted a 10% jump in heating bills for most U.S. households this winter."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Decided on this year's energy assistance package of $8 billion in total.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "U.S. families are looking to the winter with fear as energy costs soar. A number of factors are creating a bad situation: Global energy consumption is up, but supplies have been reduced. The Energy Department projects heating bills will jump 28% this winter for those who rely on natural gas. Natural gas is used by nearly half of U.S. households for heat. Heating oil is projected to be 27% higher and electricity 10% higher. That comes against inflation rates that accelerated last month with consumer prices growing 6.6%. That's the fastest pace in four decades.",
+                "zh": "随着能源成本飙升,美国家庭正怀着恐惧展望这个冬天。多种因素正在造成糟糕的局面:全球能源消费增加,但供应却减少了。能源部预测,依赖天然气供暖的家庭今年冬天的取暖费用将跃升28%。近一半的美国家庭使用天然气供暖。取暖用油预计将上涨27%,电费将上涨10%。这是在通胀率加速的背景下发生的,上个月消费者价格上涨了6.6%。这是四十年来最快的增速。"
+              },
+              {
+                "en": "The pain will be especially acute in parts of the country that heavily rely on heating oil to keep homes warm. It's projected to cost more than $2,300 to heat a typical home with heating oil this winter. Last month, the federal government added $1 billion in funding to Low Income Home Energy Assistance Program, bringing the total to $4.8 billion. But that represents a reduction from last year's energy assistance package of over $8 billion.",
+                "zh": "在严重依赖取暖用油保持家庭温暖的地区,这种痛苦将尤为剧烈。预计今年冬天用取暖用油为一个典型家庭供暖将花费超过2300美元。上个月,联邦政府向低收入家庭能源援助计划增加了10亿美元资金,使总额达到48亿美元。但这比去年超过80亿美元的能源援助计划有所减少。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They care less about their diet now than before."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They may lack adequate knowledge of healthy food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may hold too optimistic a view about their diet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They pay insufficient attention to their choice of food."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those who finished 24-hour food questionnaires."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those who fully understood the rating scale."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those who cared about food quality."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those who rated their diet as poor.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Many Americans think they make healthy food choices, but they may be viewing their diet too optimistically. That's the main finding of a new study by researchers at the U.S. Department of Agriculture in Stoneville, Mississippi.",
+                "zh": "许多美国人认为自己做出了健康的食物选择，但他们可能对自己的饮食过于乐观了。这是美国农业部位于密西西比州Stoneville的研究人员一项新研究的主要发现。"
+              },
+              {
+                "en": "The study aimed to identify disconnects between how healthily Americans think they eat and how they actually do. For the study, the researchers asked participants to rate their diet as excellent, very good, good, fair or poor. Folks also completed 24-hour food questionnaires. Then, the researchers compared answers to see how well responses to the two exercises matched up.",
+                "zh": "该研究旨在找出美国人认为自己吃得有多健康与实际情况之间的差距。在研究中，研究人员要求参与者将自己的饮食评为优秀、非常好、好、一般或差。参与者还完成了24小时食物问卷。然后，研究人员比较了答案，看两项调查的回答匹配程度如何。"
+              },
+              {
+                "en": "Of more than 9,700 people, roughly 85 percent were off base when asked to rate the quality of their diet, and almost all overestimated how healthy it was. Those who rated their diet as poor tended to be far more accurate. Their rating matched that of the researchers more than nine times out of ten.",
+                "zh": "在9700多人中，大约85%的人在被要求评价自己的饮食质量时偏离了实际情况，而且几乎所有人都高估了饮食的健康程度。那些将自己的饮食评为差的人往往准确得多。他们的评价在十次中有九次以上与研究人员的评价相符。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They experienced a heartbreaking moment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They gathered together to rescue an elephant."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They heard a noise from the bottom of a well."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They found an elephant wandering around a well."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To borrow their crane."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To ask them for help."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To report the strange noise."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To get food for the elephant."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The elephant was able to return to the jungle."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The army officers were examined for injuries."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The army officers were rewarded for their rescue efforts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The elephant was given medical treatment for many days."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It was a heartwarming moment that dozens of Indian rescuers rallied together to use a crane in order to save an elephant trapped at the bottom of a 20-foot well. The massive rescue effort took place last week close to an army camp. The elephant wandered out of the jungle and fell into the well. The army officers heard a noise coming from the well and realized an elephant was trapped deep inside. The officers then threw in some food for the creature and called the local forest department for help. Video of the rescue operation shows how the team used a crane to lift up the huge animal out of the well and onto the back of a truck. It was then taken to an examining room for evaluation of any injuries. The elephant was kept under close supervision for a few days before it was successfully released back into the wild.",
+                "zh": "这是一个温馨的时刻，数十名印度救援人员齐心协力使用起重机营救一头困在20英尺深井底的大象。这次大规模救援行动上周在一个军营附近进行。这头大象从丛林中走出来后掉进了井里。军官们听到井里传来声音，发现有一头大象被困在深处。随后军官们向井里投放了一些食物，并向当地林业部门求助。救援行动的视频显示，救援队如何使用起重机将这头巨大的动物从井里吊起并放到卡车后部。随后大象被送往检查室评估是否有任何伤情。这头大象在密切监护下待了几天后被成功放归野外。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He found it had caused him much inconvenience."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It led him to spend more money than necessary."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was much less secure than paying with cash."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He wanted to be less dependent on his phone."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Living beyond her means."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Lack of budgeting strategies."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fashion addiction."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Impulse purchasing."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Eat healthier food with less money."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Order food like burgers and chips."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Avoid getting addicted to junk food"
+                  },
+                  {
+                    "l": "D",
+                    "t": "Pay either in cash or with his phone."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Making a shopping list."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Sticking to his budget."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Withdrawing cash only once a month."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Thinking twice before buying something.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I need to stop at the bank to withdraw some cash.",
+                "zh": "M: 我得去银行取点现金。"
+              },
+              {
+                "en": "W: Why not just pay with your phone?",
+                "zh": "W: 为什么不直接用手机支付呢？"
+              },
+              {
+                "en": "M: Well, actually, I've stopped using online payments for the past three months now.",
+                "zh": "M: 嗯，实际上，我已经三个月没用线上支付了。"
+              },
+              {
+                "en": "W: Stopped paying online? Oh, you must be worried that online payments aren't secure.",
+                "zh": "W: 不用线上支付了？哦，你一定是担心线上支付不安全吧。"
+              },
+              {
+                "en": "M: No, they are safe. But paying online is too convenient and I spent too much money on things I didn't need.",
+                "zh": "M: 不，它们是安全的。但线上支付太方便了，我在不需要的东西上花了太多钱。"
+              },
+              {
+                "en": "W: Oh, impulse purchases can be an issue for me, too. I've definitely bought clothes and shoes I didn't need because they were on sale, and paying with my phone was so easy. But I've found that if I review my spending every night, that keeps me from spending too much.",
+                "zh": "W: 哦，冲动消费对我来说也是个问题。我确实买过不需要的衣服和鞋子，因为它们在打折，而且用手机支付太容易了。但我发现如果每晚检查一下我的开支，就能控制住不花太多钱。"
+              },
+              {
+                "en": "M: I tried that strategy, but it just didn't work, because I'd be busy studying all day. Then, when I was tired and hungry, I'd use my phone to order food, like burgers and other junk, instead of going to the canteen, where I could get a healthier meal for half the price.",
+                "zh": "M: 我试过那个办法，但没用，因为我一整天都在忙着学习。然后，当我又累又饿的时候，我就会用手机点外卖，比如汉堡和其他垃圾食品，而不是去食堂，在那里我可以花一半的价钱吃到更健康的饭菜。"
+              },
+              {
+                "en": "W: Well, what do you do now then? It seems like you'd have the same problems with cash.",
+                "zh": "W: 那你现在怎么办呢？感觉你用现金也会有同样的问题啊。"
+              },
+              {
+                "en": "M: I go to the bank once a week, and the rest of the time I keep my bank card at home, so I can't get more cash out. And I also have a notebook where I record my expenses.",
+                "zh": "M: 我每周去一次银行，其余时间把银行卡放在家里，这样我就取不到更多现金了。而且我还有个笔记本记录我的开支。"
+              },
+              {
+                "en": "W: But what prevents you from just going to the bank and getting more money, if you want to buy something?",
+                "zh": "W: 但如果你想买东西，有什么能阻止你直接去银行取更多钱呢？"
+              },
+              {
+                "en": "M: The first month I did withdraw extra cash twice, but I felt guilty about it. And after that I refused to spend more than what I had budgeted, and by now it's just a habit.",
+                "zh": "M: 第一个月我确实又取了两次额外的现金，但我为此感到内疚。之后我就拒绝花超出预算的钱，到现在这已经成了习惯。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He does not enjoy any ball games."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has to prepare for the future."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has breathing problems."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is not up to anything challenging."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Soccer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Badminton."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Volleyball."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Basketball."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The possibilities of joining the school sports team."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The opportunities of winning some championships."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The chances of getting an athletic scholarship later on."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The odds of becoming a professional sportsman someday."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It differs entirely from indoor volleyball."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It appeals to both schoolgirls and schoolboys."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is less popular than indoor sports in the country."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is completely different from other outdoor games."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Please hear me out. I don't want our son to spend his afternoons doing something he hates, even if it might prepare him for the future. What about getting him to join a sport, like soccer? From all the running and training, he could become quite athletic. Not to mention the great physical benefits from exercising outside every day.",
+                "zh": "M: 请听我说完。我不想让我们的儿子把下午时间花在他讨厌的事情上,即使这可能为他的未来做准备。让他参加一项运动怎么样,比如足球?通过所有的跑步和训练,他可以变得很健壮。更不用说每天在户外锻炼带来的巨大身体益处了。"
+              },
+              {
+                "en": "W: Um, I don't think he should be doing something so challenging with all his breathing issues. What about playing an indoor sport, like badminton? The environment is easier to control, and he can still get a good workout, in addition to improving his hand-eye coordination. Besides, I could teach him some of the basics from my time as a badminton player.",
+                "zh": "W: 嗯,我觉得他不应该做这么有挑战性的事情,他有那么多呼吸问题。室内运动怎么样,比如羽毛球?环境更容易控制,他仍然可以得到很好的锻炼,还能提高手眼协调能力。而且,我可以教他一些基础知识,我以前是打羽毛球的。"
+              },
+              {
+                "en": "M: Um, I'm thinking team sports should be the way to go. There's nothing like playing as part of a unit to accomplish a goal like winning a game or even a championship. He could try basketball since many of the courts are indoors now and it's a sport that could help him understand team spirit while cooperating with others. Maybe he could even join the school basketball team when he's ready.",
+                "zh": "M: 嗯,我觉得应该选团队运动。没有什么比作为团队的一员去完成一个目标更好的了,比如赢得一场比赛甚至一个冠军。他可以试试篮球,因为现在很多球场都在室内,这项运动可以帮助他在与他人合作的同时理解团队精神。也许等他准备好了,他甚至可以加入学校篮球队。"
+              },
+              {
+                "en": "W: Oh, oh, what about volleyball? It's a team sport and they often have mixed-gender teams so he could socialize with both girls and boys. It's not as popular as some sports, which means he has better odds of possibly getting an athletic scholarship in the future. I also believe you were a beach volleyball athlete yourself not so long ago.",
+                "zh": "W: 哦,哦,排球怎么样?这是一项团队运动,他们经常有男女混合队,所以他可以和女孩和男孩都社交。它不像有些运动那么受欢迎,这意味着他将来获得体育奖学金的机会更大。我还记得你不久前自己就是沙滩排球运动员。"
+              },
+              {
+                "en": "M: As I've said many times before, beach volleyball and indoor volleyball are completely different.",
+                "zh": "M: 正如我之前说过很多次的,沙滩排球和室内排球是完全不同的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It usually requires years of preparations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It does a lot of harm to the environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It often burns over three hundred tonnes of refined fuel."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It proves to be the most complicated stage of space missions."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are burnt up in outer space."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are guided back to Earth."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are reused up to 100 times."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are treated as expendable."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "New technologies for bringing back space vehicles for recycling."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The technology for meeting the needs of commercial space travel."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many of the technologies to limit the impact of space travel on Earth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The technology for effectively protecting ozone from being destroyed.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Lift-off is usually the most environmentally harmful stage of any space mission, with vast quantities of fuel burnt up in a matter of minutes. For instance, SpaceX's Falcon 9 gets through 112 tonnes of refined fuel, emitting about 336 tonnes of CO₂. This is the equivalent produced by your average car driving almost 70 times around the world. As well as greenhouse gases, rocket engines emit particles that destroy ozone. These issues are growing more pressing with the emergence of commercial spaceflight. There were 114 space launches in 2020, but there may be up to 1,000 per year in future.",
+                "zh": "发射通常是任何太空任务中对环境危害最大的阶段,在短短几分钟内燃烧掉大量燃料。例如,SpaceX的猎鹰9号消耗112吨精炼燃料,排放约336吨二氧化碳。这相当于普通汽车绕地球行驶近70圈所产生的排放量。除了温室气体,火箭发动机还排放破坏臭氧的颗粒物。随着商业太空飞行的兴起,这些问题变得越来越紧迫。2020年有114次太空发射,但未来每年可能多达1000次。"
+              },
+              {
+                "en": "Sustainable fuels are the top priority to enable greener space travel. Current spacecraft use a variety of fuels, but most are based on fossil fuels. One potentially greener option is liquid hydrogen and oxygen. Hydrogen can be obtained sustainably by using solar power to break water down into oxygen and hydrogen.",
+                "zh": "可持续燃料是实现更环保太空旅行的首要任务。目前的航天器使用多种燃料,但大多数基于化石燃料。一种潜在的更环保选择是液氢和液氧。氢可以通过利用太阳能将水分解成氧和氢来可持续地获得。"
+              },
+              {
+                "en": "Reusable rockets can cut down on some of the waste associated with spaceflight. Traditionally, boosters, fuel tanks and other components are treated as expendable. But guiding them back to Earth in a controlled manner opens new possibilities — most components from the Falcon 9 can be reused up to 100 times.",
+                "zh": "可重复使用的火箭可以减少与太空飞行相关的一些浪费。传统上,助推器、燃料箱和其他部件被视为一次性消耗品。但以受控方式引导它们返回地球开辟了新的可能性——猎鹰9号的大部分部件可以重复使用多达100次。"
+              },
+              {
+                "en": "Truly environmentally friendly space travel is still some way off. But we already have many of the technologies needed to start limiting its impact on our planet.",
+                "zh": "真正环保的太空旅行仍有一段路要走。但我们已经拥有许多开始限制其对地球影响所需的技术。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can help unskilled readers feel more secure."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can encourage reluctant readers to read aloud."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can strengthen children's confidence in others."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can boost children's interest in communication."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By motivating children to find out about their favourite pets."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By taking children to the library to borrow books on animals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By allowing children to surf the internet about pets by themselves."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By showing children how to acquire knowledge about healthy pets."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By learning that raising pets can do much good."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By watching how healthy pets are brought up."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By hearing about their peers' passion for pets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By visiting friends who have household pets.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Helping to look after a pet can facilitate numerous aspects of a child's emotional development. Research shows that reading to a loyal and nonjudgmental companion, such as a dog or cat, can encourage reluctant readers to read aloud, which will in turn boost their self-confidence. Having a companion to talk to about their feelings can also help children feel secure and develop communication skills.",
+                "zh": "帮助照顾宠物可以促进儿童情感发展的诸多方面。研究表明,向忠诚且不评判的伙伴(如狗或猫)朗读可以鼓励不愿意读书的孩子大声朗读,这反过来会增强他们的自信心。有一个可以倾诉感受的伙伴也能帮助儿童感到安全并发展沟通技能。"
+              },
+              {
+                "en": "A household pet can also cultivate a child's sense of responsibility as their parent explains the necessary processes of keeping their pet happy and healthy. As a child matures, they can then take on more of the daily responsibilities, boosting their sense of independence.",
+                "zh": "家庭宠物还可以培养儿童的责任感,因为家长会向他们解释保持宠物快乐和健康的必要过程。随着儿童的成长,他们可以承担更多日常责任,增强独立感。"
+              },
+              {
+                "en": "Pets also provide a fantastic subject for research and learning. Parents can encourage their child to research their favourite pets at the library or during a supervised internet search. Taking children along to the pet shop to buy food and supplies will support their cognitive development as their passion for learning flourishes.",
+                "zh": "宠物还为研究和学习提供了绝佳的主题。家长可以鼓励孩子在图书馆或在监督下的网络搜索中研究他们喜爱的宠物。带孩子去宠物店购买食物和用品将有助于他们的认知发展,因为他们对学习的热情会蓬勃发展。"
+              },
+              {
+                "en": "A child's physical development can benefit greatly from taking pets for walks in the fresh air. Even their fine-motor skills can be utilised in taking care of a beloved animal.",
+                "zh": "带宠物在新鲜空气中散步可以极大地促进儿童的身体发育。甚至他们的精细运动技能也可以在照顾心爱的动物时得到运用。"
+              },
+              {
+                "en": "When responsibilities are well paced and communicated, a child can benefit greatly from involvement in bringing up a happy and healthy pet. And of course, if a child doesn't have a pet in their own household, they can still benefit from all of the above when visiting a friend who does.",
+                "zh": "当责任节奏得当且沟通良好时,儿童可以从参与养育一只快乐健康的宠物中受益匪浅。当然,如果孩子自己家里没有宠物,他们在拜访有宠物的朋友时仍然可以从上述所有方面受益。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Send would-be students a packet of information."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Update regularly all information on their websites."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Inform prospective students of their yearly enrollment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Answer questions raised by applicants and their parents."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Oversee private institutions directly."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Follow other states' example."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Supervise all schools consistently."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Regulate public institutions by law."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are resourceful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are competitive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They provide the best opportunity to realize one's dream."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They appeal most to students from other states in the U.S."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Some students waste much time surfing the net."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Students may need to visit too many websites."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Students have to search for the information."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some students may lack adequate access."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new bill in the Ohio legislature would require state public colleges and universities to send prospective students a packet of information. This would include costs of college, grants and scholarships. It would also include expected monthly loan payments and projected salary after college.",
+                "zh": "俄亥俄州立法机构的一项新法案将要求州立公立大学和学院向潜在学生发送一份信息包。其中将包括大学费用、助学金和奖学金。还将包括预期的月贷款还款额以及大学毕业后的预期薪资。"
+              },
+              {
+                "en": "State Representative Adam Mathews is one of the two legislators who proposed the bill. He said it would give prospective students more information about what to expect once they graduate. \"Putting that information in front of them will give them the best opportunity to match their skills and their dreams to what our schools can provide,\" said Mathews. He notes that the state can only regulate public institutions in this way, but he hopes private institutions in Ohio follow the lead of the state and post similar information. He believes giving out this information will help Ohio's colleges and universities to be more competitive. The information will highlight what a great value they have for their very reasonable cost.",
+                "zh": "州众议员Adam Mathews是提出该法案的两位立法者之一。他表示，这将为潜在学生提供更多关于毕业后预期情况的信息。Mathews说：\"将这些信息呈现在他们面前，将使他们有最好的机会将自己的技能和梦想与我们学校所能提供的相匹配。\"他指出，州只能以这种方式监管公立机构，但他希望俄亥俄州的私立机构效仿州的做法并发布类似信息。他相信，提供这些信息将有助于俄亥俄州的大学和学院提高竞争力。这些信息将突显出它们以非常合理的成本提供了巨大的价值。"
+              },
+              {
+                "en": "Ohio's schools are already competitive. The state attracts more undergraduate students than it sends to colleges out of state. Many colleges and universities currently provide similar information on their websites. This includes tuition, fees, graduation rates and more. But students need to search for the information. This bill would require the universities and colleges to send a packet directly to students.",
+                "zh": "俄亥俄州的学校已经很有竞争力。该州吸引的本科生数量超过了流失到州外大学的数量。许多大学和学院目前在其网站上提供类似信息。这包括学费、费用、毕业率等。但学生需要主动搜索这些信息。该法案将要求大学和学院直接向学生发送信息包。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Scientists have known that depriving adult mice of vision can increase the sensitivity of individual neurons(神经元) in the part of the brain devoted to hearing. New research from biologists at the University of Maryland"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "that sight deprivation also changes the way brain cells"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "with one another, shifting the mice's sensitivity to different frequencies. \"This study"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "what we are learning about how manipulating vision can have a"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ",\" said Patrick Kanold, senior author of the study. It was once thought that the sensory regions of the brain were not"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "after a critical period in childhood. This is why children learn languages much more"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "than adults. Kanold's earlier research disproved this idea by showing that depriving adult mice of vision for a short period increased the sensitivity of individual neurons in the auditory cortex(皮质), which is devoted to hearing. Young brains wire themselves according to the sounds they hear frequently, assigning areas of the auditory cortex to"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "frequencies based on what they are used to hearing. The researchers found that, in adult mice, a week in the dark also changed the"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "of space to different frequencies. \"We don't know why we are seeing these patterns,\" Kanold said. \"We"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "that it may have to do with what the mice are paying attention to while they are in the dark.\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "adaptable"
+        },
+        {
+          "l": "B",
+          "w": "closed"
+        },
+        {
+          "l": "C",
+          "w": "distribution"
+        },
+        {
+          "l": "D",
+          "w": "interact"
+        },
+        {
+          "l": "E",
+          "w": "narration"
+        },
+        {
+          "l": "F",
+          "w": "neutral"
+        },
+        {
+          "l": "G",
+          "w": "permanently"
+        },
+        {
+          "l": "H",
+          "w": "prescribes"
+        },
+        {
+          "l": "I",
+          "w": "readily"
+        },
+        {
+          "l": "J",
+          "w": "registered"
+        },
+        {
+          "l": "K",
+          "w": "reinforces"
+        },
+        {
+          "l": "L",
+          "w": "revealed"
+        },
+        {
+          "l": "M",
+          "w": "significant"
+        },
+        {
+          "l": "N",
+          "w": "specific"
+        },
+        {
+          "l": "O",
+          "w": "speculate"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "L"
+        },
+        {
+          "n": 27,
+          "a": "D"
+        },
+        {
+          "n": 28,
+          "a": "K"
+        },
+        {
+          "n": 29,
+          "a": "M"
+        },
+        {
+          "n": 30,
+          "a": "B"
+        },
+        {
+          "n": 31,
+          "a": "A"
+        },
+        {
+          "n": 32,
+          "a": "I"
+        },
+        {
+          "n": 33,
+          "a": "N"
+        },
+        {
+          "n": 34,
+          "a": "C"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "to grow.",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "For all the innovation and choice that define the food and drink industries, if you want to make money, you could do a lot worse than fill a bottle with water and sell it. A litre of tap water, the stuff we have cleverly piped into our homes, costs less than half a penny. A litre of bottled water can cost well over a pound, especially for something fancy that has been sucked through a mountain."
+        },
+        {
+          "l": "B",
+          "t": "Yet the bottled water market is livelier than ever. It defies our increasing awareness of the harm plastics do to the environment and a broader, growing sense that something has to change. Sales in the UK were worth a record £558.4 million this past year, an increase of 7%, according to the latest figures from the market analyst Kantar. Separate data from other analysts show that last year the British consumed more than 2.2 billion litres of bottled water, including \"take-home\" and \"on-the-go\" products. That's an annual rise in volume of 8.5%."
+        },
+        {
+          "l": "C",
+          "t": "Environmental campaigners are struggling to understand why nations blessed with clean tap water grow only fonder of the bottle. \"It's very surprising to me,\" says Sam Chetan-Walsh, a political adviser at Greenpeace and campaigner against ocean plastic. \"Public awareness has never been higher, but the message is not quite reaching all the people it needs to.\" Where it is heard, the message is causing concern. Plastic water bottles require oceans of fossil fuels to make and ship. Additionally, single-use plastics of all types are polluting our cities and seas. Numerous documentaries have shown how plastic is ultimately killing wildlife."
+        },
+        {
+          "l": "D",
+          "t": "Moves against various plastics have gathered pace, from shopping bags to straws and plastic-lined coffee cups. Chetan-Walsh argues that bottled water is different because the alternatives are so obvious. \"If a product that is so nakedly unnecessary can exist, then the whole system is failing,\" he says."
+        },
+        {
+          "l": "E",
+          "t": "Hope is not entirely out of reach. The rate of growth has begun to ease (sales were up 7% in the year, compared with 8% the previous year)."
+        },
+        {
+          "l": "F",
+          "t": "But even if large numbers of people are quitting bottled water because of care for the environment, others are taking it up. The introduction of the \"sugar tax\" on juices and soda drinks has pushed more people to bottled water, while health awareness has boosted its desirability. Tap water consumption is growing at roughly the same pace (UK consumers still drink almost three times as much tap water as bottled water)."
+        },
+        {
+          "l": "G",
+          "t": "So the plastic tide only creeps higher. The industry is quick to point out that all its bottles are recyclable. \"But collection rates are, at the most generous estimates, 56%, so the actual recycling rate will be lower than that,\" Chetan-Walsh says. And while bottles may be recyclable, very few are made of recycled plastic. One water bottle company launched recycled half-litre \"eco\" bottles alongside its standard bottles. Another has pledged to use only recycled plastic across its range by 2025. Chetan-Walsh believes in a ban on single-use bottles. Bans do exist in some places. Organisers of a famous music festival announced that water bottles will not be sold this summer. San Francisco has banned them from city property and events. Last year, the UK government set out plans to ban single-use plastic from its estate."
+        },
+        {
+          "l": "H",
+          "t": "Water bottlers, unsurprisingly, don't support bans. But they raise concerns about health rather than profit margins. Last month one chief executive of a water bottling company said that bans would \"result in greater consumption of sugary drinks, adding to all the health dangers of obesity, diabetes and tooth decay\". Kinvara Carey, general manager of an association of the biggest bottled water manufacturers, cites a survey in which people were asked what they would do if bottled water were not available. \"Forty-four per cent would buy another drink, which is not great, 14% would go without and 4.5% said they would find a fountain,\" she says. \"The choice is important.\""
+        },
+        {
+          "l": "I",
+          "t": "What if fountains were more numerous, and tap water more clearly available in cafes, restaurants and elsewhere? Dozens of fountains are being installed in London. There are similar initiatives elsewhere. Before plastic and the marketing that made people think they needed bottled water in the first place, fountains were an urban fixture. Greenpeace, among others, is also pushing for a \"deposit return\" scheme. This would mean tax on bottled water would be refunded to customers who returned the plastic for recycling."
+        },
+        {
+          "l": "J",
+          "t": "Even if bottled water sales are growing slightly more slowly, the industry is racing to adapt to changing concerns and tastes. Flavoured water is booming: sales of the sparkling variety shot up by 20%, according to the latest analyst data. Meanwhile, international water brands, as well as a range of new companies, are selling high-end reusable bottles. And if you must fill them with tap water, why not add flavouring?"
+        },
+        {
+          "l": "K",
+          "t": "As the owner of multiple sugary drink brands and bottled water, PepsiCo is facing challenges on health and environmental fronts. Last year, the company bought SodaStream (a drinks company that sells machines for making tap water bubbly and then consumers add flavours) for $3.2 billion. It also launched a range of fancy bottles that work with tap water and flavour packets. The bottle is reusable. The packets? Not so much, and, yes, they are made of plastic, although the company invites users to post them back for recycling."
+        },
+        {
+          "l": "L",
+          "t": "As is so often the case, clever marketing can beat reason; awareness is rarely enough. \"There is always this kind of slip between concern, intent and changed behaviour,\" says Giles Quick, an analyst of bottled water. \"The best example is five a day, the recommendation to have at least five portions of fruit and vegetables every day. Almost everyone is aware of this, but something like 15% of us achieve it.\" Unless a far-reaching bottle ban does come into force, it will be up to consumers to not only demand change—but to act themselves."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Judging from the slowing rate of sales growth, there is still hope to combat bottled water.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "Bottled water manufacturers base their arguments against bans of plastic bottles on health concerns rather than on profits.",
+          "a": "H"
+        },
+        {
+          "n": 38,
+          "s": "Sales of bottled water in Britain hit a record high last year even though people are increasingly aware that plastics are environmentally unfriendly.",
+          "a": "B"
+        },
+        {
+          "n": 39,
+          "s": "It often happens that people can lack reason when faced with skillful marketing.",
+          "a": "L"
+        },
+        {
+          "n": 40,
+          "s": "One city on the west coast of America has banned single-use bottles from its property and events.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "Manufacturing and shipping of plastic water bottles consume a tremendous amount of fossil fuels.",
+          "a": "C"
+        },
+        {
+          "n": 42,
+          "s": "One large beverage company has adapted its operations when confronted with challenges from health and environmental advocates.",
+          "a": "K"
+        },
+        {
+          "n": 43,
+          "s": "Bottled water is considerably more expensive than tap water.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "Fountains could be seen in cities before bottled water became popular.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "More people have taken to bottled water because of their health awareness.",
+          "a": "F"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "As a university student, I've come to realise just how little I know about money. I've come to the brutal realisation that Australia's youth are being done a great disservice by not receiving any consistent financial education. Diving headfirst into the crash course of starting university, I've quickly tried to get myself up to speed with the financial terms of the modern era to help manage my personal finances. I've read some financial education books, done some online learning, and have spoken to my nearest and dearest for their pearls of financial wisdom. There are undoubtedly hundreds of great resources out there for those wishing to improve their financial literacy, but while I was researching, I still kept wishing that I didn't have to play catch-up with the money world. I felt that I was sailing the financial seas with no skills and no life jacket! However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money. Let's compare a theoretical financial education subject to the standard compulsory English class. On average, English may not be the most popular subject, but it's consistently on the schedule throughout high school, with all students graduating fluent in English. A financial education subject should do just the same. It shouldn't be just a one-day event but a course integrated throughout the whole of high school that would allow students to gradually expand their financial literacy, and would prevent the need for a 'catch up' phase once we're out on our own after graduation. In the same way that learning a language or new skills takes time, building financial skills requires practice and years to gradually accumulate bits and pieces of knowledge. Giving young people the opportunity to become familiar with the world of money would provide them with a great advantage to enter adulthood with confidence and security so that they are able to manage their own money and look after themselves.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What has the author come to realise since entering university?",
+            "o": [
+              {
+                "l": "A",
+                "t": "He needs a crash course on financial terms."
+              },
+              {
+                "l": "B",
+                "t": "He is very much lacking in financial literacy."
+              },
+              {
+                "l": "C",
+                "t": "It requires consistent education to be financially independent."
+              },
+              {
+                "l": "D",
+                "t": "It is unrealistic to give all Australian youth a financial education."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "How did the author feel in today's money world?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Badly equipped to survive."
+              },
+              {
+                "l": "B",
+                "t": "Ignorant of financial literature."
+              },
+              {
+                "l": "C",
+                "t": "Barely capable of moving ahead."
+              },
+              {
+                "l": "D",
+                "t": "Overwhelmed by the resources online."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What did the author realise after talking to his friends?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They were as keen as he was on financial matters."
+              },
+              {
+                "l": "B",
+                "t": "The schooling system was to blame for his trouble."
+              },
+              {
+                "l": "C",
+                "t": "High schoolers knew nothing about the modern financial world."
+              },
+              {
+                "l": "D",
+                "t": "Financial courses were as unpopular as compulsory English classes."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What is the author's idea of a financial education course?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It should foresee students' needs after graduation."
+              },
+              {
+                "l": "B",
+                "t": "It should provide students with some basic knowledge."
+              },
+              {
+                "l": "C",
+                "t": "It should be taught the same way as English is taught."
+              },
+              {
+                "l": "D",
+                "t": "It should be integrated into high school education."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What would financial literacy do to young people?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Allow them to enter adulthood with financial security."
+              },
+              {
+                "l": "B",
+                "t": "Enable them to look after themselves without worrying about money."
+              },
+              {
+                "l": "C",
+                "t": "Render them confident and secure in terms of money management."
+              },
+              {
+                "l": "D",
+                "t": "Help them become familiar with the world of money."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Chocolates save us from many things, especially emotional distress. They comfort us in times of trouble, calming down a racing heart by channelling happy calories inside us. We all have faith in chocolates to delight us in an instant! Recently, chocolate lovers were heartbroken as scientists claimed that they can become extinct by 2050! But hey, we have some happy news for you. Scientists can still help save chocolates from dying out! If you are not aware as to why scientists made the statement about the death of this wonderful thing, let us tell you the facts. Chocolate trees, whose seeds are used to make chocolate, grow in the tropical plant world and require very specific weather conditions to prosper. Now, fifty percent of the world's cocoa(可可) beans come from two countries in West Africa: Côte d'Ivoire and Ghana. Scientists believe that both of these countries will experience a 3.8°F temperature increase by 2050 due to global warming, endangering the cacao(可可树) farms in the rainforests. These farms will then have to be shifted to cooler mountainous areas, which are the natural habitat of wildlife. This will lead to some tough decisions: whether to grow chocolate or save wildlife. Unfortunately, the crisis of global warming has already had a serious negative impact on cacao farms' yields, leading to the prices of chocolates skyrocketing. Scientists, however, are trying to find a long-term and eco-friendly solution to this problem! They are trying to modify the species with a gene-editing technology, which will transform the seedlings into a species that survives even in a drier and warmer climate. According to a report by The Business Insider, in the University of California's new bio-sciences building, tiny green cacao seedlings are lined up in refrigerated greenhouses for a new experiment by using a technology called CRISPR. By manipulating the DNA of plants, this technology is already being used across the world to make plants tougher and cheaper. Similarly, in this unconventional experiment, scientists will make tiny, precise changes to the DNA of the seedlings to make the cocoa crops survive in warmer and drier climates.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do people believe chocolates can do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Cheer them up instantly."
+              },
+              {
+                "l": "B",
+                "t": "Create happy calories."
+              },
+              {
+                "l": "C",
+                "t": "Conceal emotional distress."
+              },
+              {
+                "l": "D",
+                "t": "Relieve them of heart trouble."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What was scientists' recent assertion about chocolates?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They could become a rare treat in the near future."
+              },
+              {
+                "l": "B",
+                "t": "They could calm people down a bit in times of crisis."
+              },
+              {
+                "l": "C",
+                "t": "They could prevent people from getting heartbroken."
+              },
+              {
+                "l": "D",
+                "t": "They could become unavailable in less than 30 years."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What would happen if the cacao farms were shifted to cooler mountainous areas?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The natural habitat of wildlife there would be ruined."
+              },
+              {
+                "l": "B",
+                "t": "The cacao farmers would have a tough time to adapt."
+              },
+              {
+                "l": "C",
+                "t": "The rainforests would be shrinking dramatically."
+              },
+              {
+                "l": "D",
+                "t": "The quality of cocoa beans would suffer greatly."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What do we learn about the cacao farms in the crisis of global warming?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They try to seek help from gene-editing scientists."
+              },
+              {
+                "l": "B",
+                "t": "They decide to move to cooler mountainous areas."
+              },
+              {
+                "l": "C",
+                "t": "They have suffered a lot due to a decrease in produce."
+              },
+              {
+                "l": "D",
+                "t": "They have benefited by raising prices of cocoa beans."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What are scientists trying to do in the University of California's new bio-sciences building?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Build rows of refrigerated greenhouses for research on cacao seedlings."
+              },
+              {
+                "l": "B",
+                "t": "Gene-edit cacao seedlings for them to withstand a drier, warmer climate."
+              },
+              {
+                "l": "C",
+                "t": "Produce chocolates with the latest gene-editing technology."
+              },
+              {
+                "l": "D",
+                "t": "Transplant the genes of tougher plants to cacao seedlings."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "近年来，中国新能源汽车产业发展迅速。目前，中国新能源汽车年产量已高达近千万辆，占全球市场份额 超过 60%，出口量不断创出新高。中国政府通过加大资金投入和政策引导，鼓励新能源汽车企业进行技术创 新，不断提高产品在市场上的竞争力。中国新能源汽车产业的发展不仅有力推动了国内经济发展，也为全球新 能源利用和环境保护做出了积极贡献。",
+    "reference": "In recent years, China's new energy vehicle industry has developed rapidly. At present, China's annual output of new energy vehicles has reached nearly 10 million units, accounting for over 60% of the global market share, while its exports keep hitting new highs. The Chinese government, by increasing funding and providing policy guidance, encourages new energy vehicle enterprises to make technological innovations and continuously enhance the market competitiveness of their products. The development of China's new energy vehicle industry has not only powerfully boosted domestic economic growth, but also made positive contributions to the global use of new energy and environmental protection."
+  }
+}

@@ -1,0 +1,1404 @@
+{
+  "id": "cet4-2021-12-2",
+  "level": "cet4",
+  "year": 2021,
+  "month": 12,
+  "set": 2,
+  "title": "2021年12月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose your university student union is planning to hold a speech contest. You are now to write a proposal for organizing the contest. The proposal may include the topic, aim , procedure and selection of contestants. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+    "sample": "A Proposal for a Speech Contest On behalf of the Student Union, I am writing to propose that our university hold a campus speech contest next month, and the details are outlined below for your approval.The contest will focus on the theme \"My Chinese Dream.\" Our aim is to sharpen students' public-speaking skills, build their confidence, and enrich campus cultural life.As for the procedure, we will first post a notice to call for entries. Then a preliminary round will be held in each college. Finally, twelve finalists will deliver their speeches on stage, scored by a panel of teachers and students.The selection of contestants will be fair and open: applicants must submit a written draft, and those with clear ideas and fluent expression will be shortlisted through a short interview. We sincerely hope you will approve this proposal, and any suggestions would be warmly welcomed. The Student Union"
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She was pierced by a chicken bone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She was coughing all the time."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She suffered from lung cancer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She suffered from shock."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By eating chicken soup daily."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Through regular exercising."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Through a surgical operation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By using traditional Chinese medicine.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A 22-year-old Chinese woman who suffered from a persistent cough was shocked to learn that she had a piece of chicken bone lodged in her lung.",
+                "zh": "一名22岁的中国女性因持续咳嗽而震惊地得知,她的肺部卡着一块鸡骨头。"
+              },
+              {
+                "en": "The unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old. For 14 years, she made numerous hospital visits. However, no doctor could identify any problem. Her uncontrollable coughing was a mystery.",
+                "zh": "这名来自山东省的未透露姓名的女性,在7岁或8岁时开始出现咳嗽问题。14年来,她多次前往医院就诊。然而,没有一位医生能够发现任何问题。她无法控制的咳嗽一直是个谜。"
+              },
+              {
+                "en": "Finally, the woman got a full body scan at a hospital in the city of Qingdao. This special medical procedure revealed she had a chicken bone stuck in her lung. Doctors performed surgery and removed the bone. The simple procedure went smoothly and the woman has recovered fully. With the bone finally removed from her lung, the woman is very happy that she no longer suffers from that annoying cough.",
+                "zh": "最终,这名女性在青岛市的一家医院进行了全身扫描。这项特殊的医疗检查显示她的肺部卡着一块鸡骨头。医生进行了手术并取出了骨头。这个简单的手术进行得很顺利,女性已完全康复。随着骨头最终从肺部取出,这名女性非常高兴,因为她不再遭受那恼人的咳嗽困扰。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was born 13 years ago."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was Alice Gray's lovely pet."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It got injured in a big bushfire."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It ran away into a nearby forest."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They rebuilt the fencing around their farm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They spent seven years replanting their farm."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They claimed damages for their heavy losses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They installed a camera to monitor sheep activity.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires, recently returned home.",
+                "zh": "一只名叫Prickles的白羊在2013年丛林大火期间从澳大利亚一个农场逃跑,最近回家了。"
+              },
+              {
+                "en": "According to farmer Alice Gray, Prickles was only a lamb when she ran away. The bushfires that hit the area back then destroyed a large part of her family's massive property. They thought Prickles had died in the fire. But instead, the young sheep escaped into a 200-acre forest near the farm. Once the fires were over, the family had to fix the damage done to the farm, as it was such a large property. This included rebuilding about 50 kilometers of fencing. It was this huge fencing that prevented Prickles from finding her way back. Over the years, the family spotted her a few times. They even recorded her with cameras installed to monitor deer activity. But while they knew Prickles was alive, they couldn't find her and never expected her to return by herself. Seven years later, they were proven wrong.",
+                "zh": "据农场主Alice Gray说,Prickles逃跑时还只是一只羊羔。当时袭击该地区的丛林大火摧毁了她家大片地产的很大一部分。他们以为Prickles在火灾中丧生了。但实际上,这只小羊逃进了农场附近一片200英亩的森林。火灾结束后,由于地产面积很大,这家人不得不修复农场遭受的损坏。这包括重建约50公里的围栏。正是这道巨大的围栏阻止了Prickles找到回家的路。多年来,这家人看到过她几次。他们甚至用安装来监测鹿类活动的相机拍到过她。但尽管他们知道Prickles还活着,却找不到她,也从未料到她会自己回来。七年后,事实证明他们错了。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The disappearance of some gold and diamonds."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The transfer of tons of precious metal by air."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The crash of a Russian cargo airplane."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The loss of gold from an airplane."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It made an emergency landing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It informed the local police at once."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It contacted the goldmine company."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It had a crew member fix the problem."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will cooperate with the police."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They had checked the plane carefully."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will be questioned by the police."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They took some gold bars and diamonds."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Tons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in midair this morning.",
+                "zh": "今天上午，一架货机在空中发生故障后，数吨黄金从俄罗斯天空坠落。"
+              },
+              {
+                "en": "The aircraft was carrying 265 million pounds worth of gold and diamonds, when the door flew open—sending the precious metal back to earth.",
+                "zh": "这架飞机载有价值2.65亿英镑的黄金和钻石，当舱门突然打开时，贵重金属被抛回地面。"
+              },
+              {
+                "en": "According to the official news agency, Russian authorities have recovered more than 170 gold bars weighing 20 kilograms each. The plane was traveling from Yakutsk Airport in a major diamond-producing region to the city Krasnoyarsk in Siberia.",
+                "zh": "据官方通讯社报道，俄罗斯当局已经回收了超过170根金条，每根重20公斤。该飞机从主要钻石产区的Yakutsk机场飞往西伯利亚的Krasnoyarsk市。"
+              },
+              {
+                "en": "However, the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo.",
+                "zh": "然而，这架飞机在开始丢失部分贵重货物后，在Magan紧急降落。"
+              },
+              {
+                "en": "Reports suggest some bars of gold were scattered up to 15 miles away from the airport. Nine tons of gold on plane AN-12 belonged to a goldmine company.",
+                "zh": "报道称，一些金条散落在距离机场15英里远的地方。AN-12飞机上的9吨黄金属于一家金矿公司。"
+              },
+              {
+                "en": "Police have sealed off the runway, and say it is unclear if it was an accident or an attempted robbery. Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police.",
+                "zh": "警方已经封锁了跑道，并表示尚不清楚这是一起事故还是抢劫未遂。据报道，起飞前在飞机上工作的技术工程师将接受警方问询。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "For the company's records."
+                  },
+                  {
+                    "l": "B",
+                    "t": "For future training purposes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To follow the company's rule."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To ensure information security."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To check her customer reference number."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To inquire about the price of office chairs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To get her money back for the returned chair."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To make complaints about its customer service."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She had to update its information."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She forgot where she had left it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She lost it about three days ago."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She was issued a new card."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Reconsider her options for payment methods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make a specific note on the company's system."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Update her bank card details on the company's website."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Upload her personal information to the company's website.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hello, you're through to customer service. This is Michael speaking. Before we continue, I just want to make you aware that this call is being recorded and may be used in the future for training purposes. What can I help you with today?",
+                "zh": "M: 您好,您已接通客户服务部。我是Michael。在我们继续之前,我想提醒您,本通话正在录音,未来可能用于培训目的。请问有什么可以帮您的?"
+              },
+              {
+                "en": "W: Hi, my name is Jean Seimon. I recently bought an office chair from your company, but I returned it about a week ago. I'm just calling to inquire when I will be able to get my money back. It says on your website that your company will pay back the money within three working days of you receiving the returned item. But it's been five working days and I haven't received anything.",
+                "zh": "W: 您好,我叫Jean Seimon。我最近从贵公司买了一把办公椅,但大约一周前退了货。我打电话是想询问什么时候能拿到退款。贵公司网站上说,在收到退货后三个工作日内会退款。但已经过了五个工作日了,我还没收到任何款项。"
+              },
+              {
+                "en": "M: I'm sorry to hear that, Miss Seimon. What's your customer reference number, please?",
+                "zh": "M: 很抱歉听到这个情况,Seimon女士。请问您的客户编号是多少?"
+              },
+              {
+                "en": "W: It's 389460.",
+                "zh": "W: 是389460。"
+              },
+              {
+                "en": "M: Okay, 389460. I'm just looking on the system here. And according to our records, the chair you returned was received by our warehouse on Friday morning. The payment was made on Wednesday. But this seems to be a problem with your card number.",
+                "zh": "M: 好的,389460。我这就在系统里查一下。根据我们的记录,您退回的椅子是周五上午被我们仓库收到的。退款是在周三处理的。但您的卡号似乎有问题。"
+              },
+              {
+                "en": "W: My card number? Oh, maybe it has something to do with my new card. It was sent to me on Tuesday. Maybe the bank canceled my old one before you've made the payment.",
+                "zh": "W: 我的卡号?哦,可能跟我的新卡有关。周二才寄给我的。也许银行在你们付款之前把我的旧卡注销了。"
+              },
+              {
+                "en": "M: Well, you'll need to update your card details directly on our website. Just make sure you're logged in. And then under the description of your personal information, you should see an option for updating payment methods.",
+                "zh": "M: 那您需要直接在我们网站上更新您的银行卡信息。确保您已经登录,然后在个人信息栏下面,应该能看到更新付款方式的选项。"
+              },
+              {
+                "en": "W: I am logged in, and I'll give that a go.",
+                "zh": "W: 我已经登录了,我试试看。"
+              },
+              {
+                "en": "M: I'll make a note here on the system for you, so that the payment will be made tomorrow morning.",
+                "zh": "M: 我会在系统里给您做个备注,这样明天上午就能给您退款。"
+              },
+              {
+                "en": "W: Thank you very much.",
+                "zh": "W: 非常感谢。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is feeling exhausted."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is tired of cooking."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has to work late."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He wants to try Asian foods."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Book a table."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Order a delivery."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Download a menu."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Locate a restaurant."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is not tasty."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is not healthy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is too oily."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is too spicy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is too concerned about money."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is too weight-conscious."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is too picky about food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is too eager to please."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I'm getting a bit hungry.",
+                "zh": "M: 我有点饿了。"
+              },
+              {
+                "en": "W: Yes, me too. I'm starving. Are you going to prepare a meal for us?",
+                "zh": "W: 是啊,我也是。我快饿死了。你要给我们做饭吗?"
+              },
+              {
+                "en": "M: No, sorry, I'm actually pretty worn out. Let's just go out somewhere close to eat.",
+                "zh": "M: 不,抱歉,我实在太累了。我们还是出去找个近点的地方吃吧。"
+              },
+              {
+                "en": "W: Well, I think we should stay in and save some cash. Can we get a meal delivered?",
+                "zh": "W: 嗯,我觉得我们应该待在家里省点钱。我们可以叫外卖吗?"
+              },
+              {
+                "en": "M: Yeah, great. I'll use that food delivery app on my phone. What do you want, fried chicken, hamburgers, or fish and chips?",
+                "zh": "M: 好啊,太好了。我用手机上的外卖app点。你想吃什么,炸鸡、汉堡还是炸鱼薯条?"
+              },
+              {
+                "en": "W: Oh, can we stay away from the junk food? How about something healthy?",
+                "zh": "W: 哦,我们能不能别吃垃圾食品?来点健康的怎么样?"
+              },
+              {
+                "en": "M: Okay, well, there's a place that does salads.",
+                "zh": "M: 好吧,有家店做沙拉的。"
+              },
+              {
+                "en": "W: Let me have a look at that. Yeah, that looks delicious. But to be honest, I'd prefer something hot, not cold.",
+                "zh": "W: 让我看看。嗯,看起来挺好吃的。但说实话,我更想吃点热的,不要凉的。"
+              },
+              {
+                "en": "M: How about Indian food?",
+                "zh": "M: 印度菜怎么样?"
+              },
+              {
+                "en": "W: That's not the kind of hot I mean. I'm just not a fan of sauces. That made me sweat and cry. I need something mild.",
+                "zh": "W: 我说的热不是那种辣。我就是不喜欢那种酱料,会让我出汗流泪。我要清淡点的。"
+              },
+              {
+                "en": "M: Okay. So would you consider Mexican? Oh no, sorry. There's also very hot pepper in that. Would you like some Italian food, perhaps? It's a bit heavy, but it's great food for a cold night like this.",
+                "zh": "M: 好的。那你会考虑墨西哥菜吗?哦不,抱歉。那里面也有很辣的辣椒。那意大利菜怎么样?有点油腻,但在这么冷的晚上吃很不错。"
+              },
+              {
+                "en": "W: Pizza? Spaghetti with creamy sauce? I know it's really tasty and great comfort food, but it's too fattening for me. I'm trying to keep a slim figure, you know.",
+                "zh": "W: 披萨?奶油酱意大利面?我知道真的很好吃,是很棒的comfort food,但对我来说太容易发胖了。你知道的,我想保持苗条身材。"
+              },
+              {
+                "en": "M: Oh, you're really difficult to please. Well, there's a nice Chinese restaurant that delivers.",
+                "zh": "M: 哦,你真是太难伺候了。嗯,有家不错的中餐馆可以送外卖。"
+              },
+              {
+                "en": "W: Yes, I love Chinese food. Let me see. Oh, it's 15 kilometers away.",
+                "zh": "W: 好啊,我喜欢中国菜。让我看看。哦,有15公里远。"
+              },
+              {
+                "en": "M: That's a bit too far away. Do you feel like Vietnamese food then?",
+                "zh": "M: 那有点太远了。那越南菜你觉得怎么样?"
+              },
+              {
+                "en": "W: Yeah, awesome. It's healthy, and we can afford it.",
+                "zh": "W: 好啊,太棒了。健康,而且我们也吃得起。"
+              },
+              {
+                "en": "M: Great. Let's order Vietnamese right away.",
+                "zh": "M: 太好了。我们马上点越南菜吧。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Owners' personalities affect their cats' behaviour and wellbeing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Parents' personalities can affect the personalities of their children."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Parents and cat owners alike experience high levels of anxiety."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More and more people are treating pet cats like their children."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Give their pets behavioural training."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Provide their pets with the best care."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Know their pets' feelings and desires."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Interact with their pets in novel ways."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More convincing explanation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More extensive sampling."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Collection of more data."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Further investigation.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and wellbeing of their cats. The findings suggest that, just as a parent's personality can affect the personality of a child, the same is true for a cat and its owner.",
+                "zh": "林肯大学开展的一项新研究发现,猫主人的性格与其猫的行为和健康状况之间存在联系。研究结果表明,正如父母的性格会影响孩子的性格一样,猫和其主人之间也是如此。"
+              },
+              {
+                "en": "Owners—defined as individuals with high levels of anxiety, fear, anger, depression and loneliness—were more likely to have cats with behavioural issues.",
+                "zh": "那些被定义为具有高度焦虑、恐惧、愤怒、抑郁和孤独感的主人,更有可能养出有行为问题的猫。"
+              },
+              {
+                "en": "Such cats displayed more aggressive and anxious behavioural styles as well as more stress-related sickness. They were also more likely to have an ongoing medical condition and be overweight.",
+                "zh": "这些猫表现出更具攻击性和焦虑的行为方式,以及更多与压力相关的疾病。它们也更有可能患有持续性疾病和超重。"
+              },
+              {
+                "en": "The research also found that mentally well-adjusted owners had calmer, happier and healthier cats.",
+                "zh": "研究还发现,心理健康状况良好的主人养的猫更平静、更快乐、更健康。"
+              },
+              {
+                "en": "The researchers explained that \"Many owners regard their pets as a family member, and form close social bonds with them.\" The majority of owners want to provide the best care for their pets and it's therefore possible that pets could be affected by the way their owners interact with and manage them. The study highlights an important relationship between our personalities and the wellbeing of our pets. Further research is needed to investigate the causal nature of this relationship and to look at how owners' personalities are directly influencing their pets' behaviour and wellbeing.",
+                "zh": "研究人员解释说,\"许多主人将他们的宠物视为家庭成员,并与它们建立了紧密的社会联系。\"大多数主人希望为他们的宠物提供最好的照顾,因此宠物可能会受到主人与它们互动和管理方式的影响。这项研究强调了我们的性格与宠物健康之间的重要关系。需要进一步研究来探讨这种关系的因果性质,以及主人的性格如何直接影响宠物的行为和健康状况。"
+              },
+              {
+                "en": "It is possible that the wellbeing of pets is driven by the underlying nature of the owner, not simply by their conscious decisions and behaviours.",
+                "zh": "宠物的健康状况可能是由主人的内在本质驱动的,而不仅仅是由他们有意识的决定和行为驱动的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People should do more running than mere walking."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Running is the best exercise for extending one's life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People should exercise at least 60 minutes every day."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Running is the easiest form of exercise for most people."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Improving their brain function."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Regulating their breathing rate."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Slowing down their ageing process."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Accelerating their blood circulation."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They found it easy to control their emotions."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They struggled to handle negative emotions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were more eager to enjoy a movie."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were less affected by sad movies.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "\"One 60-minute run can add seven hours to your life.\" This was a claim made by The Times last week. The claim was based on a new review of studies about the effects of running. The review concluded that on average runners live three years longer than non-runners and that running does more to extend life than any other form of exercise. But there's more to running than its health benefits. Research published in recent years has shown that running changes your brain and mind in some fascinating ways, from increasing your brain function to regulating your emotions. However, the precise effects vary according to whether you engage in short, fast running or long-distance running.",
+                "zh": "\"一次60分钟的跑步可以为你的生命增加7小时。\"这是《泰晤士报》上周提出的一项声明。该声明基于一项关于跑步效果的新研究综述。该综述得出结论,跑步者平均比不跑步者多活3年,并且跑步比任何其他形式的运动都更能延长寿命。但跑步的意义不仅仅在于其健康益处。近年来发表的研究表明,跑步以一些引人入胜的方式改变你的大脑和思维,从提高大脑功能到调节情绪。然而,具体效果因你从事短距离快速跑步还是长距离跑步而异。"
+              },
+              {
+                "en": "For example, in one study, researchers compared participants' ability to learn new words after several minutes of intense running and after 40 minutes of gentle running. Participants were able to learn 20 percent faster after the intense running and they showed a superior memory when tested again a week later.",
+                "zh": "例如,在一项研究中,研究人员比较了参与者在几分钟高强度跑步后和40分钟温和跑步后学习新单词的能力。参与者在高强度跑步后学习速度提高了20%,并且在一周后再次测试时表现出更优异的记忆力。"
+              },
+              {
+                "en": "In another study, researchers asked volunteers to jog for 30 minutes and then showed them clips from a sad movie. Participants who usually struggled to handle negative emotions were more intensely affected by the sad clips, just as you'd expect. But crucially, this was less so if they had completed the 30-minute jog. The researchers said moderate exercise appears to have helped those participants to be less vulnerable to the impact of the sad movie.",
+                "zh": "在另一项研究中,研究人员要求志愿者慢跑30分钟,然后向他们播放悲伤电影的片段。通常难以处理负面情绪的参与者受到悲伤片段的影响更为强烈,正如你所预期的那样。但关键的是,如果他们完成了30分钟的慢跑,这种影响会有所减轻。研究人员表示,适度运动似乎帮助这些参与者减少了对悲伤电影影响的脆弱性。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is a tour guide."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is a famous architect."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is a local entrepreneur."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is the owner of the Hill House."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He studied the blueprints of other famous buildings."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He inquired about his client's family background."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He observed his client's life and habits."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He took a tour of his client's old home."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A house made of timber and brick."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A house with a lot of free space."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A house of the current fashion."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A house of a unique design."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are well preserved and in pretty good shape."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are copies built to the architect's designs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were designed by another architect."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were badly damaged but restored."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Welcome to the tour of the Hill House. This house built in 1904 is one of the most well-known works of Charles Hill, the famous architect. It was designed and built for a local entrepreneur and his family. Before starting the tour, let me give you a brief introduction about the design of this amazing building.",
+                "zh": "欢迎参观Hill House。这座建于1904年的房子是著名建筑师Charles Hill最知名的作品之一。它是为一位当地企业家及其家人设计和建造的。在开始参观之前,让我简要介绍一下这座令人惊叹的建筑的设计。"
+              },
+              {
+                "en": "Prior to beginning his design, the architect spent some time in the client's old home, observing their life and studying their habits. This meant that he could design the house according to the needs of the family.",
+                "zh": "在开始设计之前,建筑师在客户的老房子里待了一段时间,观察他们的生活并研究他们的习惯。这意味着他可以根据这个家庭的需求来设计房子。"
+              },
+              {
+                "en": "The client's main desire was to have a home with the unique design, so the architect was given complete freedom. The building style is radically different from what was the fashion of the period. At the time, most large homes were constructed of timber and brick. This one, however, is made of concrete, a novel construction material in those days. The interior of the house, including fittings and furniture, was also designed by the same person. Most of the furniture you will see is original and in good condition. However, those pieces in the children's bedrooms are copies built to the designs of the architect. Fortunately, all the blueprints for both the building and its contents have been preserved, so we've been able to replace badly damaged furniture. Let's begin our tour, starting from the rooms.",
+                "zh": "客户的主要愿望是拥有一座设计独特的房子,因此建筑师获得了完全的自由。这座建筑的风格与当时的流行风格截然不同。那时,大多数大型住宅都是用木材和砖块建造的。然而,这座房子是用混凝土建造的,这在当时是一种新颖的建筑材料。房子的内部,包括装置和家具,也是由同一个人设计的。你将看到的大部分家具都是原件且保存完好。然而,儿童卧室里的那些家具是按照建筑师的设计建造的复制品。幸运的是,建筑及其内部陈设的所有蓝图都被保存了下来,所以我们能够更换严重损坏的家具。让我们开始参观吧,从这些房间开始。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "It is commonly believed that the great English dramatist and poet William Shakespeare was born in Stratford-on-Avon on April 23, 1564. But it is impossible to know the"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "day on which he was born. Church records show he was baptized(施洗礼) on April 26, and three days was a customary amount of time to wait before baptizing a newly born baby. Shakespeare's date of death is"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "known, however: it was April 23, 1616. He was 52 and had retired to Stratford three years before. Although few plays have been performed or analyzed as extensively as the 38 plays Shakespeare wrote, there are few surviving details about his life. This"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "of biographical information is due primarily to his social"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "; he was not a noble, but the son of a leather trader. Shakespeare"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "attended the grammar school in Stratford, where he would have studied Latin and read"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "literature. He did not go to university and at age 18 married Anne Hathaway, who was eight years his"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": ". They had four children, including the twins, Hamnet and Judith. Nothing is known of the period between the birth of the twins and Shakespeare's"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "as a dramatist in London in the early 1590s. In a million words written over 20 years, he"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "the full range of human emotions and conflicts with a"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "that remains sharp today. As his great contemporary the poet and dramatist Ben Jonson said, \"He was not of an age, but for all time.\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "captured"
+        },
+        {
+          "l": "B",
+          "w": "classical"
+        },
+        {
+          "l": "C",
+          "w": "conclusively"
+        },
+        {
+          "l": "D",
+          "w": "emergence"
+        },
+        {
+          "l": "E",
+          "w": "exact"
+        },
+        {
+          "l": "F",
+          "w": "generated"
+        },
+        {
+          "l": "G",
+          "w": "particular"
+        },
+        {
+          "l": "H",
+          "w": "position"
+        },
+        {
+          "l": "I",
+          "w": "precision"
+        },
+        {
+          "l": "J",
+          "w": "probably"
+        },
+        {
+          "l": "K",
+          "w": "quality"
+        },
+        {
+          "l": "L",
+          "w": "scarcity"
+        },
+        {
+          "l": "M",
+          "w": "senior"
+        },
+        {
+          "l": "N",
+          "w": "separated"
+        },
+        {
+          "l": "O",
+          "w": "systematically"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "E"
+        },
+        {
+          "n": 27,
+          "a": "C"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "H"
+        },
+        {
+          "n": 30,
+          "a": "J"
+        },
+        {
+          "n": 31,
+          "a": "B"
+        },
+        {
+          "n": 32,
+          "a": "M"
+        },
+        {
+          "n": 33,
+          "a": "D"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "I"
+        }
+      ]
+    },
+    "matching": {
+      "title": "How to not be boring",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Humans are creatures of habit. We love to establish a routine and stick with it. Then we often put ourselves on auto-pilot. Routines can be incredibly useful in helping you get things done. However, too much of a routine can also make you incredibly boring. Nevertheless, many people live lives that are boringly predictable, or live a life where everything is outlined or planned."
+        },
+        {
+          "l": "B",
+          "t": "To tell the truth, interesting people are more popular among their friends. If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull. But that doesn't mean your life has ended and you can't do anything to change it. If you find yourself searching for something to say beyond small talk, try these tactics to find more interesting approaches to conversation."
+        },
+        {
+          "l": "C",
+          "t": "Recently, I was at a gathering of colleagues when someone turned to me and asked, \"So, what's new with you?\" Ordinarily, I think I'm a good conversationalist. After all, it's literally my job to talk to people and tell their stories or share their advice. And that's not exactly an unexpected question. Still, the only \"new-to-me\" topics that came to mind were my daughter's basketball tournament( 锦标赛) and my feelings about that morning's political headlines—neither amusing nor appropriate topics at that moment."
+        },
+        {
+          "l": "D",
+          "t": "Oh, no, I thought. Have I become boring? But sharing our experiences in an authentic way to connect with other people is what makes us interesting, says associate professor Michael Pirson. The hesitation I felt in not sharing the ordinary things that were happening in my life, and the wild mental search for something more interesting, may have backfired and made me seem less interesting."
+        },
+        {
+          "l": "E",
+          "t": "\"If someone is making up some conversation that might be interesting, it's probably not going to land well,\" says Pirson, whose expertise includes trust and well-being, mindfulness, and humanistic management. \"It's going to feel like a made-up conversation that people don't necessarily want to tune in to.\""
+        },
+        {
+          "l": "F",
+          "t": "The most interesting people aren't those who've gone on some Eat, Pray, Love journey to find themselves. Instead, Pirson says, they're those who examine the ordinary. \"Often, the 'boring things' may not be boring at all. Maybe they are actually little miracles,\" he says. Share your observations about the world around you— interesting stories you heard or things you noticed—and you may be surprised by the universal connection they inspire."
+        },
+        {
+          "l": "G",
+          "t": "This is essentially how Jessica Hagy starts her day. The author of How to Be Interesting: An Instruction Manual, Hagy spends a lot of time thinking about what's interesting to her. People who are interesting are persistently curious, she says."
+        },
+        {
+          "l": "H",
+          "t": "Think about the everyday things around you and ask questions about them. What is that roadside monument I see on my way to work every day? Who built that interesting building in my city? What nearby attractions haven't I visited? Why do people do things that way? Use what you find to ask more questions and learn more about the world around you. \"Having that sort of curiosity is almost like a protective gear from getting into boredom,\" she says. And when you find things that are truly interesting to you, share them."
+        },
+        {
+          "l": "I",
+          "t": "Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality. \"Having a strong point of view, signature style, or being a super-enthusiast in a particular field makes someone interesting,\" she says. That means embracing what is truly interesting or unique about yourself. \"Many people are 'not boring' in the way that they can carry a conversation or can be good at a social gathering, etc. To be interesting means that you have lived life, taken risks, traveled, sought out experience to learn for yourself and share with others,\" she says."
+        },
+        {
+          "l": "J",
+          "t": "Of course, it's possible to be a fountain of knowledge and a boring person, says public relations consultant Andrea Pass. Paying attention to the listener is an important part of having a conversation that's interesting to both parties. Talking on and on about what's interesting to you isn't going to make you an interesting person, she says."
+        },
+        {
+          "l": "K",
+          "t": "\"If the listener is not paying attention, it's your sign to shorten the story or change direction. Make sure to bring the audience into the conversation so that it is not one-sided,\" Pass says. Be a better listener yourself, and give others opportunities to participate in the conversation by inviting them with questions or requests to share their own experiences or thoughts. (e.g., \"Now, tell me about your favorite book,\" or \"Have you ever been to that attraction?\") Questions are a powerful tool, especially when they encourage others to disclose information about themselves. A 2012 study from the University of California, Santa Barbara, found that roughly 40% of the time we are talking, we're disclosing subjective information about our experience. And when we're doing so, our brains are more engaged. So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves."
+        },
+        {
+          "l": "L",
+          "t": "Being relatable is also essential, Morrissey says. \"The best entertainment and storytelling comes from people who are relatable-those who don't shy away from opening up but freely share who they are and what they care about. These are the people viewers most relate to and find interesting. Being authentic, honest, and vulnerable is always interesting.\""
+        },
+        {
+          "l": "M",
+          "t": "I have now come to realize that being boring, in actuality, is not only about who you are as a person, but also how you present yourself. No matter what, make sure you are having fun in life. Because when you are enjoying, people around you will begin to enjoy as well. Show some interest in them and they will definitely show some in you. If you are a very reserved person, this could be a little difficult at first. But with a little effort, you can definitely improve."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Pirson claims that some ordinary things may often prove to be miraculously interesting.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "To make a conversation interesting, it is important that you listen to the other party attentively.",
+          "a": "J"
+        },
+        {
+          "n": 38,
+          "s": "A person who is unable to stimulate others' curiosity or make their life enjoyable may appear somewhat boring.",
+          "a": "B"
+        },
+        {
+          "n": 39,
+          "s": "Interesting people usually possess certain unique qualities, according to a TV program producer.",
+          "a": "I"
+        },
+        {
+          "n": 40,
+          "s": "Be interested in others and they are sure to be interested in you.",
+          "a": "M"
+        },
+        {
+          "n": 41,
+          "s": "The author considers himself usually good at conducting conversations.",
+          "a": "C"
+        },
+        {
+          "n": 42,
+          "s": "Interesting people are always full of curiosity.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "Falling into a routine can turn a person into an utter bore.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "One strategy to be a good conversationalist is to motivate your partner to tell their own stories.",
+          "a": "K"
+        },
+        {
+          "n": 45,
+          "s": "Interesting as it might appear, a made-up conversation will probably turn out to be dull.",
+          "a": "E"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "With obesity now affecting 29% of the population in England, and expected to rise to 35% by 2030, should we now recognise it as a disease? Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, meets the dictionary definition of disease, argues Professor John Wilding. He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice \"should help reduce the stigma(耻辱) and discrimination experienced by many people with obesity,\" he adds. Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition. He suggests that most people with obesity will eventually develop complications. \"But unless we accept that obesity is a disease, we are not going to be able to tackle it,\" he concludes. But Dr. Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end. If labelling obesity as a disease was harmless then it wouldn't really matter, he writes. But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic(内在的) motivation that is such an important enabler of change.\" What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical( 制药的) industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does Professor John Wilding argue about obesity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its impact on society is expected to rise."
+              },
+              {
+                "l": "B",
+                "t": "It is now too widespread to be neglected."
+              },
+              {
+                "l": "C",
+                "t": "It should be regarded as a genetic disease."
+              },
+              {
+                "l": "D",
+                "t": "Its dictionary definition should be updated."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What is the popular view of obesity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is difficult to define."
+              },
+              {
+                "l": "B",
+                "t": "It is a modern disease."
+              },
+              {
+                "l": "C",
+                "t": "It has much to do with one's genes."
+              },
+              {
+                "l": "D",
+                "t": "It results from a lack of self-control."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "Why are some people opposed to labelling obesity as a disease?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Obese people would not feel responsible to take any action."
+              },
+              {
+                "l": "B",
+                "t": "Obese people would not be able to afford the medical costs."
+              },
+              {
+                "l": "C",
+                "t": "Obese people would be overwhelmed with anxiety."
+              },
+              {
+                "l": "D",
+                "t": "Obese people would be discriminated against."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What does Dr. Richard Pile think of the dictionary definition of disease?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is of no use in understanding obesity."
+              },
+              {
+                "l": "B",
+                "t": "It is too inclusive and thus lacks clarity."
+              },
+              {
+                "l": "C",
+                "t": "It helps little to solve patients' problems."
+              },
+              {
+                "l": "D",
+                "t": "It matters little to the debate over obesity."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What is Dr. Richard Pile's concern about classifying obesity as a disease?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may affect obese people's quality of life."
+              },
+              {
+                "l": "B",
+                "t": "It may accelerate the spread of obesity."
+              },
+              {
+                "l": "C",
+                "t": "It may cause a shortage of doctors."
+              },
+              {
+                "l": "D",
+                "t": "It may do little good to patients."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. Research has found that having access to diverse teachers is beneficial for children. For the youngest learners, it means they are more likely to get exposed to different varieties of play and communication. It also helps them develop healthy ideas around gender. \"In our world and our society, we have very specific stereotypes(模式化形象) of gender roles,\" said Mindi Reich-Shapiro, an assistant professor in the teacher education department of the Borough of Manhattan Community College, and one of the authors of a recent study. \"It's important for children to see other possibilities and other paths they can take.\" Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. Some also reported that there were parents surprised or concerned that their child had a male teacher. And they had been advised by colleagues or other staff not to hug children. Reich-Shapiro and fellow researchers made several recommendations to increase male representation in the field. Low pay has long been acknowledged as a major issue in the early childhood field. Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. The report suggests paying all early childhood educators the way elementary school teachers are paid. Cities and programs should establish support groups for male early childhood educators and provide mentoring and professional development advice for male educators and their program leaders. The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn from the first paragraph about early childhood education in the U.S.?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It helps raise children's awareness of gender roles."
+              },
+              {
+                "l": "B",
+                "t": "It exposes children to different ways of interaction."
+              },
+              {
+                "l": "C",
+                "t": "It is negatively impacted by a lack of male teachers."
+              },
+              {
+                "l": "D",
+                "t": "It clearly aims to form children's identity through play."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The importance of broadening children's horizons."
+              },
+              {
+                "l": "B",
+                "t": "The responsibilities of fathers for children's growth."
+              },
+              {
+                "l": "C",
+                "t": "The urgency of creating teacher education programs."
+              },
+              {
+                "l": "D",
+                "t": "The role of teachers in motivating children to learn."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What do we learn about male teachers from their responses in the study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Some of them find it awkward when hugging children."
+              },
+              {
+                "l": "B",
+                "t": "They feel pressured to keep up with female colleagues."
+              },
+              {
+                "l": "C",
+                "t": "They find it hard to meet the expectations of kids' parents."
+              },
+              {
+                "l": "D",
+                "t": "Many of them feel prejudiced against socially and culturally."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What is needed for men to commit to early childhood education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Higher pay."
+              },
+              {
+                "l": "B",
+                "t": "Job security."
+              },
+              {
+                "l": "C",
+                "t": "Social recognition."
+              },
+              {
+                "l": "D",
+                "t": "Better working conditions."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What do the authors of the study recommend to bridge the gender gap in early childhood education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Recruiting young men who have a passion for educating young children."
+              },
+              {
+                "l": "B",
+                "t": "Taking measures to attract prospective male teachers to work in the field."
+              },
+              {
+                "l": "C",
+                "t": "Persuading prospective fathers to consider a change in their career."
+              },
+              {
+                "l": "D",
+                "t": "Providing male teachers with more opportunities for advancement."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "坎儿井(Karez)是新疆干旱地区的一种水利系统，由地下渠道将水井连接而成。该系统将春夏季节渗入 (seep into) 地下的大量雨水及积雪融水收集起来，通过山体的自然坡度引到地面，用于灌溉农田和满足人们的 日常用水需求。坎儿井减少了水在地面的蒸发 (evaporation), 对地表破坏很小，因而有效地保护了自然资源与 生态环境。坎儿井体现了我国人民与自然和谐共存的智慧，是对人类文明的一大贡献。",
+    "reference": "Karez is a water conservancy system in the arid areas of Xinjiang, formed by underground channels that connect a series of wells. The system collects large amounts of rainwater and meltwater that seep into the ground in spring and summer, and channels them to the surface through the natural slope of the mountains to irrigate farmland and meet people's daily water needs. Karez reduces the evaporation of water from the ground and causes little damage to the surface, and thus effectively protects natural resources and the ecological environment. Karez embodies the wisdom of the Chinese people in living in harmony with nature, and is a great contribution to human civilization."
+  }
+}

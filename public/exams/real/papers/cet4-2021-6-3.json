@@ -1,0 +1,1361 @@
+{
+  "id": "cet4-2021-6-3",
+  "level": "cet4",
+  "year": 2021,
+  "month": 6,
+  "set": 3,
+  "title": "2021年6月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions:For this part, you are allowed 30 minutes to write an essay titled “Doviolent video games lead to violence?”. The statement given below is for your reference. You should write at least 120 words but no more than 180 words . A growing body of research finds that violent video games can make kids act aggressively in their real world relationships, causing an increase in violence.",
+    "sample": "Do violent video games lead to violence? While a growing body of research suggests such games can make players more aggressive, I believe they do not directly cause real violence; rather, their influence depends on the individual and the surrounding environment.To begin with, exposure to violent scenes may indeed shape behavior. First, children who spend hours shooting and fighting on screen can gradually treat aggression as normal, and some may copy what they see when they lose their temper. However, most players clearly separate games from reality. A well-supervised teenager, for instance, can enjoy an action game after homework and still behave kindly toward classmates, because family guidance and self-control matter far more than the game itself.In conclusion, violent video games alone do not turn ordinary people into violent ones. What truly counts is proper parental supervision and healthy habits. Therefore, rather than simply blaming the games, parents and schools should teach children to play in moderation and to tell fantasy from real life."
+  },
+  "listening": {
+    "audio": "cet4-2021-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Enrol him in a Newcastle football club."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Send him to an after-school art class."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Forbid him to draw in his workbook."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Help him post his drawings online."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Contacted Joe to decorate its dining-room."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Hired Joe to paint all the walls of its buildings."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Renovated its kitchen and all the dining-rooms."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Asked Joe for permission to use his online drawings.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "And finally in tonight's news, a 9-year-old boy named Joe, told not to draw in class, wins a job decorating a restaurant with his drawings. Rather than shutting down the habit of drawing in his school's workbook, Joe's parents decided to encourage his creativity by sending their son to an after-school art class. His teacher recognized Joe's talent and posted all his work online, which led to something pretty wonderful.",
+                "zh": "最后是今晚的新闻，一名9岁男孩Joe在课堂上被禁止画画，却凭借自己的画作赢得了一份装饰餐厅的工作。Joe的父母没有制止他在学校作业本上画画的习惯，而是决定鼓励他的创造力，送他去参加课后艺术班。他的老师认可了Joe的天赋，并把他所有的作品发布到网上，这带来了一件非常美好的事情。"
+              },
+              {
+                "en": "A restaurant named \"Number 4\" in Newcastle contacted Joe's teacher to ask if the 9-year-old could come and decorate its dining-room with his drawings. Every day after school, Joe's dad drives him to the restaurant so he can put his ideas straight on the wall. Once he's all done, the work will remain there permanently.",
+                "zh": "Newcastle一家名为\"Number 4\"的餐厅联系了Joe的老师，询问这个9岁的孩子能否来用他的画作装饰餐厅的用餐区。每天放学后，Joe的爸爸开车送他去餐厅，这样他就可以把自己的创意直接画在墙上。一旦全部完成，这些作品将永久保留在那里。"
+              },
+              {
+                "en": "Joe's dad said Joe is a really talented little boy. He's excellent at school. He's great at football. But drawing is definitely what he is most passionate about.",
+                "zh": "Joe的爸爸说Joe是一个非常有天赋的小男孩。他在学校表现出色。他足球踢得很好。但画画绝对是他最热爱的事情。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Get her pet dog back."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Identify the suspect on the security video."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Beg for help from the police."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Post pictures of her pet dog on social media."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is suffering a great deal from the incident."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is helping the police with the investigation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is bringing the case to the local district court."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is offering a big reward to anyone who helps.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Kirsteen Marshall, a 34-year-old mum of one, posted a tearful video on social media Wednesday, begging for the safe return of her beloved pet dog. After combing through the security video outside a Gorbals shop, Kirsteen has now posted an image of a man suspected of stealing the dog.",
+                "zh": "34岁的单亲妈妈Kirsteen Marshall周三在社交媒体上发布了一段含泪视频,恳求安全归还她心爱的宠物狗。在仔细查看Gorbals一家商店外的监控视频后,Kirsteen现已发布了一名涉嫌偷狗男子的照片。"
+              },
+              {
+                "en": "The image appears to show a man carrying the dog in his arms. Kirsteen also believes the video obtained from the shop shows the dog being stolen by a man before driving off in a car which had been waiting nearby.",
+                "zh": "照片似乎显示一名男子抱着这只狗。Kirsteen还认为从商店获得的视频显示,这只狗被一名男子偷走,随后乘坐一辆在附近等候的汽车离开。"
+              },
+              {
+                "en": "The family is now offering a £5,000 reward for the safe return of the dog after launching a social media campaign to find the thief.",
+                "zh": "在发起社交媒体活动寻找窃贼后,这家人现在悬赏5000英镑以安全找回这只狗。"
+              },
+              {
+                "en": "The dog is six and a half years old and was last seen wearing a red collar.",
+                "zh": "这只狗六岁半,最后被看到时戴着红色项圈。"
+              },
+              {
+                "en": "Kirsteen said: \"We'll pay that to anyone who brings him home as long as they are not responsible for his disappearance.\"",
+                "zh": "Kirsteen说:\"只要他们不是对狗的失踪负有责任,我们会付钱给任何把它带回家的人。"
+              },
+              {
+                "en": "Police are investigating the incident.",
+                "zh": "警方正在调查此事。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Provide free meals to the local poor."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Help people connect with each other."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help eliminate class difference in his area."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Provide customers with first-class service."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It does not supervise its employees."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It donates regularly to a local charity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It does not use volunteers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is open round the clock."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will realise the importance of communication."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will come to the café even more frequently."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will care less about their own background."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will find they have something in common."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "London's Eggs & Bread café offers boiled eggs, toast, jam, and bacon, as well as tea, coffee and orange juice. But at the end of the meal, customers don't have to worry about the bill. Hungry customers can pay whatever amount they can afford to eat at the café, or nothing at all.",
+                "zh": "伦敦的Eggs & Bread咖啡馆提供煮鸡蛋、吐司、果酱和培根,以及茶、咖啡和橙汁。但在用餐结束时,顾客不必担心账单。饥饿的顾客可以支付他们能承受的任何金额在这家咖啡馆用餐,或者什么都不付。"
+              },
+              {
+                "en": "Owner Guy Wilson says his café aims to build community, rather than profits. He wants to provide a bridge for people to connect in an area that has been divided by class and wealth by providing affordable breakfasts.",
+                "zh": "店主Guy Wilson说,他的咖啡馆旨在建立社区,而非追求利润。他希望通过提供人们负担得起的早餐,为这个被阶级和财富分割的地区的人们搭建一座连接的桥梁。"
+              },
+              {
+                "en": "The café is open in the mornings every day of the year and has two members of staff or supervisors on shift every day. The café doesn't use volunteers, but pays its staff to ensure consistency in its service. It doesn't take donations and doesn't want to be seen as a charity.",
+                "zh": "这家咖啡馆全年每天早上营业,每天有两名员工或主管值班。咖啡馆不使用志愿者,而是支付员工工资以确保服务的一致性。它不接受捐赠,也不希望被视为慈善机构。"
+              },
+              {
+                "en": "Mr. Wilson says, when people start to know other people around them, they realize they're not that different. And whatever their financial background, or their educational background, most people will have something in common with each other. He says it's important that his café can offer his customers security and permanence.",
+                "zh": "Wilson先生说,当人们开始了解周围的其他人时,他们会意识到彼此并没有那么不同。无论他们的经济背景或教育背景如何,大多数人都会与彼此有一些共同点。他说,他的咖啡馆能够为顾客提供安全感和稳定性是很重要的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A surprise party for Paul's birthday."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Travel plans for the coming weekend."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Preparations for Saturday's get-together."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The new market on the other side of town."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It makes the hostess's job a whole lot easier."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It enables guests to walk around and chat freely."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It saves considerable time and labor."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It requires fewer tables and chairs."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It offers some big discounts."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is quite close to her house."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is more spacious and less crowded."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It sells local wines and soft drinks."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cook a dish for the party."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Arrive 10 minutes earlier."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Prepare a few opening remarks."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Bring his computer and speakers.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: So what time do you think we should have the party on Saturday?",
+                "zh": "M: 那你觉得我们星期六的聚会应该定在什么时候？"
+              },
+              {
+                "en": "W: How about inviting people to come at 6:00 p.m.? Then we'll have the afternoon to prepare food and drink, and stuff like that.",
+                "zh": "W: 邀请大家下午6点来怎么样？这样我们下午就有时间准备食物、饮料这些东西了。"
+              },
+              {
+                "en": "M: Yes, I was thinking that around 6:00 would be good too. What food should we provide?",
+                "zh": "M: 是的,我也在想6点左右比较好。我们应该准备什么食物？"
+              },
+              {
+                "en": "W: Well, I had thought about baking a cake, and some biscuits. And now I think we should prepare some sandwiches and snacks, and some other kinds of food, so that people can just help themselves, rather than getting everyone to sit down at the table to eat a meal. I think that's a bit too formal. It's better to let people walk around and talk to each other, or sit where they like.",
+                "zh": "W: 嗯,我本来想烤个蛋糕,还有一些饼干。现在我觉得我们应该准备一些三明治和零食,还有其他种类的食物,这样大家可以自己取用,而不是让所有人都坐在餐桌前吃正餐。我觉得那样有点太正式了。最好让大家随意走动聊天,或者坐在他们喜欢的地方。"
+              },
+              {
+                "en": "M: Yes, that sounds good. I'll go to the supermarket to get some drinks. I think I might try that big new supermarket on the other side of town and see what they have. I've not been there before. I think we should get some beer and wine, and some fruit juice, and other soft drinks. What do you think?",
+                "zh": "M: 好的,听起来不错。我去超市买些饮料。我想去镇子另一边那家新开的大超市看看他们有什么。我以前没去过那儿。我觉得我们应该买些啤酒和葡萄酒,还有一些果汁和其他软饮料。你觉得呢？"
+              },
+              {
+                "en": "W: Sounds great. I think those drinks will be enough. And I heard that the new supermarket offers some big discounts to attract customers. So going there should be a great idea. What should we do about music?",
+                "zh": "W: 听起来很好。我觉得这些饮料就够了。而且我听说那家新超市为了吸引顾客有很大的折扣。所以去那里应该是个好主意。音乐方面我们怎么办？"
+              },
+              {
+                "en": "M: Maybe we should ask Paul to bring his computer and speakers, so that we can play some music. He has a great collection of different stuff.",
+                "zh": "M: 也许我们应该让Paul带上他的电脑和音箱,这样我们就能放些音乐了。他收藏了很多不同类型的音乐。"
+              },
+              {
+                "en": "W: Yes. All right.",
+                "zh": "W: 好的。行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "For commuting to work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "For long-distance travel."
+                  },
+                  {
+                    "l": "C",
+                    "t": "For getting around in Miami."
+                  },
+                  {
+                    "l": "D",
+                    "t": "For convenience at weekends."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are reliable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are compact."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are spacious."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are easy to drive."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Buy a second-hand car."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Trust her own judgment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Seek advice from his friend."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Look around before deciding."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He sells new cars."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He can be trusted."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is starting a business."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is a successful car dealer."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: I'm thinking of buying a car. I wouldn't need to use it every day, but I think it would be very convenient to have one for the weekends.",
+                "zh": "W: 我在考虑买辆车。我不需要每天都用，但我觉得周末有辆车会很方便。"
+              },
+              {
+                "en": "M: That's exciting. Would this be your first car?",
+                "zh": "M: 那挺让人兴奋的。这会是你的第一辆车吗？"
+              },
+              {
+                "en": "W: No, I actually owned a car for a little while when I lived in Miami. You see in America, many cities don't have good public transport. So, most people need their own car to get around.",
+                "zh": "W: 不是，实际上我在Miami住的时候拥有过一辆车，时间不长。你知道在美国，很多城市的公共交通都不太好。所以大多数人需要自己的车来出行。"
+              },
+              {
+                "en": "M: I see. So have you got your mind set on a specific model?",
+                "zh": "M: 我明白了。那你心里有想好要哪个具体型号吗？"
+              },
+              {
+                "en": "W: No, not really. I've heard that German cars are very reliable, but I haven't decided on a specific model yet. I'd also like it to be small, so that it's easy to drive in the city.",
+                "zh": "W: 没有，还没定。我听说德国车很可靠，但我还没决定具体型号。我还想要辆小点的，这样在城里开起来方便。"
+              },
+              {
+                "en": "M: I have a friend who sells second-hand cars. In fact, I think his family owns the business. He's a really nice guy, and he knows a lot about cars. I could give you his phone number if you want, and you could call him and ask him questions.",
+                "zh": "M: 我有个朋友卖二手车。实际上，我觉得他家就是做这个生意的。他人特别好，而且很懂车。如果你愿意的话，我可以把他的电话号码给你，你可以打给他问问题。"
+              },
+              {
+                "en": "W: Hmm, that's nice of you, but I don't want to feel obliged to buy one of his cars.",
+                "zh": "W: 嗯，你人挺好的，但我不想觉得有义务必须买他的车。"
+              },
+              {
+                "en": "M: Oh, no, he's not like that. He's a good friend of mine, and he would never try to pressure you or cheat you.",
+                "zh": "M: 哦，不会的，他不是那样的人。他是我的好朋友，他绝不会试图向你施压或者骗你。"
+              },
+              {
+                "en": "W: Well, if you trust him, then, I guess it should be OK. To be honest, I could use some help in deciding what type of vehicle would best suit my needs. Speaking to an expert would be a good idea.",
+                "zh": "W: 嗯，如果你信任他的话，那我想应该没问题。说实话，在决定什么类型的车最适合我的需求这方面，我确实需要一些帮助。跟专家聊聊会是个好主意。"
+              },
+              {
+                "en": "M: Exactly. You have nothing to worry about. He's a lovely guy, and he'll be happy to help.",
+                "zh": "M: 没错。你完全不用担心。他人很好，会很乐意帮忙的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many escaped from farms and became wild."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were actually native to North America."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many got killed in the wild when searching for food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were hunted by Spanish and Russian explorers."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They often make sudden attacks on people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They break up nature's food supply chain."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They cause much environmental pollution."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They carry a great many diseases."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They lived peacefully with wild pigs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They ran out of food completely."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They fell victim to eagles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They reproduced quickly.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Pigs are not native to North America. They were first introduced to California by Spanish and Russian explorers and settlers many centuries ago. In the early times, pigs were allowed to wander freely in search of food. This practice also allowed many pigs to escape from farms and live in the wild, which became a problem.",
+                "zh": "猪并非北美洲的原生物种。它们最早是在许多世纪前由西班牙和俄罗斯的探险者及定居者引入加利福尼亚的。在早期,猪被允许自由游荡觅食。这种做法也使许多猪从农场逃脱并在野外生活,这成为了一个问题。"
+              },
+              {
+                "en": "In fact, as one of the most damaging invasive species on the continent, wild pigs cause millions of dollars in crop damage yearly. They also harbor dozens of diseases that threaten both humans and farm animals. Forest patches with wild pigs have been found to have considerably reduced plant and animal diversity. In addition to either eating other animals or their food supply, wild pigs damage native habitats by rooting up grasses and rubbing on trees. Their activities may also create opportunities for invasive plants to colonize these areas. Wild pigs will eat almost anything containing calories. Mice, deer, birds, snakes and frogs are among their victims. They can also harm other wild species through indirect competition, rather than eating them or shrinking their food supply. On one particular United States island, wild pigs themselves became an attractive food source for a species of mainland eagle. The eagles began breeding on the island, and also feeding on a species of native fox. The foxes were almost wiped out completely.",
+                "zh": "事实上,作为该大陆上破坏性最强的入侵物种之一,野猪每年造成数百万美元的作物损失。它们还携带数十种威胁人类和家畜的疾病。有野猪出没的林地被发现植物和动物多样性大幅减少。除了吃掉其他动物或它们的食物来源外,野猪还通过拱掘草地和摩擦树木破坏原生栖息地。它们的活动也可能为入侵植物在这些地区定殖创造机会。野猪几乎会吃任何含有热量的东西。老鼠、鹿、鸟类、蛇和青蛙都是它们的受害者。它们还可以通过间接竞争而非吃掉其他野生物种或减少其食物供应来伤害它们。在美国的一个特定岛屿上,野猪本身成为了一种大陆鹰的诱人食物来源。这些鹰开始在岛上繁殖,并且也以一种本地狐狸为食。这些狐狸几乎被完全消灭。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Taste coffee while in outer space."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Roast coffee beans in outer space."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Develop a new strain of coffee bean."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Use a pressurised tank to brew coffee."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can easily get burned."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They float around in the oven."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have to be heated to 360℃."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They receive evenly distributed heat."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They charged a high price for their space-roasted coffee beans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They set up a branch in Dubai to manufacture coffee roasters."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They collaborated on building the first space coffee machine."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They abandoned the attempt to roast coffee beans in space.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A pair of entrepreneurs are planning to build and launch a spacecraft that would carry and roast coffee beans in outer space.",
+                "zh": "一对创业者正计划建造并发射一艘航天器，用于在外太空中携带并烘焙咖啡豆。"
+              },
+              {
+                "en": "The craft will use the heat of re-entry to roast coffee beans as they float inside it in a pressurised tank. The effect would be to roast the beans all over, and produce perfect coffee. The businessmen say that on Earth, beans can easily break apart and get burned in the roaster. But if gravity is removed, the beans float around in a heated oven, receiving 360 degrees of evenly distributed heat and roast to near perfection.",
+                "zh": "该航天器将利用再入大气层时产生的热量来烘焙咖啡豆,豆子会在一个加压舱内漂浮。这种方式能够全方位烘焙咖啡豆,制作出完美的咖啡。这两位商人表示,在地球上,咖啡豆在烘焙机中很容易破碎和烧焦。但如果去除重力,咖啡豆就会在加热的烤箱中四处漂浮,接受360度均匀分布的热量,烘焙至近乎完美的状态。"
+              },
+              {
+                "en": "The spacecraft will reach a height of around 200 km. The beans would then be roasted in the heat generated by the craft's 20-minute re-entry into Earth's atmosphere. Temperatures in the pressurised tank will be kept to around 200℃.",
+                "zh": "航天器将到达约200公里的高度。随后咖啡豆将在航天器重返地球大气层的20分钟过程中,利用产生的热量进行烘焙。加压舱内的温度将保持在200℃左右。"
+              },
+              {
+                "en": "Once back on Earth, the planet's first space-roasted beans would be used to make coffee that would be sold for the first time in Dubai. This is where the pair's company is based. It is not clear how much they would charge for a cup.",
+                "zh": "返回地球后,这些地球上首批太空烘焙的咖啡豆将被用来制作咖啡,并首次在Dubai销售。这正是这对创业者公司的所在地。目前尚不清楚他们会对一杯咖啡收取多少费用。"
+              },
+              {
+                "en": "Surprisingly, the Space Roaster concept—should it go ahead—will not be the first attempt to take coffee into space. In 2015, two Italian companies collaborated on the construction of a similar type of spacecraft, which was the first coffee machine designed for use in space.",
+                "zh": "令人惊讶的是,Space Roaster概念——如果能够实施的话——将不是首次尝试将咖啡带入太空。2015年,两家意大利公司合作建造了一种类似的航天器,那是首台为太空使用而设计的咖啡机。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the best time for sightseeing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A race passes through it annually."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They come to clean the Iditarod Trail."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is when the villagers choose a queen."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its children's baking skills."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its unique winter scenery."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its tasty fruit pies."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its great food variety."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The contestants."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The entire village."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Jan Newton and her friends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People from the state of Idaho."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She owned a restaurant in Idaho."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She married her husband in 1972."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She went to Alaska to compete in a race."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She helped the village to become famous."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In cold and snowy Alaska, there's a village called Takotna. It has a population of a mere 49 souls. Each March, this tiny village swells up in numbers, because it is located in the middle of a race that takes place every year. It is a seven-day race, called the Iditarod Trail, and participants stop at Takotna for their obligatory 24-hour rest. Lucky for them, Takotna is famous for its delicious fruit pies.",
+                "zh": "在寒冷多雪的阿拉斯加，有一个名叫Takotna的村庄。它的人口仅有49人。每年三月，这个小村庄的人数会激增，因为它位于一年一度举行的比赛路线中途。这是一场为期七天的比赛，名为Iditarod Trail，参赛者会在Takotna停留进行规定的24小时休息。对他们来说幸运的是，Takotna以其美味的水果派而闻名。"
+              },
+              {
+                "en": "Weeks before the competitors arrive, the residents of Takotna start preparing for what is without question their biggest event of the year. The whole village chips in to help, including the kids, who end up developing their baking skills at an early age. The exhausted and hungry racers are greeted with delightful pies of all kinds, such as apple, orange, lemon or banana. They consume the pies as stomach warming race fuel. The toughness of the race allows for racers to eat pretty much whatever they want. The more calories, the better.",
+                "zh": "在参赛者到来前几周，Takotna的居民就开始为这场毫无疑问是他们全年最盛大的活动做准备。全村人都参与帮忙，包括孩子们，他们因此在很小的时候就开始培养烘焙技能。筋疲力尽且饥肠辘辘的参赛者会受到各种美味派的款待，比如苹果派、橙子派、柠檬派或香蕉派。他们将这些派作为暖胃的比赛燃料来食用。比赛的艰苦程度使得参赛者几乎可以想吃什么就吃什么。卡路里越高越好。"
+              },
+              {
+                "en": "Takotna has gained a reputation for its dessert-based hospitality since the 1970s. It started with one person, Jan Newton. Jan moved from Idaho with her husband in 1972 and opened a restaurant. Her rich and filling-fruit pies quickly got the racers' attention, and the village gained some fame as a result. Proud residents then started to refer to Jan as Queen of Takotna.",
+                "zh": "自20世纪70年代以来，Takotna因其以甜点为特色的热情好客而声名远扬。这一切始于一个人，Jan Newton。Jan和她的丈夫在1972年从Idaho搬来，并开了一家餐厅。她制作的香浓饱腹的水果派很快引起了参赛者的注意，村庄也因此获得了一些名气。自豪的居民随后开始称Jan为Takotna女王。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2021-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Nowadays you can't buy anything without being asked to provide a rating of a company's performance on a five-star scale. I've been asked to rate my \"store"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "\" on the EFTPOS terminal before I can pay. Even the most"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\" Online purchases are"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "followed up by a customer satisfaction survey. Companies are so"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "for a hit of stars that if you delete the survey the company sends you another one. We're"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "to rate our apps when we've barely had a chance to use them. One online course provider I use asks you what you think of the course after you've only completed"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "2 per cent of it. Economist Jason Murphy says that companies use customer satisfaction ratings because a"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "display of star feedback has become the nuclear power source of the modern economy. However, you can't help but"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "if these companies are basing their business on fabrications(捏造的东 西). I"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "that with online surveys I just click the"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "that's closest to my mouse cursor(光标) to get the damn thing off my screen. Often the star rating I give has far more to do with the kind of day I'm having than the purchase I just made."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "announce"
+        },
+        {
+          "l": "B",
+          "w": "commonplace"
+        },
+        {
+          "l": "C",
+          "w": "confess"
+        },
+        {
+          "l": "D",
+          "w": "desperate"
+        },
+        {
+          "l": "E",
+          "w": "experience"
+        },
+        {
+          "l": "F",
+          "w": "fascinated"
+        },
+        {
+          "l": "G",
+          "w": "option"
+        },
+        {
+          "l": "H",
+          "w": "prompted"
+        },
+        {
+          "l": "I",
+          "w": "roughly"
+        },
+        {
+          "l": "J",
+          "w": "routinely"
+        },
+        {
+          "l": "K",
+          "w": "shining"
+        },
+        {
+          "l": "L",
+          "w": "showering"
+        },
+        {
+          "l": "M",
+          "w": "variety"
+        },
+        {
+          "l": "N",
+          "w": "voyage"
+        },
+        {
+          "l": "O",
+          "w": "wonder"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "E"
+        },
+        {
+          "n": 27,
+          "a": "B"
+        },
+        {
+          "n": 28,
+          "a": "J"
+        },
+        {
+          "n": 29,
+          "a": "D"
+        },
+        {
+          "n": 30,
+          "a": "H"
+        },
+        {
+          "n": 31,
+          "a": "I"
+        },
+        {
+          "n": 32,
+          "a": "K"
+        },
+        {
+          "n": 33,
+          "a": "O"
+        },
+        {
+          "n": 34,
+          "a": "C"
+        },
+        {
+          "n": 35,
+          "a": "G"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Science of setbacks: How failure can improve career prospects",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "How do early career setbacks affect our long-term success? Failures can help us learn and overcome our fears. But disasters can still wound us. They can screw us up and set us back. Wouldn't it be nice if there was genuine, scientifically documented truth to the expression \"what doesn't kill you makes you stronger\"?"
+        },
+        {
+          "l": "B",
+          "t": "One way social scientists have probed the effects of career setbacks is to look at scientists of very similar qualifications. These scientists, for reasons that are mostly arbitrary, either just missed getting a research grant or just barely made it. In social sciences, this is known as examining \"near misses\" and \"narrow wins\" in areas where merit is subjective. That allows researchers to measure only the effects of being chosen or not. Studies in this area have found conflicting results. In the competitive game of biomedical science, research has been done on scientists who narrowly lost or won grant money. It suggests that narrow winners become even bigger winners down the line. In other words, the rich get richer."
+        },
+        {
+          "l": "C",
+          "t": "A 2018 study published in the Proceedings of the National Academy of Sciences, for example, followed researchers in the Netherlands. Researchers concluded that those who just barely qualified for a grant were able to get twice as much money within the next eight years as those who just missed out. And the narrow winners were 50 percent more likely to be given a professorship."
+        },
+        {
+          "l": "D",
+          "t": "Others in the US have found similar effects with National Institutes of Health early-career fellowships launching narrow winners far ahead of close losers. The phenomenon is often referred to as the Matthew effect, inspired by the Bible's wisdom that to those who have, more will be given. There's a good explanation for the phenomenon in the book The Formula: The Universal Laws of Success by Albert Laszlo Barabasi. According to Barabasi, it's easier and less risky for those in positions of power to choose to hand awards and funding to those who've already been so recognized."
+        },
+        {
+          "l": "E",
+          "t": "This is bad news for the losers. Small early career setbacks seem to have a disproportionate effect down the line. What didn't kill them made them weaker. But other studies using the same technique have shown there's sometimes no penalty to a near miss. Students who just miss getting into top high schools or universities do just as well later in life as those who just manage to get accepted. In this case, what didn't kill them simply didn't matter. So is there any evidence that setbacks might actually improve our career prospects? There is now."
+        },
+        {
+          "l": "F",
+          "t": "In a study published in Nature Communications, Northwestern University sociologist Dashun Wang tracked more than 1,100 scientists who were on the border between getting a grant and missing out between 1990 and 2005. He followed various measures of performance over the next decade. These included how many papers they authored and how influential those papers were, as measured by the number of subsequent citations. As expected, there was a much higher rate of attrition(减员) among scientists who didn't get grants. But among those who stayed on, the close losers performed even better than the narrow winners. To make sure this wasn't by chance, Wang conducted additional tests using different performance measures. He examined how many times people were first authors on influential studies, and the like."
+        },
+        {
+          "l": "G",
+          "t": "One straightforward reason close losers might outperform narrow winners is that the two groups have comparable ability. In Wang's study, he selected the most determined, passionate scientists from the loser group and culled(剔除) what he deemed the weakest members of the winner group. Yet the persevering losers still came out on top. He thinks that being a close loser might give people a psychological boost, or the proverbial kick in the pants."
+        },
+        {
+          "l": "H",
+          "t": "Utrecht University sociologist Arnout van de Rijt was the lead author on the 2018 paper showing the rich get richer. He said the new finding is apparently reasonable and worth some attention. His own work showed that although the narrow winners did get much more money in the near future, the actual performance of the close losers was just as good."
+        },
+        {
+          "l": "I",
+          "t": "He said the people who should be paying regard to the Wang paper are the funding agents who distribute government grant money. After all, by continuing to pile riches on the narrow winners, the taxpayers are not getting the maximum bang for their buck if the close losers are performing just as well or even better. There's a huge amount of time and effort that goes into the process of selecting who gets grants, he said, and the latest research shows that the scientific establishment is not very good at distributing money. \"Maybe we should spend less money trying to figure out who is better than who,\" he said, suggesting that some more equal dividing up of money might be more productive and more efficient. Van de Rijt said he's not convinced that losing out gives people a psychological boost. It may yet be a selection effect. Even though Wang tried to account for this by culling the weakest winners, it's impossible to know which of the winners would have quit had they found themselves on the losing side."
+        },
+        {
+          "l": "J",
+          "t": "For his part, Wang said that in his own experience, losing did light a motivating fire. He recalled a recent paper he submitted to a journal, which accepted it only to request extensive editing, and then reversed course and rejected it. He submitted the unedited version to a more respected journal and got accepted."
+        },
+        {
+          "l": "K",
+          "t": "In sports and many areas of life, we think of failures as evidence of something we could have done better. We regard these disappointments as a fate we could have avoided with more careful preparation, different training, a better strategy, or more focus. And there it makes sense that failures show us the road to success. These papers deal with a kind of failure people have little control over—rejection. Others determine who wins and who loses. But at the very least, the research is starting to show that early setbacks don't have to be fatal. They might even make us better at our jobs. Getting paid like a winner, though? That's a different matter."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Being a close loser could greatly motivate one to persevere in their research.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "Grant awarders tend to favor researchers already recognized in their respective fields.",
+          "a": "D"
+        },
+        {
+          "n": 38,
+          "s": "Suffering early setbacks might help people improve their job performance.",
+          "a": "K"
+        },
+        {
+          "n": 39,
+          "s": "Research by social scientists on the effects of career setbacks has produced contradictory findings.",
+          "a": "B"
+        },
+        {
+          "n": 40,
+          "s": "It is not in the best interest of taxpayers to keep giving money to narrow winners.",
+          "a": "I"
+        },
+        {
+          "n": 41,
+          "s": "Scientists who persisted in research without receiving a grant made greater achievements than those who got one with luck, as suggested in one study.",
+          "a": "F"
+        },
+        {
+          "n": 42,
+          "s": "A research paper rejected by one journal may get accepted by another.",
+          "a": "J"
+        },
+        {
+          "n": 43,
+          "s": "According to one recent study, narrow winners of research grants had better chances to be promoted to professors.",
+          "a": "C"
+        },
+        {
+          "n": 44,
+          "s": "One researcher suggests it might be more fruitful to distribute grants on a relatively equal basis.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "Minor setbacks in their early career may have a strong negative effect on the career of close losers.",
+          "a": "E"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Boredom has become trendy. Studies point to how boredom is good for creativity and innovation, as well as mental health. It is found that people are more creative following the completion of a tedious task. When people are bored, they have an increase in \"associative thought\"—the process of making new connections between ideas, which is linked to innovative thinking. These studies are impressive, but in reality, the benefits of boredom may be related to having time to clear your mind, be quiet, or daydream. In our stimulation-rich world, it seems unrealistic that boredom could occur at all. Yet, there are valid reasons boredom may feel so painful. As it turns out, boredom might signal the fact that you have a need that isn't being met. Our always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging. Feeling bored may signal the desire for a greater sense of community and the feeling that you fit in with others around you. So take the step of joining an organization to build face-to-face relationships. You'll find depth that you won't get from your screen no matter how many likes you get on your post. Similar to the need for belonging, bored people often report that they feel a limited sense of meaning. It's a fundamental human need to have a larger purpose and to feel like we're part of something bigger than ourselves. When people are bored, they're more likely to feel less meaning in their lives. If you want to reduce boredom and increase your sense of meaning, seek work where you can make a unique contribution, or find a cause you can support with your time and talent. If your definition of boredom is being quiet, mindful, and reflective, keep it up. But if you're struggling with real boredom and the emptiness it provokes, consider whether you might seek new connections and more significant challenges. These are the things that will genuinely relieve boredom and make you more effective in the process.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What have studies found about boredom?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It facilitates innovative thinking."
+              },
+              {
+                "l": "B",
+                "t": "It is a result of doing boring tasks."
+              },
+              {
+                "l": "C",
+                "t": "It helps people connect with others."
+              },
+              {
+                "l": "D",
+                "t": "It does harm to one's mental health."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the author say boredom might indicate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A need to be left alone."
+              },
+              {
+                "l": "B",
+                "t": "A desire to be fulfilled."
+              },
+              {
+                "l": "C",
+                "t": "A conflict to be resolved."
+              },
+              {
+                "l": "D",
+                "t": "A feeling to be validated."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What do we learn about social media from the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may be an obstacle to expanding one's connections."
+              },
+              {
+                "l": "B",
+                "t": "It may get in the way of enhancing one's social status."
+              },
+              {
+                "l": "C",
+                "t": "It may prevent people from developing a genuine sense of community."
+              },
+              {
+                "l": "D",
+                "t": "It may make people feel that they ought to fit in with the outside world."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What does the author suggest people do to get rid of boredom?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Count the likes they get on their posts."
+              },
+              {
+                "l": "B",
+                "t": "Reflect on how they relate to others."
+              },
+              {
+                "l": "C",
+                "t": "Engage in real-life interactions."
+              },
+              {
+                "l": "D",
+                "t": "Participate in online discussions."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What should people do to enhance their sense of meaning?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Try to do something original."
+              },
+              {
+                "l": "B",
+                "t": "Confront significant challenges."
+              },
+              {
+                "l": "C",
+                "t": "Define boredom in their unique way."
+              },
+              {
+                "l": "D",
+                "t": "Devote themselves to a worthy cause."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Can you remember what you ate yesterday? If asked, most people will be able to give a vague description of their main meals: breakfast, lunch, dinner. But can you be sure you've noted every snack bar in your car, or every handful of nuts at your desk? Most people will have a feeling that they've missed something out. We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades. We found reliable evidence that people were drastically under-reporting what they ate. Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim. Why is this happening? We can point to at least three potential causes. One is the rise in obesity levels itself. Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember. Another cause is that the proportion of people who are trying to lose weight has been increasing over time. People who want to lose weight are more likely to under-report their eating—regardless of whether they are overweight or not. This may be driven partly by self-deception or \"wishful thinking\". The final potential cause is an increase in snacking and eating out over recent decades—both in terms of how often they happen and how much they contribute to our overall energy intake. Again, there is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys. So, what's the message conveyed? For statistics, we should invest in more accurate measurement options. For policy, we need to focus on options that make it easy for people to eat fewer calories. If people do not know how much they are eating, it can be really hard for them to stick to a diet. Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. If this works, it won't matter if they can't remember what they ate yesterday.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What did the author suspect back in 2016?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Calorie consumption had fallen drastically over the decades."
+              },
+              {
+                "l": "B",
+                "t": "Most people surveyed were reluctant to reveal what they ate."
+              },
+              {
+                "l": "C",
+                "t": "The national statistics did not reflect the actual calorie consumption."
+              },
+              {
+                "l": "D",
+                "t": "Most people did not include snacks when reporting their calorie intake."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What has the Office for National Statistics verified?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People's calorie intake was far from accurately reported."
+              },
+              {
+                "l": "B",
+                "t": "The missing out of main meals leads to the habit of snacking."
+              },
+              {
+                "l": "C",
+                "t": "The nation's obesity level has much to do with calorie intake."
+              },
+              {
+                "l": "D",
+                "t": "Calorie consumption is linked to the amount of snacks one eats."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What do we learn about obese people from the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They usually keep their eating habits a secret."
+              },
+              {
+                "l": "B",
+                "t": "They overlook the potential causes of obesity."
+              },
+              {
+                "l": "C",
+                "t": "They cannot help eating more than they should."
+              },
+              {
+                "l": "D",
+                "t": "They have difficulty recalling what they have eaten."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What often goes unnoticed in surveys on food consumption?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The growing trend of eating out."
+              },
+              {
+                "l": "B",
+                "t": "The potential causes of snacking."
+              },
+              {
+                "l": "C",
+                "t": "People's home energy consumption."
+              },
+              {
+                "l": "D",
+                "t": "People's changing diet over the years."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does the author suggest policymakers do about obesity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Remind people to cut down on snacking."
+              },
+              {
+                "l": "B",
+                "t": "Make sure people eat non-fattening food."
+              },
+              {
+                "l": "C",
+                "t": "Ensure people don't miss their main meals."
+              },
+              {
+                "l": "D",
+                "t": "See that people don't stick to the same diet."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "龙井(Longjing)是一种绿茶，主要产自中国东部沿海的浙江省。龙井茶独特的香味和口感为其赢得了\"中国 名茶\"的称号，在中国深受大众的欢迎,在海外饮用的人也越来越多。龙井茶通常手工制作，其价格可能极其昂 贵,也可能比较便宜，这取决于茶的生长地、采摘时间和制作工艺。龙井茶富含维生素C和其他多种有益健康的 元素。经常喝龙井茶有助于减轻疲劳、延缓衰老。",
+    "reference": "Longjing is a kind of green tea produced mainly in Zhejiang Province on the eastern coast of China. Its unique aroma and taste have earned Longjing the title of \"China Famous Tea\", and it is very popular among the public in China, with an increasing number of people drinking it abroad as well. Longjing tea is usually made by hand, and its price can be extremely high or relatively low, depending on where it grows, when it is picked, and how it is made. Longjing tea is rich in vitamin C and various other elements beneficial to health. Drinking Longjing tea regularly helps relieve fatigue and delay aging."
+  }
+}

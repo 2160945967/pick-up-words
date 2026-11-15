@@ -1,0 +1,1405 @@
+{
+  "id": "cet6-2020-7-1",
+  "level": "cet6",
+  "year": 2020,
+  "month": 7,
+  "set": 1,
+  "title": "2020年7月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the saying \" The best preparation for tomorrow is doing your best today. \" You should write at least 150 words but no more than 200 words.",
+    "sample": "The saying \"The best preparation for tomorrow is doing your best today\" reminds us of a simple yet profound truth: our future is not built by anxious planning alone, but by the concrete effort we invest at this very moment. In my view, giving our best today is precisely how we lay a solid foundation for a brighter tomorrow.This idea holds true in almost every field. Take exam preparation as an example. A student who reviews a little every day, solving problems and memorizing words, gradually accumulates the knowledge that pays off on the test day. In contrast, those who indulge in procrastination and cram at the last minute often panic and fail. The same logic applies to career growth: the skills we sharpen through daily practice quietly prepare us for opportunities we cannot yet foresee.Therefore, instead of worrying about an uncertain future, we should seize the day and focus on what we can control right now. If each of us does our best today, tomorrow will take care of itself. The most reliable preparation is always the honest effort we make in the present."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is a great athlete."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is a famed speaker."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is a famous scientist."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is a noted inventor."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How knowledge of human biochemistry has been evolving."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How nutrition helps athletes' performance in competitions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How scientific training enables athletes to set new records."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How technology has helped athletes to scale new heights."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Our physical structures."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Our scientific knowledge."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Our biochemical process."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Our concept of nutrition."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It may increase the expenses of sports competitions."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It may lead to athletes' over-reliance on equipment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It may give an unfair advantage to some athletes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It may change the nature of sports competitions.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Tonight, we have a very special guest. Mrs Anna Sanchez is a three-time Olympic champion and author of the new book To the Edge. Mrs Sanchez, thank you for joining us.",
+                "zh": "M：今晚，我们请到了一位非常特别的嘉宾。安娜·桑切斯夫人是三届奥运冠军，也是新书《逼近极限》的作者。桑切斯夫人，谢谢您参加我们的节目。"
+              },
+              {
+                "en": "W: Thank you for having me.",
+                "zh": "W：谢谢您的邀请。"
+              },
+              {
+                "en": "M: Let's start with your book. What does the title To the Edge mean? What are you referring to?",
+                "zh": "M：我们先从您的书谈起吧。书名《逼近极限》是什么意思？您指的是什么？"
+              },
+              {
+                "en": "W: The book is about how science and technology have helped push humans to the edge of their physical abilities. I argue that in the past 20 years we've had the best athletes the world has ever seen.",
+                "zh": "W：这本书讲的是科学和技术如何帮助人类将身体能力推向极限。我认为，在过去20年里，我们拥有了全世界有史以来最优秀的运动员。"
+              },
+              {
+                "en": "M: But is this a fair comparison? How do you know how, say, a football player from 50 years ago would compare to one today?",
+                "zh": "M：但这种比较公平吗？比如说，您怎么知道50年前的足球运动员和今天的足球运动员相比会是什么情况？"
+              },
+              {
+                "en": "W: Well, you are right. That comparison would be perhaps impossible to make. But the point is more about our knowledge today of human biochemistry, nutrition and mechanics. I believe that while our bodies have not changed in thousands of years, what has changed is the scientific knowledge. This has allowed athletes to push the limits of what was previously thought possible.",
+                "zh": "W：嗯，您说得对。这种比较也许根本无法进行。但重点更多在于我们如今对人体生物化学、营养学和力学的了解。我认为，虽然我们的身体几千年来并没有改变，但发生变化的是科学知识。这使运动员能够突破过去被认为不可能实现的极限。"
+              },
+              {
+                "en": "M: That's interesting. Please tell us more about these perceived limits.",
+                "zh": "M：这很有意思。请再多给我们讲讲这些所谓的极限吧。"
+              },
+              {
+                "en": "W: The world has seen sports records being broken that could only be broken with the aid of technology, whether this be the speed of a tennis serve or the fastest time in a 100-meter dash or 200-meter swimming race.",
+                "zh": "W：世界上已经出现了一些被打破的体育纪录，而这些纪录只有借助技术才能被打破，无论是网球发球的速度，还是100米短跑或200米游泳的最快成绩。"
+              },
+              {
+                "en": "M: Is there any concern that technology is giving some athletes an unfair advantage over others?",
+                "zh": "M：有没有人担心技术会让一些运动员相较于其他人获得不公平的优势？"
+              },
+              {
+                "en": "W: That is an interesting question and one that has to be considered very carefully. Skis, for example, went from being made of wood to a metal alloy, which allows for better control and faster speed. There is no stopping technological progress. But, as I said, each situation should be considered carefully on a case-by-case basis.",
+                "zh": "W：这是一个有意思的问题，也是必须非常慎重考虑的问题。比如，滑雪板从木制变成了金属合金制，这使运动员能够更好地控制滑雪板并获得更快的速度。技术进步是无法阻挡的。但是，正如我所说，每种情况都应该具体问题具体分析。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Experience."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Flexibility."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Family background."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Business connections."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Buying directly from factories."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Shipping goods in bulk by sea."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Having partners in many parts of the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Using the same container back and forth."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Warehouses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Factories."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Investors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Retailers."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Trendy style."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Unique design."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lower import duties."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Lower shipping costs."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: I've worked in international trade all my life. My father did so too before me. So I guess you could say it runs in the family.",
+                "zh": "W: 我一辈子都在从事国际贸易。在我之前我父亲也是做这行的。所以我想可以说这是我们家族的传统吧。"
+              },
+              {
+                "en": "M: What products have you worked with?",
+                "zh": "M: 你都做过哪些产品？"
+              },
+              {
+                "en": "W: All sorts, really. I've imported textiles, machinery, toys, solar panels, all kinds of things over the years. Trends and demand come and go. So one needs to be very flexible to succeed in this industry.",
+                "zh": "W: 真的什么都有。这些年来我进口过纺织品、机械、玩具、太阳能电池板，各种各样的东西。趋势和需求总是随时间变化。在这个行业要取得成功，人必须非常灵活才行。"
+              },
+              {
+                "en": "M: I see. What goods are you trading now?",
+                "zh": "M: 我明白了。那你现在在做哪些商品的贸易？"
+              },
+              {
+                "en": "W: I now import furniture from China into Italy and foods from Italy into China. I even use the same container. It's a very efficient way of conducting trade.",
+                "zh": "W: 我现在把家具从中国进口到意大利，把食品从意大利进口到中国。我甚至使用同一个集装箱。这是做贸易非常高效的一种方式。"
+              },
+              {
+                "en": "M: The same container? You mean you own a 40-foot cargo container?",
+                "zh": "M: 同一个集装箱？你是说你拥有一个40英尺的货运集装箱？"
+              },
+              {
+                "en": "W: Yeah. that's right. I have a warehouse in Genova, Italy and another in Shanghai. I source mid-century modern furniture from different factories in China. It's very good value for money. I collect it all in my warehouse and then dispatch it to my other warehouse in Italy. Over there I do the same, but with Italian foods instead of furniture, things like pasta, cheese, wine, chocolates. And I send all that to my warehouse in China in the same freight container I use for the furniture.",
+                "zh": "W: 是的，没错。我在意大利热那亚有一个仓库，在上海也有一个。我从中国不同的工厂采购20世纪中期现代风格家具。性价比非常高。我把它们全都在我的仓库集中起来，然后再发往我位于意大利的另一个仓库。在当地我也做同样的事，只不过换成了意大利食品而不是家具，像意大利面、奶酪、葡萄酒、巧克力之类的。然后我用装家具的同一个货运集装箱，把所有这些发往我在中国的仓库。"
+              },
+              {
+                "en": "M: So I presume you sell both lines of products wholesale in each respective country.",
+                "zh": "M: 这么说，我推测你在各自的国家都是批发销售这两条产品线了。"
+              },
+              {
+                "en": "W: Of course. I possess a network of clients and partners in both countries. That's the main benefit of having done this for so long. I've made great business contacts over time.",
+                "zh": "W: 当然了。我在两个国家都有客户和合作伙伴网络。这就是干这行这么久的主要好处。随着时间的推移，我积累了极好的商业人脉。"
+              },
+              {
+                "en": "M: How many times do you ship?",
+                "zh": "M: 你运货运多少次？"
+              },
+              {
+                "en": "W: I did 12 shipments last year, 18 this year, and I hope to grow to around 25 next year. That's both ways, there and back again. Demand for authentic Italian food in China is growing rapidly. And similarly, sales of affordable, yet stylish wooden furniture are also increasing in Italy. Furniture is marginally more profitable, mostly because it enjoys lower customs duties.",
+                "zh": "W: 我去年运了12趟，今年18趟，我希望明年能增加到25趟左右。这是双向的，去一趟再回一趟。中国对正宗意大利食品的需求正在快速增长。同样地，在意大利，实惠又时尚的木质家具销量也在增加。家具的利润要稍微高一点，主要是因为它享受更低的关税。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It helps employees to reduce their stress."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It prevents employees from feeling bored."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It strengthens harmony among employees."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It helps employees to view things positively."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Weekends are conducive to reducing stress."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Humor is vital to interpersonal relationships."
+                  },
+                  {
+                    "l": "C",
+                    "t": "All workers experience some emotional stress."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Humor can help workers excel at routine tasks."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Smash the toys to release their bottled-up resentments."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Take the boss doll apart as long as they reassemble it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Design and install stress-reducing gadgets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Strike at the boss doll as hard as they like.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "\"Too many people view their jobs as a five-day prison from which they are paroled every Friday,\" says Joel Goodman, founder of the Humour Project, a humour consulting group in Saratoga Springs, New York. Humour unlocks the office prison because it lets adults bring some of their childlike spirit to the job.",
+                "zh": "“太多人把自己的工作看作一座为期五天的监狱，每周五才获准假释出来。”纽约州萨拉托加斯普林斯市 Humour Project（幽默项目）创始人乔尔·古德曼说。幽默能够打开办公室这座监狱，因为它让成年人得以把一些孩子般的天性带到工作中来。"
+              },
+              {
+                "en": "According to Howard Pollio, professor of psychology at the University of Tennessee, Knoxville, an office with humour breaks is an office with satisfied and productive employees. Pollio conducted a study that proved humour can help workers excel at routine production tasks. Employees perform better when they have fun.",
+                "zh": "据田纳西大学诺克斯维尔分校心理学教授霍华德·波利奥说，有幽默休息时间的办公室里，员工会更满意，工作效率也更高。波利奥进行了一项研究，证明幽默能够帮助员工出色地完成常规生产任务。当员工感到快乐时，他们的表现会更好。"
+              },
+              {
+                "en": "In large corporations with a hierarchy of power, there is often no outlet for stress. \"Every company needs underground ways of poking fun at the organization,\" says Lynn N. Mark, a speaker on workplace humour for St. Mary's Health Centre in St. Louis.",
+                "zh": "在拥有权力等级制度的大型企业中，压力往往没有宣泄的出口。“每家公司都需要一些地下方式来拿组织开玩笑，”圣路易斯 St. Mary's Health Centre（圣玛丽健康中心）职场幽默演讲人林恩·N·马克说。"
+              },
+              {
+                "en": "Kodak's Rochester, New York branch discovered a way for its 20,000 employees to uncork their bottled-up resentments. Their 1,000-square-foot Humour Room features a toy store. Among the room's many stress-reducing gadgets, the main attraction is a boss doll with detachable arms and legs. Employees can take the doll apart as long as they put its arms and legs back in place.",
+                "zh": "纽约州罗切斯特市的柯达分公司找到了一种方法，让其两万名员工发泄积压已久的怨气。他们那间面积达一千平方英尺的 Humour Room（幽默室）里设有一家玩具店。在房间里众多减压玩具中，最吸引人的是一个胳膊和腿都可以拆卸的老板玩偶。员工可以把玩偶拆开，只要之后把它的胳膊和腿装回原位即可。"
+              },
+              {
+                "en": "Sandy Cohen, owner of a graphic print production business, created the Quote Board to document the bizarre phrases people say when under strict deadlines. \"When you're under stress, you say stupid things,\" says Cohen. \"Now we just look at each other and say, that's one for the Quote Board.\"",
+                "zh": "平面印刷制作企业老板桑迪·科恩创设了 Quote Board，用来记录人们在严格的截止期限压力下说出的怪异话语。“人在压力之下会说些蠢话，”科恩说。“现在我们只要互相看一眼，说一句‘这句话得记到 Quote Board 上了’。”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The recent finding of a changed gene in obese mice."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A breakthrough in understanding gene modification."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A newly discovered way for people to lose weight."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The self-repairing ability of a gene in obese mice."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It renders an organism unable to fight diseases."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It prevents the mice's fatty tissues from growing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It helps organisms adapt to environmental changes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It renders mice unable to sense when to stop eating."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Human beings have more obesity genes than most mice do."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Half of a person's total weight variation can be controlled."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People are born with a tendency to have a certain weight."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The function of the obesity genes is yet to be explored."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The worsening of natural environment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The abundant provision of rich foods."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The accelerated pace of present-day life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The adverse impact of the food industry."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Public interest was aroused by the latest discovery of a changed gene in obese mice. The news was made known by Rockefeller University geneticist Jeffrey Friedman. The researchers believe this gene influences development of a hormone that tells the organism how fat or full it is. Those with the changed gene may not sense when they have eaten enough or if they have sufficient fatty tissue, and thus can't tell when to stop eating.",
+                "zh": "最新在肥胖小鼠身上发现变异基因一事引起了公众的兴趣。这一消息由洛克菲勒大学的遗传学家杰弗里·弗里德曼公布。研究人员认为，该基因会影响一种能告知生物体其肥胖程度或饱腹状态的激素的生成。携带该变异基因的个体可能无法感知自己何时已经吃饱，或者是否有足够的脂肪组织，因而无法判断何时停止进食。"
+              },
+              {
+                "en": "The researchers also reported finding a gene nearly identical to the mouse obesity gene in humans. The operation of this gene in humans has not yet been demonstrated, however. Still, professionals like University of Vermont psychologist Esther Rothblum reacted enthusiastically: \"This research indicates that people really are born with a tendency to have a certain weight, just as they are to have a particular skin color or height.\"",
+                "zh": "研究人员还报告称，在人体内发现了与小鼠肥胖基因几乎完全相同的基因。然而，该基因在人体内的运行机制尚未得到证实。尽管如此，佛蒙特大学的心理学家埃丝特·罗斯布鲁姆等专业人士依然做出了热烈的反响：“这项研究表明，人们确实天生就具有保持某种体重的倾向，就像天生具有特定肤色或身高一样。”"
+              },
+              {
+                "en": "Actually, behavioral geneticists believe that less than half of the total weight variation is programmed in the genes, while height is almost entirely genetically determined.",
+                "zh": "实际上，行为遗传学家认为，总体重变化中只有不到一半是由基因决定的，而身高则几乎完全由基因决定。"
+              },
+              {
+                "en": "Whatever role genes play, Americans are getting fatter. A survey by the Center for Disease Control found that obesity has increased greatly over the last 10 years. Such rapid change underlines the role of environmental factors, like the abundance of rich foods, in Americans' overeating.",
+                "zh": "无论基因扮演什么角色，美国人都在变得越来越胖。疾病控制中心的一项调查发现，在过去10年中，肥胖率大幅上升。如此迅速的变化凸显了环境因素（例如丰富的高热量食物）在美国人过度进食中所起的作用。"
+              },
+              {
+                "en": "The Center for Disease Control has also found that teens are far less physically active than they were even a decade ago. Accepting that weight is predetermined can relieve guilt for overweight people. But people's belief that they cannot control their weight can itself contribute to obesity.",
+                "zh": "疾病控制中心还发现，青少年目前的体育活动量远不及十年前。接受体重是预先确定的观点可以减轻超重人群的罪恶感。然而，人们认为自己无法控制体重的这一观念本身就会导致肥胖。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Similarity in interests."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Mental stimulation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Openness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Compassion."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The willingness to offer timely help."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The joy found in each other's company."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Personal bonds."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Emotional factors."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Failure to keep a promise."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Lack of frankness."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Feelings of betrayal."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Loss of contact.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Qualities of a relationship, such as openness, compassion, and mental stimulation are of concern to most of us regardless of sex, but—judging from the questionnaire response—they are more important to women than to men.",
+                "zh": "关系中的一些品质，例如坦诚、同情心和精神上的相互启发，无论男女，大多数人都很看重；但从问卷的回答来看，女性比男性更为重视这些品质。"
+              },
+              {
+                "en": "Asked to consider the ingredients of close friendship, women rated these qualities above all others. Men assigned a lower priority to them in favor of similarity in interests, selected by 77% of men, and responsiveness in a crisis, chosen by 61% male respondents. Mental stimulation, ranked third in popularity by men as well as women, was the only area of overlap. Among men, only 28% named openness as an important quality; caring was picked by just 23%.",
+                "zh": "当被要求考虑亲密友谊的构成要素时，女性给这些品质的评价高于其他所有品质。男性则将它们置于较低优先级，更看重兴趣相投（77%的男性选择了这一点）以及在危机时给予回应（61%的男性受访者选择了这一点）。精神上的相互启发在男性和女性中都颇受欢迎，排名第三，是双方唯一重合的方面。在男性中，只有28%的人认为坦诚是一项重要品质；选择关怀的仅有23%。"
+              },
+              {
+                "en": "It is evident by their selections that when women speak of close friendships they are referring to emotional factors, while men emphasize the pleasure they find in a friend's company. That is, when a man speaks of \"a friend\" he is likely to be talking about someone he does things with—a teammate, a fellow hobbyist, a drinking buddy. These activities are the fabric of the friendship; it is a \"doing\" relationship in which similarity in interests is the key bond. This factor was a consideration of less than 11% of women. Women opt for a warm, emotional atmosphere where communication flows freely; activity is mere background.",
+                "zh": "从她们的选择可以明显看出，女性谈到亲密友谊时，指的是情感因素；而男性则强调从朋友陪伴中获得的乐趣。也就是说，当一个男人说“朋友”时，他很可能是在谈论一个和自己一起做事情的人——队友、共同从事某种爱好的人，或酒友。这些活动构成了友谊的基础；这是一种“做事型”的关系，其中兴趣相投是维系关系的关键纽带。只有不到11%的女性把这一因素视为考量。女性选择的是一种温暖而富有情感的氛围，在那里交流能够自由进行；活动本身只是背景。"
+              },
+              {
+                "en": "Lastly, men, as we have seen, have serious questions about each other's loyalty. Perhaps this is why they placed such strong emphasis on responsiveness in a crisis—\"someone I can call on for help.\" Women, as their testimonies indicate, are generally more secure with each other and consequently are more likely to treat this issue lightly. In follow-up interviews this was confirmed numerous times as woman after woman indicated that \"being there when needed was taken for granted.\"",
+                "zh": "最后，正如我们所看到的，男性对彼此的忠诚抱有严重疑虑。或许这就是为什么他们如此强调在危机时给予回应——“一个我可以求助的人”。正如她们的陈述所表明的，女性彼此相处时通常更有安全感，因此更可能对此问题一带而过。在后续访谈中，这一点得到了多次证实：一个又一个女性表示，“需要时陪在身边”是理所当然的。"
+              },
+              {
+                "en": "As for the hazards of friendship, more than a few relationships have been shattered because of cutthroat competition and feelings of betrayal. This applies to both men and women, but unequally. In comparison, nearly twice as many men complained about these issues as women. Further, while competition and betrayal are the main thorns to female friendship, men are plagued in almost equal amounts by two additional issues: lack of frankness and a fear of appearing unmanly. Obviously, for a man, a good friendship is hard to find.",
+                "zh": "至于友谊中的风险，不少关系都因你死我活的竞争和被背叛的感受而破裂。这一点男女都适用，但程度并不相同。相比之下，抱怨这些问题的男性几乎是女性的两倍。此外，尽管竞争和背叛是女性友谊中最主要的刺痛点，男性还几乎同等程度地受到另外两个问题的困扰：缺乏坦率，以及害怕显得不够男子气概。显然，对男人来说，一段美好的友谊很难寻得。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Along the low-lying Colorado River."
+                  },
+                  {
+                    "l": "B",
+                    "t": "At the Dinosaur National Monument."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Along the border of the U.S. and Canada."
+                  },
+                  {
+                    "l": "D",
+                    "t": "At museums of natural history in large cities."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Volcanic explosions could bring whole animal species to extinction."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Some natural disaster killed a whole herd of dinosaurs in the area."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The pit should be carefully preserved for the study of dinosaurs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The whole region must have been struck by a devastating flood."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They floated down an eastward flowing river."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They lay buried deep in the sand for millions of years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were skeletons of dinosaurs inhabiting the locality."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were remains of dinosaurs killed in a volcanic explosion.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The partial skeletons of more than 20 dinosaurs and the scattered bones of about 300 more have been discovered in Utah and Colorado at what is now the Dinosaur National Monument. Many of the best specimens may be seen today at museums of natural history in the larger cities of the United States and Canada. This dinosaur pit is the largest and best preserved deposit of dinosaurs known today.",
+                "zh": "在如今的恐龙国家纪念地，即犹他州和科罗拉多州交界一带，人们发现了20多具恐龙的部分骨骼以及约300具恐龙的零散骨骼。如今，在美国和加拿大较大城市的自然历史博物馆里，可以看到许多保存最完好的标本。这处恐龙化石坑是迄今所知规模最大、保存最完好的恐龙沉积地。"
+              },
+              {
+                "en": "Many people get the idea from the mass of bones in the pit wall that some disaster such as a volcanic explosion or a sudden flood killed a whole herd of dinosaurs in this area. This could have happened but it probably did not.",
+                "zh": "恐龙坑坑壁上大量的骨骼使许多人认为，某种灾难——例如火山爆发或突发洪水——在这一地区杀死了整群恐龙。这种情况本来可能发生过，但很可能并非如此。"
+              },
+              {
+                "en": "The main reasons for thinking otherwise are the scattered bones and the thickness of the deposit.",
+                "zh": "之所以有理由作出不同的判断，主要是因为骨骼分布零散，而且沉积层很厚。"
+              },
+              {
+                "en": "In other deposits where the animals were thought to have died together, the skeletons were usually complete and often all the bones were in their proper places. Rounded pieces of fossil bone have been found here. These fragments got their smooth round shape by rolling along the stream bottom.",
+                "zh": "在其他被认为是动物同时死亡形成的沉积地中，骨骼通常是完整的，而且所有骨头往往都处在各自应有的位置。这里曾发现过圆润的化石骨片。这些碎片是在溪流底部滚动时形成光滑圆润的形状的。"
+              },
+              {
+                "en": "In a mass killing, the bones would have been left on the stream or lake bottom together at the same level. But in this deposit, the bones occur throughout a zone of sandstone about 12 feet thick.",
+                "zh": "如果是大量动物同时死亡，骨头就会一起留在溪流或湖泊底部的同一水平面上。但在这处沉积地中，骨头分布在一层约12英尺厚的砂岩带内。"
+              },
+              {
+                "en": "The mixture of swamp dwellers and dry-land types also seems to indicate that the deposit is a mixture from different places.",
+                "zh": "沼泽栖息型动物和旱地型动物混杂在一起，这似乎也表明该沉积地是由来自不同地点的遗骸混合形成的。"
+              },
+              {
+                "en": "The pit area is a large dinosaur graveyard, not a place where they died. Most of the remains probably floated down an eastward flowing river until they were left on a shallow sandbar. Some of them may have come from far-away dry-land areas to the west. Perhaps they drowned trying to cross a small stream or were washed away during floods. Some of the swamp dwellers may have got stuck in the very sandbar that became their grave; others may have floated for miles before being stranded.",
+                "zh": "这个坑区是一处大型恐龙墓地，而不是恐龙死亡的地方。大多数遗骸很可能顺着一条向东流淌的河漂流而下，直到被冲到一处浅沙洲上。有些遗骸可能来自西面遥远的旱地区域。它们或许是在试图渡过一条小溪时溺水，也可能是在洪水中被冲走的。一些沼泽栖息型动物可能陷在后来成为它们墓地的那片沙洲中；另一些则可能漂流了数英里，最后搁浅在那里。"
+              },
+              {
+                "en": "Even today similar events take place. When floods come in the spring, sheep, cattle and deer are often trapped by rising waters and often drown. Their dead bodies float downstream until the flood recedes and leaves them stranded on a bar or shore where they lie, half buried in the sand, until they decay. Early travelers on the Missouri river reported that shores and bars were often lined with the decaying bodies of buffalo that had died during spring floods.",
+                "zh": "即使在今天，类似的事情也会发生。春季洪水来临时，绵羊、牛和鹿常常会被上涨的水流困住，并经常因此溺死。它们的尸体顺流漂下，直到洪水退去，把它们留在沙洲或岸边搁浅；它们半埋在沙中，直到腐烂。早期在密苏里河上旅行的人报告说，河岸和沙洲上常常排列着在春季洪水中死亡的野牛腐烂尸体。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Indulging in seeking leisure and material comfort."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Attaching too much importance to independence."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Failing to care for parents in the traditional way."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Leaving their parents on the verge of starvation."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have great difficulty living by themselves."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have little hope of getting any family care."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have fond memories of their good old days."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have a sense of independence and autonomy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People in many parts of the world preferred small-sized families."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There have been extended families in most parts of the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many elderly people were unwilling to take care of their grandchildren."
+                  },
+                  {
+                    "l": "D",
+                    "t": "So many young Americans refused to live together with their parents."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Leave their younger generations alone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Avoid being a burden to their children."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Stay healthy by engaging in joyful activities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "View things from their children's perspective."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I would like particularly to talk about the need to develop a new style of aging in our own society.",
+                "zh": "我尤其想谈谈在我们自己的社会中形成一种新的老年生活方式的必要性。"
+              },
+              {
+                "en": "Young people in this country have been accused of not caring for their parents the way they would have in the old country. And this is true. But it is also true that old people have been influenced by an American ideal of independence and autonomy. So we live alone, perhaps on the verge of starvation, in time without friends, but we are independent.",
+                "zh": "这个国家的年轻人被指责没有像他们在故国时那样照料父母。这确实如此。但同样确实的是，老年人也受到了美国式独立与自主理念的影响。因此，我们独自生活，也许处于饥饿的边缘，生活中没有朋友，但我们是独立的。"
+              },
+              {
+                "en": "This standard American style has been forced on every ethnic group, although there are many groups for whom the ideal is not practical. It is a poor ideal and pursuing it does a great deal of harm. This ideal of independence also contains a tremendous amount of unselfishness.",
+                "zh": "这种标准的美国式生活方式被强加给了每一个族群，尽管有许多族群并不适合这种理想。这是一个糟糕的理想，追求它会造成极大的伤害。这种独立的理想还包含着极大程度的无私。"
+              },
+              {
+                "en": "In talking to today's young mothers. I have asked them what kind of grandmothers they think they are going to be. I hear devoted, loving mothers say that when they are through raising their children, they have no intention of becoming grandmothers. They are astonished to hear that in most of the world throughout most of its history, families have been three- or four-generation families, living under the same roof.",
+                "zh": "我在与如今的年轻母亲交谈时，问过她们认为自己将会成为怎样的祖母。我听到一些全心投入、充满爱心的母亲说，等她们把孩子抚养成人后，她们根本不打算成为祖母。得知在世界上大多数地方、在其大部分历史时期，家庭都是三代或四代同堂、共同生活在一个屋檐下的家庭，她们感到十分惊讶。"
+              },
+              {
+                "en": "We have over-emphasized the small family unit—father, mother, small children. We think it is wonderful if grandma and grandpa, if they're still alive, can live alone. We have reached the point where we think the only thing we can do for our children is to stay out of their way and the only thing we can do for our daughter-in-law is to see as little of her as possible.",
+                "zh": "我们过分强调了小家庭单位——父亲、母亲和年幼的孩子。如果奶奶和爷爷还健在，并且能够独自生活，我们就认为这很了不起。我们已经到了这样一种地步：认为我们能为孩子做的唯一事情就是不妨碍他们，而我们能为儿媳做的唯一事情就是尽可能少见她。"
+              },
+              {
+                "en": "Old people's nursing homes, even the best run, are filled with older people who believe the only thing they can do for their children is to look cheerful when they come to visit. So in the end, older people have to devote all their energies to \"not being a burden\".",
+                "zh": "老年人的养老院，即使是管理得最好的养老院，也住满了这样一些老年人：他们认为自己能为子女做的唯一事情，就是在子女来探望时表现得兴高采烈。因此，到最后，老年人不得不把全部精力都用在“不成为负担”上。"
+              },
+              {
+                "en": "We are beginning to see what a tremendous price we've paid for our emphasis on independence and autonomy. We've isolated old people and we've cut off the children from their grandparents.",
+                "zh": "我们开始看到，过分强调独立与自主让我们付出了多么巨大的代价。我们使老年人与世隔绝，也切断了孩子与祖父母之间的联系。"
+              },
+              {
+                "en": "One of the reasons we have as bad a generation gap today as we do is that grandparents have stepped out. Young people are being deprived of the thing they need most—perspective, to know why their parents behave so peculiarly and why their grandparents say the things they do.",
+                "zh": "我们如今之所以存在如此严重的代沟，其中一个原因就是祖父母退出了生活。年轻人被剥夺了他们最需要的东西——看待问题的视角，也就是了解为什么父母的行为如此古怪，以及为什么祖父母会说出那些话。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The United Nations issued a report last week warning that humans are destroying nature at such a rate that life on Earth is at risk. When the report came out, it naturally"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "headlines. But obviously it didn't hijack the news agenda in the manner of a major terrorist attack or"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "of war. The report from the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) is clear on what's at"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "and what needs to change. IPBES chair Robert Watson says the \""
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "evidence\" presents an \"ominous(凶兆的) picture\". \"The health of ecosystems on which we and all other species depend is"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "more rapidly than ever,\" Robert Watson said. \"We are"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "the very foundations of our economies, livelihoods, food security, health and quality of life worldwide.\" The report says it's not too late if we make \"transformative change\"—fundamental, system-wide reorganization—at every level from local to global, and we need to focus on how to make that happen. First, don't indulge in despair, because despair leads to inertia and doing nothing means certain"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": ". Every action to save nature will improve our collective and personal futures and the only way to respond to a threat of this scale is with"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "action rooted in headstrong optimism. Second, we need relentless focus, just like when paramedics(救护人员) arrive on a scene and use the concept of \"triage(伤员鉴别分类)\" to ensure the most"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "cases get treated first. Saving the natural world needs that kind of thinking. We don't have the"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "to do everything at once. We need to make hard choices."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "capacity"
+        },
+        {
+          "l": "B",
+          "w": "declaration"
+        },
+        {
+          "l": "C",
+          "w": "deteriorating"
+        },
+        {
+          "l": "D",
+          "w": "determined"
+        },
+        {
+          "l": "E",
+          "w": "disaster"
+        },
+        {
+          "l": "F",
+          "w": "eroding"
+        },
+        {
+          "l": "G",
+          "w": "grabbed"
+        },
+        {
+          "l": "H",
+          "w": "inventory"
+        },
+        {
+          "l": "I",
+          "w": "Junction"
+        },
+        {
+          "l": "J",
+          "w": "Monotonous"
+        },
+        {
+          "l": "K",
+          "w": "overwhelming"
+        },
+        {
+          "l": "L",
+          "w": "stagnation"
+        },
+        {
+          "l": "M",
+          "w": "stake"
+        },
+        {
+          "l": "N",
+          "w": "stifled"
+        },
+        {
+          "l": "O",
+          "w": "urgent"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "G"
+        },
+        {
+          "n": 27,
+          "a": "B"
+        },
+        {
+          "n": 28,
+          "a": "M"
+        },
+        {
+          "n": 29,
+          "a": "K"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "E"
+        },
+        {
+          "n": 33,
+          "a": "D"
+        },
+        {
+          "n": 34,
+          "a": "O"
+        },
+        {
+          "n": 35,
+          "a": "A"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Children Understand Far More About Other Minds Than Long Believed",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Until a few decades ago, scholars believed that young children know very little, if anything, about what others are thinking. Swiss psychologist Jean Piaget, who is credited with founding the scientific study of children's thinking, was convinced that preschool children cannot consider what goes on in the minds of others. The interviews and experiments he conducted with kids in the middle of the 20th century suggested that they were trapped in their subjective viewpoints, incapable of imagining what others think, feel or believe."
+        },
+        {
+          "l": "B",
+          "t": "Much of the subsequent research on early childhood thinking was highly influenced by Piaget's ideas. Scholars sought to refine his theory and empirically confirm his views. But it became increasingly clear that Piaget seemed to have gravely underestimated the intellectual powers of very young kids before they can make themselves understood by speech. Researchers began to devise ever more ingenious ways of figuring out what goes on in the minds of babies, and the resulting picture of their abilities shows subtle variations. Consequently, the old view of children's egocentric( 自我中心的) nature and intellectual weaknesses has increasingly fallen out of favor and become replaced by a more generous position that sees a budding sense not only of the physical world but also of other minds, even in the \"youngest young.\""
+        },
+        {
+          "l": "C",
+          "t": "Historically, children didn't receive much respect for their mental powers. Piaget not only believed that children were \"egocentric\" in the sense that they were unable to differentiate between their own viewpoint and that of others; he was also convinced that their thinking was characterized by systematic errors and confusions. When playing with others, they don't cooperate because they do not realize there are different roles and perspectives. He was convinced that children literally cannot \"get their act together\": instead of playing cooperatively and truly together, they play side by side, with little regard for others. And when speaking with others, a young child supposedly cannot consider the listener's viewpoint but \"talks to himself without listening to others.\""
+        },
+        {
+          "l": "D",
+          "t": "Piaget and his followers maintained that children go through something like a dark age of intellectual development before slowly and gradually becoming enlightened by reason and rationality as they reach school age. Alongside this enlightenment develops an ever growing understanding of other persons, including their attitudes and views of the world."
+        },
+        {
+          "l": "E",
+          "t": "Today, a very different picture of children's mental development emerges. Psychologists continually reveal new insights into the depth of young children's knowledge of the world, including their understanding of other minds. Recent studies suggest that even infants are sensitive to others' perspectives and beliefs."
+        },
+        {
+          "l": "F",
+          "t": "Part of the motivation to revise some of Piaget's conclusions stemmed from an ideological shift about the origin of human knowledge that occurred in the second half of the 20th century. It became increasingly unpopular to assume that a basic understanding of the world can be built entirely from experience. This was in part prompted by theorist Noam Chomsky, who argued that something as complex as the rules of grammar cannot be picked up from exposure to speech, but is supplied by an inborn \"language faculty.\" Others followed suit and defined further \"core areas\" in which knowledge allegedly cannot be pieced together from experience but must be possessed at birth. One such area is our knowledge of others' minds. Some even argue that a basic knowledge of others' minds is not only possessed by human infants, but must be evolutionarily old and hence shared by our nearest living relatives, the great apes."
+        },
+        {
+          "l": "G",
+          "t": "To prove that infants know more in this realm than had been acknowledged, researchers needed to come up with innovative ways of showing it. A big part of why we now recognize so much more of kids' intellectual capacities is the development of much more sensitive research tools than Piaget had at his disposal."
+        },
+        {
+          "l": "H",
+          "t": "Instead of engaging babies in dialog or having them execute complex motor tasks, the newer methods capitalize on behaviors that have a firm place in infants' natural behavior repertoire: looking, listening, sucking, making facial expressions, gestures and simple manual actions. The idea of focusing on these \"small behaviors\" is that they give kids the chance to demonstrate their knowledge implicitly and spontaneously without having to respond to questions or instructions. For example, children might look longer at an event that they did not expect to happen, or they might show facial expressions indicating that they have sympathetic concern for others. When researchers measure these less demanding, and often involuntary, behaviors, they can detect a sensitivity to others' mental states at a much younger age than with the more taxing methods that Piaget and his followers deployed."
+        },
+        {
+          "l": "I",
+          "t": "In the 1980s, these kinds of implicit measures became customary in developmental psychology. But it took a while longer before these tools were employed to measure children's grasp of the mental lives of others."
+        },
+        {
+          "l": "J",
+          "t": "In a set of experiments, my colleagues at the University of Southern California and I found evidence that babies can even anticipate how others will feel when their expectations are disappointed. We acted out several puppet(木偶) shows in front of two-year-old children. In these puppet shows, a protagonist (Cookie Monster) left his precious belongings (cookies) on stage and later returned to fetch them. What the protagonist did not know was that an antagonist had come and messed with his possessions. The children had witnessed these acts and attentively watched the protagonist return. We recorded children's facial and bodily expressions. Children bit their lips, wrinkled their nose or wiggled(扭动) in their chair when the protagonist came back, as if they anticipated the bewilderment and disappointment he was about to experience. Importantly, children showed no such reactions and remained calm when the protagonist had seen the events himself and thus knew what to expect. Our study reveals that by the tender age of two, kids not only track what others believe or expect; they can even foresee how others will feel when they discover reality."
+        },
+        {
+          "l": "K",
+          "t": "Studies like this reveal that there is much more going on in small kids' and even infants' minds than was previously believed. With the explicit measures used by Piaget and successors, these deeper layers of kids' understanding cannot be accessed. The new investigative tools demonstrate that kids know more than they can say: when we scratch beneath the surface, we find an emerging understanding of relations and perspectives that Piaget probably did not dream of."
+        },
+        {
+          "l": "L",
+          "t": "Despite these obvious advances in the study of young children's thinking, it would be a grave mistake to dismiss the careful and systematic analyses compiled by Piaget and others before the new tests dominated the scene because the original methods revealed essential facts about how children think that the new methods cannot uncover."
+        },
+        {
+          "l": "M",
+          "t": "There's no consensus in today's science community about how much we can infer from a look, a facial expression or a hand gesture. These behaviors clearly indicate a curiosity about what goes on in the mind of others, and probably a set of early intuitions coupled with a willingness to learn more. They pave the way to richer and more explicit forms of understanding of the minds of others. But they can in no way replace the child's growing ability to articulate and refine her understanding of how people behave and why."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Piaget believed that small children could not collaborate with others while playing.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "The author and his colleagues' study shows two-year-olds may be able to predict other people's feelings.",
+          "a": "J"
+        },
+        {
+          "n": 38,
+          "s": "In the latter half of the last century, fewer and fewer people believed the basis for our understanding of the world is wholly empirical.",
+          "a": "F"
+        },
+        {
+          "n": 39,
+          "s": "Research conducted by Jean Piaget in the last century suggested babies were insensitive to others' thinking.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Our improved understanding of babies' intellectual power is attributable to better research tools.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "It has been found in recent research that even small babies are sensitive to other people's points of view.",
+          "a": "E"
+        },
+        {
+          "n": 42,
+          "s": "Scientists are still debating what inference can be drawn from certain physical expressions of a child.",
+          "a": "M"
+        },
+        {
+          "n": 43,
+          "s": "The newer research methods focus on infants' simple behaviors instead of requiring them to answer questions.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "With the progress in psychology, the traditional view of children's self-centered nature and limited thinking abilities has become less and less influential.",
+          "a": "B"
+        },
+        {
+          "n": 45,
+          "s": "Even though marked advances have been made, it is wrong to dismiss Piaget's fundamental contributions to the study of kids' cognitive abilities.",
+          "a": "L"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "People often discuss the dangers of too much stress, but lately a very different view of stress is gaining popularity: this view of stress, held by members of the positive stress movement, argues that stress might actually be beneficial. The positive stress movement is made up of people such as Zachary Rapp who are looking for an edge in a competitive world, and Rapp's routine is a good example of followers of the movement. He wakes up most mornings at dawn, goes for a run, sips black coffee while ripping through emails, and then steps into a freezing cold shower. This is a routine designed to reduce the stress of running simultaneously three different health and biotechnology companies for 18 hours a day. Although Rapp's practices may sound extreme, he is part of a growing movement, consisting largely of tech industry workers who claim that such radical tactics will help them live better and longer. Inspired by influential figures in different fields, including entertainers, athletes, entrepreneurs and scientists, positive stress practitioners seek out some combination of extreme temperatures, restrictive diets, punishing exercise routines and general discomfort. Rapp argues that positive stress keeps him balanced. In addition to running and freezing showers, Rapp uses ice baths, hot yoga, and unconventional eating practices such as eliminating dairy, sugar, alcohol and various other foods high in carbohydrates. He believes that these practices, which put stress on his body, actually make him feel less stress from work. However, Rapp does not credit anyone in particular for his choices: he said he started using these methods in college, where he got into the habit of taking ice baths to recover from sports. He got back into it while trying to get his three companies off the ground. Rapp works long hours and sleeps only five to seven hours a night but he said he only gets sick once a year. For him, the difference between day-to-day stress, like the kind we feel when moving apartments, and positive stress is that the latter involves pushing the body to extremes and forcing it to build up a tolerance. One thought leader in the positive stress world is Dutch extreme athlete Wim Hof, who earned the name \"ice man\" for his ability to withstand severe cold using deep breathing exercises. Hof's ideas have become popular among tech industry elites and, thanks to Hof, cold showers are now a trend; indeed, some even call it a form of therapy. But it is important to note that not everyone agrees with these practitioners; indeed, some medical professionals argue that positive stress is not for everyone, and that it might even be dangerous for people who are unhealthy or older.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn about followers of the positive stress movement?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are usually quite sensitive to different types of stress."
+              },
+              {
+                "l": "B",
+                "t": "They hold a different view on stress from the popular one."
+              },
+              {
+                "l": "C",
+                "t": "They derive much pleasure from living a very hectic life."
+              },
+              {
+                "l": "D",
+                "t": "They gain a competitive edge by enjoying good health."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What do followers of the positive stress movement usually do to put their ideas into practice?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They keep changing their living habits."
+              },
+              {
+                "l": "B",
+                "t": "They network with influential figures."
+              },
+              {
+                "l": "C",
+                "t": "They seek jobs in tech industries."
+              },
+              {
+                "l": "D",
+                "t": "They apply extreme tactics."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What does Zachary Rapp say about his unconventional practices?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They help him combat stress from work."
+              },
+              {
+                "l": "B",
+                "t": "They enable him to cut down living expenses."
+              },
+              {
+                "l": "C",
+                "t": "They enable him to recover from injuries and illnesses."
+              },
+              {
+                "l": "D",
+                "t": "They help him get three companies enlisted all at once."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What can be inferred from the passage about day-to-day stress?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is harmful to one's physical and mental health."
+              },
+              {
+                "l": "B",
+                "t": "It does not differ in essence from positive stress."
+              },
+              {
+                "l": "C",
+                "t": "It is something everybody has to live with."
+              },
+              {
+                "l": "D",
+                "t": "It does not help build up one's tolerance."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What do some medical professionals think of positive stress?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its true effect remains to be verified."
+              },
+              {
+                "l": "B",
+                "t": "Its side effect should not be ignored."
+              },
+              {
+                "l": "C",
+                "t": "Its effect varies considerably from person to person."
+              },
+              {
+                "l": "D",
+                "t": "Its practitioners should not take it as a form of therapy."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Is hunting good or bad for the environment? Like so many hot button issues, the answer to this question depends upon who you ask. On the one hand, some say, nothing could be more natural than hunting, and indeed just about every animal species—including humans—has been either predator or prey at some point in its evolution. And, ironic as it sounds, since humans have wiped out many animal predators, some see hunting as a natural way to reduce the herds of prey animals that now reproduce beyond the environment's carrying capacity. On the other hand, many environmental and animal advocates see hunting as savage, arguing that it is morally wrong to kill animals, regardless of practical considerations. According to Glenn Kirk of the California- based The Animals' Voice, hunting \"causes immense suffering to individual wild animals…\" and is \"irrationally cruel because unlike natural predation(捕食), hunters kill for pleasure …\" He adds that, despite hunters' claims that hunting keeps wildlife populations in balance, hunters' license fees are used to \"manipulate a few game species into overpopulation at the expense of a much larger number of non-game species, resulting in the loss of biological diversity, genetic integrity and ecological balance.\" Beyond moral issues, others contend that hunting is not practical. According to the Humane Society of the United States, the vast majority of hunted species—such as waterfowl, rabbits, upland birds and mourning doves —\"provide minimal nutrition and do not require population control.\" Author Gary E. Varner suggests in his book, In Nature's Interests, that some types of hunting may be morally justifiable while others may not be. Hunting \"designed to secure the aggregate welfare of the target species, the integrity of its ecosystem, or both\"—what Varner terms \"therapeutic hunting\"—is defensible, while subsistence and sport hunting—both of which only benefit human beings—are not. Regardless of one's individual stance, fewer Americans hunt today than in recent history. Data gathered by the U. S. Fish & Wildlife Service in 2006 show that only five percent of Americans—some 12.5 million individuals—consider themselves hunters today, down from nine percent in 2001 and 15 percent in 1996. Public support for hunting, however, is on the rise. A 2007 survey by Responsive Management Inc. found that eighty percent of respondents agreed that \"hunting has a legitimate place in modern society,\" and the percentage of Americans indicating disapproval of hunting declined from 22 percent in 1995 to 16 percent in 2007. Perhaps matching the trend among the public, green leaders are increasingly advocating cooperation between hunters and environmental groups: After all, both deplore urban sprawl and habitat destruction.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say sounds ironic?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Some predators may often turn out to be prey of other predators."
+              },
+              {
+                "l": "B",
+                "t": "Hunting may also be a solution to the problem caused by hunting."
+              },
+              {
+                "l": "C",
+                "t": "The species of prey animals continue to vary despite humans' hunting."
+              },
+              {
+                "l": "D",
+                "t": "The number of prey animals keeps rising despite environmental change."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What does Glenn Kirk think of charging hunters license fees?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It keeps game population under control."
+              },
+              {
+                "l": "B",
+                "t": "It turns hunting into a sport of the rich."
+              },
+              {
+                "l": "C",
+                "t": "It leads to ecological imbalance."
+              },
+              {
+                "l": "D",
+                "t": "It helps stop killing for pleasure."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What is the argument of the Humane Society of the United States against hunting?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Overpopulation is not an issue for most hunted animals."
+              },
+              {
+                "l": "B",
+                "t": "Hunting deprives animal populations of their food sources."
+              },
+              {
+                "l": "C",
+                "t": "Many birds and small animals are being irrationally killed."
+              },
+              {
+                "l": "D",
+                "t": "Hunting is universally acknowledged as a savage behavior."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "When is hunting morally justifiable according to Gary E. Varner?",
+            "o": [
+              {
+                "l": "A",
+                "t": "When it benefits animals and their ecosystem."
+              },
+              {
+                "l": "B",
+                "t": "When it serves both human and animal interests."
+              },
+              {
+                "l": "C",
+                "t": "When it is indispensable to humans' subsistence."
+              },
+              {
+                "l": "D",
+                "t": "When it stabilizes the population of animal species."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What concept are green leaders trying to promote?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Effective protection of animal habitats."
+              },
+              {
+                "l": "B",
+                "t": "Strict control over urban development."
+              },
+              {
+                "l": "C",
+                "t": "Coordinated efforts of hunters and environmentalists."
+              },
+              {
+                "l": "D",
+                "t": "A compromise between development and animal protection."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "《三国演义》(The Romance of the Three Kingdoms)是中国一部著名的历史小说，写于十四世纪。这部文 学作品以三国时期的历史为背景，描写了从公元二世纪下半叶到公元三世纪下半叶的魏、蜀、吴三国之间的战 争。小说中刻画了近千个人物和无数的历史事件。这些人物和事件虽然大都基于真实的历史，但都不同程度地 被浪漫化和戏剧化了。《三国演义》是一部公认的文学杰作。自面世以来，这部小说不断吸引着一代又一代的 读者，并且对中国文化产生了广泛而持久的影响 。",
+    "reference": "The Romance of the Three Kingdoms is a famous Chinese historical novel written in the 14th century. Set against the historical background of the Three Kingdoms period, the work describes the wars among the three states of Wei, Shu and Wu from the latter half of the 2nd century to the latter half of the 3rd century. Nearly a thousand characters and countless historical events are portrayed in the novel. Although these characters and events are mostly based on real history, they have been romanticized and dramatized to varying degrees. The Romance of the Three Kingdoms is an acknowledged literary masterpiece. Since its first appearance, the novel has continuously attracted generations of readers and has exerted a wide and lasting influence on Chinese culture."
+  }
+}

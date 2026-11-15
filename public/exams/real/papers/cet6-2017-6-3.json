@@ -1,0 +1,1366 @@
+{
+  "id": "cet6-2017-6-3",
+  "level": "cet6",
+  "year": 2017,
+  "month": 6,
+  "set": 3,
+  "title": "2017年6月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, Suppose you are asked to give advice on whether to attend college at home or abroad, write an essay to state your opinion. You are required to write at least 150 words but no more than 200 words.",
+    "sample": "When it comes to choosing a college, I firmly believe that studying abroad is the wiser choice for ambitious young people today. While a domestic university offers comfort and lower costs, the growth that comes from stepping into an unfamiliar world outweighs these conveniences.To begin with, an overseas campus exposes students to genuine cultural diversity. Sitting in seminars with classmates from a dozen countries, one learns to defend ideas and respect differences, skills that no textbook at home can fully teach. What matters more, living far from family compels students to cook, budget and solve problems alone, forging an independence that pampered domestic students often lack. Admittedly, tuition abroad is expensive; yet the language fluency and global vision gained are assets that repay the cost for a lifetime.In my view, therefore, the discomfort of studying abroad is exactly what makes it valuable. For those willing to leave their comfort zone, an overseas degree is an investment well worth making."
+  },
+  "listening": {
+    "audio": "cet6-2017-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Doing enjoyable work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having friendly colleagues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Earning a competitive salary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Working for supportive bosses."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "31%."
+                  },
+                  {
+                    "l": "B",
+                    "t": "20%."
+                  },
+                  {
+                    "l": "C",
+                    "t": "25%."
+                  },
+                  {
+                    "l": "D",
+                    "t": "73%."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those of a small size."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those run by women."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those that are well managed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those full of skilled workers."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can hop from job to job easily."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can win recognition of their work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can better balance work and life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They can take on more than one job.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Welcome to Work Place, and in today's program we are looking at the results of two recently published surveys, which both deal with the same topic—happiness at work. John, tell us about the first survey.",
+                "zh": "W: 欢迎收听《职场》节目。今天我们要来看看最近公布的两项调查结果，这两项调查关注的是同一个话题——工作中的幸福感。约翰，给我们介绍一下第一项调查吧。"
+              },
+              {
+                "en": "M: Well, this was done by a human resources consultancy who interviewed more than 1,000 workers and established a top 10 of the factors which make people happy at work. The most important factor, for the majority of the people interviewed, was having friendly, supportive colleagues. In fact, 73% people interviewed put their relationship with colleagues as the key factor contributing to happiness at work, which is a very high percentage. The second most important factor was having work that is enjoyable. The two least important factors were having one's achievements recognized and rather surprisingly, earning a competitive salary.",
+                "zh": "M: 这项调查是由一家人力资源咨询公司进行的，他们采访了1,000多名员工，并列出了让人们在工作中感到幸福的十大因素。对于大多数受访者来说，最重要的因素是拥有友善、乐于提供支持的同事。事实上，73%的受访者认为与同事的关系是影响工作幸福感的关键因素，这个比例非常高。第二重要的因素是从事令人愉快的工作。最不重要的两个因素是自己的成就得到认可，以及相当令人意外的，获得有竞争力的薪酬。"
+              },
+              {
+                "en": "W: So, we are not mainly motivated by money?",
+                "zh": "W: 所以，钱并不是激励我们的主要因素？"
+              },
+              {
+                "en": "M: Apparently not.",
+                "zh": "M: 显然不是。"
+              },
+              {
+                "en": "W: Any other interesting information in the survey?",
+                "zh": "W: 调查中还有其他有趣的信息吗？"
+              },
+              {
+                "en": "M: Yes. For example, 25% of the working people interviewed described themselves as very happy at work. However, 20% of employees described themselves as being unhappy.",
+                "zh": "M: 有。比如，接受采访的在职人士中，有25%的人形容自己在工作中非常开心。不过，也有20%的员工表示自己对工作感到不满意。"
+              },
+              {
+                "en": "W: That's quite a lot of unhappy people at work every day.",
+                "zh": "W: 也就是说，每天都有相当多的人在工作中不开心。"
+              },
+              {
+                "en": "M: It is, isn't it? And there were several more interesting conclusions revealed by the survey. First of all, small is beautiful. People definitely prefer working for smaller organizations or companies with less than 100 staff. We also find out that, generally speaking, women were happier in their work than men.",
+                "zh": "M: 确实如此，不是吗？调查还揭示了几个更有趣的结论。首先，小有小的好处。人们明显更喜欢在员工人数少于100人的小型机构或公司工作。我们还发现，总的来说，女性在工作中比男性更开心。"
+              },
+              {
+                "en": "W: Yes, we are, aren't we?",
+                "zh": "W: 是这样的，不是吗？"
+              },
+              {
+                "en": "M: And workers on part-time contracts who only work 4 or 5 hours a day are happier than those who work full time. The researchers concluded that this is probably due to a better work-life balance.",
+                "zh": "M: 另外，每天只工作四五个小时的兼职员工，比全职员工更开心。研究人员得出的结论是，这可能是因为他们能更好地平衡工作与生活。"
+              },
+              {
+                "en": "W: Are bosses happier than their employees?",
+                "zh": "W: 老板们比员工更开心吗？"
+              },
+              {
+                "en": "M: Yes. Perhaps not surprisingly, the higher people go in a company, the happier they are. So senior managers enjoy their jobs more than people working under them.",
+                "zh": "M: 是的。这或许并不令人意外，人在公司里的职位越高，就越开心。所以，高级管理人员比在他们手下工作的人更享受自己的工作。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a book of European history."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is an introduction to music."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is about the city of Bruges."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a collection of photos."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When painting the concert hall of Bruges."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When vacationing in an Italian coastal city."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When taking pictures for a concert catalogue."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When writing about Belgium's coastal regions."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The entire European coastline will be submerged."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The rich heritage of Europe will be lost completely."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The seawater of Europe will be seriously polluted."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The major European scenic spots will disappear."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its waterways are being increasingly polluted."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People cannot get around without using boats."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It attracts large numbers of tourists from home and abroad."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Tourists use wooden paths to reach their hotels in the morning."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Mr. De Keyzer, I am a great lover of your book, Moments Before the Flood. Can you tell us how you first became interested in this subject matter?",
+                "zh": "W: 德凯泽先生，我非常喜欢您的《洪水前的瞬间》一书。您能告诉我们，您最初是如何对这一主题产生兴趣的吗？"
+              },
+              {
+                "en": "M: In 2006, when the concert hall of the city of Bruges asked me to take some pictures for a catalogue for a new concert season around the theme of water, I found myself working along the Belgian coastline. As there had been numerous alarming articles in the press about a climate catastrophe waiting to happen, I started looking at the sea and the beach very differently, a place where I spent so many perfect days as a child. This fear of a looming danger became the subject of a large-scale photo project.",
+                "zh": "M: 2006年，布鲁日市的音乐厅请我围绕水这一主题，为新一季音乐会的目录拍摄一些照片，当时我开始在比利时海岸线上进行创作。由于当时媒体上刊登了许多关于一场即将发生的气候灾难的警示性文章，我开始以完全不同的方式观察大海和海滩。小时候，我曾在那里度过许多美好的时光。对迫在眉睫的危险的恐惧，后来成为一个大型摄影项目的主题。"
+              },
+              {
+                "en": "W: You wrote in the book \"I don't want to photograph the disaster; I want to photograph the disaster waiting to happen.\" Can you talk a bit about that?",
+                "zh": "W: 您在书中写道：“我不想拍摄灾难；我想拍摄正在等待发生的灾难。”您能谈谈这句话吗？"
+              },
+              {
+                "en": "M: It is clear now that it's a matter of time before the entire European coastline disappears under water. The same goes for numerous big cities around the world. My idea was to photograph this beautiful and very unique coastline, rich in history, before it's too late—as a last witness.",
+                "zh": "M: 现在很明显，整个欧洲海岸线被海水淹没只是时间问题。世界各地许多大城市也面临同样的情况。我的想法是在为时未晚之前，拍摄这条美丽而独特、历史底蕴深厚的海岸线，作为最后的见证。"
+              },
+              {
+                "en": "W: Can you talk a bit about how history plays a role in this project?",
+                "zh": "W: 您能谈谈历史在这个项目中扮演了怎样的角色吗？"
+              },
+              {
+                "en": "M: Sure. The project is also about the history of Europe looking at the sea and wondering when the next enemy would appear. In the images, you see all kinds of possible defense constructions to hold back the Romans, Germans, Vikings, and now nature as enemy number one. For example, there is the image of the bridge into the sea taken at the Normandy D-Day landing site. Also, Venice, the city eternally threatened by the sea, where every morning wooden pathways have to be set up to allow tourists to reach their hotels.",
+                "zh": "M: 当然可以。这个项目也涉及欧洲面对大海的历史，以及人们思考下一个敌人何时会出现的历史。在这些影像中，你可以看到各种各样的防御设施，曾经是为了抵挡罗马人、德国人、维京人，而如今则是为了抵挡头号敌人——大自然。例如，有一张照片拍摄的是诺曼底登陆地点通向大海的桥。还有威尼斯，这座永远受到海洋威胁的城市，每天早晨都必须搭起木制通道，让游客能够抵达他们下榻的酒店。"
+              },
+              {
+                "en": "W: Thank you, Mr. De Keyzer. It was a pleasure to have you with us today.",
+                "zh": "W: 谢谢您，德凯泽先生。今天很高兴邀请您参加我们的节目。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 12 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They make careful preparation beforehand."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They take too many irrelevant factors into account."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They spend too much time anticipating their defeat."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They try hard to avoid getting off on the wrong foot."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A person's nervous system is more complicated than imagined."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Golfers usually have positive mental images of themselves."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Mental images often interfere with athletes' performance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Thinking has the same effect on the nervous system as doing."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Anticipate possible problems."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make a list of do's and don'ts."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Picture themselves succeeding."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Try to appear more professional."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She wore a designer dress."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She won her first jury trial."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She did not speak loud enough."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She presented moving pictures.\n\nQuestions 13 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst. I remember talking with a young lawyer who was about to begin her first jury trial. She was very nervous. I asked what impression she wanted to make on the jury. She replied, \"I don't want to look too inexperienced; I don't want them to suspect this is my first trial.\"",
+                "zh": "面对新的情形时，有些人往往花费过多时间预想最坏的结果，从而反复预演自己的失败。我记得曾与一位即将开始第一次陪审团审判的年轻女律师交谈。她非常紧张。我问她想给陪审团留下什么印象。她回答说：“我不想显得太没有经验；我不想让他们怀疑这是我的第一次审判。”"
+              },
+              {
+                "en": "This lawyer had fallen victim to the \"don'ts\" syndrome, a form of negative goal setting. The \"don'ts\" can be self-fulfilling because your mind responds to pictures. Research conducted at Stanford University shows a mental image fires the nervous system the same way as actually doing something. That means when a golfer tells himself \"Don't hit the ball into the water,\" his mind sees the image of the ball flying into the water. So guess where the ball will go. Consequently, before going into any stressful situation, focus only on what you want to have happen.",
+                "zh": "这位律师成了“不要”综合征的受害者，这是一种消极的目标设定方式。“不要”之所以会自我实现，是因为人的思维会对画面作出反应。斯坦福大学开展的研究表明，心理意象会以与实际做某件事相同的方式激活神经系统。这意味着，当一名高尔夫球手对自己说“不要把球打进水里”时，他的脑海中看到的却是球飞进水里的画面。所以，猜猜球会飞到哪里。因而，在进入任何有压力的情境之前，只应专注于你希望发生的事情。"
+              },
+              {
+                "en": "I asked the lawyer again how she wanted to appear at her first trial, and this time she said: \"I want to look professional and self-assured.\" I told her to create a picture of what \"self-assured\" would look like. To her, it meant moving confidently around the courtroom, using convincing body language and projecting her voice, so it could be heard from the judge's bench to the back door. She also imagined a skillful closing argument and a winning trial. A few weeks after this positive dress rehearsal, the young lawyer did win.",
+                "zh": "我再次问这位律师，她希望自己在第一次审判中呈现出什么样子。这一次，她说：“我想显得专业而自信。”我告诉她，要构想出“自信”具体会是什么样子。对她而言，这意味着自信地在法庭内走动，运用有说服力的肢体语言，并放开声音讲话，使法官席到后门都能听见。她还想象了一个娴熟的结案陈词，以及一场胜诉的审判。几周后，在这次积极的预演之后，这位年轻律师确实赢得了审判。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 13 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its long-term effects are yet to be proved."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its health benefits have been overestimated."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It helps people to avoid developing breast cancer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It enables patients with diabetes to recover sooner."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It focused on their ways of life during young adulthood."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It tracked their change in food preferences for 20 years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It focused on their difference from men in fiber intake."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It tracked their eating habits since their adolescence."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Fiber may help to reduce hormones in the body."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Fiber may bring more benefits to women than men."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fiber may improve the function of heart muscles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Fiber may make blood circulation more smooth."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Most Americans don't eat enough fruits, vegetables or whole grains. Research now says adding fiber to the teen diet may help lower the risk of breast cancer.",
+                "zh": "大多数美国人摄入的水果、蔬菜或全谷物都不够。如今的研究表明，在青少年的饮食中增加膳食纤维，可能有助于降低患乳腺癌的风险。"
+              },
+              {
+                "en": "Conversations about the benefits of fiber are probably more common in nursing homes than high schools. But along comes a new study that could change that. Christy King, a diet specialist at Texas Children's Hospital, finds it hard to get teenage patients' attention about healthy eating. But telling them that eating lots of high-fiber foods could reduce the risk of breast cancer before middle age, that's a powerful message.",
+                "zh": "关于膳食纤维益处的讨论，在养老院里可能比在高中更常见。但一项新研究的出现，可能会改变这一点。德克萨斯儿童医院的营养专家克里斯蒂·金发现，很难引起青少年患者对健康饮食的注意。但如果告诉他们，多吃富含膳食纤维的食物能够降低在步入中年之前患乳腺癌的风险，这就是一个很有力的信息。"
+              },
+              {
+                "en": "The new finding is based on a study of 44,000 women. They were surveyed about their diets during high school, and their eating habits were tracked for two decades. It turns out that those who consumed the highest levels of fiber during adolescence had a lower risk of developing breast cancer, compared to the women who ate the least fiber. This important study demonstrates that the more fiber you eat during your high school years, the lower your risk of developing breast cancer in later life.",
+                "zh": "这一新发现基于一项对44,000名女性进行的研究。研究人员调查了她们在高中时期的饮食情况，并追踪了她们二十年的饮食习惯。结果表明，与摄入膳食纤维最少的女性相比，青春期摄入膳食纤维最多的女性患乳腺癌的风险更低。这项重要研究证明，在高中时期摄入的膳食纤维越多，日后患乳腺癌的风险就越低。"
+              },
+              {
+                "en": "The finding points to long-standing evidence that fiber may reduce circulating female hormone levels, which could explain the reduced risk. The bottom line here is the more fiber you eat, perhaps, a lower level of hormone in your body, and therefore, a lower lifetime risk of developing breast cancer. High-fiber diets are also linked to a reduced risk of heart disease and diabetes. That's why women are told to eat 25 grams of fiber a day-men even more.",
+                "zh": "这一发现指向了长期以来的证据：膳食纤维可能会降低女性体内循环激素的水平，这或许可以解释风险为何会降低。这里的关键是，摄入的膳食纤维越多，体内的激素水平可能就越低，因此一生中患乳腺癌的风险也就越低。高纤维饮食还与降低心脏病和糖尿病风险有关。这就是为什么建议女性每天摄入25克膳食纤维，而男性则应摄入更多。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Observing the changes in marketing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Conducting research on consumer behavior."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Studying the hazards of young people drinking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Investigating the impact of media on government."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the cause of many street riots."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a chief concern of parents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is getting worse year by year."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is an act of socialising."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They spent a week studying their own purchasing behavior."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They researched the impact of mobile phones on young people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They analysed their family budgets over the years."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They conducted a thorough research on advertising.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Well, my current research is really about consumer behavior. So recently I've looked at young people's drinking and it's obviously a major concern to government at the moment. I've also looked at how older people are represented in the media. Again, it's of major current interest with older people becoming a much larger proportion of UK, and indeed, world society. I'm also interested in how consumers operate online and how that online behavior might be different from how they operate offline when they go to the shops.",
+                "zh": "嗯，我目前的研究确实主要是关于消费者行为的。最近，我研究了年轻人的饮酒问题，这显然是当前政府非常关注的一个重大问题。我还研究了媒体如何呈现老年人形象。同样，随着老年人在英国乃至全球社会中所占的比例大幅增加，这也是当前备受关注的问题。我还对消费者如何在网上进行活动，以及他们在网上的行为可能与去商店购物时的线下行为有何不同感兴趣。"
+              },
+              {
+                "en": "Well, I think that the important thing here is to actually understand what's happening from the consumers' perspective. One of the things that businesses and indeed government organizations often fail to do is to really see what is happening from the consumers' perspective. For example, in the case of young people's drinking, one of the things that I've identified is that drinking for people, say, between the ages of 18 and 24 is all about the social activity. A lot of the government advertising has been about individual responsibility, but actually understanding that drinking is very much about the social activity and finding ways to help young people get home safely and not end up in hospital is one of the things that we've tried to present there.",
+                "zh": "嗯，我认为这里重要的是，真正从消费者的角度去理解正在发生什么。企业以及政府机构经常未能做到的一点，就是真正了解从消费者的角度来看究竟发生了什么。例如，就年轻人的饮酒问题而言，我发现，对于年龄在18岁至24岁之间的人来说，饮酒完全是与社交活动有关的。政府的大量宣传一直强调个人责任，但实际上，理解饮酒在很大程度上是一种社交活动，并设法帮助年轻人安全回家而不是最终住进医院，是我们试图在这方面提出的解决思路之一。"
+              },
+              {
+                "en": "The key thing about consumer behavior is that it's very much about how consumers change. Markets always change faster than marketing, so we have to look at what consumers are doing. Currently I teach consumer behavior to undergraduates in their second year and we look at all kinds of things in consumer behavior and particularly how consumers are presented in advertising. So they get involved by looking at advertising and really critically assessing the consumer behavior aspects of it and getting involved, sometimes doing primary research. For example, last year my students spent a week looking at their own purchasing and analysed it in detail from shopping to the relationship that they have with their retail banks and their mobile phone providers. I think they found it very useful and it also helped them identify just what kind of budgets they had too. The fact of the matter is that there is a whole range of interesting research out there. And I think as the years go on, there is going to be much more for us to consider and certainly much more for students to become involved in.",
+                "zh": "消费者行为的关键在于，消费者是如何发生变化的。市场总是比营销变化得更快，因此我们必须关注消费者在做什么。目前，我为大学二年级本科生讲授消费者行为课程，我们会研究消费者行为的各种问题，尤其是广告中如何呈现消费者。因此，他们会通过观察广告并对其中涉及消费者行为的方面进行真正批判性的评估来参与学习，有时还会开展一手研究。例如，去年我的学生花了一周时间观察自己的购买行为，并从购物到他们与零售银行及手机服务提供商之间的关系，对这些行为进行了详细分析。我认为他们觉得这非常有用，同时也帮助他们明确了自己究竟拥有怎样的预算。事实是，外面有各种各样有趣的研究。随着时间推移，我认为会有更多问题值得我们思考，当然也会有更多内容值得学生参与其中。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is helping its banks to improve efficiency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is trying hard to do away with dirty money."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is the first country to use credit cards in the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is likely to give up paper money in the near future."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Whether it is possible to travel without carrying any physical currency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether it is possible to predict how much money one is going to spend."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether the absence of physical currency causes a person to spend more."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether the absence of physical currency is going to affect everyday life."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "There was no food service on the train."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The service on the train was not good."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The restaurant car accepted cash only."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The cash in her handbag was missing."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By putting money into envelopes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By drawing money week by week."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By limiting their day-to-day spending."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By refusing to buy anything on credit.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Sweden was the first European country to print and use paper money, but it may soon do away with physical currencies. Banks can save a lot of money and avoid regulatory headaches by moving to a cash-free system, and they can also avoid bank robberies, theft, and dirty money.",
+                "zh": "瑞典是第一个印刷并使用纸币的欧洲国家，但它可能很快就会取消实体货币。银行转向无现金体系可以节省大量资金，避免监管方面的麻烦，同时也能防范银行抢劫、盗窃和非法资金。"
+              },
+              {
+                "en": "Claer Barrett, the editor of Financial Times Money, says the Western world is headed toward a world without physical currency. Andy Holder—the chief economist at The Bank of England—suggested that the UK move towards a government-backed digital currency. But does a cashless society really make good economic sense? \"The fact that cash is being drawn out of society is less a feature of our everyday lives, than the ease of electronic payments. Is this actually making us spend more money without realizing it?\"",
+                "zh": "《金融时报》Money版编辑克莱尔·巴雷特表示，西方世界正走向一个没有实体货币的世界。英格兰银行首席经济学家安迪·霍尔德曾建议英国转向由政府支持的数字货币。但无现金社会真的符合经济利益吗？“现金退出社会，与其说是我们日常生活的一种特征，不如说是电子支付变得更加便捷的结果。这是否实际上让我们在不知不觉中花了更多的钱？”"
+              },
+              {
+                "en": "Barrett wanted to find out if the absence of physical currency does indeed cause a person to spend more, so she decided to conduct an experiment a few months ago. She decided that she was going to try to just use cash for two weeks to make all of her essential purchases and see what that would do to her spending. She found she did spend a lot less money because it is incredibly hard to predict how much cash one is going to need—she was forever drawing money out of cash points. Months later, she was still finding cash stuffed in her trouser pockets and the pockets of her handbags.",
+                "zh": "巴雷特想弄清楚，没有实体货币是否确实会导致人们花得更多，因此几个月前她决定进行一项实验。她决定连续两周只使用现金购买所有必需品，看看这会对她的消费产生什么影响。她发现自己的确少花了很多钱，因为实在很难预估需要多少现金——她总是不停地从自动取款机取钱。几个月后，她仍然会在裤子口袋和手提包的口袋里发现塞着的现金。"
+              },
+              {
+                "en": "During the experiment, Barrett took a train ride. On the way, there was an announcement that the restaurant car was not currently accepting credit cards. The train cars were filled with groans because many of the passengers were traveling without cash.",
+                "zh": "实验期间，巴雷特乘坐了一趟火车。途中，车上广播通知说，餐车目前不接受信用卡。由于许多乘客出行时没有带现金，车厢里顿时充满了抱怨声。"
+              },
+              {
+                "en": "\"It underlines just how much things have changed in the last generation,\" Barrett says. My parents, when they were younger, used to budget by putting money into envelopes—they'd get paid and they'd immediately separate the cash into piles and put them in envelopes, so they knew what they had to spend week by week. It was a very effective way for them to keep track of their spending.",
+                "zh": "巴雷特说：“这突显了过去一代人的时间里，事物发生了多么大的变化。”我的父母年轻时，会把钱放进信封里来安排预算——他们领到工资后，会立即把现金分成几摞，分别放进信封，这样就知道每周可以花多少钱。对他们来说，这是记录支出的非常有效的方法。"
+              },
+              {
+                "en": "Nowadays, we're all on credit cards, we're doing online purchases, and money is kind of becoming a less physical and more imaginary type of thing that we can't get our hands around.",
+                "zh": "如今，我们都在使用信用卡，进行网上购物，金钱正逐渐变成一种不那么具象、更加虚拟的东西，让我们无法真正把握它。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Population explosion."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Chronic hunger."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Extinction of rare species."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Environmental deterioration."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They contribute to overpopulation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "About half of them are unintended."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have been brought under control."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The majority of them tend to end halfway."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is essential to the wellbeing of all species on earth."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is becoming a subject of interdisciplinary research."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is neglected in many of the developing countries."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is beginning to attract postgraduates' attention."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Why should you consider taking a course in demography in college? You will be growing up in the generation where the baby boomers are going into retirement and dying. You will face problems in the aging of the population that have never been faced before. You will hear more and more about migration between countries, and between rural areas and cities. You need to understand as a citizen and as a taxpayer and as a voter what's really behind the arguments.",
+                "zh": "为什么你应该考虑在大学里选修人口学课程？你将在这样一个时代成长起来：婴儿潮一代正步入退休并逐渐老去、死亡。你将面临前所未有的人口老龄化问题。你会越来越多地听到有关国家之间以及农村地区与城市之间人口迁移的讨论。作为公民、纳税人和选民，你需要了解这些争论背后的真实情况。"
+              },
+              {
+                "en": "I want to tell you about the past, present and future of the human population, so let's start with a few problems. Right now, a billion people are chronically hungry. That means they wake up hungry, they are hungry all day and they go to sleep hungry. A billion people are living in slums, not the same billion people, but there is some overlap. Living in slums means they don't have infrastructure to take the garbage away. They don't have secure water supplies to drink. Nearly a billion people are illiterate. Try to imagine your life being illiterate. You can't read the labels on the bottles in the supermarket, if you can get to a supermarket. Two thirds of those people who are illiterate are women and about 200 to 250 million women don't have access to birth control they want so that they can control their own fertility. This is not only a problem in developing countries; about half of all pregnancies globally are unintended. So those are examples of population problems.",
+                "zh": "我想向你介绍人类人口的过去、现在和未来，所以我们先从几个问题谈起。目前，有十亿人长期处于饥饿状态。这意味着他们醒来时就很饿，整天都在挨饿，晚上也饿着肚子入睡。有十亿人生活在贫民窟中，当然不是同样的那十亿人，但两者之间存在一定重合。生活在贫民窟意味着他们没有基础设施来运走垃圾，也没有可靠的饮用水供应。近十亿人不识字。试着想象一下一个不识字的人生。如果你能去超市，你甚至无法读懂货架上瓶子上的标签。在这些文盲中，三分之二是女性；大约有两亿至两亿五千万女性无法获得她们希望使用的避孕措施，因而无法控制自己的生育能力。这不仅是发展中国家面临的问题；在全球范围内，约有一半的妊娠并非意愿妊娠。这些就是人口问题的一些例子。"
+              },
+              {
+                "en": "Demography gives you the tools to understand and to address these problems. It's not only the study of human population, but the populations of non-human species, including viruses, like influenza, the bacteria in your gut, plants that you eat, animals that you enjoy or that provide you with meat. Demography also includes the study of non-living objects like light bulbs and taxi cabs and buildings because these are also populations. It studies these populations in the past, present and future, using quantitative data and mathematical models as tools of analysis. I see demography as a central subject related to economics. It is the means to intervene more wisely and more effectively in the real world to improve the well being not only of yourself, important as that may be, but of people around you and of other species with whom we share the planet.",
+                "zh": "人口学为你提供了理解和解决这些问题的工具。它研究的不仅是人类人口，还包括非人类物种的种群，例如流感病毒、你肠道中的细菌、你食用的植物、你喜爱的动物或为你提供肉食的动物。人口学还研究灯泡、出租车和建筑物等非生命物体，因为它们同样构成种群。它利用定量数据和数学模型作为分析工具，研究这些种群的过去、现在和未来。在我看来，人口学是一门与经济学密切相关的核心学科。它使我们能够更明智、更有效地介入现实世界，从而改善福祉；这不仅包括你自身的福祉，尽管这同样重要，也包括你周围人们的福祉，以及与我们共享这个星球的其他物种的福祉。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2017-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Let's all stop judging people who talk to themselves. New research says that those who can't seem to keep their inner monologues(独白) in are actually more likely to stay on task, remain"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "better and show improved perception capabilities. Not bad, really, for some extra muttering. According to a series of experiments published in the Quarterly Journal of Experimental Psychology by professors Gary Lupyan and Daniel Swignley, the act of using verbal clues to"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "mental pictures helps people function quicker. In one experiment, they showed pictures of various objects to twenty"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "and asked them to find just one of those, a banana. Half were"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "to repeat out loud what they were looking for and the other half kept their lips"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ". Those who talked to themselves found the banana slightly faster than those who didn't, the researchers say. In other experiments, Lupyan and Swignley found that"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "the name of a common product when on the hunt for it helped quicken someone's pace, but talking about uncommon items showed no advantage and slowed you down. Common research has long held that talking themselves through a task helps children learn, although doing so when you've"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "matured is not a great sign of"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ". The two professors hope to refute that idea,"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "that just as when kids walk themselves through a process, adults can benefit from using language not just to communicate, but also to help \"augment thinking\". Of course, you are still encouraged to keep the talking at library tones and, whatever you do, keep the information you share simple, like a grocery list. At any"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ", there's still such a thing as too much information."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "apparently"
+        },
+        {
+          "l": "B",
+          "w": "arrogance"
+        },
+        {
+          "l": "C",
+          "w": "brilliance"
+        },
+        {
+          "l": "D",
+          "w": "claiming"
+        },
+        {
+          "l": "E",
+          "w": "dedicated"
+        },
+        {
+          "l": "F",
+          "w": "focused"
+        },
+        {
+          "l": "G",
+          "w": "incur"
+        },
+        {
+          "l": "H",
+          "w": "instructed"
+        },
+        {
+          "l": "I",
+          "w": "obscurely"
+        },
+        {
+          "l": "J",
+          "w": "sealed"
+        },
+        {
+          "l": "K",
+          "w": "spectators"
+        },
+        {
+          "l": "L",
+          "w": "trigger"
+        },
+        {
+          "l": "M",
+          "w": "uttering"
+        },
+        {
+          "l": "N",
+          "w": "volume"
+        },
+        {
+          "l": "O",
+          "w": "volunteers"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "F"
+        },
+        {
+          "n": 27,
+          "a": "L"
+        },
+        {
+          "n": 28,
+          "a": "O"
+        },
+        {
+          "n": 29,
+          "a": "H"
+        },
+        {
+          "n": 30,
+          "a": "J"
+        },
+        {
+          "n": 31,
+          "a": "M"
+        },
+        {
+          "n": 32,
+          "a": "A"
+        },
+        {
+          "n": 33,
+          "a": "C"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "N"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Rich Children and Poor Ones Are Raised Very Differently",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "The lives of children from rich and poor American families look more different than ever before."
+        },
+        {
+          "l": "B",
+          "t": "Well-off families are ruled by calendars, with children enrolled in ballet, soccer and after-school programs, according to a new Pew Research Center survey. There are usually two parents, who spend a lot of time reading to children and worrying about their anxiety levels and hectic schedules."
+        },
+        {
+          "l": "C",
+          "t": "In poor families, meanwhile, children tend to spend their time at home or with extended family. They are more likely to grow up in neighborhoods that their parents say aren't great for raising children, and their parents worry about them getting shot, beaten up or in trouble with the law."
+        },
+        {
+          "l": "D",
+          "t": "The class differences in child rearing are growing—a symptom of widening inequality with far-reaching consequences. Different upbringings set children on different paths and can deepen socioeconomic divisions, especially because education is strongly linked to earnings. Children grow up learning the skills to succeed in their socioeconomic stratum(阶层), but not necessarily others."
+        },
+        {
+          "l": "E",
+          "t": "\"Early childhood experiences can be very consequential for children's long-term social, emotional and cognitive development,\" said Sean Reardon, professor of poverty and inequality in education at Stanford University. \"And because those influence educational success and later earnings, early childhood experiences cast a lifelong shadow.\" The cycle continues: Poorer parents have less time and fewer resources to invest in their children, which can leave children less prepared for school and work, which leads to lower earnings."
+        },
+        {
+          "l": "F",
+          "t": "American parents want similar things for their children, the Pew report and past research have found: for them to be healthy and happy, honest and ethical, caring and compassionate. There is no best parenting style or philosophy, researchers say, and across income groups, 92% of parents say they are doing a good job at raising their children. Yet they are doing it quite differently. Middle-class and higher-income parents see their children as projects in need of careful cultivation, says Annette Lareau, whose groundbreaking research on the topic was published in her book Unequal Childhoods: Class, Race and Family Life. They try to develop their skills through close supervision and organized activities, and teach children to question authority figures and navigate elite institutions."
+        },
+        {
+          "l": "G",
+          "t": "Working-class parents, meanwhile, believe their children will naturally thrive, and give them far greater independence and time for free play. They are taught to be compliant and respectful to adults. There are benefits to both approaches. Working-class children are happier, more independent, complain less and are closer with family members, Ms. Lareau found. Higher-income children are more likely to declare boredom and expect their parents to solve their problems. Yet later on, the more affluent children end up in college and on the way to the middle class, while working-class children tend to struggle. Children from higher- income families are likely to have the skills to navigate bureaucracies and succeed in schools and workplaces, Ms. Lareau said."
+        },
+        {
+          "l": "H",
+          "t": "\"Do all parents want the most success for their children? Absolutely,\" she said. \"Do some strategies give children more advantages than others in institutions? Probably they do. Will parents be damaging children if they have one fewer organized activity? No, I really doubt it.\""
+        },
+        {
+          "l": "I",
+          "t": "Social scientists say the differences arise in part because low-income parents have less money to spend on music class or preschool, and less flexible schedules to take children to museums or attend school events. Extracurricular activities reflect the differences in child rearing in the Pew survey, which was of a nationally representative sample of 1,807 parents. Of families earning more than $75,000 a year, 84% say their children have participated in organized sports over the past year, 64% have done volunteer work and 62% have taken lessons in music, dance or art. Of families earning less than $30,000, 59% of children have done sports, 37% have volunteered and 41% have taken arts classes."
+        },
+        {
+          "l": "J",
+          "t": "Especially in affluent families, children start young. Nearly half of high-earning, college-graduate parents enrolled their children in arts classes before they were 5, compared with one-fifth of low-income, less- educated parents. Nonetheless, 20% of well-off parents say their children's schedules are too hectic, compared with 8% of poorer parents."
+        },
+        {
+          "l": "K",
+          "t": "Another example is reading aloud, which studies have shown gives children bigger vocabularies and better reading comprehension in school. 71% of parents with a college degree say they do it every day, compared with 33% of those with a high school diploma or less. White parents are more likely than others to read to their children daily, as are married parents. Most affluent parents enroll their children in preschool or day care, while low-income parents are more likely to depend on family members. Discipline techniques vary by education level: 8% of those with a postgraduate degree say they often beat their children, compared with 22% of those with a high school degree or less."
+        },
+        {
+          "l": "L",
+          "t": "The survey also probed attitudes and anxieties. Interestingly, parents' attitudes toward education do not seem to reflect their own educational background as much as a belief in the importance of education for upward mobility. Most American parents say they are not concerned about their children's grades as long as they work hard. But 50% of poor parents say it is extremely important to them that their children earn a college degree, compared with 39% of wealthier parents."
+        },
+        {
+          "l": "M",
+          "t": "Less-educated parents, and poorer and black and Latino parents are more likely to believe that there is no such thing as too much involvement in a child's education. Parents who are white, wealthy or college- educated say too much involvement can be bad. Parental anxieties reflect their circumstances. High-earning parents are much more likely to say they live in a good neighborhood for raising children. While bullying is parents' greatest concern overall, nearly half of low-income parents worry their child will get shot, compared with one-fifth of high-income parents. They are more worried about their children being depressed or anxious."
+        },
+        {
+          "l": "N",
+          "t": "In the Pew survey, middle-class families earning between $30,000 and $75,000 a year fell right between working-class and high-earning parents on issues like the quality of their neighborhood for raising children, participation in extracurricular activities and involvement in their children's education."
+        },
+        {
+          "l": "O",
+          "t": "Children were not always raised so differently. The achievement gap between children from high- and low- income families is 30–40% larger among children born in 2001 than those born 25 years earlier, according to Mr. Reardon's research. People used to live near people of different income levels; neighborhoods are now more segregated by income. More than a quarter of children live in single-parent households—a historic high, according to Pew—and these children are three times as likely to live in poverty as those who live with married parents. Meanwhile, growing income inequality has coincided with the increasing importance of a college degree for earning a middle-class wage."
+        },
+        {
+          "l": "P",
+          "t": "Yet there are recent signs that the gap could be starting to shrink. In the past decade, even as income inequality has grown, some of the socioeconomic differences in parenting, like reading to children and going to libraries, have narrowed."
+        },
+        {
+          "l": "Q",
+          "t": "Public policies aimed at young children have helped, including public preschool programs and reading initiatives. Addressing differences in the earliest years, it seems, could reduce inequality in the next generation."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Working-class parents teach their children to be obedient and show respect to adults.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "American parents, whether rich or poor, have similar expectations of their children despite different ways of parenting.",
+          "a": "F"
+        },
+        {
+          "n": 38,
+          "s": "While rich parents are more concerned with their children's psychological well-being, poor parents are more worried about their children's safety.",
+          "a": "M"
+        },
+        {
+          "n": 39,
+          "s": "The increasing differences in child rearing between rich and poor families reflect growing social inequality.",
+          "a": "D"
+        },
+        {
+          "n": 40,
+          "s": "Parenting approaches of working-class and affluent families both have advantages.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "Higher-income families and working-class families now tend to live in different neighborhoods.",
+          "a": "O"
+        },
+        {
+          "n": 42,
+          "s": "Physical punishment is used much less by well-educated parents.",
+          "a": "K"
+        },
+        {
+          "n": 43,
+          "s": "Ms. Lareau doesn't believe participating in fewer after-class activities will negatively affect children's development.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "Wealthy parents are concerned about their children's mental health and busy schedules.",
+          "a": "B"
+        },
+        {
+          "n": 45,
+          "s": "Some socioeconomic differences in child rearing have shrunk in the past ten years.",
+          "a": "P"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Tennessee's technical and community colleges will not outsource(外包) management of their facilities to a private company, a decision one leader said was bolstered by an analysis of spending at each campus. In an email sent Monday to college presidents in the Tennessee Board of Regents system, outgoing Chancellor John Morgan said an internal analysis showed that each campus' spending on facilities management fell well below the industry standards identified by the state. Morgan said those findings—which included data from the system's 13 community colleges, 27 technical colleges and six universities—were part of the decision not to move forward with Governor Bill Haslam's proposal to privatize management of state buildings in an effort to save money. \"While these numbers are still being validated by the state, we feel any adjustments they might suggest will be immaterial,\" Morgan wrote to the presidents. \"System institutions are operating very efficiently based on this analysis, raising the question of the value of pursuing a broad scale outsourcing initiative.\" Workers' advocates have criticized Haslam's plan, saying it would mean some campus workers would lose their jobs or benefits. Haslam has said colleges would be free to opt in or out of the outsourcing plan, which has not been finalized. Morgan notified the Haslam administration of his decision to opt out in a letter sent last week. That letter, which includes several concerns Morgan has with the plan, was originally obtained by The Commercial Appeal in Memphis. In an email statement from the state's Office of Customer Focused Government, which is examining the possibility of outsourcing, spokeswoman Michelle R. Martin said officials were still working to analyze the data from the Board of Regents. Data on management expenses at the college system and in other state departments will be part of a \"business justification\" the state will use as officials deliberate the specifics of an outsourcing plan. \"The state's facilities management project team is still in the process of developing its business justification and expects to have that completed and available to the public at the end of February,\" Martin said. \"At this time there is nothing to take action on since the analysis has yet to be completed.\" Morgan's comments on outsourcing mark the second time this month that he has come out against one of Haslam's plans for higher education in Tennessee. Morgan said last week that he would retire at the end of January because of the governor's proposal to split off six universities of the Board of Regents system and create separate governing boards for each of them. In his resignation letter, Morgan called the reorganization \"unworkable\".",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn about the decision of technical and community colleges in Tennessee?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is backed by a campus spending analysis."
+              },
+              {
+                "l": "B",
+                "t": "It has been flatly rejected by the governor."
+              },
+              {
+                "l": "C",
+                "t": "It has neglected their faculty's demands."
+              },
+              {
+                "l": "D",
+                "t": "It will improve their financial situation."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the campus spending analysis reveal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Private companies play a big role in campus management."
+              },
+              {
+                "l": "B",
+                "t": "Facilities management by colleges is more cost-effective."
+              },
+              {
+                "l": "C",
+                "t": "Facilities management has greatly improved in recent years."
+              },
+              {
+                "l": "D",
+                "t": "Colleges exercise full control over their own financial affairs."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "Workers' supporters argue that Bill Haslam's proposal would _________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "deprive colleges of the right to manage their facilities"
+              },
+              {
+                "l": "B",
+                "t": "make workers less motivated in performing duties"
+              },
+              {
+                "l": "C",
+                "t": "render a number of campus workers jobless"
+              },
+              {
+                "l": "D",
+                "t": "lead to the privatization of campus facilities"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What do we learn from the state spokeswoman's response to John Morgan's decision?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The outsourcing plan is not yet finalized."
+              },
+              {
+                "l": "B",
+                "t": "The outsourcing plan will be implemented."
+              },
+              {
+                "l": "C",
+                "t": "The state officials are confident about the outsourcing plan."
+              },
+              {
+                "l": "D",
+                "t": "The college spending analysis justifies the outsourcing plan."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "Why did John Morgan decide to resign?",
+            "o": [
+              {
+                "l": "A",
+                "t": "He had lost confidence in the Tennessee state government."
+              },
+              {
+                "l": "B",
+                "t": "He disagreed with the governor on higher education policies."
+              },
+              {
+                "l": "C",
+                "t": "He thought the state's outsourcing proposal was simply unworkable."
+              },
+              {
+                "l": "D",
+                "t": "He opposed the governor's plan to reconstruct the college board system."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Beginning in the late sixteenth century, it became fashionable for young aristocrats to visit Paris, Venice, Florence, and above all, Rome, as the culmination(终极) of their classical education. Thus was born the idea of the Grand Tour, a practice which introduced Englishmen, Germans, Scandinavians, and also Americans to the art and culture of France and Italy for the next 300 years. Travel was arduous and costly throughout the period, possible only for a privileged class—the same that produced gentlemen scientists, authors, antique experts, and patrons of the arts. The Grand Tourist was typically a young man with a thorough grounding in Greek and Latin literature as well as some leisure time, some means, and some interest in art. The German traveler Johann Winckelmann pioneered the field of art history with his comprehensive study of Greek and Roman sculpture; he was portrayed by his friend Anton Raphael Mengs at the beginning of his long residence in Rome. Most Grand Tourists, however, stayed for briefer periods and set out with less scholarly intentions, accompanied by a teacher or guardian, and expected to return home with souvenirs of their travels as well as an understanding of art and architecture formed by exposure to great masterpieces. London was a frequent starting point for Grand Tourists, and Paris a compulsory destination; many traveled to the Netherlands, some to Switzerland and Germany, and a very few adventurers to Spain, Greece, or Turkey. The essential place to visit, however, was Italy. The British traveler Charles Thompson spoke for many Grand Tourists when in 1744 he described himself as \"being impatiently desirous of viewing a country so famous in history, a country which once gave laws to the world, and which is at present the greatest school of music and painting, contains the noblest productions of sculpture and architecture, and is filled with cabinets of rarities, and collections of all kinds of historical relics\". Within Italy, the great focus was Rome, whose ancient ruins and more recent achievements were shown to every Grand Tourist. Panini's Ancient Rome and Modern Rome represent the sights most prized, including celebrated Greco-Roman statues and views of famous ruins, fountains, and churches. Since there were few museums anywhere in Europe before the close of the eighteenth century, Grand Tourists often saw paintings and sculptures by gaining admission to private collections, and many were eager to acquire examples of Greco-Roman and Italian art for their own collections. In England, where architecture was increasingly seen as an aristocratic pursuit, noblemen often applied what they learned from the villas of Palladio in the Veneto and the evocative(唤起回忆的) ruins of Rome to their own country houses and gardens.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is said about the Grand Tour?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It was fashionable among young people of the time."
+              },
+              {
+                "l": "B",
+                "t": "It was unaffordable for ordinary people."
+              },
+              {
+                "l": "C",
+                "t": "It produced some famous European artists."
+              },
+              {
+                "l": "D",
+                "t": "It made a compulsory part of college education."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What did Grand Tourists have in common?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They had much geographic knowledge."
+              },
+              {
+                "l": "B",
+                "t": "They were courageous and venturesome."
+              },
+              {
+                "l": "C",
+                "t": "They were versed in literature and interested in art."
+              },
+              {
+                "l": "D",
+                "t": "They had enough travel and outdoor-life experience."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "How did Grand Tourists benefit from their travel?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They found inspiration in the world's greatest masterpieces."
+              },
+              {
+                "l": "B",
+                "t": "They got a better understanding of early human civilization."
+              },
+              {
+                "l": "C",
+                "t": "They developed an interest in the origin of Modern art forms."
+              },
+              {
+                "l": "D",
+                "t": "They gained some knowledge of classical art and architecture."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "Why did many Grand Tourists visit the private collections?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They could buy unique souvenirs there to take back home."
+              },
+              {
+                "l": "B",
+                "t": "Europe hardly had any museums before the 19th century."
+              },
+              {
+                "l": "C",
+                "t": "They found the antiques there more valuable."
+              },
+              {
+                "l": "D",
+                "t": "Private collections were of greater variety."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "How did the Grand Tour influence the architecture in England?",
+            "o": [
+              {
+                "l": "A",
+                "t": "There appeared more and more Roman-style buildings."
+              },
+              {
+                "l": "B",
+                "t": "Many aristocrats began to move into Roman-style villas."
+              },
+              {
+                "l": "C",
+                "t": "Aristocrats' country houses all had Roman-style gardens."
+              },
+              {
+                "l": "D",
+                "t": "Italian architects were hired to design houses and gardens."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "唐朝始于618年，终于907年，是中国历史上最灿烂的时期。经过近三百年的发展，唐代中国成为世界上最 繁荣的强国，其首都长安是当时世界上最大的都市。这一时期，经济发达、商业繁荣、社会秩序稳定，甚至边 境也对外开放。随着城市化和财富的增加，艺术和文学也繁荣起来。李白和杜甫是以作品简洁自然而著称的诗 人。他们的诗歌打动了学者和普通人的心。即使在今天，他们的许多诗歌仍广为儿童及成人阅读背诵。",
+    "reference": "The Tang Dynasty, which began in 618 and ended in 907, was the most splendid period in Chinese history. After nearly three centuries of development, Tang China became the most prosperous power in the world, and its capital Chang'an was the largest city in the world at that time. During this period, the economy was developed, commerce flourished, social order was stable, and even the borders were open to the outside world. With the growth of urbanization and wealth, art and literature flourished as well. Li Bai and Du Fu were poets known for the simplicity and naturalness of their works. Their poems touched the hearts of both scholars and ordinary people. Even today, many of their poems are still widely read and recited by both children and adults."
+  }
+}

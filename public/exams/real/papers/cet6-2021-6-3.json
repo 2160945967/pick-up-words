@@ -1,0 +1,1434 @@
+{
+  "id": "cet6-2021-6-3",
+  "level": "cet6",
+  "year": 2021,
+  "month": 6,
+  "set": 3,
+  "title": "2021年6月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay based on the chart below. You should start your essay with a brief description of the chart and comment on China's achievements in poverty alleviation. You should write at least 150 words but no more than 200 words.",
+    "sample": "The chart clearly illustrates the striking decline of rural poverty in China from 2012 to 2020. During this period, the rural poor population plunged from around 98 million to nearly zero, while the incidence of poverty fell in parallel from about 10.2% to almost 0%. Based on official statistics, this downward trend remained remarkably steady throughout the whole period.Several factors account for this remarkable achievement. Above all, the Chinese government made poverty alleviation a national priority and rolled out a series of targeted measures, such as developing local industries, relocating residents from harsh areas and improving education. These well-designed policies steadily lifted millions of people out of poverty.The significance of this progress can hardly be overstated. Not only has it dramatically improved the livelihood of the rural population, but it also offers a valuable model for other developing nations still fighting poverty. In my view, such an accomplishment fully demonstrates what determination and effective governance can bring about."
+  },
+  "listening": {
+    "audio": "cet6-2021-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He will tell the management how he really feels."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He will meet his new manager in two weeks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is going to attend a job interview."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is going to leave his present job."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It should be kept private."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It should be carefully analyzed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can be quite useful to senior managers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can improve interviewees' job prospects."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It may leave a negative impression on the interviewer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It may adversely affect his future career prospects."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It may displease his immediate superiors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It may do harm to his fellow employees."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Prepare a comprehensive exit report."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Do some practice for the exit interview."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Network with his close friends to find a better employer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Pour out his frustrations on a rate-your-employer website.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: It's my last day at work tomorrow. I'll start my new job in two weeks. My human resources manager wants to conduct an interview with me before I leave.",
+                "zh": "M: 明天是我在这儿工作的最后一天。两周后我就要开始新工作了。人力资源经理想在我离职前和我进行一次面谈。"
+              },
+              {
+                "en": "W: Ah, an exit interview. Are you looking forward to it?",
+                "zh": "W: 啊，离职面谈。你期待吗？"
+              },
+              {
+                "en": "M: I'm not sure how I feel about it. I resigned because I've been unhappy at that company for a long time, but I'm not sure if I should tell them how I really feel.",
+                "zh": "M: 我也说不清自己是什么感觉。我辞职是因为我在那家公司长期以来一直很不开心，但我不确定自己是否应该告诉他们真实的感受。"
+              },
+              {
+                "en": "W: To my way of thinking, there are two main potential benefits that come from unleashing an agitated stream of truth during an exit interview. The first is release. Unburdening yourself of frustration, and perhaps even anger to someone who isn't a friend or close colleague can be wonderfully freeing.",
+                "zh": "W: 在我看来，在离职面谈时把一股激动的真实想法倾泻出来，可能有两个主要好处。第一个是释放。把自己的挫败感，甚至愤怒，倾诉给一个既不是朋友也不是关系亲密的同事的人，可能会让你感到如释重负。"
+              },
+              {
+                "en": "M: And let me guess. The second is that the criticism will, theoretically, help the organization I'm leaving to improve, making sure employees of the future are less likely to encounter what I did?",
+                "zh": "M: 让我猜猜。第二个好处是，这些批评理论上会帮助我即将离开的组织改进，从而确保未来的员工不太可能遇到我所经历的那些问题？"
+              },
+              {
+                "en": "W: That's right. But the problem with the company improvement part is that very often it doesn't happen. An exit interview is supposed to be private, but often isn't. In my company, the information gained from these interviews is often not confidential. And the information is used as dirt against another manager, or can be traded among senior managers.",
+                "zh": "W: 没错。但公司改进这一点的问题在于，很多时候它并不会发生。离职面谈本应是私下进行的，但往往并不是。在我所在的公司，从这些面谈中获得的信息通常并不保密。这些信息会被用来攻击另一位经理，或者在高层经理之间互相交换。"
+              },
+              {
+                "en": "M: Now you've got me rethinking what I'll disclose in the interview. There is always a chance that it could affect my reputation and my ability to network in the industry. It is a pretty small industry after all.",
+                "zh": "M: 你现在让我重新考虑面谈时要透露些什么了。我的名声和我在这个行业建立人脉的能力，总有可能受到影响。毕竟这个行业相当小。"
+              },
+              {
+                "en": "W: Anything you initially gain from the instant satisfaction of telling it like it is, you might lose down the track by injuring your future career prospects.",
+                "zh": "W: 你最初因为直抒己见而获得的即时满足，可能会因为损害未来的职业发展前景而在以后失去。"
+              },
+              {
+                "en": "M: Right. Perhaps it would be better getting things off my chest by going to one of those rate-your-employer websites.",
+                "zh": "M: 对。也许去那些给雇主评分的网站发泄一下，会更好一些。"
+              },
+              {
+                "en": "W: You could. And don't do the interview at all. Exit interviews are not mandatory.",
+                "zh": "W: 你可以这么做。也可以完全不参加面谈。离职面谈不是强制性的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Her unsuccessful journey."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her month-long expedition."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Her latest documentary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her career as a botanist."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She had to live like a vegetarian."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She was caught in a hurricane."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She had to endure many hardships."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She suffered from water shortage."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A hurricane was coming."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A flood was approaching."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They had no more food in the canoe."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They could no longer bear the humidity."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was memorable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was unbearable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was uneventful."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was fruitful."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Today, I'm talking to the renowned botanist, Jane Forster.",
+                "zh": "M: 今天，我要采访著名植物学家 Jane Forster。"
+              },
+              {
+                "en": "W: Thank you for inviting me to join you on the show, Henry.",
+                "zh": "W: Henry，谢谢你邀请我参加你的节目。"
+              },
+              {
+                "en": "M: Recently, Jane, you've become quite a celebrity since the release of your latest documentary. Can you tell us a little about it?",
+                "zh": "M: 最近，Jane，自从你最新的纪录片上映以来，你已经成了相当有名的人。能给我们介绍一下这部纪录片吗？"
+              },
+              {
+                "en": "W: Well, it follows my expedition to study the vegetation indigenous to the rainforest in equatorial areas of Southeast Asia.",
+                "zh": "W: 这部纪录片记录了我在东南亚赤道地区的热带雨林中，考察当地原生植被的一次探险。"
+              },
+              {
+                "en": "M: You certainly get to travel to some very exotic locations.",
+                "zh": "M: 你确实有机会去一些非常异国情调的地方旅行。"
+              },
+              {
+                "en": "W: It was far from glamorous, to be honest. The area we visited was accessible only by canoe and the living conditions in the hut were primitive, to say the least. There was no electricity. And our water supply was a nearby stream.",
+                "zh": "W: 老实说，那一点也不光鲜。我们去的地方只能乘独木舟到达，而且小屋里的生活条件至少可以说是很原始。那里没有电，我们的水源就是附近的一条溪流。"
+              },
+              {
+                "en": "M: How were the weather conditions while you were there?",
+                "zh": "M: 你们在那里时的天气状况怎么样？"
+              },
+              {
+                "en": "W: The weather was not conducive to our work at all, since the humidity was almost unbearable. At midday, we stayed in the hut and did nothing. It was too humid to either work or sleep.",
+                "zh": "W: 天气完全不利于我们的工作，因为空气湿度几乎让人无法忍受。中午时分，我们就待在小屋里，什么也不做。天气太潮湿了，既没法工作，也没法睡觉。"
+              },
+              {
+                "en": "M: How long did your team spend in the jungle?",
+                "zh": "M: 你们团队在丛林里待了多久？"
+              },
+              {
+                "en": "W: Originally, we planned to be there for a month. But in the end, we stayed for only two weeks.",
+                "zh": "W: 我们原本计划在那里待一个月，但最后只待了两个星期。"
+              },
+              {
+                "en": "M: Why did you cut the expedition short?",
+                "zh": "M: 你们为什么提前结束了这次探险？"
+              },
+              {
+                "en": "W: Halfway through the trip, we received news that a hurricane was approaching. And we had to evacuate at very short notice.",
+                "zh": "W: 旅程过半时，我们收到消息说一场飓风正在逼近，所以不得不在极短的时间内撤离。"
+              },
+              {
+                "en": "M: That sounds like a fascinating anecdote.",
+                "zh": "M: 听起来真是个引人入胜的故事。"
+              },
+              {
+                "en": "W: It was frightening. The fastest evacuation route was through river rapids. We had to navigate them carrying all of our equipment.",
+                "zh": "W: 当时很吓人。最快的撤离路线要经过湍急的河流，我们不得不带着所有设备穿过急流。"
+              },
+              {
+                "en": "M: So overall, was the journey unsuccessful?",
+                "zh": "M: 那总的来说，这次旅程算是失败了吗？"
+              },
+              {
+                "en": "W: Absolutely not. We gathered a massive amount of data about the local plant life.",
+                "zh": "W: 当然不是。我们收集了大量有关当地植物的资料。"
+              },
+              {
+                "en": "M: Why do you put up with such adverse conditions?",
+                "zh": "M: 你为什么能忍受如此恶劣的条件？"
+              },
+              {
+                "en": "W: Botany is an obsession for me. Many of the destinations I visit have stunning scenery. And I get to meet a variety of people from all over the world.",
+                "zh": "W: 植物学对我来说是一种痴迷。我去过的许多地方都有令人惊叹的景色，而且我还能结识来自世界各地的各种各样的人。"
+              },
+              {
+                "en": "M: So where will your next destination be?",
+                "zh": "M: 那么，你的下一个目的地会是哪里？"
+              },
+              {
+                "en": "W: I haven't decided yet.",
+                "zh": "W: 我还没决定。"
+              },
+              {
+                "en": "M: Then we can leave it for another occasion. Thanks.",
+                "zh": "M: 那我们下次再聊。谢谢。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It diminishes laymen's interest in science."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It ensures the accuracy of their arguments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It makes their expressions more explicit."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It hurts laymen's dignity and self-esteem."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can learn to communicate with scientists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to disbelieve the actual science."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They feel great respect towards scientists."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will see the complexity of science."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Find appropriate topics."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Stimulate their interest."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Explain all the jargon terms."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Do away with jargon terms.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Scientists often use specialized jargon terms while communicating with laymen. Most of them don't realize the harmful effects of this practice. In a new study, people exposed to jargon when reading about subjects like autonomous vehicles and surgical robots later said they were less interested in science than others who read about the same topics, but without the use of specialized terms. They also felt less informed about science and less qualified to discuss science topics. It's noteworthy that it made no difference if the jargon terms were defined in the text. Even when the terms were defined, readers still felt the same lack of engagement as readers who read jargon that wasn't explained.",
+                "zh": "科学家在与非专业人士交流时，常常使用专业术语。他们中的大多数人没有意识到这种做法会产生有害影响。一项新的研究显示，在阅读有关自动驾驶汽车和手术机器人等主题的内容时接触到专业术语的人，后来表示自己对科学的兴趣低于阅读相同主题但未使用专业术语的人。他们还觉得自己对科学的了解更少，也没有足够的资格讨论科学话题。值得注意的是，专业术语是否在文中得到定义并没有造成任何差异。即使这些术语得到了解释，读者仍然感到自己与内容缺乏联系，就像那些阅读了未加解释的专业术语的读者一样。"
+              },
+              {
+                "en": "The problem is that the mere presence of jargon sends a discouraging message to readers. Hillary Schulman, the author of the study, asserts that specialized words are a signal. Jargon tells people that the message isn't for them.",
+                "zh": "问题在于，专业术语的存在本身就会向读者传递一种令人气馁的信息。该研究的作者希拉里·舒尔曼认为，专业词汇是一种信号。专业术语会告诉人们，这条信息不是为他们准备的。"
+              },
+              {
+                "en": "There's an even darker side to how people react to jargon. In another study, researchers found that reading scientific articles containing jargon led people to doubt the actual science. They found the opposite when a text is easier to read. Then people are more persuaded.",
+                "zh": "人们对专业术语的反应还有更为严重的一面。在另一项研究中，研究人员发现，阅读含有专业术语的科学文章会使人们怀疑科学本身。当文本更容易阅读时，他们发现的结果则恰恰相反。这样一来，人们会更容易被说服。"
+              },
+              {
+                "en": "Thus, it's important to communicate clearly when talking about complex science subjects. This is especially true with issues related to public health, like the safety of new medications and the benefits of vaccines. Schulman concedes that the use of jargon is appropriate with scientific audiences. But scientists who want to communicate with the general public need to modify their language. They need to eliminate jargon.",
+                "zh": "因此，在谈论复杂的科学主题时，清晰地进行交流非常重要。涉及公共卫生的问题尤其如此，例如新药的安全性和疫苗的益处。舒尔曼承认，在面向科学界人士时使用专业术语是恰当的。但希望与公众交流的科学家需要调整自己的语言。他们需要消除专业术语。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The local gassy hill might start a huge fire."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There was oil leakage along the Gulf Coast."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The erupting gas might endanger local children."
+                  },
+                  {
+                    "l": "D",
+                    "t": "There were oil deposits below a local gassy hill."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The massive gas underground."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their lack of the needed skill."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The sand under the hill."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their lack of suitable tools."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It rendered many oil workers jobless."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was not as effective as he claimed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It gave birth to the oil drilling industry."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was not popularized until years later."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It radically transformed the state's economy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It resulted in an oil surplus all over the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It totally destroyed the state's rural landscape."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It ruined the state's cotton and beef industries."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "At the beginning of the twentieth century, on the Gulf Coast in the US state of Texas, there was a hill where gas leakage was so noticeable that schoolboys would sometimes set the hill on fire.",
+                "zh": "二十世纪初，在美国得克萨斯州的墨西哥湾沿岸，有一座山丘，那里天然气泄漏十分明显，以至于学生们有时会把山丘点燃。"
+              },
+              {
+                "en": "Pattillo Higgins, a disreputable local businessman, became convinced that there was oil below the gassy hill. Oil wells weren't drilled back then; they were essentially dug. The sand under the hill defeated several attempts by Higgins' workers to make a proper hole. Higgins had forecast oil at 1,000 feet, a totally made-up figure.",
+                "zh": "帕蒂洛·希金斯是一名声名狼藉的当地商人，他确信这座冒气的山丘下方有石油。那时还没有钻探油井；油井基本上是挖出来的。山丘下的沙土使希金斯的工人几次试图挖出合适井孔的努力都以失败告终。希金斯预言一千英尺深处会有石油，这个数字完全是凭空捏造的。"
+              },
+              {
+                "en": "Higgins subsequently hired a mining engineer, Captain Anthony Lucas. After encountering several setbacks, Captain Lucas decided to use a drill, and his innovations created the modern oil drilling industry.",
+                "zh": "随后，希金斯聘请了一名采矿工程师安东尼·卢卡斯上尉。在经历了几次挫折后，卢卡斯上尉决定使用钻机，他的创新创造了现代石油钻探业。"
+              },
+              {
+                "en": "In January 1901, at 1,020 feet-almost precisely the depth predicted by Higgins' wild guess—the well roared and suddenly ejected mud and six tons of drilling pipe out of the ground, terrifying those present. For the next nine days, until the well was capped, the well poured out more oil than all the wells in America combined.",
+                "zh": "1901年1月，在一千零二十英尺深处——几乎正是希金斯那个荒唐猜测所预言的深度——油井发出轰鸣，突然将泥浆和六吨钻管从地下喷出，把在场的人吓坏了。在接下来的九天里，直到油井被封住为止，它涌出的石油超过了美国所有油井产量的总和。"
+              },
+              {
+                "en": "In those days, Texas was almost entirely rural, with no large cities and practically no industry; cotton and beef were the foundation of the economy. Higgins' well changed that. The boom made some prospectors millionaires, but the sudden surplus of petroleum was not entirely a blessing for Texas. In the 1930s, prices crashed, to the point that in some parts of the country oil was cheaper than water. That would become a familiar pattern of the boom-or-bust Texas' economy.",
+                "zh": "那时，得克萨斯州几乎完全是农村地区，没有大城市，实际上也没有工业；棉花和牛肉是经济的基础。希金斯的油井改变了这一切。这场繁荣使一些勘探者成为百万富翁，但石油突然过剩对得克萨斯州而言并不完全是福音。到了20世纪30年代，油价暴跌，在美国一些地区，石油甚至比水还便宜。这后来成为得克萨斯州经济繁荣或萧条的一个常见模式。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Unsuitable jobs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Bad managers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Insufficient motivation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Tough regulations."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Ineffective training."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Toxic company culture."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lack of regular evaluation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Overburdening of managers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It collected feedback from both employers and employees."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was conducted from frontline managers' point of view."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It provided meaningful clues to solving the problem."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was based only on the perspective of employees.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Most people dislike their jobs. It's an astonishing but statistical fact. A primary cause of employee dissatisfaction, according to fresh research, is that many believe they have terrible managers. Few describe their managers as malicious or manipulative though. While those types certainly exist, they are a minority. The majority of managers, seemingly, just don't know any better. They are often emulating bad managers they've had in the past. It's likely they've never read a management book or attended a management course. They might not have even reflected on what good management looks like and how it would influence their own management style.",
+                "zh": "大多数人不喜欢自己的工作。这是一个令人惊讶却有统计数据支持的事实。根据最新研究，员工不满的一个主要原因是，许多人认为自己的经理非常糟糕。不过，很少有人把自己的经理描述为恶意或善于操纵他人的人。虽然这类人确实存在，但他们只是少数。显然，大多数经理只是缺乏更好的管理方法。他们往往是在模仿自己过去遇到过的糟糕经理。他们很可能从未读过管理类书籍，也没有参加过管理课程。他们甚至可能从未认真思考过良好的管理应该是什么样，以及良好的管理会如何影响自己的管理风格。"
+              },
+              {
+                "en": "The researchers interviewed employees about their managers, beginning with a question about the worst manager they had ever had. From this, the researchers came up with four main causes of why some managers are perceived as being simply awful at their jobs.",
+                "zh": "研究人员就经理的表现采访了员工，首先询问他们曾经遇到过的最糟糕的经理。根据这些访谈，研究人员归纳出一些经理被认为工作能力极差的四个主要原因。"
+              },
+              {
+                "en": "The first cause was company culture, which was seen by employees as enabling poor management practices. It was specifically stressful work environments, minimal training and a lack of accountability that were found to be the most blameworthy. Often a manager's superiors can effectively encourage a manager's distasteful behavior when they fail to discipline the person's wrongdoings. Such workplaces are sometimes described as toxic.",
+                "zh": "第一个原因是企业文化，员工认为企业文化助长了糟糕的管理方式。研究发现，最应受指责的具体因素是压力很大的工作环境、极少的培训以及缺乏问责。经理的上级在未能惩处经理的不当行为时，往往实际上是在助长这种令人反感的行为。这类工作场所有时被称为有毒的工作环境。"
+              },
+              {
+                "en": "The second cause was attributed to the managers' characteristics. Those deemed to be most destructive were odd people—those without drive, those who allow personal problems into the workplace, and those with an unpleasant temperament or personality in general.",
+                "zh": "第二个原因归结于经理自身的特点。被认为最具破坏性的是一些古怪的人——缺乏进取心的人、把个人问题带入工作场所的人，以及总体上脾气或性格令人不快的人。"
+              },
+              {
+                "en": "The third cause of poor management was associated with a deficiency of qualifications not so much the formal variety one obtains from a university, but the informal variety that comes from credible work experience and professional accomplishments.",
+                "zh": "管理不善的第三个原因与资历不足有关，这里的资历并不主要指从大学获得的正式学历，而是指通过可信的工作经历和职业成就积累起来的非正式资历。"
+              },
+              {
+                "en": "The fourth cause concerned managers who've been promoted for reasons other than potential. One reason in particular why these people had been promoted was that they had been around the longest. It wasn't their skill set or other merits that got them the job; it was their tenure.",
+                "zh": "第四个原因涉及那些因潜力以外的理由而获得晋升的经理。其中一个特别的原因是，他们在公司待的时间最长。让他们得到这份工作的并不是他们的技能或其他优点，而是他们的任职年限。"
+              },
+              {
+                "en": "A point worth making is that the study was based only on the perspective of employees. The researchers didn't ask senior leaders what they thought of their frontline managers. It's quite possible they're content with how the individuals they promoted are now performing, merrily ignorant of the damage they're actually causing, which might explain why, as the researchers conclude, those same middle managers are usually unaware that they are a bad manager.",
+                "zh": "值得指出的是，这项研究仅基于员工的视角。研究人员没有询问高层领导如何看待他们的一线经理。他们很可能对自己提拔的人如今的表现感到满意，却完全没有意识到这些人实际上造成的损害；这或许可以解释为什么研究人员得出结论认为，那些同样的中层经理通常并不知道自己是一名糟糕的经理。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is seeing an automation revolution."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is bringing prosperity to the region."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is yielding an unprecedented profit."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is expanding at an accelerating speed."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It exhausts resources sooner."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It creates a lot of new jobs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It causes conflicts between employers and employees."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It calls for the retraining of unskilled mining workers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They welcome it with open arms."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will wait to see its effect."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are strongly opposed to it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They accept it with reservations.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "With the use of driverless vehicles seemingly inevitable, mining companies in the vast Australian desert state of Western Australia are definitely taking the lead.",
+                "zh": "随着无人驾驶车辆的使用似乎已不可避免，位于澳大利亚广袤沙漠州西澳大利亚州的矿业公司无疑走在了前列。"
+              },
+              {
+                "en": "Iron ore is a key ingredient in steel-making. The mining companies here produce almost 300 million tons of iron ore a year. The 240 giant autonomous trucks in use, in the Western Australian mines, can weigh 400 tons, fully loaded, and travel at speeds of up to 60 kilometers per hour. They are a technological leap, transporting iron ore along routes which run for hundreds of kilometers from mines to their destinations. Here when the truck arrives at its destination, staff in the operation center direct it precisely where to unload. Vast quantities of iron ore are then transported by autonomous trains to ocean ports.",
+                "zh": "铁矿石是炼钢的关键原料。这里的矿业公司每年生产近3亿吨铁矿石。西澳大利亚州矿区正在使用的240辆巨型自动驾驶卡车满载时重量可达400吨，行驶速度最高可达每小时60公里。它们是技术上的一大飞跃，沿着数百公里长的路线，将铁矿石从矿山运往目的地。当卡车抵达目的地时，运营中心的工作人员会精确指挥它在指定位置卸货。随后，大量铁矿石由自动驾驶列车运往海港。"
+              },
+              {
+                "en": "Advocates argue these automated vehicles will change mining forever. It may only be five years before the use of automation technology leads to a fully robotic mine.",
+                "zh": "支持者认为，这些自动化车辆将永远改变采矿业。自动化技术的应用可能只需五年就会促成一座完全由机器人运作的矿山。"
+              },
+              {
+                "en": "A range of factors has pushed Western Australia's desert region to the lead of this automation revolution. These include the huge size of the mines, the scale of equipment and the repetitive nature of some of the work. Then there's the area's remoteness. At 502,000 square kilometers, it can sometimes make recruiting staff a challenge. Another consideration is the risks when humans interact with large machinery. There are also the financial imperatives. The ongoing push by the mining corporations to be more productive and more efficient is another powerful driver in embracing automation technology.",
+                "zh": "多种因素推动西澳大利亚的沙漠地区走在这场自动化革命的前沿。这些因素包括矿山规模庞大、设备规模巨大，以及部分工作具有重复性。此外，还有该地区地处偏远这一因素。这里面积达50.2万平方公里，有时会使招聘员工成为一项挑战。另一个需要考虑的因素是人类与大型机械互动时所面临的风险。此外还有财务方面的迫切需求。矿业公司持续推动提高生产率和效率，也是其积极采用自动化技术的另一个强大动力。"
+              },
+              {
+                "en": "The concept of a fully autonomous mine is a bit of a misleading term, however. This is because the more technology is put into the field, the more people are needed to deploy, maintain and improve it.",
+                "zh": "不过，将完全自动化的矿山称为“完全自主矿山”有些误导。因为投入现场的技术越多，就越需要更多人员来部署、维护和改进这些技术。"
+              },
+              {
+                "en": "The automation and digitization of the industry are creating a need for different jobs. These include data scientists and engineers in automation and artificial intelligence. The mining companies claim automation and robotics present opportunities to make mining more sustainable and safer. Employees will be offered a career that is even more fulfilling and more rewarding.",
+                "zh": "行业的自动化和数字化正在催生对不同岗位的需求，其中包括数据科学家以及从事自动化和人工智能工作的工程师。矿业公司声称，自动化和机器人技术为实现更加可持续、更安全的采矿创造了机会。员工将获得一份更加充实、回报也更加丰厚的职业。"
+              },
+              {
+                "en": "Workers' unions have accepted the inevitability of the introduction of new technology. But they still have reservations about the rise of automation technology. Their main concern is the potential impact on remote communities. As automation spreads further, the question is how these remote communities will survive when the old jobs are eliminated. And this may well prove to be the most significant impact of robotic technology in many places around the world.",
+                "zh": "工人协会已经接受新技术引入的必然性。但它们仍然对自动化技术的发展持保留态度。它们最主要的担忧是自动化可能对偏远社区造成的影响。随着自动化进一步普及，问题在于，当原有工作岗位被取消后，这些偏远社区将如何生存。而这很可能会成为机器人技术在世界许多地方产生的最重大的影响。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their cost to the nation's economy is incalculable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They kill more people than any infectious disease."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their annual death rate is about twice that of the global average."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have experienced a gradual decline since the year of 2017."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They show a difference between rich and poor nations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They don't reflect the changes in individual countries."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They rise and fall from year to year."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are not as reliable as claimed."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many of them have increasing numbers of cars on the road."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Many of them are following the example set by Thailand."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many of them have seen a decline in road-death rates."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many of them are investing heavily in infrastructure."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Foster better driving behavior."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Provide better training for drivers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Abolish all outdated traffic rules."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Impose heavier penalties on speeding."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "According to official statistics, Thailand's annual road-death rate is almost double the global average. Thai people know that their roads are dangerous, but they don't know this could easily be changed.",
+                "zh": "根据官方统计，泰国每年的道路死亡率几乎是全球平均水平的两倍。泰国人知道本国道路十分危险，但他们不知道这种状况其实很容易改变。"
+              },
+              {
+                "en": "Globally, road accidents kill more people every year than any infectious disease. Researchers at the Institute for Health Metrics and Evaluation in America put the death toll in 2017 at 1.24 million. According to the institute, the overall number of deaths has been more or less static since the turn of the century. But that disguises a lot of changes in individual countries.",
+                "zh": "在全球范围内，道路事故每年造成的死亡人数超过任何一种传染病。美国健康指标与评估研究所的研究人员估计，2017年的死亡人数为124万。据该研究所称，自本世纪初以来，死亡总人数基本保持不变。但这一数字掩盖了各个国家发生的诸多变化。"
+              },
+              {
+                "en": "In many poor countries, road accidents are killing more people than ever before. Those countries have swelling, young populations, a fast-growing fleet of cars and motorbikes, and a limited supply of surgeons. It is impossible to know for sure because official statistics are so inadequate, but deaths are thought to have risen by 40% since 1990 in many low-income countries. In many rich countries, by contrast, roads are becoming even safer. In Estonia and Ireland, for example, the number of deaths has fallen by about two-thirds since the late 1990s.",
+                "zh": "在许多贫穷国家，道路事故造成的死亡人数比以往任何时候都多。这些国家人口不断增长且较为年轻，汽车和摩托车数量快速增加，而外科医生数量有限。由于官方统计数据严重不足，无法确切得知实际情况，但据认为，许多低收入国家的死亡人数自1990年以来增加了40%。相比之下，在许多富裕国家，道路正变得更加安全。例如，在爱沙尼亚和爱尔兰，死亡人数自20世纪90年代末以来减少了约三分之二。"
+              },
+              {
+                "en": "But the most important and intriguing changes are taking place in middle-income countries, which contain most of the world's people and have some of the most dangerous roads. According to researchers, in China and South Africa, traffic deaths have been falling since 2000, and in India since 2012, and the Philippines reached its peak four years ago. The question is whether Thailand can soon follow suit.",
+                "zh": "但最重要、也最引人关注的变化发生在中等收入国家。这些国家拥有世界上大多数人口，也有一些最危险的道路。据研究人员称，在中国和南非，交通事故死亡人数自2000年以来一直在下降；在印度，这一趋势始于2012年；菲律宾则在四年前达到峰值。问题在于，泰国能否很快步其后尘。"
+              },
+              {
+                "en": "Rob MeInerney, head of the International Road Assessment Programme, says that all countries tend to go through three phases. They begin with poor, slow roads. In the second phase, as they grow wealthier, they pave the roads, allowing traffic to move faster and pushing up the death rate. Lastly, in the third phase, countries act to make their roads safer. The trick, then, is to reach the third stage sooner, by focusing earlier and more closely on fatal accidents.",
+                "zh": "International Road Assessment Programme负责人Rob MeInerney表示，所有国家往往都会经历三个阶段。第一阶段是道路状况差、通行速度慢。第二阶段，随着国家变得更加富裕，道路得到铺设，车辆行驶速度加快，死亡率也随之上升。最后，在第三阶段，各国采取措施提高道路安全性。因此，关键在于更早、更集中地关注致命事故，从而尽快进入第三阶段。"
+              },
+              {
+                "en": "How to do that? The solution lies not just in better infrastructure, but in better social incentives. Safe driving habits are practices which people know they should follow but often don't. Dangerous driving is not a fixed cultural trait, as some imagine. People respond to incentives, such as traffic laws that are actually enforced.",
+                "zh": "如何做到这一点？解决办法不仅在于改善基础设施，也在于建立更好的社会激励机制。安全驾驶习惯是人们知道自己应该遵守、却常常不去遵守的行为规范。危险驾驶并不是某些人所认为的那种固定的文化特征。人们会对激励措施作出反应，例如真正得到执行的交通法规。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2021-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "At 43, I've reached the stage where women are warned to watch out for the creeping sadness of middle age. We're served up an endless stream of advice on \"how to survive your 40s\", as if we're in the endurance stage of a slow limp toward"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ". This is the age women start to become \"invisible\"—our value, attractiveness and power supposedly"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "by the vanishing of youth. But I don't feel like I'm fading into"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ". I feel more seen than I ever have, and for the first time in my life, I have a clear-eyed view of myself that is"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": ", compassionate and accepting. When I look in the mirror, I'm proud of who I am—even those \"broken\" parts that for so long seemed impossible to love. So when advertisers try to sell me ways to \"turn back the clock\", I have to"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "a laugh. I wouldn't go back to the crippling self-consciousness of my youth if you paid me. This hard-won sense of self-acceptance is one of the joys of being an older woman. But it's a narrative often"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "out by the shame that marketers rely on to peddle us their diet pills, miracle face creams and breathable yoga pants—as if self-love is a"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "commodity. For some women I know, this sense of trust and self-belief later in life gave them the courage to leave dysfunctional relationships or"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "on new career paths. Others talked about enjoying their own company, of growth through"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ", deepening bonds of friendships, the ability to be more compassionate, less judgmental and to listen more and appreciate the small pleasures. Life past 40 is far from smooth sailing, but it's so much more than the reductive"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "we see in women's magazines and on the Hollywood big screen."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "adversity"
+        },
+        {
+          "l": "B",
+          "w": "authentic"
+        },
+        {
+          "l": "C",
+          "w": "convey"
+        },
+        {
+          "l": "D",
+          "w": "depictions"
+        },
+        {
+          "l": "E",
+          "w": "diminished"
+        },
+        {
+          "l": "F",
+          "w": "drowned"
+        },
+        {
+          "l": "G",
+          "w": "embark"
+        },
+        {
+          "l": "H",
+          "w": "fragility"
+        },
+        {
+          "l": "I",
+          "w": "neglected"
+        },
+        {
+          "l": "J",
+          "w": "obscurity"
+        },
+        {
+          "l": "K",
+          "w": "outlines"
+        },
+        {
+          "l": "L",
+          "w": "prevalent"
+        },
+        {
+          "l": "M",
+          "w": "purchasable"
+        },
+        {
+          "l": "N",
+          "w": "submit"
+        },
+        {
+          "l": "O",
+          "w": "suppress"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "H"
+        },
+        {
+          "n": 27,
+          "a": "E"
+        },
+        {
+          "n": 28,
+          "a": "J"
+        },
+        {
+          "n": 29,
+          "a": "B"
+        },
+        {
+          "n": 30,
+          "a": "O"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "M"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "D"
+        }
+      ]
+    },
+    "matching": {
+      "title": "What Are the Ethics of CGI Actors—And Will They Replace Real Ones?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Digital humans are coming to a screen near you. As computer-generated imagery (CGI) has become cheaper and more sophisticated, the film industry can now convincingly recreate people on screen—even actors who have been dead for decades. The technology's ability to effectively keep celebrities alive beyond the grave is raising questions about public legacies and image rights."
+        },
+        {
+          "l": "B",
+          "t": "Late in 2019, it was announced that US actor James Dean, who died in 1955, will star in a Vietnam War film scheduled for release later this year. In the film, which will be called Finding Jack, Dean will be recreated on screen with CGI based on old footage(影片镜头) and photographs, with another actor voicing him. The news was met with excitement by those keen to see Dean digitally brought back to life for only his fourth film, but it also drew sharp criticism. \"This is puppeteering the dead for their fame alone,\" actress Zelda Williams wrote on Twitter. \"It sets such an awful precedent for the future of performance.\" Her father, Robin Williams, who died in 2014, was keen to avoid the same fate. Before his death, he filed a deed protecting the use of his image until 2039, preventing others from recreating him using CGI to appear in a film, TV show or as a hologram(全息影像)."
+        },
+        {
+          "l": "C",
+          "t": "The James Dean film is a way to keep the actor's image relevant for younger generations, says Mark Roesler of CMG Worldwide, the firm that represents Dean's estate. \"I think this is the beginning of an entire wave,\" says Travis Cloyd, CEO of Worldwide XR, one of the companies behind the digital recreation of Dean. \"Moving into the future, we want James Dean to be brought into different gaming environments, or different virtual reality environments, or augmented reality environments,\" he says."
+        },
+        {
+          "l": "D",
+          "t": "Other actors have been revived, with the permission of their estates, for advertising purposes: for example, a 2011 advertisement for Dior featured contemporary actress Charlize Theron alongside iconic 20th-century stars Marilyn Monroe, Grace Kelly and Marlene Dietrich. Later, Audrey Hepburn was digitally recreated for a chocolate commercial in 2013. In the same year, a CGI Bruce Lee appeared in a Chinese-language ad for a whisky brand, which offended many fans because Lee was widely known not to drink alcohol at all. \"In the last five years, it's become more affordable and more achievable in a whole movie,\" says Tim Webber at UK visual effects firm Framestore, the company behind the Hepburn chocolate ad. Framestore used body doubles with resemblance to Hepburn's facial structure and body shape as a framework for manual animation. The process was extremely difficult and expensive, says Webber, but the technology has moved on."
+        },
+        {
+          "l": "E",
+          "t": "Now, a person can be animated from scratch. \"If they're alive today, you can put them in scanning rigs, you can get every detail of their body analysed very carefully and that makes it much easier, whereas working from available photographs is tricky,\" says Webber, who won an Academy Award for his visual effects work on the 2013 film Gravity. \"I also see a lot of actors today who will have the desire to take advantage of this technology: to have their likeness captured and stored for future content,\" says Cloyd. \"They foresee this being something that could give their estates and give their families the ability to make money from their likeness when they're gone.\""
+        },
+        {
+          "l": "F",
+          "t": "A hidden hazard of digitally recreating a deceased(已故的) celebrity is the risk of damaging their legacy. \"We have to respect the security and the integrity of rights holders,\" says John Canning at Digital Domain, a US firm that created a hologram rapper(说唱艺人) Tupac Shakur, which appeared at the Coachella music festival in 2012, 15 years after his death."
+        },
+        {
+          "l": "G",
+          "t": "Legally, a person's rights to control the commercial use of their name and image beyond their death differ between and even within countries. In certain US states, for example, these rights are treated similarly to property rights, and are transferable to a person's heirs. In California, under the Celebrities Rights Act, the personality rights for a celebrity last for 70 years after their death. \"We've got a societal debate going on about access to our public commons, as it were, about famous faces,\" says Lilian Edwards at Newcastle University, UK. Should the public be allowed to use or reproduce images of famous people, given how iconic they are? And what is in the best interest of a deceased person's legacy may conflict with the desires of their family or the public, says Edwards."
+        },
+        {
+          "l": "H",
+          "t": "A recreation, however lifelike, will never be indistinguishable from a real actor, says Webber. \"When we are bringing someone back, representing someone who is no longer alive on the screen, what we are doing is extremely sophisticated digital make-up,\" he says: \"A performance is a lot more than a physical resemblance.\""
+        },
+        {
+          "l": "I",
+          "t": "As it becomes easier to digitally recreate celebrities and to entirely manufacture on-screen identities, could this kind of technology put actors out of jobs? \"I think actors are worried about this,\" says Edwards. \"But I think it will take a very long time.\" This is partly because of the risk that viewers find virtual humans scary. Edwards cites widespread backlash to the digital recreation of Carrie Fisher as a young Princess Leia in Rogue One, a trick later repeated in the recent Star Wars: The Rise of Skywalker, which was filmed after Fisher's death in 2016. \"People didn't like it,\" she says. \"They discovered the uncanny valley(诡异谷).\""
+        },
+        {
+          "l": "J",
+          "t": "This refers to the idea that when objects trying to resemble humans aren't quite perfect, they can make viewers feel uneasy because they fall somewhere between obviously non-human and fully human. \"That's always a danger when you're doing anything human or human-like,\" says Webber. \"There're a thousand things that could go wrong with a computer-generated facial performance, and any one of those could make it fall into the uncanny valley,\" he says: \"Your brain just knows there's something wrong.\" The problem often arises around the eyes or mouth, says Webber. \"They're the areas that you look at when you're talking to someone.\""
+        },
+        {
+          "l": "K",
+          "t": "An unfamiliar digital human that has been created through CGI will also face the same challenge as an unknown actor: they don't have the appeal of an established name. \"You have to spend substantial capital in creating awareness around their likeness and making sure people are familiar with who they are,\" says Cloyd. This is now starting to happen. \"The way you pre-sell a movie in a foreign market is based on relevant talent,\" he says. \"I think we're a long way away from having virtual beings that have the ability to pre-sell content.\""
+        },
+        {
+          "l": "L",
+          "t": "Webber expects that we will see more digital humans on screen. \"It's happening because it can happen,\" he says. Referring to a line from Jurassic Park(侏罗纪公园), he adds: \"People are too busy thinking about what they can do to think about whether they should do it.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "There is an ongoing debate among the public as to whether the images of deceased celebrities should be recreated.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "The CGI technology allows the image of the deceased James Dean to be presented to young people in new settings.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "It is very likely that the CGI-recreated image of a deceased celebrity will fail to match the real actor",
+          "a": "J"
+        },
+        {
+          "n": 39,
+          "s": "The use of digital technology can bring images of deceased celebrities back to the screen.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Recreating a deceased famous actor or actress may violate their legitimate rights.",
+          "a": "F"
+        },
+        {
+          "n": 41,
+          "s": "More CGI-recreated images of deceased celebrities are expected to appear on screen.",
+          "a": "L"
+        },
+        {
+          "n": 42,
+          "s": "The image of James Dean will be recreated on screen with his voice dubbed by someone else.",
+          "a": "B"
+        },
+        {
+          "n": 43,
+          "s": "However advanced the CGI technology is, the recreated image will differ in a way from the real actor.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "A lot of actors today are likely to make use of the CGI technology to have their images stored for the benefit of their families.",
+          "a": "E"
+        },
+        {
+          "n": 45,
+          "s": "Some actors are concerned that they may lose jobs because of the CGI technology.",
+          "a": "I"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "You can't see it, smell it, or hear it, and people disagree on how precisely to define it, or where exactly it comes from. It isn't a school subject or an academic discipline, but it can be learned. It is a quality that is required of artists, but it is also present in the lives of scientists and entrepreneurs. All of us benefit from it and we thrive mentally and spiritually when we are able to wield it. It is a delicate thing, easily stamped out; in fact, it flourishes most fully when people are playful and childlike. Meanwhile, it works best in conjunction with deep knowledge and expertise. This mysterious—but teachable—quality is creativity, the subject of a recently-published report by Durham Commission on Creativity and Education. The report concludes that creativity should not inhabit the school curriculum only as it relates to drama, music, art and other obviously creative subjects, but that creative thinking ought to run through all of school life, infusing(充满) the way humanities and natural sciences are learned. The authors, who focus on education in England, offer a number of sensible recommendations, some of which are an attempt to alleviate the uninspiring and fact-based approach to education that has crept into policy in recent years. When children are regarded as vessels to be filled with facts, creativity does not prosper; nor does it when teachers' sole objective is coaching children towards exams. One suggestion from the commission is a network of teacher-led \"creativity collaboratives\", along the lines of existing maths hubs(中心), with the aim of supporting teaching for creativity through the school curriculum. Nevertheless, it is arts subjects through which creativity can most obviously be fostered. The value placed on them by the independent education sector is clear. One only has to look at the remarkable arts facilities at Britain's top private schools to comprehend this. But in the state sector the excessive focus on English, maths and science threatens to crush arts subjects; meanwhile, reduced school budgets mean diminishing extracurricular activities. There has been a 28.1% decline in students taking creative subjects at high schools since 2014, though happily, art and design have seen a recent increase. This discrepancy between state and private education is a matter of social justice. It is simply wrong and unfair that most children have a fraction of the access to choirs, orchestras, art studios and drama that their more privileged peers enjoy. As lives are affected by any number of looming challenges—climate crisis, automation in the workplace—humans are going to need creative thinking more than ever. For all of our sakes, creativity in education, and for all, must become a priority.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from the passage about creativity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It develops best when people are spiritually prepared."
+              },
+              {
+                "l": "B",
+                "t": "It is most often wielded by scientists and entrepreneurs."
+              },
+              {
+                "l": "C",
+                "t": "It is founded on scientific knowledge and analytical skills."
+              },
+              {
+                "l": "D",
+                "t": "It contributes to intellectual growth but can easily be killed."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What is the conclusion of a recently-published report?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Natural sciences should be learned the way humanities courses are."
+              },
+              {
+                "l": "B",
+                "t": "Cultivation of creativity should permeate the entire school curriculum."
+              },
+              {
+                "l": "C",
+                "t": "Art courses should be made compulsory for all students."
+              },
+              {
+                "l": "D",
+                "t": "Students should learn more obviously creative subjects."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What does the report say is detrimental to the fostering of creativity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Alleviation of pressure."
+              },
+              {
+                "l": "B",
+                "t": "Teacher-led school activities."
+              },
+              {
+                "l": "C",
+                "t": "Test-oriented teaching."
+              },
+              {
+                "l": "D",
+                "t": "Independent learning."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What do we learn about the private schools in the UK?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They encourage extracurricular activities."
+              },
+              {
+                "l": "B",
+                "t": "They attach great importance to arts education."
+              },
+              {
+                "l": "C",
+                "t": "They prioritize arts subjects over maths and sciences."
+              },
+              {
+                "l": "D",
+                "t": "They cater to students from different family backgrounds."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What should be done to meet the future challenges?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Increasing government investment in school education."
+              },
+              {
+                "l": "B",
+                "t": "Narrowing the existing gap between the rich and the poor."
+              },
+              {
+                "l": "C",
+                "t": "Providing all children with equal access to arts education."
+              },
+              {
+                "l": "D",
+                "t": "Focusing on meeting the needs of under-privileged students."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Emulating your conversation partner's actions is a common human behavior classified as \"mirroring\" and has been known and studied by psychologists for years. We all tend to subconsciously copy gestures of people we like. But why do we act like this? As a rule, mirroring means that conversationalists enjoy their communication and that there's a certain level of agreement between them. The topic of discussion is equally interesting for both and they know their interests meet. Repeating someone's behavior is typical of talented communicators, not always because the person is sympathetic, but because there is a goal to be achieved. This way new idols have been brought to the stage: politicians, celebrities, and other big names. Popular culture makes people want to look popular, and act and speak like popular people. Nowadays celebrities steal lyrics from each other and struggle with copyright violation accusations or straightforwardly claim themselves to be the authors, even though all the work was done by other people. Among celebrities, it's trendy nowadays to use their own speech writers as politicians do. The so-called \"ghostwriting\" can take various forms: books, articles, autobiographies, and even social media posts. Who is a true copycat(抄袭者) and who gets copycatted? Sometimes, it is a hard nut to crack without an expert's help. But new authorship defending methods based on identifying individual writing patterns are already here. Their aim is to protect intellectual property. Using scientific methods, some of them can define authorship with 85% accuracy. Writing is not an easy craft to master. If you want to write like a professional without plagiarism(抄袭), there are a few lessons to learn and the first one is: \"Copy from one, it's plagiarism; copy from two, it's research.\" The correct interpretation of this statement is not about copying, but rather about creating your own style. When you study an author's writing style, don't stop on a single one, but explore numerous styles instead. Examine types of sentences they use, pay attention to their metaphors, and focus on stories you feel you could write a pretty cool sequel(续篇) to. Imitation is rather paradoxical. As an integral part of learning, it brings about positive changes, making people develop and grow. However, it may do a lot of harm. Copying someone's thoughts, ideas or inventions is completely unacceptable. It infringes on intellectual property rights of others. Still, many things we do are about copying others one way or another. So if you want to compliment someone on the work they have done and imitate it, just make sure you do it the right way to avoid committing plagiarism.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do people tend to do while engaging in a conversation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Repeat what their partners say one way or another."
+              },
+              {
+                "l": "B",
+                "t": "Focus as much as possible on topics of mutual interest."
+              },
+              {
+                "l": "C",
+                "t": "Imitate their partners' gestures without their knowing it."
+              },
+              {
+                "l": "D",
+                "t": "Observe carefully how their partners make use of gestures."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "When does mirroring usually take place in a conversation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "When both sides are sympathetic with each other."
+              },
+              {
+                "l": "B",
+                "t": "When both sides have a lot of things in common."
+              },
+              {
+                "l": "C",
+                "t": "When both sides make interesting contributions."
+              },
+              {
+                "l": "D",
+                "t": "When both sides try to seek common ground."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What do we learn about popular culture?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It encourages people to imitate."
+              },
+              {
+                "l": "B",
+                "t": "It appeals mostly to big names."
+              },
+              {
+                "l": "C",
+                "t": "It acquaints young people with their idols."
+              },
+              {
+                "l": "D",
+                "t": "It can change people's mode of cognition."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "Why is the saying \"copy from two, it's research\" a lesson to learn?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It facilitates the creation of one's own writing style."
+              },
+              {
+                "l": "B",
+                "t": "It helps to protect one's intellectual property rights."
+              },
+              {
+                "l": "C",
+                "t": "It fosters correct interpretation of professional writing."
+              },
+              {
+                "l": "D",
+                "t": "It enables one to write intriguing sequels to famous stories."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "Why does the author say imitation is rather paradoxical?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is liable to different interpretations."
+              },
+              {
+                "l": "B",
+                "t": "It is by and large a necessary evil."
+              },
+              {
+                "l": "C",
+                "t": "It can give rise to endless disputes."
+              },
+              {
+                "l": "D",
+                "t": "It may do harm as well as good."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "云南是位于中国西南的一个省份，平均海拔 1500米。云南历史悠久，风景秀丽，气候宜人。云南生态环 境优越，生物多种多样，被誉为野生动植物的天堂。云南还有多种矿藏和充足的水资源,为全省经济的可持续 发展提供了有利条件。 云南居住着25个少数民族,他们大多有自己的语言、习俗和宗教。云南独特的自然景色 和丰富的民族文化使其成为中国最受欢迎的旅游目的地之一，每年都吸引着大批国内外游客前往观光旅游。",
+    "reference": "Yunnan is a province in southwest China, with an average altitude of 1,500 meters. It has a long history, beautiful scenery and a pleasant climate. With its superior ecological environment and diverse species, it is known as a paradise for wild animals and plants. It also has various mineral resources and abundant water resources, providing favorable conditions for the sustainable development of the province's economy. It is home to 25 ethnic minorities, most of whom have their own languages, customs and religions. Its unique natural scenery and rich ethnic culture make it one of the most popular tourist destinations in China, attracting large numbers of tourists from home and abroad every year."
+  }
+}

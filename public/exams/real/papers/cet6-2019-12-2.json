@@ -1,0 +1,1389 @@
+{
+  "id": "cet6-2019-12-2",
+  "level": "cet6",
+  "year": 2019,
+  "month": 12,
+  "set": 2,
+  "title": "2019年12月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of having a sense of family responsibility. You should write at least 150 words but no more than 200 words.",
+    "sample": "A sense of family responsibility means being willing to care for one's relatives and to shoulder one's proper share of duties at home. In my view, cultivating such an awareness is far from optional; it lies at the very heart of a meaningful life.For one thing, family responsibility shapes personal character. When a young person takes the initiative to look after aging parents or help younger siblings with homework, he gradually learns patience, empathy and self-discipline, qualities that no textbook alone can teach. For another, it holds a family together. My own uncle, for instance, quietly supported his brother's children through college; because of that commitment, the whole family remains close and warm even today. Moreover, people who honour their duties at home tend to extend the same reliability to society, becoming trustworthy colleagues and citizens.In conclusion, a sense of family responsibility is not a burden but a bond that nurtures individuals, strengthens households and benefits the wider community. We should cherish it and fulfil our duties with a willing heart."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It focuses exclusively on jazz."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It sponsors major jazz concerts."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has several branches in London."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It displays albums by new music talents."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It originated with cowboys."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its market has now shrunk."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its listeners are mostly young people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It remains as widespread as hip hop music."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its definition is varied and complicated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is still going through experimentation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is frequently accompanied by singing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its style has remained largely unchanged"
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Learn to play them."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Take music lessons."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Listen to them yourself."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Consult jazz musicians.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Excuse me, where is your rock music section?",
+                "zh": "M: 不好意思，你们的摇滚音乐区在哪里？"
+              },
+              {
+                "en": "W: Rock music? I'm sorry, we're a jazz store. We don't have any rock and roll.",
+                "zh": "W: 摇滚音乐？抱歉，我们是爵士音乐店。我们没有摇滚乐。"
+              },
+              {
+                "en": "M: Oh, you only have jazz music? Nothing else?",
+                "zh": "M: 哦，你们只有爵士音乐？没有别的吗？"
+              },
+              {
+                "en": "W: That's right. We're the only record store in London dedicated exclusively to jazz. Actually, we're more than just a record store. We have a cafe & library upstairs and a ticket office down the hall, where you can buy tickets to all the major jazz concerts in the city. Also, we have our own studio next door, where we produce albums for up-and-coming artists. We are committed to fostering new music talent.",
+                "zh": "W: 没错。我们是伦敦唯一一家专门经营爵士乐的唱片店。其实，我们不只是一家唱片店。楼上有咖啡馆和图书馆，走廊那边还有售票处，你可以买到这座城市所有重要爵士音乐会的门票。另外，我们隔壁还有自己的录音棚，为崭露头角的艺术家制作专辑。我们致力于培养新的音乐人才。"
+              },
+              {
+                "en": "M: Wow! That's so cool. I guess there's not much of a jazz scene anymore, not like they used to be. But here you're trying to promote this great music genre.",
+                "zh": "M: 哇！真酷。我想，现在的爵士乐坛已经不怎么景气了，不像以前那样。不过，你们还在努力推广这种伟大的音乐流派。"
+              },
+              {
+                "en": "W: Yes, indeed. Nowadays, most people like to listen to pop and rock music. Hip hop music from America is also getting more and more popular. So as a result, there are fewer listeners of jazz, which is a great shame because it's an incredibly rich genre. But that's not to say there isn't any good new jazz music being made out there anymore—far from it. It's just a much smaller market today.",
+                "zh": "W: 是的，确实如此。如今，大多数人喜欢听流行音乐和摇滚音乐。来自美国的嘻哈音乐也越来越受欢迎。因此，听爵士乐的人越来越少了，这实在很可惜，因为爵士乐是一个极其丰富的音乐流派。但这并不是说现在已经没有优秀的新爵士乐了，远非如此。只是如今这个市场小得多了。"
+              },
+              {
+                "en": "M: So how would you define jazz?",
+                "zh": "M: 那么，你会如何定义爵士乐？"
+              },
+              {
+                "en": "W: Well, interestingly enough, there's no agreed-upon definition of jazz. Indeed, there are many different styles of jazz. Some have singing, but most don't. Some are electric and some aren't. Some contain live experimentation, but not always. While there's no simple definition for it, and while there are many different styles of jazz, you simply know it when you hear it. Honestly, the only way to know what jazz is, is to listen to it yourself. As the great trumpet player, Louis Armstrong said, if you gotta ask, you'll never know.",
+                "zh": "W: 嗯，有趣的是，人们并没有对爵士乐达成统一的定义。事实上，爵士乐有许多不同的风格。有些爵士乐有人声演唱，但大多数没有。有些使用电子乐器，有些则不使用。有些包含现场即兴实验，但也不总是如此。虽然爵士乐没有一个简单的定义，而且有许多不同的风格，但你一听就知道那是不是爵士乐。说实话，了解爵士乐是什么的唯一方法，就是亲自去听。正如伟大的小号手路易斯·阿姆斯特朗所说：“如果你还要问，那你永远也不会知道。”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She paid her mortgage."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She called on the man."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She made a business plan."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She went to the bank."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Her previous debt hadn't been cleared yet."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her credit history was considered poor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She had apparently asked for too much."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She didn't pay her mortgage in time."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Pay a debt long overdue"
+                  },
+                  {
+                    "l": "B",
+                    "t": "Buy a piece of property"
+                  },
+                  {
+                    "l": "C",
+                    "t": "Start her own business"
+                  },
+                  {
+                    "l": "D",
+                    "t": "Check her credit history"
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Seek advice from an expert about fundraising."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ask for smaller loans from different lenders."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Build up her own finances step by step."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Revise her business proposal carefully."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: How did it go at the bank this morning?",
+                "zh": "M: 今天早上在银行怎么样？"
+              },
+              {
+                "en": "W: Not well, my proposal was rejected.",
+                "zh": "W: 不太顺利，我的申请被拒绝了。"
+              },
+              {
+                "en": "M: Really? But why?",
+                "zh": "M: 真的吗？为什么？"
+              },
+              {
+                "en": "W: Bunch of reasons. For starters, they said my credit history was not good enough.",
+                "zh": "W: 原因有一堆。首先，他们说我的信用记录不够好。"
+              },
+              {
+                "en": "M: Did they say how you could improve that?",
+                "zh": "M: 他们有说你怎么才能改善信用记录吗？"
+              },
+              {
+                "en": "W: Yes, they said that after five more years of paying my mortgage, then I would become a more viable candidate for a business loan. But right now, it's too risky for them to lend me money. They fear I will default on any business loan I'm given.",
+                "zh": "W: 说了，他们说只要我再还五年房贷，就会成为更有资格申请商业贷款的人选。但眼下，借钱给我的风险对他们来说太大了。他们担心我无论拿到什么商业贷款都会违约。"
+              },
+              {
+                "en": "M: Well, that doesn't sound fair. Your business idea is amazing. Did you show them your business plan? What did they say?",
+                "zh": "M: 嗯，这听起来不太公平。你的创业点子太棒了。你给他们看你的商业计划书了吗？他们怎么说？"
+              },
+              {
+                "en": "W: They didn't really articulate any position regarding the actual business plan. They simply looked at my credit history and determined it was not good enough. They said the bank has strict guidelines and requirements as to who they can lend money to. And I simply don't meet their financial threshold.",
+                "zh": "W: 对于商业计划书本身，他们其实没有明确表态。他们只是看了看我的信用记录，就判定不够好。他们说银行对于借钱给谁有严格的指导方针和要求。而我根本没有达到他们的财务门槛。"
+              },
+              {
+                "en": "M: What if you ask for a smaller amount? Maybe you could gather capital from other sources. Smaller loans from more lenders?",
+                "zh": "M: 那如果你申请小一点的金额呢？也许你可以从其他渠道筹集资金。找更多出借方申请小额贷款？"
+              },
+              {
+                "en": "W: You don't get it. It doesn't matter the size of the loan I ask for, or the type of business I propose. That's all inconsequential. The first thing every bank will do is study how much money I have and how much debt I have before they decide whether or not to lend me any more money. If I want to continue ahead with this dream of owning my own business, I have no other choice but to build up my own finances. I need around 20% more in personal savings and 50% less debt. That's all there is to it.",
+                "zh": "W: 你还没明白。不管我申请多大额度的贷款，也不管我提议做哪种生意，这些都无关紧要。任何一家银行在决定要不要再借钱给我之前，做的第一件事都是审查我有多少钱以及有多少债务。如果我想继续追求自己创业的这个梦想，我别无选择，只能改善自己的财务状况。我的个人存款需要增加20%左右，债务要减少50%。事情就是这样。"
+              },
+              {
+                "en": "M: I see now. Well, it's a huge pity that they rejected your request, but don't lose hope. I still think that your idea is great and that you would turn it into a phenomenal success.",
+                "zh": "M: 我现在明白了。嗯，他们拒绝了你的申请真的很可惜，但别放弃希望。我依然觉得你的点子非常棒，你一定会把它做成巨大的成功。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is profitable and environmentally friendly."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is well located and completely automated."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is small and unconventional."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is fertile and productive."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their urge to make farming more enjoyable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their desire to improve farming equipment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their hope to revitalize traditional farming."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their wish to set a new farming standard."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It saves a lot of electricity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It needs little maintenance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It causes hardly any pollution."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It loosens soil while weeding.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "There's a lot about Leo Sanchez and his farm in Salinas, California, that seems unusual. The national average farm size is around 440 acres, but his is only one acre. The average age of farmers hovers around 58 years old, but he is just 26.",
+                "zh": "关于利奥·桑切斯和他位于加利福尼亚州萨利纳斯的农场，有许多地方显得不同寻常。全国农场的平均面积约为440英亩，而他的农场只有1英亩。农民的平均年龄约为58岁，而他只有26岁。"
+              },
+              {
+                "en": "And Sanchez constantly attempts to improve everything from seeding techniques out in the field to the promotion and sale of his produce online. This is evidence of an experimental approach. It's an approach not dictated by the confines of conventional, large-scale agriculture led by international corporations.",
+                "zh": "桑切斯不断尝试改进一切，从田间的播种技术到在线推广和销售农产品的方式。这体现了一种实验性的方法。这种方法不受国际企业主导的传统大规模农业的限制。"
+              },
+              {
+                "en": "While farming is often difficult for both the body and mind, Sanchez says he and many of his fellow young farmers are motivated by desire to set a new standard for agriculture.",
+                "zh": "虽然务农往往对身心都是一种挑战，但桑切斯说，他和许多年轻农民同行都受到一种愿望的激励，那就是为农业树立新的标准。"
+              },
+              {
+                "en": "Many of them are employing a multitude of technologies, some new and some not so new. Recently, Sanchez bought a hand-operated tool which pulls out weeds and loosens soil. It actually dates back to at least 1701. It stands in sharp contrast to Sanchez's other gadget, a gas-powered flame weedkiller invented in 1997. He simply doesn't discriminate when it comes to the newness of tools. If it works, it works.",
+                "zh": "他们中的许多人正在使用各种各样的技术，其中有些是新的，有些则并不算新。最近，桑切斯买了一种手动工具，可以拔除杂草并疏松土壤。这种工具实际上至少可以追溯到1701年。它与桑切斯的另一件工具形成鲜明对比，后者是一种以汽油为动力的火焰除草器，于1997年发明。说到工具的新旧，他并不厚此薄彼。只要有效，就值得使用。"
+              },
+              {
+                "en": "Farmers have a long history of invention, and it's no different today. Young farmers are guided by their love for agriculture and aided by their knowledge of technology. To find inexpensive and appropriately sized tools, they collaborate and innovate. Sometimes the old stuff just works better or more efficiently.",
+                "zh": "农民有着悠久的发明历史，如今也同样如此。年轻农民受到对农业的热爱引导，并得到自身技术知识的帮助。为了找到价格低廉且尺寸合适的工具，他们相互合作并不断创新。有时，老式工具的效果就是更好，或者效率更高。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has turned certain insects into a new food source."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has started to expand business outside the UK."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has imported some exotic foods from overseas."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has joined hands with Sainsbury's to sell pet insects."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was really unforgettable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was a pleasant surprise."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It hurt his throat slightly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It made him feel strange."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are more tasty than beef, chicken or pork."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are more nutritious than soups and salads."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They contain more protein than conventional meats."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will soon gain popularity throughout the world."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is environmentally friendly."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a promising industry."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It requires new technology."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It saves huge amounts of labour."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Eat Grub is Britain's first new food company that breaks western food boundaries by introducing edible insects as a new source of food. And Sainsbury's is the first UK supermarket to stock the company's crunchy roasted crickets. Sainsbury's insists that such food is no joke and could be a new, sustainable source of protein.",
+                "zh": "Eat Grub 是英国首家通过将可食用昆虫作为一种新的食物来源来打破西方食品界限的新型食品公司。塞恩斯伯里是英国首家销售该公司脆烤蟋蟀的超市。塞恩斯伯里坚持认为，这种食物不是闹着玩的，并且可能成为一种新型的可持续蛋白质来源。"
+              },
+              {
+                "en": "Out of curiosity, I paid a visit to Sainsbury's. As I put my hand into a packet of crickets with their tiny eyes and legs, the idea of one going in my mouth made me feel a little sick. But the first bite was a pleasant surprise. A little dry and lacking of taste, but at least a wing didn't get stuck in my throat.",
+                "zh": "出于好奇，我去了塞恩斯伯里。当我把手伸进一包有着细小眼睛和腿的蟋蟀中时，一想到要把其中一只放进嘴里，我就感到有些恶心。但第一口却带来了意外的惊喜。有点干，也没什么味道，但至少没有一只翅膀卡在我的喉咙里。"
+              },
+              {
+                "en": "The roasted seasoning largely overpowered any other flavour, although there was a slightly bitter aftertaste. The texture was crunchy, but smelt a little of cat food.",
+                "zh": "烘烤调味料基本盖过了其他任何味道，不过咽下后有一丝苦味。口感很脆，但闻起来有点像猫粮。"
+              },
+              {
+                "en": "Eat Grub also recommends the crickets as a topping for noodles, soups and salads. The company boasts that its dried crickets contain more protein than beef, chicken and pork, as well as minerals like iron and calcium.",
+                "zh": "Eat Grub 还建议将这些蟋蟀作为面条、汤和沙拉的配料。该公司自称，其脱水蟋蟀所含的蛋白质多于牛肉、鸡肉和猪肉，同时还含有铁和钙等矿物质。"
+              },
+              {
+                "en": "Unlike the production of meat, bugs do not use up large amounts of land, water or feed. And insect farming also produces far fewer greenhouse gases. However, despite 2 billion people worldwide already supplementing their diet with insects, \"consumer disgust\" remains a large barrier in many Western countries. I'm not sure bugs will become a popular snack anytime soon, but they're definitely food for thought.",
+                "zh": "与肉类生产不同，昆虫不会消耗大量土地、水或饲料。而且，昆虫养殖产生的温室气体也少得多。然而，尽管全球已有20亿人通过食用昆虫来补充膳食，但在许多西方国家，“消费者的厌恶感”仍然是一个巨大障碍。我不确定昆虫是否会很快成为一种受欢迎的零食，但它们确实是一个值得思考的问题。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To categorize different types of learners."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To find out what students prefer to learn."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To understand the mechanism of the human brain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To see if they are inherent traits affecting learning."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was defective."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was misguided."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was original in design."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was thought-provoking."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Auditory aids are as important as visual aids."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Visual aids are helpful to all types of learners."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Reading plain texts is more effective than viewing pictures."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Scientific concepts are hard to understand without visual aids.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Have you ever had someone try to explain something to you a dozen times with no luck—but, then, when you see a picture, the idea finally clicks? If that sounds familiar, maybe you might consider yourself a visual learner. Or if reading or listening does the trick, maybe you feel like you're a verbal learner. We call these labels learning styles, but is there really a way to categorize different types of students? Well, it actually seems that multiple presentation formats, especially if one of them is visual, help most people learn.",
+                "zh": "你是否曾遇到过这样的情况：有人试图向你解释某件事十几遍，却始终没有效果；然而，当你看到一张图片时，这个概念终于豁然开朗？如果这听起来很熟悉，那么你也许会认为自己是视觉型学习者。又或者，如果阅读或听讲能让你理解，那么你可能觉得自己是言语型学习者。我们把这些标签称为学习风格，但真的有办法将不同类型的学生分类吗？实际上，似乎多种呈现形式，尤其是其中包含视觉呈现形式时，能帮助大多数人更好地学习。"
+              },
+              {
+                "en": "When psychologists and educators test for learning styles, they're trying to figure out whether these are inherent traits that affect how well students learn, instead of just a preference. Usually they start by giving a survey to figure out what style a student favors, like visual or verbal learning. Then, they try to teach the students something with a specific presentation style, like using visual aids, and do a follow-up test to see how much they learned. That way, the researchers can see if the self-identified verbal learners really learned better when the information was just spoken aloud, for example.",
+                "zh": "心理学家和教育工作者在测试学习风格时，试图弄清楚这些是否会影响学生学习效果的先天特征，而不只是个人偏好。通常，他们会先让学生填写一份调查问卷，以确定学生偏好的风格，例如视觉学习或言语学习。然后，他们会采用某种特定的呈现方式来教授学生某项内容，比如使用视觉辅助材料，之后再进行测试，看看学生学到了多少。这样，研究人员就能了解，那些自我认定为言语型学习者的学生是否真的会在信息仅通过口头讲述的情况下学得更好。"
+              },
+              {
+                "en": "But, according to a 2008 review, only one study that followed this design found that students actually learned best with their preferred style. But the study had some big flaws. The researchers excluded two-thirds of the original participants because they didn't seem to have any clear learning style from the survey at the beginning. And, they didn't even report the actual test scores in the final paper. So it doesn't really seem like learning styles are an inherent trait that we all have. But, that doesn't mean that all students will do amazingly if they just spend all their time reading from a textbook.",
+                "zh": "但是，根据一项2008年的综述，只有一项遵循这一设计的研究发现，学生确实在采用自己偏好的风格时学得最好。不过，这项研究存在一些严重缺陷。研究人员排除了最初参与者的三分之二，因为根据开始时的调查，他们似乎没有明确的学习风格。而且，他们甚至没有在最终论文中报告实际的测试成绩。因此，学习风格似乎并不是我们所有人都具备的先天特征。但这并不意味着，所有学生只要把全部时间都用来阅读教科书，就会取得非常出色的效果。"
+              },
+              {
+                "en": "Instead, most people seem to learn better if they're taught in several ways—especially if one is visual. In one study, researchers tested whether students remembered lists of words better if they heard them, saw them, or both. And everyone seemed to do better if they got to see the words in print, even the self-identified auditory learners. Their preference didn't seem to matter. Similar studies tested whether students learned basic physics and chemistry concepts better by reading plain text or viewing pictures, too. And everyone did better with the help of pictures.",
+                "zh": "相反，大多数人似乎在接受多种方式的教学时学得更好，尤其是其中包含视觉呈现方式时。在一项研究中，研究人员测试了学生在听到、看到单词列表，或同时听到并看到这些单词时，哪种情况下记忆效果更好。结果似乎表明，只要能看到印刷出来的单词，每个人的表现都会更好，即使是自我认定为听觉型学习者的人也是如此。他们的偏好似乎并不重要。类似的研究还测试了学生通过阅读纯文本或观看图片，哪种方式能更好地掌握基础物理和化学概念。结果同样表明，在图片的帮助下，每个人的表现都会更好。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Not playing a role in a workplace revolution."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Not benefiting from free-market capitalism."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Not earning enough money to provide for the family."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Not spending enough time on family life and leisure."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People would be working only fifteen hours a week now."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The balance of power in the workplace would change."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Technological advances would create many new jobs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Most workers could afford to have a house of their own"
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Loss of workers' personal dignity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Deprivation of workers' creativity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Deterioration of workers' mental health."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Unequal distribution of working hours.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Free market capitalism hasn't freed us; it has trapped us. It's imperative for us to embrace a workplace revolution. We are unlikely to spend our last moments regretting that we didn't spend enough of our lives slaving away at work. We may instead find ourselves feeling guilty about the time we didn't spend watching our children grow, or with our loved ones, or travelling, or on the cultural or leisure pursuits that bring us happiness.",
+                "zh": "自由市场资本主义并没有使我们获得自由；它反而将我们困住了。我们必须拥抱一场职场革命。我们很可能不会在生命最后时刻后悔自己没有把足够多的人生耗费在辛苦工作上。相反，我们或许会因没有花时间看着孩子长大，或陪伴所爱之人，或旅行，或从事那些带给我们幸福的文化活动和休闲活动，而感到内疚。"
+              },
+              {
+                "en": "Unfortunately, the average full-time employee in the world works 42 hours a week, well over a third of the time we're awake. Some of our all too precious time is being stolen. Office workers do around two billion hours of unpaid overtime each year. So it's extremely welcome that some government coalitions have started looking into potentially cutting the working week to four days.",
+                "zh": "遗憾的是，世界各地的全职员工平均每周工作42小时，远远超过我们清醒时间的三分之一。我们一些极其宝贵的时间正在被夺走。办公室职员每年加班却未获报酬的时间约达20亿小时。因此，一些政府联盟已经开始研究将工作周缩短为四天，这无疑非常值得欢迎。"
+              },
+              {
+                "en": "The champions of free market capitalism promised their way of life would bring us freedom. But it wasn't freedom at all: from the lack of secure, affordable housing to growing job insecurity and rising personal debt, the individual is trapped. Nine decades ago, leading economists predicted that technological advances and rising productivity would mean that we'd be working a 15-hour week by now: that target has been somewhat missed.",
+                "zh": "自由市场资本主义的拥护者曾承诺，他们所倡导的生活方式会带给我们自由。但那根本不是自由：从缺乏安全且负担得起的住房，到日益严重的就业不稳定和不断上升的个人债务，个人都被困住了。九十年前，经济学界的领军人物曾预测，技术进步和生产率提高意味着我们到现在应该每周工作15小时：但这一目标在某种程度上落空了。"
+              },
+              {
+                "en": "Here is the most malignant threat to our personal freedom, particularly as the balance of power in the workplace has been shifted so dramatically from worker to boss. A huge portion of our lives involves the surrender of our freedom and personal autonomy. It's time in which we are directed by the needs and desires of others, and denied the right to make our own choices. That's bad for us: it's hardly surprising that over half a million workers suffer from work-related mental health conditions each year, or that 15.4 million working days were lost to work-related stress last year, a jump of nearly a quarter.",
+                "zh": "这正是对我们个人自由最恶劣的威胁，尤其是因为职场中的权力平衡已经如此剧烈地从工人转向了老板。我们人生中有很大一部分时间都在交出自己的自由和个人自主权。在这段时间里，我们受他人的需求和欲望支配，并被剥夺了作出自己选择的权利。这对我们有害：每年有超过50万名劳动者患有与工作相关的心理健康问题，或者说，去年因与工作相关的压力而损失了1540万个工作日，人数比前一年增加了近四分之一，这一点并不令人意外。"
+              },
+              {
+                "en": "Yes, there are those who, far from being overworked, actually seek more hours. But a shorter working week would enable us to redistribute hours from the overworked to the underworked. We need to look at ways of cutting the working week without slashing living standards: after all, the world's workers have already suffered the worst deduction in wages since the early 1800s. And cutting the working week would be conducive to the individual, giving millions of workers more time to spend as they see fit.",
+                "zh": "的确，有些人非但没有工作过度，反而确实希望增加工作时间。但缩短工作周将使我们能够把工时从工作过度的人重新分配给工作不足的人。我们需要寻找在不降低生活水平的情况下缩短工作周的方法：毕竟，世界各地的劳动者已经遭受了自19世纪初以来最严重的工资下降。而缩短工作周将有利于个人，让数百万劳动者拥有更多时间，按照自己的意愿来支配。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the worst managed airport in German history."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is now the biggest and busiest airport in Europe."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has become something of a joke among Germans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has become a typical symbol of German efficiency."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The city's airports are outdated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The city had just been reunified."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The city wanted to boost its economy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The city wanted to attract more tourists."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The municipal government kept changing hands."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The construction firm breached the contract."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Shortage of funding delayed its construction."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Problems of different kinds kept popping up."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Tourism industry in Berlin suffers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "All kinds of equipment gets rusted."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Huge maintenance costs accumulate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Complaints by local residents increase."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Today I'm going to talk about Germany's dream airport in Berlin. The airport looks exactly like every other major modern airport in Europe, except for one big problem: more than seven years after it was originally supposed to open, it still stands empty.",
+                "zh": "今天我要谈谈德国在柏林修建的梦想机场。这座机场看起来与欧洲其他大型现代化机场完全一样，只有一个重大问题：在原定开放时间推迟了七年多之后，它仍然空空如也。"
+              },
+              {
+                "en": "Germany is known for its efficiency and refined engineering, but when it comes to its new ghost airport, this reputation could not be further from the truth. Plagued by long delays, perpetual mismanagement and ever-soaring costs, the airport has become something of a joke among Germans—and a source of frustration for local politicians, business leaders and residents alike.",
+                "zh": "德国以效率和精湛的工程技术闻名，但说到这座新的“幽灵机场”，这种声誉与事实相去甚远。由于长期延误、持续不断的管理不善以及不断飙升的成本，这座机场已经成了德国人眼中的笑柄，也成了当地政界人士、商界领袖和居民共同的沮丧之源。"
+              },
+              {
+                "en": "Planning for the new airport began in 1989. At the time, it became clear that the newly-reunified Berlin would need a modern airport with far greater capacity than its existing airports. The city broke ground on the new airport in 2006.",
+                "zh": "新机场的规划始于1989年。当时，人们已经清楚，重新统一后的柏林需要一座现代化机场，其容量要远远超过现有机场。2006年，这座城市为新机场举行了奠基仪式。"
+              },
+              {
+                "en": "The first major sign of problems came in summer 2010, when the construction corporation pushed the opening from October 2011 to June 2012. In 2012, the city planned an opening ceremony. But less than a month beforehand, inspectors found significant problems with the fire safety system and pushed the opening back again to 2013.",
+                "zh": "问题的第一个重大迹象出现在2010年夏天，当时负责建设的公司将开放时间从2011年10月推迟到2012年6月。2012年，这座城市计划举行开幕仪式。但就在开幕前不到一个月，检查人员发现消防安全系统存在严重问题，于是再次将开放时间推迟到2013年。"
+              },
+              {
+                "en": "It wasn't just the smoke system: many other major problems subsequently emerged. More than 90 metres of cable were incorrectly installed; 4,000 doors were wrongly numbered; escalators were too short. And there was a shortage of check-in desks.",
+                "zh": "问题并不只有烟雾系统：随后又出现了许多其他重大问题。超过90米的电缆安装错误；4000扇门的编号有误；自动扶梯太短。此外，机场还缺少值机柜台。"
+              },
+              {
+                "en": "So why, with so many problems discovered, didn't the airport corporation decide to give up on the project and start over? The reason is simple: people are often hesitant to terminate a project when they've already invested time or resources into it, even if it might make logical sense to do so.",
+                "zh": "那么，既然发现了这么多问题，机场公司为什么不决定放弃这个项目、从头开始呢？原因很简单：人们一旦已经在一个项目上投入了时间或资源，往往就不愿意终止它，即使终止项目在逻辑上可能是合理的做法。"
+              },
+              {
+                "en": "The longer the delays continued, the more problems inspectors found. Leadership of the planning corporation has changed hands nearly as many times as the opening date has been pushed back. Initially, rather than appointing a general contractor to run the project, the corporation decided to manage it themselves despite lack of experience with an undertaking of that scale.",
+                "zh": "延误持续的时间越长，检查人员发现的问题就越多。负责规划的公司几乎换了和开放日期被推迟次数一样多的领导层。最初，该公司没有任命总承包商来负责项目，而是决定自行管理，尽管他们没有管理如此大规模工程的经验。"
+              },
+              {
+                "en": "To compound the delays, the unused airport is resulting in massive costs. Every month that it remains unopened, it costs between €9m and €10m.",
+                "zh": "延误还造成了额外的损失，未投入使用的机场正在产生巨额成本。它每个月无法开放，都会耗费900万至1000万欧元。"
+              },
+              {
+                "en": "Assuming all goes well, the airport should open in October 2020. But the still-empty airport stands as the biggest embarrassment to Germany's reputation for efficiency—and a continuing drain on city and state resources.",
+                "zh": "如果一切顺利，这座机场应该会在2020年10月开放。但这座至今仍空置的机场，已经成为德国效率声誉最大的尴尬，也持续消耗着市政府和州政府的资源。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The persistent haze over many of our cities is a reminder of the polluted air that we breathe. Over 80% of the world's urban population is breathing air that fails to meet World Health Organisation guidelines, and an estimated 4.5 million people died"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "from outdoor air pollution in 2015. Globally, urban populations are expected to double in the next 40 years, and an extra 2 billion people will need new places to live, as well as services and ways to move around their cities. What is more important, the decisions that we make now about the design of our cities will"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "the everyday lives and health of the coming generations. So what would a smog-free, or at least low-pollution, city be like? Traffic has become"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "with air pollution, and many countries intend to ban the sale of petrol and diesel cars in the next two decades. But simply"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "to electric cars will not mean pollution-free cities. The level of emissions they cause will depend on how the electricity to run them is"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ", while brakes, tyres and roads all create tiny airborne"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "as they wear out. Across the developed world, car use is in decline as more people move to city centres, while young people especially are"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "for other means of travel. Researchers are already asking if motor vehicle use has reached its"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "and will decline, but transport planners have yet to catch up with this"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ", instead of laying new roads to tackle traffic jams. As users of London's orbital M25 motorway will know, new roads rapidly fill with more traffic. In the US, studies have shown that doubling the size of a road can"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "double the traffic, taking us back to the starting point."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "alternate"
+        },
+        {
+          "l": "B",
+          "w": "crown"
+        },
+        {
+          "l": "C",
+          "w": "determine"
+        },
+        {
+          "l": "D",
+          "w": "generated"
+        },
+        {
+          "l": "E",
+          "w": "locating"
+        },
+        {
+          "l": "F",
+          "w": "merged"
+        },
+        {
+          "l": "G",
+          "w": "miniatures"
+        },
+        {
+          "l": "H",
+          "w": "opting"
+        },
+        {
+          "l": "I",
+          "w": "particles"
+        },
+        {
+          "l": "J",
+          "w": "peak"
+        },
+        {
+          "l": "K",
+          "w": "prematurely"
+        },
+        {
+          "l": "L",
+          "w": "simply"
+        },
+        {
+          "l": "M",
+          "w": "switching"
+        },
+        {
+          "l": "N",
+          "w": "synonymous"
+        },
+        {
+          "l": "O",
+          "w": "trend"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "K"
+        },
+        {
+          "n": 27,
+          "a": "C"
+        },
+        {
+          "n": 28,
+          "a": "N"
+        },
+        {
+          "n": 29,
+          "a": "M"
+        },
+        {
+          "n": 30,
+          "a": "D"
+        },
+        {
+          "n": 31,
+          "a": "I"
+        },
+        {
+          "n": 32,
+          "a": "H"
+        },
+        {
+          "n": 33,
+          "a": "J"
+        },
+        {
+          "n": 34,
+          "a": "O"
+        },
+        {
+          "n": 35,
+          "a": "L"
+        }
+      ]
+    },
+    "matching": {
+      "title": "How Much Protein Do You Really Need?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "The marketing is enticing: Get stronger muscles and healthier bodies with minimal effort by adding protein powder to your morning shake or juice drink. Or grab a protein bar at lunch or for a quick snack. Today, you can find protein supplements everywhere—online or at the pharmacy, grocery store or health food store. They come in powders, pills and bars. With more than $12 billion in sales this year, the industry is booming and, according to the market research company, Grand View Research, is on track to sell billions more by 2025. But do we really need all this supplemental protein? It depends. There are pros, cons and some other things to consider."
+        },
+        {
+          "l": "B",
+          "t": "For starters, protein is critical for every cell in our body. It helps build nails, hair, bones, and muscles. It can also help you feel fuller longer than eating foods without protein. And, unlike nutrients that are found only in a few foods, protein is present in all foods. \"The typical American diet is a lot higher in protein than a lot of us think,\" says registered dietitian Angela Pipitone. \"It's in foods many of us expect, such as beef, chicken and other types of meat and dairy. But it's also in foods that may not come immediately to mind like vegetables, fruit, beans and grains.\""
+        },
+        {
+          "l": "C",
+          "t": "The U.S. government's recommended daily allowance (RDA) for the average adult is 50 to 60 grams of protein a day. This may sound like a lot, but Pipitone says: \"We get bits of protein here and there and that really adds up throughout the day.\" Take, for example, breakfast. If you ate two eggs topped with a little bit of cheese and an orange on the side, you already have 22 grams of protein. Each egg gives you 7 grams, the cheese gives you around 6 grams and the orange—about 2 grams. Add a lunch of chicken, rice and broccoli(西兰花), and you are already over the recommended 50 grams. \"You can get enough protein and meet the RDA before you even get to dinner,\" says Pipitone."
+        },
+        {
+          "l": "D",
+          "t": "So if it's so easy to get your protein in food, why add more in the form of powders, snack bars or a boost at your local juice bar? No need to, says Pipitone because, in fact, most of us already get enough protein in our diet. \"Whole foods are always the best option rather than adding supplements,\" she says, noting the FDA does not regulate supplements as stringently as foods or drugs, so there could be less protein, more sugar and some additives you wouldn't expect, such as caffeine(咖啡因)."
+        },
+        {
+          "l": "E",
+          "t": "If you are considering a supplement, read the list of ingredients, she says, although this is not always reliable. \"I've seen very expensive protein supplements that claim to be high quality but they might not really be beneficial for the average healthy adult,\" she says. \"It could just be a waste of money.\""
+        },
+        {
+          "l": "F",
+          "t": "But there are certain situations that do warrant extra protein. \"Anytime you're repairing or building muscle,\" Pipitone says, such as if you're an extreme endurance athlete, training for a marathon, or you're a body builder. If you're moderately exercising for 150 minutes a week, as the Centers for Disease Control and Prevention recommends, or less than that, you're probably not an extreme athlete. Extreme athletes expend lots of energy breaking down and repairing and building muscles. Protein can give them the edge they need to speed along that process."
+        },
+        {
+          "l": "G",
+          "t": "Vegans can benefit from protein supplements since they do not eat animal-based protein sources like meat, dairy or eggs. And, for someone always on-the-go who may not have time for a meal, a protein snack bar can be a good option for occasional meal replacement. Also, individuals recovering from surgery or an injury can also benefit from extra protein. So, too, can older people. At around age 60, \"muscles really start to break down,\" says Kathryn Starr, an aging researcher, \"and because of that, the protein needs of an older adult actually increase.\""
+        },
+        {
+          "l": "H",
+          "t": "In fact, along with her colleague Connie Bales, Starr recently conducted a small study that found that adding extra protein foods to the diet of obese older individuals who were trying to lose weight strengthened their muscles. Participants in the study were separated into two groups—one group was asked to eat 30 grams of protein per meal in the form of whole foods. That meant they were eating 90 grams of protein a day. The other group—the control group—was put on a typical low-calorie diet with about 50 to 60 grams of protein a day. After six months, researchers found the high protein group had significantly improved their muscle function—almost twice as much as the control group. \"They were able to walk faster, had improved balance, and were also able to get up out of a chair faster than the control group,\" Starr says. All 67 participants were over 60 years of age, and both groups lost about the same amount of weight."
+        },
+        {
+          "l": "I",
+          "t": "Starr is now looking into whether high-protein diets also improve the quality of the muscle itself in seniors. She's using CT scans to measure muscle size and fat, and comparing seniors on a high-protein diet to those on regular diets. She says her findings should be available in a couple of months."
+        },
+        {
+          "l": "J",
+          "t": "In the meantime, 70-year-old Corliss Keith, who was in the high protein group in Starr's latest study, says she feels a big difference. \"I feel excellent,\" she says, \"I feel like I have a different body, I have more energy, I'm stronger.\" She says she is able to take Zumba exercise classes three times a week, work out on the treadmill(跑步机), and take long, brisk walks. Keith also lost more than 15 pounds. \"I'm a fashionable person, so now I'm back in my three-inch heels,\" she says."
+        },
+        {
+          "l": "K",
+          "t": "As people age, Starr says muscle strength is key to helping them stay strong and continue living on their own in their own home. \"I feel very much alive now,\" says Keith. \"I feel like I could stay by myself until I'm 100.\""
+        },
+        {
+          "l": "L",
+          "t": "But can people overdo protein? Pipitone says you do have to be careful. Other researchers say too much protein can cause cramps(痉挛), headaches, and fatigue. Dehydration(脱水) is also a risk when you eat too much protein. Pipitone says if you increase protein, you also have to increase your fluid intake. \"I always tell people to make sure they're drinking enough fluids,\" which for the average person is 60 to 70 ounces a day, which translates into eight 8-ounce glasses of water or liquid per day."
+        },
+        {
+          "l": "M",
+          "t": "There have been some indications that extra protein makes the kidneys work harder, which could be problematic for individuals with a history of kidney disease and for them, the supplements may increase the risk of kidney stones, she says."
+        },
+        {
+          "l": "N",
+          "t": "Bottom Line: if you think you need more protein in your diet, consider these questions: Are you an extreme athlete; are you recovering from injury or surgery; or are you 60 years or older? If so, adding high protein foods like eggs and meat products to your diet can be beneficial. And, if you're not sure, it is always a good idea to check with your primary care provider."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It is quite easy for one to take in the recommended amount of protein.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "Pipitone claims that healthy adults need not spend money on protein supplements.",
+          "a": "E"
+        },
+        {
+          "n": 38,
+          "s": "The protein supplement business is found to be thriving.",
+          "a": "A"
+        },
+        {
+          "n": 39,
+          "s": "Protein can speed the repairing of damaged muscles.",
+          "a": "F"
+        },
+        {
+          "n": 40,
+          "s": "Protein supplements may overburden some internal organs, thus leading to their malfunctioning.",
+          "a": "M"
+        },
+        {
+          "n": 41,
+          "s": "Older adults need to take in more protein to keep their muscles strong.",
+          "a": "G"
+        },
+        {
+          "n": 42,
+          "s": "Protein is found in more foods than people might realize.",
+          "a": "B"
+        },
+        {
+          "n": 43,
+          "s": "Additional protein was found to help strengthen the muscles of overweight seniors seeking weight loss.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "Pipitone believes that whole foods provide the best source of protein.",
+          "a": "D"
+        },
+        {
+          "n": 45,
+          "s": "People are advised to drink more liquid when they take in more protein.",
+          "a": "L"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Last year, a child was born at a hospital in the UK with her heart outside her body. Few babies survive this rare condition, and those who do must endure numerous operations and are likely to have complex needs. When her mother was interviewed, three weeks after her daughter's birth, she was asked if she was prepared for what might be a daunting(令人生畏的) task caring for her. She answered without hesitation that, as far as she was concerned, this would be a \"privilege\". Rarely has there been a better example of the power of attitude, one of our most powerful psychological tools. Our attitudes allow us to turn mistakes into opportunities, and loss into the chance for new beginnings. An attitude is a settled way of thinking, feeling and/or behaving towards particular objects, people, events or ideologies. We use our attitudes to filter, interpret and react to the world around us. You weren't born with attitudes; rather they are all learned, and this happens in a number of ways. The most powerful influences occur during early childhood and include both what happened to you directly, and what those around you did and said in your presence. As you acquire a distinctive identity your attitudes are further refined by the behavior of those with whom you identify—your family, those of your gender and culture, and the people you admire, even though you may not know them personally. Friendships and other important relationships become increasingly important, particularly during adolescence. About that same time and throughout adulthood, the information you receive, especially when ideas are repeated in association with goals and achievements you find attractive, also refines your attitudes. Many people assume that our attitudes are internally consistent, that is, the way you think and feel about someone or something predicts your behavior towards them. However, many studies have found that feelings and thoughts don't necessarily predict behavior. In general, your attitudes will be internally consistent only when the behavior is easy, and when those around you hold similar beliefs. That's why, for example, many say they believe in the benefits of recycling or exercise, but don't behave in line with their views, because it takes awareness, effort and courage to go beyond merely stating that you believe something is a good idea. One of the most effective ways to change an attitude is to start behaving as if you already feel and think the way you'd prefer to. Take some time to reflect on your attitudes, to think about what you believe and why. Is there anything you consider a burden rather than a privilege? If so, start behaving—right now—as if the latter is the case.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from the passage about attitude?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It shapes our beliefs and ideologies."
+              },
+              {
+                "l": "B",
+                "t": "It improves our psychological wellbeing."
+              },
+              {
+                "l": "C",
+                "t": "It determines how we respond to our immediate environment."
+              },
+              {
+                "l": "D",
+                "t": "It changes the way we think, feel and interact with one another."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What can contribute to the refinement of one's attitude, according to the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their idols' behaviors."
+              },
+              {
+                "l": "B",
+                "t": "Their educational level."
+              },
+              {
+                "l": "C",
+                "t": "Their contact with the opposite gender."
+              },
+              {
+                "l": "D",
+                "t": "Their interaction with different cultures."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What do many studies find about people's feelings and thoughts?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may not suggest how a person is going to behave."
+              },
+              {
+                "l": "B",
+                "t": "They are in a way consistent with a person's mentality."
+              },
+              {
+                "l": "C",
+                "t": "They may not find expression in interpersonal relations."
+              },
+              {
+                "l": "D",
+                "t": "They are in line with a person's behavior no matter what."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "How come many people don't do what they believe is good?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can't afford the time."
+              },
+              {
+                "l": "B",
+                "t": "They have no idea how to."
+              },
+              {
+                "l": "C",
+                "t": "They are hypocritical."
+              },
+              {
+                "l": "D",
+                "t": "They lack willpower."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What is proposed as a strategy to change attitude?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Changing things that require one's immediate attention."
+              },
+              {
+                "l": "B",
+                "t": "Starting to act in a way that embodies one's aspirations."
+              },
+              {
+                "l": "C",
+                "t": "Adjusting one's behavior gradually over a period of time."
+              },
+              {
+                "l": "D",
+                "t": "Considering ways of reducing one's psychological burdens."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Industrial fishing for krill(磷虾) in the unspoilt waters around Antarctica is threatening the future of one of the world's last great wildernesses, according to a new report. The study by Greenpeace analysed the movements of krill fishing vessels in the region and found they were increasingly operating \"in the immediate vicinity of penguin colonies and whale-feeding grounds\". It also highlights incidents of fishing boats being involved in groundings, oil spills and accidents, which posed a serious threat to the Antarctic ecosystem. The report, published on Tuesday, comes amid growing concern about the impact of fishing and climate change on the Antarctic. A global campaign has been launched to create a network of ocean sanctuaries to protect the seas in the region and Greenpeace is calling for an immediate halt to fishing in areas being considered for sanctuary status. Frida Bengtsson from Greenpeace's Protect the Antarctic campaign said: \"If the krill industry wants to show it's a responsible player, then it should be voluntarily getting out of any area which is being proposed as an ocean sanctuary, and should instead be backing the protection of these huge tracts of the Antarctic.\" A global campaign has been launched to turn a huge tract of Antarctic seas into ocean sanctuaries protecting wildlife and banning not just krill fishing, but all fishing. One was created in the Ross Sea in 2016, another reserve is being proposed in a vast area of the Weddell Sea, and a third sanctuary is under consideration in the area west of the Antarctic Peninsula—a key krill fishing area. The Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) manages the seas around Antarctica. It will decide on the Weddell Sea sanctuary proposal at a conference in Australia in October, although a decision on the peninsula sanctuary is not expected until later. Keith Reid, a science manager at CCAMLR, said that the organisation sought \"a balance between protection, conservation and sustainable fishing in the Southern Ocean.\" He said although more fishing was taking place nearer penguin colonies it was often happening later in the season when these colonies were empty. \"The creation of a system of marine protected areas is a key part of ongoing scientific and policy discussions in CCAMLR,\" he added. \"Our long-term operation in the region depends on a healthy and thriving Antarctic marine ecosystem, which is why we have always had an open dialogue with the environmental non- governmental organisations. We strongly intend to continue this dialogue, including talks with Greenpeace, to discuss improvements based on the latest scientific data. We are not the ones to decide on the establishment of marine protected areas, but we hope to contribute positively with our knowledge and experience.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does Greenpeace's study find about krill fishing?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It caused a great many penguins and whales to migrate."
+              },
+              {
+                "l": "B",
+                "t": "It was depriving penguins and whales of their habitats."
+              },
+              {
+                "l": "C",
+                "t": "It was carried out too close to the habitats of penguins and whales."
+              },
+              {
+                "l": "D",
+                "t": "It posed an unprecedented threat to the wildlife around Antarctica."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "For what purpose has a global campaign been launched?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To reduce the impact of climate change on Antarctica."
+              },
+              {
+                "l": "B",
+                "t": "To establish conservation areas in the Antarctic region."
+              },
+              {
+                "l": "C",
+                "t": "To regulate krill fishing operations in the Antarctic seas."
+              },
+              {
+                "l": "D",
+                "t": "To publicise the concern about the impact of krill fishing."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What is Greenpeace's recommendation to the krill industry?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Opting to operate away from the suggested conservation areas."
+              },
+              {
+                "l": "B",
+                "t": "Volunteering to protect the endangered species in the Antarctic."
+              },
+              {
+                "l": "C",
+                "t": "Refraining from krill fishing throughout the breeding season."
+              },
+              {
+                "l": "D",
+                "t": "Showing its sense of responsibility by leading the global campaign."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What did CCAMLR aim to do according to its science manager?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Raise public awareness of the vulnerability of Antarctic species."
+              },
+              {
+                "l": "B",
+                "t": "Ban all commercial fishing operations in the Southern Ocean."
+              },
+              {
+                "l": "C",
+                "t": "Keep the penguin colonies from all fishing interference."
+              },
+              {
+                "l": "D",
+                "t": "Sustain fishing without damaging the Antarctic ecosystem."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "How does CCAMLR define its role in the conservation of the Antarctic environment?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A coordinator in policy discussions."
+              },
+              {
+                "l": "B",
+                "t": "An authority on big data analysis."
+              },
+              {
+                "l": "C",
+                "t": "A provider of the needed expertise."
+              },
+              {
+                "l": "D",
+                "t": "An initiator of marine sanctuaries."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "梅花位居中国十大名花之首，源于中国南方，已有三千多年的栽培历史和种植历史。隆冬时节，五颜六色 的梅花不畏严寒，迎着风雪傲然绽放。在中国传统文化中，梅花象征着坚强、纯洁、高雅，激励人们不畏艰 难、砥砺前行。自古以来，许多诗人和画家从梅花中获取灵感，创作了无数不朽的作品。普通大众也都喜爱梅 花，春节期间常用于家庭装饰。南京市已将梅花定为市花，每年举办梅花节，成千上万的人冒着严寒到梅花山 踏雪赏梅。",
+    "reference": "The plum blossom ranks first among China’s ten most famous flowers. Originating in southern China, it has a cultivation history of over 3,000 years. In midwinter, the colorful plum blossoms, braving the severe cold, bloom proudly against the wind and snow. In traditional Chinese culture, the plum blossom symbolizes strength, purity and elegance, inspiring people to overcome difficulties and forge ahead. Since ancient times, many poets and painters have drawn inspiration from plum blossoms and created countless immortal works. The general public also love plum blossoms, which are often used for home decoration during the Spring Festival. Nanjing has designated the plum blossom as its city flower and holds a Plum Blossom Festival every year. Thousands of people brave the severe cold and come to Plum Blossom Hill to walk in the snow and enjoy the blossoms."
+  }
+}

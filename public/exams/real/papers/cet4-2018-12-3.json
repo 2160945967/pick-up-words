@@ -1,0 +1,1321 @@
+{
+  "id": "cet4-2018-12-3",
+  "level": "cet4",
+  "year": 2018,
+  "month": 12,
+  "set": 3,
+  "title": "2018年12月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on the challenges of starting a career after graduation. You should write at least 120 words but no more than 180 words.",
+    "sample": "Graduation opens an exciting new chapter, yet stepping from campus into the workplace is far from easy. For many fresh graduates, the transition brings a series of real challenges that deserve honest attention.To begin with, a lack of practical experience often puts newcomers at a disadvantage. Although they may have solid theoretical knowledge, employers usually prefer candidates who can handle real tasks from day one. In addition, the job market has become fiercely competitive; because millions graduate every year, a single position may attract hundreds of applicants. What is more, the gap between ideal and reality can be frustrating, as the first salary and daily duties rarely match earlier expectations.Despite these difficulties, graduates should not be discouraged. By keeping learning, accumulating experience through internships, and adjusting their mindset, young people can gradually turn pressure into growth. After all, every challenge overcome is a step toward a mature and rewarding career."
+  },
+  "listening": {
+    "audio": "cet4-2018-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Land a space vehicle on the moon in 2019."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Design a new generation of mobile phones."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Set up a mobile phone network on the moon."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Gather data from the moon with a tiny device."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is stable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is durable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is inexpensive."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is sophisticated.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A device that weighs less than one kilogram is part of a mission that will allow scientists to deliver fourth generation or 4G mobile coverage to the moon in 2019. If successful, the tiny device will provide the moon with its first-ever mobile phone network. The lunar network will support high-definition streaming of video and data between the moon and Earth. The network is part of Mission to the Moon. This is a project with the goal of landing the first privately paid for mission to the moon. The 4G mission is set to launch from Cape Canaveral in the United States on a SpaceX Falcon 9 rocket in 2019. Mission to the Moon intends to establish and test the first elements of a communications network on the moon. The scientists working on the project opted to build a 4G, rather than a fifth generation or 5G network. This is because fifth generation networks are still in testing and trial phases. This means that a 5G network may not yet be stable enough to work on the moon's surface.",
+                "zh": "一个重量不到一公斤的设备是一项任务的一部分，该任务将使科学家能够在2019年向月球提供第四代或4G移动覆盖。如果成功，这个微型设备将为月球提供有史以来第一个移动电话网络。该月球网络将支持月球与地球之间高清视频和数据的传输。该网络是登月任务的一部分。这是一个旨在实现首次私人付费登月任务的项目。4G任务定于2019年从美国卡纳维拉尔角由SpaceX猎鹰9号火箭发射。登月任务旨在建立并测试月球上通信网络的首批要素。参与该项目的科学家选择建立4G网络，而不是第五代或5G网络。这是因为第五代网络仍处于测试和试验阶段。这意味着5G网络可能还不够稳定，无法在月球表面运行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It lasted more than six hours."
+                  },
+                  {
+                    "l": "B",
+                    "t": "No injuries were yet reported."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Nobody was in the building when it broke out."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It had burned for 45 minutes by the time firefighters arrived."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Recruit and train more firefighters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Pull down the deserted shopping mall."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Turn the shopping mall into an amusement park."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Find money to renovate the local neighborhood.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Firefighters responded to a fire Wednesday night at an abandoned mall in Hayward. The fire was reported at 9:26 p.m. at an old shopping centre on Mission Avenue near Saint Mary's church. Six fire engines, two trucks and two chiefs responded to the scene. Crews had the fire under control in about 45 minutes and managed to contain the fire to its point of origin. There were some people inside the building when the fire broke out, but there were no reports of any injuries. Fire investigators have responded to the scene but have not yet determined the cause of the fire. Firefighters will remain on the scene until later this morning to ensure that the fire doesn't start up again. The shopping mall had not been in use since 2002. In 2014, City Hall developed a plan to knock down the building and replace it with affordable housing. However, the plan was dropped due to lack of funds.",
+                "zh": "消防员周三晚上对Hayward一座废弃购物中心的火灾做出了响应。火灾于晚上9点26分在Mission Avenue靠近Saint Mary's教堂的一座旧购物中心被报告。六辆消防车、两辆卡车和两名消防队长赶到现场。消防人员在大约45分钟内控制住了火势,并成功将火势控制在起火点。火灾发生时建筑物内有一些人,但没有人员伤亡的报告。火灾调查人员已赶到现场,但尚未确定起火原因。消防员将在现场留守至今天上午晚些时候,以确保火势不会再次燃起。该购物中心自2002年以来一直未投入使用。2014年,市政厅制定了一项计划,拟拆除该建筑并用经济适用房取而代之。然而,该计划因缺乏资金而被放弃。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Shrinking potato farming."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Heavy reliance on import."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Widespread plant disease."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Insufficient potato supply."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It intends to keep its traditional diet."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It wants to expand its own farming."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is afraid of the spread of disease."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is worried about unfair competition."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Global warming."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ever-rising prices."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Government regulation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Diminishing investment."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Potato chips in Japan are being sold for 6 times their normal price. This is after the country's main manufacturer stopped sales due to a potato shortage. Storms and floods in its main potato-growing region last year caused the worst harvest in more than 3 decades. Local media reports suggest Calbee and its main rival Koike-Ya are halting almost 50 products. \"We don't know when we'll be able to restart,\" a company spokesman said. Snack lovers are panic buying, and many supermarket shelves are bare. Japanese laws limit the amount of imported potatoes that can be used in Japanese-made products. Japan says fear of disease is its main reason to block fresh imports. It still only allows potatoes from selected US states. This is only at certain times and on condition that they are processed at factories based near Japanese ports. But global warming has raised the possibility that domestic produce could be seriously affected by rare weather events more often.",
+                "zh": "日本的薯片正以正常价格6倍的价格出售。这是在该国主要制造商因马铃薯短缺而停止销售之后发生的。去年主要马铃薯种植区的暴风雨和洪水导致了30多年来最严重的歉收。当地媒体报道显示，Calbee及其主要竞争对手Koike-Ya正在停产近50种产品。一位公司发言人表示：\"我们不知道何时能够重新开始。\"零食爱好者正在恐慌性购买，许多超市货架已经空空如也。日本法律限制了可用于日本制造产品的进口马铃薯数量。日本表示担心疾病是其阻止新鲜进口的主要原因。它目前仍然只允许来自美国特定州的马铃薯。这也只是在特定时间，并且条件是它们必须在靠近日本港口的工厂进行加工。但全球变暖增加了国内产品可能更频繁地受到罕见天气事件严重影响的可能性。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Informative."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inspiring."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Dull."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Shallow."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She types on a keyboard."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She does recording."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She takes photos."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She takes notes."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It keeps her mind active."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It makes her stay awake."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It enables her to think hard."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It helps her kill time."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It enables her to improve her pronunciation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It helps her better remember what she learns."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It turns out to be an enjoyable way of learning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It proves to be far more effective than writing.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Mr. Brown's lectures are so boring.",
+                "zh": "M: 布朗先生的课太无聊了。"
+              },
+              {
+                "en": "W: Yes, he is not a very exciting speaker. But the subject is interesting.",
+                "zh": "W: 是啊，他讲课确实不太生动。但这门课的内容还是挺有意思的。"
+              },
+              {
+                "en": "M: During every one of his lectures, I try to listen. I really try, but after about ten minutes, my mind begins to wander and I lose concentration. But I see that you seem to be OK. How do you stay focused through the entire hour?",
+                "zh": "M: 每次上他的课，我都努力去听。我真的很努力，但大概十分钟之后，我的思绪就开始游离，注意力就不集中了。但我看你好像没问题。你是怎么在整整一小时里都保持专注的？"
+              },
+              {
+                "en": "W: Well, what I do is keep my pen moving.",
+                "zh": "W: 嗯，我的方法就是让笔一直动着。"
+              },
+              {
+                "en": "M: What do you mean?",
+                "zh": "M: 什么意思？"
+              },
+              {
+                "en": "W: It's a method of active concentration I read about. One of the most effective ways to concentrate is to write things down. But it has to be done by hand, not typing on a keyboard. You see, writing by hand forces you to actually engage with what you are learning in a more physical way.",
+                "zh": "W: 这是我读到的一种主动集中注意力的方法。最有效的集中注意力的方式之一就是把东西写下来。但必须是手写，不能用键盘打字。你看，手写会强迫你以一种更具身体性的方式真正投入到你正在学习的内容中。"
+              },
+              {
+                "en": "M: Do you review your notes afterwards then?",
+                "zh": "M: 那你之后会复习你的笔记吗？"
+              },
+              {
+                "en": "W: Sometimes, but that's not important. My notes may or may not be useful. But the point is that by writing down what Mr. Brown says, I can follow his line of thinking more easily. In fact, sometimes I draw a little too.",
+                "zh": "W: 有时候会，但这不重要。我的笔记可能有用也可能没用。但关键是，通过写下布朗先生说的话，我能更容易地跟上他的思路。其实有时候我还会画一点东西。"
+              },
+              {
+                "en": "M: You draw in class? And that helps you pay attention?",
+                "zh": "M: 你在课上画画？这还能帮你集中注意力？"
+              },
+              {
+                "en": "W: Yes, honestly, it works for me. I just draw little lines and nonsense really. It was also in that article I read. It can keep the mind active, prevent getting bored and help to concentrate. Again, the point is to listen hard while keeping the pen moving. If I'm at home and I need to study, what I do is read out loud. It has a similar effect to writing by hand. It helps memorize information in a physical way.",
+                "zh": "W: 是的，说实话，这对我管用。我就是画一些小线条什么的，其实没什么意义。这也是我在那篇文章里读到的。这能让大脑保持活跃，防止无聊，帮助集中注意力。再说一遍，关键是在让笔动起来的同时努力听讲。如果我在家需要学习，我会大声朗读。这和手写有类似的效果。它能以一种身体性的方式帮助记忆信息。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To spend her honeymoon."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To try authentic Indian food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To take photos of the Taj Mahal."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To trace the origin of a love story."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In memory of a princess."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In honor of a great emperor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To mark the death of an emperor of the 1600s."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To celebrate the birth of a princess's 14th child."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It looks older than expected."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is built of wood and bricks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It stores lots of priceless antiques."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has walls decorated with jewels."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their streets are narrow."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are mostly crowded."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Each one has a unique character."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Life can be tedious in some places."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: And where is this?",
+                "zh": "M: 这是哪里？"
+              },
+              {
+                "en": "W: These photos are from the Taj Mahal in India. We went there about ten years ago for our honeymoon.",
+                "zh": "W: 这些照片是在印度的泰姬陵拍的。我们大约十年前去那里度蜜月。"
+              },
+              {
+                "en": "M: Was it romantic?",
+                "zh": "M: 浪漫吗？"
+              },
+              {
+                "en": "W: Yeah, the Taj Mahal was a very romantic place. The guide told us there is a famous love story behind this building that all Indians learn in school. I think it was during the 1600s and the princess at that time died while giving birth to her 14th child. The emperor loved the princess so much and was so sad when she died that he ordered the palace to be built in her honor.",
+                "zh": "W: 是的，泰姬陵是个非常浪漫的地方。导游告诉我们这座建筑背后有一个著名的爱情故事，所有印度人在学校都会学到。我想是在1600年代，当时的王妃在生第14个孩子时去世了。皇帝非常爱王妃，她去世时他非常伤心，于是下令建造这座宫殿来纪念她。"
+              },
+              {
+                "en": "M: Wow, that sounds very romantic. It looks amazing.",
+                "zh": "M: 哇，听起来真浪漫。看起来太棒了。"
+              },
+              {
+                "en": "W: Yes. It's gorgeous. It's also larger in real life than it looks in the photos. The building is very tall and there are gardens and a wall around it all. It's all built in this white stone. (14) And some walls of the building are decorated with jewels.",
+                "zh": "W: 是的，非常壮观。实际上它比照片里看起来更大。建筑非常高，周围有花园和围墙。全部都是用这种白色石头建造的。建筑的一些墙面还装饰着宝石。"
+              },
+              {
+                "en": "M: It must have been very crowded when you were there.",
+                "zh": "M: 你们在那里的时候一定很拥挤吧。"
+              },
+              {
+                "en": "W: Yes. It's a very famous tourist destination, so there are thousands of visitors every day.",
+                "zh": "W: 是的。它是一个非常著名的旅游目的地，所以每天有成千上万的游客。"
+              },
+              {
+                "en": "M: Was the rest of India crowded?",
+                "zh": "M: 印度其他地方也很拥挤吗？"
+              },
+              {
+                "en": "W: Yes, very crowded in many cities. It was sometimes so crowded that it was difficult to walk along the streets, especially through busy markets. And there are so many cars. Traffic was terrible. But the people are friendly. The culture is amazing. And we had a great time.",
+                "zh": "W: 是的，很多城市都非常拥挤。有时候拥挤到很难沿着街道走，特别是穿过繁忙的市场。而且有那么多汽车，交通糟糕透了。但是人们很友好，文化很神奇，我们玩得很开心。"
+              },
+              {
+                "en": "M: What about the food?",
+                "zh": "M: 食物怎么样？"
+              },
+              {
+                "en": "W: Indian food is great. There are lots of different dishes to try, and every region has its own special food.",
+                "zh": "W: 印度菜很棒。有很多不同的菜可以尝试，每个地区都有自己的特色美食。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They help spread the latest technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They greatly enrich people's leisure life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They provide residents with the resources needed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They allow free access to digital books and videos."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By helping them find jobs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By inspiring their creativity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By keeping them off the streets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By providing a place of relaxation."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their interaction with teenagers proved fruitful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They used libraries less often than teenagers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They tended to visit libraries regularly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their number increased modestly.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A Pew Research Center survey of more than 1,000 Americans conducted in April, 2016, finds that Americans continue to express largely positive views about the current state of their local public libraries. For instance, around three quarters say that public libraries provide them with the resources they need. And 66% say the closing of their local public library would have a major impact on their community although notably, just 33% say this would have a major impact on them personally or on their family. A majority of Americans feel libraries are doing a good job of providing a safe place for people to hang out or spend time as well as opening up educational opportunities for people of all ages. And roughly half think their libraries contribute \"a lot\" to their communities in terms of helping spark creativity among young people and providing a trusted place for people to learn about new technologies. As in past Pew Research Center surveys of library use, the April 2016 survey also measured Americans' usage of and engagement with libraries. Overall, 53% of Americans, aged 16 and older, have had some interaction with a public library in the past year—either through an in-person visit or using a library website. Some 48% of adults specifically visited a library in the past 12 months, a modest increase from the 44% who said that in late 2015.",
+                "zh": "Pew研究中心于2016年4月对1000多名美国人进行的调查发现，美国人继续对当地公共图书馆的现状表达大体积极的看法。例如，约四分之三的人表示公共图书馆为他们提供了所需的资源。66%的人表示，如果当地公共图书馆关闭，将对其社区产生重大影响，不过值得注意的是，只有33%的人表示这将对他们个人或家庭产生重大影响。大多数美国人认为图书馆在为人们提供一个闲逛或消磨时间的安全场所，以及为各年龄段的人开辟教育机会方面做得很好。约半数人认为图书馆在帮助激发年轻人的创造力以及为人们提供学习新技术的可信赖场所方面对其社区贡献\"很大\"。与Pew研究中心过去关于图书馆使用情况的调查一样，2016年4月的调查也衡量了美国人对图书馆的使用和参与情况。总体而言，53%的16岁及以上美国人在过去一年中与公共图书馆有过某种互动——无论是通过亲自访问还是使用图书馆网站。48%的成年人在过去12个月中特别访问过图书馆，与2015年底表示访问过图书馆的44%相比略有增长。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the cleverest cat in the world."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the largest cat in Africa."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is an unusual cross breed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a large-sized wild cat."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are as loyal as dogs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have unusually long tails."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are fond of sleeping in cabinets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They know how to please their owners."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They shake their front paws."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They teach them to dive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They shower with them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They shout at them.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A Savannah cat is a cross breed between a domestic cat and a medium-sized wild African cat called the Serval. The unusual cross became popular among breeders at the end of the 1990s, and in 2001 the International Cat Association accepted it as a new registered breed. The Savannahs are tall and slim and can weigh up to 9.1 kilograms, making them one of the largest breeds of cats that people can own. They have a spotted coat similar to that of many types of wild cats and their ears are very large. They are also commonly compared to dogs in their loyalty, and can be trained to walk on a lead and to fetch. An often-noted characteristic of the Savannah is its jumping ability. They are known to jump on top of doors and high cabinets. Some can leap about 2.5 metres high from a standing position. Cats are typically known for being very inquisitive and so are the Savannahs. They often learn how to open doors and cupboards. Many Savannah cats do not fear water and will play with or even dive into water. Some owners even shower with their Savannah cats. Presenting a water bowl to a Savannah may also prove a challenge, as some will promptly begin to bat all the water out of the bowl until it is empty, using their front paws.",
+                "zh": "Savannah猫是家猫与一种中型非洲野生猫科动物Serval的杂交品种。这种不寻常的杂交品种在20世纪90年代末在繁育者中流行起来,2001年国际猫协会接受其为新注册品种。Savannah猫身材高挑纤细,体重可达9.1公斤,是人们可以饲养的最大猫品种之一。它们有着与许多野生猫科动物相似的斑点皮毛,耳朵非常大。它们的忠诚度也常被拿来与狗相比较,可以训练其用牵引绳行走和捡拾物品。Savannah猫一个经常被提及的特征是其跳跃能力。它们能跳到门顶和高柜子上。有些可以从站立姿势跳跃约2.5米高。猫通常以好奇心强而闻名,Savannah猫也是如此。它们经常学会如何打开门和橱柜。许多Savannah猫不怕水,会玩水甚至潜入水中。一些主人甚至与他们的Savannah猫一起淋浴。给Savannah猫提供水碗也可能是一个挑战,因为有些猫会立即开始用前爪把碗里的水全部拍出来,直到碗空为止。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Anxious and depressed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Contented and relieved."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Excited but somewhat sad."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Proud but a bit nervous."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is becoming parents' biggest concern."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is gaining increasing public attention."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It depends on their parents for success."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It starts the moment they are born."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Set a good example for them to follow."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Read books and magazines to them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help them to learn by themselves."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Choose the right school for them."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their intelligence."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their home life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The effort they put in learning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The quality of their school."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When children start school for the very first time, parents often feel a sense of excitement coupled with a touch of sadness at the end of an era. This is the start of a new adventure for children: playing and interacting with new friends, sharing, taking turns and settling into a new routine. But of course, this is not the start of your child's education which in fact began at birth. Back then, you would have been your child's most influential teachers. During this time at home, your child would have learned more than at any other period in their life. During your child's first year in school, much time will be spent in learning to read and they need to know that this is fun and worthwhile. Your child will naturally copy you, so it is important that you are seen reading and enjoying books, newspapers and magazines rather than just absorbed in screens. Ultimately, an excellent education should be a close partnership between parents and teachers. A child's year splits fairly neatly into thirds: a third at school, a third asleep and a third awake at home or on holiday. Irrespective of the quality of a school, a child's home life is of key importance. It is the determining factor of their academic success. Your child may have started on a new journey but your work is far from finished.",
+                "zh": "当孩子们第一次开始上学时,家长们往往会感到既兴奋又有些伤感,因为一个时代结束了。这是孩子们新冒险的开始:与新朋友一起玩耍和互动,分享,轮流以及适应新的日常安排。但当然,这并不是孩子教育的开始,事实上教育从出生时就已经开始了。那时候,你是孩子最有影响力的老师。在家里的这段时间,孩子学到的东西比生命中任何其他时期都多。在孩子入学的第一年,大部分时间将用于学习阅读,他们需要知道这是有趣的和值得的。你的孩子会自然地模仿你,所以重要的是让他们看到你在阅读和享受书籍、报纸和杂志,而不是只沉浸在屏幕中。归根结底,优质的教育应该是家长和教师之间的紧密合作。孩子的一年可以相当清晰地分为三部分:三分之一在学校,三分之一在睡觉,三分之一在家中或度假时醒着。无论学校的质量如何,孩子的家庭生活都至关重要。它是决定孩子学业成功的关键因素。你的孩子可能已经开始了新的旅程,但你的工作还远未结束。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2018-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "A few months ago, I was down with a terrible cold which ended in a persistent bad cough. No matter how many different"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "I tried, I still couldn't get rid of the cough. Not only did it"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "my teaching but also my life as a whole. Then one day after class, a student came up to me and"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "traditional Chinese medicine. From her description, Chinese medicine sounded as if it had magic power that worked wonders. I was"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "because I knew so little about it and have never tried it before. Eventually, my cough got so much"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "that I couldn't sleep at night, so I decided to give it a try. The Chinese doctor took my pulse and asked to see my tongue, both of which were new"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "to me because they are both non-existent in Western medicine. Then the doctor gave me a scraping(刮) treatment known as \"Gua Sha\". I was a little"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "at first because he used a smooth edged tool to scrape the skin on my neck and shoulders. A few minutes later, the"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "strokes started to produce a relieving effect and my body and mind began to"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "deeper into relaxation. I didn't feel any improvement in my condition in the first couple of days, but after a few more regular visits to the doctor, my cough started to"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ". Then, within a matter of weeks, it was completely gone!"
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "deepen"
+        },
+        {
+          "l": "B",
+          "w": "experiences"
+        },
+        {
+          "l": "C",
+          "w": "hesitant"
+        },
+        {
+          "l": "D",
+          "w": "inconvenience"
+        },
+        {
+          "l": "E",
+          "w": "lessen"
+        },
+        {
+          "l": "F",
+          "w": "licenses"
+        },
+        {
+          "l": "G",
+          "w": "pressured"
+        },
+        {
+          "l": "H",
+          "w": "recommended"
+        },
+        {
+          "l": "I",
+          "w": "remedies"
+        },
+        {
+          "l": "J",
+          "w": "scared"
+        },
+        {
+          "l": "K",
+          "w": "sensitive"
+        },
+        {
+          "l": "L",
+          "w": "sink"
+        },
+        {
+          "l": "M",
+          "w": "temporary"
+        },
+        {
+          "l": "N",
+          "w": "tremble"
+        },
+        {
+          "l": "O",
+          "w": "worse"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "I"
+        },
+        {
+          "n": 27,
+          "a": "D"
+        },
+        {
+          "n": 28,
+          "a": "H"
+        },
+        {
+          "n": 29,
+          "a": "C"
+        },
+        {
+          "n": 30,
+          "a": "O"
+        },
+        {
+          "n": 31,
+          "a": "B"
+        },
+        {
+          "n": 32,
+          "a": "J"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "L"
+        },
+        {
+          "n": 35,
+          "a": "E"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Is it really OK to eat food that's fallen on the floor?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "When you drop a piece of food on the floor, is it really OK to eat if you pick it up within five seconds? An urban food myth contends that if food spends just a few seconds on the floor, dirt and germs won't have much of a chance to contaminate it. Research in my lab has focused on how food becomes contaminated, and we've done some work on this particular piece of wisdom."
+        },
+        {
+          "l": "B",
+          "t": "While the \"five-second rule\" might not seem like the most pressing issue for food scientists to get to the bottom of, it's still worth investigating food myths like this one because they shape our beliefs about when food is safe to eat."
+        },
+        {
+          "l": "C",
+          "t": "So is five seconds on the floor the critical threshold(门槛) that separates a piece of eatable food from a case of food poisoning? It's a bit more complicated than that. It depends on just how many bacteria can make it from floor to food in a few seconds and just how dirty the floor is."
+        },
+        {
+          "l": "D",
+          "t": "Wondering if food is still OK to eat after it's dropped on the floor is a pretty common experience. And it's probably not a new one either. A well-known, but inaccurate, story about Julia Child may have contributed to this food myth. Some viewers of her cooking show, The French Chef, insist they saw Child drop lamb on the floor and pick it up, with the advice that if they were alone in the kitchen, their guests would never know."
+        },
+        {
+          "l": "E",
+          "t": "In fact it was a potato pancake, and it fell on the stovetop, not on the floor. Child put it back in the pan, saying, \"But you can always pick it up and if you're alone in the kitchen, who's going to see it?\" But the misremembered story persists. It's harder to pin down the origins of the oft-quoted five-second rule, but a 2003 study reported that 70% of women and 56% of men surveyed were familiar with the five-second rule and that women were more likely than men to eat food that had dropped on the floor."
+        },
+        {
+          "l": "F",
+          "t": "So what does science tell us about what a few moments on the floor means for the safety of your food? The earliest research report on the five-second rule is attributed to Jillian Clarke, a high school student participating in a research project at the University of Illinois. Clarke and her colleagues introduced bacteria to floor tiles( 瓷砖) and then placed cookies on the tiles for varying times. They reported bacteria were transferred from the tiles to the cookies within five seconds, but didn't report the specific amount of bacteria that made it from the tiles to the food."
+        },
+        {
+          "l": "G",
+          "t": "But how many bacteria actually transfer in five seconds? In 2007, my lab at Clemson University published a study in the Journal of Applied Microbiology. We wanted to know if the length of time food is in contact with a contaminated surface affected the rate of transfer of bacteria to the food. To find out, we introduced bacteria to squares of tile, carpet or wood. Five minutes after that, we placed either bacon or bread on the surface for 5, 30 or 60 seconds, and then measured the number of bacteria transferred to the food. We repeated this exact procedure after the bacteria had been on the surface for 2, 4, 8 and 24 hours."
+        },
+        {
+          "l": "H",
+          "t": "We found that the number of bacteria transferred to either kind of food didn't depend much on how long the food was in contact with the contaminated surface—whether for a few seconds or for a whole minute. The overall number of bacteria on the surface mattered more, and this decreased over time after the initial introduction. It looks like what's at issue is less how long your food stays on the floor and much more how contaminated with bacteria that patch of floor happens to be."
+        },
+        {
+          "l": "I",
+          "t": "We also found that the kind of surface made a difference as well. Carpets, for instance, seem to be slightly better places to drop your food than wood or tile. When a carpet was contaminated, less than 1% of the bacteria were transferred. But when the food was in contact with tile or wood, 48-70% of bacteria were."
+        },
+        {
+          "l": "J",
+          "t": "Last year, a study from Aston University in the UK used nearly identical parameters(参数) to our study and found similar results. They also reported that 87% of people asked either would eat or had eaten food that had fallen on the floor."
+        },
+        {
+          "l": "K",
+          "t": "Should you eat food fallen on the floor then? From a food safety standpoint, if you have millions or more bacteria on a surface, 0.1% is still enough to make you sick. Also, certain types of bacteria are extremely harmful, and it takes only a small number to make you sick. For example, 10 bacteria or less of an especially deadly strain of bacteria can cause severe illness and death in people with compromised immune systems. But the chance of these bacteria being on most surfaces is very low."
+        },
+        {
+          "l": "L",
+          "t": "And it's not just dropping food on the floor that can lead to bacterial contamination. Bacteria are carried by various \"media\", which can include raw food, moist surfaces where bacteria have been left, our hands or skin and from coughing or sneezing(打喷嚏). Hands, foods and utensils(器皿) can carry individual bacteria living in communities contained within a protective film. These microscopic layers of deposits containing bacteria are known as biofilms and they are found on most surfaces and objects. Biofilm communities can harbor bacteria longer and are very difficult to clean. Bacteria in these communities also have an enhanced resistance to sanitizers(清洁剂) and antibiotics compared to bacteria living on their own."
+        },
+        {
+          "l": "M",
+          "t": "So the next time you consider eating fallen food, the odds are in your favor that you can eat it without getting sick. But in the rare chance that there is a micro-organism that can make you sick on the exact spot where the food dropped, you can be fairly sure that the bug is on the food you are about to put in your mouth."
+        },
+        {
+          "l": "N",
+          "t": "Research or common sense tells us that the best thing to do is keep your hands, utensils and other surfaces clean."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "A research project found bacteria made their way to the food on the floor in five seconds.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "Whether food is contaminated depends much on the number of bacteria that get onto it.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "Food contamination may result from various factors other than food dropping on the floor.",
+          "a": "L"
+        },
+        {
+          "n": 39,
+          "s": "Males are less likely than females to eat food that may have been contaminated.",
+          "a": "E"
+        },
+        {
+          "n": 40,
+          "s": "The author's research centers around how food gets contaminated.",
+          "a": "A"
+        },
+        {
+          "n": 41,
+          "s": "Keeping everything clean is the best way to stay healthy.",
+          "a": "N"
+        },
+        {
+          "n": 42,
+          "s": "Chances are you will not fall sick because of eating food picked up from the floor.",
+          "a": "M"
+        },
+        {
+          "n": 43,
+          "s": "For a long time people have had the experience of deciding whether or not to eat food picked up from the floor.",
+          "a": "D"
+        },
+        {
+          "n": 44,
+          "s": "Some strains of bacteria are so harmful that a tiny few can have deadly consequences.",
+          "a": "K"
+        },
+        {
+          "n": 45,
+          "s": "Researchers found how many bacteria got onto the food did not have much to do with how long the food stayed on a contaminated floor.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "The latest in cat research reveals that the lovely animal seems to have a basic grasp on both the laws of physics and the ins and outs of cause and effect. According to a newly published study, cats seem to be able to predict the location of hiding prey(猎物) using both their ears and an inborn(天生的) understanding of how the physical world works. In a recent experiment, Japanese researchers taped 30 domestic cats reacting to a container that a team member shook. Some containers rattled( 发出响声); others did not. When the container was tipped over, sometimes an object fell out and sometimes it didn't. It turns out that the cats were remarkably smart about what would happen when a container was tipped over. When an object did not drop out of the bottom of a rattling container, they looked at it for a longer time than they did when the container behaved as expected. \"Cats use a causal-logical understanding of noise or sounds to predict the appearance of invisible objects,\" lead researcher Saho Takagi says in a press release. The researchers conclude that cats' hunting style may have developed based on their common-sense abilities to infer where prey is, using their hearing. Scientists have explored this idea with other endearing creatures: babies. Like cats, babies appear to engage in what's called \"preferential looking\"—looking longer at things that are interesting or unusual than things they perceive as normal. When babies' expectations are violated in experiments like the ones performed with the cats, they react much like their animal friends. Psychologists have shown that babies apparently expect their world to comply with the laws of physics and cause and effect as early as two months of age. Does the study mean that cats will soon grasp the ins and outs of cause and effect? Maybe. Okay, so cats may not be the next physics faculty members at America's most important research universities. But by demonstrating their common sense, they've shown that the divide between cats and humans may not be that great after all.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from a newly published study about cats?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can be trained to understand the physical world."
+              },
+              {
+                "l": "B",
+                "t": "They know what kind of prey might be easier to hunt."
+              },
+              {
+                "l": "C",
+                "t": "They have a natural ability to locate animals they hunt."
+              },
+              {
+                "l": "D",
+                "t": "They are capable of telling which way their prey flees."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What may account for the cats' response to the noise from the containers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their inborn sensitivity to noise."
+              },
+              {
+                "l": "B",
+                "t": "Their unusual sense of direction."
+              },
+              {
+                "l": "C",
+                "t": "Their special ability to perceive."
+              },
+              {
+                "l": "D",
+                "t": "Their mastery of cause and effect."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What is characteristic of the way cats hunt, according to the Japanese researchers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They depend on their instincts."
+              },
+              {
+                "l": "B",
+                "t": "They rely mainly on their hearing."
+              },
+              {
+                "l": "C",
+                "t": "They wait some time before attack."
+              },
+              {
+                "l": "D",
+                "t": "They use both their ears and eyes."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "In what way do babies behave like cats?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They focus on what appears odd."
+              },
+              {
+                "l": "B",
+                "t": "They view the world as normal."
+              },
+              {
+                "l": "C",
+                "t": "They do what they prefer to do."
+              },
+              {
+                "l": "D",
+                "t": "They are curious about everything."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What can we conclude about cats from the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have higher intelligence than many other animals."
+              },
+              {
+                "l": "B",
+                "t": "They interact with the physical world much like humans."
+              },
+              {
+                "l": "C",
+                "t": "They display extraordinarily high intelligence in hunting."
+              },
+              {
+                "l": "D",
+                "t": "They can aid physics professors in their research work."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Imagine you enter a car with no steering wheel, no brake or accelerator pedals( 踏板). Under a voice- activated command, you say an address. \"The fastest route will take us 15.3 minutes. Should I take it?\" You say \"yes\" and you are on your way. The car responds and starts moving all by itself. All you have to do is sit back and relax. How weird would it be if, one day in the future, everyone had such a car? No crazy driving, no insults, no cutting in; traffic laws would be respected and driving much safer. On the other hand, imagine the cost savings for local police enforcement and town budgets without all those speeding and parking tickets. A new technology has the potential to change modern society in radical ways. There's no question that self- driving vehicles could be an enormous benefit. The potential for safer cars means accident statistics would drop: some 94% of road accidents in the U.S. involve human error. Older drivers and visually—or physically— impaired people would gain a new level of freedom. Maintaining safe speeds and being electric, self-driving cars would drastically reduce pollution levels and dependency on non-renewable fuels. Roads would be quieter, people safer. But we must also consider the impact of the new technology on those who now depend on driving for their livelihoods. According to the U.S. Department of Labor, in May 2015 there were 505,560 registered school bus drivers. The American Trucking Association lists approximately 3.5 million professional truck drivers in the U.S. The companies developing self-driving vehicles should be partnering with state and federal authorities to offer retraining for this massive workforce, many of whom will be displaced by the new technology. This is similar to what's happening in the coal and oil industries, a situation that fuels much of the current political discontent in this country. New technologies will, and should, be developed. This is how society moves forward. However, progress can't be one-sided. It is necessary for the companies and state agencies involved to consider the ethical consequences of these potential changes to build a better future for all.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What would be the impact of the extensive use of driverless cars?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People would be driving in a more civilized way."
+              },
+              {
+                "l": "B",
+                "t": "It would save local governments a lot of money."
+              },
+              {
+                "l": "C",
+                "t": "More policemen would be patrolling the streets."
+              },
+              {
+                "l": "D",
+                "t": "Traffic regulations would be a thing of the past."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "How would the elderly and the disabled benefit from driverless cars?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They could enjoy greater mobility."
+              },
+              {
+                "l": "B",
+                "t": "They would suffer no road accidents."
+              },
+              {
+                "l": "C",
+                "t": "They would have no trouble driving."
+              },
+              {
+                "l": "D",
+                "t": "They could go anywhere they want."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What would be the negative impact of driverless cars?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The conflict between labor and management would intensify."
+              },
+              {
+                "l": "B",
+                "t": "The gap between various sectors of society would be widened."
+              },
+              {
+                "l": "C",
+                "t": "Professional drivers would have a hard time adapting to new road conditions."
+              },
+              {
+                "l": "D",
+                "t": "Numerous professional drivers would have to find new ways of earning a living."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What is the result of the introduction of new technologies in energy industries?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Political dissatisfaction."
+              },
+              {
+                "l": "B",
+                "t": "Retraining of employees."
+              },
+              {
+                "l": "C",
+                "t": "Fossil fuel conservation."
+              },
+              {
+                "l": "D",
+                "t": "Business restructuring."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does the author suggest businesses and the government do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Keep pace with technological developments."
+              },
+              {
+                "l": "B",
+                "t": "Make new technologies affordable to everyone."
+              },
+              {
+                "l": "C",
+                "t": "Enable everyone to benefit from new technologies."
+              },
+              {
+                "l": "D",
+                "t": "Popularize the use of new technologies and devices."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "过去几年里，移动支付市场在中国蓬勃发展。随着移动互联网的出现，手机购物逐渐成为一种趋势。18到 30岁的年轻人构成了移动支付市场的最大群体。由于现在用手机付款很容易，许多消费者在购物时宁愿用手机 付款，而不愿用现金或信用卡。为了鼓励人们多消费，许多商店给使用移动支付的顾客打折。专家预测，中国 移动支付市场未来仍有很大发展潜力。",
+    "reference": "Over the past few years, the mobile payment market has boomed in China. With the emergence of the mobile Internet, shopping on mobile phones is gradually becoming a trend. Young people aged 18 to 30 make up the largest group of the mobile payment market. Since it is now easy to pay with mobile phones, many consumers prefer paying with their mobile phones to using cash or credit cards when shopping. To encourage people to spend more, many shops offer discounts to customers who use mobile payment. Experts predict that China's mobile payment market still has great potential for development in the future."
+  }
+}

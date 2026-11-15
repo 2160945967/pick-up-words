@@ -1,0 +1,1429 @@
+{
+  "id": "cet6-2019-6-1",
+  "level": "cet6",
+  "year": 2019,
+  "month": 6,
+  "set": 1,
+  "title": "2019年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of team spirit and communication in the workplace. You should write at least 150 words but no more than 200 words.",
+    "sample": "In today's increasingly collaborative workplaces, no employee works in isolation. To my mind, team spirit and effective communication are two cornerstones of professional success, and neither can be neglected.For one thing, team spirit binds individuals into a united force. When colleagues share a common goal and trust one another, they are willing to pool their strengths and cover each other's weaknesses. A software project, for instance, can rarely be completed by a lone programmer; only when designers, coders and testers coordinate their efforts can a difficult task be conquered on time.For another, effective communication keeps this force running smoothly. Clear and timely exchange of information prevents misunderstandings, resolves conflicts before they escalate, and ensures that everyone stays on the same page. Even the most talented team will fall apart if its members merely guess at each other's intentions instead of speaking openly.In conclusion, team spirit and communication reinforce each other and together form the bedrock of workplace achievement. Any organization hoping to thrive should therefore nurture a cooperative atmosphere and encourage open dialogue among its staff."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A six-month-long negotiation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Preparations for the party."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A project with a troublesome client."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Gift wrapping for the colleagues."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Take wedding photos."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Advertise her company."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Start a small business."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Throw a celebration party."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Hesitant."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Nervous."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Flattered."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Surprised."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Start her own bakery."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Improve her baking skill."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Share her cooking experience."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Prepare for the wedding\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Hi, my name's Cathy. Nice to meet you!",
+                "zh": "W: 嗨，我叫凯茜。很高兴认识你！"
+              },
+              {
+                "en": "M: Nice to meet you too, Cathy. My name's John. I'm a university friend of the bride. What about you? Who do you know at this party?",
+                "zh": "M: 我也很高兴认识你，凯茜。我叫约翰，是新娘的大学朋友。你呢？你在这场聚会上认识谁？"
+              },
+              {
+                "en": "W: I am a colleague of Brenda. I was a little surprised to be invited, to be honest. We've only been working together the last six months, but we quickly became good friends. We just wrapped up a project with a difficult client last week. I bet Brenda is glad it's done with, and she can focus on wedding preparations.",
+                "zh": "W: 我是布伦达的同事。老实说，受邀参加婚礼让我有点惊讶。我们共事才六个月，不过很快就成了好朋友。上周我们刚完成了一个难缠客户的项目。我敢说布伦达一定很高兴项目终于结束了，这样她就可以专心准备婚礼了。"
+              },
+              {
+                "en": "M: Oh, yes, so you're Cathy from the office. Actually I've heard a lot about you, and that project. The client sounded like a real nightmare.",
+                "zh": "M: 哦，对，所以你就是办公室里的凯茜。其实我经常听布伦达提起你，还有那个项目。听起来那个客户真是个大麻烦。"
+              },
+              {
+                "en": "W: Oh, he was. I mean we deal with all kinds of people on a regular basis. It's part of the job, but he was especially particular, enough about that. What line of work are you in?",
+                "zh": "W: 哦，他确实是。我的意思是，我们平时会接触各种各样的人。这是工作的一部分，不过他尤其挑剔。先不说这个了。你是做什么工作的？"
+              },
+              {
+                "en": "M: Well, right out of college, I worked in advertising for a while. Recently though, I turned my photography hobby into a small business. I'll actually be taking photos during the big event as a wedding gift.",
+                "zh": "M: 嗯，我大学毕业后有一段时间从事广告工作。不过最近，我把摄影这个爱好变成了一门小生意。婚礼当天我还会拍照，把这当作送给他们的结婚礼物。"
+              },
+              {
+                "en": "W: That sounds wonderful, and very thoughtful of you. I bake just as a hobby but Brenda has asked me to do the cake for the wedding. I was a bit nervous saying yes, because I'm far from a professional.",
+                "zh": "W: 听起来棒极了，而且你真是有心。我烘焙也只是兴趣爱好，不过布伦达请我为婚礼做蛋糕。我答应下来时有点紧张，因为我远不是专业人士。"
+              },
+              {
+                "en": "M: Did you bake the cookies here at the party tonight?",
+                "zh": "M: 今晚聚会上的这些饼干是你烤的吗？"
+              },
+              {
+                "en": "W: Yes, I got the idea from a magazine.",
+                "zh": "W: 是的，我是在杂志上看到这个点子的。"
+              },
+              {
+                "en": "M: They're delicious. You've got nothing to worry about. You're a natural.",
+                "zh": "M: 它们很好吃。你完全不用担心。你很有天赋。"
+              },
+              {
+                "en": "W: You really think so?",
+                "zh": "W: 你真的这么认为吗？"
+              },
+              {
+                "en": "M: If you hadn't told me that, I would have guessed they were baked by the restaurant. You know, with your event planning experience, you could very well open your own shop.",
+                "zh": "M: 如果你没告诉我，我还以为是餐厅烤的呢。你看，凭你的活动策划经验，完全可以开一家自己的店。"
+              },
+              {
+                "en": "W: One step at a time. First I'll see how baking the wedding cake goes. If it's not a disaster, maybe I'll give it some more thought.",
+                "zh": "W: 一步一步来吧。首先我得看看婚礼蛋糕做得怎么样。如果没出什么大乱子，也许我会再认真考虑一下。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have to spend more time studying."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have to participate in club activities."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have to be more responsible for what they do."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have to choose a specific academic discipline."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Get ready for a career."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make a lot of friends."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Set a long-term goal."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Behave like adults."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those who share her academic interests."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those who respect her student commitments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those who can help her when she is in need."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those who go to the same clubs as she does."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those helpful for tapping their potential."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those conducive to improving their social skills."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those helpful for cultivating individual interests."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those conducive to their academic studies."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: You are heading for a completely different world now that you are about to graduate from high school.",
+                "zh": "M：你马上就要高中毕业了，现在正迈向一个完全不同的世界。"
+              },
+              {
+                "en": "W: I know it's the end of high school, but many of my classmates are going on to the same university and we are still required to study hard, so what's the difference?",
+                "zh": "W：我知道高中生活要结束了，但我的很多同学都会去同一所大学，而且我们仍然需要努力学习，所以有什么不同呢？"
+              },
+              {
+                "en": "M: Many aspects are different here at university. The most important one is that you have to take more individual responsibility for your actions. It's up to your own self-discipline how much effort you put into study. Living in college dormitories, there are no parents to tell you to study harder or stop wasting time. Lecturers have hundreds of students and they are not going to follow you up or question you if you miss their lectures.",
+                "zh": "M：在大学里，很多方面都不一样。最重要的一点是，你必须对自己的行为承担更多个人责任。你在学习上投入多少努力，取决于你自己的自律。在大学宿舍生活，没有父母告诉你要更加努力地学习，或者别再浪费时间。讲师们有数百名学生，如果你缺课，他们不会跟进你，也不会追问你。"
+              },
+              {
+                "en": "W: Nobody cares, you mean?",
+                "zh": "W：你的意思是，没人会在意？"
+              },
+              {
+                "en": "M: It's not that nobody is concerned about you. It's just that suddenly at university you are expected to behave like an adult, that means concentrating on the direction of your life in general and your own academic performance specifically.",
+                "zh": "M：并不是说没人关心你。只是到了大学，你会被要求表现得像个成年人，也就是说，要着眼于自己人生的大方向，尤其要关注自己的学业表现。"
+              },
+              {
+                "en": "W: For example?",
+                "zh": "W：比如说？"
+              },
+              {
+                "en": "M: Well, like you need to manage your daily, weekly and monthly schedules so that you will study regularly. Be sure to attend all classes and leave enough time to finish assignments and prepare well for examinations.",
+                "zh": "M：比如，你需要安排好每天、每周和每月的时间表，这样才能坚持学习。一定要参加所有课程，并留出足够的时间完成作业，为考试做好充分准备。"
+              },
+              {
+                "en": "W: Okay, and what else is different?",
+                "zh": "W：好，那还有什么不同？"
+              },
+              {
+                "en": "M: Well, in college there are lots of distractions and you need to control yourself. You will make interesting friends, but you need only keep the friends who respect your student commitments. Also, there are a lot of wonderful clubs, but you shouldn't allocate too much time to club activities, unless they are directly related to your study. It's also your choice if you want to go out at night, but you will be foolish to let that affect your class performance during the day.",
+                "zh": "M：在大学里，有很多事情会分散你的注意力，你需要控制自己。你会结交有趣的朋友，但只应该和那些尊重你学生责任的朋友来往。另外，大学里有很多很棒的社团，但你不应该在社团活动上花太多时间，除非这些活动与你的学习直接相关。至于晚上要不要出去，也是你自己的选择，但如果让这影响到你白天的课堂表现，那就太不明智了。"
+              },
+              {
+                "en": "W: Well, I'm determined to do well at university and I guess I am going to have to grow up fast.",
+                "zh": "W：好吧，我决心要在大学里取得好成绩，我想我得赶快成熟起来了。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They break away from traditional ways of thinking."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are prepared to work harder than anyone else."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are good at refining old formulas."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They bring their potential into full play."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They contributed to the popularity of skiing worldwide."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They resulted in a brand-new style of skiing techniques."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They promoted the scientific use of skiing poles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They made explosive news in the sports world."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He was recognized as a genius in the world of sports."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He competed in all major skiing events in the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He won three gold medals in one Winter Olympics."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He broke three world skiing records in three years.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Most successful people are unorthodox persons whose minds wander outside traditional ways of thinking. Instead of trying to refine old formulas, they invent new ones.",
+                "zh": "大多数成功人士都是不拘一格的人，他们的思维游离于传统的思考方式之外。他们不满足于改进旧的模式，而是创造新的模式。"
+              },
+              {
+                "en": "When Jean-Claude Killy made the French national ski team in the early 1960s, he was prepared to work harder than anyone else to be the best. At the crack of dawn he would run up the slopes with his skis on, an unbelievably backbreaking activity. In the evening he would do weight lifting and running. But the other team members were working as hard and long as he was. He realized instinctively that simply training harder would never be enough.",
+                "zh": "20世纪60年代初，Jean-Claude Killy 入选法国国家滑雪队时，已经做好了比任何人都更加刻苦训练、争当最佳选手的准备。每天黎明时分，他都会穿着滑雪板跑上山坡，这是一项令人难以置信的艰苦活动。晚上，他还要进行举重和跑步训练。然而，队里的其他成员训练得和他一样刻苦、一样持久。他本能地意识到，仅仅更加努力地训练永远是不够的。"
+              },
+              {
+                "en": "Killy then began challenging the basic theories of racing technique. Each week he would try something different to see if he could find a better, faster way down the mountain. His experiments resulted in a new style that was almost exactly opposite the accepted technique of the time. It involved skiing with his legs apart for better balance and sitting back on the skis when he came to a turn. He also used ski poles in an unorthodox way—to propel himself as he skied. The explosive new style helped cut Killy's racing time dramatically. In 1966 and 1967 he captured virtually every major skiing trophy. The next year he won three gold medals in the Winter Olympics, a record in ski racing that has never been topped.",
+                "zh": "于是，Killy 开始质疑竞速技术的基本理论。每周他都会尝试不同的方法，看看能否找到一条更好、更快地下山路线。他的实验带来了一种全新的姿势，几乎完全背离了当时公认的技术。这种姿势要求双腿分开滑行，以获得更好的平衡；转弯时则要向后坐在滑雪板上。他还以一种不合常规的方式使用滑雪杖，在滑行时借助滑雪杖推动自己。这种爆发力十足的新姿势大幅缩短了 Killy 的比赛用时。1966年和1967年，他几乎赢得了所有重要的滑雪奖杯。第二年，他在冬季奥运会上赢得三枚金牌，创下了滑雪竞速项目中至今无人超越的纪录。"
+              },
+              {
+                "en": "Killy learned an important secret shared by many creative people: innovations don't require genius, just a willingness to question the way things have always been done.",
+                "zh": "Killy 学到了一个许多富有创造力的人都明白的重要秘诀：创新并不需要天才，只需要愿意质疑一贯的做事方式。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They appear restless."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They lose consciousness."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They become upset."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They die almost instantly."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has an instant effect on your body chemistry."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It keeps returning to you every now and then."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It leaves you with a long lasting impression."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It contributes to the shaping of your mind."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To succeed while feeling irritated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To feel happy without good health."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To be free from frustration and failure."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To enjoy good health while in dark moods."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are closely connected."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They function in a similar way."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are too complex to understand."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are too complex to understand."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Scientific experiments have demonstrated incredible ways to kill a guinea pig, a small furry animal. Emotional upsets generate powerful and deadly toxic substances. Blood samples taken from persons experiencing intense fear or anger when injected into guinea pigs have killed them in less than two minutes. Imagine what these poisonous substances can do to your own body.",
+                "zh": "科学实验已经证明了杀死豚鼠这种小型毛茸茸动物的种种令人难以置信的方法。情绪上的剧烈波动会产生强力而致命的有毒物质。从正在经历强烈恐惧或愤怒的人身上采集的血液样本，注射到豚鼠体内后，能在不到两分钟内将其杀死。想想这些有毒物质会对你自己的身体造成什么影响。"
+              },
+              {
+                "en": "Every thought that you have affects your body chemistry within a split second. Remember how you feel when you're speeding down the highway and a big truck suddenly brakes twenty meters in front of you. A shockwave shoots through your whole system. Your mind produces instant reactions in your body.",
+                "zh": "你的每一个想法都会在一瞬间影响你的身体化学反应。回想一下，当你在高速公路上飞驰，而一辆大卡车突然在你前方二十米处刹车时，你是什么感觉。一股冲击波会贯穿你的整个身体。你的思想会让身体立即产生反应。"
+              },
+              {
+                "en": "The toxic substances that fear, anger, frustration, and stress produce not only kill guinea pigs but kill us off in a similar manner. It is impossible to be fearful, anxious, irritated, and healthy at the same time. It is not just difficult, it is impossible.",
+                "zh": "恐惧、愤怒、挫折和压力所产生的有毒物质不仅会杀死豚鼠，也会以类似的方式置我们于死地。一个人不可能同时处于恐惧、焦虑、恼怒的状态，又保持健康。这不仅很难做到，而且根本不可能。"
+              },
+              {
+                "en": "Simply put, your body's health is a reflection of your mental health. Sickness will often then be a result of unresolved inner conflicts which in time show up in the body.",
+                "zh": "简单地说，你的身体健康状况是心理健康状况的反映。因此，疾病往往是未解决的内心冲突所导致的结果，而这些冲突最终会在身体上表现出来。"
+              },
+              {
+                "en": "It is also fascinating how our subconscious mind shapes our health. Do you recall feeling sick on a day when you didn't want to go to school? Headaches brought on by fear?",
+                "zh": "我们的潜意识如何塑造健康状况，同样令人着迷。你是否记得，有一天你不想去上学时，自己感到身体不适？因恐惧而引发的头痛？"
+              },
+              {
+                "en": "The mind-body connection is such that if, for example, we want to avoid something, very often our subconscious mind will arrange it. Once we recognize that these things happen to us, we are halfway to doing something about them.",
+                "zh": "身心之间存在着这样的联系：例如，如果我们想要避开某件事，我们的潜意识往往会设法让这件事发生。当我们认识到这些事情会发生在自己身上时，就已经完成了一半的工作，接下来便可以采取措施加以应对。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They differ in their appreciation of music."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They focus their attention on different things."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They finger the piano keys in different ways."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They choose different pieces of music to play."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They manage to cooperate well with their teammates."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They use effective tactics to defeat their competitors."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They try hard to meet the spectators' expectations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They attach great importance to high performance."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It marks a breakthrough in behavioral science."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It adopts a conventional approach to research."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It supports a piece of conventional wisdom."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It gives rise to controversy among experts.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Teachers and students alike have experienced the curious paradox that beginners, as a rule, tend to think too little about what they are doing because they think too much about what they are doing. Take, for example, people who are learning to play basketball or the piano. They have to give so much thought and attention to the low-level mechanics of handling the ball or fingering the keys or reading the music, that they are unable to give any thought to the thing that matters—the game, or the music, respectively.",
+                "zh": "教师和学生都经历过这样一个奇特的悖论：初学者通常因为对自己正在做的事情想得太多，反而往往对其思考得太少。以学习打篮球或弹钢琴的人为例。他们必须投入如此多的思考和注意力，去处理运球、指法或识谱等低层次的技术细节，以至于无法思考真正重要的事情——分别是比赛或音乐本身。"
+              },
+              {
+                "en": "With experts, it's just the other way around. They're open to the tactical possibilities and the musical challenges precisely because they're freed, through skill, from the need to pay attention to the low-level details of how to play. Indeed, when the expert pays attention to the mechanics, this is liable to disrupt performance.",
+                "zh": "专家的情况恰恰相反。正是因为通过技能训练摆脱了关注演奏方式等低层次细节的需要，他们才能专注于战术上的可能性和音乐上的挑战。事实上，当专家把注意力放在技术动作上时，反而很可能会干扰发挥。"
+              },
+              {
+                "en": "This has led some to say that the expert operates in a zone \"beyond thought\", in a state of flow. But this is misleading. Expert performance is not beyond thought.",
+                "zh": "这使一些人认为，专家是在“超越思维”的区域中，以一种心流状态进行活动。但这种说法具有误导性。专家的表现并不是超越思维的。"
+              },
+              {
+                "en": "Smart basketball players or skilled musicians need to pay close attention to the demands of high performance, to the challenges to be overcome. What they don't need to do—what would be a distraction—is to have to think about where their fingers are, or how to control the ball while running. It's not mechanics, but the play itself, that absorbs the expert's intelligence.",
+                "zh": "优秀的篮球运动员或技艺娴熟的音乐家需要密切关注高水平发挥的要求，以及必须克服的挑战。他们不需要做的事情——而且那会成为一种干扰——是去思考手指在哪里，或是在奔跑时如何控制球。他们的智慧所专注的不是技术动作，而是比赛或演奏本身。"
+              },
+              {
+                "en": "A nice video published online last month sheds light on expertise and the conscious mind. The video reports a new study using an eye-tracking device.",
+                "zh": "上个月发布在网上的一段精彩视频，阐明了专业技能与意识之间的关系。这段视频介绍了一项使用眼动追踪设备进行的新研究。"
+              },
+              {
+                "en": "It turns out that the less skilled pianist spends more time looking at her fingers than does the expert who, in contrast, is more likely to be looking at the sheet of music, or looking ahead at keys he's not yet playing. In general, the expert's gaze was calmer and more stable.",
+                "zh": "研究结果表明，技艺较差的钢琴家看自己手指的时间比专家更长；相比之下，专家更可能注视乐谱，或提前看向尚未弹奏的琴键。总体而言，专家的视线更加平静、稳定。"
+              },
+              {
+                "en": "This is not a surprising finding. It supports what we might almost think of as conventional wisdom.",
+                "zh": "这并不是一个令人惊讶的发现。它印证了我们几乎可以称之为常识的看法。"
+              },
+              {
+                "en": "But it's remarkable for all that, nonetheless. The eye tracker gives expert and learning performers a glimpse into what they do without thinking about it.",
+                "zh": "尽管如此，这一发现仍然十分引人注目。眼动追踪器让专家和正在学习的演奏者得以一窥自己无需思考便会做出的动作。"
+              },
+              {
+                "en": "The topic of the nature of skill—and the differences between beginners and experts—has been one of considerable discussion in cognitive science and philosophy.",
+                "zh": "技能的本质，以及初学者与专家之间的差异，一直是认知科学和哲学领域广泛讨论的话题。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People's envy of slim models."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People's craze for good health."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The increasing range of fancy products."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The great variety of slimming products."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They appear vigorous."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They appear strange."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They look charming."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They look unhealthy."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Culture and upbringing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Wealth and social status."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Peer pressure."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Media influence.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Every summer when I top up my selection of summer outfits from the department stores, my eyes would nearly pop out of my head. I'm overwhelmed with a wide range of different slimming products each year. And more shockingly, these products are often advocated by very slim models.",
+                "zh": "每年夏天，当我从百货商店补充夏季服装时，几乎都惊讶得目瞪口呆。每年，各种各样的瘦身产品都会让我应接不暇。更令人震惊的是，这些产品往往是由身材非常苗条的模特代言的。"
+              },
+              {
+                "en": "Having lived in Asia for almost 10 years now, I've seen various dieting tips come and go. I remember in Japan, people heading directly to the fruit section in the supermarket, when the banana diet was at its peak. Then there was the black tea and oolong tea diet, followed by the soybean diet and the tomato juice diet. The list goes on and on.",
+                "zh": "我在亚洲生活至今已有近十年，见过各种节食妙招兴起又消失。我记得香蕉减肥法风靡一时的时候，日本人会直奔超市的水果区。之后又出现了红茶减肥法和乌龙茶减肥法，接着是大豆减肥法和番茄汁减肥法。类似的方法还有很多。"
+              },
+              {
+                "en": "Apart from what people eat, I've also seen many interesting slimming products. In Hong Kong, I've seen girls wrapping their whole body or both legs up with a special type of slimming tape which is supposed to help make them thinner. But it just reminded me of the roasted ham my mother usually puts on the dinner table at Christmas. Then there were the face slimming rollers that were said to improve your blood circulation and make your face smaller.",
+                "zh": "除了人们吃什么之外，我还见过许多有趣的瘦身产品。在香港，我见过女孩们用一种特殊的瘦身胶带把整个身体或双腿缠起来，据说这样可以帮助她们变瘦。但这只是让我想起了我母亲通常在圣诞节摆上餐桌的烤火腿。后来又出现了面部瘦身滚轮，据说可以改善血液循环，让脸变小。"
+              },
+              {
+                "en": "Personally I do not believe in any of these slimming gadgets and I think I have a very different perspective when it comes to the definition of what is beautiful. Asian women prefer to avoid the sun, because being pale or white is considered beautiful whereas a tanned complexion is considered much more beautiful and sexy in the West. It is most certainly shaped by a person's culture as well as how they were raised in their childhood.",
+                "zh": "就我个人而言，我不相信这些瘦身小工具中的任何一种，而且在美的定义问题上，我认为自己的看法很不一样。亚洲女性喜欢避免晒太阳，因为肤色苍白或白皙被认为是美丽的，而在西方，古铜色的肤色则被认为更加美丽性感。这无疑受到一个人的文化以及童年时期所受教育的影响。"
+              },
+              {
+                "en": "As each summer season approaches, there's no escape from it. But it's not only women who are affected by this pressure to look good. Men aspire to be able to show off their 6 packs, or their v-shaped backs and there's a growing market of slimming pills aimed at men too.",
+                "zh": "每当夏季临近，人们就无法逃避这种压力。但受到这种保持良好外表的压力影响的不只是女性。男性也渴望能够秀出自己的六块腹肌或V形背部，而针对男性的瘦身药市场也在不断扩大。"
+              },
+              {
+                "en": "I think no matter what diets we follow or what slimming products we obsess ourselves with, at the end of the day there's no magic trick to shape up for the summer. Eat in a balanced way and incorporate the right level of physical activity. For me, this still seems to be the best plan.",
+                "zh": "我认为，无论我们采用什么节食方法，或是对什么瘦身产品着迷，到头来都没有什么神奇妙招能让我们在夏天到来时塑造好身材。饮食均衡，并配合适当程度的体育锻炼。对我来说，这似乎仍然是最好的计划。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The relation between hair and skin."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The growing interest in skin studies."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The color of human skin."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The need of skin protection."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The necessity to save energy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Adaptation to the hot environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The need to breathe with ease."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Dramatic climate changes on earth."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Leaves and grass."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Man-made shelter."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their skin coloring."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Hair on their skin."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their genetic makeup began to change."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their communities began to grow steadily."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their children began to mix with each other."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their pace of evolution began to quicken."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Skin may seem like a superficial human attribute, but it's the first thing we notice about anyone we meet. As a zoologist focusing on the studies of apes and monkeys, I've been studying why humans evolved to become the naked ape, and why skin comes in so many different shades around the world.",
+                "zh": "皮肤看似只是人类表面上的一种特征，但它是我们注意到所遇见的任何人的第一件事。作为一名专门研究猿类和猴类的动物学家，我一直在研究人类为何进化成了“裸猿”，以及世界各地的人类皮肤为何呈现出如此多种不同的色调。"
+              },
+              {
+                "en": "We can make a very good estimate from the fossil record that humans probably evolved naked skin around a million and a half years ago, and meanwhile they mostly lost their coat of fur. Today we have a few patches of hair remaining on various parts of our bodies, but compared with apes and monkeys, we have very little. Basically, we turned our skin darker to serve as a natural sun protector in the place of the hair we lost.",
+                "zh": "我们可以根据化石记录很好地推测，人类大约在150万年前进化出了裸露的皮肤，同时大部分失去了身上的毛发。如今，我们身体各处还残留着几小片毛发，但与猿类和猴类相比，我们的毛发少得多。基本上，我们让皮肤颜色变深，以替代失去的毛发，充当天然的防晒保护。"
+              },
+              {
+                "en": "We think we lost this hair because of the need to keep ourselves cool when we were moving around vigorously in a hot environment. We can't really lose heat by breathing quickly and loudly like dogs. We have to do it by sweating. So we evolved the ability to sweat plentifully and lost most of our fur.",
+                "zh": "我们认为，之所以失去这些毛发，是因为当我们在炎热的环境中剧烈活动时，需要保持身体凉爽。我们无法像狗那样通过快速而剧烈地呼吸来散热，只能通过出汗来实现。因此，我们进化出了大量出汗的能力，并失去了大部分体毛。"
+              },
+              {
+                "en": "Most animals protect themselves from the sun with fur. What we did in our ancestry was to produce more permanent natural coloring in our skin cells.",
+                "zh": "大多数动物用毛发来保护自己免受阳光照射。我们的祖先所做的，是让皮肤细胞产生更加持久的天然色素。"
+              },
+              {
+                "en": "This was really an important revolution in human history because it allowed us to continue to evolve in equatorial environments. It really made it possible for us to continue along the path toward modern humans in Africa.",
+                "zh": "这确实是人类历史上的一次重要变革，因为它使我们得以继续在赤道环境中进化。它真正使我们能够沿着通向现代人类的道路，在非洲继续发展。"
+              },
+              {
+                "en": "For most of human history we all had dark skin. What we see today is the product of evolutionary events resulting from the dispersal of a few human populations out of Africa around 60,000 to 70,000 years ago.",
+                "zh": "在人类历史的大部分时期，我们都有深色皮肤。如今我们所看到的情况，是大约6万至7万年前少数人类群体离开非洲并扩散到各地后，由此产生的一系列进化事件的结果。"
+              },
+              {
+                "en": "Our species originated around 200,000 years ago and underwent tremendous diversification—culturally, technologically, linguistically, artistically—for 130,000 years. After that, a few small populations left Africa to populate the rest of the world. These early ancestors of modern Eurasians dispersed into parts of the world that had more seasonal sunshine and much lower levels of sun radiation. It's in these populations that we begin to see real changes in the genetic makeup of natural coloring.",
+                "zh": "我们这个物种大约在20万年前起源，并在此后的13万年中经历了巨大的多样化，在文化、技术、语言和艺术方面都得到了发展。此后，少数几个小型群体离开非洲，开始在世界其他地区繁衍。这些现代欧亚人的早期祖先扩散到了阳光季节性更强、太阳辐射水平低得多的世界各地。正是在这些群体中，我们开始看到天然色素遗传构成发生了真正的变化。"
+              },
+              {
+                "en": "Today, skin color is evolving via new mixtures of people coming together and having children with new mixtures of skin color genes. We can see this in almost every large city worldwide. Not only the coloring genes, but lots of other genes are getting mixed up, too.",
+                "zh": "如今，随着不同人群相互融合并生育出拥有全新皮肤颜色基因组合的孩子，肤色也在不断进化。我们几乎可以在世界各地的每一座大城市中看到这一现象。不仅是肤色基因，许多其他基因也在发生混合。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Pasta is no longer off the menu, after a new review of studies suggested that the carbohydrate can form part of a healthy diet, and even help people lose weight. For years, nutritionists have recommended that pasta be kept to a"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ", to cut calories, prevent fat build-up and stop blood sugar"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "up. The low-carbohydrate food movement gave birth to such diets as the Atkins, Paleo and Keto, which advised swapping foods like bread, pasta and potatoes for vegetables, fish and meat. More recently the trend of swapping spaghetti for vegetables has been"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "by clean-eating experts. But now a"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "review and analysis of"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "studies by Canadian researchers found that not only does pasta not cause weight gain, but three meals a week can help people drop more than half a kilogram over four months. The reviewers found that pasta had been unfairly demonized(妖魔化) because it had been     30    in with other, more fat-promoting carbohydrates. \"The study found that pasta didn't"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "to weight gain or increase in body fat,\" said lead author Dr. John Sievenpiper. \"In"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "the evidence, we can now say with some confidence that pasta does not have an"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "effect on body weight outcomes when it is consumed as part of a healthy dietary pattern.\" In fact, analysis actually showed a small weight loss"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "to concerns. Perhaps pasta can be part of a healthy diet. Those involved in the"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "trials on average ate 3.3 servings of pasta a week instead of other carbohydrates, one serving equaling around half a cup. They lost around half a kilogram over an average follow- up of 12 weeks."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "adverse"
+        },
+        {
+          "l": "B",
+          "w": "championed"
+        },
+        {
+          "l": "C",
+          "w": "clinical"
+        },
+        {
+          "l": "D",
+          "w": "contrary"
+        },
+        {
+          "l": "E",
+          "w": "contribute"
+        },
+        {
+          "l": "F",
+          "w": "intimate"
+        },
+        {
+          "l": "G",
+          "w": "lumped"
+        },
+        {
+          "l": "H",
+          "w": "magnified"
+        },
+        {
+          "l": "I",
+          "w": "minimum"
+        },
+        {
+          "l": "J",
+          "w": "radiating"
+        },
+        {
+          "l": "K",
+          "w": "ration"
+        },
+        {
+          "l": "L",
+          "w": "shooting"
+        },
+        {
+          "l": "M",
+          "w": "subscribe"
+        },
+        {
+          "l": "N",
+          "w": "systematic"
+        },
+        {
+          "l": "O",
+          "w": "weighing"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "I"
+        },
+        {
+          "n": 27,
+          "a": "L"
+        },
+        {
+          "n": 28,
+          "a": "B"
+        },
+        {
+          "n": 29,
+          "a": "N"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "O"
+        },
+        {
+          "n": 33,
+          "a": "A"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "C"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The Best Retailers Combine Bricks and Clicks",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Retail profits are falling sharply. Stores are closing. Malls are emptying. The depressing stories just keep coming. Reading the earnings announcements of large retail stores like Macy's, Nordstrom, and Target is about as uplifting as a tour of an intensive care unit. The internet is apparently taking down yet another industry. Brick and mortar stores(实体店) seem to be going the way of the yellow pages. Sure enough, the Census Bureau just released data showing that online retail sales surged 15.2 percent between the first quarter of 2015 and the first quarter of 2016."
+        },
+        {
+          "l": "B",
+          "t": "But before you dump all of your retail stocks, there are more facts you should consider. Looking only at that 15.2 percent \"surge\" would be misleading. It was an increase that was on a small base of 6.9 percent. Even when a tiny number grows by a large percentage terms, it is often still tiny."
+        },
+        {
+          "l": "C",
+          "t": "More than 20 years after the internet was opened to commerce, the Census Bureau tells us that brick and mortar sales accounted for 92.3 percent of retail sales in the first quarter of 2016. Their data show that only 0.8 percent of retail sales shifted from offline to online between the beginning of 2015 and 2016."
+        },
+        {
+          "l": "D",
+          "t": "So, despite all the talk about drone(无人机) deliveries to your doorstep, all the retail executives expressing anxiety over consumers going online, and even a Presidential candidate exclaiming that Amazon has a \"huge antitrust problem,\" the Census data suggest that physical retail is thriving. Of course, the closed stores, depressed executives, and sinking stocks suggest otherwise. What's the real story?"
+        },
+        {
+          "l": "E",
+          "t": "Many firms operating brick and mortar stores are in trouble. The retail industry is getting reinvented, as we describe in our new book Matchmakers. It's standing in the path of what Schumpeter called a gale(大风) of creative destruction. That storm has been brewing for some time, and as it has reached gale force, most large retailers are searching for a response. As the CFO of Macy's put it recently, \"We're frankly scratching our heads.\""
+        },
+        {
+          "l": "F",
+          "t": "But it's not happening as experts predicted. In the peak of the dot-com bubble, brick and mortar retail was one of those industries the internet was going to kill—and quickly. The dot-com bust discredited most predictions of that sort and in the years that followed, conventional retailers' confidence in the future increased as Census continued to report weak online sales. And then the gale hit."
+        },
+        {
+          "l": "G",
+          "t": "It is becoming increasingly clear that retail reinvention isn't a simple battle to the death between bricks and clicks. It is about devising retail models that work for people who are making increasing use of a growing array of internet-connected tools to change how they search, shop, and buy. Creative retailers are using the new technologies to innovate just about everything stores do from managing inventory, to marketing, to getting paid."
+        },
+        {
+          "l": "H",
+          "t": "More than drones dropping a new supply of underwear on your doorstep, Apple's massively successful brick- and-mortar-and-glass retail stores and Amazon's small steps in the same direction are what should keep old- fashioned retailers awake at night. Not to mention the large number of creative new retailers, like Bonobos, that are blending online and offline experiences in creative ways."
+        },
+        {
+          "l": "I",
+          "t": "Retail reinvention is not a simple process, and it's also not happening on what used to be called \"Internet Time.\" Some internet-driven changes have happened quickly, of course. Craigslist quickly overtook newspaper classified ads and turned newspaper economics upside down. But many widely anticipated changes weren't quick, and some haven't really started. With the benefit of hindsight(后见之明), it looks like the internet will transform the economy at something like the pace of other great inventions like electricity. B2B commerce, for example, didn't move mainly online by 2005 as many had predicted in 2000, nor even by 2016, but that doesn't mean it won't do so over the next few decades."
+        },
+        {
+          "l": "J",
+          "t": "But the gale is still blowing. The sudden decline in foot traffic in recent years, even though it hasn't been accompanied by a massive decline in physical sales, is a critical warning. People can shop more efficiently online and therefore don't need to go to as many stores to find what they want. There's a surplus of physical shopping space for the crowds, which is one reason why stores are downsizing and closing."
+        },
+        {
+          "l": "K",
+          "t": "The rise of the mobile phone has recently added a new level of complexity to the process of retail reinvention. Even five years ago most people faced a choice. Sit at your computer, probably at home or at the office, search and browse, and buy. Or head out to the mall, or Main Street, look and shop, and buy. Now, just about everyone has a smartphone, connected to the internet almost everywhere almost all the time. Even when a retailer gets a customer to walk in the store, she can easily see if there's a better deal online or at another store nearby."
+        },
+        {
+          "l": "L",
+          "t": "So far, the main thing many large retailers have done in response to all this is to open online stores, so people will come to them directly rather than to Amazon and its smaller online rivals. Many are having the same problem that newspapers have. Even if they get online traffic, they struggle to make enough money online to compensate for what they are losing offline."
+        },
+        {
+          "l": "M",
+          "t": "A few seem to be making this work. Among large traditional retailers, Walmart recently reported the best results, leading its stock price to surge, while Macy's, Target, and Nordstrom's dropped. Yet Walmart's year- over-year online sales only grew 7 percent, leading its CEO to lament(哀叹), \"Growth here is too slow.\" Part of the problem is that almost two decades after Amazon filed the one-click patent, the online retail shopping and buying experience is filled with frictions. A recent study graded more than 600 internet retailers on how easy it was for consumers to shop, buy, and pay. Almost half of the sites didn't get a passing grade and only 18 percent got an A or B."
+        },
+        {
+          "l": "N",
+          "t": "The turmoil on the ground in physical retail is hard to square with the Census data. Unfortunately, part of the explanation is that the Census retail data are unreliable. Our deep look into those data and their preparation revealed serious problems. It seems likely that Census simply misclassifies a large chunk of online sales. It is certain that the Census procedures, which lump the online sales of major traditional retailers like Walmart with \"non-store retailers\" like food trucks can mask major changes in individual retail categories. The bureau could easily present their data in more useful ways. But they have chosen not to."
+        },
+        {
+          "l": "O",
+          "t": "Despite the turmoil, brick and mortar won't disappear any time soon. The big questions are which, if any, of the large traditional retailers will still be on the scene in a decade or two because they have successfully reinvented themselves, which new players will operate busy stores on Main Streets and maybe even in shopping malls, and how the shopping and buying experience will have changed in each retail category. Investors shouldn't write off brick and mortar. Whether they should bet on the traditional players who run those stores now is another matter."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Although online retailing has existed for some twenty years, nearly half of the internet retailers still fail to receive satisfactory feedback from consumers, according to a recent survey.",
+          "a": "M"
+        },
+        {
+          "n": 37,
+          "s": "Innovative retailers integrate internet technologies with conventional retailing to create new retail models.",
+          "a": "G"
+        },
+        {
+          "n": 38,
+          "s": "Despite what the Census data suggest, the value of physical retail's stocks has been dropping.",
+          "a": "D"
+        },
+        {
+          "n": 39,
+          "s": "Innovative-driven changes in the retail industry didn't take place as quickly as widely anticipated.",
+          "a": "I"
+        },
+        {
+          "n": 40,
+          "s": "Statistics indicate that brick and mortar sales still made up the lion's share of the retail business.",
+          "a": "C"
+        },
+        {
+          "n": 41,
+          "s": "Companies that successfully combine online and offline business models may prove to be a big concern for traditional retailers.",
+          "a": "H"
+        },
+        {
+          "n": 42,
+          "s": "Brick and mortar retailers' faith in their business was strengthened when the dot com bubble burst.",
+          "a": "F"
+        },
+        {
+          "n": 43,
+          "s": "Despite the tremendous challenges from online retailing, traditional retailing will be here to stay for quite some time.",
+          "a": "O"
+        },
+        {
+          "n": 44,
+          "s": "With the rise of online commerce, physical retail stores are likely to suffer the same fate as the yellow pages.",
+          "a": "A"
+        },
+        {
+          "n": 45,
+          "s": "The wide use of smartphones has made it more complex for traditional retailers to reinvent their business.",
+          "a": "K"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Professor Stephen Hawking has warned that the creation of powerful artificial intelligence (AI) will be \"either the best, or the worst thing, ever to happen to humanity\", and praised the creation of an academic institute dedicated to researching the future of intelligence as \"crucial to the future of our civilisation and our species\". Hawking was speaking at the opening of the Leverhulme Centre for the Future of Intelligence (LCFI) at Cambridge University, a multi-disciplinary institute that will attempt to tackle some of the open-ended questions raised by the rapid pace of development in AI research. \"We spend a great deal of time studying in history,\" Hawking said, \"which, let's face it, is mostly the history of stupidity. So it's a welcome change that people are studying instead the future of intelligence.\" While the world-renowned physicist has often been cautious about AI, raising concerns that humanity could be the architect of its own destruction if it creates a super-intelligence with a will of its own, he was also quick to highlight the positives that AI research can bring. \"The potential benefits of creating intelligence are huge,\" he said. \"We cannot predict what we might achieve when our own minds are amplified by AI. Perhaps with the tools of this new technological revolution, we will be able to undo some of the damage done to the natural world by the last one—industrialisation. And surely we will aim to finally eradicate disease and poverty. And every aspect of our lives will be transformed. In short, success in creating AI could be the biggest event in the history of our civilisation.\" Huw Price, the centre's academic director and the Bertrand Russell professor of philosophy at Cambridge University, where Hawking is also an academic, said that the centre came about partially as a result of the university's Centre for Existential Risk. That institute examined a wider range of potential problems for humanity, while the LCFI has a narrow focus. AI pioneer Margaret Boden, professor of cognitive science at the University of Sussex, praised the progress of such discussions. As recently as 2009, she said, the topic wasn't taken seriously, even among AI researchers. \"AI is hugely exciting,\" she said, \"but it has limitations, which present grave dangers given uncritical use.\" The academic community is not alone in warning about the potential dangers of AI as well as the potential benefits. A number of pioneers from the technology industry, most famously the entrepreneur Elon Musk, have also expressed their concerns about the damage that a super-intelligent AI could do to humanity.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What did Stephen Hawking think of artificial intelligence?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It would be vital to the progress of human civilisation."
+              },
+              {
+                "l": "B",
+                "t": "It might be a blessing or a disaster in the making."
+              },
+              {
+                "l": "C",
+                "t": "It might present challenges as well as opportunities."
+              },
+              {
+                "l": "D",
+                "t": "It would be a significant expansion of human intelligence."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What did Hawking say about the creation of the LCFI?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It would accelerate the progress of AI research."
+              },
+              {
+                "l": "B",
+                "t": "It would mark a step forward in the AI industry."
+              },
+              {
+                "l": "C",
+                "t": "It was extremely important to the destiny of humankind."
+              },
+              {
+                "l": "D",
+                "t": "It was an achievement of multi-disciplinary collaboration."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What did Hawking say was a welcome change in AI research?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The shift of research focus from the past to the future."
+              },
+              {
+                "l": "B",
+                "t": "The shift of research from theory to implementation."
+              },
+              {
+                "l": "C",
+                "t": "The greater emphasis on the negative impact of AI."
+              },
+              {
+                "l": "D",
+                "t": "The increasing awareness of mankind's past stupidity."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What concerns did Hawking raise about AI?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may exceed human intelligence sooner or later."
+              },
+              {
+                "l": "B",
+                "t": "It may ultimately over-amplify the human mind."
+              },
+              {
+                "l": "C",
+                "t": "Super-intelligence may cause its own destruction."
+              },
+              {
+                "l": "D",
+                "t": "Super-intelligence may eventually ruin mankind."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What do we learn about some entrepreneurs from the technology industry?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are much influenced by the academic community."
+              },
+              {
+                "l": "B",
+                "t": "They are most likely to benefit from AI development."
+              },
+              {
+                "l": "C",
+                "t": "They share the same concerns about AI as academics."
+              },
+              {
+                "l": "D",
+                "t": "They believe they can keep AI under human control."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The market for products designed specifically for older adults could reach $30 billion by next year, and startups(初创公司) want in on the action. What they sometimes lack is feedback from the people who they hope will use their products. So Brookdale, the country's largest owner of retirement communities, has been inviting a few select entrepreneurs just to move in for a few days, show off their products and hear what the residents have to say. That's what brought Dayle Rodriguez, 28, all the way from England to the dining room of Brookdale South Bay in Torrance, California. Rodriguez is the community and marketing manager for a company called Sentab. The startup's product, SentabTV, enables older adults who may not be comfortable with computers to access email, video chat and social media using just their televisions and a remote control. \"It's nothing new, it's nothing too complicated and it's natural because lots of people have TV remotes,\" says Rodriguez. But none of that is the topic of conversation in the Brookdale dining room. Instead, Rodriguez solicits residents' advice on what he should get on his cheeseburger and how he should spend the afternoon. Playing cards was on the agenda, as well as learning to play mahjong(麻将). Rodriguez says it's important that residents here don't feel like he's selling them something. \"I've had more feedback in a passive approach,\" he says. \"Playing pool, playing cards, having dinner, having lunch,\" all work better \"than going through a survey of questions. When they get to know me and to trust me, knowing for sure I'm not selling them something—there'll be more honest feedback from them.\" Rodriguez is just the seventh entrepreneur to move into one of Brookdale's 1,100 senior living communities. Other new products in the program have included a kind of full-body blow dryer and specially designed clothing that allows people with disabilities to dress and undress themselves. Mary Lou Busch, 93, agreed to try the Sentab system. She tells Rodriguez that it might be good for someone, but not for her. \"I have the computer and FaceTime, which I talk with my family on,\" she explains. She also has an iPad and a smartphone. \"So I do pretty much everything I need to do.\" To be fair, if Rodriguez had wanted feedback from some more technophobic(害怕技术的) seniors, he might have ended up in the wrong Brookdale community. This one is located in the heart of Southern California's aerospace corridor. Many residents have backgrounds in engineering, business and academic circles. But Rodriguez says he's still learning something important by moving into this Brookdale community: \"People are more tech-proficient than we thought.\" And besides, where else would he learn to play mahjong?",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the passage say about the startups?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They never lose time in upgrading products for seniors."
+              },
+              {
+                "l": "B",
+                "t": "They want to have a share of the seniors' goods market."
+              },
+              {
+                "l": "C",
+                "t": "They invite seniors to their companies to try their products."
+              },
+              {
+                "l": "D",
+                "t": "They try to profit from promoting digital products to seniors."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "Some entrepreneurs have been invited to Brookdale to______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "have an interview with potential customers"
+              },
+              {
+                "l": "B",
+                "t": "conduct a survey of retirement communities"
+              },
+              {
+                "l": "C",
+                "t": "collect residents' feedback on their products"
+              },
+              {
+                "l": "D",
+                "t": "show senior residents how to use IT products"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What do we know about SentabTV?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is a TV program catering to the interest of the elderly."
+              },
+              {
+                "l": "B",
+                "t": "It is a digital TV which enjoys popularity among seniors."
+              },
+              {
+                "l": "C",
+                "t": "It is a TV specially designed for seniors to view programs."
+              },
+              {
+                "l": "D",
+                "t": "It is a communication system via TV instead of a computer."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What does Rodriguez say is important in promoting products?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Winning trust from prospective customers."
+              },
+              {
+                "l": "B",
+                "t": "Knowing the likes and dislikes of customers."
+              },
+              {
+                "l": "C",
+                "t": "Demonstrating their superiority on the spot."
+              },
+              {
+                "l": "D",
+                "t": "Responding promptly to customer feedback."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What do we learn about the seniors in the Brookdale community?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Most of them are interested in using the Sentab."
+              },
+              {
+                "l": "B",
+                "t": "They are quite at ease with high-tech products."
+              },
+              {
+                "l": "C",
+                "t": "They have much in common with seniors elsewhere."
+              },
+              {
+                "l": "D",
+                "t": "Most of them enjoy a longer life than average people."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "成语(Chinese idioms)是汉语中的一种独特的表达方式，大多由四个汉字组成。它们高度简练且形式固定， 但通常能形象地表达深刻的含义。成语大多数来源于中国古代的文学作品，通常与某些神话、传说或者历史事 件有关。如果不知道某个成语的出处，就很难理解其确切含义。因为，学习成语有助于人们更好地理解中国传 统文化。成语在日常会话和文学创作中广泛使用。恰当使用成语可以使一个人的语言更具表现力，交流更有 效。",
+    "reference": "Chinese idioms are a unique form of expression in Chinese, and most of them are made up of four characters. They are highly concise and fixed in form, but they can usually express profound meanings vividly. Most idioms originate from ancient Chinese literary works, and they are often related to certain myths, legends or historical events. If you do not know the origin of an idiom, it is difficult to understand its exact meaning. Therefore, learning idioms helps people better understand traditional Chinese culture. Idioms are widely used in daily conversation and literary creation. The proper use of idioms can make one's language more expressive and communication more effective."
+  }
+}

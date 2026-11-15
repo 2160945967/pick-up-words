@@ -1,0 +1,1340 @@
+{
+  "id": "cet4-2015-6-3",
+  "level": "cet4",
+  "year": 2015,
+  "month": 6,
+  "set": 3,
+  "title": "2015年6月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay based on the picture below. You should start your essay with a brief description of the picture and then comment on parents’ role in their children’s growth. You should write at least 120 words but no more than 180 words.",
+    "sample": "As is vividly depicted in the cartoon, a young woman holds a document and happily tells her mother, who sits on a sofa with a book, \"Good news mom! I was accepted to the college of your choice.\" Simple as it is, the picture conveys a thought-provoking message about the role parents play in their children's growth.Parents undoubtedly serve as the most important guides on the road to maturity. For one thing, they shape the values and decisions of their children, just as the mother helps guide her daughter's college choice. For another, parents act as role models: a child who grows up watching diligent, caring parents naturally learns responsibility. Take my own father, whose habit of reading every night quietly inspired me to love books.Therefore, we should recognize how deeply parents mold who we become. Wise guidance and warm companionship, rather than blind control, are what truly nurture a bright future."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The three researchers shared evenly the Nobel prize."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The three winners studied the same subject."
+                  },
+                  {
+                    "l": "C",
+                    "t": "This year's first Nobel prize was awarded for medicine."
+                  },
+                  {
+                    "l": "D",
+                    "t": "All of the Nobel prizes have been made public."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Youyou Tu's treatment is more hi-tech."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Youyou Tu's treatment is more traditional."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Youyou Tu focuses on roundworm-caused infections."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Youyou Tu invented a completely new therapy.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The first of this year's Nobel prizes has been awarded for medicine, and it has gone to three researchers for work against parasitic diseases. The Nobel Assembly of the Karolinska Institute has today awarded the 2015 Nobel Prize in Physiology and Medicine with one half jointly to William C. Campbell and Satoshi Omura for their discoveries concerning a novel therapy against infections caused by roundworm parasites and the other half to Youyou Tu for her discoveries concerning a novel therapy against malaria. Youyou Tu's discovery is perhaps the most remarkable. As a Chinese woman working in China, and using traditional Chinese medical records, she rediscovered an ancient plant-based treatment for malaria that worked where modern therapies failed. Campbell and Omura's was a more hi-tech approach against the debilitating roundworm, which can harm cash crops and infect and kill humans almost anywhere in the world.",
+                "zh": "今年首个诺贝尔奖已授予医学领域,颁给了三位在寄生虫病研究方面做出贡献的研究者。卡罗林斯卡学院诺贝尔大会今天授予2015年诺贝尔生理学或医学奖,其中一半联合授予William C. Campbell和Omura Satoshi,以表彰他们在蛔虫寄生虫感染新型疗法方面的发现,另一半授予屠呦呦,以表彰她在疟疾新型疗法方面的发现。屠呦呦的发现也许是最引人注目的。作为一名在中国工作的中国女性,她利用中国传统医学记录,重新发现了一种古老的植物性疟疾治疗方法,该方法在现代疗法失效的情况下仍然有效。Campbell和Omura则采用了更高科技的方法来对抗使人衰弱的蛔虫,这种寄生虫几乎在世界任何地方都能危害经济作物、感染并致人死亡。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "NASA sent a new Mars lander."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Different soil samples were studied."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Scientists revealed a new space theory."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Liquid water has been found on Mars."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Mars is not as dry as what we used to think."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Mars could support life at the moment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have found living things on Mars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Soil samples from Mars are the same as those of the Earth.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "\"Under certain circumstances, liquid water has been found on Mars.\" This was the out of this world announcement from NASA following years of exploration on the Red Planet. Scientists revealed salty water may flow on the planet's surface during its summer months. Different soil samples were found to be moist and full of water. Dark streaks, known as recurring slope lineae, or RSL, are now known to have been caused by flowing water. \"These discoveries are very important, but they were only part of the hydrological cycle on Mars that we are just now beginning to understand. What we are going to announce today is that Mars is not that dry planet we thought of in the past.\" So what does this tell us about potential life on Mars? Exploration by the Curiosity Rover proves that billions of years ago it was once a planet similar to Earth. But could the planet support life today? Scientists say, technologically, we will now be able to answer those questions.",
+                "zh": "\"在特定情况下，火星上发现了液态水。\"这是NASA在对这颗红色星球进行多年探索后发布的惊人消息。科学家们透露，咸水可能在火星夏季期间流动于其表面。不同的土壤样本被发现是湿润的并且富含水分。被称为\"重复斜坡线状地貌\"或RSL的深色条纹，现在已知是由流动的水造成的。\"这些发现非常重要，但它们只是我们刚刚开始了解的火星水文循环的一部分。我们今天要宣布的是，火星并不是我们过去认为的那个干燥星球。\"那么这告诉我们关于火星潜在生命的什么信息呢?Curiosity火星车的探索证明，数十亿年前它曾是一颗类似地球的行星。但这颗星球今天能够支持生命吗?科学家们表示，从技术上讲，我们现在将能够回答这些问题。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A kidnapper."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her rival."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Her 4-year-old son."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her drunken husband."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is brutal in nature."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is a die-hard racist."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She loves shooting and killing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is a firm gun-rights supporter."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is against the law to own a gun."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Women are not allowed to possess a gun."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Improper storing of guns constitutes a crime."
+                  },
+                  {
+                    "l": "D",
+                    "t": "All the citizens have the right to carry a gun."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A Florida gun-rights supporter remained in the hospital Friday three days after she was shot by her 4-year-old son. Jamie Gilt, 31, was shot in the back while driving her pick-up truck on Tuesday, police said. A Facebook page, listed under Gilt's name, included this message one day before Tuesday's shooting: \"If someone breaks into my house, or tries to harm me or my family pretty anywhere, they will be shot and most likely killed. It's my right to protect my life.\" The pro-gun rights Facebook page has been taken down. The sheriff's department said it is investigating how the mother stored the gun. Florida law makes it a crime to store a loaded weapon in such a way that it can be taken or used by a child, according to the sheriff's department. \"Detectives have not been able to interview the victim and any decision on the filing of criminal charges will not come until after we speak with the victim,\" the sheriff's department said. The victim's 4-year-old son is being cared for by relatives, the sheriff's department said. On Thursday, the Associated Press reported that Gilt was in stable condition at a Florida hospital.",
+                "zh": "佛罗里达州一名拥枪权支持者在被其4岁儿子枪击三天后,于周五仍在住院治疗。警方称,31岁的Jamie Gilt于周二驾驶皮卡车时背部中枪。一个以Gilt名字列出的Facebook页面在周二枪击事件发生前一天包含这样一条信息:\"如果有人闯入我家,或试图在任何地方伤害我或我的家人,他们将被射击并很可能被杀死。保护我的生命是我的权利。\"这个支持拥枪权的Facebook页面已被删除。治安部门表示正在调查这位母亲如何存放枪支。根据治安部门的说法,佛罗里达州法律规定,以可能被儿童拿取或使用的方式存放装有子弹的武器属于犯罪行为。治安部门表示:\"侦探们尚未能够询问受害者,有关提起刑事指控的任何决定都要等到我们与受害者交谈之后才能做出。\"治安部门称,受害者4岁的儿子正由亲属照料。周四,美联社报道称Gilt在佛罗里达州一家医院情况稳定。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He likes Sweden better than England."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He prefers hot weather to cold weather."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is an Englishman living in Sweden."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He visits London nearly every winter."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The bad weather."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The gloomy winter."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The cold houses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The long night."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Delightful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Painful."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Depressing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Refreshing."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They often stay up late reading."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They work hard and play hard."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They like to go camping in summer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They try to earn more and spend more.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: When I say I live in Sweden, people always want to know about the seasons.",
+                "zh": "M: 每当我说我住在瑞典，人们总想了解那里的季节。"
+              },
+              {
+                "en": "W: The seasons?",
+                "zh": "W: 季节？"
+              },
+              {
+                "en": "M: Yeah, you know, how cold it is in winter, what it's like when the days are so short.",
+                "zh": "M: 是啊，你知道的，冬天有多冷，白天那么短是什么感觉。"
+              },
+              {
+                "en": "W: So what is it like?",
+                "zh": "W: 那到底是什么样的？"
+              },
+              {
+                "en": "M: Well, it is cold, very cold in winter, sometimes as cold as 26 degrees below centigrade. And of course when you go out, you wrap up warm. But inside, in the houses it's always very warm, much warmer than at home. Swedish people always complain that when they visit England, the houses are cold even in a good winter.",
+                "zh": "M: 嗯，冬天很冷，非常冷，有时候能冷到零下26摄氏度。当然你出门的时候会穿得很暖和。但在室内，房子里总是非常暖和，比在英国家里暖和多了。瑞典人总是抱怨说，他们去英国的时候，即使在不错的冬天，房子里也很冷。"
+              },
+              {
+                "en": "W: And what about the darkness?",
+                "zh": "W: 那天黑的情况呢？"
+              },
+              {
+                "en": "M: Well, yeah, around Christmas time there's only one hour of daylight, so you really look forward to the spring. It is sometimes a bit depressing. But you see the summers are amazing. From May to July in the North of Sweden, the sun never sets. It's still light at midnight. You can walk in the mountains and read a newspaper.",
+                "zh": "M: 嗯，是啊，圣诞节前后每天只有一小时的日光，所以你真的会特别盼着春天来。有时候确实有点压抑。但是夏天就太棒了。从五月到七月，在瑞典北部，太阳永远不落。午夜时分天还是亮的。你可以在山里走动，还能看报纸。"
+              },
+              {
+                "en": "W: Oh, yeah, \"the land of the midnight sun\".",
+                "zh": "W: 哦，对，\"午夜太阳之地\"。"
+              },
+              {
+                "en": "M: That's right, but it's wonderful. You want to stay up all night, and the Swedes make the most of it. Often they start work earlier in summer and then leave at about 2 or 3 in the afternoon, so that they can really enjoy the long summer evenings. They'd like to work hard, but play hard, too. I think Londoners work longer hours, but I'm not sure this is a good thing.",
+                "zh": "M: 没错，真的很美妙。你会想整夜不睡，瑞典人也充分利用这一点。他们夏天经常会早点开始工作，然后下午两三点左右就下班，这样就能真正享受漫长的夏日夜晚。他们喜欢努力工作，但也喜欢尽情玩乐。我觉得伦敦人工作时间更长，但我不确定这是不是件好事。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "English literature."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Management."
+                  },
+                  {
+                    "l": "C",
+                    "t": "French."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Public Administration."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "English teaching."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Staff training."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Careers guidance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Psychological counselling."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They went to the same university."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They all love to engage in management."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The jobs they choose are not related to their major."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They received the same job training."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its generous scholarships."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its worldwide fame."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its well-designed courses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its pleasant environment."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: What kind of training does one need to go into this type of job?",
+                "zh": "W: 从事这类工作需要什么样的培训？"
+              },
+              {
+                "en": "M: That's a very good question, I don't think there is any, specifically.",
+                "zh": "M: 这是个很好的问题，我觉得没有什么特定的培训。"
+              },
+              {
+                "en": "W: For example, in your case, what was your educational background?",
+                "zh": "W: 比如说，就你的情况而言，你的教育背景是什么？"
+              },
+              {
+                "en": "M: Well, I did a degree in French at Nottingham. After that, I did careers work in secondary schools like the careers guidance people here at the university. Then I went into local government because I found I was more interested in the administrative side, then I progressed on to universities. So there wasn't any plan and there was no specific training. There are plenty of training courses in management techniques and committee work which you can attend now.",
+                "zh": "M: 嗯，我在诺丁汉大学读了法语学位。之后，我在中学做职业指导工作，就像这所大学里的职业指导人员一样。然后我进入了地方政府工作，因为我发现自己对行政管理方面更感兴趣，接着就逐步进入了大学。所以这并没有什么计划，也没有专门的培训。现在有很多管理技巧和委员会工作的培训课程可以参加。"
+              },
+              {
+                "en": "W: But in the first place, you did a French degree.",
+                "zh": "W: 但首先，你读的是法语学位。"
+              },
+              {
+                "en": "M: In my time, there wasn't a degree you could do for administration. I think most of the administrators I've come across have degrees in all sorts of things.",
+                "zh": "M: 在我那个年代，还没有专门的行政管理学位可以读。我觉得我遇到的大多数行政人员的学位都是各种各样的。"
+              },
+              {
+                "en": "W: Well, I know in my case, I did an English literature degree and I didn't really expect to end up doing what I'm doing now.",
+                "zh": "W: 嗯，我知道就我而言，我读的是英国文学学位，我真没想到最终会做现在这份工作。"
+              },
+              {
+                "en": "M: Quite.",
+                "zh": "M: 没错。"
+              },
+              {
+                "en": "W: Were you local to Nottingham, actually? Is there any reason why you went to Nottingham University?",
+                "zh": "W: 你其实是诺丁汉本地人吗？你去诺丁汉大学有什么特别的原因吗？"
+              },
+              {
+                "en": "M: No, no, I come from the north of England, from West Yorkshire. Nottingham was one of the universities I put on my list. And I like the look of it. The campus is just beautiful.",
+                "zh": "M: 不，不是的，我来自英格兰北部，来自西约克郡。诺丁汉是我列在清单上的大学之一。我喜欢它的样子。校园真的很美。"
+              },
+              {
+                "en": "W: Yes, indeed, Let's see. Were you from the industrial part of Yorkshire?",
+                "zh": "W: 是的，确实如此。让我想想，你是来自约克郡的工业区吗？"
+              },
+              {
+                "en": "M: Yes, from the Woolen District.",
+                "zh": "M: 是的,来自毛纺区。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Characteristics of Japanese artists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Some features of Japanese culture."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The art of Japanese brush painting."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The uniqueness of Japanese art."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To calm themselves down."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To enhance concentration."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To show their impatience."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To signal lack of interest."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How listeners in different cultures show respect."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How speakers can win approval from the audience."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How speakers can misunderstand the audience."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How different Western and Eastern art forms are.\n\nQuestions 19 to 22 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "While Gail Obcamp, an American artist, was giving a speech on the art of Japanese brush painting to an audience that included visitors from Japan, she was confused to see that many of her Japanese listeners had their eyes closed. Were they turned off because an American had the nerve to instruct Japanese in their own art form? Were they deliberately trying to signal their rejection of her? Obcamp later found out that her listeners were not being disrespectful. Japanese listeners sometimes close their eyes to enhance concentration. Her listeners were showing their respect for her by chewing on her words. Some day you may be either a speaker or a listener in a situation involving people from other countries or members of a minority group in North America. Learning how different cultures signal respect can help you avoid misunderstandings.",
+                "zh": "美国艺术家Gail Obcamp在向包括来自日本的访客在内的听众讲授日本毛笔画艺术时，困惑地发现许多日本听众闭着眼睛。是因为一个美国人竟敢教日本人他们自己的艺术形式而让他们反感吗？他们是在故意表示拒绝她吗？Obcamp后来发现她的听众并非不尊重她。日本听众有时会闭上眼睛以增强专注力。她的听众通过细细品味她的话语来表示对她的尊重。将来某一天，你可能会在涉及来自其他国家的人或北美少数族裔成员的场合中担任演讲者或听众。了解不同文化如何表达尊重可以帮助你避免误解。"
+              },
+              {
+                "en": "Here are some examples. In the deaf culture of North America, many listeners show applause not by clapping their hands but by waving them in the air. In some cultures, both overseas and in some minority groups in North America, listeners are considered disrespectful if they look directly at the speaker. Respect is shown by looking in the general direction but avoiding direct eye contact. In some countries, whistling by listeners is a sign of approval, while in other countries it is a form of insult.",
+                "zh": "以下是一些例子。在北美的聋人文化中，许多听众不是通过拍手而是通过在空中挥手来表示鼓掌。在一些文化中，无论是海外还是北美的一些少数族裔群体，如果听众直视演讲者会被认为是不尊重的。尊重是通过看向大致方向但避免直接eye contact来表示的。在一些国家，听众吹口哨是赞同的标志,而在其他国家则是一种侮辱形式。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Directing personnel evaluation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Buying and maintaining equipment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Drawing up plans for in-service training."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Interviewing and recruiting employees."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Some of his equipment was damaged in a fire."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The training program he ran was a failure."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Two of his workers were injured at work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Two of his employees committed theft."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A better relationship with his boss."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Advancement to a higher position."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A better-paying job in another company."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Improvement in the company's management."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She has more self-confidence than Chris."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She works with Chris in the same division."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She has more management experience than Chris."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is competing with Chris for the new job.\n\nQuestions 23 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Chris is in charge of purchasing and maintaining equipment in his division at Taxalong Company. He's soon going to have an evaluation interview with his supervisor and the personnel director to discuss the work he has done in the past year. Salary, promotion and plans for the coming year will also be discussed at the meeting. Chris has made several changes for his division in the past year. First, he bought new equipment for one of the departments. He has been particularly happy about the new equipment because many of the employees have told him how much it has helped them. Along with improving the equipment, Chris began a program to train employees to use equipment better and do simple maintenance themselves. The training saved time for the employees and money for the company. Unfortunately, one serious problem developed during the year. Two employees that Chris hired were stealing, and he had to fire them.",
+                "zh": "Chris在Taxalong公司负责其部门的设备采购和维护工作。他即将与主管和人事主任进行评估面谈,讨论他过去一年所做的工作。会议还将讨论薪资、晋升以及来年的计划。Chris在过去一年为他的部门做出了几项改变。首先,他为其中一个部门购买了新设备。他对新设备特别满意,因为许多员工告诉他这些设备帮助了他们很多。在改进设备的同时,Chris启动了一个培训项目,培训员工更好地使用设备并自己进行简单的维护。这项培训为员工节省了时间,也为公司节省了资金。不幸的是,这一年中出现了一个严重的问题。Chris雇用的两名员工有偷窃行为,他不得不解雇了他们。"
+              },
+              {
+                "en": "Chris knows that a new job for a purchasing and maintenance manager for the whole company will be opened in a few months, and he would like to be promoted to the job, Chris knows, however, that someone else wants the new job, too. Kim is in charge of purchasing and maintenance in another division of the company. She has also made several changes over the year. Chris knows that his boss likes Kim's work, and he expects that his work will be compared with hers.",
+                "zh": "Chris知道几个月后公司将开放一个负责全公司采购和维护的经理职位,他希望能晋升到这个岗位。然而Chris知道,还有其他人也想要这个新职位。Kim负责公司另一个部门的采购和维护工作。她在这一年中也做出了几项改变。Chris知道他的上司欣赏Kim的工作,他预计自己的工作将会与她的进行比较。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They help us see the important values of a culture."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They guide us in handling human relationships."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They help us express ourselves more effectively."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are an infinite source of human knowledge."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their wording may become different."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The values they reflect may change."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their origins can no longer be traced."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They may be misinterpreted occasionally."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Certain values are shared by a large number of cultures."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Some proverbs are assuming more and more importance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Old proverbs are constantly replaced by new ones."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Certain values have always been central to a culture."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Proverbs, sometimes called sayings, are examples of folk wisdom. They are little lessons which older people of a culture pass down to the younger people to teach them about life. Many proverbs remind people of the values that are important in the culture. Values teach people how to act, what is right, and what is wrong. Because the values of each culture are different, understanding the values of another culture helps explain how people think and act. Understanding your own cultural values is important too. If you can accept that people from other cultures act according to their values, not yours, getting along with them will be much easier.",
+                "zh": "谚语，有时被称为俗语,是民间智慧的范例。它们是一种文化中年长者传递给年轻人的小小教训，用来教导他们关于人生的道理。许多谚语提醒人们该文化中重要的价值观。价值观教导人们如何行事、什么是对的、什么是错的。由于每种文化的价值观各不相同，理解另一种文化的价值观有助于解释人们的思维和行为方式。理解自己的文化价值观同样重要。如果你能接受来自其他文化的人是按照他们的价值观而非你的价值观行事，那么与他们相处就会容易得多。"
+              },
+              {
+                "en": "Many proverbs are very old. So some of the values they teach may not be as important in the culture as they once were. For example, Americans today do not pay much attention to the proverb \"Haste makes waste\", because patience is not important to them. But if you know about past values, it helps you to understand the present and many of the older values are still strong today. Benjamin Franklin, a famous American diplomat, writer and scientist, died in 1790, but his proverb \"Time is money\" is taken more seriously by Americans of today than ever before. A study of proverbs from around the world shows that some values are shared by many cultures. In many cases though, the same idea is expressed differently.",
+                "zh": "许多谚语非常古老。因此它们所传授的一些价值观在当今文化中可能不如从前重要。例如，今天的美国人并不太注重\"欲速则不达\"这句谚语，因为耐心对他们来说并不重要。但如果你了解过去的价值观，这有助于你理解现在，而且许多古老的价值观在今天仍然很强大。Benjamin Franklin，一位著名的美国外交家、作家和科学家，于1790年去世，但他的谚语\"时间就是金钱\"在今天的美国人中比以往任何时候都更受重视。一项对世界各地谚语的研究表明，一些价值观为许多文化所共有。不过在许多情况下，同样的思想是以不同的方式表达的。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The U.S. Department of Education is making efforts to ensure that all students have equal access to a quality education. Today it is"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "the launch of the Excellent Educators for All Initiative. The initiative will help states and school districts support great educators for the students who need them most. \"All children are"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "to a high-quality education regardless of their race, zip code or family income. It is"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "important that we provide teachers and principals the support they need to help students reach their full"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "\" U.S. Secretary of Education Arne Duncan said. \"Despite the excellent work and deep"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "of our nation's teachers and principals, students in high-poverty, high-minority schools are unfairly treated across our country. We have to do better. Local leaders and educators will"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "their own creative solutions, but we must work together to"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "our focus on how to better recruit, support and"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "effective teachers and principals for all students, especially the kids who need them most.\" Today's announcement is another important step forward in improving access to a quality education, a"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "of President Obama's year of action. Later today, Secretary Duncan will lead a round table discussion with principals and school teachers from across the country about the"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "of working in high-need schools and how to adopt promising practices for supporting great educators in these schools."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "announcing"
+        },
+        {
+          "l": "B",
+          "w": "beneficial"
+        },
+        {
+          "l": "C",
+          "w": "challenges"
+        },
+        {
+          "l": "D",
+          "w": "commitment"
+        },
+        {
+          "l": "E",
+          "w": "component"
+        },
+        {
+          "l": "F",
+          "w": "contests"
+        },
+        {
+          "l": "G",
+          "w": "critically"
+        },
+        {
+          "l": "H",
+          "w": "develop"
+        },
+        {
+          "l": "I",
+          "w": "distributing"
+        },
+        {
+          "l": "J",
+          "w": "enhance"
+        },
+        {
+          "l": "K",
+          "w": "entitled"
+        },
+        {
+          "l": "L",
+          "w": "potential"
+        },
+        {
+          "l": "M",
+          "w": "properly"
+        },
+        {
+          "l": "N",
+          "w": "qualified"
+        },
+        {
+          "l": "O",
+          "w": "retain"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "A"
+        },
+        {
+          "n": 27,
+          "a": "K"
+        },
+        {
+          "n": 28,
+          "a": "G"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "D"
+        },
+        {
+          "n": 31,
+          "a": "H"
+        },
+        {
+          "n": 32,
+          "a": "J"
+        },
+        {
+          "n": 33,
+          "a": "O"
+        },
+        {
+          "n": 34,
+          "a": "E"
+        },
+        {
+          "n": 35,
+          "a": "C"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Essay-Grading Software Offers Professors a Break",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Imagine taking a college exam, and, instead of handing in a blue book and getting a grade from a professor a few weeks later, clicking the \"send\" button when you are done and receiving a grade back instantly, your essay scored by a software program. And then, instead of being done with that exam, imagine that the system would immediately let you rewrite the test to try to improve your grade."
+        },
+        {
+          "l": "B",
+          "t": "EdX, the nonprofit enterprise founded by Harvard and the Massachusetts Institute of Technology (MIT) to offer courses on the Internet, has just introduced such a system and will make its automated( 自动的) software available free on the Web to any institution that wants to use it. The software uses artificial intelligence to grade student essays and short written answers, freeing professors for other tasks."
+        },
+        {
+          "l": "C",
+          "t": "The new service will bring the educational consortium( 联盟) into a growing conflict over the role of automation in education. Although automated grading systems for multiple-choice and true-false tests are now widespread, the use of artificial intelligence technology to grade essay answers has not yet received widespread acceptance by educators and has many critics."
+        },
+        {
+          "l": "D",
+          "t": "Anant Agarwal, an electrical engineer who is president of EdX, predicted that the instant-grading software would be a useful teaching tool, enabling students to take tests and write essays over and over and improve the quality of their answers. He said the technology would offer distinct advantages over the traditional classroom system, where students often wait days or weeks for grades. \"There is a huge value in learning with instant feedback,\" Dr. Agarwal said. \"Students are telling us they learn much better with instant feedback.\""
+        },
+        {
+          "l": "E",
+          "t": "But skeptics(怀疑者) argue the automated system is no match for live teachers. One longtime critic, Les Perelman, has drawn national attention several times for putting together nonsense essays that have fooled software grading programs into giving high marks. He has also been highly critical of studies claiming that the software compares well to human graders."
+        },
+        {
+          "l": "F",
+          "t": "He is among a group of educators who last month began circulating a petition(呼吁) opposing automated assessment software. The group, which calls itself Professionals Against Machine Scoring of Student Essays in High-Stakes Assessment, has collected nearly 2,000 signatures, including some from famous people like Noam Chomsky."
+        },
+        {
+          "l": "G",
+          "t": "\"Let's face the realities of automatic essay scoring,\" the group's statement reads in part. \"Computers cannot 'read'. They cannot measure the essentials of effective written communication: accuracy, reasoning, adequacy of evidence, good sense, ethical(伦理的) position, convincing argument, meaningful organization, and clarity, among others.\""
+        },
+        {
+          "l": "H",
+          "t": "But EdX expects its software to be adopted widely by schools and universities. It offers free online classes from Harvard, MIT and the University of California-Berkeley; this fall, it will add classes from Wellesley, Georgetown and the University of Texas. In all, 12 universities participate in EdX, which offers certificates for course completion and has said that it plans to continue to expand next year, including adding international schools."
+        },
+        {
+          "l": "I",
+          "t": "The EdX assessment tool requires human teachers, or graders, to first grade 100 essays or essay questions. The system then uses a variety of machine-learning techniques to train itself to be able to grade any number of essays or answers automatically and almost instantly. The software will assign a grade depending on the scoring system created by the teacher, whether it is a letter grade or numerical(数字的) rank."
+        },
+        {
+          "l": "J",
+          "t": "EdX is not the first to use the automated assessment technology, which dates to early computers in the 1960s. There is now a range of companies offering commercial programs to grade written test answers, and four states—Louisiana, North Dakota, Utah and West Virginia—are using some form of the technology in secondary schools. A fifth, Indiana, has experimented with it. In some cases the software is used as a \"second reader,\" to check the reliability of the human graders."
+        },
+        {
+          "l": "K",
+          "t": "But the growing influence of the EdX consortium to set standards is likely to give the technology a boost. On Tuesday, Stanford announced that it would work with EdX to develop a joint educational system that will make use of the automated assessment technology."
+        },
+        {
+          "l": "L",
+          "t": "Two start-ups, Coursera and Udacity, recently founded by Stanford faculty members to create \"massive open online courses,\" or MOOCs, are also committed to automated assessment systems because of the value of instant feedback. \"It allows students to get immediate feedback on their work, so that learning turns into a game, with students naturally(吸引) drawn toward resubmitting the work until they get it right,\" said Daphne Koller, a computer scientist and a founder of Coursera."
+        },
+        {
+          "l": "M",
+          "t": "Last year the Hewlett Foundation, a grant-making organization set up by one of the Hewlett-Packard founders and his wife, sponsored two $100,000 prizes aimed at improving software that grades essays and short answers. More than 150 teams entered each category. A winner of one of the Hewlett contests, Vik Paruchuri, was hired by EdX to help design its assessment software."
+        },
+        {
+          "l": "N",
+          "t": "\"One of our focuses is to help kids learn how to think critically,\" said Victor Vuchic, a program officer at the Hewlett Foundation. \"It's probably impossible to do that with multiple-choice tests. The challenge is that this requires human graders, and so they cost a lot more and they take a lot more time.\""
+        },
+        {
+          "l": "O",
+          "t": "Mark D. Shermis, a professor at the University of Akron in Ohio, supervised the Hewlett Foundation's contest on automated essay scoring and wrote a paper about the experiment. In his view, the technology— though imperfect—has a place in educational settings."
+        },
+        {
+          "l": "P",
+          "t": "With increasingly large classes, it is impossible for most teachers to give students meaningful feedback on writing assignments, he said. Plus, he noted, critics of the technology have tended to come from the nation's best universities, where the level of teaching is much better than at most schools."
+        },
+        {
+          "l": "Q",
+          "t": "\"Often they come from very famous institutions where, in fact, they do a much better job of providing feedback than a machine ever could,\" Dr. Shermis said. \"There seems to be a lack of appreciation of what is actually going on in the real world.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Some professionals in education are collecting signatures to voice their opposition to automated essay grading.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "Using software to grade students' essays saves teachers time for other work.",
+          "a": "B"
+        },
+        {
+          "n": 38,
+          "s": "The Hewlett contests aim at improving essay grading software.",
+          "a": "M"
+        },
+        {
+          "n": 39,
+          "s": "Though the automated grading system is widely used in multiple-choice tests, automated essay grading is still criticized by many educators.",
+          "a": "C"
+        },
+        {
+          "n": 40,
+          "s": "Some people don't believe the software grading system can do as good a job as human graders.",
+          "a": "E"
+        },
+        {
+          "n": 41,
+          "s": "Critics of automated essay scoring do not seem to know the true realities in less famous universities.",
+          "a": "Q"
+        },
+        {
+          "n": 42,
+          "s": "Critics argue many important aspects of effective writing cannot be measured by computer rating programs.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "As class size grows, most teachers are unable to give students valuable comments as to how to improve their writing.",
+          "a": "P"
+        },
+        {
+          "n": 44,
+          "s": "The automated assessment technology is sometimes used to double check the work of human graders.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "Students find instant feedback helps improve their learning considerably.",
+          "a": "D"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Boys' schools are the perfect place to teach young men to express their emotions and involve them in activities such as art, dance and music. Far from the traditional image of a culture of aggressive masculinity(阳刚), the absence of girls gives boys the chance to develop without pressure to conform to a stereotype, a US study says. Boys at single-sex schools were said to be more likely to get involved in cultural and artistic activities that helped develop their emotional expressiveness, rather than feeling they had to conform to the \"boy code\" of hiding their emotions to be a \"real man\". The findings of the study go against received wisdom that boys do better when taught alongside girls. Tony Little, headmaster of Eton, warned that boys were being failed by the British education system because it had become too focused on girls. He criticised teachers for failing to recognise that boys are actually more emotional than girls. The research argued that boys often perform badly in mixed schools because they become discouraged when their female peers do better earlier in speaking and reading skills. But in single-sex schools teachers can tailor lessons to boys' learning style, letting them move around the classroom and getting them to compete in teams to prevent boredom, wrote the study's author, Abigail James, of the University of Virginia. Teachers could encourage boys to enjoy reading and writing with \"boy-focused\" approaches such as themes and characters that appeal to them. Because boys generally have more acute vision, learn best through touch, and are physically more active, they need to be given \"hands-on\" lessons where they are allowed to walk around. \"Boys in mixed schools view classical music as feminine(女性的) and prefer the modern genre(类型) in which violence and sexism are major themes,\" James wrote. Single-sex education also made it less likely that boys would feel they had to conform to a stereotype that men should be \"masterful and in charge\" in relationships. \"In mixed schools, boys feel compelled to act like men before they understand themselves well enough to know what that means,\" the study reported.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "The author believes that a single-sex school would_______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "force boys to hide their emotions to be \"real men\""
+              },
+              {
+                "l": "B",
+                "t": "help to cultivate masculine aggressiveness in boys"
+              },
+              {
+                "l": "C",
+                "t": "encourage boys to express their emotions more freely"
+              },
+              {
+                "l": "D",
+                "t": "naturally reinforce in boys the traditional image of a man"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "It is commonly believed that in a mixed school boys ______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "perform relatively better"
+              },
+              {
+                "l": "B",
+                "t": "grow up more healthily"
+              },
+              {
+                "l": "C",
+                "t": "behave more responsibly"
+              },
+              {
+                "l": "D",
+                "t": "receive a better education"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What does Tony Little say about the British education system?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It fails more boys than girls academically."
+              },
+              {
+                "l": "B",
+                "t": "It focuses more on mixed school education."
+              },
+              {
+                "l": "C",
+                "t": "It fails to give boys the attention they need."
+              },
+              {
+                "l": "D",
+                "t": "It places more pressure on boys than on girls."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "According to Abigail James, one of the advantages of single-sex schools is ______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "teaching can be tailored to suit the characteristics of boys"
+              },
+              {
+                "l": "B",
+                "t": "boys can focus on their lessons without being distracted"
+              },
+              {
+                "l": "C",
+                "t": "boys can choose to learn whatever they are interested in"
+              },
+              {
+                "l": "D",
+                "t": "teaching can be designed to promote boys' team spirit"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "Which of the following is characteristic of boys according to Abigail James' report?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They enjoy being in charge."
+              },
+              {
+                "l": "B",
+                "t": "They conform to stereotypes."
+              },
+              {
+                "l": "C",
+                "t": "They have sharper vision."
+              },
+              {
+                "l": "D",
+                "t": "They are violent and sexist."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "It's an annual argument. Do we or do we not go on holiday? My partner says no because the boiler could go, or the roof fall off, and we have no savings to save us. I say you only live once and we work hard and what's the point if you can't go on holiday. The joy of a recession means no argument next year—we just won't go. Since money is known to be one of the things most likely to bring a relationship to its knees, we should be grateful. For many families the recession means more than not booking a holiday. A YouGov poll of 2,000 people found 22% said they were arguing more with their partners because of concerns about money. What's less clear is whether divorce and separation rates rise in a recession—financial pressures mean couples argue more but make splitting up less affordable. Recent research shows arguments about money were especially damaging to couples. Disputes were characterised by intense verbal(言语上的) aggression, tended to be repeated and not resolved, and made men, more than women, extremely angry. Kim Stephenson, an occupational psychologist, believes money is such a big deal because of what it symbolises, which may be different things to men and women. \"People can say the same things about money but have different ideas of what it's for,\" he explains. \"They'll say it's to save, to spend, for security, for freedom, to show someone you love them.\" He says men are more likely to see money as a way of buying status and of showing their parents that they've achieved something. \"The biggest problem is that couples assume each other knows what's going on with their finances, but they don't. There seems to be more of a taboo(禁忌) about talking about money than about death. But you both need to know what you're doing, who's paying what into the joint account and how much you keep separately. In a healthy relationship, you don't have to agree about money, but you have to talk about it.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about vacationing?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People enjoy it all the more during a recession."
+              },
+              {
+                "l": "B",
+                "t": "Few people can afford it without working hard."
+              },
+              {
+                "l": "C",
+                "t": "It makes all the hard work worthwhile."
+              },
+              {
+                "l": "D",
+                "t": "It is the chief cause of family disputes."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What does the author mean by saying \"money is known…to bring a relationship to its knees\"(Line 1, Para.\n 2)?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Money is considered to be the root of all evils."
+              },
+              {
+                "l": "B",
+                "t": "Some people sacrifice their dignity for money."
+              },
+              {
+                "l": "C",
+                "t": "Few people can resist the temptation of money."
+              },
+              {
+                "l": "D",
+                "t": "Disputes over money may ruin a relationship."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "The YouGov poll of 2,000 people indicates that in a recession ______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "conflicts between couples tend to rise"
+              },
+              {
+                "l": "B",
+                "t": "it is more expensive for couples to split up"
+              },
+              {
+                "l": "C",
+                "t": "couples show more concern for each other"
+              },
+              {
+                "l": "D",
+                "t": "divorce and separation rates increase"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What does Kim Stephenson believe?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Money is often a symbol of a person's status."
+              },
+              {
+                "l": "B",
+                "t": "Money means a great deal to both men and women."
+              },
+              {
+                "l": "C",
+                "t": "Men and women spend money on different things."
+              },
+              {
+                "l": "D",
+                "t": "Men and women view money in different ways."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "The author suggests at the end of the passage that couples should ______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "put their money together instead of keeping it separately"
+              },
+              {
+                "l": "B",
+                "t": "make efforts to reach agreement on their family budgets"
+              },
+              {
+                "l": "C",
+                "t": "discuss money matters to maintain a healthy relationship"
+              },
+              {
+                "l": "D",
+                "t": "avoid arguing about money matters to remain romantic"
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "据报道，今年中国快递服务(courier services) 将递送大约 120 亿件包裹。这将使中国有可能超越美国成为 世界上最大的快递市场。大多数包裹里装着网上订购的物品。中国给数百万在线零售商以极具竞争力的价格销 售商品的机会。仅在 11 月11 日，中国消费者就从国内最大的购物平台购买了价值 90 亿美元的商品。中国有 不少这样的特殊购物日。因此,快递业在中国扩展就不足为奇了。",
+    "reference": "It is reported that China's courier services will deliver about 12 billion packages this year. This will enable China to overtake the US and become the largest courier market in the world. Most of the packages contain goods ordered online. China gives millions of online retailers the opportunity to sell goods at very competitive prices. On November 11 alone, Chinese consumers bought goods worth 9 billion US dollars from the largest shopping platform in the country. China has quite a few such special shopping days. Therefore, it is no surprise that the courier industry is expanding in China."
+  }
+}

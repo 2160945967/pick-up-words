@@ -1,0 +1,1301 @@
+{
+  "id": "cet4-2019-12-3",
+  "level": "cet4",
+  "year": 2019,
+  "month": 12,
+  "set": 3,
+  "title": "2019年12月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a letter to a foreign friend who wants to study in China. Please recommend a university to him. You should write at least 120 words but no more than 180 words.",
+    "sample": "Dear Peter, I was thrilled to hear that you are planning to study in China, and I am more than happy to recommend a university to you. In my opinion, Zhejiang University in Hangzhou would be an ideal choice.I recommend it for several concrete reasons. First, it enjoys a strong academic reputation and is especially renowned for computer science and engineering, which happen to match your major. Second, its professors are both knowledgeable and approachable, and the campus is equipped with modern laboratories and a huge library. What impresses me most, however, is the campus life: Hangzhou is a beautiful city with the famous West Lake nearby, so you can relax after a busy week of study.I am sure you will enjoy studying there. If you need any further information, please feel free to contact me. Looking forward to seeing you in China soon! Yours, Li Ming"
+  },
+  "listening": {
+    "audio": "cet4-2019-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many facilities were destroyed by a wandering cow."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A wandering cow knocked down one of its fences."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some tourists were injured by a wandering cow."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A wandering cow was captured by the police."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was shot to death by a police officer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It found its way back to the park's zoo."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It became a great attraction for tourists."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was sent to the animal control department.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "New York City police captured a cow on the loose in Prospect Park on Tuesday after the animal became an attraction for tourists while walking along the streets and enjoying the park facilities. The confused creature and camera-holding humans stared at each other through a fence for several minutes. At other times the cow wandered around the 526-acre park and the artificial grass field normally used for human sporting events. Officers used soccer goals to fence the animal in. However, the cow then moved through one of the nets, knocking down a police officer in the process. Police eventually trapped the cow between two vehicles parked on either side of a baseball field's bench area. An officer then shot an arrow to put it to sleep. Then officers waited for the drug to take effect. After it fell asleep, they loaded the cow into a horse trailer. It was not clear where the cow came from or how it got lost. Police turned it over to the animal control department after they caught it.",
+                "zh": "纽约市警方周二在展望公园抓获了一头走失的奶牛，此前这头动物在街道上行走并使用公园设施时成了游客们的观赏对象。这头困惑的动物和手持相机的人们隔着栅栏互相凝视了几分钟。其他时候，这头牛在这座占地526英亩的公园和通常用于人类体育活动的人工草地上四处游荡。警察使用足球球门将这头动物围住。然而，这头牛随后穿过了其中一张球网,在此过程中撞倒了一名警察。警方最终将这头牛困在棒球场长椅区两侧停放的两辆车之间。随后一名警察射出一支箭让它入睡。然后警察们等待药物生效。在它睡着后,他们将这头牛装上了一辆运马拖车。目前尚不清楚这头牛来自哪里或如何走失的。警方在抓获它后将其移交给了动物管理部门。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the largest of its kind."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is going to be expanded."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is displaying more fossil specimens."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is starting an online exhibition."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A collection of bird fossils from Australia."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Photographs of certain rare fossil exhibits."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some ancient wall paintings from Australia."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Pictures by winners of a wildlife photo contest\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Starting April 28th of this year, the National Museum of Natural History will begin renovating its fossil hall. The fossil hall, which displays some of the world's oldest and largest fossil specimens, receives more than 2 million visitors each year. It's one of the museum's most famous attractions. As a result, the museum plans to expand the hall as well as add to its ancient birds collection. Bird lovers, both young and old, have already responded with excitement at the news. The museum's social media account has been flooded with messages of support. In the meantime, the current collection will be closed. However, visitors will be compensated during the closure. The Museum's special exhibition area will now be free of charge. This week the resident exhibition is a display of ancient wall paintings on loan from Australia. They celebrate the cultural heritage of the country and will be available to view until Sunday. Next week the exhibition will be taken over by the Wildlife Photographer of the Year Competition. The winner of this year's competition will be awarded a preview of the new fossil hall as well as a cash prize.",
+                "zh": "从今年4月28日开始,国家自然历史博物馆将开始翻修其化石展厅。化石展厅展出世界上一些最古老和最大的化石标本,每年接待超过200万游客。它是博物馆最著名的景点之一。因此,博物馆计划扩建展厅并增加其古代鸟类藏品。无论年轻还是年长的鸟类爱好者都已对这一消息作出了兴奋的回应。博物馆的社交媒体账户充斥着支持的留言。与此同时,目前的藏品展览将关闭。然而,游客将在闭馆期间获得补偿。博物馆的特别展览区现在将免费开放。本周的常驻展览是一场从澳大利亚借展的古代壁画展示。它们颂扬该国的文化遗产,展览将持续到周日。下周展览将由年度野生动物摄影师大赛接替。今年比赛的获胜者将获得新化石展厅的预览机会以及现金奖励。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Pick up trash."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Amuse visitors."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Deliver messages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Play with children."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are especially intelligent."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are children's favorite."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are quite easy to tame."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are clean and pretty."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Children may be harmed by the rooks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Children may be tempted to drop litter."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Children may contract bird diseases."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Children may overfeed the rooks."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Six birds have just been trained to pick up rubbish at a French historical theme park. According to the park's manager, Mr. Villiers, the goal is not just to clear up the park. He says visitors are already good at keeping things clean. Instead, he wants to show that nature itself can teach us to take care of the environment. He says that rooks, the chosen birds, are considered to be particularly intelligent. In the right circumstances, they even like to communicate with humans and establish a relationship through play. The birds will be encouraged to clean the park through the use of a small box that delivers a small amount of bird food each time the rook deposits a cigarette end or a small piece of rubbish. So far, visitors to the theme park have been excited to see the birds in action. However, some parents are concerned that it encourages their children to drop litter so they can watch the birds pick it up. Villiers is not concerned about this criticism. He maintains most of the feedback he has received has been overwhelmingly positive. He hopes now to train more birds.",
+                "zh": "六只鸟刚刚在法国一个历史主题公园接受了捡拾垃圾的训练。据公园经理Villiers先生说，目标不仅仅是清理公园。他说游客已经很善于保持清洁。相反，他想展示大自然本身可以教我们爱护环境。他说，被选中的鸟类秃鼻乌鸦被认为特别聪明。在适当的情况下，它们甚至喜欢与人类交流并通过游戏建立关系。这些鸟将通过使用一个小盒子被鼓励清理公园，每当秃鼻乌鸦放入一个烟头或一小块垃圾时，小盒子就会提供少量鸟食。到目前为止，主题公园的游客对看到这些鸟的行动感到兴奋。然而，一些家长担心这会鼓励他们的孩子乱扔垃圾，以便观看鸟类捡拾垃圾。Villiers对这种批评并不担心。他坚持认为他收到的大部分反馈都是非常积极的。他现在希望训练更多的鸟。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It will be produced at Harvard University."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will be hosted by famous professors."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will cover different areas of science."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will focus on recent scientific discoveries."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It will be more futuristic."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will be more systematic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will be more entertaining."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will be easier to understand."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People interested in science."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Youngsters eager to explore."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Children in their early teens."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Students majoring science."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Offer professional advice."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Provide financial support."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help promote it on the Internet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make episodes for its first season.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: The name of the TV show we wish to produce is Science Nation.",
+                "zh": "W: 我们想制作的电视节目名称是《科学国度》。"
+              },
+              {
+                "en": "M: Please tell us more. What would Science Nation be about?",
+                "zh": "M: 请告诉我们更多信息。《科学国度》会讲什么内容？"
+              },
+              {
+                "en": "W: It will be about science, all sorts of science. Each episode will focus on a different area of science, and tell us what we know, how we know it, and what we still don't know. The show will have one host only, and this will be Professor Susan Paul from Harvard University. She is a great public speaker.",
+                "zh": "W: 它会讲科学，各种各样的科学。每一集都会聚焦不同的科学领域，告诉我们已经知道什么、是怎么知道的、还有什么是我们仍然不知道的。节目只有一位主持人，就是哈佛大学的Susan Paul教授。她是位出色的演讲者。"
+              },
+              {
+                "en": "M: So, just be clear. Will the show's format be like that of a documentary?",
+                "zh": "M: 那么，明确一下。节目的形式会像纪录片那样吗？"
+              },
+              {
+                "en": "W: Kind of. It will be like a documentary in the sense that it will be non-fiction and fact-based. However, our idea is for it to be also fun and entertaining, something which traditional documentaries aren't so much. Please keep in mind this will be a new TV show like nothing ever done before.",
+                "zh": "W: 有点像。它会像纪录片那样是非虚构的、基于事实的。不过，我们的想法是让它也有趣、有娱乐性，这是传统纪录片不太具备的。请记住这将是一个全新的电视节目，是前所未有的。"
+              },
+              {
+                "en": "M: Okay, so it will be both educational and entertaining, and your audience will be anyone interested in science, right?",
+                "zh": "M: 好的,所以它既有教育性又有娱乐性，你们的目标观众是所有对科学感兴趣的人，对吧？"
+              },
+              {
+                "en": "W: That's correct. Yes.",
+                "zh": "W: 没错。是的。"
+              },
+              {
+                "en": "M: Right, thank you. So I think we're more or less clear what the show will be like. Could you please tell us now what exactly you want from us?",
+                "zh": "M: 好,谢谢。我想我们对节目会是什么样基本清楚了。现在能请你告诉我们你们具体需要我们做什么吗？"
+              },
+              {
+                "en": "W: Yes, of course. Basically what we need from you is financial support. In order to go ahead with this idea, we need two million dollars. This would cover the cost of making all 12 shows in the first season for the first year. If the show is a success, we can then look at making a second season for the following year.",
+                "zh": "W: 好的,当然。基本上我们需要你们提供资金支持。为了推进这个想法,我们需要两百万美元。这将用于制作第一季第一年全部12集节目的成本。如果节目成功,我们就可以考虑在第二年制作第二季。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Unsure."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Helpless."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Concerned."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Dissatisfied."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is too concerned with being perfect."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He loses heart when faced with setbacks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is too ambitious in achieving goals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He takes on projects beyond his ability."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Embarrassed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Unconcerned."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Miserable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Resentful."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Try to be optimistic whatever happens."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Compare his present with his past only."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Always learn from others' achievements."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Treat others the way he would be treated."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: What's up with you? You don't look very happy.",
+                "zh": "W: 你怎么了?看起来不太高兴。"
+              },
+              {
+                "en": "M: I feel like I'm a failure. I can't seem to do anything very well.",
+                "zh": "M: 我觉得自己是个失败者。我好像什么事都做不好。"
+              },
+              {
+                "en": "W: I wouldn't say that. You do very well in a lot of things. That presentation you gave last week was excellent.",
+                "zh": "W: 我可不这么认为。你很多事情都做得很好。你上周的那个报告就非常出色。"
+              },
+              {
+                "en": "M: Yes, but I have this urge to strive for perfection. I really want to push harder and progress further.",
+                "zh": "M: 是的,但我有这种追求完美的冲动。我真的想更努力,取得更大的进步。"
+              },
+              {
+                "en": "W: Well, that's very admirable. But be careful. Over-concern with being perfect can damage our confidence if we never achieve it.",
+                "zh": "W: 嗯,这很值得钦佩。但要小心。如果我们永远无法达到完美,过分关注完美可能会损害我们的信心。"
+              },
+              {
+                "en": "M: Yes, I know. I feel awful whenever I make a mistake in whatever I'm trying to do.",
+                "zh": "M: 是的,我知道。每当我在尝试做的事情上犯错时,我就感觉很糟糕。"
+              },
+              {
+                "en": "W: Well, think about it. You can't make progress without making mistakes and learning from them. Thomas Edison, the famous inventor, once said, \"I've not failed. I've just found 10,000 ways that won't work.\"",
+                "zh": "W: 那么,想想看。不犯错误并从中学习,你就无法进步。著名发明家Thomas Edison曾经说过:\"我没有失败。我只是找到了一万种行不通的方法。\""
+              },
+              {
+                "en": "M: You may well be right. I guess I should recognize my mistakes and learn the lesson they teach me and move forward.",
+                "zh": "M: 你说得很对。我想我应该认识到自己的错误,吸取它们给我的教训,然后继续前进。"
+              },
+              {
+                "en": "W: Also, remember a successful ending is not the only thing worthy of a celebration. You need to recognize each step of progress you take towards achieving your goals, and no matter how tiny it is, it's still good news.",
+                "zh": "W: 还有,记住成功的结局并不是唯一值得庆祝的事情。你需要认可自己朝着目标前进的每一步进展,无论它多么微小,都仍然是好消息。"
+              },
+              {
+                "en": "M: I always feel down when I see others accomplishing things, and I feel miserable about my own achievements. I'm always trying to be as good as others. But I never seem to get there.",
+                "zh": "M: 每当看到别人取得成就时,我总是感到沮丧,对自己的成就感到痛苦。我总是试图和别人一样优秀。但我似乎永远达不到。"
+              },
+              {
+                "en": "W: Listen, if you always compare yourself with others, you'll never feel good enough. You're the only person you should be comparing yourself with. When you compare your current status with the starting point, you'll find you've made progress, right? That's good enough.",
+                "zh": "W: 听着,如果你总是拿自己和别人比较,你永远不会觉得自己足够好。你应该比较的唯一对象就是你自己。当你把现在的状态和起点比较时,你会发现自己取得了进步,对吧?这就足够了。"
+              },
+              {
+                "en": "M: That's great advice. Thank you. I'm feeling better already.",
+                "zh": "M: 这是很好的建议。谢谢你。我已经感觉好多了。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have a stronger sense of social responsibility."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are more likely to succeed in the humanities."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are more likely to become engineers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have greater potential to be leaders."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Praise girls who like to speak up frequently."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Encourage girls to solve problems on their own."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Insist that boys and girls work together more."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Respond more positively to boys comments."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Offer personalized teaching materials."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Provide a variety of optional courses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Place great emphasis on test scores."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Pay extra attention to top students.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Single-sex education can have enormous benefits for female students. Numerous studies have shown that women who attend single-sex schools tend to have stronger self-confidence, better study habits and more ambitious career goals than women who attend coeducational schools. Girls who graduate from single-sex schools are three times more likely to become engineers than those who attend coeducational schools. The reason is that all-girls schools encourage women to enter fields traditionally dominated by men, such as science, technology and engineering. In coeducational schools, girls are often expected to succeed only in humanities or the arts. Research has also shown that in coeducational settings, teachers are more likely to praise and give in-depth responses to a boy's comments in class. In contrast, they might only respond to a girl's comments with a nod. They are also more likely to encourage boys to work through problems on their own, while they tend to step in and help girls who struggle with a problem. In an all-girls setting, girls are more likely to speak up frequently and make significant contributions to class than in a coeducational setting. Girls studying in a single-sex setting also earn higher scores on their College Board and Advanced Placement exams than girls who study in coeducational settings. All-girls schools tend to be smaller than coeducational schools, which means teachers will be able to tailor the materials to girl students' personal learning styles and interest.",
+                "zh": "单性别教育对女学生可以产生巨大益处。大量研究表明，就读单性别学校的女性往往比就读男女同校的女性拥有更强的自信心、更好的学习习惯和更具雄心的职业目标。单性别学校毕业的女生成为工程师的可能性是就读男女同校女生的三倍。原因在于女子学校鼓励女性进入传统上由男性主导的领域，如科学、技术和工程。在男女同校中，女生往往被期望只在人文学科或艺术领域取得成功。研究还表明，在男女同校的环境中，教师更倾向于表扬男生在课堂上的评论并给予深入回应。相比之下，他们可能只是点头回应女生的评论。他们也更倾向于鼓励男生独立解决问题，而往往会介入帮助遇到困难的女生。在全女生环境中，女生比在男女同校环境中更有可能频繁发言并对课堂做出重要贡献。在单性别环境中学习的女生在College Board和Advanced Placement考试中的得分也高于在男女同校环境中学习的女生。女子学校往往比男女同校规模更小，这意味着教师能够根据女学生的个人学习风格和兴趣定制教学材料。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It often rains cats and dogs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It seldom rains in summer time."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It does not rain as much as people think."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is one of the most rainy cities in the US."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They drive most of the time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The rain is usually very light."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have got used to the rain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The rain comes mostly at night."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has a lot of places for entertainment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has never seen thunder and lightning."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has fewer cloudy days than any other coastal city."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has mild weather both in summer and in winter.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Today I found out that Seattle doesn't really get that much rain compared with most US cities. In fact, Seattle ranks 44th among major US cities in average annual rainfall. Cities that get more rainfall than Seattle include Houston, Memphis, Nashville, and pretty much every major city on the eastern coast, such as New York, Boston and Miami. So why does everyone think of Seattle as a rainy city? The primary root of this misconception lies in that Seattle has a relatively large number of days per year with rainfall compared with New York and Boston, which get an average of about 16% more rain per year than Seattle, but also average between them about 36 fewer days a year of rainfall. So it rains a lot less in Seattle, and the rain is spread out over more days than those cities. This is why few locals in Seattle carry an umbrella generally. When it does rain, it tends to be a very light rain. That isn't troublesome. It almost never really rains as most people think. On top of that, it never really storms in Seattle, either. Seattle gets an average of a mere seven days a year with thunder. So in short, if you like sunny but not too hot summers, mild winters but with lots of cloudy days, Seattle's the place to be. Anyway, if you visit Seattle, don't bring an umbrella. People will look at you, thinking you're funny.",
+                "zh": "今天我发现，与美国大多数城市相比，Seattle 的降雨量实际上并不多。事实上，Seattle 在美国主要城市年平均降雨量排名中位列第44位。降雨量超过 Seattle 的城市包括 Houston、Memphis、Nashville，以及东海岸几乎所有主要城市，如 New York、Boston 和 Miami。那么为什么每个人都认为 Seattle 是一个多雨的城市呢？这种误解的主要根源在于，与 New York 和 Boston 相比，Seattle 每年降雨天数相对较多。New York 和 Boston 的年平均降雨量比 Seattle 多约16%，但它们的年平均降雨天数比 Seattle 少约36天。因此 Seattle 的降雨量要少得多，而且降雨分布在更多天数里。这就是为什么 Seattle 当地人通常很少带伞的原因。当下雨时，往往是非常小的雨，并不麻烦。几乎从来不会像大多数人想象的那样真正下大雨。除此之外，Seattle 也从来不会真正出现暴风雨。Seattle 每年平均仅有七天会打雷。简而言之，如果你喜欢阳光充足但不太热的夏天、温和的冬天但有很多阴天，Seattle 就是理想之地。无论如何，如果你访问 Seattle，不要带伞，人们会看着你，觉得你很可笑。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It occurs when people are doing a repetitive activity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It results from exerting one's muscles continuously."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It happens when people engage in an uncommon activity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It comes from straining one's muscles in an unusual way."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Blood flow and body heat increase in the affected area."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Body movements in the affected area become difficult."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They begin to make repairs immediately."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They gradually become fragmented."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About one week."
+                  },
+                  {
+                    "l": "B",
+                    "t": "About two days."
+                  },
+                  {
+                    "l": "C",
+                    "t": "About ten days."
+                  },
+                  {
+                    "l": "D",
+                    "t": "About four weeks."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Apply muscle creams."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Drink plenty of water."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Have a hot shower."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Take pain-killers."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "After a tough workout or a day full of physical activity, it's common to find your muscles aching. But where do these pains come from? According to a German professor, the soreness comes from straining your muscles in an uncommon way, for example, jumping on a bicycle for a ride, because you haven't ridden in a long time. Soreness occurs since your leg muscles aren't used to that movement. When muscles perform an activity they aren't regularly exposed to, the tiny fibres that are inside them are being torn apart. As muscle soreness develops, the body has to work to repair the muscle tears. But this doesn't happen immediately. First, the body must realise the muscles are damaged. When the body realises the muscles are hurt, the response is to increase blood flow to the area and increase body heat. Damaged cells are then cleaned up and the body sends cells specially designed to break down the large muscle fibre fragments. Healing can take place after this. It takes about a day until these cells make it to your aching muscles. That's why there is most often a delay associated with muscle soreness. Repair of damaged cells takes about two days, and afterwards the soreness disappears. Unfortunately, there is little that can be done to relieve muscle soreness. Pain-relieving creams don't work, but a hot shower or warm bath can provide some relief.",
+                "zh": "在剧烈运动或一整天的体力活动之后，肌肉酸痛是很常见的。但这些疼痛从何而来？根据一位德国教授的说法，酸痛来自以不常见的方式拉伤肌肉，例如，骑上自行车去兜风，因为你已经很长时间没有骑车了。之所以会酸痛，是因为你的腿部肌肉不习惯那种运动。当肌肉进行它们不经常接触的活动时，其内部的微小纤维就会被撕裂。随着肌肉酸痛的发展，身体必须努力修复肌肉撕裂。但这不会立即发生。首先，身体必须意识到肌肉受损了。当身体意识到肌肉受伤时，反应是增加该区域的血流量并提高体温。然后受损细胞被清理掉，身体派出专门设计用来分解大块肌肉纤维碎片的细胞。之后才能进行愈合。这些细胞到达你酸痛的肌肉大约需要一天时间。这就是为什么肌肉酸痛通常会有延迟。受损细胞的修复大约需要两天时间，之后酸痛就会消失。不幸的是，几乎没有什么办法可以缓解肌肉酸痛。止痛膏不起作用，但热水淋浴或温水浴可以提供一些缓解。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2019-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Millions of people travel by plane every single day. If you're planning on being one of them soon, you might not be looking forward to the"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "feeling air travel often leaves you with. Besides the airport crowds and stress, travelling at a high altitude has real effects on the body. Although the pressure of the cabin is"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "to prevent altitude sickness, you could still"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "sleepiness or a headache. The lower oxygen pressure found in an aircraft cabin is"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "to that at 6,000-8,000 feet of altitude. A drop in oxygen pressure can cause headaches in certain"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ". To help prevent headaches, drink plenty of water, and avoid alcohol and coffee. Airplane food might not really be as tasteless as you"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "thought. The air you breathe in a plane dries out your mouth and nose, which can affect your sense of taste. Perception of sweet and salty foods dropped by almost 30 percent in a simulation of air travel. However, you can make your taste buds active again by drinking water. A dry mouth may"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "taste sensitivity, but taste is restored by drinking fluids. Although in-flight infections"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "in dry environments like airplanes, your risk of getting sick from an airplane is actually low because of the air"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "used. Unless you're sitting next to someone who is coughing or sneezing, you shouldn't worry too much about getting sick. However, bacteria have been shown to live on cabin surfaces, so wash your hands"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "adjusted"
+        },
+        {
+          "l": "B",
+          "w": "channels"
+        },
+        {
+          "l": "C",
+          "w": "equivalent"
+        },
+        {
+          "l": "D",
+          "w": "experience"
+        },
+        {
+          "l": "E",
+          "w": "filters"
+        },
+        {
+          "l": "F",
+          "w": "frequently"
+        },
+        {
+          "l": "G",
+          "w": "individuals"
+        },
+        {
+          "l": "H",
+          "w": "originally"
+        },
+        {
+          "l": "I",
+          "w": "particular"
+        },
+        {
+          "l": "J",
+          "w": "primarily"
+        },
+        {
+          "l": "K",
+          "w": "reduce"
+        },
+        {
+          "l": "L",
+          "w": "renovated"
+        },
+        {
+          "l": "M",
+          "w": "smooth"
+        },
+        {
+          "l": "N",
+          "w": "thrive"
+        },
+        {
+          "l": "O",
+          "w": "unpleasant"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "O"
+        },
+        {
+          "n": 27,
+          "a": "A"
+        },
+        {
+          "n": 28,
+          "a": "D"
+        },
+        {
+          "n": 29,
+          "a": "C"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "H"
+        },
+        {
+          "n": 32,
+          "a": "K"
+        },
+        {
+          "n": 33,
+          "a": "N"
+        },
+        {
+          "n": 34,
+          "a": "E"
+        },
+        {
+          "n": 35,
+          "a": "F"
+        }
+      ]
+    },
+    "matching": {
+      "title": "A South Korean city designed for the future takes on a life of its own",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Getting around a city is one thing—and then there's the matter of getting from one city to another. One vision of the perfect city of the future is a place that offers easy access to air travel. In 2011, a University of North Carolina business professor named John Kasarda published a book called Aerotropolis: The Way We'll Live Next. Kasarda says future cities should be built intentionally around or near airports. The idea, as he has put it, is to offer businesses \"rapid, long-distance connectivity on a massive scale.\""
+        },
+        {
+          "l": "B",
+          "t": "\"The 18th century really was a waterborne(水运的) century, the 19th century a rail century, the 20th century a highway, car, truck century—and the 21st century will increasingly be an aviation century, as the globe becomes increasingly connected by air,\" Kasarda says. Songdo, a city built from scratch in South Korea, is one of Kasarda's prime examples. It has existed for just a few years. \"From the outset, it was designed on the basis of connectivity and competitiveness,\" says Kasarda. \"The government built the bridge directly from the airport to the Songdo International Business District. And the surface infrastructure was built at the same time as the new airport.\""
+        },
+        {
+          "l": "C",
+          "t": "Songdo is a stone's throw from South Korea's Incheon Airport, its main international hub(枢纽). But it takes a lot more than a nearby airport to be a city of the future. Just building a place as an \"international business district\" doesn't mean it will become one. Park Yeon Soo conceived(构想) this city of the future back in 1986. He considers Songdo his baby. Park sees himself as a visionary. Thirty years after he imagined the city, Park's baby is close to 70 percent built, with 36,000 people living in the business district and 90,000 residents in greater Songdo. It's about an hour outside Seoul, built on former tidal flats along the Yellow Sea. There's a Coast Guard building and a tall trade tower, as well as a park, golf course and university."
+        },
+        {
+          "l": "D",
+          "t": "Chances are you've actually seen this place. Songdo appears in the most famous music video ever to come out of South Korea. \"Gangnam Style\" refers to the fashionable Gangnam district in Seoul. But some of the video was filmed in Songdo. \"I don't know if you remember, there was a scene in a subway station. That was not Gangnam. That was actually Songdo,\" says Jung Won Son, a professor of urban development at London's Bartlett School of Planning. \"Part of the reason to shoot there is that it's new and nice.\""
+        },
+        {
+          "l": "E",
+          "t": "The city was supposed to be a hub for global companies, with employees from all over the world. But that's not how it has turned out. Songdo's reputation is as a futuristic ghost town. But the reality is more complicated. A bridge with big, light-blue loops leads into the business district. In the center of the main road, there's a long line of flags of the world. On the corner, there's a Starbucks and a 7-Eleven—all of the international brands that you see all over the world nowadays."
+        },
+        {
+          "l": "F",
+          "t": "The city is not empty. There are mothers pushing baby carriages, old women with walkers—even in the middle of the day, when it's 90 degrees out. Byun Young-Jin chairs the Songdo real estate association and started selling property here when the first phase of the city opened in 2005. He says demand has boomed in the past couple of years. Most of his clients are Korean. In fact, the developer says, 99 percent of the homes here are sold to Koreans. Young families move here because the schools are great. And that's the problem: Songdo has become a popular Korean city more popular as a residential area than a business one. It's not yet the futuristic international business hub that planners imagined. \"It's a great place to live. And it's becoming a great place to work,\" says Scott Summers, vice president of Gale International, the developer of the city. The floor-to-ceiling windows of his company's offices overlook Songdo Central Park, with a canal full of small boats and people fishing. Shimmering(闪烁的) glass towers line the canal's edge."
+        },
+        {
+          "l": "G",
+          "t": "\"What's happened is that our focus on creating that quality of life first has enabled the residents to live here,\" Summers says. But there needs to be strong economic incentives for companies to locate here. The city is still unfinished, and it feels a bit like a theme park. It doesn't feel all that futuristic. There's a high- tech underground trash disposal system. Buildings are environmentally friendly. Everybody's television set is connected to a system that streams personalized language or exercise classes."
+        },
+        {
+          "l": "H",
+          "t": "But this is not Star Trek. And to some of the residents, Songdo feels hollow. \"I'm, like, in prison for weekdays. That's what we call it in the workplace,\" says a woman in her 20s. She doesn't want to use her name for fear of being fired from her job. She goes back to Seoul every weekend. \"I say I'm prison-breaking on Friday nights.\" But she has to make the prison break in her own car. There's no high-speed train connecting Songdo to Seoul, just over 20 miles away."
+        },
+        {
+          "l": "I",
+          "t": "Park Yeon Soo, the man who first imagined Songdo, feels frustrated, too. He says he built South Korea a luxury vehicle, \"like Mercedes or BMW. It's a good car now. But we're waiting for a good driver to accelerate.\" But there are lots of other good cars out there, too. The world is dotted with futuristic, high-tech cities trying to attract the biggest international companies."
+        },
+        {
+          "l": "J",
+          "t": "Songdo's backers contend that it's still early, and business space is filling up—about 70 percent of finished offices are now occupied. Brent Ryan, who teaches urban design at MIT, says Songdo proves a universal principle. \"There have been a lot of utopian(乌托邦的) cities in history. And the reason we don't know about a lot of them is that they have vanished entirely.\" In other words, when it comes to cities—or anything else— it is hard to predict the future."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Songdo's popularity lies more in its quality of life than its business attraction.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "The man who conceived Songdo feels disappointed because it has fallen short of his expectations.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "A scene in a popular South Korean music video was shot in Songdo.",
+          "a": "D"
+        },
+        {
+          "n": 39,
+          "s": "Songdo still lacks the financial stimulus for businesses to set up shop there.",
+          "a": "G"
+        },
+        {
+          "n": 40,
+          "s": "Airplanes will increasingly become the chief means of transportation, according to a professor.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "Songdo has ended up different from the city it was supposed to be.",
+          "a": "E"
+        },
+        {
+          "n": 42,
+          "s": "Some of the people who work in Songdo complain about boredom in the workplace.",
+          "a": "H"
+        },
+        {
+          "n": 43,
+          "s": "A business professor says that a future city should have easy access to international transportation.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "According to an urban design professor, it is difficult for city designers to foresee what will happen in the future.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "Park Yeon Soo, who envisioned Songdo, feels a parental connection with the city.",
+          "a": "C"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "The fifth largest city in the US passed a significant soda tax proposal that will levy(征税) 1.5 cents per liquid ounce on distributors. Philadelphia's new measure was approved by a 13 to 4 city council vote. It sets a new bar for similar initiatives across the country. It is proof that taxes on sugary drinks can win substantial support outside super- liberal areas. Until now, the only city to successfully pass and implement a soda tax was Berkeley, California, in 2014. The tax will apply to regular and diet sodas, as well as other drinks with added sugar, such as Gatorade and iced teas. It's expected to raise $410 million over the next five years, most of which will go toward funding a universal prekindergarten program for the city. While the city council vote was met with applause inside the council room, opponents to the measure, including soda lobbyists, made sharp criticisms and a promise to challenge the tax in court. \"The tax passed today unfairly singles out beverages—including low- and no-calorie choices,\" said Lauren Kane, spokeswoman for the American Beverage Association. \"But most importantly, it is against the law. So we will side with the majority of the people of Philadelphia who oppose this tax and take legal action to stop it.\" An industry-backed anti-tax campaign has spent at least $4 million on advertisements. The ads criticized the measure, characterizing it as a \"grocery tax.\" Public health groups applauded the approved tax as a step toward fixing certain lasting health issues that plague Americans. \"The move to recapture a small part of the profits from an industry that pushes a product that contributes to diabetes, obesity and heart disease in poorer communities in order to reinvest in those communities will sure be inspirational to many other places,\" said Jim Krieger, executive director of Healthy Food America. \"Indeed, we are already hearing from some of them. It's not 'just Berkeley' anymore.\" Similar measures in California's Albany, Oakland, San Francisco and Colorado's Boulder are becoming hot- button issues. Health advocacy groups have hinted that even more might be coming.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the passage say about the newly-approved soda tax in Philadelphia?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will change the lifestyle of many consumers."
+              },
+              {
+                "l": "B",
+                "t": "It may encourage other US cities to follow suit."
+              },
+              {
+                "l": "C",
+                "t": "It will cut soda consumption among low-income communities."
+              },
+              {
+                "l": "D",
+                "t": "It may influence the marketing strategies of the soda business."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What will the opponents probably do to respond to the soda tax proposal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Bargain with the city council."
+              },
+              {
+                "l": "B",
+                "t": "Refuse to pay additional tax."
+              },
+              {
+                "l": "C",
+                "t": "Take legal action against it."
+              },
+              {
+                "l": "D",
+                "t": "Try to win public support."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What did the industry-backed anti-tax campaign do about the soda tax proposal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It tried to arouse hostile feelings among consumers."
+              },
+              {
+                "l": "B",
+                "t": "It tried to win grocers' support against the measure."
+              },
+              {
+                "l": "C",
+                "t": "It kept sending letters of protest to the media."
+              },
+              {
+                "l": "D",
+                "t": "It criticized the measure through advertising."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What did public health groups think the soda tax would do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Alert people to the risk of sugar induced diseases."
+              },
+              {
+                "l": "B",
+                "t": "Help people to fix certain long-time health issues."
+              },
+              {
+                "l": "C",
+                "t": "Add to the fund for their research on diseases."
+              },
+              {
+                "l": "D",
+                "t": "Benefit low-income people across the country."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What do we learn about similar measures concerning the soda tax in some other cities?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are becoming rather sensitive issues."
+              },
+              {
+                "l": "B",
+                "t": "They are spreading panic in the soda industry."
+              },
+              {
+                "l": "C",
+                "t": "They are reducing the incidence of sugar-induced diseases."
+              },
+              {
+                "l": "D",
+                "t": "They are taking away a lot of profit from the soda industry."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Popping food into the microwave for a couple of minutes may seem utterly harmless, but Europe's stock of these quick-cooking ovens emits as much carbon as nearly 7 million cars, a new study has found. And the problem is growing. With costs falling and kitchen appliances becoming \"status\" items, owners are throwing away microwaves after an average of eight years. This is pushing sales of new microwaves which are expected to reach 135 million annually in the EU by the end of the decade. A study by the University of Manchester calculated the emissions of CO2—the main greenhouse gas responsible for climate change—at every stage of microwaves, from manufacture to waste disposal. \"It is electricity consumption by microwaves that has the biggest impact on the environment,\" say the authors. The authors also calculate that the emissions from using 19 microwaves over a year are the same as those from using a car. According to the same study, efforts to reduce consumption should focus on improving consumer awareness and behaviour. For example, consumers could use appliances in a more efficient way by adjusting the time of cooking to the type of food. However, David Reay, professor of carbon management, argues that, although microwaves use a great deal of energy, their emissions are minor compared to those from cars. In the UK alone, there are around 30 million cars. These cars emit more than all the microwaves in the EU. Backing this up, recent data show that passenger cars in the UK emitted 69 million tons of CO2 in 2015. This is 10 times the amount this new microwave oven study estimates for annual emissions for all the microwave ovens in the EU. Further, the energy used by microwaves is lower than any other form of cooking. Among common kitchen appliances used for cooking, microwaves are the most energy efficient, followed by a stove and finally a standard oven. Thus, rising microwave sales could be seen as a positive thing.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is the finding of the new study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Quick-cooking microwave ovens have become more popular."
+              },
+              {
+                "l": "B",
+                "t": "The frequent use of microwaves may do harm to our health."
+              },
+              {
+                "l": "C",
+                "t": "CO2 emissions constitute a major threat to the environment."
+              },
+              {
+                "l": "D",
+                "t": "The use of microwaves emits more CO2 than people think."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "Why are the sales of microwaves expected to rise?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are becoming more affordable."
+              },
+              {
+                "l": "B",
+                "t": "They have a shorter life cycle than other appliances."
+              },
+              {
+                "l": "C",
+                "t": "They are getting much easier to operate."
+              },
+              {
+                "l": "D",
+                "t": "They take less time to cook than other appliances."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What recommendation does the study by the University of Manchester make?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Cooking food of different varieties."
+              },
+              {
+                "l": "B",
+                "t": "Improving microwave users' habits."
+              },
+              {
+                "l": "C",
+                "t": "Eating less to cut energy consumption."
+              },
+              {
+                "l": "D",
+                "t": "Using microwave ovens less frequently."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What does Professor David Reay try to argue?",
+            "o": [
+              {
+                "l": "A",
+                "t": "There are far more emissions from cars than from microwaves."
+              },
+              {
+                "l": "B",
+                "t": "People should be persuaded into using passenger cars less often."
+              },
+              {
+                "l": "C",
+                "t": "The UK produces less CO2 than many other countries in the EU."
+              },
+              {
+                "l": "D",
+                "t": "More data are needed to show whether microwaves are harmful."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does Professor David Reay think of the use of microwaves?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will become less popular in the coming decades."
+              },
+              {
+                "l": "B",
+                "t": "It makes everyday cooking much more convenient."
+              },
+              {
+                "l": "C",
+                "t": "It plays a positive role in environmental protection."
+              },
+              {
+                "l": "D",
+                "t": "It consumes more power than conventional cooking."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国汉族人的全名由姓和名组成。中文姓名的特点是,姓总是在前,名跟在其后。千百年来,父姓一直世代相 传。然而,如今，孩子跟母亲姓并不罕见。一般来说名有一个或两个汉字，通常承载父母对孩子的愿望。从孩 子的名字可以推断出父母希望孩子成为什么样的人, 或者期望他们过什么样的生活。父母非常重视给孩子取 名，因为名字往往会伴随孩子一生。",
+    "reference": "The full name of a Han Chinese consists of a family name and a given name. In a Chinese name, the family name always comes before the given name. For thousands of years, the father's family name has been passed down from generation to generation. However, nowadays, it is not uncommon for children to take their mother's family name. Generally speaking, a given name consists of one or two Chinese characters and usually carries the parents' wishes for their child. From a child's given name, one can infer what kind of person the parents want their child to become, or what kind of life they expect their child to live. Parents attach great importance to naming their children, because a name often accompanies them throughout their lives."
+  }
+}

@@ -1,0 +1,1304 @@
+{
+  "id": "cet4-2019-6-2",
+  "level": "cet4",
+  "year": 2019,
+  "month": 6,
+  "set": 2,
+  "title": "2019年6月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a news report to your campus newspaper on a visit to a Hope elementary school organized by your Student Union. You should write at least 120 words but no more than 180 words.",
+    "sample": "On March 15, over thirty student volunteers from our Student Union visited Sunshine Hope Elementary School to bring books and warmth to the children there.The visit began at nine in the morning. Volunteers first donated more than five hundred storybooks and stationery, then helped teach an English class where the children eagerly recited new words. In the afternoon, they toured the campus, played games on the playground, and shared their own study stories. \"The big brothers and sisters make learning fun,\" said one excited pupil.The event was widely praised by both teachers and students. It not only offered the children books and companionship but also inspired our volunteers to value education and kindness. The Student Union plans to make such visits a regular tradition in the coming semesters."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Heavy floods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Safety concerns."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Bad economy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Workers' strikes."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is competitive with its numerous tourist destinations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It provides many job opportunities for French people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is the biggest concern of the French government."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It plays an important role in the nation's economy.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "France is facing potentially more than $1 billion in lost revenue this year due to huge declines in tourism. Safety concerns have been one of the biggest reasons why the country has lost over half a billion in revenue already in the first six months of 2016. The terror attacks in Paris last November were called Europe's worst in the past decade. Besides violence, workers' strikes and heavy floods are said to have also been why international tourists have stayed away. So far in the Paris region, there's been a 46% decline in Japanese visitors, 35% fewer Russians and 27% fewer Italians. American travelers seem the least affected. Their numbers have only dropped by roughly 5%. According to the French government, the country is the No. 1 tourist destination in the world, and tourism is extremely important to the French economy. The sector represents roughly 9% of its GDP. The head of Paris' tourism board said, \"It's time to realize that the tourism sector is going through an industrial disaster.\"",
+                "zh": "法国今年可能面临超过10亿美元的旅游收入损失，原因是游客数量大幅下降。安全担忧是该国在2016年前六个月已损失超过5亿美元收入的最大原因之一。去年11月巴黎发生的恐怖袭击被称为欧洲过去十年来最严重的恐袭。除了暴力事件，工人罢工和严重洪灾也被认为是国际游客减少的原因。到目前为止，巴黎地区的日本游客减少了46%，俄罗斯游客减少了35%，意大利游客减少了27%。美国游客似乎受影响最小，人数仅下降了约5%。根据法国政府的数据，法国是世界第一大旅游目的地，旅游业对法国经济极为重要。该行业约占其GDP的9%。巴黎旅游局负责人表示：'是时候认识到旅游业正在经历一场工业灾难。'"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To carry out a scientific survey."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To establish a new research station."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To rescue two sick American workers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To deliver urgent medical supplies."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The darkness and cold."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The heavy snow and fog."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The biting winds."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The ice all around.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A small plane with two sick US workers arrived safely in Chile late Wednesday after leaving Antarctica in a daring rescue mission from a remote South Pole research station. After making a stop for a few hours at a British station on the edge of Antarctica, the two workers were flown to the southernmost Chilean city of Punta Arenas. In a chaotic two days of flying, the rescue team flew 3,000 miles round-trip from the British station Rothera to pick up the workers at the US Amundsen-Scott station at the South Pole. \"The two patients aboard will be transported to a medical facility that can provide a level of care that is not available at Amundsen-Scott,\" says a spokesperson. Normally planes don't go to the polar post from February to October because of the dangers of flying in the pitch-dark and cold. \"Antarctica creates a hostile environment,\" says the operations director for the British Antarctic Survey. \"If you're not careful, it'll come round and bite you.\"",
+                "zh": "周三晚间，一架载有两名生病的美国工作人员的小型飞机在离开南极洲的一次大胆救援任务后安全抵达智利，该救援任务从一个偏远的南极研究站出发。在南极洲边缘的一个英国站点停留数小时后，这两名工作人员被送往智利最南端城市蓬塔阿雷纳斯。在两天混乱的飞行中，救援队从英国Rothera站往返飞行3000英里，前往南极点的美国Amundsen-Scott站接回这两名工作人员。一位发言人表示：\"机上的两名患者将被送往能够提供Amundsen-Scott站无法提供的医疗护理水平的医疗机构。\"通常情况下，由于在漆黑和寒冷环境中飞行的危险，飞机不会在2月至10月期间前往这个极地站点。英国南极调查局的运营主管表示：\"南极洲创造了一个充满敌意的环境。如果你不小心，它会反过来咬你一口。\""
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By tying it to a door handle."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By shaking it back and forth."
+                  },
+                  {
+                    "l": "C",
+                    "t": "With a remote control craft."
+                  },
+                  {
+                    "l": "D",
+                    "t": "With a full-sized helicopter."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has lots of fans on Facebook."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has rich experience in flying."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He often suffers from toothaches."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has learned to pull teeth from a video."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Spend more time together."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Tell them adventure stories."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Do something fun and creative."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Play with them in a safe place."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A pilot from Virginia removed his son's loose tooth using a helicopter. Rick Rahim, from Virginia, flies helicopters for a living, and when his seven-year-old son's tooth became loose, he did not waste time by tying it to a door handle. Instead, Mr. Rahim tied one end of a string around his son's tooth and the other end to his full-sized commercial helicopter. The father of four posted a video clip of his playful venture on Facebook, advising parents to do fun and creative stuff with their kids. The video shows him launching the helicopter into the air and flying just far enough to successfully remove the loose tooth. At the end of the video, Mr. Rahim assures watchers that the circumstances were safe, and that he has 13 years of helicopter flying experience behind him. \"You've got to do everything safe in life, and that's what I did today,\" he said. Mr. Rahim later said that although some parents have used remote control helicopters to pull teeth before, he might be the first to use a full-sized aircraft, as he can't find evidence that it has been done before.",
+                "zh": "弗吉尼亚州的一名飞行员用直升机拔掉了儿子的松动牙齿。来自弗吉尼亚州的Rick Rahim以驾驶直升机为生，当他七岁儿子的牙齿松动时，他没有浪费时间把牙齿系在门把手上。相反，Rahim先生将一根绳子的一端系在儿子的牙齿上，另一端系在他的全尺寸商用直升机上。这位四个孩子的父亲在Facebook上发布了一段他这次有趣尝试的视频片段，建议家长们和孩子做一些有趣而有创意的事情。视频显示他启动直升机升空，飞行的距离刚好足以成功拔掉松动的牙齿。在视频结尾，Rahim先生向观众保证当时的情况是安全的，他拥有13年的直升机飞行经验。他说：\"生活中做每件事都必须安全，这就是我今天所做的。\"Rahim先生后来表示，尽管之前有些家长使用过遥控直升机拔牙，但他可能是第一个使用全尺寸飞机的人，因为他找不到之前有人这样做过的证据。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To confirm an urgent appointment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To collect a package from the woman."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To ask the woman to sign a document."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To arrange the delivery of a package."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is doing shopping."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is visiting a friend."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is not at home."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is not feeling well."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He will be off duty the whole day."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He will be working somewhere else."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He will have to have his car repaired."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He will be too busy to spare any time."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Sign her name."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Confirm online."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Pay a small fee."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Show up in person.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Hi, Emma's speaking. Who's this?",
+                "zh": "W: 你好,我是Emma。请问你是哪位?"
+              },
+              {
+                "en": "M: Hi, Emma. I'm Paul from Hennes Delivery Service. Here is a package for you. Are you at home to collect it?",
+                "zh": "M: 你好,Emma。我是Hennes快递服务的Paul。这里有你的一个包裹。你在家能收一下吗?"
+              },
+              {
+                "en": "W: Oh, sorry, Paul. I'm out at the moment. Can you put it in my mailbox?",
+                "zh": "W: 哦,不好意思,Paul。我现在不在家。你能把它放在我的信箱里吗?"
+              },
+              {
+                "en": "M: I'm afraid I can't do that. Sorry. The package is too big and it needs a signature to confirm you have received it, so I would need to deliver it at a time when you are in.",
+                "zh": "M: 恐怕不行。抱歉。包裹太大了,而且需要签名确认你收到了,所以我得在你在家的时候送过去。"
+              },
+              {
+                "en": "W: Okay, well, I'm out all day today, but I should be in tomorrow morning before I go out for lunch. And then I'll be at home again later in the afternoon. Will either of those times be convenient for you?",
+                "zh": "W: 好的,嗯,我今天一整天都不在家,但明天上午我出去吃午饭之前应该在家。然后下午晚些时候我会再回家。这两个时间你方便吗?"
+              },
+              {
+                "en": "M: They're not, unfortunately, I'm sorry. I won't be in the area tomorrow as I have some other deliveries to make on the other side of town. I could come the day after if that suits you.",
+                "zh": "M: 不巧,都不方便。抱歉。我明天不会去那个区域,因为我要在城市另一边送其他快递。如果你方便的话,我可以后天来。"
+              },
+              {
+                "en": "W: Okay. Yes, that should be fine. I have a friend coming around in the afternoon, but I'll be at home. So the day after tomorrow will be great. Do I need to pay for the package?",
+                "zh": "W: 好的。行,那应该没问题。我有个朋友下午会过来,但我会在家。所以后天就很好。我需要付包裹的钱吗?"
+              },
+              {
+                "en": "M: No, you don't. It says here that you paid for it when you ordered it online.",
+                "zh": "M: 不用,不需要。这里显示你在网上订购的时候已经付过了。"
+              },
+              {
+                "en": "W: Oh, yes, I did. I got mixed up.",
+                "zh": "W: 哦,对,我付过了。我搞混了。"
+              },
+              {
+                "en": "M: So you just need to sign the form to say you've received it.",
+                "zh": "M: 所以你只需要在表格上签个字,证明你收到了。"
+              },
+              {
+                "en": "W: Okay, great. See you the day after tomorrow then.",
+                "zh": "W: 好的,太好了。那后天见。"
+              },
+              {
+                "en": "M: Yes, see you then.",
+                "zh": "M: 好,到时候见。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Vacation in Italy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Study abroad."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Throw a farewell party."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Go to a fashion show in Milan."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Quite sleepy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Very excited."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Rather depressed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Nearly exhausted."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has to attend a party."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has to meet a friend."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has to make a presentation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has to finish an assignment."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Say goodbye to the woman at the airport."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Meet the woman at the Black Cat Cafe."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Drive the woman to the airport."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Have lunch with the woman."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hi, Emily, I hear you are leaving for Italy soon. Do you plan to have a going-away party before you disappear? It'd be really nice for us to hang out together before you go.",
+                "zh": "M: 嗨,Emily,我听说你很快要去意大利了。你打算在走之前办个告别派对吗?在你离开之前我们一起聚聚真的会很不错。"
+              },
+              {
+                "en": "W: I'm not sure. I'm leaving in just two more days, and I'm going to miss all my friends here and especially this place. Why don't you come over? I'm feeling rather sad, actually. I'm currently sitting alone at a table outside the Black Cat Cafe, listening to the rain and watching people passing by.",
+                "zh": "W: 我不太确定。我还有两天就要走了,我会想念这里所有的朋友,尤其是这个地方。你要不要过来?其实我现在感觉挺难过的。我现在正一个人坐在Black Cat Cafe外面的桌子旁,听着雨声,看着路过的行人。"
+              },
+              {
+                "en": "M: I'm sorry. I can't just now. I need to get this assignment finished by Monday, and I'm way behind. Anyhow, cheer up. You're not leaving for good, and you'll absolutely love Italy.",
+                "zh": "M: 不好意思,我现在去不了。我得在周一之前完成这个作业,而且我进度落后很多了。不管怎样,振作起来。你又不是一去不回了,而且你一定会爱上意大利的。"
+              },
+              {
+                "en": "W: Yeah, you're right. But I just feel like I'm not quite ready to go. And studying in a foreign country seems a bit overwhelming.",
+                "zh": "W: 是啊,你说得对。但我就是觉得自己还没完全准备好要走。而且在国外学习感觉有点让人不知所措。"
+              },
+              {
+                "en": "M: Just think of your life in Milan. In the mornings, you can go down to a small local cafe, soaking up the sun's rays and drinking coffee. I envy you. You can buy lots of gorgeous Italian clothes.",
+                "zh": "M: 想想你在米兰的生活吧。早上你可以去当地的小咖啡馆,沐浴着阳光喝咖啡。我真羡慕你。你可以买很多漂亮的意大利衣服。"
+              },
+              {
+                "en": "W: That does sound nice. And of course I can keep in touch with everyone through Facebook. Maybe you can all come visit me.",
+                "zh": "W: 听起来确实不错。当然我可以通过Facebook和大家保持联系。也许你们都可以来看我。"
+              },
+              {
+                "en": "M: Of course we will. When is your flight?",
+                "zh": "M: 我们当然会去的。你的航班是什么时候?"
+              },
+              {
+                "en": "W: On Saturday, after lunch, at 1:45.",
+                "zh": "W: 星期六,午饭后,1点45分。"
+              },
+              {
+                "en": "M: Okay, I'll try and come to the airport on Saturday to see you off, I'll give you a call that morning no matter what.",
+                "zh": "M: 好的,我会尽量星期六去机场给你送行,不管怎样那天早上我都会给你打电话的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has kept growing over the centuries."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its top is hidden in clouds of volcanic smoke."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its height changes with each volcanic eruption."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has a recorded history of 1500 years."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are now a tourist destination."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They attract a lot of migrating birds."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They provide shelter for the farmers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They make good fields for farming."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They nest on the volcano's slopes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They feed on certain small mammals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They compete with each other for food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They match large mammals in strength.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Mount Etna is one of the most active volcanoes on Earth. The mountain has been in a state of near continuous eruption for half a million years. Exploring the Etna geographical area reveals a history written in fire. Before the eruptions, it was covered by forests of pine trees. Located in southern Italy, Etna is the highest active volcano in Europe. However, its height often changes when volcanic material accumulates during eruptions and subsequently collapses. Few volcanoes in the world have an eruption history so thoroughly documented by historical records — Etna's eruption history dates back as far as 1500 BC. Some 200 eruptions have been recorded down through the centuries, but compared with other volcanoes, most of its eruptions have so far been fairly light in terms of death and destruction. Only about 100 deaths have been attributed to the volcano. The mountain hasn't been entirely harmless, however; in 1928 it destroyed the town of Mascali. Over the centuries, Etna's lower slopes have been shaped by human hands to take advantage of rich soils for growing grapes, apples and nuts. Local people have also carved out over 200 caves in the soft rock and used them for everything from sacred burial places to food storage. Large mammals once wandered the volcano's slopes, but today foxes, wild cats, rabbits and mice are more common. Some of those small mammals help to sustain such big birds as golden eagles.",
+                "zh": "Etna火山是地球上最活跃的火山之一。这座山在近五十万年的时间里几乎处于持续喷发状态。探索Etna地理区域揭示了一段用火书写的历史。在火山喷发之前,这里被松树林覆盖。Etna位于意大利南部,是欧洲最高的活火山。然而,当火山物质在喷发期间堆积并随后坍塌时,它的高度经常发生变化。世界上很少有火山的喷发历史像Etna这样被历史记录如此详尽地记载——Etna的喷发历史可以追溯到公元前1500年。几个世纪以来已经记录了大约200次喷发,但与其他火山相比,就死亡和破坏而言,它的大多数喷发迄今为止都相当轻微。只有大约100人死亡归因于这座火山。然而,这座山并非完全无害;1928年它摧毁了Mascali镇。几个世纪以来,Etna的低坡已被人类之手塑造,以利用肥沃的土壤种植葡萄、苹果和坚果。当地人还在松软的岩石中开凿了200多个洞穴,并将它们用于从神圣的墓地到食物储存等各种用途。大型哺乳动物曾经在火山的山坡上游荡,但今天狐狸、野猫、兔子和老鼠更为常见。其中一些小型哺乳动物有助于维持金雕等大型鸟类的生存。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is self-employed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is a career advisor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He studies talent."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He owns a magazine."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Doing what they like best."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Loving the work they do."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Making no excuses for failures."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Following their natural instinct."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It does not come to anything without hard work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It may prove to be quite different from hard work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a natural gift only some special people can possess."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It does not come to you until something special happens.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "My name is Brendan Leonard and I'm an author, magazine writer, filmmaker and public speaker. I'm self-employed, which means I work for myself and I do what I love. We have a popular saying in America which goes, \"Do what you love and you'll never work a day in your life.\" But I'm here to tell you that instead of focusing on doing what we love, I think we should focus on loving what we do. In my line of work, you hear a lot about talent, which is an idea we've mostly invented to give ourselves an excuse to be lazy. Here's why: If you see someone doing something really well, you would say it's because they're talented. You think they're somehow special. You discount the tremendous amount of work they've done to get to where they are. Research has shown that talent is nothing without hard work. I choose to believe in hard work, but not so much in talent. There are no special people, just people who put in enough hard work until something special happens. I can promise you one thing: whatever you choose to do for a career, if you work hard at it, eventually, special things will happen. They may not happen as quickly as you'd like them to, and they may turn out to be completely different from the special things you imagined at the beginning, but they will happen.",
+                "zh": "我叫Brendan Leonard，是一名作家、杂志撰稿人、电影制作人和公众演讲者。我自主创业，这意味着我为自己工作，做我热爱的事情。在美国我们有句流行的谚语：\"做你热爱的事，你这辈子一天都不会觉得是在工作。\"但我在这里要告诉你们的是，与其专注于做我们热爱的事，我认为我们应该专注于热爱我们所做的事。在我这个行业，你会听到很多关于天赋的说法，而天赋这个概念大多是我们发明出来给自己找偷懒借口的。原因如下：如果你看到某人把某件事做得非常好，你会说那是因为他们有天赋。你认为他们在某种程度上很特别。你忽视了他们为达到现在的位置所付出的巨大努力。研究表明，没有努力工作，天赋什么都不是。我选择相信努力工作，而不太相信天赋。世上没有特别的人，只有付出足够努力工作直到特别的事情发生的人。我可以向你保证一件事：无论你选择做什么职业，如果你努力工作，最终特别的事情会发生。它们可能不会像你希望的那样快发生，它们可能会变成与你最初想象的完全不同的特别事情，但它们会发生。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a bit difficult to learn."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was popular in New Zealand."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a traditional type of ballet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It evolved in the mid-1970s."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She wanted her to be a ballet dancer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She used to be a ballet dancer herself."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She hated to see her idling about."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She was too busy to look after her."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "After she started teaching English."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Before she left for New Zealand."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When she moved to New York city."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Once she began to live on her own."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has renewed her passion for life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has made her happy and energetic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has helped her make new friends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has enabled her to start a new career."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A question we often ask others and are also frequently asked by others is \"What do you normally do after school or work?\" Some commonplace answers are, \"Well, I go to the gym.\" \"Um, I just go home and watch TV.\" \"I meet my friends for dinner.\" or \"I just go to bed because it's so late and I'm tired.\" Unlike any of these typical responses, I'm proud to say that I love to dance salsa after a long and tiring day of work. Salsa is a kind of dancing that evolved in the mid-1970s in New York. My dancing life began not because I wanted to do it, but because my mother was sick and tired of seeing me running around after school doing nothing. So she enrolled me into a ballet course when I was six. I fell in love with it instantly and continued with ballet dancing for about 10 years. Then I left my native country of New Zealand to start my career as an English teacher, which eventually brought my dancing life to a halt. It wasn't until I rediscovered salsa in a lovely studio while working in Asia that I renewed my passion for dancing. Since then I have been trying to attend dancing classes twice a week after work. It's a great way for me to relieve stress and pressure, and dance my way towards feeling energetic and happy again.",
+                "zh": "我们经常问别人、也经常被别人问的一个问题是'放学或下班后你通常做什么？'一些常见的回答是：'嗯，我去健身房。''嗯，我就回家看电视。''我和朋友一起吃晚饭。'或者'我就去睡觉，因为太晚了，我很累。'与这些典型回答不同，我自豪地说，在漫长疲惫的一天工作后，我喜欢跳萨尔萨舞。萨尔萨舞是一种在20世纪70年代中期在纽约演变而来的舞蹈。我的舞蹈生涯开始并非因为我想跳舞，而是因为我母亲厌倦了看到我放学后无所事事地到处乱跑。所以她在我六岁时给我报了芭蕾舞课程。我立刻爱上了它，并继续跳了大约10年芭蕾舞。然后我离开了我的祖国新西兰，开始了我的英语教师职业生涯，这最终使我的舞蹈生涯停止了。直到我在亚洲工作时在一个可爱的舞蹈室重新发现萨尔萨舞，我才重新燃起了对舞蹈的热情。从那时起，我一直努力在下班后每周参加两次舞蹈课。对我来说，这是缓解压力的好方法，通过跳舞让我重新感到精力充沛和快乐。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Just because they can't sing opera or ride a bicycle doesn't mean that animals don't have culture. There's no better example of this than killer whales. As one of the most"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "predators(食肉动物), killer whales may not fit the"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "of a cultured creature. However, these beasts of the sea do display a vast range of highly"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "behaviors that appear to be driving their genetic development. The word \"culture\" comes from the Latin \"colere,\" which"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "means \"to cultivate.\" In other words, it refers to anything that is"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "or learnt, rather than instinctive or natural. Among human populations, culture not only affects the way we live, but also writes itself into our genes, affecting who we are. For instance, having spent many generations hunting the fat marine mammals of the Arctic, the Eskimos of Greenland have developed certain genetic"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "that help them digest and utilize this fat-rich diet, thereby allowing them to"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "in their cold climate. Like humans, killer whales have colonized a range of different"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "across the globe, occupying every ocean basin on the planet, with an empire that"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "from pole to pole. As such, different populations of killer whales have had to learn different hunting techniques in order to gain the upper hand over their local prey(猎物). This, in turn, has a major effect on their diet, leading scientists to"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "that the ability to learn population-specific hunting methods could be driving the animals' genetic development."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "acquired"
+        },
+        {
+          "l": "B",
+          "w": "adaptations"
+        },
+        {
+          "l": "C",
+          "w": "brutal"
+        },
+        {
+          "l": "D",
+          "w": "deliberately"
+        },
+        {
+          "l": "E",
+          "w": "expressed"
+        },
+        {
+          "l": "F",
+          "w": "extends"
+        },
+        {
+          "l": "G",
+          "w": "habitats"
+        },
+        {
+          "l": "H",
+          "w": "humble"
+        },
+        {
+          "l": "I",
+          "w": "image"
+        },
+        {
+          "l": "J",
+          "w": "literally"
+        },
+        {
+          "l": "K",
+          "w": "refined"
+        },
+        {
+          "l": "L",
+          "w": "revolves"
+        },
+        {
+          "l": "M",
+          "w": "speculate"
+        },
+        {
+          "l": "N",
+          "w": "structure"
+        },
+        {
+          "l": "O",
+          "w": "thrive"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "C"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "K"
+        },
+        {
+          "n": 29,
+          "a": "J"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "B"
+        },
+        {
+          "n": 32,
+          "a": "O"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "F"
+        },
+        {
+          "n": 35,
+          "a": "M"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Living with parents edges out other living arrangements for 18- to 34-year-olds",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Broad demographic(人口的) shifts in marital status, educational attainment and employment have transformed the way young adults in the U.S. are living, and a new Pew Research Center analysis highlights the implications of these changes for the most basic element of their lives—where they call home. In 2014, for the first time in more than 130 years, adults aged 18 to 34 were slightly more likely to be living in their parents' home than they were to be living with a spouse or partner in their own household."
+        },
+        {
+          "l": "B",
+          "t": "This turn of events is fueled primarily by the dramatic drop in the share of young Americans who are choosing to settle down romantically before age 35. Dating back to 1880, the most common living arrangement among young adults has been living with a romantic partner, whether a spouse or a significant other. This type of arrangement peaked around 1960, when 62% of the nation's 18- to 34-year-olds were living with a spouse or partner in their own household, and only one-in-five were living with their parents."
+        },
+        {
+          "l": "C",
+          "t": "By 2014, 31.6% of young adults were living with a spouse or partner in their own household, below the share living in the home of their parent(s) (32.1%). Some 14% of young adults lived alone, were a single parent or lived with one or more roommates. The remaining 22% lived in the home of another family member (such as a grandparent, in-law or sibling(兄弟姐妹)), a non-relative, or in group quarters like college dormitories."
+        },
+        {
+          "l": "D",
+          "t": "It's worth noting that the overall share of young adults living with their parents was not at a record high in 2014. This arrangement peaked around 1940, when about 35% of the nation's 18- to 34-year-olds lived with mom and/or dad (compared with 32% in 2014). What has changed, instead, is the relative share adopting different ways of living in early adulthood, with the decline of romantic coupling pushing living at home to the top of a much less uniform list of living arrangements."
+        },
+        {
+          "l": "E",
+          "t": "Among young adults, living arrangements differ significantly by gender. For men aged 18 to 34, living at home with mom and/or dad has been the dominant living arrangement since 2009. In 2014, 28% of young men were living with a spouse or partner in their own home, while 35% were living in the home of their parent(s). Young women, however, are still more likely to be living with a spouse or romantic partner (35%) than they are to be living with their parent(s) (29%)."
+        },
+        {
+          "l": "F",
+          "t": "In 2014, more young women (16%) than young men (13%) were heading up a household without a spouse or partner. This is mainly because women are more likely than men to be single parents living with their children. For their part, young men (25%) are more likely than young women (19%) to be living in the home of another family member, a non-relative or in some type of group quarters."
+        },
+        {
+          "l": "G",
+          "t": "A variety of factors contribute to the long-run increase in the share of young adults living with their parents. The first is the postponement of, if not retreat from, marriage. The average age of first marriage has risen steadily for decades. In addition, a growing share of young adults may be avoiding marriage altogether. A previous Pew Research Center analysis projected that as many as one-in-four of today's young adults may never marry. While cohabitation(同居) has been on the rise, the overall share of young adults either married or living with an unmarried partner has substantially fallen since 1990."
+        },
+        {
+          "l": "H",
+          "t": "In addition, trends in both employment status and wages have likely contributed to the growing share of young adults who are living in the home of their parent(s), and this is especially true of young men. Employed young men are much less likely to live at home than young men without a job, and employment among young men has fallen significantly in recent decades. The share of young men with jobs peaked around 1960 at 84%. In 2014, only 71% of 18- to 34-year-old men were employed. Similarly with earnings, young men's wages (after adjusting for inflation) have been on a downward trajectory(轨迹) since 1970 and fell significantly from 2000 to 2010. As wages have fallen, the share of young men living in the home of their parent(s) has risen."
+        },
+        {
+          "l": "I",
+          "t": "Economic factors seem to explain less of why young adult women are increasingly likely to live at home. Generally, young women have had growing success in the paid labor market since 1960 and hence might increasingly be expected to be able to afford to live independently of their parents. For women, delayed marriage—which is related, in part, to labor market outcomes for men—may explain more of the increase in their living in the family home."
+        },
+        {
+          "l": "J",
+          "t": "The Great Recession (and modest recovery) has also been associated with an increase in young adults living at home. Initially in the wake of the recession, college enrollments expanded, boosting the ranks of young adults living at home. And given the weak job opportunities facing young adults, living at home was part of the private safety net helping young adults to weather the economic storm."
+        },
+        {
+          "l": "K",
+          "t": "Beyond gender, young adults living arrangements differ considerably by education—which is tied to financial means. For young adults without a bachelor's degree, as of 2008 living at home with their parents was more prevalent than living with a romantic partner. By 2014, 36% of 18- to 34-year-olds who had not completed a bachelor's degree were living with their parent(s) while 27% were living with a spouse or partner. Among college graduates, in 2014 46% were married or living with a partner, and only 19% were living with their parent(s). Young adults with a college degree have fared much better in the labor market than their less- educated counterparts, which has in turn made it easier to establish their own households."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Unemployed young men are more likely to live with their parents than the employed.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "In 2014, the percentage of men aged 18 to 34 living with their parents was greater than that of their female counterparts.",
+          "a": "E"
+        },
+        {
+          "n": 38,
+          "s": "The percentage of young people who are married or live with a partner has greatly decreased in the past three decades or so.",
+          "a": "G"
+        },
+        {
+          "n": 39,
+          "s": "Around the mid-20th century, only 20 percent of 18- to 34-year-olds lived in their parents' home.",
+          "a": "B"
+        },
+        {
+          "n": 40,
+          "s": "Young adults with a college degree found it easier to live independently of their parents.",
+          "a": "K"
+        },
+        {
+          "n": 41,
+          "s": "Young men are less likely to end up as single parents than young women.",
+          "a": "F"
+        },
+        {
+          "n": 42,
+          "s": "More young adult women live with their parents than before due to delayed marriage.",
+          "a": "I"
+        },
+        {
+          "n": 43,
+          "s": "The percentage of young men who live with their parents has grown due to their decreased pay in recent decades.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "The rise in the number of college students made more young adults live with their parents.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "One reason for young adults to live with their parents is that they get married late or stay single all their lives.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "According to the majority of Americans, women are every bit as capable of being good political leaders as men. The same can be said of their ability to dominate the corporate boardroom. And according to a new Pew Research Center survey on women and leadership, most Americans find women indistinguishable from men on key leadership traits such as intelligence and capacity for innovation, with many saying they're stronger than men in terms of being passionate and organized leaders. So why, then, are women in short supply at the top of government and business in the United States? According to the public, at least, it's not that they lack toughness, management talent or proper skill sets. It's also not all about work-life balance. Although economic research and previous survey findings have shown that career interruptions related to motherhood may make it harder for women to advance in their careers and compete for top executive jobs, relatively few adults in the recent survey point to this as a key barrier for women seeking leadership roles. Only about one-in-five say women's family responsibilities are a major reason why there aren't more females in top leadership positions in business and politics. Instead, topping the list of reasons, about four-in-ten Americans point to a double standard for women seeking to climb to the highest levels of either politics or business, where they have to do more than their male counterparts to prove themselves. Similar shares say the electorate(选民) and corporate America are just not ready to put more women in top leadership positions. As a result, the public is divided about whether the imbalance in corporate America will change in the foreseeable future, even though women have made major advances in the workplace. While 53% believe men will continue to hold more top executive positions in business in the future, 44% say it's only a matter of time before as many women are in top executive positions as men. Americans are less doubtful when it comes to politics: 73% expect to see a female president in their lifetime.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do most Americans think of women leaders according to a new Pew Research Center survey?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have to do more to distinguish themselves."
+              },
+              {
+                "l": "B",
+                "t": "They have to strive harder to win their positions."
+              },
+              {
+                "l": "C",
+                "t": "They are stronger than men in terms of willpower."
+              },
+              {
+                "l": "D",
+                "t": "They are just as intelligent and innovative as men."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What do we learn from previous survey findings about women seeking leadership roles?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have unconquerable difficulties on their way to success."
+              },
+              {
+                "l": "B",
+                "t": "They are lacking in confidence when competing with men."
+              },
+              {
+                "l": "C",
+                "t": "Their failures may have something to do with family duties."
+              },
+              {
+                "l": "D",
+                "t": "Relatively few are hindered in their career advancement."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What is the primary factor keeping women from taking top leadership positions according to the recent\n survey?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Personality traits."
+              },
+              {
+                "l": "B",
+                "t": "Family responsibilities."
+              },
+              {
+                "l": "C",
+                "t": "Gender bias."
+              },
+              {
+                "l": "D",
+                "t": "Lack of vacancies."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What does the passage say about corporate America in the near future?",
+            "o": [
+              {
+                "l": "A",
+                "t": "More and more women will sit in the boardroom."
+              },
+              {
+                "l": "B",
+                "t": "Gender imbalance in leadership is likely to change."
+              },
+              {
+                "l": "C",
+                "t": "The public is undecided about whether women will make good leaders."
+              },
+              {
+                "l": "D",
+                "t": "People have opposing opinions as to whether it will have more women leaders."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What do most Americans expect to see soon on America's political stage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A woman in the highest position of government."
+              },
+              {
+                "l": "B",
+                "t": "More and more women actively engaged in politics."
+              },
+              {
+                "l": "C",
+                "t": "A majority of women voting for a female president."
+              },
+              {
+                "l": "D",
+                "t": "As many women in top government positions as men."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "People have grown taller over the last century, with South Korean women shooting up by more than 20cm on average, and Iranian men gaining 16.5cm. A global study looked at the average height of 18-year-olds in 200 countries between 1914 and 2014. The results reveal that while Swedes were the tallest people in the world in 1914, Dutch men have risen from 12th place to claim top spot with an average height of 182.5cm. Latvian women, meanwhile, rose from 28th place in 1914 to become the tallest in the world a century later, with an average height of 169.8cm. James Bentham, a co-author of the research from Imperial College, London, says the global trend is likely to be due primarily to improvements in nutrition and healthcare. \"An individual's genetics has a big influence on their height, but once you average over whole populations, genetics plays a less key role,\" he added. A little extra height brings a number of advantages, says Elio Riboli of Imperial College. \"Being taller is associated with longer life expectancy,\" he said. \"This is largely due to a lower risk of dying of cardiovascular(心血管的) disease among taller people.\" But while height has increased around the world, the trend in many countries of north and sub-Saharan Africa causes concern, says Riboli. While height increased in Uganda and Niger during the early 20th century, the trend has reversed in recent years, with height decreasing among 18-year-olds. \"One reason for these decreases in height is the economic situation in the 1980s,\" said Alexander Moradi of the University of Sussex. The nutritional and health crises that followed the policy of structural adjustment, he says, led to many children and teenagers failing to reach their full potential in terms of height. Bentham believes the global trend of increasing height has important implications. \"How tall we are now is strongly influenced by the environment we grew up in,\" he said. \"If we give children the best possible start in life now, they will be healthier and more productive for decades to come.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the global study tell us about people's height in the last hundred years?",
+            "o": [
+              {
+                "l": "A",
+                "t": "There is a remarkable difference across continents."
+              },
+              {
+                "l": "B",
+                "t": "There has been a marked increase in most countries."
+              },
+              {
+                "l": "C",
+                "t": "The increase in people's height has been quickening."
+              },
+              {
+                "l": "D",
+                "t": "The increase in women's height is bigger than in men's."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What does James Bentham say about genetics in the increase of people's height?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It counts less than generally thought."
+              },
+              {
+                "l": "B",
+                "t": "It outweighs nutrition and healthcare."
+              },
+              {
+                "l": "C",
+                "t": "It impacts more on an individual than on a population."
+              },
+              {
+                "l": "D",
+                "t": "It plays a more significant role in females than in males."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What does Elio Riboli say about taller people?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They tend to live longer."
+              },
+              {
+                "l": "B",
+                "t": "They enjoy an easier life."
+              },
+              {
+                "l": "C",
+                "t": "They generally risk fewer fatal diseases."
+              },
+              {
+                "l": "D",
+                "t": "They have greater expectations in life."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What do we learn about 18-year-olds in Uganda and Niger?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They grow up slower than their peers in other countries."
+              },
+              {
+                "l": "B",
+                "t": "They are actually shorter than their earlier generations."
+              },
+              {
+                "l": "C",
+                "t": "They find it hard to bring their potential into full play."
+              },
+              {
+                "l": "D",
+                "t": "They have experienced many changes of government."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What does James Bentham suggest we do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Watch closely the global trend in children's development."
+              },
+              {
+                "l": "B",
+                "t": "Make sure that our children grow up to their full height."
+              },
+              {
+                "l": "C",
+                "t": "Try every means possible to improve our environment."
+              },
+              {
+                "l": "D",
+                "t": "Ensure our children grow up in an ideal environment."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "舞狮作为中国传统民间表演已有2000多年历史。在狮子舞中，两位表演者同披一件狮子服，一个舞动头 部，另一个舞动身体和尾巴。他们熟练配合，模仿狮子的各种动作。狮子是兽中之王，象征幸福和好运，所以 人们通常在春节和其他节日期间表演狮子舞。狮子舞也可能出现在其他重要场合，如商店开业和结婚典礼，往 往吸引许多人观赏。",
+    "reference": "The lion dance, as a traditional Chinese folk performance, has a history of more than 2,000 years. In the lion dance, two performers share one lion costume, with one moving the head and the other moving the body and the tail. They cooperate skillfully and imitate the various movements of a lion. The lion is the king of beasts, symbolizing happiness and good luck, so people usually perform the lion dance during the Spring Festival and other festivals. The lion dance may also appear on other important occasions, such as store openings and wedding ceremonies, often attracting many people to watch."
+  }
+}

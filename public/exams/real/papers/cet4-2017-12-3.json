@@ -1,0 +1,1321 @@
+{
+  "id": "cet4-2017-12-3",
+  "level": "cet4",
+  "year": 2017,
+  "month": 12,
+  "set": 3,
+  "title": "2017年12月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on how to best handle the relationship between doctors and patients. You should write at least 120 words but no more than 180 words.",
+    "sample": "A sound relationship between doctors and patients is the cornerstone of effective medical care. In recent years, however, conflicts between the two sides have grown increasingly common. In my view, the best way to handle this relationship lies in genuine communication and mutual understanding rather than mutual blame.To begin with, doctors should communicate patiently. When a physician explains a diagnosis in plain words and listens to a patient's worries, unnecessary suspicion melts away. Moreover, patients ought to place reasonable trust in medical staff and respect their professional judgment. If both sides put themselves in the other's shoes, tension can be greatly eased. A sound legal framework that protects both parties is equally indispensable.In conclusion, a healthy doctor-patient relationship cannot be built overnight, yet through sincere communication, mutual respect and legal protection, we can surely make it warmer and more trusting."
+  },
+  "listening": {
+    "audio": "cet4-2017-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Her grandfather."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her grandmother."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Her friend Erika."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her little brother."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By taking pictures for passers-by."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By selling lemonade and pictures."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By working part time at a hospital."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By asking for help on social media.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A 9-year-old girl in New Mexico has raised more than $500 for her little brother who needs heart surgery in Houston, Texas this July. Addison Witulski's grandmother, Kim Allred, said Addison probably overheard a conversation between family members talking about the funds needed to get her little brother to treatment. \"I guess she overheard her grandfather and me talking about how we're worried about how we're going to get to Houston, for my grandson's heart surgery,\" said Allred. \"She decided to go outside and have a lemonade stand and make some drawings and pictures and sell them.\" That's when Addison and her friends Erika and Emily Borden decided to sell lemonade for 50 cents a cup and sell pictures for 25 cents each. Before Allred knew it, New Mexico State Police Officers were among the many stopping by helping them reach a total of $568. The family turned to social media expressing their gratitude saying, \"From the bottom of our hearts, we would like to deeply thank each and every person that stopped by!\"",
+                "zh": "新墨西哥州一名9岁女孩为需要在德克萨斯州休斯顿接受心脏手术的弟弟筹集了500多美元，手术定于今年7月进行。Addison Witulski的祖母Kim Allred说，Addison可能无意中听到了家人之间关于送弟弟去治疗所需资金的谈话。Allred说：\"我想她无意中听到了她祖父和我谈论我们如何担心怎样去休斯顿为我孙子做心脏手术。她决定到外面摆一个柠檬水摊，画一些画并把它们卖掉。\"就在那时，Addison和她的朋友Erika和Emily Borden决定以每杯50美分的价格出售柠檬水，以每张25美分的价格出售画作。Allred还没反应过来，新墨西哥州警察就在众多停下来帮助他们的人当中，帮助他们筹集到了总共568美元。这家人在社交媒体上表达了他们的感激之情，说：\"我们从心底深深感谢每一位停下来的人！\""
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Testing the efficiency of the new solar panel."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Providing clean energy to five million people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Generating electric power for passing vehicles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Finding cheaper ways of highway construction."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are made from cheap materials."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are only about half an inch thick."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can be laid right on top of existing highways."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They can stand the wear and tear of natural elements.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Last week, France announced that the country will pave 621 miles of road with solar panels over the next five years, with the goal of providing cheap, renewable energy to five million people. Called \"the Ward Way,\" the roads will be built through joint efforts with the French road building company Colas and the National Institute of Solar Energy. The company spent the last five years developing solar panels that are only about a quarter of an inch thick and are strong enough to stand up to heavy highway traffic without breaking or making the roads more slippery. The panels are also designed so that they can be installed directly on top of the existing roadways, making them relatively cheap and easy to install. France is the first country to kick around the idea of paving its roads with solar panels. In November 2015, the Netherlands completed a 229-foot long bike path paved with solar panels as a test for future projects. However, this is the first time a panel has been designed to be laid directly on top of existing roads and the first project to install the panels on public highways.",
+                "zh": "上周,法国宣布该国将在未来五年内用太阳能电池板铺设621英里的道路,目标是为500万人提供廉价的可再生能源。这些道路被称为\"Watt Way\",将由法国筑路公司Colas和国家太阳能研究所共同建设。该公司在过去五年里开发出了厚度仅约四分之一英寸的太阳能电池板,这些电池板足够坚固,能够承受繁忙的高速公路交通而不会破裂,也不会使道路变得更加湿滑。这些电池板的设计使其可以直接安装在现有路面之上,因此相对便宜且易于安装。法国是第一个提出用太阳能电池板铺设道路这一想法的国家。2015年11月,荷兰建成了一条229英尺长的太阳能电池板自行车道,作为未来项目的测试。然而,这是首次设计出可直接铺设在现有道路上的电池板,也是首个在公共高速公路上安装电池板的项目。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The lack of clues about the species."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inadequate funding for research."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Endless fighting in the region."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The hazards from the desert."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To observe the wildlife in the two national parks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To study the habitat of lions in Sudan and Ethiopia."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To identify the reasons for the lions' disappearance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To find evidence of the existence of the \"lost lions\"."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Lions' tracks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Lions walking."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some camping facilities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Traps set by local hunters."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Lions have disappeared from much of Africa, but for the past few years scientists have wondered if the big cats were hanging on in remote parts of Sudan and Ethiopia. Continuous fighting in the region has made surveys difficult. But scientists released a report Monday documenting with hard evidence the discovery of \"lost lions.\" A team with Oxford University's Wildlife Conservation Research Unit, supported by a charity organization, spent two nights in November camping in a national park in northwest Ethiopia on the Ethiopia-Sudan border. The researchers set out six camera traps, capturing images of lions, and the identified lion tracks. The scientists concluded that lions are also likely to live in a neighboring national park across the border in Sudan. The International Union for Conservation of Nature had previously considered the area a \"possible range\" for the species, and local people had reported seeing lions in the area, but no one presented convincing evidence.",
+                "zh": "狮子已经从非洲大部分地区消失，但在过去几年里，科学家们一直想知道这种大型猫科动物是否还在苏丹和埃塞俄比亚的偏远地区生存。该地区持续的战斗使调查工作变得困难。但科学家们周一发布了一份报告，用确凿证据记录了\"失踪狮子\"的发现。牛津大学野生动物保护研究部门的一个团队在一家慈善组织的支持下，于11月在埃塞俄比亚西北部埃塞俄比亚-苏丹边境的一个国家公园露营了两晚。研究人员设置了六台相机陷阱，捕捉到了狮子的图像，并识别出了狮子的足迹。科学家们得出结论，狮子也可能生活在苏丹境内边境另一边的邻近国家公园中。国际自然保护联盟此前曾认为该地区是该物种的\"可能分布区\"，当地人也报告说在该地区看到过狮子，但没有人提出令人信服的证据。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A special gift from the man."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her wedding anniversary."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A call from her dad."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her 'lucky birthday'."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Threw her a surprise party."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Took her on a trip overseas."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Bought her a gold necklace."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Gave her a big model plane."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "What her husband and the man are up to."
+                  },
+                  {
+                    "l": "B",
+                    "t": "What has been troubling her husband."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The trip her husband has planned."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The gift her husband has bought."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He wants to find out about the couple's holiday plan."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is eager to learn how the couple's holiday turns out."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He will tell the woman the secret if her husband agrees."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He will be glad to be a guide for the couple's holiday trip.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I bet you're looking forward to the end of this month, aren't you?",
+                "zh": "M: 我敢说你很期待这个月底吧，是不是？"
+              },
+              {
+                "en": "W: Yes, I am. How did you know?",
+                "zh": "W: 是的，我很期待。你怎么知道的？"
+              },
+              {
+                "en": "M: David told me you had a special birthday coming up.",
+                "zh": "M: David告诉我你有个特别的生日要到了。"
+              },
+              {
+                "en": "W: Oh, yes. That's right. This year would be my golden birthday.",
+                "zh": "W: 哦，是的。没错。今年是我的黄金生日。"
+              },
+              {
+                "en": "M: What does that mean? I've never heard of a golden birthday.",
+                "zh": "M: 那是什么意思？我从来没听说过黄金生日。"
+              },
+              {
+                "en": "W: I've actually just learned of this concept myself. Fortunately, just in time to celebrate. A golden or lucky birthday is when one turns the age of their birth date. So, for example, my sister's birthday is December 9th and her golden birthday would have been the year she turns 9 years old. Come to think of it, my parents did throw her a surprise party that year.",
+                "zh": "W: 其实我自己也是刚知道这个概念。幸好及时知道了可以庆祝。黄金生日或者幸运生日是指一个人过的年龄正好和他出生日期的日数相同。比如说，我妹妹的生日是12月9号，她的黄金生日就是她9岁那年。现在想起来，我父母那年确实给她办了个惊喜派对。"
+              },
+              {
+                "en": "M: Interesting. Too bad I missed mine. My golden birthday would've been four years ago. I assume you've got big plans then.",
+                "zh": "M: 有意思。可惜我错过了我的。我的黄金生日应该是四年前。我猜你肯定有大计划了。"
+              },
+              {
+                "en": "W: Actually yes. My husband is planning a surprise holiday for the two of us next week. I have no idea what he's gotten in mind, but I'm excited to find out. Has he mentioned anything to you?",
+                "zh": "W: 确实是的。我丈夫正在计划下周给我们俩安排一个惊喜假期。我完全不知道他想的是什么，但我很兴奋想知道。他有跟你提过什么吗？"
+              },
+              {
+                "en": "M: He might have.",
+                "zh": "M: 他可能提过。"
+              },
+              {
+                "en": "W: Anything you'd like to share? I'm dying to know what kind of trip he has planned where we're going.",
+                "zh": "W: 有什么可以分享的吗？我特别想知道他计划的是什么样的旅行，我们要去哪儿。"
+              },
+              {
+                "en": "M: Yeah, nothing at all.",
+                "zh": "M: 完全没有。"
+              },
+              {
+                "en": "W: Not a clue. Hard to imagine, isn't it! Though I must say, I think it has been even more fun keeping the secret for me the past few weeks.",
+                "zh": "W: 一点线索都没有。很难想象吧！不过我得说，我觉得过去几周替我保守这个秘密对他来说更有意思。"
+              },
+              {
+                "en": "M: I'm sure both of you will have a fantastic time. Happy golden birthday! I can't wait to hear all about it when you get back.",
+                "zh": "M: 我相信你们俩会玩得很开心的。黄金生日快乐！等你们回来我迫不及待想听你说说这次旅行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They take the rival's attitude into account."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They know when to adopt a tough attitude."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They see the importance of making compromises."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are sensitive to the dynamics of a negotiation."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They know when to stop."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They know how to adapt."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They know when to make compromises."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They know how to control their emotion."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are patient."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They learn quickly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are good at expression."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They uphold their principles."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Clarify items of negotiation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make clear one's intentions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Get to know the other side."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Formulate one's strategy."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Mr. Green, What do you think makes a successful negotiator?",
+                "zh": "W: Green先生,您认为什么使一个谈判者成功?"
+              },
+              {
+                "en": "M: Well, that's hard to define. But I think successful negotiators have several things in common. They are always polite and rational people. They are firm, but flexible. They can recognize power and know how to use it. They are sensitive to the dynamics in the negotiation. The way it raises and falls, and how it may change direction. They project an image of confidence. And perhaps most importantly, they know when to stop.",
+                "zh": "M: 嗯,这很难定义。但我认为成功的谈判者有几个共同点。他们总是礼貌且理性的人。他们坚定但灵活。他们能识别权力并知道如何运用它。他们对谈判中的动态变化很敏感,比如气氛的起伏,以及可能改变的方向。他们展现出自信的形象。也许最重要的是,他们知道何时该停止。"
+              },
+              {
+                "en": "W: And what about an unsuccessful negotiator?",
+                "zh": "W: 那不成功的谈判者呢?"
+              },
+              {
+                "en": "M: Well, this is probably all of us when we start out. We are probably immature and over-trusting, too emotional or aggressive. We are unsure of ourselves and want to be liked by everyone. Good negotiators learn fast, poor negotiators remain like that and go on losing negotiations.",
+                "zh": "M: 嗯,这可能是我们所有人刚开始的样子。我们可能不成熟、过于信任别人、太情绪化或好斗。我们对自己没把握,想被所有人喜欢。优秀的谈判者学得快,糟糕的谈判者一直保持那样,不断在谈判中失利。"
+              },
+              {
+                "en": "W: In your opinion, can the skills of negotiation be taught?",
+                "zh": "W: 您认为谈判技巧可以教授吗?"
+              },
+              {
+                "en": "M: Well, you can teach someone how to prepare for negotiation. There're perhaps six stages in every negotiation: get to know the other side, state your goals, start the process, clarify areas of disagreement or conflict. Reassess your position, making acceptable compromises. And finally, reach some agreement in principle. These stages can be studied, and strategies to be used in each can be planned beforehand. But I think the really successful negotiator is probably born with the sixth sense that may respond properly to the situation at hand.",
+                "zh": "M: 嗯,你可以教某人如何为谈判做准备。每次谈判大概有六个阶段:了解对方,陈述你的目标,启动流程,明确分歧或冲突的领域,重新评估你的立场,做出可接受的妥协,最后,在原则上达成某种协议。这些阶段可以学习,每个阶段使用的策略可以提前规划。但我认为真正成功的谈判者可能天生就有第六感,能够恰当地应对手头的情况。"
+              },
+              {
+                "en": "W: The artistic sense you just described?",
+                "zh": "W: 您刚才说的那种艺术感觉?"
+              },
+              {
+                "en": "M: Yes, that's right.",
+                "zh": "M: 是的,没错。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How space research benefits people on Earth."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When the International Space Station was built."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How many space shuttle missions there will be."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When America's earliest space program started."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They tried to make best use of the latest technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tried to meet astronauts' specific requirements."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They developed objects for astronauts to use in outer space."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They accurately calculated the speed of the orbiting shuttles."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are expensive to make."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are extremely accurate."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were first made in space."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were invented in the 1970s.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Some people wonder why countries spend millions of dollars on space projects. They want to know how space research helps people on Earth. Actually, space technology helps people on earth every day. This is called \"spin-off technology.\" Spin-off technology is space technology that is now used on Earth. In early space programs, such as the Apollo missions of the 1960s and 1970s, and in the space shuttle missions today, scientists developed objects for the astronauts to use on the moon and in space. We now use some of these objects every day. For example, we have quartz crystal clocks and watches accurate to within one minute a year. We purify the water we drink with the water filter designed for the astronauts' use in space. The cordless hand-held tools we use in our homes, such as vacuum cleaners, flashlights, drills and saws came from the technology of these early space programs. On cold winter days, we can stay warm with battery-operated gloves and socks, and specially-made coats and jackets. All these clothes are similar to the spacesuit designs that kept astronauts comfortable in the temperatures of the moon, and are spin-offs from space technology. These products are only a few examples of the many ways space technology helps us in our everyday lives. No one knows how new spin-off technology from the International Space Station will help us in the future.",
+                "zh": "有些人想知道为什么国家要在太空项目上花费数百万美元。他们想知道太空研究如何帮助地球上的人们。实际上，太空技术每天都在帮助地球上的人们。这被称为\"衍生技术\"。衍生技术是现在用于地球上的太空技术。在早期的太空计划中，例如20世纪60年代和70年代的Apollo任务，以及今天的航天飞机任务中，科学家为宇航员开发了在月球和太空中使用的物品。我们现在每天都在使用其中一些物品。例如，我们拥有精确到每年一分钟以内的石英晶体钟表。我们用为宇航员在太空使用而设计的滤水器净化饮用水。我们在家中使用的无线手持工具，如吸尘器、手电筒、电钻和锯子，都来自这些早期太空计划的技术。在寒冷的冬日，我们可以用电池供电的手套和袜子，以及特制的外套和夹克保持温暖。所有这些衣服都类似于让宇航员在月球温度下保持舒适的宇航服设计，是太空技术的衍生产品。这些产品只是太空技术在日常生活中帮助我们的众多方式中的几个例子。没有人知道来自国际空间站的新衍生技术将来会如何帮助我们。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Everything was natural and genuine then."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People had plenty of land to cultivate then."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It marked the beginning of something new."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was when her ancestors came to America."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were known to be creative."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They enjoyed living a life of ease."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They had all kinds of entertainment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They believed in working for goals."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Chatting with her ancestors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Doing needlework by the fire."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Furnishing her country house."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Polishing all the silver work.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Well, if I could go back in history and live, I'd like to go back to the 18th century and perhaps in colonial America in Yankee New England where one of my ancestors lived, because it was the beginning of something. By the 18th century, there was a feeling of community that had grown. My ancestor was a preacher traveling around the countryside. People lived in small communities. There were fishermen and farmers who provided fresh food that tasted and looked like food, unlike that in today's supermarkets, and there were small towns and New York wasn't that far away. I'm deeply attached to the Puritan tradition, not in a religious sense, but they believed in working for something, working for goals, and I like that. They worked hard at whatever they did, but they had a sense of achievement. They believed in goodness, in community, and helping one another. I love the colonial fabrics, all the silver work, the furnishings, the combination of elegance and simplicity. I love it. The printing, the books, I'm very attached to all that kind of thing. That may not all be very entertaining in the modern sense of the world, but I would have enjoyed spending my evenings in that environment, discussing new ideas, building a new world, and I can see myself sitting on a small chair by the fire doing needlework.",
+                "zh": "如果我能回到历史中生活，我想回到18世纪，也许是在殖民地时期的美国，在Yankee New England，我的一位祖先曾在那里生活,因为那是某种事物的开端。到18世纪,已经形成了一种共同体的感觉。我的祖先是一位在乡间四处传道的牧师。人们生活在小型社区里。有渔民和农民提供新鲜的食物,这些食物的味道和外观像真正的食物,不像今天超市里的那些,还有小镇,纽约离得也不远。我深深依恋清教徒传统,不是在宗教意义上,而是他们相信为某种事物而工作,为目标而工作,我喜欢这一点。他们努力做好手头的任何事情,但他们有一种成就感。他们相信善良、相信共同体、相信互相帮助。我热爱殖民地时期的织物、所有的银器、家具陈设,那种优雅与简朴的结合。我热爱这一切。印刷品、书籍,我对所有这类东西都非常依恋。从现代意义上说,这一切可能并不那么有娱乐性,但我会很享受在那种环境中度过我的夜晚,讨论新思想,建设一个新世界,我能看到自己坐在火炉边的小椅子上做针线活。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Sit down and try to calm yourself."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Call your family or friends for help."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Use a map to identify your location."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Try to follow your footprints back."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "You may end up entering a wonderland."
+                  },
+                  {
+                    "l": "B",
+                    "t": "You may get drowned in a sudden flood."
+                  },
+                  {
+                    "l": "C",
+                    "t": "You may expose yourself to unexpected dangers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "You may find a way out without your knowing it."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Wait patiently."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Look for food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Start a fire."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Walk uphill."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Check the local weather."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Find a map and a compass."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Prepare enough food and drink."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Inform somebody of your plan."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If you are lost in the woods, a little knowledge can turn what some people call a hardship into an enjoyable stay away from the troubles of modern society. When you think you're lost, sit down on the log or rock, or lean against the tree, and recite something you have memorized to bring your mind to a point where it is under control. Don't run blindly. If you must move, don't follow a stream unless you know it, and in that case you're not lost. Streams normally flow through wetland before they reach a lake or a river. Though there are more eatable plants, there may also be wild animals, poisonous snakes, and other hazards. Many experts feel it's wisest to walk uphill. At the top of most hills and mountains are trails leading back to civilization. If there are no trails, you're much easier to be seen on top of a hill, and you may even spot a highway or a railroad from this point. Nowadays, the first way someone will search for you is by air. In a wetland or in dense growth, you're very hard to spot. Anytime you go into the woods, somebody should know where you're going and when you're expected to return. Also when someone comes looking, you should be able to signal to them.",
+                "zh": "如果你在森林里迷路了，一点知识就能把一些人所说的困境变成远离现代社会烦恼的愉快停留。当你认为自己迷路时，坐在圆木或岩石上，或者靠在树上，背诵一些你已经记住的东西，使你的思维达到可控的状态。不要盲目奔跑。如果你必须移动，不要沿着溪流走，除非你认识它，而在那种情况下你就没有迷路。溪流在到达湖泊或河流之前通常会流经湿地。虽然那里有更多可食用的植物,但也可能有野生动物、毒蛇和其他危险。许多专家认为最明智的做法是往山上走。在大多数山丘和山脉的顶部都有通往文明世界的小径。如果没有小径,你在山顶上更容易被发现,而且你甚至可能从这一点看到公路或铁路。如今,人们搜寻你的第一种方式是通过空中搜索。在湿地或茂密的植被中,你很难被发现。无论何时你进入森林,都应该有人知道你要去哪里以及预计何时返回。而且当有人来寻找时,你应该能够向他们发出信号。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2017-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "We all know there exists a great void(空白) in the public educational system when it comes to"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to STEM(Science, Technology, Engineering and Mathematics) courses. One educator named Dori Roberts decided to do something to change this system. Dori taught high school engineering for 11 years. She noticed there was a real void in quality STEM education at all"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "of the public educational system. She said, \"I started Engineering For Kids (EFK) after noticing a real lack of math, science and engineering programs to"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "my own kids in.\" She decided to start an afterschool program where children"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "in STEM-based competitions. The club grew quickly and when it reached 180 members and the kids in the program won several state"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ", she decided to devote all her time to cultivating and"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "it. The global business EFK was born. Dori began operating EFK out of her Virginia home, which she then expanded to"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "recreation centers. Today, the EFK program"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "over 144 branches in 32 states within the United States and in 21 countries. Sales have doubled from $5 million in 2014 to $10 million in 2015, with 25 new branches planned for 2016. The EFK website states, \"Our nation is not"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "enough engineers. Our philosophy is to inspire kids at a young age to understand that engineering is a great"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ".\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "attracted"
+        },
+        {
+          "l": "B",
+          "w": "career"
+        },
+        {
+          "l": "C",
+          "w": "championships"
+        },
+        {
+          "l": "D",
+          "w": "degrees"
+        },
+        {
+          "l": "E",
+          "w": "developing"
+        },
+        {
+          "l": "F",
+          "w": "enroll"
+        },
+        {
+          "l": "G",
+          "w": "exposure"
+        },
+        {
+          "l": "H",
+          "w": "feasible"
+        },
+        {
+          "l": "I",
+          "w": "feeding"
+        },
+        {
+          "l": "J",
+          "w": "graduating"
+        },
+        {
+          "l": "K",
+          "w": "interest"
+        },
+        {
+          "l": "L",
+          "w": "levels"
+        },
+        {
+          "l": "M",
+          "w": "local"
+        },
+        {
+          "l": "N",
+          "w": "operates"
+        },
+        {
+          "l": "O",
+          "w": "participated"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "G"
+        },
+        {
+          "n": 27,
+          "a": "L"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "O"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "M"
+        },
+        {
+          "n": 33,
+          "a": "N"
+        },
+        {
+          "n": 34,
+          "a": "J"
+        },
+        {
+          "n": 35,
+          "a": "B"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Why aren't you curious about what happened?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "\"You suspended Ray Rice after our video,\" a reporter from TMZ challenged National Football League Commissioner Roger Goodell the other day. \"Why didn't you have the curiosity to go to the casino(赌场) yourself?\" The implication of the question is that a more curious commissioner would have found a way to get the tape."
+        },
+        {
+          "l": "B",
+          "t": "The accusation of incuriosity is one that we hear often, carrying the suggestion that there is something wrong with not wanting to search out the truth. \"I have been bothered for a long time about the curious lack of curiosity,\" said a Democratic member of the New Jersey legislature back in July, referring to an insufficiently inquiring attitude on the part of an assistant to New Jersey Governor Chris Christie who chose not to ask hard questions about the George Washington Bridge traffic scandal. \"Isn't the mainstream media the least bit curious about what happened?\" wrote conservative writer Jennifer Rubin earlier this year, referring to the attack on Americans in Benghazi, Libya."
+        },
+        {
+          "l": "C",
+          "t": "The implication, in each case, is that curiosity is a good thing, and a lack of curiosity is a problem. Are such accusations simply efforts to score political points for one's party? Or is there something of particular value about curiosity in and of itself?"
+        },
+        {
+          "l": "D",
+          "t": "The journalist Ian Leslie, in his new and enjoyable book Curious: The Desire to Know and Why Your Fate Depends on It, insists that the answer to that last question is 'Yes.' Leslie argues that curiosity is a much- overlooked human virtue, crucial to our success, and that we are losing it."
+        },
+        {
+          "l": "E",
+          "t": "We are suffering, he writes, from a \"serendipity deficit.\" The word \"serendipity\" was coined by Horace Walpole in an 1854 letter, from a tale of three princes who \"were always making discoveries, by accident, of things they were not in search of,\" Leslie worries that the rise of the Internet, among other social and technological changes, has reduced our appetite for aimless adventures. No longer have we the inclination to let ourselves wander through fields of knowledge, ready to be surprised. Instead, we seek only the information we want."
+        },
+        {
+          "l": "F",
+          "t": "Why is this a problem? Because without curiosity we will lose the spirit of innovation and entrepreneurship. We will see unimaginative governments and dying corporations make disastrous decisions. We will lose a vital part of what has made humanity as a whole so successful as a species."
+        },
+        {
+          "l": "G",
+          "t": "Leslie presents considerable evidence for the proposition that the society as a whole is growing less curious. In the U.S. and Europe, for example, the rise of the Internet has led to a declining consumption of news from outside the reader's borders. But not everything is to be blamed on technology. The decline in interest in literary fiction is also one of the causes identified by Leslie. Reading literary fiction, he says, makes us more curious."
+        },
+        {
+          "l": "H",
+          "t": "Moreover, in order to be curious, \"you have to be aware of a gap in your knowledge in the first place.\" Although Leslie perhaps paints a bit broadly in contending that most of us are unaware of how much we don't know, he's surely right to point out that the problem is growing: \"Google can give us the powerful illusion that all questions have definite answers.\""
+        },
+        {
+          "l": "I",
+          "t": "Indeed, Google, for which Leslie expresses admiration, is also his frequent whipping body(替罪羊). He quotes Google co-founder Larry Page to the effect that the \"perfect search engine\" will \"understand exactly what I mean and give me back exactly what I want.\" Elsewhere in the book, Leslie writes: \"Google aims to save you from the thirst of curiosity altogether.\""
+        },
+        {
+          "l": "J",
+          "t": "Somewhat nostalgically( 怀旧地), he quotes John Maynard Keynes's justly famous words of praise to the bookstore: \"One should enter it vaguely, almost in a dream, and allow what is there freely to attract and influence the eye. To walk the rounds of the bookshops, dipping in as curiosity dictates, should be an afternoon's entertainment.\" If only!"
+        },
+        {
+          "l": "K",
+          "t": "Citing the work of psychologists and cognitive(认知的) scientists, Leslie criticizes the received wisdom that academic success is the result of a combination of intellectual talent and hard work. Curiosity, he argues, is the third key factor—and a difficult one to preserve. If not cultivated, it will not survive: \"Childhood curiosity is a collaboration between child and adult. The surest way to kill it is to leave it alone.\""
+        },
+        {
+          "l": "L",
+          "t": "School education, he warns, is often conducted in a way that makes children incurious. Children of educated and upper-middle-class parents turn out to be far more curious, even at early ages, than children of working class and lower class families. That lack of curiosity produces a relative lack of knowledge, and the lack of knowledge is difficult if not impossible to compensate for later on."
+        },
+        {
+          "l": "M",
+          "t": "Although Leslie's book isn't about politics, he doesn't entirely shy away from the problem. Political leaders, like leaders of other organizations, should be curious. They should ask questions at crucial moments. There are serious consequences, he warns, in not wanting to know."
+        },
+        {
+          "l": "N",
+          "t": "He presents as an example the failure of the George W. Bush administration to prepare properly for the after- effects of the invasion of Iraq. According to Leslie, those who ridiculed former Defense Secretary Donald Rumsfeld for his 2002 remark that we have to be wary of the \"unknown unknowns\" were mistaken. Rumsfeld's idea, Leslie writes, \"wasn't absurd—it was smart.\" He adds, \"The tragedy is that he didn't follow his own advice.\""
+        },
+        {
+          "l": "O",
+          "t": "All of which brings us back to Goodell and the Christie case and Benghazi. Each critic in those examples is charging, in a different way, that someone in authority is intentionally being incurious. I leave it to the reader's political preference to decide which, if any, charges should stick. But let's be careful about demanding curiosity about the other side's weaknesses and remaining determinedly incurious about our own. We should be delighted to pursue knowledge for its own sake—even when what we find out is something we didn't particularly want to know."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "To be curious, we need to realize first of all that there are many things we don't know.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "According to Leslie, curiosity is essential to one's success.",
+          "a": "D"
+        },
+        {
+          "n": 38,
+          "s": "We should feel happy when we pursue knowledge for knowledge's sake.",
+          "a": "O"
+        },
+        {
+          "n": 39,
+          "s": "Political leaders' lack of curiosity will result in bad consequences.",
+          "a": "M"
+        },
+        {
+          "n": 40,
+          "s": "There are often accusations about politicians' and the media's lack of curiosity to find out the truth.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "The less curious a child is, the less knowledge the child may turn out to have.",
+          "a": "L"
+        },
+        {
+          "n": 42,
+          "s": "It is widely accepted that academic accomplishment lies in both intelligence and diligence.",
+          "a": "K"
+        },
+        {
+          "n": 43,
+          "s": "Visiting a bookshop as curiosity leads us can be a good way to entertain ourselves.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "Both the rise of the Internet and reduced appetite for literary fiction contribute to people's declining curiosity.",
+          "a": "G"
+        },
+        {
+          "n": 45,
+          "s": "Mankind wouldn't be so innovative without curiosity.",
+          "a": "F"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Aging happens to all of us, and is generally thought of as a natural part of life. It would seem silly to call such a thing a \"disease.\" On the other hand, scientists are increasingly learning that aging and biological age are two different things, and that the former is a key risk factor for conditions such as heart disease, cancer and many more. In that light, aging itself might be seen as something treatable, the way you would treat high blood pressure or a vitamin deficiency. Biophysicist Alex Zhavoronkov believes that aging should be considered a disease. He said that describing aging as a disease creates incentives to develop treatments. \"It unties the hands of the pharmaceutical(制药的) industry so that they can begin treating the disease and not just the side effects,\" he said. \"Right now, people think of aging as natural and something you can't control,\" he said. \"In academic circles, people take aging research as just an interest area where they can try to develop interventions. The medical community also takes aging for granted, and can do nothing about it except keep people within a certain health range.\" But if aging were recognized as a disease, he said, \"It would attract funding and change the way we do health care. What matters is understanding that aging is curable.\" \"It was always known that the body accumulates damage,\" he added. \"The only way to cure aging is to find ways to repair that damage. I think of it as preventive medicine for age-related conditions.\" Leonard Hayflick, a professor at the University of California, San Francisco, said the idea that aging can be cured implies the human lifespan can be increased, which some researchers suggest is possible. Hayflick is not among them. \"There're many people who recover from cancer, stroke, or heart disease. But they continue to age, because aging is separate from their disease,\" Hayflick said. \"Even if those causes of death were eliminated, life expectancy would still not go much beyond 92 years.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do people generally believe about aging?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It should cause no alarm whatsoever."
+              },
+              {
+                "l": "B",
+                "t": "They just cannot do anything about it."
+              },
+              {
+                "l": "C",
+                "t": "It should be regarded as a kind of disease."
+              },
+              {
+                "l": "D",
+                "t": "They can delay it with advances in science."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "How do many scientists view aging now?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It might be prevented and treated."
+              },
+              {
+                "l": "B",
+                "t": "It can be as risky as heart disease."
+              },
+              {
+                "l": "C",
+                "t": "It results from a vitamin deficiency."
+              },
+              {
+                "l": "D",
+                "t": "It is an irreversible biological process."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What does Alex Zhavoronkov think of \"describing aging as a disease\"?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will prompt people to take aging more seriously."
+              },
+              {
+                "l": "B",
+                "t": "It will greatly help reduce the side effects of aging."
+              },
+              {
+                "l": "C",
+                "t": "It will free pharmacists from the conventional beliefs about aging."
+              },
+              {
+                "l": "D",
+                "t": "It will motivate doctors and pharmacists to find ways to treat aging."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What do we learn about the medical community?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They now have a strong interest in research on aging."
+              },
+              {
+                "l": "B",
+                "t": "They differ from the academic circles in their view on aging."
+              },
+              {
+                "l": "C",
+                "t": "They can contribute to people's health only to a limited extent."
+              },
+              {
+                "l": "D",
+                "t": "They have ways to intervene in people's aging process."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What does Professor Leonard Hayflick believe?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The human lifespan cannot be prolonged."
+              },
+              {
+                "l": "B",
+                "t": "Aging is hardly separable from disease."
+              },
+              {
+                "l": "C",
+                "t": "Few people can live up to the age of 92."
+              },
+              {
+                "l": "D",
+                "t": "Heart disease is the major cause of aging."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Passage Two Questions 51 to 55 are based on the following passage Female applicants to postdoctoral positions in geosciences were nearly half as likely to receive excellent letters of recommendation, compared with their male counterparts. Christopher Intagliata reports. As in many other fields, gender bias is widespread in the sciences. Men score higher starting salaries, have more mentoring( 指导), and have better odds of being hired. Studies show they're also perceived as more competent than women in STEM (Science, Technology, Engineering, and Mathematics) fields. And new research reveals that men are more likely to receive excellent letters of recommendation, too. \"Say, you know, this is the best student I've ever had,\" says Kuheli Dutt, a social scientist and diversity officer at Columbia University's Lamont campus. \"Compare those excellent letters with a merely good letter: 'The candidate was productive, or intelligent, or a solid scientist or something that's clearly solid praise,' but nothing that singles out the candidate as exceptional or one of a kind.\" Dutt and her colleagues studied more than 1,200 letters of recommendation for postdoctoral positions in geoscience. They were all edited for gender and other identifying information, so Dutt and her team could assign them a score without knowing the gender of the student. They found that female applicants were only half as likely to get outstanding letters, compared with their male counterparts. That includes letters of recommendation from all over the world, and written by, yes, men and women. The findings are in the journal Nature Geoscience. Dutt says they were not able to evaluate the actual scientific qualifications of the applicants using the data in the files. But she says the results still suggest women in geoscience are at a potential disadvantage from the very beginning of their careers starting with those less than outstanding letters of recommendation. \"We're not trying to assign blame or criticize anyone or call anyone consciously sexist. Rather, the point is to use the results of this study to open up meaningful dialogues on implicit gender bias, be it at a departmental level or an institutional level or even a discipline level,\" which may lead to some recommendations for the letter writers themselves.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn about applicants to postdoctoral positions in geosciences?",
+            "o": [
+              {
+                "l": "A",
+                "t": "There are many more men applying than women."
+              },
+              {
+                "l": "B",
+                "t": "Chances for women to get the positions are scarce."
+              },
+              {
+                "l": "C",
+                "t": "More males than females are likely to get outstanding letters of recommendation."
+              },
+              {
+                "l": "D",
+                "t": "Male applicants have more interest in these positions than their female counterparts."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What do studies about men and women in scientific research show?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Women engaged in postdoctoral work are quickly catching up."
+              },
+              {
+                "l": "B",
+                "t": "Fewer women are applying for postdoctoral positions due to gender bias."
+              },
+              {
+                "l": "C",
+                "t": "Men are believed to be better able to excel in STEM disciplines."
+              },
+              {
+                "l": "D",
+                "t": "Women who are keenly interested in STEM fields are often exceptional."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What do the studies find about the recommendation letters for women applicants?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are hardly ever supported by concrete examples."
+              },
+              {
+                "l": "B",
+                "t": "They contain nothing that distinguishes the applicants."
+              },
+              {
+                "l": "C",
+                "t": "They provide objective information without exaggeration."
+              },
+              {
+                "l": "D",
+                "t": "They are often filled with praise for exceptional applicants."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What did Dutt and her colleagues do with the more than 1,200 letters of recommendation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They asked unbiased scholars to evaluate them."
+              },
+              {
+                "l": "B",
+                "t": "They invited women professionals to edit them."
+              },
+              {
+                "l": "C",
+                "t": "They assigned them randomly to reviewers."
+              },
+              {
+                "l": "D",
+                "t": "They deleted all information about gender."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does Dutt aim to do with her study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Raise recommendation writers' awareness of gender bias in their letters."
+              },
+              {
+                "l": "B",
+                "t": "Open up fresh avenues for women post-doctors to join in research work."
+              },
+              {
+                "l": "C",
+                "t": "Alert women researchers to all types of gender bias in the STEM disciplines."
+              },
+              {
+                "l": "D",
+                "t": "Start a public discussion on how to raise women's status in academic circles."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "黄山位于安徽省南部。它风景独特，尤以其日出和云海著称。要欣赏大山的宏伟壮丽，通常得向上看。但 要欣赏黄山美景，就得向下看。黄山的湿润气候有利于茶树生长，是中国主要产茶地之一。这里还有许多温 泉，其泉水有助于防治皮肤病。黄山是中国主要旅游目的地之一，也是摄影和传统国画最受欢迎的主题。",
+    "reference": "Mount Huangshan is located in the south of Anhui Province. It is famous for its unique scenery, especially its sunrises and seas of clouds. To appreciate the grandeur of mountains, one usually has to look up. But to appreciate the beauty of Mount Huangshan, one has to look down. The humid climate of Mount Huangshan is favorable for the growth of tea trees, making it one of the major tea-producing areas in China. There are also many hot springs here, whose water helps prevent and treat skin diseases. Mount Huangshan is one of the major tourist destinations in China, and also one of the most popular subjects of photography and traditional Chinese painting."
+  }
+}

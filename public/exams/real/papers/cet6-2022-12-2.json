@@ -1,0 +1,1397 @@
+{
+  "id": "cet6-2022-12-2",
+  "level": "cet6",
+  "year": 2022,
+  "month": 12,
+  "set": 2,
+  "title": "2022年12月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “In an era of information explosion, it is vitally important to develop the ability t o think critically and make rational choices.” You can make statements, give reasons, or cite examples to develop your essay.You should write at least 150 words but no more than 200 words.",
+    "sample": "In an era of information explosion, it is vitally important to develop the ability to think critically and make rational choices. Every day we are flooded with news, advertisements and social-media posts, yet not all of them are trustworthy. Only those who can sift truth from falsehood are able to stay clear-headed.There are two compelling reasons why this ability matters. First, information today is a mixture of facts and rumours, and a careless reader can easily be misled. Take online rumours during public emergencies for example: people who forward them without checking often spread panic. Second, the cost of a wrong choice has risen sharply; whether we are selecting a course, a product or a career, rational judgement based on reliable evidence saves us from regret.Therefore, we should never swallow information passively. By questioning the source, comparing different views and weighing the evidence before us, we can turn the endless flood of information into a real advantage rather than a heavy burden. In the end, critical thinking is not an optional skill but a survival tool for the modern mind."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Prioritizing happiness over money."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Joining the club to get her new book."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Managing one's personal finances wisely."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Consuming more only when earning more."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She was in debt."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She was a financial adviser."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She earned $30,000 a month."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She enjoyed a happy life."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It reflects one's earning power."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It varies with one's environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It mirrors one's sense of well-being."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It changes with one's goals in life."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It would give him more time to be with his loved ones."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It would be good for those who value relationships."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It would mean major sacrifices for him."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It would deprive him of his individuality.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Welcome to the Book Club. Today's guest is Susan Lane, the author of a new book on personal finances that has already sold half a million copies. Hi, Susan, your book is extremely successful. Why do you think that is?",
+                "zh": "M: 欢迎收听《读书俱乐部》。今天的嘉宾是苏珊·莱恩，她是一本关于个人理财的新书作者，这本书已经卖出了五十万册。你好，苏珊，你的书取得了巨大的成功。你觉得这是为什么？"
+              },
+              {
+                "en": "W: I think that's because of my message, which is making happiness a priority over money. So many of us in my generation have spent decades trying to earn more money, just to consume more, but it made us more miserable.",
+                "zh": "W: 我认为这是因为我传达的理念，那就是把幸福置于金钱之上。我们这一代有太多人花了几十年努力赚更多的钱，只是为了消费更多，但这反而让我们更加痛苦。"
+              },
+              {
+                "en": "M: You yourself were once caught in that cycle, working for two decades as an executive and earning a high salary, but still accumulating debt.",
+                "zh": "M: 你自己也曾陷入过那种循环，做了二十年的高管，拿着很高的薪水，却还是不断积累债务。"
+              },
+              {
+                "en": "W: I most certainly was. I earned millions, but by the time I quit my job four years ago to become a writer, I owed over $30,000.",
+                "zh": "W: 的确如此。我赚了几百万美元，但四年前辞职成为作家时，我还欠着三万多美元。"
+              },
+              {
+                "en": "M: So how did you escape that pattern? And what would you advise other people to do?",
+                "zh": "M: 那么，你是如何摆脱这种模式的？你又会建议其他人怎么做？"
+              },
+              {
+                "en": "W: The first change is in what we value. We need to emphasize things that actually make us happy, like relationships, the environment or even our hobbies. Once we make the right things our priority, our goals will change and so will our financial behavior.",
+                "zh": "W: 首先要改变的是我们的价值观。我们需要重视那些真正能让我们快乐的事情，比如人际关系、环境，甚至是我们的爱好。一旦我们把真正重要的事情放在首位，我们的目标就会改变，财务行为也会随之改变。"
+              },
+              {
+                "en": "M: How does that translate into practical action? Can you give our audience examples of what you are talking about on an everyday basis?",
+                "zh": "M: 这要如何落实到实际行动上？你能不能举些例子，说明你所说的这些在日常生活中具体是怎样的？"
+              },
+              {
+                "en": "W: The major areas for action are usually housing, food and transportation. So people might share a home with friends instead of living on their own, bring lunch from home instead of going to restaurants, and use public transport instead of owning a car.",
+                "zh": "W: 通常需要采取行动的主要方面是住房、饮食和交通。比如，人们可以和朋友合住，而不是独自居住；从家里带午餐，而不是去餐馆吃饭；乘坐公共交通，而不是自己买车。"
+              },
+              {
+                "en": "M: Those sound like major sacrifices, I could never share my home, I need my own space.",
+                "zh": "M: 听起来这都是很大的牺牲，我绝不可能和别人合住，我需要自己的空间。"
+              },
+              {
+                "en": "W: But they aren't sacrifices. When people change their values, their desires change. So in the example of housing, if we value relationships, sharing a home isn't depriving ourselves of space, but giving us an opportunity to spend more time with our loved ones.",
+                "zh": "W: 但这并不是牺牲。当人们改变了自己的价值观，欲望也会随之改变。就住房这个例子来说，如果我们重视人际关系，那么合住并不是剥夺自己的空间，而是给我们更多时间与所爱的人相处的机会。"
+              },
+              {
+                "en": "M: Indeed it is.",
+                "zh": "M: 的确如此。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was the artist's first landscape."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was a painting by Christopher."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was donated by the artist herself."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was displayed at a retirement party."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was the painting that instantly made her rich."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has cost him a lot of money to purchase it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was recently purchased by the gallery."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is owned by an anonymous collector."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It reflects her emotions."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It contains ample details."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It appears perfectly symmetrical."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It depicts the beauty of desolation."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is eccentric like any other artist."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is a very nice and intelligent artist."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is as lucky as any acclaimed artist."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is one of the most productive artists."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Thank you for inviting me to the gallery, Christopher. I haven't visited here since your predecessor's retirement function.",
+                "zh": "W: 谢谢你邀请我来画廊，克里斯托弗。自从你前任的退休活动以来，我就没来过这里。"
+              },
+              {
+                "en": "M: Would you like to see the newest additions to our collection first, Catherine?",
+                "zh": "M: 凯瑟琳，你想先看看我们收藏中最新增加的作品吗？"
+              },
+              {
+                "en": "W: Are those the landscapes by Danielle Gregory? I absolutely adore her work.",
+                "zh": "W: 那些是丹妮尔·格雷戈里的风景画吗？我特别喜欢她的作品。"
+              },
+              {
+                "en": "M: This first piece was a gift to the gallery from the artist herself, and it's quite exquisite.",
+                "zh": "M: 这第一幅作品是艺术家本人赠送给画廊的，确实非常精美。"
+              },
+              {
+                "en": "W: I love how she depicts the barren landscape. The colors complement each other perfectly.",
+                "zh": "W: 我喜欢她描绘这片荒芜景观的方式。这些色彩搭配得恰到好处。"
+              },
+              {
+                "en": "M: You can sense the desolation in the picture. This piece was inspired by Gregory's recent trek in the Gobi Desert.",
+                "zh": "M: 你能从画中感受到那种荒凉。这幅作品的灵感来自格雷戈里最近在戈壁沙漠的徒步旅行。"
+              },
+              {
+                "en": "W: And how did you obtain her other piece over here?",
+                "zh": "W: 那你们旁边这幅作品是怎么得到的？"
+              },
+              {
+                "en": "M: It was purchased at auction by an anonymous collector who lent it to the gallery for display. This composition is one of her most acclaimed paintings.",
+                "zh": "M: 这幅画是一位匿名收藏家在拍卖会上买下的，后来借给画廊展出。这幅构图是她最受好评的画作之一。"
+              },
+              {
+                "en": "W: It must have cost that collector a small fortune to purchase this.",
+                "zh": "W: 那位收藏家买下这幅画一定花了一大笔钱。"
+              },
+              {
+                "en": "M: Obviously, I can't disclose the exact amount he paid, but it was substantial.",
+                "zh": "M: 我当然不能透露他支付的确切金额，但那是一笔相当可观的钱。"
+              },
+              {
+                "en": "W: There's so much detail in this painting. I feel like I can really immerse myself in the scene. I particularly like the symmetry created by the reflection of the mountain in the lake.",
+                "zh": "W: 这幅画的细节真丰富。我感觉自己真的能沉浸在这个场景中。我尤其喜欢湖面倒映山峰所形成的对称感。"
+              },
+              {
+                "en": "M: This particular piece was the one that was nominated for a Gateway Award. I was lucky enough to attend the award ceremony as Gregory's guest.",
+                "zh": "M: 这幅作品就是那幅获得Gateway奖提名的画。我很幸运，曾作为格雷戈里的客人参加颁奖典礼。"
+              },
+              {
+                "en": "W: So you know her personally. I assume she's an eccentric artist.",
+                "zh": "W: 所以你认识她本人。她应该是个古怪的艺术家吧。"
+              },
+              {
+                "en": "M: Quite the opposite. In fact, she's not at all eccentric. I would say she's one of the most easygoing and intelligent people I know.",
+                "zh": "M: 恰恰相反。事实上，她一点也不古怪。我会说她是我认识的最随和、最聪明的人之一。"
+              },
+              {
+                "en": "W: I'd love to be able to meet her. There are so many questions I'd like to ask.",
+                "zh": "W: 我很想有机会见见她。我有好多问题想问她。"
+              },
+              {
+                "en": "M: What a coincidence! I'm meeting her for dinner tonight. Would you like to come along?",
+                "zh": "M: 真巧！我今晚要和她一起吃晚饭。你愿意一起来吗？"
+              },
+              {
+                "en": "W: I'd love to. Thank you.",
+                "zh": "W: 我很乐意。谢谢。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is vital to one's mental health."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It leads to reconciliation and peace."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It promotes interpersonal relationship."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It keeps one from traumatic experience."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When the offender has power over the victim."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When the offender is not willing to apologize."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When the offender is not duly penalized."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When the offender adds insult to injury."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Talk with the offender calmly."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Accept the offender's apology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Find out why he committed the offense."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Determine how serious the offense was.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Forgiveness is the release of resentment or anger. Forgiveness doesn't mean reconciliation. We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender. Forgiveness is vitally important for the mental health of certain victims. It propels people forward rather than keeping them emotionally engaged in an injustice or trauma. Carrying the hurt or anger of an offense leads the body to release stress chemicals. Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits.",
+                "zh": "宽恕是放下怨恨或愤怒。宽恕并不意味着和解。我们不必回到原来的关系中，也不必再接受冒犯者同样的有害行为。对于某些受害者而言，宽恕对心理健康至关重要。它推动人们继续前进，而不是让他们在情感上持续纠缠于某种不公或创伤之中。带着遭受冒犯后的伤痛或愤怒生活，会导致身体释放应激化学物质。消除这些化学物质的持续释放，也可能解释了宽恕为何能带来身体健康方面的益处。"
+              },
+              {
+                "en": "There are scenarios in which forgiveness is not the best course. Sometimes the victim becomes more empowered when they give themselves permission not to forgive. Forgiveness can be challenging. This is especially true when the offending party offers an insincere apology, or maybe they haven't offered anything at all. However, it's often the healthiest path forward. It's important to cultivate forgiveness by developing compassion for the offender, reflect on whether the act was due to malicious intent, or whether it was caused by challenging circumstances in the offender's life.",
+                "zh": "在某些情况下，宽恕并不是最佳选择。有时，当受害者允许自己不去宽恕时，他们反而会获得更强的力量。宽恕可能是一件困难的事。当冒犯者给出虚假的道歉，或者根本没有道歉时，尤其如此。然而，宽恕往往是最有利于健康的前进之路。重要的是，要通过对冒犯者培养同情心来促进宽恕，并反思这一行为究竟是出于恶意，还是由冒犯者生活中的艰难处境所导致。"
+              },
+              {
+                "en": "What about forgiving ourselves? We sometimes need to take responsibility for mistakes, but intense guilt and shame aren't a desirable outcome in the long run. Forgiving yourself may seem like an ambiguous process. You can begin by acknowledging that you are at fault, taking responsibility for the hurt you caused, then reflecting on why the event occurred. Draw the lessons you learned and try to avoid committing a similar offense in the future.",
+                "zh": "那么，宽恕自己又如何呢？我们有时需要为自己的错误承担责任，但从长远来看，强烈的内疚和羞耻并不是理想的结果。宽恕自己似乎是一个模糊不清的过程。你可以先承认自己有错，为自己造成的伤害承担责任，然后反思这一事件发生的原因。总结你从中吸取的教训，并努力避免今后犯下类似的过错。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The number of passengers dropped sharply."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It served more and more commuters."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The number of stations increased to 50."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It became the longest in the United Kingdom."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To increase capacity to meet growing needs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To make way for other means of transport."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To have its systems modernised."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To avoid further financial losses."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is generally recognised as a world heritage site."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the fastest way to reach the city's south side."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It constitutes a source of revenue for the city."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It helps reduce traffic jams in the city centre."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are usually crowded."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They use high-tech systems."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They accept smartcards only."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are colourfully decorated."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The Glasgow subway first opened in 1896 as a cable-hauled system. It is generally recognised as the world's third underground railway, after London and Budapest. In its long history, it has never been expanded, remaining as a single loop line with a mere 15 stations. At its peak, it served the shipyard workers on the south side of the city. In the 1960s, there was a decline in the shipbuilding industry and the popularity of private transport grew. As a result, the subway saw a rapid decline in ridership.",
+                "zh": "格拉斯哥地铁于1896年首次开通，当时采用缆索牵引系统。人们普遍认为，它是继伦敦和布达佩斯之后世界上第三条地下铁路。在其漫长的历史中，线路从未扩建，始终是一条仅有15个车站的单环线。它在鼎盛时期为城市南部的造船厂工人提供服务。20世纪60年代，造船业衰落，私人交通工具日益普及。因此，地铁客流量迅速下降。"
+              },
+              {
+                "en": "It ran with little further change until 1977 when its new operators closed it for major modernisation investment. Carriages were replaced, ventilation was improved, and the main depot was also renovated and fitted with connecting tracks to replace the outdated crane transfer mechanism. The subway in its present form reopened for operation in April 1980. Since its relaunch, the subway has seen a revival in its fortunes. It serves as a viable alternative to other forms of transport and has gone a long way to alleviate traffic jams in the city centre. In 1996, the system reached an important milestone—100 years. To commemorate this special event, the colour scheme of the train carriages was updated.",
+                "zh": "此后，地铁基本没有进一步变化，直到1977年，新运营方因进行重大现代化投资而关闭了地铁。车厢被更换，通风系统得到改善，主车库也进行了翻修，并增设了连接轨道，以取代过时的起重机转运机制。现有形式的地铁于1980年4月重新投入运营。重新启用以来，地铁的境况有所好转。它成为其他交通方式的可行替代方案，并在很大程度上缓解了市中心的交通拥堵。1996年，该系统迎来了一个重要里程碑——建成100周年。为纪念这一特殊事件，列车车厢的配色方案进行了更新。"
+              },
+              {
+                "en": "Recently, high-tech systems such as smart card ticketing machines and smart gates are used across all subway stations. The smart card provides more convenient travel, and passengers simply top up their cards and tap them to get in and out the subway. Since its launch, the technology has been adopted by more than 100,000 subway customers.",
+                "zh": "近年来，智能卡售票机和智能闸机等高科技系统已在所有地铁车站投入使用。智能卡使出行更加便捷，乘客只需为卡充值，然后刷卡即可进出地铁。自推出以来，这项技术已被超过10万名地铁乘客采用。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are quite friendly to humans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are shrinking in numbers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are unafraid of humans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are especially fond of garbage."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is strictly forbidden."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is an uncommon sight."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a gesture of human generosity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is allowed only in certain areas."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Share their food with the bear they see."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Be prepared to run into a hungry bear."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Try to be friendly with the bear they meet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Refrain from teasing bears with cubs.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or campground bears above all else. Bears are the most popular animals in a number of our national parks. In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer.",
+                "zh": "如果你游览大烟山国家公园，那么最有可能让你始终记忆犹新的，莫过于路边或露营地的熊。在我们的一些国家公园里，熊是最受欢迎的动物。在这片熊的数量达到数百只的山地，夏季有许多机会观察这些大型野生动物。"
+              },
+              {
+                "en": "Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans. Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds. They give the garbage cans a frequent going over. An occasional offer of food from a park visitor, an illegal and dangerous practice, makes beggars of them. Bears are very often hungry and since they will feed on almost any kind of plant or animal, garbage is quite acceptable.",
+                "zh": "由于国家公园是野生动物保护区，不允许干扰当地动物，多年的保护已经逐渐消除了野熊对人类的恐惧。如今，许多熊不再依靠自身能力谋生，而是在公园道路和露营地巡游。它们经常翻找垃圾桶。公园游客偶尔提供食物，这种违法且危险的行为使它们变成了乞食者。熊常常处于饥饿状态，而且几乎什么植物或动物都吃，因此垃圾对它们来说完全可以接受。"
+              },
+              {
+                "en": "Feeding them, however, represents misguided kindness because the bears come to expect such generosity from everyone and consequently, trouble could lie ahead. Park rules prohibit the feeding of bears. Violators are arrested. Every year, doctors who have offices near the park treat a number of cases of bear bites and bear scratches. Some of the accidents have come about in strange ways.",
+                "zh": "然而，给它们喂食是一种出于好心却考虑不周的行为，因为熊会开始期待每个人都这样慷慨相待，因而可能引发麻烦。公园规定禁止给熊喂食。违反者会被逮捕。每年，在公园附近设有诊所的医生都会治疗一些被熊咬伤或抓伤的病例。有些事故的发生方式十分奇特。"
+              },
+              {
+                "en": "One man was in the process of feeding two small cubs, when the mother bear appeared and insisted upon having some of the food. Shoving the big bear aside with one hand, the man continued feeding the cubs when suddenly he was struck a fierce blow in the face. A bear, prompted by the food that a lady kept offering to him, entered the car where the generous person was sitting. Her efforts to push the bear out of the car resulted in injuries. A man required medical attention after he applied a lighted cigarette to a bear's nose. Another man tried to boost a bear into the front seat of his car so that he might take a picture of a bear sitting beside his wife who was behind the wheel.",
+                "zh": "有一个人在给两只小熊崽喂食时，母熊出现了，并坚持要分得一些食物。那人用一只手把大熊推到一边，继续给熊崽喂食，突然被熊狠狠地打了一下脸。一头熊受到一位女士不断递给它食物的诱惑，进入了这位热心人所坐的汽车。她试图把熊推出车外，结果受了伤。一名男子把点燃的香烟放到熊的鼻子上，随后需要接受医疗救治。还有一名男子试图把一头熊抱进自己汽车的前排座位，好给熊拍照，照片中熊将坐在驾驶座后面、与他的妻子并排。"
+              },
+              {
+                "en": "Because bears prefer roads and campgrounds, the possibility of a hiker meeting up with a bear along park trails is small, but there's always that chance, for a bear seems to know if you are carrying a lunch or a candy bar. He may even insist on taking it.",
+                "zh": "由于熊更喜欢道路和露营地，徒步者在公园小径上遇到熊的可能性很小，但这种情况始终有可能发生，因为熊似乎知道你是否带着午餐或巧克力棒。它甚至可能坚持要把食物拿走。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It refers to opinions that are radical and widespread."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It means making judgments without adequate knowledge."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It refers to deep-rooted beliefs about someone or something."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It means sticking to one's judgments even when proved wrong."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They often lead to war between religious groups."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They keep certain occupations from thriving."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They allow myths and half-truths to persist."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They prevent us from getting to the truth."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When we start to feel superior."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When we mix with prejudiced people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When we live in an isolated neighborhood."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When we try to keep up with those around us.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Why do we form opinions or attitudes about someone or something without really knowing much about them? Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively. But letting the opinions of another person determine what our opinions will be is dangerous. Forming opinions about someone or something before really knowing them well is called prejudice. \"Pre-\" means before, and \"judice\" refers to judgment. Hence, prejudice means to judge before having adequate knowledge.",
+                "zh": "为什么我们会在并不真正了解某个人或某件事的情况下，就对其形成看法或态度？仅仅听到一些关于某个人、某个地方或某件事的好或坏的说法，就可能对我们的看法产生积极或消极的影响。但是，让他人的看法决定我们自己的看法是危险的。在真正充分了解某个人或某件事之前就对其形成看法，这叫作偏见。“Pre-”意为“之前”，“judice”指的是判断。因此，偏见就是在获得充分了解之前作出判断。"
+              },
+              {
+                "en": "We can be prejudiced toward or against someone or something. In either case, we are only allowing ourselves to see half of the picture. Very few people or things in this world are all good or all bad. Prejudiced attitudes are usually based on myths, half-truths or incorrect information, and they are dangerous because they can keep us from learning the truth about someone or something. People form prejudices against others for many reasons—differences in their race, religion, gender, or occupation. Prejudices keep people apart. They keep us from really knowing and understanding each other.",
+                "zh": "我们可能会对某个人或某件事抱有偏见，也可能持反对态度。无论是哪种情况，我们都只是允许自己看到事情的一半。这个世界上很少有人或事物是全然美好或全然糟糕的。偏见通常建立在神话、半真半假的说法或错误信息之上，而它们之所以危险，是因为可能使我们无法了解某个人或某件事的真相。人们会因为许多原因对他人产生偏见，例如种族、宗教、性别或职业方面的差异。偏见使人彼此隔绝，也使我们无法真正了解和理解彼此。"
+              },
+              {
+                "en": "We should feel proud of who we are and the group of people we represent. If feelings of pride begin to turn to feelings of superiority when we think that our group or our beliefs are better than those around us, however, then we begin to develop prejudiced attitudes that can be harmful. For example, the prejudiced attitudes of one group may keep another group from attending certain schools, from living in any neighborhood they want, or from getting a job or a promotion. Extreme feelings of prejudice have caused the deaths of innocent people. We are responsible for our own thoughts and opinions. When we let someone else tell us what to think about someone or something, we are giving up some control of our own lives.",
+                "zh": "我们应当为自己的身份以及所代表的群体感到自豪。然而，当我们认为自己的群体或信仰比身边的人更好时，自豪感开始转变为优越感，我们就开始形成可能造成伤害的偏见态度。例如，一个群体的偏见态度可能使另一个群体无法进入某些学校、无法居住在自己想住的任何社区，或者无法获得工作或晋升。极端的偏见情绪曾导致无辜者死亡。我们应当为自己的思想和看法负责。当我们让别人告诉自己应当如何看待某个人或某件事时，我们就放弃了对自己生活的一部分掌控权。"
+              },
+              {
+                "en": "Before you form an attitude or opinion, find out for yourself about the person or the thing in question. Sometimes we don't realize that we hold prejudiced attitudes toward or against someone or something. We need to carefully examine our lives and our fears, and to ask ourselves whether our attitudes come from our personal knowledge and experience or from rumors and fear of the unknown. The good news about prejudice is that we are not born with it. Prejudiced attitudes and opinions develop over time. But with education and knowledge, we can replace our prejudices with cooperation and understanding.",
+                "zh": "在形成某种态度或看法之前，要亲自了解有关的人或事。有时，我们并没有意识到自己对某个人或某件事抱有偏见。我们需要认真审视自己的生活和恐惧，并问问自己：我们的态度是源于个人的知识和经历，还是源于传闻以及对未知事物的恐惧。关于偏见，好消息是我们并非天生就有偏见。偏见性的态度和看法会随着时间逐渐形成。但是，通过教育和知识，我们可以用合作与理解取代偏见。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Motivated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Disappointed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Perplexed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Shocked."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They would change with the passage of time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They would benefit young people's adult life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They would help kids grow."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They would last a lifetime."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He had become mature."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He suffered poor health."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He had lots of stories to tell."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He regretted leaving Vietnam."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Make friends with his students."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Show his students how to do their best."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help his students get through the growing pains."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Share his personal experience with his students."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When I started high school, it was a shock. I had spent eight years fighting my way to be the most popular kid in the Catholic school student body. I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school. I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are. Rock and roll had always been an important part of my life. I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll legends. During those teenage years, I built friendships that I thought would last a lifetime. Most people that age think the same thing, but people drift apart. Jobs, families and tragedies separate people from those lasting friendships.",
+                "zh": "我刚开始上高中时，受到很大冲击。我花了八年时间，努力争取成为天主教学校学生群体中最受欢迎的孩子。那时我还是个强壮、坚强的八年级学生，却突然成了一个孤独的九年级学生，受到那些掌控着高中的强壮、强悍的十二年级学长们的欺负。那时我意识到，为某件事努力奋斗固然很好，但你也必须享受当下，满足于自己所处的位置。摇滚乐一直是我生活中重要的一部分。我记得，我和朋友们过去常常开车在外面兜风，直到深夜，同时聆听摇滚乐传奇人物的音乐。在那些青少年时期，我结交了一些我以为会维持一生的友谊。那个年纪的大多数人都有同样的想法，但人们会渐行渐远。工作、家庭和悲剧会使人们与那些长久的友谊分离。"
+              },
+              {
+                "en": "The tragedy that separated me from my friends forever was the Vietnam War. A year after I graduated from high school, I left for Vietnam. I came back, burned out, and tired, as though I had lived 10 lifetimes in the short span of 14 months, the 14 months I was in the war. I couldn't relate to the friends I had had in high school. They still seemed childish, concerned with childish things that weren't important to me. I was still trying to cope with the death, destruction and evil I had seen in Vietnam. I felt like we had done terrible things to innocent people there and in turn, I had seen terrible things done to my friends.",
+                "zh": "使我与朋友们永远分离的悲剧是越南战争。高中毕业一年后，我去了越南。战争持续的14个月里，我仿佛在短短14个月内经历了十辈子的人生；回来时，我身心俱疲，筋疲力尽。我无法再与高中时的朋友们产生共鸣。他们看起来仍然很幼稚，关心着一些对我来说并不重要的幼稚事情。我仍在努力应对自己在越南见到的死亡、毁灭和邪恶。我觉得我们在那里对无辜的人做了可怕的事情，而反过来，我也亲眼看到了我的朋友们遭受可怕的伤害。"
+              },
+              {
+                "en": "I withdrew from my friends and started college. Then I quit college and took many different jobs. I spent a lot of my time and money on alcohol and other drugs. Finally, in an effort to get my life going in the right direction again, I sold everything and took what little money I had and bought myself an airplane ticket to Israel. I went there to study history. While studying at Haifa University, I met my wife, who was also an American student.",
+                "zh": "我与朋友们疏远了，开始上大学。后来我辍学了，做过许多不同的工作。我把大量时间和金钱花在酒精和其他毒品上。最后，为了让自己的生活重新走上正轨，我卖掉了所有东西，拿着仅有的一点钱给自己买了一张去以色列的机票。我去那里学习历史。在海法大学学习期间，我遇到了我的妻子，她也是一名美国学生。"
+              },
+              {
+                "en": "I now teach in a high school back in America. I look at my students and see them struggling with many of the very things I struggled with many years ago. As a teacher, I try to help them over the rough spots as best I can.",
+                "zh": "现在，我在美国的一所高中任教。我看着我的学生，发现他们正在努力应对许多年前我自己曾经面对过的那些事情。作为一名教师，我尽我所能帮助他们渡过那些艰难的阶段。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The task of the global strategist of a business is to build a platform of capabilities derived from the resources, experiences and innovations of units operating in multiple locations, to transplant those capabilities wherever"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ", and then to systematically upgrade and renew them—ahead of the competition. Apple is an outstanding case of a company whose unique capabilities give it a worldwide"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "advantage, particularly with respect to its ability to build platforms from a product base that integrates functional and"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "design. Apple has been able to leverage and exploit its California-based design and marketing advantages successfully throughout the world. IKEA is another such case. The do-it-yourself furniture and houseware company first developed a compelling set of capabilities to design, manufacture and"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "furniture at low cost and sell it in a novel way in Sweden. Later, IKEA successfully"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "this formula in many other countries. By contrast, Telefonica, a Spanish telecommunications company that is now the world's fifth largest telecom by"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ", first developed its special advantage abroad. In 1989 and 1990, Telefonica had the opportunity to enter Chile and Argentina, countries that shared many institutional and cultural characteristics with its home country but that were"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "more rapid market reform. Throughout the 1990s, Telefonica took what it learned in Chile and Argentina about reconstructing former state-owned telecoms to other Latin American countries that were privatizing their state telecoms and deregulating their telecom markets. These examples might lead the reader to believe that creating a global advantage is an easy task. But many other"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "of expensive failed experiments suggest that creating a lasting global advantage actually requires a great deal of"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "and operational finesse(技巧). Our research suggests that global winners typically create and sustain their international presence through a systematic process of"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ", renewing and enhancing their core capabilities."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "aesthetic"
+        },
+        {
+          "l": "B",
+          "w": "appropriate"
+        },
+        {
+          "l": "C",
+          "w": "clusters"
+        },
+        {
+          "l": "D",
+          "w": "competitive"
+        },
+        {
+          "l": "E",
+          "w": "exploiting"
+        },
+        {
+          "l": "F",
+          "w": "fiscal"
+        },
+        {
+          "l": "G",
+          "w": "instances"
+        },
+        {
+          "l": "H",
+          "w": "rehabilitated"
+        },
+        {
+          "l": "I",
+          "w": "reproduced"
+        },
+        {
+          "l": "J",
+          "w": "revenues"
+        },
+        {
+          "l": "K",
+          "w": "safeguarding"
+        },
+        {
+          "l": "L",
+          "w": "ship"
+        },
+        {
+          "l": "M",
+          "w": "strategic"
+        },
+        {
+          "l": "N",
+          "w": "transcend"
+        },
+        {
+          "l": "O",
+          "w": "undergoing"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "B"
+        },
+        {
+          "n": 27,
+          "a": "D"
+        },
+        {
+          "n": 28,
+          "a": "A"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "I"
+        },
+        {
+          "n": 31,
+          "a": "J"
+        },
+        {
+          "n": 32,
+          "a": "O"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "M"
+        },
+        {
+          "n": 35,
+          "a": "E"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Fear of Nature: An Emerging Threat to Conservation",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "What do we lose when natural spaces and species disappear? Increasingly, research has shown that as species and ecosystems vanish, it also chips away at our ability to preserve what remains—because we no longer understand what we're losing."
+        },
+        {
+          "l": "B",
+          "t": "You probably see it all the time. The neighbor who puts pesticides on his lawn rather than deal with annoying bees. The politician who votes against wildlife protection because she's never seen a wolf in the wild. The corporation that wants to bulldoze(用推土机推平) the habitat of a rare frog."
+        },
+        {
+          "l": "C",
+          "t": "At best this can be termed \"the extinction of experience,\" where our cultural and natural histories fade from our memories and therefore our reality. At its worst it becomes something even more concerning: \"biophobia,\" the fear of living things and a complete aversion to nature."
+        },
+        {
+          "l": "D",
+          "t": "This isn't the fiction of living in a cold, empty dystopia(绝望的世界). Sadly, it's becoming a way of life for too many people—especially children. A recent study in Japan paints a striking portrait of this problem. A survey of more than 5,300 school children in the Tochigi Prefecture examined their perception of 14 local insect species and one spider. The results? A collective \"ew!\" Most of the students saw the species as things to dislike or fear, or even as sources of danger. The less experience the students had with nature, the more negative their feelings."
+        },
+        {
+          "l": "E",
+          "t": "The results were published earlier this year in the journal Biological Conservation. Lead researcher Masashi Soga with the University of Tokyo says the study stemmed from observations about today's nature-deficient children. \"Humans inherently avoid dangerous organisms such as bees, but children these days avoid even harmless insects such as butterflies and dragonflies(蜻蜓),\" he says. \"I have long wondered why so many of today's children react like this.\""
+        },
+        {
+          "l": "F",
+          "t": "Although the children's reactions were somewhat expected, the new study did contain an unexpected finding: Many of the surveyed children revealed that their parents also expressed fear or disgust of the same animals. In fact, these parental emotions were strong enough to overwhelm any positive experiences the children might have gained from direct experiences in nature. As Soga and his coauthors wrote in their paper, \"Our results suggest that there is likely a feedback loop in which an increase in people who have negative attitudes towards nature in one generation will lead to a further increase in people with similar attitudes in the next generation.\""
+        },
+        {
+          "l": "G",
+          "t": "And that's possibly the greater threat posed by extinction of experience. Soga suggests the generational loss— condition previously dubbed environmental generational amnesia( 遗忘)—could chip away at our societal ability to preserve what we're losing. \"I believe that increased biophobia is a major, but invisible, threat to global biodiversity,\" Soga says. \"As the number of children who have biophobia increases, public interest and support for biodiversity conservation will gradually decline. Although many conservation biologists still consider that preventing the loss of wildlife habitat is the most important way to conserve biodiversity, I think preventing increased biophobia is also important for conservation.\""
+        },
+        {
+          "l": "H",
+          "t": "What's to be done about this? The paper makes several recommendations, the most obvious of which is that children should experience nature more often. The authors also suggest establishing policies to guide these natural experiences and increasing educational programs about the natural world."
+        },
+        {
+          "l": "I",
+          "t": "Helping parents to see species around them in a new light would make a difference, too. And, of course, maintaining support for preserving the wild spaces where these \"scary\" creatures live is the most important thing of all. That's a point reinforced by another recent study, which found that wild spaces located within urban areas—and the plants and animals that thrive in them—are particularly important for human health and well-being."
+        },
+        {
+          "l": "J",
+          "t": "Published in the journal Frontiers in Sustainable Cities, the study examined attitudes toward Discovery Park, the heavily forested 534-acre public park in Seattle, Washington. It found that the public had the most appreciation for—and gained the most value from—the wildest parts of the park. \"I have seen whales, seals, fish, eagles, shorebirds and many other sea creatures in their natural habitat,\" one survey participant wrote. \"Coming here with people has allowed me to connect and talk with them about conversation that simply does not happen in everyday life,\" wrote another."
+        },
+        {
+          "l": "K",
+          "t": "The participants reported that their most valuable experiences in the park included encountering wildlife, walking through open spaces, exploring the beach and finding beautiful views. \"We saw that a large majority of participants' interactions, especially their most meaningful interactions, depended on Discovery Park's relative wildness,\" says lead author Elizabeth Lev, a master's student in the University of Washington's Human Interaction with Nature Lab. This is only possible because the park is relatively wild. After all, you can't enjoy watching birds if there are no birds to follow, gaze at the sunset if it's obscured by skyscrapers, or stop and smell the flowers if they don't have room to grow."
+        },
+        {
+          "l": "L",
+          "t": "And yet even this long-protected space could someday become less hospitable to nature. Over the past few years a lot of people and organizations have suggested developing parts of Discovery Park or the neighboring area. Most recently a plan proposed building 34 acres of much-needed affordable housing and parking spaces adjacent to the park, bringing with them noise, traffic and pollution."
+        },
+        {
+          "l": "M",
+          "t": "If anything like that happened, both the park and the people of Seattle could lose something vital. And that would continue the trend of chipping away at Seattle's—and the world's—natural spaces, leaving just tiny pocket parks and green-but-empty spaces that offer little real value to wildlife, plants or people."
+        },
+        {
+          "l": "N",
+          "t": "\"It is true that any interaction with nature is better than none, but I don't want people to be satisfied with any small bit of grass and trees,\" Lev says. \"We have been in this cycle of environmental generational amnesia for a long time, where the baseline keeps shifting and we don't even realize what we're losing until it's gone. If we can get people to understand how much meaning and value can come from having more experiences with more wild forms of nature, then maybe we can stop this cycle and move toward conserving and restoring what we have left.\""
+        },
+        {
+          "l": "O",
+          "t": "Building this understanding in an ever-more fearful and disconnected world may be the biggest challenge. Peter Kahn, the senior author of Lev's paper and the director of the Human Interaction with Nature lab, made several suggestions for bridging this gap in this 2011 book, Technological Nature. They echo the recommendation about getting children into nature, but also include telling stories of how things used to be, imagining what things might be like in the future, and developing a common language about nature, \"a way of speaking about wild and domestic interaction patterns, and the meaningful, deep and often joyful feelings that they generate.\""
+        },
+        {
+          "l": "P",
+          "t": "No matter what techniques we use, this growing field of research illustrates that saving nature requires encouraging people to experience it more often and more deeply. That calls for additional research—Lev and her coauthors have published a toolkit that other municipalities can follow to study the value of their own wild spaces—and clear communication of the results. \"If we can continue to show people the benefits of these wild spaces,\" Lev says, \"maybe people will begin to see more value in keeping these areas undeveloped —for the sake of our mutual benefit.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "A new study found parents' aversion to certain animals would pass on to their children.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "The disappearance of species and ecological systems erodes our ability to keep what is left.",
+          "a": "A"
+        },
+        {
+          "n": 38,
+          "s": "A study showed that the wildest areas of Discovery Park appealed most to the public.",
+          "a": "J"
+        },
+        {
+          "n": 39,
+          "s": "The fear of living organisms is becoming more worrisome.",
+          "a": "C"
+        },
+        {
+          "n": 40,
+          "s": "Preventing the increase in children's fear of living creatures is also important for conserving biodiversity.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "Research shows that more and deeper experience people have with nature will help save it.",
+          "a": "P"
+        },
+        {
+          "n": 42,
+          "s": "Though humans naturally tend to avoid dangerous animals, today's children try to stay away from even harmless ones.",
+          "a": "E"
+        },
+        {
+          "n": 43,
+          "s": "Development in and around Discovery Park could cause heavy losses to the park and the local residents.",
+          "a": "M"
+        },
+        {
+          "n": 44,
+          "s": "A large survey of school children found that their negative feelings grew as their experience with nature diminished.",
+          "a": "D"
+        },
+        {
+          "n": 45,
+          "s": "Elizabeth Lev believes increased contact with more wildlife helps conserve biodiversity.",
+          "a": "N"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need. One government proposition is to eliminate $10,000 of debt for 'economically distressed' students. Some in US Congress have gone so far as to suggest forgiving up to $50,000 in debt per student borrower, but does forgiving student debt necessarily correlate to helping the economically disadvantaged? The answer is no. This policy is just giving money away to universities and the most affluent students in attendance. Federal Reserve data reveals that the highest-income 40 percent of households owe approximately 60 percent of outstanding student debt, while the lowest 40 percent owe just under 20 percent. This could be due to a combination of factors: students from high-income households are more likely to go to expensive colleges, less likely to receive financial aid, and more likely to have high incomes post-graduation. Plus, the majority of student debt is held by graduate degree earners, who earn approximately 25 percent more than their undergraduate counterparts. Clearly, giving free reign to banks to forgive student debt is a step in the wrong direction. Other proposals for broader, long-term student loan plans have some fundamental problems. One idea is to cancel student debt only for undergraduate degrees and for students making less than $125,000. This attempts to address the fact that Congress' previously mentioned student loan forgiveness plan largely helps out the wealthy, but is an adverse incentive for universities to keep raising tuition and for students to choose to major in low-earning degree programs. Colleges have no reason to make their programs more affordable if they believe students will just take out more debt. And, students will feel more comfortable making the irresponsible decision to go tens of thousands of dollars in debt to major in impractical or idealistic subjects if they know their loans will be forgiven. This is especially concerning given the pandemic(大流行病) has rendered a college education practically worthless. Students are paying tens of thousands of dollars per year to live at home and be lectured on the Internet. Do we really want to tell colleges that they can get away with providing below-average service for an outrageous cost? In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class. Plumbers and retail workers will be paying for the degrees of doctors and lawyers. The US government's effort to help those in debt is commendable but is this really the solution that will help the poor financially recover?",
+        "questions": [
+          {
+            "n": 46,
+            "s": "Why do some people advocate forgiving student loan debt?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They assert it will narrow the gap between the wealthy and the poor."
+              },
+              {
+                "l": "B",
+                "t": "They believe it will benefit both the economy and the underprivileged."
+              },
+              {
+                "l": "C",
+                "t": "They claim it will eliminate economic distress among college students."
+              },
+              {
+                "l": "D",
+                "t": "They think the cost of education is the responsibility of the government."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What do we learn from the Federal Reserve data?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Approximately 60% of student debt remains unpaid."
+              },
+              {
+                "l": "B",
+                "t": "Cancelling student debt benefits wealthy families most."
+              },
+              {
+                "l": "C",
+                "t": "Forgiving student debt provides little benefit to universities."
+              },
+              {
+                "l": "D",
+                "t": "Low-income families owe the biggest amount of student debt."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What does the author say students are likely to do if they know they needn't repay their loans?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They will choose to study subjects without considering their job prospects."
+              },
+              {
+                "l": "B",
+                "t": "They will be free to pursue their goals without being burdened financially."
+              },
+              {
+                "l": "C",
+                "t": "They will over-borrow and live beyond their means."
+              },
+              {
+                "l": "D",
+                "t": "They will be able to enroll in expensive universities."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What does the author imply about colleges offering online education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They cannot get away with the serious consequences."
+              },
+              {
+                "l": "B",
+                "t": "They have suffered greatly from the current pandemic."
+              },
+              {
+                "l": "C",
+                "t": "The tuition they charge is not justified by the quality of their service."
+              },
+              {
+                "l": "D",
+                "t": "The tuition they charge has surged outrageously during the pandemic."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What will happen if any of the proposed student debt plans is implemented?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Plumbers and retail workers will have a chance of becoming professionals."
+              },
+              {
+                "l": "B",
+                "t": "Working-class students will have increasing access to subsidized education."
+              },
+              {
+                "l": "C",
+                "t": "Blue-collar workers will have to bear the cost of educating would-be high-earners."
+              },
+              {
+                "l": "D",
+                "t": "A growing number of students will be able to earn degrees in medicine and law."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "If there's one rule that most parents cling to in the confusing, fast-changing world of kids and media, it's \"No screens before age 2.\" As of today, that rule has been thrown out the window. The American Academy of Pediatrics (AAP), which first issued that recommendation back in 1999, has extensively updated and revised its guidelines for children and adolescents to reflect new research and new habits. The new guidelines, especially for very young children, shift the focus from WHAT is on the screen to WHO else is in the room. And in doing so, they raise some intriguing points about the future of learning from media. For babies younger than 18 months, AAP still says no screens at all are the best idea—with one notable exception: Live video chat. Surveys indicate that families already popularly believe that \"Face time doesn't count\", or at least that the benefit of virtual visits with grandparents or other relatives outweighs the potential cost of exposing babies to the laptop or smartphone. The AAP doesn't cite positive evidence that infants actually get something out of this kind of \"conversation\", the way that they clearly do from live social interaction. But there's some observational research that infants as young as six months old are emotionally engaged by playing live peekaboo( 躲猫猫) with Grandma online. For infants and toddlers(学步儿童), ages 15 months to 2 years old, there's limited evidence from a couple of very small studies that they can learn new words from educational media, if and only if parents are watching alongside them, repeating what the video says and/or drawing attention to what is on the screen. In other words, treating a video or an app like a picture book is the best bet. The flip side of this is that many studies have actually shown poorer language skills correlated with earlier solo viewing of \"educational\" videos. There's also research that shows language delays in children who watch more TV and start watching earlier. In both cases, the problem seems to be media replacing interaction with people. For this reason, the new AAP guideline has changed from \"avoid all screens under age 2\" to \"avoid solo media use in this age group.\" For preschoolers ages 2 to 5, there's more evidence that they have the ability to transfer knowledge from screens to the real world, including early literacy and math. For this age group, AAP recommends no more than an hour a day of screen use. And, just as with younger children, they want care-givers to take part in screen time: \"Co-view with your children, help children understand what they are seeing, and help them apply what they learn to the world around them.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn about the \"No screens under 2\" rule?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has met more and more resistance from parents."
+              },
+              {
+                "l": "B",
+                "t": "It has proved helpful to children's healthy growth."
+              },
+              {
+                "l": "C",
+                "t": "It confuses parents with regard to kids' education."
+              },
+              {
+                "l": "D",
+                "t": "It has been discarded in line with recent research."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What do the new AAP guidelines advocate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Young children should be accompanied by parents during screen time."
+              },
+              {
+                "l": "B",
+                "t": "Parents should be emotionally involved in their children's upbringing."
+              },
+              {
+                "l": "C",
+                "t": "Young children should watch videos carefully selected by parents."
+              },
+              {
+                "l": "D",
+                "t": "Parents should protect their children from too much media exposure."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What do families think of live video chat according to surveys?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It should not be regarded as screen time."
+              },
+              {
+                "l": "B",
+                "t": "It helps babies to develop their verbal skills."
+              },
+              {
+                "l": "C",
+                "t": "It is not as harmful as playing games on laptops."
+              },
+              {
+                "l": "D",
+                "t": "It is a good substitute for video viewing."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What do researchers find about kids solo viewing educational videos?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It arouses their interest in language learning."
+              },
+              {
+                "l": "B",
+                "t": "It works no better than reading picture books."
+              },
+              {
+                "l": "C",
+                "t": "It hampers their development of language skills."
+              },
+              {
+                "l": "D",
+                "t": "It helps them acquire independent learning skills."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What does the author say about preschoolers ages 2 to 5?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They can understand pretty well what they see on the screen."
+              },
+              {
+                "l": "B",
+                "t": "They can learn on their own without much parental guidance."
+              },
+              {
+                "l": "C",
+                "t": "They can make use of educational videos to develop digital literacy."
+              },
+              {
+                "l": "D",
+                "t": "They can relate what they learn on the screen to real life situations."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "黄土高原( the Loess Plateau)是中国第三大高原， 面积约60万平方公里，平均海拔 1000-2000米，绝大部 分覆盖着50-80米厚的黄土，是世界上黄土分布最集中、覆盖厚度最大的区域。这是大自然创造的一个奇迹， 在世界上也是绝无仅有的。 黄土高原是中华民族的发祥地之一。早在5500年前，人们就已经在黄土高原上开 始农耕。随着农耕业的持续发展，黄土高原人口不断增加，在秦汉时期就成为中国的政治和经济中心。如今， 随着西部大开发战略的实施，黄土高原地区的经济得到了迅速发展。",
+    "reference": "The Loess Plateau, China's third largest plateau, has an area of about 600,000 square kilometers and an average altitude of 1,000 to 2,000 meters, with most of it covered by loess 50 to 80 meters thick; it is the region with the most concentrated distribution and the greatest thickness of loess in the world. It is a miracle created by nature and is unique in the world. The Loess Plateau is one of the birthplaces of the Chinese nation. As early as 5,500 years ago, people had already begun farming on the Loess Plateau. With the continuous development of farming, its population kept growing, and during the Qin and Han dynasties it became the political and economic center of China. Today, with the implementation of the Western Development Strategy, the economy of the Loess Plateau region has developed rapidly."
+  }
+}

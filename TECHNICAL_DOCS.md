@@ -2496,9 +2496,11 @@ if (appState.studyStats.lastStudyDate !== today) {
 
 
 
-### 3.9 模拟题模块（exam.ts）
+### 3.9 题库模块（exam.ts，原「模拟题」）
 
-**视图状态** `view`：`home / reading-list / listening-list / reading / listening`。
+> 模块已重构为「题库」（真题/模拟双入口），新增真题数据流水线与渲染对接，详见第 40 章（第一步框架）与第 41 章（第二步数据与对接）。以下保留模拟练习（阅读/听力）的原始设计。
+
+**视图状态** `view`：`home / mock-hub / real-hub / real-papers / real-single / real-practice / reading-list / listening-list / reading / listening`。
 
 **数据来源**（静态 `public/exams`）：阅读 `reading/cet4.json`（199 篇）、`reading/cet6.json`（200 篇，文章明显更长）；听力 `listening/index.json` + `tests/Test_001..100.json`，音频走后端 `/api/exam/listening-audio/:id`（流式，支持 Range）。
 
@@ -6465,3 +6467,70 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 - 内置浏览器真机验证：题库首页（严格模式 + 两入口）、真题 hub 级别切换（CET6 听力 30 分钟）、整套空态（130 分钟）、单项六部件、模拟 hub 与现有听力/阅读列表、阅读作答交卷后结果条显示「本次作答用时 28 秒」，且 localStorage 完成记录 `reading:cet4:1` 含 `elapsed:28`。
 - 环境说明：离屏浏览器的使用说明开场动画（`shrinking-to-logo`）与导航 `.click()` 在该环境不稳定，验证时以 JS 直接触发/激活，属环境限制而非代码缺陷；导航切换本身是未改动的 global.ts 逻辑。
 - 待办：第二步真题数据流水线（下载 PDF/MP3、解析结构化、逐套校验，先四级后六级，音频放 `resource/` 不入库）；整套严格模式锁定与更细粒度进度随数据接入完成。
+
+## 41. 真题数据流水线与渲染层对接（2026-11-15，第二步）
+
+### 41.1 数据源策略与转向
+
+- **CET通试点 PDF 为扫描件**：每页 1 张图、文本层提取字符为 0，需 OCR，弃用该路线解析题目；其 MP3 直链（约 4MB）可下，保留为音频来源。
+- **Gitee 真题 PDF 文本层干净**（据此写 `parse_paper.py` 并验证），但大文件 raw 接口返回 403「large file require login for access.」，加 UA 无效，音频 MP3（17–60MB）被拦；推送令牌失效（401）无法登录，故 Gitee 仅用于小文件验证。
+- **最终数据源为懒笔记**：CET4/CET6 各整卷 76 套（2015–2026），服务器端渲染、每题有明确【答案】、格式统一。基础域名 `english-exam.lazynote.cn`，整卷 PDF 走 `downloads.lazynote.cn`。
+
+### 41.2 真题数据模型（RealPaper）
+
+每套输出 `public/exams/real/papers/<id>.json`，id 形如 `<level>-<year>-<月去零>-<set>`（如 `cet4-2024-6-1`）。顶层 `id, level, year, month, set, title, timing, writing, listening, reading, translation`：
+
+- `writing {prompt, sample}`；`translation {source, reference}`。
+- `listening {audio, sections, transcript}`：`audio` 平时为 `''`、共用套时为源套 id；`transcript` 恒为空数组（遗留字段，勿用）；`sections[] {key, name, clips[]}`，`clip {name, questions[], transcript:{en,zh}[]}`，听力题 `{n, s, o:{l,t}[], a}`（`s` 常为空）。
+- `reading.banked {passage, bank:{l,w}[], questions:{n,a}[]}`；`reading.matching {title, paragraphs:{l,t}[], questions:{n,s,a}[]}`；`reading.careful[] {t, passage, questions:RealQ[]}`。
+- 客观题统一以题号 `n` 作为作答 `answers` 的键；1–55 共 55 个答案位。
+
+### 41.3 解析与构建脚本（`tools/exam/real/`，仅标准库 + pymupdf）
+
+- **`parse_paper.py`**：整卷文本 PDF 解析器，含 `PaperParseError`、四部分切分、`parse_mcq`（题号锚行首、同字母重复标记合并）、选词/长篇/仔细/听力/写作/翻译解析、`build_paper`、`_apply_keys`；`_norm` 去水印并折叠空行，`_strip_directions` 按句末标点切除 Directions；选词贪心按 26–35 选空号、双格式（带括号/裸字母）；长篇匹配字母放宽到 A–Z；`_parse_clips` 整块解析 + 范围分组 + 去重 + 物理位置回退。CLI：`<test.pdf> <answer.pdf> [out.json]`。
+- **`parse_lazynote.py`**：标准库 `html.parser` 实现 `_ListeningExtractor`（DOM 平行栈，跟踪 section 锚、clip 容器、卷面题、选项、答案、题干、原文段号、中译）与 `_SupplementExtractor`（按题号关联答案首字母、范文、翻译定稿）；对外 `parse_listening_html`、`extract_supplement`。
+- **`build_real.py`**：构建编排。从 hub 正则枚举 76 slug，下载并缓存整卷 PDF 与各题型 HTML（`_get` 5 次重试 / 90s / 递增退避），先 `build_paper` 出无答案整卷，再逐页 `extract_supplement` 合并答案/范文/译文，按 clip 并入听力原文，`_apply_keys` 校验 1–55 全覆盖后写盘。含共用部分泛化（`_resolve_shared`/`_resolve_reading_sub`/占位识别，深拷贝源套并注入答案）。CLI：`list|one|all <level> [slug]`。
+- **`build_manifest.py`**：汇总 papers 产出 `public/exams/real/index.json`：`{levels:[{level,label,count,pers:[{id,year,month,set,title,hasAudio}]}]}`，每级别 76 套、按 (year,month) 降序、set 升序；`hasAudio` 依据 `resource/真题/audio/<id>.mp3` 是否存在。无参数直接运行。
+
+### 41.4 全量批量与边缘修复
+
+- 选择题号锚行首；选词贪心按 26–35 选空号；长篇匹配字母放宽到 A–Z（CET4 2015-06-3 为 A–Q、CET6 2025-12-3 为 A–R、第 40 题答 R；选词词库严格 A–O 不动）。
+- 仔细 Passage 大小写不敏感；选项重复标记 "A) A) ..." 合并；全局去懒笔记水印；容错批处理单套失败不中断。
+- 全量结果：CET4/CET6 各 76 套，**152 个 JSON 全部落盘**。
+
+### 41.5 渲染层对接（`src/modules/exam.ts` + `exam.css`）
+
+- **manifest 与状态**：新增整套 Real* 接口、`RealConfig`/`RealProgress`；`ensureManifest` 加载 index.json，real session 状态与细粒度进度存储（键 `examRealProgress`，按题号合并、含 writing/translation 标记）。
+- **整套列表**：`openRealPapers`/`renderRealPapersList` 从 manifest 渲染，序号圆圈在整套完成（键 `real:whole:<id>`，写入 `examCompleted`）时标绿，并显示「已练 N/55」部分进度与 hasAudio 标记。
+- **作答引擎**：`renderRealPractice` 按官方顺序装配写作→听力→阅读（选词/长篇/仔细）→翻译，各部分独立渲染；严格模式用 `startSimTimer`（复用 `#sim-countdown`），到点走全局 `submit(true)`（已加 real 分支）强制交卷；非严格只记录用时不强制。
+- **严格限时**：听力每题 `timing.listening/25`、阅读每题 `timing.reading/30`、写作/翻译各固定 timing 值；整套求和恰等于官方 total（CET4 7500s、CET6 7800s），子集按入选题数比例。
+- **交卷与复习**：结果条显示客观题 correct/total、正确率、本次作答用时，及「参考答案/听力原文/写作范文/参考译文/重做」开关；`renderRealExtra` 挂载附加区，原文与正文单词包查词链接，开关随 config 自适应（未选项不显示对应开关）。
+- **单项勾选**：`openRealSingle`/`renderRealSingle` 为交互式——顶部套卷下拉（76 套），听力按 section 全选 + 每 clip 勾选、仔细按篇、选词/长篇/写作/翻译按项，已练单元显示「已练」；底部吸底条汇总已选客观题数与主观项并开始；`onRealToggle` 更新 config 后整页重渲染。
+- **写作/翻译**：textarea（`data-real-input` 实时存 `realText`），交卷后显示 sample/reference 对照，不评分。
+- **样式**：`exam.css` 追加真题作答与单项选择专用样式（ex-real-block/ex-bank/ex-match-*/ex-opts-letters/ex-tr-*/ex-paper-select/ex-check-*/ex-done-tag/ex-single-start 等，含响应式）。
+- **后端音频路由（`electron/api/exam.ts`）**：新增 `/api/exam/real-audio/:id`，id 正则 `^cet[46]-\d{4}-\d{1,2}-\d{1,2}$` 严格校验、杜绝路径穿越；`findRealMp3` 在 `resource/真题/audio` 与 ASSETS_DIR 候选定位，`sendFile` 自动处理 Range（206）。**CET通资源虽以 `.mp3` 命名，实际为 MP4/M4A 容器（魔数 `ftyp`）**，故 `realAudioContentType` 读前 12 字节按魔数返回 `audio/mp4`（ftyp）或 `audio/mpeg`（ID3/帧同步），不硬编码类型。
+- **音频下载（`download_audio.py`）**：CET通直链 `…/library/<level>/<slug 下划线>/listening.mp3`，存 `resource/真题/audio/<id>.mp3`（gitignored），404 计入缺失、写 `_availability.json`。全量结果：CET4/CET6 各 29 套直接命中（2019–2025 的第 1/2 套），其余 404；共用套（第 3 套等，`listening.audio` 指向源套）经前端 `realAudioId` 解析到源套，**前端实际可播放 98 套（每级 49）、54 套显示未就绪**。
+
+### 41.6 细粒度进度
+
+- 存储键 `examRealProgress`（`RealProgressMap`：paper id → `{q:number[], writing?, translation?}`），交卷时按题号合并；整套完成另写 `real:whole:<id>` 到 `examCompleted`。
+- 整套完成后该套所有 clip/选词/长篇/仔细/写作/翻译单元在单项页显示「已练」；重进单项页配置清空、历史标签保留；套卷切换加载对应套并重置标签。
+
+### 41.7 校验结果
+
+- 结构校验：papers 152、每套 55 个答案位（值集合唯一）、watermark 0。
+- 深度内容校验：152/152 套 clip 级听力原文（en/zh）齐全；写作 prompt/sample、翻译 source/reference 非空；阅读/听力正文无 Directions 残留；各部分答案字母合法（听力/仔细 A–D、选词在词库、长篇在段落集）；选项无空文本。
+
+### 41.8 验证记录
+
+- `tsc --noEmit` 0 错误；`vitest run` 18 文件 **191 项全部通过**；`vite build` 成功，CSP 注入 1 个 hash（`sha256-PoyqLBnYiOhXKSOvv68bZtowmhKgBk9d2pOMEjn43uY=`，未变）。
+- dist 含 152 paper + index.json；robocopy `/MIR` 已镜像同步 `static/`，dist/static 的 assets 与 index.html 哈希一致、旧 hash 已清理。
+- 内置浏览器真机验证（vite preview 4173）：题库首页两入口；真题 hub 级别切换；CET4/CET6 整套 55 题作答→交卷判分（55/55、100%）→结果条显示用时与四个复习开关，参考答案/听力原文（中英）/范文/译文与查词链接均渲染；严格模式计时条显示官方总时长（CET4 125:00、CET6 130:00）并走秒，到 0 经真实计时回调强制交卷（选项禁用、结果条 0/55）；单项勾选（section 全选/clip/仔细按篇）→子集仅渲染选中块、判分与开关随配置；「已练」标签与套卷切换正确；模拟 hub 入口无回归。
+- 环境说明：验证中旧 preview 进程因连接池耗尽出现静态请求挂起（与数据无关，重启进程后 CET4/CET6 均 200 正常）；离屏 rAF/WAAPI 可能冻结，不稳定的点击以 JS 触发，属环境限制。
+- 音频专项验证（2026-11-15）：`tsc -p tsconfig.electron.json` 编译/类型检查 0 错误；挂载真实 express 路由做集成测试——非法 id（含 `..`/分隔符/坏格式）返回 400、合法但无文件 404、完整文件 200 且 Content-Type 按魔数为 `audio/mp4`、Range 请求返回 206（`Content-Range: bytes 0-99/1000`，内容与尾部 Range 均正确）。启动「dist 静态 + 真题 API」服务做真机验证：带音频套渲染 `<audio>` 且 src 指向 `/api/exam/real-audio/<id>`，加载得 `duration≈1410s`、`readyState=4`、可寻址；可信手势内 `play()` 成功（paused=false、时间推进），暂停与跳转（currentTime=60）正常；共用套（2019-12-3）src 解析到源套 2019-12-1 并加载元数据；无音频套（2015 期）只显示「录音未就绪」、无 audio 元素。58 个真实 MP3（M4A）文件全程未被测试覆盖，验证后临时文件已删。
+
+### 41.9 待办
+
+- 音频：后端路由、下载与前端播放已闭环（98 套可播放、54 套无音频）。剩余 54 套（2015–2018、2026 期）CET通 404，若后续找到可用音频源再补，重跑 `build_manifest.py` 即可翻转；当前无音频不影响题目与原文练习。
+- `download.py`（面向 Gitee、受 403 阻塞）待评估改造或废弃；其职责已被 `download_audio.py` 覆盖，可考虑删除。
+- 推送阻塞于新令牌（旧 Gitee/GitHub 令牌均 401），拿到后推 main:main，本地提交无需重做。

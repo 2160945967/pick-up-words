@@ -1,0 +1,1361 @@
+{
+  "id": "cet6-2018-12-1",
+  "level": "cet6",
+  "year": 2018,
+  "month": 12,
+  "set": 1,
+  "title": "2018年12月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on how to balance work and leisure. You should write at least 150 words but no more than 200 words.",
+    "sample": "In today's fast-paced society, many people are so absorbed in their careers that they leave almost no room for rest. Yet balancing work and leisure is essential, for it protects our health and, in the long run, keeps us productive. The real question is not why we should do it, but how. In my view, a sensible balance can be achieved through a few practical steps.First, we should plan our time reasonably. By drawing up a weekly schedule that fixes clear hours for work and for relaxation, we avoid letting one swallow the other. Second, it is advisable to set firm boundaries. For instance, switching off work emails after nine o'clock stops the office from invading our private life. Moreover, cultivating a hobby, such as running or painting, gives our mind a genuine break rather than an empty one.By taking these steps, we can enjoy our jobs without being enslaved by them. Only when work and leisure are kept in harmony can we lead a healthy and fulfilling life."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can benefit professionals and non-professionals alike."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It lists the various challenges physicists are confronting."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It describes how some mysteries of physics were solved."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is one of the most fascinating physics books ever written."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Physicists' contribution to humanity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Stories about some female physicists."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Historical evolution of modern physics."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Women's changing attitudes to physics."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By exposing a lot of myths in physics."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By describing her own life experiences."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By including lots of fascinating knowledge."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By telling anecdotes about famous professors."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It avoids detailing abstract concepts of physics."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It contains a lot of thought-provoking questions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It demonstrates how they can become physicists."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It provides experiments they can do themselves.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hey, I just read a great book about physics. I think you'd like it. It's called The Physics of the World. It's written by a scientist named Sylvia Mundus.",
+                "zh": "M: 嘿，我刚读了一本很棒的物理学书。我觉得你会喜欢。书名叫《世界的物理学》，作者是一位名叫 Sylvia Mundus 的科学家。"
+              },
+              {
+                "en": "W: Oh, I read that book. It was great. The writer is a warm and competent guide to the mysteries of physics. I think it promises enrichment for any reader, from those who know little about science to the career physicist.",
+                "zh": "W: 哦，我读过那本书。写得很棒。作者是一位温暖而称职的向导，带领读者探索物理学的奥秘。我觉得这本书能让任何读者都有所收获，从对科学知之甚少的人，到以物理学为职业的物理学家，概莫能外。"
+              },
+              {
+                "en": "M: And it's refreshing to see a strong, curious, clever woman adding her voice to the scientific discourse in a field that has been traditionally dominated by men. I think she is to be commended for making an effort to include anecdotes about little-known female scientists. You know, they were often victims of \"a generation firmly convinced that the woman's place was in the home.\"",
+                "zh": "M: 而且，在一个传统上由男性主导的领域里，看到一位坚强、好奇又聪慧的女性为科学 discourse 增添自己的声音，真令人耳目一新。我认为，她努力加入那些鲜为人知的女性科学家的轶事，值得肯定。你知道，她们往往是“整整一代人都坚信女人的位置在家里”这一观念的受害者。"
+              },
+              {
+                "en": "W: I like how the book is clearly written with each chapter brought to life by pieces of fascinating knowledge. For example, in one chapter she exposes a myth that I've heard taught by university physics professors. I've often heard that medieval glass windows are thicker at the bottom because glass \"flows\" like a fluid. This, she shows, is not true. The distortion is actually thanks to a peculiarity of the glassmaker's process.",
+                "zh": "W: 我喜欢这本书清晰易懂的写法，每一章都通过一些引人入胜的知识片段变得生动起来。比如，在其中一章里，她揭穿了一个我曾听大学物理学教授讲过的迷思。我经常听人说，中世纪玻璃窗的底部更厚，是因为玻璃会像流体一样“流动”。但她指出，这并不是真的。玻璃出现这种变形，实际上是因为玻璃制造工艺的一个特殊之处。"
+              },
+              {
+                "en": "M: Yeah, I like how she cultivates scientific engagement by providing a host of do-it-yourself experiments that bring the same foundational principles of classical physics that govern everything from the solar system to your kitchen table. From using complex laws of physics to test whether a spinning egg is cooked to measuring atmospheric pressure by lifting a piece of cardboard, her hands-on examples make her book a truly interactive read.",
+                "zh": "M: 是啊，我喜欢她通过提供大量自己动手做的实验来培养科学参与感。这些实验展现了经典物理学的基本原理，而这些原理支配着从太阳系到你家餐桌的一切。从运用复杂的物理学定律来检验一个旋转的鸡蛋是否煮熟，到通过举起一块纸板来测量大气压，她的实践性示例让这本书真正成为一本互动式读物。"
+              },
+              {
+                "en": "Yes. I must say this equation-free book is an ideal read for scientists of all stripes, anyone teaching science and even people who dislike physics.",
+                "zh": "是的。我得说，这本没有公式的书非常适合各个领域的科学家、所有教授科学的人，甚至那些不喜欢物理学的人阅读。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is too busy to finish his assignment in time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He does not know what kind of topic to write on."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He does not understand the professor's instructions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has no idea how to proceed with his dissertation."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is too broad."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a bit outdated."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is challenging."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is interesting."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Biography."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Nature."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Philosophy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Beauty."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Improve his cumulative grade."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Develop his reading ability."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Stick to the topic assigned."
+                  },
+                  {
+                    "l": "D",
+                    "t": "List the parameters first."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hi, professor. I was hoping I could have a moment of your time if you're not too busy. I'm having some problems getting started on my dissertation, and I was hoping you could give me some advice on how to begin.",
+                "zh": "M：教授您好。如果您不是太忙的话，我想占用您一点时间。我在开始写毕业论文方面遇到了一些问题，希望您能给我一些如何着手的建议。"
+              },
+              {
+                "en": "W: Sure. I have quite a few students, though. So can you remind me what your topic is?",
+                "zh": "W：当然可以。不过，我的学生相当多。你能提醒我一下你的论文题目是什么吗？"
+              },
+              {
+                "en": "M: The general topic I chose is aesthetics, but that's as far as I've got. I don't really know where to go from there.",
+                "zh": "M：我选的总体题目是美学，但也只进行到这一步。我真的不知道接下来该从哪里入手。"
+              },
+              {
+                "en": "W: Yeah. That's much too large a topic. You really need to narrow it down in order to make it more accessible. Otherwise, you will be writing a book.",
+                "zh": "W：是的。这个题目实在太大了。你确实需要把范围缩小，这样才更容易展开。否则，你写的就会是一本书。"
+              },
+              {
+                "en": "M: Exactly. That's what I wanted to ask you about. I was hoping it would be possible for me to change topics. I'm really more interested in nature than beauty.",
+                "zh": "M：没错。这正是我想向您请教的。我希望能有可能更换题目。我其实对自然比对美更感兴趣。"
+              },
+              {
+                "en": "W: I'm afraid you have to adhere to the assigned topic. Still, if you are interested in nature, then that certainly can be worked into your dissertation. We've talked about Hume before in class, right?",
+                "zh": "W：恐怕你必须遵循指定的题目。不过，既然你对自然感兴趣，当然可以把它融入你的论文中。我们之前在课堂上讨论过休谟，对吧？"
+              },
+              {
+                "en": "M: Oh, yeah. He's the philosopher who wrote about where our ideas of beauty come from.",
+                "zh": "M：哦，对。他是那个写过关于我们的美感观念从何而来的哲学家。"
+              },
+              {
+                "en": "W: Exactly. I suggest you go to the library and get a copy of his biography. Start from there, but remember to stick to the parameters of the assignment. This paper is a large part of your cumulative grade, so make sure to follow the instructions. If you take a look at his biography, you can get a good idea of how his life experiences manifest themselves in his theories of beauty, specifically the way he looked towards nature as the origin of what we find beautiful.",
+                "zh": "W：没错。我建议你去图书馆找一本他的传记。从那里开始，但记住要遵守作业要求的范围。这篇论文在你的累计成绩中占很大比重，所以一定要按照要求来。如果你看看他的传记，就能很好地了解他的人生经历是如何体现在他的美学理论中的，尤其是他如何把自然视为我们认定美的事物的源头。"
+              },
+              {
+                "en": "M: Great! Thanks for taking the time to answer my questions, professor. I'll let you get back to class now.",
+                "zh": "M：太好了！教授，谢谢您抽时间回答我的问题。您现在可以回去上课了。"
+              },
+              {
+                "en": "W: If there is anything else you need, please come see me in my office anytime.",
+                "zh": "W：如果你还需要其他帮助，随时来我的办公室找我。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The unprecedented high temperature in Greenland."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The collapse of ice on the northern tip of Greenland."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The unusual cold spell in the Arctic area in October."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The rapid change of Arctic temperature within a day."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has created a totally new climate pattern."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will pose a serious threat to many species."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It typically appears about once every ten years."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has puzzled the climate scientists for decades."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Extinction of Arctic wildlife."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Iceless summers in the Arctic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Emigration of indigenous people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Better understanding of ecosystems.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "During the Arctic winter from October to March, the average temperature in the frozen north typically hovers around minus 20 degrees Celsius. But this year, the Arctic is experiencing much higher temperatures.",
+                "zh": "从十月到次年三月的北极冬季，冰封北方的平均气温通常徘徊在零下20摄氏度左右。但今年，北极正经历高得多的气温。"
+              },
+              {
+                "en": "On February 20, the temperature in Greenland climbed above freezing or zero degrees Celsius and it stayed there for over 24 hours. Then on February 24, the temperature on Greenland's northern tip reached six degrees Celsius. Climate scientists described the phenomenon as \"stunning.\"",
+                "zh": "2月20日，格陵兰岛的气温升至冰点以上，即零摄氏度以上，并持续了24个多小时。随后，2月24日，格陵兰岛北端的气温达到6摄氏度。气候科学家将这一现象描述为“惊人”。"
+              },
+              {
+                "en": "Weather conditions that drive this bizarre temperature surge have visited the Arctic before. They typically appear about once in a decade. However, the last such increase in temperature took place two years ago.",
+                "zh": "导致这种异常升温的天气条件过去也曾光顾北极。它们通常十年左右出现一次。然而，上一次这样的气温升高发生在两年前。"
+              },
+              {
+                "en": "This is troubling as climbing Arctic temperatures combined with rapid sea-ice loss are creating a new type of climate feedback loop which could accelerate Arctic warming. Indeed, sea-ice cover in the Arctic is melting faster than expected. Without those masses of cooling sea ice, warm air brought to the Arctic can penetrate further inland than it ever did before. The air can stay warmer longer, too. This drives additional melting.",
+                "zh": "这令人担忧，因为不断升高的北极气温与海冰的快速消退相结合，正在形成一种新型气候反馈循环，可能会加速北极变暖。事实上，北极的海冰覆盖层正在以超出预期的速度融化。没有了这些大面积的降温海冰，带到北极的暖空气能够比以往任何时候都更深入内陆。暖空气也能更长时间地保持较高温度，从而推动更多冰层融化。"
+              },
+              {
+                "en": "Overall, Earth is warming at a rapid pace—2014 through 2017 rank as the hottest years on record—and the Arctic is warming twice as fast as anyplace else on Earth. This raises unique challenges for Arctic wildlife and indigenous people who depend on Arctic ecosystems to survive.",
+                "zh": "总体而言，地球正在以很快的速度变暖，2014年至2017年位列有记录以来最热的年份，而北极的变暖速度是地球其他任何地方的两倍。这给依赖北极生态系统生存的北极野生动物和原住民带来了独特的挑战。"
+              },
+              {
+                "en": "Previously, climate forecasts predicted that Arctic summer ice would disappear entirely by around 2060. But based on what scientists are seeing now, the Arctic may be facing summers without ice within 20 years.",
+                "zh": "此前，气候预测曾预计北极夏季海冰将在大约2060年之前完全消失。但根据科学家目前观察到的情况，北极可能在20年内迎来没有海冰的夏季。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A good start."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A detailed plan."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A strong determination."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A scientific approach."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Most people get energized after a sufficient rest."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Most people tend to have a finite source of energy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is vital to take breaks between demanding mental tasks."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is most important to have confidence in one's willpower."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They could keep on working longer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They could do more challenging tasks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They found it easier to focus on work at hand."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They held more positive attitudes toward life."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are part of their nature."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are subject to change."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are related to culture."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are beyond control."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A good dose of willpower is often necessary to see any task through, whether it's sticking to a spending plan or finishing a great novel. And if you want to increase that willpower, a new study suggests you just simply have to believe you have it. According to the study, what matters most is what we think about our willpower. If we believe it's a finite resource, we act that way. We feel exhausted and need breaks between demanding mental tasks. However, people who view their willpower as a limitless resource get energized instead.",
+                "zh": "要把任何一项任务坚持到底，往往都需要相当大的意志力，无论是遵守消费计划，还是读完一部精彩的小说。如果你想增强意志力，一项新的研究表明，你只需相信自己拥有意志力即可。研究显示，最重要的是我们如何看待自己的意志力。如果我们认为意志力是一种有限的资源，就会依照这种方式行事。我们会感到疲惫，在需要高度专注的脑力任务之间需要休息。然而，那些把意志力视为一种取之不尽资源的人反而会变得精力充沛。"
+              },
+              {
+                "en": "The researchers used a psychological assessment tool to test the validity of the study. They asked 1,100 Americans and 1,600 Europeans to grade different statements such as \"After a challenging mental activity, my energy is depleted, and I must rest to get it refueled again.\" or \"I can focus on a mental task for long periods without feeling tired.\" Although there was little difference between men and women overall, Americans were more likely to admit to needing breaks after completing mentally challenging tasks. European participants, on the other hand, claimed they were able to keep going.",
+                "zh": "研究人员使用一种心理评估工具来检验这项研究的有效性。他们让1100名美国人和1600名欧洲人对不同的陈述进行评分，例如：“完成一项具有挑战性的脑力活动后，我的精力会耗尽，必须休息才能重新补充能量。”或者“我可以长时间专注于一项脑力任务而不会感到疲倦。”总体而言，男性和女性之间的差异很小，但美国人更有可能承认，在完成具有脑力挑战性的任务后需要休息。另一方面，欧洲参与者则声称自己能够继续坚持下去。"
+              },
+              {
+                "en": "Based on the findings, the researchers suggest that the key to boosting your willpower is to believe that you have an abundant supply of it. \"Your feelings about your willpower affect the way you behave. But these feelings are changeable,\" they said. \"Changing your beliefs about the nature of your self-control can have positive effects on character development. This leads to healthier behaviors and perceptions of other people.\"",
+                "zh": "根据研究结果，研究人员认为，增强意志力的关键在于相信自己拥有充足的意志力。他们说：“你对自己意志力的感受会影响你的行为方式。但这些感受是可以改变的。改变你对自我控制本质的看法，能够对品格发展产生积极影响。这会带来更健康的行为方式以及对他人的认知。”"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About half of current jobs might be automated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The jobs of doctors and lawyers would be threatened."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The job market is becoming somewhat unpredictable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Machine learning would prove disruptive by 2013."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are widely applicable for massive open online courses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are now being used by numerous high school teachers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They could read as many as 10,000 essays in a single minute."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They could grade high-school essays just like human teachers."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It needs instructions throughout the process."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It does poorly on frequent, high-volume tasks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has to rely on huge amounts of previous data."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is slow when it comes to tracking novel things.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Here is my baby niece Sarah. Her mom is a doctor and her dad is a lawyer. By the time Sarah goes to college, the jobs her parents do are going to look dramatically different.",
+                "zh": "这是我的小侄女萨拉。她的妈妈是一名医生，爸爸是一名律师。等萨拉上大学时，她父母所从事的工作将会呈现出截然不同的面貌。"
+              },
+              {
+                "en": "In 2013, researchers at Oxford University did a study on the future of work. They concluded that almost one in every two jobs has a high risk of being automated by machines. Machine learning is the technology that's responsible for most of this disruption. It's the most powerful branch of artificial intelligence. It allows machines to learn from data and copy some of the things that humans can do. My company, Kaggle, operates on the cutting edge of machine learning. We bring together hundreds of thousands of experts to solve important problems for industry and academia. This gives us a unique perspective on what machines can do, what they can't do and what jobs they might automate or threaten.",
+                "zh": "2013年，牛津大学的研究人员对未来的工作进行了研究。他们得出结论，几乎每两份工作中就有一份面临被机器自动化的高风险。机器学习是造成大部分这种变革的技术。它是人工智能最强大的分支。机器学习使机器能够从数据中学习，并模仿人类能够完成的一些事情。我的公司 Kaggle 处于机器学习发展的前沿。我们汇集了数十万名专家，为工业界和学术界解决重要问题。这让我们能够独特地洞察机器能做什么、不能做什么，以及它们可能会自动化或威胁到哪些工作。"
+              },
+              {
+                "en": "Machine learning started making its way into industry in the early '90s. It started with relatively simple tasks. It started with things like assessing credit risk from loan applications, sorting the mail by reading handwritten zip codes. Over the past few years, we have made dramatic breakthroughs. Machine learning is now capable of far, far more complex tasks. In 2012, Kaggle challenged its community to build a program that could grade high-school essays. The winning programs were able to match the grades given by human teachers.",
+                "zh": "机器学习在20世纪90年代初开始进入工业领域。起初，它处理的是相对简单的任务，比如根据贷款申请评估信用风险，通过读取手写邮政编码来分拣邮件。在过去几年里，我们取得了重大突破。如今，机器学习已经能够完成复杂得多的任务。2012年，Kaggle 向其社区发起挑战，要求开发一个能够给高中作文评分的程序。获胜程序给出的分数能够与人类教师的评分相媲美。"
+              },
+              {
+                "en": "Now, given the right data, machines are going to outperform humans at tasks like this. A teacher might read 10,000 essays over a 40-year career. A machine can read millions of essays within minutes. We have no chance of competing against machines on frequent, high-volume tasks.",
+                "zh": "现在，只要拥有合适的数据，机器在这类任务上的表现将超过人类。一名教师在40年的职业生涯中可能会阅读一万篇作文，而一台机器几分钟内就能阅读数百万篇作文。在频繁、大批量的任务上，我们没有机会与机器竞争。"
+              },
+              {
+                "en": "But there are things we can do that machines cannot. Where machines have made very little progress is in tackling novel situations. Machines can't handle things they haven't seen many times before. The fundamental limitation of machine learning is that it needs to learn from large volumes of past data. But humans don't. We have the ability to connect seemingly different threads to solve problems we've never seen before.",
+                "zh": "但是，有些事情是机器做不到的。机器进展甚微的领域，是应对新情况。对于以前没有反复见过的事物，机器无法处理。机器学习的根本局限在于，它需要从大量过去的数据中学习，而人类不需要这样做。我们有能力将看似不同的线索联系起来，从而解决从未遇到过的问题。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The engineering problems with solar power."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The generation of steam with the latest technology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The importance of exploring new energy sources."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The theoretical aspects of sustainable energy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Drive trains with solar energy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Upgrade the city's train facilities."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Build a new ten-kilometre railway line."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cut down the city's energy consumption."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Build a tank for keeping calcium oxide."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Find a new material for storing energy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Recover super-heated steam."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Collect carbon dioxide gas.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "We've talked recently about the importance of sustainable energy. We've also talked about the different theories on how that can be done. So far, our discussions have all been theoretical. Now I have a practical question for you all. Can you run a 140,000 kilogram train on just the steam generated by solar power? Well, one engineer, Tim Castleman, believes it's possible.",
+                "zh": "我们最近谈过可持续能源的重要性，也谈过如何实现这一目标的不同理论。到目前为止，我们的讨论一直停留在理论层面。现在我想问大家一个实际问题：仅凭太阳能产生的蒸汽，能否驱动一列重达14万千克的火车？一位名叫Tim Castleman的工程师认为这是可能的。"
+              },
+              {
+                "en": "And his home city of Sacramento, California should see the technology's first test. As part of the upgrading of its rail yard, Castleman, who is an inventor and self-proclaimed steam visionary, is campaigning for a new steam train that runs without any fire and could run on an existing 10-kilometre line, drawing tourists and perhaps offering city commuters a green alternative to their cars. Castleman wants to build an array of solar magnifying mirrors at one end of the line to collect and focus heat onto water-filled tubes. This would generate steam that could be used to fill tanks on a small steam train without the use of fire. \"Supplying power to trains in this way would offer the shortest distance from well to wheels,\" he says, \"with the least amount of energy lost.\" According to Harry Valentine, a Canadian engineer who is researching modern steam technology, a special tank measuring 2 by 10 metres could store over 750 kilowatt-hours of energy as high-pressure steam, enough to pull a two-car train for an hour or so.",
+                "zh": "而他的家乡城市——加利福尼亚州的萨克拉门托——应该会迎来这项技术的首次测试。作为铁路车辆段升级改造的一部分，Castleman是一位发明家，也是自称的蒸汽技术先驱；他正在争取建造一列无需燃火即可运行的新型蒸汽火车。这列火车可以在一条现有的10公里线路上运行，吸引游客，也许还能为城市通勤者提供一种比开车更环保的选择。Castleman希望在线路的一端建造一组太阳能聚光镜，收集并聚焦热量，将其集中到装满水的管道上。这样就能产生蒸汽，在不使用火的情况下将蒸汽注入一列小型蒸汽火车的储罐中。他说：“以这种方式为火车提供动力，可以实现从能源来源到车轮的最短距离，同时损失的能量也最少。”加拿大工程师Harry Valentine正在研究现代蒸汽技术。据他介绍，一个尺寸为2米乘10米的特制储罐，可以以高压蒸汽的形式储存超过750千瓦时的能量，足以牵引一列两节车厢的火车运行大约一小时。"
+              },
+              {
+                "en": "Energy to drive a steam locomotive can be stored in other materials besides water. For example, a team at Tohoku University in Japan has studied materials that can store large amounts of heat. When heated, these materials turn from a solid into a liquid absorbing energy as they change phase. The liquid is maintained above its melting point until steam is required, at which point the liquid is allowed to turn back into a solid, releasing its stored energy. Another team at Nagoya University in Japan has tested calcium compound as an energy storage material. Heating this chemical compound drives off carbon dioxide gas, leaving calcium oxide. The gas can be stored under pressure in a tank. To recover the energy, the gas is fed back over the calcium oxide. \"In theory,\" says Valentine, \"this can create a high enough temperature to generate superheated steam.\"",
+                "zh": "驱动蒸汽机车所需的能量，除了储存在水中，也可以储存在其他材料中。例如，日本东北大学的一个研究团队研究了能够储存大量热量的材料。这些材料受热后会从固态变为液态，并在发生相变的过程中吸收能量。在需要蒸汽之前，这种液体会一直保持在熔点以上；需要蒸汽时，则使液体重新变回固体，释放出储存的能量。日本名古屋大学的另一个团队测试了将含钙化合物作为储能材料。加热这种化合物会驱除二氧化碳气体，留下氧化钙。气体可以在储罐中加压储存。为了回收能量，将气体重新通入氧化钙中。Valentine说：“从理论上讲，这可以产生足够高的温度，从而生成过热蒸汽。”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The lack of supervision by both the national and local governments."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The impact of the current economic crisis at home and abroad."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The poor management of day centres and home help services."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The poor relation between national health and social care services."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was mainly provided by voluntary services."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It mainly caters to the needs of the privileged."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It called for a sufficient number of volunteers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has deteriorated over the past sixty years."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their longer lifespans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Fewer home helpers available."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their preference for private services."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More of them suffering serious illnesses."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are unable to pay for health services."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have long been discriminated against."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are vulnerable to illnesses and diseases."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have contributed a great deal to society."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Today's crisis in care for older people in England has two main causes. First, people are living longer with a lot more complex needs. Second, they rely on a system that has long been marked by a poor relation between national health and social care services.",
+                "zh": "如今英格兰老年人照护危机主要有两个原因。第一，人们的寿命更长了，同时面临的需求也复杂得多。第二，他们依赖的是一个长期以来国家医疗服务与社会照护服务关系不佳的体系。"
+              },
+              {
+                "en": "Current services originate in two key measures. They are the National Health Service and the 1948 National Assistance Act. This required local governments to provide residential accommodation for older people and supervise care homes run by independent organizations. They also provided home and community services, including meals, day centres and home helpers and other subsidized services. The National Health Service was free and wholly publicly provided. It delivered the best health care for all. No such vision guided residential and community care though. The care was substantially provided by voluntary services which worked together with local authorities as they long had, with eligibility based on income.",
+                "zh": "现行服务源于两项重要举措，即国民保健署和1948年的《国民援助法》。该法要求地方政府为老年人提供住宿，并监督由独立机构运营的护理院。地方政府还提供居家和社区服务，包括餐食、日间照料中心、居家护理人员以及其他补贴服务。国民保健署提供免费且完全由公共部门承担的服务，为所有人提供最优质的医疗保健。然而，住宿照护和社区照护并没有受到这样的理念指导。这类照护主要由志愿服务机构提供；正如长期以来的做法一样，这些机构与地方政府合作，并以收入作为享受服务的资格标准。"
+              },
+              {
+                "en": "Today, life expectancy has risen from 66 for a male at best in 1948 to around 80 now. In addition, there is better overall health and improved medical knowledge in care. This means an unprecedented number of people are surviving longer in conditions requiring experts' support. Families provide at least as much care as they ever did. Even so, they can rarely, without subsidized support, address serious personal needs. Care for older people faced persistent criticism as these trends became apparent.",
+                "zh": "如今，男性的预期寿命已从1948年顶多约66岁提高到现在的约80岁。此外，整体健康状况有所改善，照护方面的医学知识也更加丰富。这意味着，前所未有的大量人口得以在需要专家支持的情况下存活更长时间。家庭提供的照护至少与过去一样多。即便如此，如果没有补贴支持，他们通常很难应对严重的个人照护需求。随着这些趋势逐渐显现，老年人照护持续受到批评。"
+              },
+              {
+                "en": "From the early 1960s, local authorities were required to plan health and welfare services. The aim was to enable older people to remain in their own homes for as long as possible. But this increased concern about the lack of coordination between free health and paid-for social care. Through the 1970s, a number of measures sought to improve matters.",
+                "zh": "从20世纪60年代初开始，地方政府被要求规划医疗和福利服务。其目标是让老年人尽可能长久地住在自己的家中。但这也加剧了人们对免费医疗服务与收费社会照护之间缺乏协调的担忧。整个20世纪70年代，一些措施试图改善这一状况。"
+              },
+              {
+                "en": "However, at a time of financial crisis, funding diminished and little changed. In the 1980s, the government cut spending. Meanwhile, preference for private over public services made management even more difficult. Simultaneously, the number of sick older people grew. Governments emphasized the need to improve services. They did so, though, while doing little to stop the erosion of available aid.",
+                "zh": "然而，在财政危机时期，资金减少了，情况几乎没有改变。20世纪80年代，政府削减了支出。与此同时，对私人服务而非公共服务的偏好使管理变得更加困难。与此同时，患病老年人的数量不断增加。历届政府都强调改善服务的必要性。不过，它们在强调这一点的同时，却没有采取多少措施来阻止现有援助不断削弱。"
+              },
+              {
+                "en": "Services were irregular across authorities. Unless you were prepared to pay, they were increasingly difficult to obtain for any but the most severely disabled.",
+                "zh": "各地方政府提供的服务并不一致。除非愿意付费，否则除了残疾程度最重的人以外，其他人越来越难以获得这些服务。"
+              },
+              {
+                "en": "Why has 60 years of criticism produced so little change? Discrimination against older people has a long history. Additionally, those affected by inadequate health and social care are too vulnerable to launch the protests that have addressed other forms of discrimination.",
+                "zh": "为什么长达60年的批评只带来了如此微小的变化？对老年人的歧视由来已久。此外，那些受到不完善的医疗和社会照护影响的人过于脆弱，无法发起曾推动解决其他形式歧视问题的抗议。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Just off the coast of Southern California sits Santa Cruz Island, where a magical creature called the island fox"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ". A decade ago, this island's ecosystem was in"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". Wild pigs attracted golden eagles from the mainland, and those flying"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "crashed the fox population. So the Nature Conservancy launched a"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "war against the pigs, complete with helicopters and sharp shooters. And it worked. Today, federal agencies are pulling the island fox from the Endangered Species List. It's the fastest-ever recovery of a mammal, joining peers like the Louisiana black bear as glowing successes in the history of the Endangered Species Act. But the recovery of Santa Cruz Island isn't just about the fox. The Nature Conservancy has"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "war on a multitude of invasive species here, from sheep to plants to the"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "Argentine ant. \"Our philosophy with the island has always been, 'OK,"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "the threats and let the island go back to what it was,'\" says ecologist Christina Boser. And it appears to be working. Native plants are coming back, and the fox once again bounds about carefree. But keeping those foxes from harm will occupy Boser and her colleagues for years to come. You see, humans are still allowed on Santa Cruz Island, and they bring dogs. So Boser has to vaccinate her foxes against various diseases. \"We're obligated to keep a pulse on the population for at least five years after the foxes are delisted,\" says Boser. That includes tagging the foxes and"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "their numbers to ensure nothing goes wrong. This is the story of the little fox that has come back, and the people who have"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "their lives to protecting it. This is the story of wildlife conservation in the age of mass"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "aggressive"
+        },
+        {
+          "l": "B",
+          "w": "chaos"
+        },
+        {
+          "l": "C",
+          "w": "configuration"
+        },
+        {
+          "l": "D",
+          "w": "declared"
+        },
+        {
+          "l": "E",
+          "w": "dedicated"
+        },
+        {
+          "l": "F",
+          "w": "dwells"
+        },
+        {
+          "l": "G",
+          "w": "extinction"
+        },
+        {
+          "l": "H",
+          "w": "fierce"
+        },
+        {
+          "l": "I",
+          "w": "hinders"
+        },
+        {
+          "l": "J",
+          "w": "mammal"
+        },
+        {
+          "l": "K",
+          "w": "monitoring"
+        },
+        {
+          "l": "L",
+          "w": "predators"
+        },
+        {
+          "l": "M",
+          "w": "remove"
+        },
+        {
+          "l": "N",
+          "w": "tempt"
+        },
+        {
+          "l": "O",
+          "w": "underlying"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "F"
+        },
+        {
+          "n": 27,
+          "a": "B"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "H"
+        },
+        {
+          "n": 30,
+          "a": "D"
+        },
+        {
+          "n": 31,
+          "a": "A"
+        },
+        {
+          "n": 32,
+          "a": "M"
+        },
+        {
+          "n": 33,
+          "a": "K"
+        },
+        {
+          "n": 34,
+          "a": "E"
+        },
+        {
+          "n": 35,
+          "a": "G"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Do Parents Invade Children's Privacy When They Post Photos Online?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "When Katlyn Burbidge's son was 6 years old, he was performing some ridiculous song and dance typical of a first-grader. But after she snapped a photo and started using her phone, he asked her a serious question: \"Are you going to post that online?\" She laughed and answered, \"Yes, I think I will.\" What he said next stopped her. \"Can you not?\""
+        },
+        {
+          "l": "B",
+          "t": "That's when it dawned on her: She had been posting photos of him online without asking his permission. \"We're big advocates of bodily autonomy and not forcing him to hug or kiss people unless he wants to, but it never occurred to me that I should ask his permission to post photos of him online,\" says Burbidge, a mom of two in Wakefield, Massachusetts. \"Now when I post a photo of him online, I show him the photo and get his okay.\""
+        },
+        {
+          "l": "C",
+          "t": "When her 8-month-old is 3 or 4 years old, she plans to start asking him in an age-appropriate way, \"Do you want other people to see this?\" That's precisely the approach that two researchers advocated before a room of pediatricians(儿科医生) last week at the American Academy of Pediatrics meeting, when they discussed the 21st century challenge of \"sharenting,\" a new term for parents' online sharing about their children. \"As advocates of children's rights, we believe that children should have a voice about what information is shared about them if possible,\" says Stacey Steinberg, a legal skills professor at the University of Florida Levin College of Law in Gainesville."
+        },
+        {
+          "l": "D",
+          "t": "Whether it's ensuring that your child isn't bullied over something you post, that their identity isn't digitally \"kidnapped\", or that their photos don't end up on a half dozen child pornography( 色情) sites, as one Australian mom discovered, parents and pediatricians are increasingly aware of the importance of protecting children's digital presence. Steinberg and Bahareh Keith, an assistant professor of pediatrics at the University of Florida College of Medicine, say most children will likely never experience problems related to what their parents share, but a tension still exists between parents' rights to share their experiences and their children's rights to privacy."
+        },
+        {
+          "l": "E",
+          "t": "\"We're in no way trying to silence parents' voices,\" Steinberg says. \"At the same time, we recognize that children might have an interest in entering adulthood free to create their own digital footprint.\" They cited a study presented earlier this year of 249 pairs of parents and their children in which twice as many children as parents wanted rules on what parents could share. \"The parents said, 'We don't need rules—we're fine,' and the children said, 'Our parents need rules,'\" Keith says. \"The children wanted autonomy about this issue and were worried about their parents sharing information about them.\""
+        },
+        {
+          "l": "F",
+          "t": "Although the American Academy of Pediatrics offers guidelines recommending that parents model appropriate social media use for their children, it does not explicitly discuss oversharing by parents. \"I think this is a very legitimate concern, and I appreciate their drawing our attention to it,\" David Hill, a father of five, says. He sees a role for pediatricians to talk with parents about this, but believes the messaging must extend far beyond pediatricians' offices. \"I look forward to seeing researchers expand our understanding of the issue so we can translate it into effective education and policy,\" he says."
+        },
+        {
+          "l": "G",
+          "t": "There's been little research on the topic, Steinberg wrote in a law article about this issue. While states could pass laws related to sharing information about children online, Steinberg feels parents themselves are generally best suited to make these decisions for their families. \"While we didn't want to create any unnecessary panic, we did find some concerns that were troublesome, and we thought that parents or at least physicians should be aware of those potential risks,\" Steinberg says. They include photos repurposed for inappropriate or illegal means, identity theft, embarrassment, bullying by peers or digital kidnapping."
+        },
+        {
+          "l": "H",
+          "t": "But that's the negative side, with risks that must be balanced against the benefits of sharing. Steinberg pointed out that parental sharing on social media helps build communities, connect spread-out families, provide support and raise awareness around important social issues for which parents might be their children's only voice."
+        },
+        {
+          "l": "I",
+          "t": "A C.S. Mott survey found among the 56 percent of mothers and 34 percent of fathers who discussed parenting on social media, 72 percent of them said sharing made them feel less alone, and nearly as many said sharing helped them worry less and gave them advice from other parents. The most common topics they discussed included kids' sleep, nutrition, discipline, behavior problems and day care and preschool."
+        },
+        {
+          "l": "J",
+          "t": "\"There's this peer-to-peer nature of health care these days with a profound opportunity for parents to learn helpful tips, safety and prevention efforts, pro-vaccine messages and all kinds of other messages from other parents in their social communities,\" says Wendy Sue Swanson, a pediatrician and executive director of digital health at Seattle Children's Hospital, where she blogs about her own parenting journey to help other parents. \"They're getting nurtured by people they've already selected that they trust,\" she says."
+        },
+        {
+          "l": "K",
+          "t": "\"How do we weigh the risks, how do we think about the benefits, and how do we alleviate the risks?\" she says. \"Those are the questions we need to ask ourselves, and everyone can have a different answer.\""
+        },
+        {
+          "l": "L",
+          "t": "Some parents find the best route for them is not to share at all. Bridget O'Hanlon and her husband, who live in Cleveland, decided before their daughter was born that they would not post her photos online. When a few family members did post pictures, O'Hanlon and her husband made their wishes clear. \"It's been hard not to share pictures of her because people always want to know how babies and toddlers(学走路的孩子) are doing and to see pictures, but we made the decision to have social media while she did not,\" O'Hanlon said. Similarly, Alison Jamison of New York decided with her husband that their child had a right to their own online identity. They did use an invitation-only photo sharing platform so that friends and family, including those far away, could see the photos, but they stood firm, simply refusing to put their child's photos on other social media platforms."
+        },
+        {
+          "l": "M",
+          "t": "\"For most families, it's a journey. Sometimes it goes wrong, but most of the time it doesn't,\" says Swanson, who recommends starting to ask children permission to post narratives or photos around ages 6 to 8. \"We'll learn more and more what our tolerance is. We can ask our kids to help us learn as a society what's okay and what's not.\""
+        },
+        {
+          "l": "N",
+          "t": "Indeed, that learning process goes both ways. Bria Dunham, a mother in Somerville, Massachusetts, was so excited to watch a moment of brotherly bonding while her first-grader and baby took a bath together that she snapped a few photos. But when she considered posting them online, she took the perspective of her son: How would he feel if his classmates' parents saw photos of him chest-up in the bathtub? \"It made me think about how I'm teaching him to have ownership of his own body and how what is shared today endures into the future,\" Dunham says. \"So I kept the pictures to myself and accepted this as one more step in supporting his increasing autonomy.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Steinberg argued parental sharing online can be beneficial.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "According to an expert, when children reach school age, they can help their parents learn what can and cannot be done.",
+          "a": "M"
+        },
+        {
+          "n": 38,
+          "s": "One mother refrained from posting her son's photos online when she considered the matter from her son's perspective.",
+          "a": "N"
+        },
+        {
+          "n": 39,
+          "s": "According to a study, more children than parents think there should be rules on parents' sharing.",
+          "a": "E"
+        },
+        {
+          "n": 40,
+          "s": "Katlyn Burbidge had never realized she had to ask her son's approval to put his photos online.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "A mother decided not to post her son's photo online when he asked her not to.",
+          "a": "A"
+        },
+        {
+          "n": 42,
+          "s": "A woman pediatrician tries to help other parents by sharing her own parenting experience.",
+          "a": "J"
+        },
+        {
+          "n": 43,
+          "s": "There are people who decide simply not to share their children's photos online.",
+          "a": "L"
+        },
+        {
+          "n": 44,
+          "s": "Parents and physicians should realize sharing information online about children may involve risks.",
+          "a": "G"
+        },
+        {
+          "n": 45,
+          "s": "Parents who share their parenting experiences may find themselves intruding into their children's privacy.",
+          "a": "D"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Perhaps it is time for farmers to put their feet up now that robots are used to inspect crops, dig up weeds, and even have become shepherds, too. Commercial growing fields are astronomically huge and take thousands of man-hours to operate. One prime example is one of Australia's most isolated cattle stations, Suplejack Downs in the Northern Territory, extending across 4,000 square kilometers, taking over 13 hours to reach by car from the nearest major town—Alice Springs. The extreme isolation of these massive farms leaves them often unattended, and monitored only once or twice a year, which means if the livestock falls ill or requires assistance, it can be a long time for farmers to discover. However, robots are coming to the rescue. Robots are currently under a two-year trial in Wales which will train \"farmbots\" to herd, monitor the health of livestock, and make sure there is enough pasture for them to graze on. The robots are equipped with many sensors to identify conditions of the environment, cattle and food, using thermal and vision sensors that detect changes in body temperature. \"You've also got color, texture and shape sensors looking down at the ground to check pasture quality,\" says Salah Sukkarieh of the University of Sydney, who will carry out trials on several farms in central New South Wales. During the trials, the robot algorithms(算法) and mechanics will be fine-tuned to make it better suited to ailing livestock and ensure it safely navigates around potential hazards including trees, mud, swamps, and hills. \"We want to improve the quality of animal health and make it easier for farmers to maintain large landscapes where animals roam free,\" says Sukkarieh. The robots are not limited to herding and monitoring livestock. They have been created to count individual fruit, inspect crops, and even pull weeds. Many robots are equipped with high-tech sensors and complex learning algorithms to avoid injuring humans as they work side by side. The robots also learn the most efficient and safest passages, and allow engineers and farmers to analyze and better optimize the attributes and tasks of the robot, as well as provide a live stream giving real-time feedback on exactly what is happening on the farms. Of course, some worry lies in replacing agricultural workers. However, it is farmers that are pushing for the advancements due to ever-increasing labor vacancies, making it difficult to maintain large-scale operations. The robots have provided major benefits to farmers in various ways, from hunting and pulling weeds to monitoring the condition of every single fruit. Future farms will likely experience a greater deal of autonomy as robots take up more and more farm work efficiently.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What may farmers be able to do with robots appearing on the farming scene?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Upgrade farm produce"
+              },
+              {
+                "l": "B",
+                "t": "Enjoy more leisure hours."
+              },
+              {
+                "l": "C",
+                "t": "Modify the genes of crops."
+              },
+              {
+                "l": "D",
+                "t": "Cut down farming costs."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What will \"farmbots\" be expected to do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Take up many of the farmers' routines."
+              },
+              {
+                "l": "B",
+                "t": "Provide medical treatments for livestock."
+              },
+              {
+                "l": "C",
+                "t": "Lead the trend in farming the world over."
+              },
+              {
+                "l": "D",
+                "t": "Improve the quality of pastures for grazing."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What can robots do when equipped with high-tech sensors and complex learning algorithms?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Help farmers choose the most efficient and safest passages."
+              },
+              {
+                "l": "B",
+                "t": "Help farmers simplify their farming tasks and management."
+              },
+              {
+                "l": "C",
+                "t": "Allow farmers to learn instantly what is occurring on the farm."
+              },
+              {
+                "l": "D",
+                "t": "Allow farmers to give them real-time instructions on what to do."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "Why are farmers pressing for robotic farming?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Farming costs are fast increasing."
+              },
+              {
+                "l": "B",
+                "t": "Robotics technology is maturing."
+              },
+              {
+                "l": "C",
+                "t": "Robotic farming is the trend."
+              },
+              {
+                "l": "D",
+                "t": "Labor shortage is worsening"
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What does the author think future farms will be like?",
+            "o": [
+              {
+                "l": "A",
+                "t": "More and more automated."
+              },
+              {
+                "l": "B",
+                "t": "More and more productive."
+              },
+              {
+                "l": "C",
+                "t": "Larger and larger in scale."
+              },
+              {
+                "l": "D",
+                "t": "Better and better in condition."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Passage Two Questions 51 to 55 are based on the following passage The public must be able to understand the basics of science to make informed decisions. Perhaps the most dramatic example of the negative consequences of poor communication between scientists and the public is the issue of climate change, where a variety of factors, not the least of which is a breakdown in the transmission of fundamental climate data to the general public, has contributed to widespread mistrust and misunderstanding of scientists and their research. The issue of climate change also illustrates how the public acceptance and understanding of science (or the lack of it) can influence governmental decision-making with regard to regulation, science policy and research funding. However, the importance of effective communication with a general audience is not limited to hot issues like climate change. It is also critical for socially charged neuroscience issues such as the genetic basis for a particular behavior, the therapeutic potential of stem cell therapy for neurodegenerative diseases, or the use of animal models, areas where the public understanding of science can also influence policy and funding decisions. Furthermore, with continuing advances in individual genome(基因组) sequencing and the advent of personalized medicine, more non-scientists will need to be comfortable analyzing complex scientific information to make decisions that directly affect their quality of life. Science journalism is the main channel for the popularization of scientific information among the public. Much has been written about how the relationship between scientists and the media can shape the efficient transmission of scientific advances to the public. Good science journalists are specialists in making complex topics accessible to a general audience, while adhering to scientific accuracy. Unfortunately, pieces of science journalism can also oversimplify and generalize their subject material to the point that the basic information conveyed is obscured or at worst, obviously wrong. The impact of a basic discovery on human health can be exaggerated so that the public thinks a miraculous cure is a few months to years away when in reality the significance of the study is far more limited. Even though scientists play a part in transmitting information to journalists and ultimately the public, too often the blame for ineffective communication is placed on the side of the journalists. We believe that at least part of the problem lies in places other than the interaction between scientists and members of the media, and exists because for one thing we underestimate how difficult it is for scientists to communicate effectively with a diversity of audiences, and for another most scientists do not receive formal training in science communication.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the example of climate change serve to show?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The importance of climate data is increasingly recognized."
+              },
+              {
+                "l": "B",
+                "t": "Adequate government funding is vital to scientific research."
+              },
+              {
+                "l": "C",
+                "t": "Government regulation helps the public understand science."
+              },
+              {
+                "l": "D",
+                "t": "Common folks' scientific knowledge can sway policy making."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What should non-scientists do to ensure their quality of life?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Seek personalized medical assistance from doctors."
+              },
+              {
+                "l": "B",
+                "t": "Acquire a basic understanding of medical science."
+              },
+              {
+                "l": "C",
+                "t": "Have their individual genome sequenced."
+              },
+              {
+                "l": "D",
+                "t": "Make informed use of animal models."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "Why is it important for scientists to build a good relationship with the media?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It helps them to effectively popularize new scientific information."
+              },
+              {
+                "l": "B",
+                "t": "It enables the public to develop a positive attitude toward science."
+              },
+              {
+                "l": "C",
+                "t": "It helps them to establish a more positive public image."
+              },
+              {
+                "l": "D",
+                "t": "It enables them to apply their findings to public health."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What does the author say is the problem with science journalism?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is keen on transmitting sensational information."
+              },
+              {
+                "l": "B",
+                "t": "It tends to oversimplify people's health problems."
+              },
+              {
+                "l": "C",
+                "t": "It may give inaccurate or distorted information to the public."
+              },
+              {
+                "l": "D",
+                "t": "It may provide information open to different interpretations."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What should scientists do to impart their latest findings to the public more effectively?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Give training to science journalists."
+              },
+              {
+                "l": "B",
+                "t": "Stimulate public interest in science."
+              },
+              {
+                "l": "C",
+                "t": "Seek timely assistance from the media."
+              },
+              {
+                "l": "D",
+                "t": "Improve their communication skills."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "近年来，中国越来越多的博物馆免费向公众开放。博物馆展览次数和参观人数都明显增长。在一些广受欢 迎的博物馆门前，排长队已很常见。这些博物馆必须采取措施限制参观人数。如今，展览形式越来越多样。一 些大型博物馆利用多媒体和虚拟现实等先进技术，使展览更具吸引力。不少博物馆还举办在线展览，人们可在 网上观赏珍稀展品。然而，现场观看展品的体验对大多数参观者还是更具吸引力。",
+    "reference": "In recent years, an increasing number of museums in China have been open to the public free of charge. The number of exhibitions and museum visitors has increased significantly. In front of some popular museums, it is common to see visitors waiting in long lines. As a result, these museums have to take measures to limit the number of visitors. Today, the forms of exhibitions are becoming increasingly diverse. Some large museums employ advanced technologies such as multimedia and virtual reality (VR) to make their exhibitions more attractive. Many museums also hold online exhibitions, where people can appreciate rare exhibits on the Internet. However, for most visitors, the experience of viewing exhibits in person is still more attractive."
+  }
+}

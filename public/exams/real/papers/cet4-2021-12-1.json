@@ -1,0 +1,1448 @@
+{
+  "id": "cet4-2021-12-1",
+  "level": "cet4",
+  "year": 2021,
+  "month": 12,
+  "set": 1,
+  "title": "2021年12月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose your school is organizing an orientation program to help the freshmen adapt to the new environment and academic studies. You are now to write a proposal, which may include its aim, duration, participants and activities. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+    "sample": "A Proposal for the Freshmen Orientation Program Our school is planning an orientation program for this year's freshmen, and its main arrangements are proposed below. The program aims to help new students adapt to the new environment and academic studies as smoothly and quickly as possible.In terms of duration, the program will last for one week, starting from the day of registration. As for the participants, it is open to all incoming freshmen, and it will be organized by the Student Union together with volunteer seniors and several advisers from each department.A variety of activities will be arranged during the week. First, campus tours and library workshops will help newcomers find their way around. Second, group meetings with academic advisers will introduce course selection and effective study methods. Finally, evening social parties will give students a chance to make new friends and relax.We are confident that this program will give every freshman a warm and confident start. Your approval and support would be highly appreciated. The Student Union"
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It found a pet dog on board a plane to a city in Texas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It had one of its cargo planes land at a wrong airport."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It sent two dogs to the wrong destinations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It had two of its domestic flights mixed up."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Correct their mistake as soon as possible."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Give the two pets a physical checkup."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Hire a charter jet to bring the pets back."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Send another plane to continue the flight.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "United Airlines has apologised for mistakenly shipping an American family's pet dog thousands of miles in the wrong direction to Japan.",
+                "zh": "美国联合航空公司为误将一个美国家庭的宠物狗运送到数千英里外的日本方向而道歉。"
+              },
+              {
+                "en": "The dog owner's beloved 10-year-old dog named Buddy took an unexpected 16-hour flight to Tokyo following a mix-up by the airline.",
+                "zh": "狗主人心爱的10岁狗狗名叫Buddy,由于航空公司的失误,意外搭乘了16小时的航班飞往东京。"
+              },
+              {
+                "en": "The dog owner's family are currently in the process of moving. They were meant to be reunited with the pet in their new home city in Texas.",
+                "zh": "狗主人一家目前正在搬家过程中。他们原本应该在得克萨斯州的新家与宠物团聚。"
+              },
+              {
+                "en": "But when they arrived at the United Airlines cargo facility in the southern U.S. state, they found a stranger's dog waiting in Buddy's place.",
+                "zh": "但当他们到达美国南部州的美国联合航空公司货运设施时,发现一只陌生的狗在Buddy的位置等待。"
+              },
+              {
+                "en": "Both of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead.",
+                "zh": "这两只狗都在丹佛转机时被送到了错误的目的地,Buddy被错误地送到了日本。"
+              },
+              {
+                "en": "Buddy was given a physical checkup when he arrived at Tokyo's International Airport. The dog was then sent back to the U.S. on a private charter jet.",
+                "zh": "Buddy抵达东京国际机场后接受了身体检查。随后这只狗被用私人包机送回美国。"
+              },
+              {
+                "en": "\"I'm so glad he's alive and coming home soon!\" said the relieved dog owner.",
+                "zh": "\"我太高兴了,它还活着并且很快就要回家了!\"如释重负的狗主人说。"
+              },
+              {
+                "en": "\"And an error occurred during the connections in Denver. We have notified our customers that their pets arrived safely. We will arrange to return the pets to them as soon as possible,\" a spokesperson of United Airlines said.",
+                "zh": "\"在丹佛转机期间发生了一个错误。我们已通知客户他们的宠物安全抵达。我们将尽快安排将宠物送还给他们。\"美国联合航空公司发言人表示。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She weighs 130 kilograms."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She has had babies before."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She was brought from Africa."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She has a big family of six."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It took 22 hours."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It had some complications."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was smooth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was monitored by Dr. Sue Tygielski.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Officials at Reid Park Zoo in Tucson Arizona are celebrating the birth of a baby elephant. Zoo officials say the baby was born on Monday. It is a female and she weighs nearly 130 kilograms.",
+                "zh": "亚利桑那州图森市Reid Park动物园的官员们正在庆祝一头小象的诞生。动物园官员表示,这头小象于周一出生。它是雌性,体重近130公斤。"
+              },
+              {
+                "en": "Semba, her mother, is a 30-year-old African elephant. The pregnancy lasted 22 months.",
+                "zh": "它的母亲Semba是一头30岁的非洲象。怀孕期持续了22个月。"
+              },
+              {
+                "en": "Officials describe the baby elephant as \"healthy, standing and nursing\".",
+                "zh": "官员们描述这头小象\"健康、能站立并在哺乳\"。"
+              },
+              {
+                "en": "The baby hasn't been given a name yet.",
+                "zh": "这头小象还没有被命名。"
+              },
+              {
+                "en": "Semba has given birth before. Zoo officials said during this pregnancy, she was closely monitored through physical exams and blood tests.",
+                "zh": "Semba之前曾生育过。动物园官员表示,在这次怀孕期间,通过身体检查和血液测试对她进行了密切监测。"
+              },
+              {
+                "en": "Dr. Sue Tygielski is the zoo's director of zoological operations. She said the elephant's birth went smoothly and that there were no complications.",
+                "zh": "Sue Tygielski博士是该动物园的动物运营总监。她表示大象的分娩过程顺利,没有出现并发症。"
+              },
+              {
+                "en": "The new baby expands the zoo's elephant herd to six. That includes the baby's parents, a sister, a brother and an adult female.",
+                "zh": "这头新生小象使动物园的大象群扩大到六头。其中包括小象的父母、一个姐姐、一个哥哥和一头成年雌象。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It enjoyed great popularity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It started business three years ago."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was frequented by newly-weds."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was built above the sea-water."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Expand his business on the beach."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Replace the restaurant's wooden deck."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Post a picture of his restaurant online."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Celebrate his silver wedding anniversary."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She sold it for two thousand dollars."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She took it to the restaurant manager."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She posted its picture on Facebook."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She returned it to its owner right away."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Three years ago, a couple was enjoying a meal at a beach restaurant. The restaurant was built on a wooden structure above the sea-water. During the meal, the man's wedding ring slipped off his finger. It fell through the wooden floorboards, apparently lost forever.",
+                "zh": "三年前,一对夫妇在一家海滩餐厅用餐。这家餐厅建在海面上的木质结构上。用餐期间,男士的结婚戒指从手指上滑落了。它掉进了木地板的缝隙里,看似永远丢失了。"
+              },
+              {
+                "en": "Recently, the restaurant manager Ryan Krivoy decided to replace the wooden deck and he found an old gold coin, some $100 bills and a silver wedding ring while replacing the deck.",
+                "zh": "最近,餐厅经理Ryan Krivoy决定更换木质甲板,在更换甲板时他发现了一枚古老的金币、一些100美元的钞票和一枚银质结婚戒指。"
+              },
+              {
+                "en": "The restaurant waitress Sasha Formica posted a picture of the ring on Facebook. The post was shared about 5,000 times.",
+                "zh": "餐厅女服务员Sasha Formica在Facebook上发布了这枚戒指的照片。这条帖子被分享了大约5000次。"
+              },
+              {
+                "en": "Three days later, the happy wife called to claim the ring. She even texted pictures of her and her husband eating there in 2017 as proof.",
+                "zh": "三天后,这位高兴的妻子打电话来认领戒指。她甚至发送了她和丈夫2017年在那里用餐的照片作为证明。"
+              },
+              {
+                "en": "The restaurant mailed the ring back to the happy couple. Meanwhile, Krivoy discovered that the gold coin was very rare. It was from 1855 and worth as much as $2,000.",
+                "zh": "餐厅将戒指邮寄回给了这对幸福的夫妇。与此同时,Krivoy发现那枚金币非常罕见。它来自1855年,价值高达2000美元。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The number of ducks has declined sharply in recent years."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Climate change has little effect on the lives of wild ducks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Duck meat is not eaten in Australia, Canada and the U.S."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Duck hunting remains legal in many parts of the world."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Droughts."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Bushfires."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Farming."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Hunting."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are not easy to domesticate."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their meat is not that popular."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is not environmentally friendly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is not considered cost-effective."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They hunted ducks as a traditional sport."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They killed wild ducks and geese for food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They raised ducks and geese for their eggs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They poisoned wild ducks in large numbers.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: I can't believe that duck hunting is still legal in so many parts of the world. The scientific evidence from countries like Australia, Canada and the USA clearly indicates a decline in the birds' numbers.",
+                "zh": "W: 我真不敢相信在世界上这么多地方猎鸭仍然是合法的。来自澳大利亚、加拿大和美国等国家的科学证据清楚地表明这些鸟类的数量正在下降。"
+              },
+              {
+                "en": "M: But can anyone be sure if the decline is really caused by the hunting or by climate change?",
+                "zh": "M: 但是有人能确定这种下降真的是由狩猎引起的还是由气候变化引起的吗?"
+              },
+              {
+                "en": "W: It's caused by both in fact. We see more droughts in countries like Australia. Ducks are birds that feed and breed in areas where there is a lot of water, but their habitats have been shrinking in recent decades because of the droughts.",
+                "zh": "W: 实际上两者都有影响。我们在澳大利亚这样的国家看到更多的干旱。鸭子是在有大量水源的地区觅食和繁殖的鸟类,但近几十年来由于干旱,它们的栖息地一直在缩小。"
+              },
+              {
+                "en": "M: And I guess with fewer places to inhabit, they concentrate in greater numbers in few areas, which surely makes them easier targets for the hunters.",
+                "zh": "M: 我猜随着可居住的地方越来越少,它们会更集中地聚集在少数几个区域,这肯定让它们更容易成为猎人的目标。"
+              },
+              {
+                "en": "W: It does. My grandfather was a duck hunter. He told me hunting ducks and geese began in the 19th century. They were easily found and a plentifully available food source in farming areas, especially for poor immigrants.",
+                "zh": "W: 确实如此。我祖父曾是个猎鸭人。他告诉我猎鸭和猎鹅始于19世纪。在农业地区它们很容易找到,是充足的食物来源,尤其对贫穷的移民来说。"
+              },
+              {
+                "en": "M: What do they use for hunting during that period?",
+                "zh": "M: 那个时期他们用什么来狩猎?"
+              },
+              {
+                "en": "W: They use new types of guns, and birds could easily be shot down in flight. And in such great numbers, their commercial hunting of ducks and geese became an industry. Yet, there's no commercial farming of these birds nowadays. Their meat is hardly eaten in Western countries.",
+                "zh": "W: 他们使用新型枪支,鸟类在飞行中很容易被射下来。而且数量如此之多,对鸭子和鹅的商业狩猎成了一个产业。然而,现在已经没有这些鸟类的商业养殖了。在西方国家几乎没人吃它们的肉。"
+              },
+              {
+                "en": "M: No, duck hunting seemingly exists as the continuation of a tradition.",
+                "zh": "M: 是的,猎鸭似乎只是作为一种传统的延续而存在。"
+              },
+              {
+                "en": "W: Well, ducks have never been popular with farmers like my grandfather anyway because they sometimes destroy crops. In fact, farmers used to poison them in large numbers.",
+                "zh": "W: 其实,鸭子从来都不受像我祖父这样的农民欢迎,因为它们有时会破坏庄稼。事实上,农民过去常常大量毒杀它们。"
+              },
+              {
+                "en": "M: That somehow doesn't surprise me. Nobody places much value on the lives of these poor birds or on their meat.",
+                "zh": "M: 这倒不让我意外。没人重视这些可怜鸟儿的生命,也不重视它们的肉。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Have her house repainted."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Replace some of her old furniture."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Move into a newly-painted house."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Calculate the cost of the paint job."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How long the work will take."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How much the work will cost."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How the paint job is to be done."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How many workers are needed."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cover up her furniture."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ask some friends for help."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Stay somewhere else."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Oversee the work herself."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She could have asked a friend for help with the paint job."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Painting a house involves more trouble than she thought."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She should have repainted her house much earlier."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Moving her furniture is harder than the paint job."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Okay, Miss Bright. I've finished calculating. I estimate you have between 210 and 240 square meters of walls and ceiling.",
+                "zh": "M: 好的，Bright小姐。我已经算完了。我估计您的墙面和天花板加起来有210到240平方米。"
+              },
+              {
+                "en": "W: So, how much would the paint job cost?",
+                "zh": "W: 那么，刷漆要花多少钱？"
+              },
+              {
+                "en": "M: That would depend on the quality of paint you choose. We carry two brands. One costs 60 cents every square meter, and the other 90 cents. The second is guaranteed to look great for about 10 years, whereas the cheaper one will start to dull after around six or seven years.",
+                "zh": "M: 这取决于您选择的油漆质量。我们有两个品牌。一种每平方米60美分，另一种90美分。第二种保证能保持大约10年的良好效果，而便宜的那种在六七年后就会开始褪色。"
+              },
+              {
+                "en": "W: In that case, we would prefer the more expensive option.",
+                "zh": "W: 那样的话，我们更倾向于选贵一点的。"
+              },
+              {
+                "en": "M: All right, then. So including labor costs, taxes, and everything, this job would come to $3,000.",
+                "zh": "M: 好的。那么包括人工费、税费和所有费用，这项工作总共需要3000美元。"
+              },
+              {
+                "en": "W: Um, to be perfectly honest, that's more than I expected.",
+                "zh": "W: 嗯，说实话，这比我预期的要高。"
+              },
+              {
+                "en": "M: Please bear in mind that the price includes moving all the furniture, and the whole task would take two days.",
+                "zh": "M: 请注意价格包括搬动所有家具，而且整个任务需要两天时间。"
+              },
+              {
+                "en": "W: Really? Why?",
+                "zh": "W: 真的吗?为什么？"
+              },
+              {
+                "en": "M: Well, we can't paint the walls without clearing all the furniture first. So every time we paint a room, we first have to move the furniture to another room. So that takes more time. Plus, it requires two people, which works out more expensive.",
+                "zh": "M: 嗯，我们不清空家具就没法刷墙。所以每刷一个房间，我们都得先把家具搬到另一个房间。这样就需要更多时间。而且需要两个人，费用就更高了。"
+              },
+              {
+                "en": "W: I see. But does that mean I could not live here in my own house during those two days?",
+                "zh": "W: 我明白了。但这是不是意味着这两天我不能住在自己家里？"
+              },
+              {
+                "en": "M: That is correct.",
+                "zh": "M: 没错。"
+              },
+              {
+                "en": "W: Oh well, that changes everything, I'm afraid. I would have to stay with a friend or check into a hotel. I hadn't considered any of that. I'm starting to realize that painting my house is far more troublesome than I had anticipated.",
+                "zh": "W: 哦，那恐怕一切都变了。我得去朋友家住或者住酒店。我之前都没考虑过这些。我开始意识到粉刷房子比我想象的麻烦得多。"
+              },
+              {
+                "en": "M: This is usually the case. Most of our clients go through the same realization.",
+                "zh": "M: 通常都是这样。我们大多数客户都会有同样的感受。"
+              },
+              {
+                "en": "W: I see.",
+                "zh": "W: 明白了。"
+              },
+              {
+                "en": "M: You have my number. Please feel free to call me for any further questions.",
+                "zh": "M: 您有我的电话。如果有任何其他问题，请随时给我打电话。"
+              },
+              {
+                "en": "W: Thank you.",
+                "zh": "W: 谢谢。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To cultivate good habits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To prepare for secondary school."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To review what is learned in class."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To stimulate interest in learning."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Discuss their academic achievements with them."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Create an ideal study environment for them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Allow them to learn independently."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Check their homework promptly."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Finish them before they get tired."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Tackle the most difficult task first."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Start with something they enjoy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Focus on the most important ones.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Homework is an important part of schooling, but the purposes of giving children homework will change as they grow older. At the primary level, the main aim is to cultivate good habits, like learning to plan and exercising self-discipline. During the secondary school years, extending what is learned at school is positively related to academic achievement, so the content of homework becomes more important.",
+                "zh": "家庭作业是学校教育的重要组成部分,但给孩子布置作业的目的会随着他们年龄的增长而改变。在小学阶段,主要目的是培养良好的习惯,比如学会计划和锻炼自律。在中学阶段,拓展在学校学到的知识与学业成绩呈正相关,因此作业的内容变得更加重要。"
+              },
+              {
+                "en": "So how can you help your child do their best?",
+                "zh": "那么你如何帮助孩子做到最好呢?"
+              },
+              {
+                "en": "Creating an ideal working environment will make it easier for them to get down to their assignments quickly. Make sure it's free of distractions, and for primary school children at least somewhere near you, so you can answer questions and offer encouragement.",
+                "zh": "创造一个理想的学习环境会让他们更容易快速投入作业。确保环境没有干扰,至少对小学生来说要在你附近的某个地方,这样你就能回答问题并给予鼓励。"
+              },
+              {
+                "en": "You probably have to help younger children plan their session, but it's important that by the end of primary school it's second nature. Get them to tell you everything they have to do. Then encourage them to establish an order in which they do work.",
+                "zh": "你可能需要帮助年幼的孩子规划他们的学习时段,但重要的是到小学毕业时这应该成为自然而然的事情。让他们告诉你所有需要做的事情,然后鼓励他们确定完成作业的顺序。"
+              },
+              {
+                "en": "When there are several different assignments, make sure they begin with one they enjoy, so it seems easy to get started. It's best to take on the most difficult task second once they're settled, but before they get tired.",
+                "zh": "当有几项不同的作业时,确保他们从喜欢的作业开始,这样看起来容易上手。最好在他们进入状态后、但还没感到疲倦之前,第二个处理最难的任务。"
+              },
+              {
+                "en": "If older children have more than an hour of homework, encourage them to schedule a short break to stretch.",
+                "zh": "如果年龄较大的孩子有超过一小时的作业,鼓励他们安排一个短暂的休息时间来伸展身体。"
+              },
+              {
+                "en": "If you encourage them to tell you what they've learned, they'll absorb the information more deeply and remember it more readily.",
+                "zh": "如果你鼓励他们告诉你学到了什么,他们会更深入地吸收信息并更容易记住它。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Workers who meet its body weight standards."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Workers who can lose 30 pounds in a year."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Workers who try the hardest to lose weight."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Workers who are in the top 10% of the slimmest."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Impractical."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inconsistent."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Unmanageable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Unfair."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Offer them much fatter bonuses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Improve working environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Encourage healthy behaviors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Provide free lunch and snacks.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Workers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards. To qualify for the bonus, they must maintain a healthy weight. For those who are overweight or obese, they could receive the bonus if they reduce their weight by 10% during the year.",
+                "zh": "墨西哥石油公司的员工如果达到特定体重标准，将获得每年近300美元的丰厚奖励。要获得这项奖金，他们必须保持健康体重。对于超重或肥胖的员工,如果在一年内减重10%,也可以获得该奖金。"
+              },
+              {
+                "en": "Some applaud the policy as fair, because it rewards both the individuals who maintain a healthy weight and those who are working towards achieving it.",
+                "zh": "一些人赞扬这项政策公平合理,因为它既奖励保持健康体重的个人,也奖励那些正在努力实现这一目标的人。"
+              },
+              {
+                "en": "But critics say the policy contradicts recommendations by many health experts, who warn that a person's weight is influenced by genetic and environmental factors. That means weight can be hard for individuals to control, which makes the bonus unfair.",
+                "zh": "但批评者表示,这项政策与许多健康专家的建议相矛盾,这些专家警告说,一个人的体重受遗传和环境因素的影响。这意味着体重对个人来说很难控制,这使得这项奖金不公平。"
+              },
+              {
+                "en": "Some experts say the policy is inconsistent with the science of what we know about body weight regulation. These experts argue that focusing on wage is the wrong approach. A more productive method of encouraging health among employees is to promote healthy behaviors. For example, companies can give workers gym memberships, or encourage participation in lectures on healthy eating and living. They can also reduce sweets and provide healthier snacks in the office and healthier meals at the company canteen. Or they can give employees more time during their lunch break to exercise. These are much better and much more productive ways for companies to move forward on their employees' wellbeing.",
+                "zh": "一些专家表示,这项政策与我们关于体重调节的科学知识不一致。这些专家认为,关注体重是错误的方法。鼓励员工健康的更有效方法是促进健康行为。例如,公司可以为员工提供健身房会员资格,或鼓励参加有关健康饮食和生活的讲座。他们还可以减少甜食,在办公室提供更健康的零食,在公司食堂提供更健康的餐食。或者他们可以在午休时间给员工更多时间锻炼。这些都是公司在员工福祉方面前进的更好、更有效的方式。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has not done enough to help left-handed children."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has treated left-handed children as being disabled."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has not built facilities specially for the left-handed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has ignored campaigns on behalf of the left-handed."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are as intelligent as other children."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have a distinctive style of handwriting."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They sometimes have psychological problems."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They tend to have more difficulties in learning."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Punish teachers discriminating against left-handed students."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Lay more emphasis on improving children's mental health."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Encourage students to develop various professional skills."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Keep track of left-handed children's school performance."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How they can be reduced in number."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Why their numbers are so high."
+                  },
+                  {
+                    "l": "C",
+                    "t": "What percentage they account for."
+                  },
+                  {
+                    "l": "D",
+                    "t": "If their percentage keeps increasing."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Campaigners have warned that the British government is not doing enough to prevent left-handed pupils from falling behind their peers. They claim that thousands of children are still being \"penalized\" for being left-handed. This is due to a lack of action from ministers, who've failed to take any meaningful action for years.",
+                "zh": "活动人士警告称,英国政府在防止左撇子学生落后于同龄人方面做得不够。他们声称,成千上万的儿童仍因左撇子而受到\"惩罚\"。这是由于部长们缺乏行动,多年来未能采取任何有意义的措施。"
+              },
+              {
+                "en": "It is feared that a failure to address early-year challenges, such as poor handwriting, leads to much more serious problems down the line—with these pupils facing reduced career prospects.",
+                "zh": "人们担心,如果不能解决早期阶段的挑战,例如书写能力差,会导致后续出现更严重的问题——这些学生将面临职业前景受限的困境。"
+              },
+              {
+                "en": "Studies in recent years show that left-handed children are more likely to suffer with learning difficulties and their scores are lower on IQ tests.",
+                "zh": "近年来的研究表明,左撇子儿童更容易出现学习困难,他们在智商测试中的得分也较低。"
+              },
+              {
+                "en": "Campaigners feel it's strange that children in British schools are penalized because they happen to be left-handed. They don't understand why successive governments have failed to act on this. They want the department of education to record which children are left-handed and what their educational attainments are, since they make up some 10% of the population.",
+                "zh": "活动人士认为奇怪的是,英国学校的儿童会因为恰好是左撇子而受到惩罚。他们不理解为什么历届政府都未能就此采取行动。他们希望教育部记录哪些儿童是左撇子以及他们的学业成绩如何,因为左撇子占人口的约10%。"
+              },
+              {
+                "en": "In early-year education, left-handed children are struggling and making a mess of their handwriting. Educators don't know how to deal with this. In many cases, there is no active help and a lack of teacher training. Campaigners point out that a high percentage of the prison population is left-handed. They say that these prison numbers are unusually high and ask why it is the case.",
+                "zh": "在早期教育中,左撇子儿童很吃力,把字写得一团糟。教育工作者不知道如何应对这一问题。在许多情况下,没有积极的帮助,也缺乏教师培训。活动人士指出,监狱人口中左撇子的比例很高。他们说这些监狱数字异常高,并询问为什么会出现这种情况。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Many people believe that passion and commitment are the foundations of strong romantic relationships. But a relationship is made of two"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "individuals. And the personality traits(特性) these individuals"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "or lack can often make a relationship more or less likely to"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ". Recent research has found that one trait in particular—humility(谦逊)—is an important indicator of successful relationships. Humility can sometimes be"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "with a lack of confidence. But researchers have come to realize that being humble generally indicates the"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "of deeply admirable personal qualities. Being humble means you have the ability to accurately"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "your deficiencies without denying your skills and strengths. For example, you might recognize that you are intelligent, but realize that you are not a"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": ". Thus, humility leads to an honest view of one's own advantages and shortcomings. Humble people do not ignore, avoid, or try to deny their limits or deficiencies. They can"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "mistakes, see value in things that are far from perfect and identify areas for improvement. Perhaps it is not"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ", then, that humility appears to be a huge asset to relationships. One study found that people tend to rate this quality"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "in their spouse. The study also found that someone who is humble is more likely to initiate a romantic relationship, perhaps because they are less likely to see themselves as \"too good\" for someone else. Thus, a humble partner might be your ideal partner."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "acknowledge"
+        },
+        {
+          "l": "B",
+          "w": "assess"
+        },
+        {
+          "l": "C",
+          "w": "confused"
+        },
+        {
+          "l": "D",
+          "w": "endure"
+        },
+        {
+          "l": "E",
+          "w": "extremely"
+        },
+        {
+          "l": "F",
+          "w": "genius"
+        },
+        {
+          "l": "G",
+          "w": "highly"
+        },
+        {
+          "l": "H",
+          "w": "permanent"
+        },
+        {
+          "l": "I",
+          "w": "possess"
+        },
+        {
+          "l": "J",
+          "w": "presence"
+        },
+        {
+          "l": "K",
+          "w": "puzzled"
+        },
+        {
+          "l": "L",
+          "w": "status"
+        },
+        {
+          "l": "M",
+          "w": "surprising"
+        },
+        {
+          "l": "N",
+          "w": "thoroughly"
+        },
+        {
+          "l": "O",
+          "w": "unique"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "O"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "D"
+        },
+        {
+          "n": 29,
+          "a": "C"
+        },
+        {
+          "n": 30,
+          "a": "J"
+        },
+        {
+          "n": 31,
+          "a": "B"
+        },
+        {
+          "n": 32,
+          "a": "F"
+        },
+        {
+          "n": 33,
+          "a": "A"
+        },
+        {
+          "n": 34,
+          "a": "M"
+        },
+        {
+          "n": 35,
+          "a": "G"
+        }
+      ]
+    },
+    "matching": {
+      "title": "There's a stress gap between men and women",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "\"I used to work very hard. I love to create things, grow them and solve problems,\" said Meng Li, a successful app developer in San Francisco. \"I didn't really care about my mind and my body until they decided to go on strike.\""
+        },
+        {
+          "l": "B",
+          "t": "Ms. Li said her stress led to sleeplessness. When she did sleep, she experienced \"problem-solving dreams,\" which left her feeling unrested when she woke up. \"After I became a first-time mother, I quickly realized I was so busy caring for other people and work that I felt like I'd lost myself,\" she said."
+        },
+        {
+          "l": "C",
+          "t": "It's a common story—one we frequently ridicule and readily dismiss, for example, by claiming that women tend to complain more than men, despite the growing sum of research that underlines the problem. Women are twice as likely to suffer from severe stress and anxiety as men, according to a 2016 study published in The Journal of Brain & Behavior. The American Psychological Association reports a gender gap year after year showing that women consistently report higher stress levels. Clearly, a stress gap exists."
+        },
+        {
+          "l": "D",
+          "t": "\"The difference is not really news to me, as a clinical psychologist,\" said Erin Joyce, a women and couples therapist in Los Angeles. \"It's been well documented in extensive research over the years that prevalence rates for the majority of the anxiety disorders are higher in women than men.\" Some people may argue that this is merely reported data, and they say many men feel the same pressures as women in terms of fulfilling responsibilities at work and home. In other words, we're all really, really stressed."
+        },
+        {
+          "l": "E",
+          "t": "\"The difference, however, is in the nature and scope of these responsibilities in the home environment in particular,\" Dr. Joyce said. For example, the United Nations reported that women do nearly three times as much unpaid domestic work as men. The problem is, housework is often overlooked as work, even though it is often as laborious (or in some cases, more so) as any paid job. As the scholar Silvia Federici put it in 1975, the unpaid nature of domestic work reinforces the assumption that \"housework is not work, thus preventing women from struggling against it.\""
+        },
+        {
+          "l": "F",
+          "t": "It's not just inside the home, though. Research from Nova Southeastern University found that female managers were more likely than male managers to display \"surface acting,\" or forcing emotions that are not wholly felt. \"They expressed optimism, calmness and sympathy even when these were not the emotions that they were actually feeling,\" the study said."
+        },
+        {
+          "l": "G",
+          "t": "Surface acting is a prime example of \"emotional labor,\" a concept that the writer Jess Zimmerman made familiar in a 2015 essay. The essay sparked a massive thread on the internet community blog MetaFilter. Hundreds of women spoke up about their own experience with emotional labor: the duties that are expected of them, but go unnoticed. These invisible duties become apparent only when you don't do them. Like domestic labor, emotional labor is generally dismissed and not labeled work. But research shows it can be just as exhausting as paid work. Emotional labor can lead to difficulty in sleeping and family conflict. Sure, circumstantial stress, like losing a job, may lead to these same issues. But emotional labor is not circumstantial. It's an enduring responsibility based on the socialized gender role of women."
+        },
+        {
+          "l": "H",
+          "t": "Like Ms. Li, many women try to manage the added stress to reach what Dr. Joyce said was an unattainable ideal. \"Some professional women aim to do it all. They want to reach the top of the corporate ladder and fly like supermom,\" she said. When women don't reach this ideal, they feel guilty; and even more stressed. After her own struggle with this, Ms. Li took a step back and used her experience to build Sanity & Self, a self- care app and platform for overworked women. \"The realizations I had in that process helped me gain insights and ultimately got me ready to integrate self-care into my daily life,\" she said."
+        },
+        {
+          "l": "I",
+          "t": "The stress problem extends beyond mental health when you consider the link between stress, anxiety and heart health. Worse, most of what we know about heart disease comes from studies involving men. However, \"there are many reasons to think that it's different in women,\" Harvard Medical School reported. For example, women are more likely to experience disturbed sleep, anxiety and unusual fatigue before a heart attack. Stress is so normalized that it is easy for women to shrug off those symptoms as simply the consequences of stress. Many women also do not experience chest pain before a heart attack the way men do, which leads to fewer women discovering problematic heart issues. Harvard reports that women are \"much more likely than men to die within a year of having a heart attack\" and \"many women say their physicians sometimes don't even recognize the symptoms.\""
+        },
+        {
+          "l": "J",
+          "t": "The good news is, women are more likely than men to take charge of their stress and manage it, the American Psychological Association reports. The concept of self-care, at its core, is quite simple. \"The basics of adequate sleep, healthy diet and exercise are a good place to start,\" Dr. Joyce said. \"Support from trusted relationships is vital. This includes professional support from various health and wellness providers if stress is becoming increasingly overwhelming.\""
+        },
+        {
+          "l": "K",
+          "t": "Disconnecting from work and home responsibilities is also obviously important. But it's much easier said than done. It is important to understand what causes your stress in the first place. \"Get really specific with what's stressing you out,\" Ms. Li said. \"We often chalk up our stress to broad experiences like work. But work stress can take many different forms. Is a colleague being disrespectful of your time? Is a boss undermining your day-to-day control over decision making? These are different causes of stress and can benefit from different kinds of self-care.\""
+        },
+        {
+          "l": "L",
+          "t": "Ideally, your spouse or partner will be supportive, rather than dismissive, of your stress. It is important to talk through these issues before they come to a head. \"Women working outside of the home should make an effort to have a conscious conversation with their partners about more equitable sharing of household and family responsibilities,\" Dr. Joyce said."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Some career women who aim high tend to feel guilty if they fail to achieve their goals.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "The unpaid housework done by women is triple that done by men.",
+          "a": "E"
+        },
+        {
+          "n": 38,
+          "s": "It is reported that women consistently suffer more from severe stress than men.",
+          "a": "C"
+        },
+        {
+          "n": 39,
+          "s": "Women are advised to identify the specific causes of their stress so that steps can be taken to deal with it.",
+          "a": "K"
+        },
+        {
+          "n": 40,
+          "s": "One study showed that women managers often expressed positive emotions that they didn't really feel.",
+          "a": "F"
+        },
+        {
+          "n": 41,
+          "s": "Women tend to mistake signs of heart attacks for symptoms of stress.",
+          "a": "I"
+        },
+        {
+          "n": 42,
+          "s": "For a time an app developer in America was so busy attending to work and family that she suffered from sleeplessness.",
+          "a": "B"
+        },
+        {
+          "n": 43,
+          "s": "The emotional labor women do is noticed only when it is not done.",
+          "a": "G"
+        },
+        {
+          "n": 44,
+          "s": "Dr. Joyce suggests that apart from self-care, women should seek professional support if they experience severe stress.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "Some people believe that there may not exist a stress gap between men and women.",
+          "a": "D"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "As many office workers adapt to remote work, cities may undergo fundamental change if offices remain under-utilized. Who will benefit if working from home becomes the norm? Employers argue they make considerable savings on real estate when workers shift from office to home work. However, these savings result from passing costs on to workers. Unless employees are fully compensated, this could become a variant of parasitic( 寄生的) capitalism, whereby corporate profits increasingly rely on extracting value from the public—and now personal—realm, rather than on generating new value. Though employers are backed by a chorus of remote work advocates, others note the loneliness, reduced productivity and inefficiencies of extended remote work. If working from home becomes permanent, employees will have to dedicate part of their private space to work. This requires purchasing desks, chairs and office equipment. It also means having private space dedicated to work: the space must be heated, cleaned, maintained and paid for. That depends on many things, but for purposes of illustration, I have run some estimates for Montreal. The exercise is simple but important, since it brings these costs out of the realm of speculation into the realm of meaningful discussion. Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home. What does this mean for offices in cities? One of two things may happen: Employers pass these costs onto employees. This would be a form of expropriation(侵占), with employees absorbing production costs that have traditionally been paid by the employer. This represents a considerable transfer of value from employees to employers. When employees are properly compensated, employers' real estate savings will be modest. If savings are modest, then the many advantages of working in offices—such as lively atmosphere, rapidity of communication, team-building and acclimatization(适应环境) of new employees—will encourage employers to shelve the idea of remote work and, like Yahoo in 2013, encourage employees to work most of the time from corporate office space.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the author say about working from home?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will become the norm sooner or later."
+              },
+              {
+                "l": "B",
+                "t": "It requires employees to adapt promptly."
+              },
+              {
+                "l": "C",
+                "t": "It benefits employers at the expense of employees."
+              },
+              {
+                "l": "D",
+                "t": "It will force cities to transform their infrastructure."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "Why do some people oppose working from home?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It discourages team spirit."
+              },
+              {
+                "l": "B",
+                "t": "It invades employees' privacy."
+              },
+              {
+                "l": "C",
+                "t": "It undermines traditional values."
+              },
+              {
+                "l": "D",
+                "t": "It negatively impacts productivity."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "Why did the author run the estimates for Montreal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To provide convincing data for serious discussion."
+              },
+              {
+                "l": "B",
+                "t": "To illustrate the ongoing change in working patterns."
+              },
+              {
+                "l": "C",
+                "t": "To show the impact of remote working on productivity."
+              },
+              {
+                "l": "D",
+                "t": "To exemplify how remote working affects the economy."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What can we conclude from the author's calculations?",
+            "o": [
+              {
+                "l": "A",
+                "t": "There is no point in transferring office work to working from home."
+              },
+              {
+                "l": "B",
+                "t": "Employees can benefit as much from remote working as their employers."
+              },
+              {
+                "l": "C",
+                "t": "Employers' gain from remote working should go to employees as compensation."
+              },
+              {
+                "l": "D",
+                "t": "Effective measures should be taken to motivate employees to set up offices at home."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What is the author's opinion on working from home?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It should be avoided if possible."
+              },
+              {
+                "l": "B",
+                "t": "It is only a temporary measure."
+              },
+              {
+                "l": "C",
+                "t": "It can reduce companies' real estate costs."
+              },
+              {
+                "l": "D",
+                "t": "It may affect employees' corporate loyalty."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The human thirst for knowledge is the driving force behind our successful development as a species. But curiosity can also be dangerous, leading to setbacks or even downfalls. Given curiosity's complexity, scientists have found it hard to define. While pinning down a definition has proven tricky, the general consensus is it's some means of information gathering. Psychologists also agree curiosity is intrinsically(内在地) motivated. Curiosity covers such a large set of behaviors that there probably isn't any single \"curiosity gene\" that makes humans wonder about and explore their environment. That said, curiosity does have a genetic component. Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity. Regardless of their genetic makeup, infants have to learn an incredible amount of information in a short time, and curiosity is one of the tools humans have found to accomplish that gigantic task. Hundreds of studies show that infants prefer novelty. It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure. But curiosity often comes with a cost. In some situations, the stakes are low and failure is a healthy part of growth. For instance, many babies are perfectly proficient crawlers, but they decide to try walking because there's more to see and do when they stand upright. But this milestone comes at a small cost. A study of 12- to 19-month-olds learning how to walk documented that these children fell down a lot. Seventeen times per hour, to be exact. But walking is faster than crawling, so this motivates expert crawlers to transition to walking. Sometimes, however, testing out a new idea can lead to disaster. For instance, the Inuit people of the Arctic regions have created incredible modes to deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about curiosity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is too complex for non-scientists to understand."
+              },
+              {
+                "l": "B",
+                "t": "It is the force that pushes human society forward."
+              },
+              {
+                "l": "C",
+                "t": "It is a unique trait specific to the human race."
+              },
+              {
+                "l": "D",
+                "t": "It is often the major cause for human failures."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What is the general understanding of curiosity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It motivates people to seek information."
+              },
+              {
+                "l": "B",
+                "t": "It is destined to transform human genes."
+              },
+              {
+                "l": "C",
+                "t": "It does people more good than harm."
+              },
+              {
+                "l": "D",
+                "t": "It underlies all human behaviors."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What do we learn about how genes shape people's behavior?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They determine people's way of thinking."
+              },
+              {
+                "l": "B",
+                "t": "They account for age differences in learning."
+              },
+              {
+                "l": "C",
+                "t": "They enable people to undertake massive tasks."
+              },
+              {
+                "l": "D",
+                "t": "They work in conjunction with the environment."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What do numerous studies show about infants?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are far more curious than adults."
+              },
+              {
+                "l": "B",
+                "t": "They prefer to go after all that is novel."
+              },
+              {
+                "l": "C",
+                "t": "They have different interests than adults."
+              },
+              {
+                "l": "D",
+                "t": "They show non-human animal behaviors."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What does the example of the Inuit people of the Arctic regions illustrate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The cost of humans' curiosity to explore."
+              },
+              {
+                "l": "B",
+                "t": "The incredible harshness of cold weather."
+              },
+              {
+                "l": "C",
+                "t": "The innovative ideas stemming from curiosity."
+              },
+              {
+                "l": "D",
+                "t": "The importance of learning from past failures."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "大运河 (Grand Canal) 是世界上最长的人工河，北起北京，南至杭州。它是中国历史上最宏伟的工程之 一。大运河始建于公元前4世纪，公元13世纪末建成。修建之初是为了运输粮食，后来也用于运输其他商品。 大运河沿线区域逐渐发展成为中国的工商业中心。长久以来，大运河对中国的经济发展发挥了重要作用，有力 地促进了南北地区之间的人员往来和文化交流。",
+    "reference": "The Grand Canal is the longest man-made river in the world, running from Beijing in the north to Hangzhou in the south. It is one of the most magnificent projects in Chinese history. The construction of the Grand Canal was started in the 4th century BC and completed in the late 13th century. It was originally built to transport grain and was later used to transport other goods as well. The areas along the Grand Canal gradually developed into industrial and commercial centers of China. For a long time, the Grand Canal has played an important role in China's economic development, greatly promoting personnel exchanges and cultural communication between the north and the south."
+  }
+}

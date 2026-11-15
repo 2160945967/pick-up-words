@@ -1,0 +1,1428 @@
+{
+  "id": "cet4-2023-6-2",
+  "level": "cet4",
+  "year": 2023,
+  "month": 6,
+  "set": 2,
+  "title": "2023年6月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose the student union of your university is organizing an online discussion on interpersonal relationships. You are to write an essay on ways to maintain a warm and friendly relationship with your classmates and on the benefits of such a relationship. You will have 30 minutes f or the task. You should write at least 120 words but no more than 180 words .",
+    "sample": "A warm and friendly relationship plays an important part in our campus life. Since we spend most of our time with classmates, it is worth thinking about how to maintain such a relationship and what benefits it can bring.There are several practical ways to keep such a relationship close. First, we should communicate sincerely. For example, when a misunderstanding happens, we can simply talk it over honestly instead of staying cold. Besides, it also helps to support each other in study and daily life. When a classmate misses a lecture, sharing our notes and showing respect for different habits can quickly bring us closer.As a result, such a relationship can bring us real benefits. It eases our pressure when courses get hard, pushes us to make progress together, and creates a strong sense of belonging in class. In short, building such warm bonds with our classmates is well worth our effort throughout the precious college years."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A man was bitten by a snake."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A man was taken to a hospital."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A man kept a 4-foot snake as a pet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A man fell off his toilet seat."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Where the snake had been taken."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether the snake was infected."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How the snake was captured."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Who owned the snake.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Police have reported a man being bitten by a 4-foot snake when he lifted his toilet seat on Sunday morning.",
+                "zh": "警方报告称,周日早晨一名男子在掀开马桶盖时被一条4英尺长的蛇咬伤。"
+              },
+              {
+                "en": "The snake was not poisonous, so the man did not have to go to the hospital, but his arm was medically treated at the scene.",
+                "zh": "这条蛇没有毒性,因此该男子无需前往医院,但他的手臂在现场接受了医疗处理。"
+              },
+              {
+                "en": "The police officer interviewed told news reporters the snake didn't belong to the man and it was unclear how it got into the apartment.",
+                "zh": "接受采访的警官告诉新闻记者,这条蛇不属于该男子,目前尚不清楚它是如何进入公寓的。"
+              },
+              {
+                "en": "The snake was eventually captured by the local animal handlers and taken to an animal hospital afterward. It was being treated for an outer skin infection. It was unclear who the owner was. The snake may be taken to a local zoo for care if the owner does not come forward.",
+                "zh": "这条蛇最终被当地动物处理人员捕获,随后被送往动物医院。它正在接受外层皮肤感染的治疗。目前尚不清楚主人是谁。如果主人不出现认领,这条蛇可能会被送到当地动物园照料。"
+              },
+              {
+                "en": "Over the years, other creatures like frogs and fish have found their way into toilets. But this was the first instance of a snake in recent years.",
+                "zh": "多年来,青蛙和鱼等其他生物也曾以各种方式进入马桶。但这是近年来首次出现蛇的情况。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Taking her trash out in fancy dresses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Amusing herself by going to ball parties."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Sharing her photos with famous movie stars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Posting her daughter's photos on social media."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To make herself popular."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To amuse people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To please her daughter."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To record her achievements.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Every week since last April, Andrea Belcher has been doing something slightly unusual and amusing when she takes out her trash.",
+                "zh": "自去年四月以来,每周当Andrea Belcher倒垃圾时,她都会做一件略显不寻常而有趣的事。"
+              },
+              {
+                "en": "It all started off when a movie star shared a photo of herself putting her trash bins out in a ball gown. This inspired Andrea to get dressed up to take out the trash.",
+                "zh": "这一切始于一位电影明星分享了一张自己穿着晚礼服倒垃圾的照片。这启发了Andrea盛装打扮去倒垃圾。"
+              },
+              {
+                "en": "She was too embarrassed to do it during the day. So one dark evening, she put on her black off-the-shoulder gown and put her trash bin out. Her daughter filmed it and the whole family laughed, but it seemed to go down well.",
+                "zh": "她白天不好意思这样做。所以在一个漆黑的夜晚,她穿上了黑色露肩礼服去倒垃圾桶。她女儿拍摄了这一幕,全家人都笑了,但效果似乎不错。"
+              },
+              {
+                "en": "The following weeks, she found other outfits in her dressing-up box, and dressed up as different characters and famous people, sharing her exploits on social media. Before long, people started offering up their own fancy dresses for her to wear. And before she knew it, she had done 20 weeks.",
+                "zh": "接下来的几周,她从自己的装扮箱里找出其他服装,打扮成不同的角色和名人,在社交媒体上分享她的趣事。不久之后,人们开始主动提供自己的华丽服装给她穿。在她意识到之前,她已经坚持了20周。"
+              },
+              {
+                "en": "Explaining why she has kept up the videos, Andrea explained how nice it was to have a little bit of fun and craziness that made people smile. Besides, it also helps to remind people in the community to put out their trash bins each week.",
+                "zh": "在解释为什么她一直坚持拍摄这些视频时,Andrea说能有一点乐趣和疯狂让人们微笑是多么美好。此外,这也有助于提醒社区里的人们每周倒垃圾桶。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Eat as much as they want for $10."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Have a chance of winning a $100 prize."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Have a meal even if they have no money."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Get a free meal after answering some questions."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was brought up by two staffers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It helped to popularize her restaurant."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It originated from a donation to her staff."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was suggested by some of her customers."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Fifty customers have offered donations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More people have been giving than taking."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many people have come to eat at the restaurant."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Most staffers have received messages of kindness."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "No money but still hungry? No problem! Welcome to Frank's restaurant where customers are paying for meals and leaving receipts on a board. Anyone who is hungry and wants something to eat can take one, no questions asked and hand it to the staff for some food.",
+                "zh": "没钱但仍然饿着？没问题！欢迎来到Frank's餐厅，这里的顾客为餐食付款后会把收据留在一块板子上。任何饿了想吃东西的人都可以拿走一张，无需回答任何问题，然后把它交给工作人员换取食物。"
+              },
+              {
+                "en": "The idea for the board of free meals started after a donor came in with $100 for each member of its staff. After two staffers returned to their share, there was $700 leftover according to Tarah Morris, the owner of the restaurant, so they decided to do something more by creating the board.",
+                "zh": "免费餐食板的想法始于一位捐赠者带着100美元来给每位员工。据餐厅老板Tarah Morris说,两名员工退还了他们的份额后,还剩下700美元,于是他们决定通过创建这块板子来做更多的事情。"
+              },
+              {
+                "en": "The board of free meals inside the restaurant shows a host of potential meals already paid for by customers, each costing about $10. The board has messages of kindness like, \"If you want more kindness in the world, put it here.\"",
+                "zh": "餐厅内的免费餐食板展示着许多已由顾客付款的潜在餐食,每份约10美元。板子上有善意的留言,比如\"如果你想让世界有更多善意,就把它放在这里。\""
+              },
+              {
+                "en": "The drive has been going on for two weeks and Morris said just under 50 customers have picked up a free meal. There have been no reports of anyone taking advantage of the situation. In fact, there are a lot more people giving tickets than receiving. It seems people want to help and are driven by helping others.",
+                "zh": "这项活动已经进行了两周,Morris说有将近50位顾客领取了免费餐食。没有任何人利用这种情况的报告。事实上,给予餐券的人比领取的人多得多。似乎人们想要帮助他人,并被帮助他人所驱动。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is a psychologist."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is a famous writer."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is a host for a TV program."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is a primary school teacher."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Why social media accounts vanish without a trace."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Why parents raise their children in different ways."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Why people fail to respond to emails promptly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Why friends break off contact all of a sudden."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They simply shut themselves down."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They avoid showing their emotions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They scream to get their parents back."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They attempt to ignore the whole situation."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They may regard any difference as the end of a relationship."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are on better terms with friends and romantic partners."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They try to express their feelings and thoughts effectively."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They attach more value to their relationships with others.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Welcome to our program, Friends and Relationships. Our guest today is psychologist Steve Pinker from McGill University.",
+                "zh": "W: 欢迎来到我们的节目《朋友与关系》。我们今天的嘉宾是来自McGill大学的心理学家Steve Pinker。"
+              },
+              {
+                "en": "M: Glad to be here, Jane.",
+                "zh": "M: 很高兴来到这里,Jane。"
+              },
+              {
+                "en": "W: Hi, Steve. Our question today is why friends suddenly disappear. They may block us on their social media accounts and stop responding to our emails. They simply vanish without a trace.",
+                "zh": "W: 你好,Steve。我们今天的问题是为什么朋友会突然消失。他们可能会在社交媒体账号上屏蔽我们,不再回复我们的邮件。他们就这样消失得无影无踪。"
+              },
+              {
+                "en": "M: The answer may lie in childhood, the way the person related to their mom and dad. It's related to their attachment styles.",
+                "zh": "M: 答案可能在于童年时期,也就是这个人与父母相处的方式。这与他们的依恋类型有关。"
+              },
+              {
+                "en": "W: Attachment styles?",
+                "zh": "W: 依恋类型?"
+              },
+              {
+                "en": "M: Yeah. There are two different attachment styles: an anxious attachment style and an avoidant attachment style. When there is a relationship breakdown with their parents, children with an anxious attachment style scream and cry to get their parents to come back. But other children simply shut down and try to deal with their emotions by ignoring the situation. And these attachment styles carry on into adulthood.",
+                "zh": "M: 是的。有两种不同的依恋类型:焦虑型依恋和回避型依恋。当与父母的关系破裂时,焦虑型依恋的孩子会又哭又闹,想让父母回来。但另一些孩子只是封闭自己,试图通过忽视这种情况来处理自己的情绪。而这些依恋类型会延续到成年期。"
+              },
+              {
+                "en": "W: Does avoidance reduce their stress levels?",
+                "zh": "W: 回避能降低他们的压力水平吗?"
+              },
+              {
+                "en": "M: Not really. Their stress levels are actually the same as those experienced by the children who yell and scream.",
+                "zh": "M: 并不能。他们的压力水平实际上和那些大喊大叫的孩子经历的压力水平是一样的。"
+              },
+              {
+                "en": "W: And I assume both might be termed insecure.",
+                "zh": "W: 我猜这两种都可以被称为不安全型。"
+              },
+              {
+                "en": "M: Exactly. And it's a very insecure attachment.",
+                "zh": "M: 完全正确。这是一种非常不安全的依恋。"
+              },
+              {
+                "en": "W: How does an insecure attachment affect relationships between friends, co-workers and romantic relationships?",
+                "zh": "W: 不安全型依恋如何影响朋友之间、同事之间以及恋爱关系?"
+              },
+              {
+                "en": "M: It's the same as conflicts. So if you have a disagreement with a securely attached person, they're not going to panic. They're able to hear what the other person is saying and express their own feelings and thoughts effectively. However, an insecurely attached person won't. They might either attack you, get defensive, or just disappear from your life. To them, a difference, no matter how small in your eyes, signals the end of the relationship.",
+                "zh": "M: 和冲突的情况一样。所以如果你和一个安全型依恋的人产生分歧,他们不会惊慌失措。他们能够听进对方在说什么,并有效地表达自己的感受和想法。然而,不安全型依恋的人不会这样。他们可能会攻击你,变得防御性很强,或者直接从你的生活中消失。对他们来说,分歧,无论在你眼中多么微小,都预示着关系的终结。"
+              },
+              {
+                "en": "W: That explains why they suddenly disappear.",
+                "zh": "W: 这就解释了为什么他们会突然消失。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their price."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their color."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their quality."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their design."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Jeans are a typical American garment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "America makes the best-known brands of jeans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "America has the best weaving tools in the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Jeans are available in a greater variety in America."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are artificial."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are natural."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are unique."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are special."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are for casual wearing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are popular with boys."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are much too pricey."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are worth the price."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I hear you're going to Japan soon.",
+                "zh": "M: 我听说你快要去日本了。"
+              },
+              {
+                "en": "W: Yes, that's right.",
+                "zh": "W: 是的，没错。"
+              },
+              {
+                "en": "M: Could I ask you a favor?",
+                "zh": "M: 我能请你帮个忙吗？"
+              },
+              {
+                "en": "W: Sure. What is it?",
+                "zh": "W: 当然可以。什么事？"
+              },
+              {
+                "en": "M: I was wondering if you could get me some jeans while you're there. I'll pay you back, of course.",
+                "zh": "M: 我在想你在那儿的时候能不能帮我买条牛仔裤。当然我会还你钱的。"
+              },
+              {
+                "en": "W: A pair of jeans? Okay. I don't see why not. But what's wrong with jeans here?",
+                "zh": "W: 一条牛仔裤？好吧。我觉得没问题。但这里的牛仔裤有什么不好吗？"
+              },
+              {
+                "en": "M: Well, I just love good jeans and Japan happens to make the best in the world. My friend brought me a pair from there five years ago, and they still look new.",
+                "zh": "M: 嗯，我就是喜欢好牛仔裤，而日本恰好生产世界上最好的牛仔裤。我朋友五年前从那儿给我带了一条，现在看起来还跟新的一样。"
+              },
+              {
+                "en": "W: Really? I had no idea Japan made jeans. I would have thought America made the best jeans because it's a typical American garment.",
+                "zh": "W: 真的吗？我完全不知道日本还生产牛仔裤。我还以为美国生产最好的牛仔裤呢，因为这是典型的美国服装。"
+              },
+              {
+                "en": "M: Yeah, I thought so too. But it turns out Japan still has some very old mills with the traditional weaving tools used to make jeans the original way. It's a slower process of making clothing. But the end result is surely superior. Also, the fabric they use is of a higher quality and the dyes are natural. They have a denser weave, and are more durable than any other jeans in the world.",
+                "zh": "M: 是啊，我也是这么想的。但事实证明日本仍然有一些非常古老的工厂，使用传统的织布工具以原始方式制作牛仔裤。这是一种比较慢的服装制作工艺。但最终成品绝对更优质。而且，他们使用的面料质量更高，染料也是天然的。织得更密实，比世界上任何其他牛仔裤都更耐用。"
+              },
+              {
+                "en": "W: That sounds cool. What size do you want and how much are they?",
+                "zh": "W: 听起来不错。你要什么尺码的，多少钱？"
+              },
+              {
+                "en": "M: I have a 34 waist and size 30 or 32 in length. Either is fine. They should be around $500. But make double certain they are made in Japan.",
+                "zh": "M: 我腰围34，长度30或32都行。哪个都可以。大概500美元左右。但一定要再三确认是日本制造的。"
+              },
+              {
+                "en": "W: $500? Boy, that's expensive. Do you typically spend that much on a pair of casual trousers?",
+                "zh": "W: 500美元？天哪，太贵了。你平时买休闲裤都花这么多钱吗？"
+              },
+              {
+                "en": "M: They are a little pricey, yes. But they are very special. Bear in mind, they will last me several years and they're very fashionable too. I think they're totally worth it.",
+                "zh": "M: 确实是有点贵。但它们很特别。要知道，它们能穿好几年，而且也很时尚。我觉得完全值得。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He desires more in life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He wants to see it again."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He feels as inspired as other audience members."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He longs to become a superstar himself."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is rather unrealistic."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is extremely artistic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is somewhat complicated."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is relatively predictable."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are biased against women."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are basically misleading."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are full of shootings."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are too simple.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Every time I walk out of a superhero movie, I feel the same way. I experience a sense of longing, realizing that there should be more in life. The desire for adventure is a human one. Superhero films capture this desire perfectly.",
+                "zh": "每次走出超级英雄电影院，我都有同样的感受。我体验到一种渴望感，意识到生活中应该有更多东西。对冒险的渴望是人类共有的。超级英雄电影完美地捕捉了这种渴望。"
+              },
+              {
+                "en": "The plot of each superhero film has become relatively predictable: the world is in peril, the world needs a hero, the hero is in peril, the hero resolves the peril, the hero saves the world. Each film has an attractive lead, several expensive explosions, a few jokes to lighten the mood, and numerous punches that land unrealistically well. Even though we basically know what will happen, we keep coming back for more.",
+                "zh": "每部超级英雄电影的情节都变得相对可预测：世界陷入危险，世界需要英雄，英雄陷入危险，英雄化解危险，英雄拯救世界。每部电影都有一个有魅力的主角、几场昂贵的爆炸、一些缓和气氛的笑话，以及无数不切实际地精准命中的拳头。尽管我们基本上知道会发生什么，我们还是不断回来观看更多。"
+              },
+              {
+                "en": "The elites of our society have rejected superhero films. They say the films lack any form of artistry. These movies are criticized as being too simple. But they give the fans what they want—entertainment.",
+                "zh": "我们社会的精英阶层排斥超级英雄电影。他们说这些电影缺乏任何形式的艺术性。这些电影被批评为过于简单。但它们给粉丝想要的东西——娱乐。"
+              },
+              {
+                "en": "No matter the form in which they reveal themselves, hero stories will always be present in life. It's not just about being entertained, but also being inspired. One author has mentioned that women desire to play an irreplaceable role in a great adventure. \"Most young women want to be a part of something grand, something important.\" It seems clear that this principle applies to men, as well.",
+                "zh": "无论以何种形式呈现，英雄故事将始终存在于生活中。这不仅关乎娱乐，也关乎激励。一位作者曾提到，女性渴望在一场伟大的冒险中扮演不可替代的角色。\"大多数年轻女性想成为宏大事物、重要事物的一部分。\"这一原则显然也适用于男性。"
+              },
+              {
+                "en": "So next time you see your favorite superhero film, be entertained, but also be inspired. Let that small longing you feel motivate you to make a difference.",
+                "zh": "所以下次你观看最喜欢的超级英雄电影时，享受娱乐，但也要受到激励。让你感受到的那种微小渴望激励你去做出改变。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can highlight leadership."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can help connect people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a means to inspire creative thinking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is an intuitive way to solidify friendship."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Allow them to recite data points."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make them more open to learning."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enable them to remember the main idea."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Stimulate them to engage in discussions."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Inspire listeners' imagination."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Convey fundamental values."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enrich their own experience."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Explain insightful ideas.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Telling stories is one of the most powerful means leaders have to influence, teach and inspire. Storytelling forges connections among people. When it comes to our countries, our communities, and our families, we understand instinctively that the stories we hold in common are an important part of the ties that bind.",
+                "zh": "讲故事是领导者用来影响、教导和激励他人的最有力手段之一。讲故事能在人与人之间建立联系。当涉及我们的国家、我们的社区和我们的家庭时,我们本能地理解,我们共同拥有的故事是维系彼此纽带的重要组成部分。"
+              },
+              {
+                "en": "This understanding also holds true in the business world, where an organization's stories, and the stories its leaders tell, help solidify relationships in a way that factual statements don't.",
+                "zh": "这种理解在商业世界中同样适用,在那里,一个组织的故事以及其领导者讲述的故事,能以一种事实陈述所无法做到的方式帮助巩固关系。"
+              },
+              {
+                "en": "Good stories do more than create a sense of connection. They build familiarity and trust. They allow the listener to enter the story, making them more open to learning. Good stories can contain multiple meanings, so they're surprisingly economical in conveying complex ideas in graspable ways. And stories are more engaging than the recital of data points or a discussion of abstract ideas.",
+                "zh": "好的故事不仅仅能创造一种联系感。它们建立熟悉感和信任。它们让听众进入故事之中,使他们更愿意学习。好的故事可以包含多重含义,因此它们在以可理解的方式传达复杂思想方面出人意料地经济高效。而且故事比罗列数据点或讨论抽象概念更具吸引力。"
+              },
+              {
+                "en": "Stories about professional mistakes and what leaders learned from them are another great avenue for learning. Because people identify so closely with stories, they can imagine how they would have acted in similar circumstances. They're able to work through situations in a way that's risk-free. There are extra benefits for leaders: with a simple personal story, they can convey fundamental values. They can offer insight into the evolution of their own experience and knowledge, presenting themselves as more approachable and then they are more likely to inspire others to want to know more.",
+                "zh": "关于职业错误以及领导者从中学到的经验的故事是另一条很好的学习途径。因为人们与故事产生如此紧密的认同,他们可以想象自己在类似情况下会如何行动。他们能够以一种零风险的方式来处理各种情境。对领导者来说还有额外的好处:通过一个简单的个人故事,他们可以传达基本价值观。他们可以深入展现自己经验和知识的演变过程,使自己显得更平易近人,从而更有可能激发他人想要了解更多的愿望。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Immigrants outnumber U.S.-born Americans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Immigrants have been contributing to the U.S."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Another wave of immigrants is hitting the U.S."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The number of immigrants to the U.S. is declining."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More of them expect their children to succeed in business."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have fewer chances to be hired by U.S. companies."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have founded most Fortune 500 companies."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More of them are successful business people."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have higher installment loan debt than native-born Americans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Nineteen percent of them borrow money from friends and family."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their level of debt is lower than that of native-born Americans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Thirty-four percent of them use credit for their daily purchases."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Keep their traditional values and old habits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Find employment in competitive businesses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Borrow money from financial institutions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Collaborate with native-born Americans."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The U.S. was founded by successive waves of immigrants, and immigrants are still contributing to America today—statistics prove it.",
+                "zh": "美国是由一波又一波的移民建立起来的,移民至今仍在为美国做出贡献——统计数据证明了这一点。"
+              },
+              {
+                "en": "On two key measures of financial performance, immigrants outperform native-born Americans.",
+                "zh": "在衡量财务表现的两个关键指标上,移民的表现优于本土出生的美国人。"
+              },
+              {
+                "en": "First, they are more likely to be entrepreneurs. From 1996 to 2016, the pace at which immigrants started businesses was double that of U.S.-born individuals. Immigrants aren't just becoming entrepreneurs more frequently. They're often succeeding. Over 40% of Fortune 500 companies had a founder who was either an immigrant or the child of one.",
+                "zh": "首先,他们更有可能成为企业家。从1996年到2016年,移民创业的速度是美国本土出生者的两倍。移民不仅更频繁地成为企业家,而且往往取得成功。超过40%的财富500强企业的创始人是移民或移民子女。"
+              },
+              {
+                "en": "Another key measure of financial strength is debt level. Immigrants do better in this area too. Immigrants use credit less often for purchasing cars, homes or starting businesses. This results in significantly lower levels of debt than native-born Americans. For example, 34% of Americans born in Latin America report no credit card or installment loan debt. This can be compared to just 19% of the general population.",
+                "zh": "另一个衡量财务实力的关键指标是负债水平。移民在这方面也表现更好。移民较少使用信贷购买汽车、房屋或创业,因此其负债水平显著低于本土出生的美国人。例如,34%的拉丁美洲出生的美国人表示没有信用卡或分期贷款债务,而整体人口中这一比例仅为19%。"
+              },
+              {
+                "en": "Why are immigrants doing so well? The values and habits they bring from their own homelands help explain some of the success.",
+                "zh": "为什么移民表现如此出色?他们从祖国带来的价值观和习惯有助于解释部分成功原因。"
+              },
+              {
+                "en": "Unemployment tends to be higher in developing countries. That means more people must become entrepreneurs. Credit is also scarcer in most developing countries. This means individuals must save more in order to achieve their goals, or they borrow money from friends and family rather than a bank. That means less debt and potentially better credit outcomes when they reach the U.S.",
+                "zh": "发展中国家的失业率往往更高,这意味着更多人必须成为企业家。在大多数发展中国家,信贷也更加稀缺,这意味着个人必须储蓄更多才能实现目标,或者从朋友和家人而非银行借钱,这意味着更少的债务,并且在他们到达美国时可能获得更好的信用结果。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Morocco is responding to increasing energy demands by setting up one of the largest solar plants in the world. The Noor solar power station is"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "in the city of Ouarzazate and, once completed, will generate 580 million watts of electricity. The World Bank estimates it will serve 1.1 million people. It's"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "to be completed soon. Morocco's current energy comes"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "from imports. The nation hopes to get 50 percent of its energy from renewable sources by 2030. With demand for energy"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "at an annual rate of 7 percent, the new solar plant could be a"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "part of that goal. \"This makes Morocco a big"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "in the field of solar energy in the Arab region and the African continent. It could also be a forerunner for many other countries in the world that"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "on foreign imports of energy,\" said Ali Hajji, a solar energy specialist and engineering professor. Experts believe that the Middle East and North Africa have huge"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "for solar energy projects. This is partly because of adequate sunlight and partly because technology has become more"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "in the region. \"The last few years have seen a realization of"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "how competitive solar technologies can be,\" said Michael Taylor, a senior analyst at the International Renewable Energy Agency."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "affordable"
+        },
+        {
+          "l": "B",
+          "w": "ancestor"
+        },
+        {
+          "l": "C",
+          "w": "crucial"
+        },
+        {
+          "l": "D",
+          "w": "depend"
+        },
+        {
+          "l": "E",
+          "w": "initial"
+        },
+        {
+          "l": "F",
+          "w": "insist"
+        },
+        {
+          "l": "G",
+          "w": "just"
+        },
+        {
+          "l": "H",
+          "w": "located"
+        },
+        {
+          "l": "I",
+          "w": "mostly"
+        },
+        {
+          "l": "J",
+          "w": "operating"
+        },
+        {
+          "l": "K",
+          "w": "perhaps"
+        },
+        {
+          "l": "L",
+          "w": "pioneer"
+        },
+        {
+          "l": "M",
+          "w": "potential"
+        },
+        {
+          "l": "N",
+          "w": "rising"
+        },
+        {
+          "l": "O",
+          "w": "scheduled"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "H"
+        },
+        {
+          "n": 27,
+          "a": "O"
+        },
+        {
+          "n": 28,
+          "a": "I"
+        },
+        {
+          "n": 29,
+          "a": "N"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "L"
+        },
+        {
+          "n": 32,
+          "a": "D"
+        },
+        {
+          "n": 33,
+          "a": "M"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "G"
+        }
+      ]
+    },
+    "matching": {
+      "title": "New Formula One Chief Hopes to Grab Americans' Attention",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "For the past four decades, the leader of Formula One car racing, one of the biggest annual sporting series in the world, was Bernie Ecclestone, a former motorcycle parts dealer who built it into an international presence essentially on his own."
+        },
+        {
+          "l": "B",
+          "t": "A skilled backroom operator who speaks without a filter, Ecclestone said often that in his opinion, the sport was at its best when he was allowed to act as \"a dictator.\""
+        },
+        {
+          "l": "C",
+          "t": "Yet now the dictator is gone. After an American company, Liberty Media, acquired the Formula One competition recently, Chase Carey—a former executive with Fox Broadcasting Company and DirecTV who by his own admission is not a fierce racing fan—was named to replace Ecclestone and to try to renovate the organization's management, reach and ambition."
+        },
+        {
+          "l": "D",
+          "t": "Among the goals, Carey said in an interview on Tuesday, is one that just about every global sport seems interested in chasing: increasing interest in the United States. \"People have said we're going to 'Americanize' it,\" Carey said. \"And we're not going to do that totally. But realistically, there are some elements of Americanization that the sport could use.\""
+        },
+        {
+          "l": "E",
+          "t": "While Formula One commands enormous audiences throughout much of the world, many American sports fans know it as that other motorsport, the one that is not Nascar(纳斯卡车赛). Formula One teams race far more technologically advanced vehicles around tracks all over the world—in magnificent events in places like Malaysia, Monaco, Singapore and the United Arab Emirates, and on tradition-rich tracks like Silverstone in England and Monza in Italy too."
+        },
+        {
+          "l": "F",
+          "t": "The series has an annual race in Austin, Texas. But within \"a few years,\" Carey said, he plans to bring another to a destination American city, like New York, Los Angeles, Miami or Las Vegas. Carey's ambitious plan is two-fold: first, change the business model of Formula One, which he said was a \"one-man show\" under Ecclestone that had a largely narrow vision when it came to negotiating partnership deals; and second, alter the way fans experience the sport, both in person and remotely, so that connections between the audience and people within the series are easier to make."
+        },
+        {
+          "l": "G",
+          "t": "Increased digital access for fans, a more behind-the-scenes experience for broadcast viewers and innovation in areas like virtual reality—what is it like to speed around a track inside a Ferrari?—are among the possibilities. \"The sport has clearly been underserved,\" Carey said. \"It doesn't do anything digitally. There's no marketing. It doesn't tell any stories. The goal in this is to make the fans connect to the live experience as much as possible, and the tools you have to do that, we're not using at all.\""
+        },
+        {
+          "l": "H",
+          "t": "The larger question, though, is a familiar one: Is there room for Formula One in the ever-crowded sports landscape of the United States? Opinions vary, particularly because viewing habits among consumers continue to evolve. John Bloom, a professor at Shippensburg University who has studied American sports history, said the biggest challenge for any sport trying to increase its presence in the United States was framing itself in a way that had lasting appeal. \"Sports generally become popular in some way because they establish a narrative,\" Bloom said. \"When I think of motorsports in the U.S., what we all think of is Nascar, and the narrative of Nascar is sort of rural, white, working-class Americans, mostly in the South, connecting with the atmosphere of those races. That's the narrative. When I think of the narrative of Formula One, it's a very different kind of audience.\""
+        },
+        {
+          "l": "I",
+          "t": "That difference, Carey said, is significant. While some might immediately link Formula One to Nascar in terms of American growth, Carey said Formula One's brand research had indicated there was very little crossover; rather, Formula One fans generally cite other so-called elite events, like Wimbledon or the Ryder Cup, as competitions they enjoy. \"Other than they're both cars, the Nascar fan base is a very different fan base,\" Carey said. \"It's a very regional fan base. Formula One is a global, famous brand of stars. These are machines that shock and awe you.\""
+        },
+        {
+          "l": "J",
+          "t": "Carey's background is in deal making and innovation. At Fox Broadcasting Company, he was a top advisor for years, known for his skill in helping to lead the launch of the company into sports, as well as the start of Fox News Channel. After going to DirecTV, he positioned the satellite provider as a mainstream option in millions of households."
+        },
+        {
+          "l": "K",
+          "t": "Now, after Liberty Media paid $4.4 billion to acquire Formula One, he is charged with making the investment pay off. \"I think they can build Formula One in the U.S.,\" said Patrick Crakes, an executive at InVivo Media Group who spent 25 years at Fox Broadcasting Company before leaving in 2016 as a senior manager at Fox Sports. \"People don't work on their cars anymore. They don't want that connection anymore. It's about technology and pushing the limits. It's about speed, danger and risk. And Formula One has that more than any other racing series.\""
+        },
+        {
+          "l": "L",
+          "t": "That is what hooked Carey, and he said he thought his experience was not unusual. He recalled attending Formula One's Monaco race last year and being overwhelmed by the ceremony leading up to the event, the way the race charmed the city for days ahead of the start. In his mind, it felt like a Super Bowl(超级碗橄榄 球赛)."
+        },
+        {
+          "l": "M",
+          "t": "Then, on race day, he watched as the cars rocketed out of a tunnel and went screaming toward a tight turn with the city's harbor and the Mediterranean Sea in the background framing the scene. He was fascinated. \"You can't help but be awed,\" he said, \"and I think that feeling can be translated to the viewer.\""
+        },
+        {
+          "l": "N",
+          "t": "He added: \"The broader sport is a little too inward-looking, and we need to be more open. In some ways, I'm glad to be coming from the outside. The guys who are in the sport forever are sitting there saying: 'We can't do that. We can't do that because it's never been done that way.'\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Chase Carey believes greater use should be made of digital technology to make Formula One more accessible to its fans.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "Chase Carey was deeply impressed by the ceremony preceding last year's Monaco race.",
+          "a": "L"
+        },
+        {
+          "n": 38,
+          "s": "One of Chase Carey's goals is to make Formula One more appealing to Americans.",
+          "a": "D"
+        },
+        {
+          "n": 39,
+          "s": "A former motorbike parts dealer led Formula One for the past forty years.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Chase Carey thought the audience of Formula One could be made to share his feeling about the race.",
+          "a": "M"
+        },
+        {
+          "n": 41,
+          "s": "Chase Carey used to serve as a top advisor for a major broadcasting company.",
+          "a": "J"
+        },
+        {
+          "n": 42,
+          "s": "Chase Carey intends to make connections easier between the audience and the Formula One racers.",
+          "a": "F"
+        },
+        {
+          "n": 43,
+          "s": "The new leader of Formula One admitted he was not super interested in car racing.",
+          "a": "C"
+        },
+        {
+          "n": 44,
+          "s": "People's opinions differ as to whether Formula One can be promoted in the U.S.",
+          "a": "H"
+        },
+        {
+          "n": 45,
+          "s": "Compared with other racing series, Formula One focuses more on speed and involves more danger.",
+          "a": "K"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit. For more than a decade, they have been under attack from e- commerce giants, blamed for making Americans fat, and accused of contributing to climate change. Supermarkets can technically be defined as giants housing 15,000 to 60,000 different products. The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America. There is some debate about which was the very first, but over the years a consensus has built around King Kullen Supermarket, founded in New York in 1930. For some 300 years, Americans had fed themselves from small stores and public markets. Shopping for food involved mud, noisy chickens, clouds of flies, nasty smells, bargaining, and getting short-changed. The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food. Supermarkets may not feel cutting-edge now, but they were a revolution in distribution at the time. They were such strange marvels that, on her first official state visit to the United States in 1957, Queen Elizabeth II insisted on an impromptu(即兴的) tour of a suburban-Maryland Giant Food. The typical supermarket layout has barely changed over the past 90 years. Most stores open with flowers, fruit and vegetables at the front as a breath of freshness to arouse our appetite. Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you'll travel through as much of the store as possible, and be tempted along the way. In the early days, as the supermarket multiplied, so did our suspicion of it. We have long feared that this \"revolution in distribution\" uses corporate black magic on our appetite. The book The Hidden Persuaders, published in 1957, warned that supermarkets were putting women in a \"hypnoidal trance( 催眠恍惚状态),\" causing them to wander aisles bumping into boxes and \"picking things off shelves at random.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What problem have supermarkets been facing?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are actually on the way to bankruptcy."
+              },
+              {
+                "l": "B",
+                "t": "They have been losing customers and profits."
+              },
+              {
+                "l": "C",
+                "t": "They are forced to use e-commerce strategies."
+              },
+              {
+                "l": "D",
+                "t": "They have difficulty adapting to climate change."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What does the passage say about the idea of a self-service grocery?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It was put forward by King Kullen."
+              },
+              {
+                "l": "B",
+                "t": "It originated in the United States."
+              },
+              {
+                "l": "C",
+                "t": "It has been under constant debate."
+              },
+              {
+                "l": "D",
+                "t": "It proves revolutionary even today."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What did supermarkets do by adopting the Fordist factory approach?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They modernized traditional groceries in many ways."
+              },
+              {
+                "l": "B",
+                "t": "They introduced cutting-edge layout of their stores."
+              },
+              {
+                "l": "C",
+                "t": "They improved the quality of the food they sold."
+              },
+              {
+                "l": "D",
+                "t": "They revolutionized the distribution of goods."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What is the typical supermarket layout intended to do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Arouse customers' appetite to buy flowers, fruit and vegetables."
+              },
+              {
+                "l": "B",
+                "t": "Provide customers easy access to items they want to buy."
+              },
+              {
+                "l": "C",
+                "t": "Induce customers to make more unplanned purchases."
+              },
+              {
+                "l": "D",
+                "t": "Enable customers to have a more enjoyable shopping experience."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What have people long feared about supermarkets?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They use tricky strategies to promote their business."
+              },
+              {
+                "l": "B",
+                "t": "They are going to replace the local groceries entirely."
+              },
+              {
+                "l": "C",
+                "t": "They apply corporate black magic to the goods on display."
+              },
+              {
+                "l": "D",
+                "t": "They take advantage of the weaknesses of women shoppers."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work. Since then, we've completely changed as a nation. Students no longer spend summers farming, but they aren't in school, either. The average American student receives 13 weeks off from school each calendar year-with about 11 of those during the summer. Few other countries have more than seven weeks off in a school calendar. With the U.S. lagging behind other countries in academics, it's time to consider year-round schooling. One benefit of this change is that students will not fall victim to the \"summer slide,\" or the well-documented phenomenon where students forget some of the knowledge they have acquired when too much time is taken off from school. Decades of research shows that it can take from 8 to 13 weeks at the beginning of every school year for students to get back to where they were before the summer holiday. But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from the school environment. These closer bonds and greater attachment pay off. Research shows that students in year-round schools are more self-confident and feel more positive about their schooling experience. But don't kids need time to relax? Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside. The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits them. The U.S. has changed from a farming economy to a knowledge- and innovation-based economy, so it makes sense for the school year to change as well.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "Why did America's traditional school year have a three-month summer vacation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Students needed to help with farm work."
+              },
+              {
+                "l": "B",
+                "t": "Students needed time to learn necessary farming skills."
+              },
+              {
+                "l": "C",
+                "t": "The agricultural society then attached less importance to academics."
+              },
+              {
+                "l": "D",
+                "t": "America lagged behind other countries in making a scientific school calendar."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What benefit will year-round schooling bring students in addition to improving their learning?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will help them get back to where their lessons started."
+              },
+              {
+                "l": "B",
+                "t": "It will enable them to absorb what they have learned."
+              },
+              {
+                "l": "C",
+                "t": "It will familiarize them with the school environment."
+              },
+              {
+                "l": "D",
+                "t": "It will strengthen their relationship with teachers."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What do some childhood development experts believe about the long summer vacation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It meets students' need to study on their own."
+              },
+              {
+                "l": "B",
+                "t": "It enables students to learn about the outside world."
+              },
+              {
+                "l": "C",
+                "t": "It satisfies students' desire to stay longer at home."
+              },
+              {
+                "l": "D",
+                "t": "It contributes to students' healthy growth."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What is the argument against the experts' idea of a long summer vacation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It does little good to most students."
+              },
+              {
+                "l": "B",
+                "t": "It benefits few students playing outside."
+              },
+              {
+                "l": "C",
+                "t": "It leads students to neglect their studies."
+              },
+              {
+                "l": "D",
+                "t": "It makes students addicted to computer games."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does the author think of the traditional school year in the U.S. today?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Well-grounded."
+              },
+              {
+                "l": "B",
+                "t": "Culture-bound."
+              },
+              {
+                "l": "C",
+                "t": "Outdated."
+              },
+              {
+                "l": "D",
+                "t": "Welcomed."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "改革开放40多年以来，中国政府对高等教育越来越重视，高等教育已经进入稳步发展阶段。高校学生总数 已接近4,700万人，位居世界第一。随着我国经济的快速发展，人民生活水平不断提高，越来越多的人渴望接 受高等教育。我国高校的数量和学科专业持续增加，招生人数逐年上升，教学质量也在不断改进，为更多年轻 人创造了接受高等教育的机会。",
+    "reference": "Since the reform and opening-up over 40 years ago, the Chinese government has attached increasing importance to higher education, which has now entered a stage of steady development. The total number of college students has reached nearly 47 million, ranking first in the world. With the rapid development of China's economy and the steady improvement of people's living standards, more and more people are eager to receive higher education. The number of colleges and universities in China and the disciplines they offer continue to increase, and student enrollment rises year by year while teaching quality is constantly improving, creating opportunities for more young people to receive higher education."
+  }
+}

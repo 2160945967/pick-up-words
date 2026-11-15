@@ -1,0 +1,1352 @@
+{
+  "id": "cet4-2024-12-1",
+  "level": "cet4",
+  "year": 2024,
+  "month": 12,
+  "set": 1,
+  "title": "2024年12月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose the business school of your university is conducting a survey to collect students' opinions on the express delivery service industry in China. You are to write a response about its recent development and its impact on people's lives. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "sample": "As a student invited to share my views in this survey, I am glad to comment on the express delivery industry in China, which has grown at an astonishing pace in recent years.To begin with, the recent development of this industry is remarkable. Delivery networks now reach even remote villages, and parcels that once took a week can be delivered overnight. Smart lockers and automated sorting centres, powered by big data, have made the whole process faster and more accurate than ever before.More importantly, this development has reshaped our daily lives. With reliable next-day delivery, people can shop online for almost anything, from food to books, without leaving home. Such convenience saves us time and energy, and it has also created millions of jobs for delivery workers across the country.In conclusion, China's express delivery industry has advanced rapidly and brought real benefits to ordinary people. I firmly believe it will continue to make our lives even more convenient."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is making a special effort to be recognized."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She has been living in Fayetteville for 25 years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She has been driving a school bus ever since 2009."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is the longest-serving bus driver in Fayetteville."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The importance of their service to the city."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The number of riders they serve in the city."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The new proclamation issued early this week."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The significance of the event to take place March 18.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The City of Fayetteville is making a special effort to recognize its bus drivers ahead of the newly proclaimed Transit Driver Appreciation Day happening Saturday. As part of the event, the city is celebrating its longest-serving driver on the force.",
+                "zh": "Fayetteville市正在特别努力表彰其公交车司机，以迎接新设立的公交司机感谢日，该日定于周六举行。作为活动的一部分,该市正在庆祝其服务时间最长的在职司机。"
+              },
+              {
+                "en": "That driver is Sherry Christian. Christian has been a driver for 25 years. The Fayetteville native believes driving a school bus allows her to give back to her community. She says that the best part of the job is watching the children who ride her bus grow up.",
+                "zh": "这位司机是Sherry Christian。Christian已经担任司机25年。这位Fayetteville本地人认为驾驶校车让她能够回馈社区。她说这份工作最好的部分是看着乘坐她的校车的孩子们长大。"
+              },
+              {
+                "en": "Transit Driver Appreciation Day has been celebrated across the country as far back as 2009. However, this week, the City of Fayetteville issued a proclamation for the day to take place March 18th. Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6 million riders a year.",
+                "zh": "公交司机感谢日早在2009年就在全国范围内庆祝。然而,本周Fayetteville市发布公告将这一日期定为3月18日。官员们表示,他们希望公交车司机知道他们对Fayetteville有多么重要,每年为近160万名乘客提供服务。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Budgeted $56.7 million for the coming school year."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Requested to raise teachers' salaries by 3 percent."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Proposed a spending increase by 5.99 percent."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Kept raising funds for at least 8 budget cycles."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Decrease in salaries for school administrators."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Reduction in federal and state funding."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Firing of less qualified faculty members."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Closing down of some less competitive schools.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The Wilton School Board has proposed a 5.99% spending increase. If approved, it would be the largest jump in at least eight budget cycles. The 5.99% request more than doubles the highest previous year-over-year increase in the last eight years, which was 2.99% for the 2021-2022 school year. The biggest driver of the $91.8 million proposed budget remains teacher salaries. These account for 64% of the total request at $59 million. The $59 million is up from the $56.7 million budgeted for the current school year.",
+                "zh": "Wilton学区委员会提议增加5.99%的支出。如果获得批准,这将是至少八个预算周期中最大的增幅。5.99%的增幅请求是过去八年中最高年度增幅的两倍多,而此前最高增幅是2021-2022学年的2.99%。这份9180万美元预算提案的最大驱动因素仍然是教师工资。教师工资占总请求金额的64%,为5900万美元。5900万美元高于本学年预算的5670万美元。"
+              },
+              {
+                "en": "There are some factors that could affect the budget moving forward. One of those is total enrollment. The district will have a total enrollment of 3,742 students. Almost all of these students will be in kindergarten through high school, but 66 will be in prekindergarten and other programs. This represents 47 fewer students than the current year. Fewer students mean less federal and state funding.",
+                "zh": "有一些因素可能会影响未来的预算。其中之一是总入学人数。该学区将有3742名学生入学。几乎所有这些学生都将在幼儿园到高中阶段就读,但有66名学生将在学前班和其他项目中。这比本学年减少了47名学生。学生人数减少意味着联邦和州拨款减少。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They often take place in the Scottish highlands."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They usually happen in the middle of the night."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their damage can be as serious as that of bombs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their loud claps can be confused with explosions."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They sent out a message to calm them down."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They promised to stop the construction work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They told them the military exercise was over."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They set off to inspect the site of the plane crash."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Keep warm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Take caution."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Avoid driving."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Use rail service."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A rare thundersnow event has taken place in Scotland. And alarmed locals contacted police, thinking they had heard bombs going off. The phenomenon happens when thunder and lightning mix with a heavy snowstorm—sometimes causing loud claps that can be confused with explosions.",
+                "zh": "苏格兰发生了一次罕见的雷雪事件。惊慌失措的当地居民联系了警方,以为他们听到了炸弹爆炸的声音。这种现象发生在雷电与暴雪混合时,有时会产生巨大的爆裂声,容易被误认为是爆炸。"
+              },
+              {
+                "en": "One person described it as a loud boom, similar to a plane crash. Another person was woken up in the middle of the night by what he thought was early construction work starting. The noise was powerful enough to shake buildings and set off car alarms. The police were flooded with many calls from the public. And they sent out a message asking people to remain calm. The police assured everyone that it was just thunder and lightning rather than some military exercise. The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside. In particular, dangerous conditions such as icy roads or wet ground could cause difficulty for drivers. The rail service also announced potential disruptions to trains due to the deep snow. Some roads were also closed because of the severe weather.",
+                "zh": "一个人将其描述为一声巨响,类似于飞机坠毁。另一个人在半夜被他以为是早期施工开始的声音吵醒。这种噪音强大到足以震动建筑物并触发汽车警报器。警方接到了大量公众来电。他们发出信息要求人们保持冷静。警方向所有人保证这只是雷电,而不是什么军事演习。天气是本季最冷的,因此人们被警告在外出时要小心。特别是结冰的道路或湿滑的地面等危险状况可能会给司机造成困难。铁路部门也宣布由于积雪深厚,列车可能会受到干扰。一些道路也因恶劣天气而关闭。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Why the man is so anxious to buy a new phone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How the man could possibly afford a new phone."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How the man got into the habit of being wasteful."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Why the man is so fond of using his credit card."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is not in fashion any more."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It goes out of order frequently."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is not as fancy as his colleagues'."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It lacks functions office work requires."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It enables him to buy a new phone at a more favorable price."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a special offer to recent college graduates working in offices."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is available to office workers who have a good enough credit score."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It allows him to borrow money without paying interest for six months."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She borrowed money to pay her debt."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She developed a habit of overspending."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She enjoys buying a lot of fancy things."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She regrets ignoring the woman's advice.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I'm going to the city centre to buy a new phone today.",
+                "zh": "M: 我今天要去市中心买一部新手机。"
+              },
+              {
+                "en": "W: Didn't you buy a new phone just two months ago?",
+                "zh": "W: 你不是两个月前才买了一部新手机吗?"
+              },
+              {
+                "en": "M: It was three months ago, and I already know what you're going to say. You're thinking I shouldn't replace my phone this soon.",
+                "zh": "M: 是三个月前,而且我已经知道你要说什么了。你觉得我不该这么快就换手机。"
+              },
+              {
+                "en": "W: No, actually, I was wondering how you could possibly afford a new phone. But now that you mention it, I do think getting another phone so soon is wasteful, regardless of the cost.",
+                "zh": "W: 不,其实我是在想你怎么可能负担得起一部新手机。但既然你提到了,我确实认为这么快又买一部手机很浪费,不管多少钱。"
+              },
+              {
+                "en": "M: Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone, and I'm a little embarrassed by mine. I just got a credit card, so I thought I might as well buy a new phone.",
+                "zh": "M: 也许你说得对,但问题是,办公室里每个人都有一部很好很贵的手机,我对我的手机有点难为情。我刚办了一张信用卡,所以我想不如买部新手机。"
+              },
+              {
+                "en": "W: I don't think buying a phone on credit is a good idea. Look, you've only been working for five months now. People understand that you are a recent graduate, and I doubt anyone cares about your phone other than yourself.",
+                "zh": "W: 我觉得用信用卡买手机不是个好主意。你看,你才工作了五个月。大家都理解你是刚毕业的,我觉得除了你自己,没人在意你的手机。"
+              },
+              {
+                "en": "M: Maybe you're right, but the credit card has a very good special offer, where I don't pay any interest for six months. I'll be able to pay for the phone well before that period is over.",
+                "zh": "M: 也许你说得对,但这张信用卡有一个很好的特别优惠,六个月内不用付利息。在那之前我肯定能把手机款付清。"
+              },
+              {
+                "en": "W: I still think it's a bad idea to use a credit card for something you don't need. One of my colleagues bought a lot of things on credit during her first year of work, and it became a bad habit, and she accumulated a lot of debt.",
+                "zh": "W: 我还是觉得用信用卡买你不需要的东西是个坏主意。我有个同事在工作第一年用信用卡买了很多东西,这变成了一个坏习惯,她积累了很多债务。"
+              },
+              {
+                "en": "M: Well, I can see how that might happen to someone, and I'm sure she regrets it, but I know it won't happen to me.",
+                "zh": "M: 嗯,我能理解这种事可能发生在某些人身上,我相信她很后悔,但我知道这不会发生在我身上。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Blog writing and natural resources saving."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Joint efforts to improve the local community."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Audience participation in The Morning Show."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Home ownership and environmental protection."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Not a realistic size for families."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Not welcomed by most Americans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Only fit for families of four or less."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Only suitable for renting to the poor."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It should be changed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It isn't easy to realize."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will come true sooner or later."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It doesn't appeal to average families."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They help to lower housing prices."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They help to save up for larger houses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are a good choice for many people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are vital to reducing waste worldwide."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Welcome to The Morning Show. Our guest today is a popular blog writer and a major figure in the tiny home community. Welcome, Bob Jones.",
+                "zh": "W: 欢迎来到《早间秀》。我们今天的嘉宾是一位人气博主,也是迷你住宅社区的重要人物。欢迎你,Bob Jones。"
+              },
+              {
+                "en": "M: Hi, Mary.",
+                "zh": "M: 你好,Mary。"
+              },
+              {
+                "en": "W: Hi, Bob. You're an advocate of the tiny home movement. A lot of people don't know about this movement. Can you tell our audience what it's about?",
+                "zh": "W: 你好,Bob。你是迷你住宅运动的倡导者。很多人不了解这个运动。你能给我们的观众介绍一下它是怎么回事吗?"
+              },
+              {
+                "en": "M: Well, it's mainly about increasing home ownership and protecting the environment.",
+                "zh": "M: 嗯,它主要是关于提高住房拥有率和保护环境。"
+              },
+              {
+                "en": "W: Of course, those are great goals. But I've seen your blog, and you write about houses that are as small as 20 square meters. That's not a realistic size for families.",
+                "zh": "W: 当然,这些都是很好的目标。但我看过你的博客,你写的房子小到只有20平方米。这对家庭来说不是一个现实的面积。"
+              },
+              {
+                "en": "M: I do talk about very small homes, but there's no set definition of a tiny home. And other people include homes that are much larger, say, 60 square meters. And you'd be surprised many families of four are happy living in houses that are under 30 square meters.",
+                "zh": "M: 我确实谈论过非常小的房子,但迷你住宅没有固定的定义。其他人也包括大得多的房子,比如说60平方米。你会惊讶地发现,许多四口之家很乐意住在不到30平方米的房子里。"
+              },
+              {
+                "en": "W: But I think most of us want spacious homes. The average new house in this area is 150 square meters. And that's what people dream of owning.",
+                "zh": "W: 但我认为我们大多数人都想要宽敞的房子。这个地区新房的平均面积是150平方米。这就是人们梦想拥有的。"
+              },
+              {
+                "en": "M: Yes, but I think that dream needs to change, considering the cost of housing.",
+                "zh": "M: 是的,但考虑到住房成本,我认为这个梦想需要改变。"
+              },
+              {
+                "en": "W: Housing costs are high, but do people really save that much by having a smaller home?",
+                "zh": "W: 住房成本很高,但人们通过拥有更小的房子真的能省那么多钱吗?"
+              },
+              {
+                "en": "M: Absolutely. Many people who can only afford to rent a large home are able to buy a tiny home. In this city, the average home costs $200,000, and a tiny home costs just $50,000.",
+                "zh": "M: 当然。许多只能租得起大房子的人能够买得起迷你住宅。在这个城市,普通住宅的平均价格是20万美元,而迷你住宅只需5万美元。"
+              },
+              {
+                "en": "W: Those are huge savings.",
+                "zh": "W: 这可是巨大的节省。"
+              },
+              {
+                "en": "M: So, tiny homes might not be for everyone, but they're a good option for many.",
+                "zh": "M: 所以,迷你住宅可能不适合所有人,但对许多人来说是个不错的选择。"
+              },
+              {
+                "en": "W: You mentioned the environment earlier. How does this benefit the planet?",
+                "zh": "W: 你之前提到了环境。这如何造福地球呢?"
+              },
+              {
+                "en": "M: Well, if people have smaller homes, they use less land and fewer resources to build them.",
+                "zh": "M: 嗯,如果人们住更小的房子,他们就会使用更少的土地和更少的资源来建造它们。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Play outdoors and enjoy themselves."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Beat challenges and take risks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Take care of their well-being."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Grow up strong and healthy."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Enable them to develop their motor skills."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Help them to conceal their frustration."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Reduce their stress and depression."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Prevent them from feeling lonely."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It begins early."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It proves demanding."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It calls for lifelong efforts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It lies in nature experiences.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Kids need time every day to run, jump, stretch and play. These experiences have been shown to build children's confidence and pleasure in physical activities, develop their motor skills, and even improve emotional well-being.",
+                "zh": "孩子们每天都需要时间来跑步、跳跃、伸展和玩耍。这些经历已被证明能够建立儿童对体育活动的信心和乐趣,发展他们的运动技能,甚至改善情绪健康。"
+              },
+              {
+                "en": "To begin with, children seem to have a natural desire to overcome challenges and take risks. Taking healthy risks through physical movement builds children's confidence and ability to solve problems and persist through frustration. Secondly, movement activities build children's big body skills such as coordination and balance, as well as the fine motor skills they need for tasks like writing, tying their shoes, or throwing and catching a ball. Thirdly, according to the American Psychological Association, regular physical activity (and especially outdoor activity) reduces children's stress and depression, and improves their ability to focus and learn. Regular exercise can significantly improve self-regulation and decrease disciplinary consequences for negative behavior. Physical activity provides a positive outlet for frustration, anxiety, or anger and can become a healthy coping skill throughout life. Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early. Children are more likely to develop a lifelong love of physical activity from frequent positive early experiences. Not every child enjoys competitive sports or playing with balls and that's OK. There are plenty of other options such as imaginative play, non-competitive games, and gardening or nature experiences.",
+                "zh": "首先,儿童似乎天生就有克服挑战和冒险的欲望。通过身体运动进行健康的冒险可以建立儿童的信心和解决问题的能力,并在挫折中坚持下去。其次,运动活动可以培养儿童的大肌肉运动技能,如协调性和平衡性,以及他们完成写字、系鞋带或投掷接球等任务所需的精细运动技能。第三,根据美国心理学会的研究,定期的体育活动(尤其是户外活动)可以减轻儿童的压力和抑郁,并提高他们的专注力和学习能力。定期锻炼可以显著改善自我调节能力,并减少因不良行为而受到的纪律处分。体育活动为挫折、焦虑或愤怒提供了一个积极的出口,并可以成为贯穿一生的健康应对技能。最后,我们知道体育活动对我们的身心健康很重要,而培养体育活动的习惯要从小开始。儿童更有可能从频繁的积极早期经历中培养出对体育活动的终身热爱。并非每个孩子都喜欢竞技体育或玩球类运动,这没关系。还有很多其他选择,如想象性游戏、非竞争性游戏以及园艺或自然体验。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When companies share their information online."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When their job search criteria are met fully."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When companies embrace greater diversity"
+                  },
+                  {
+                    "l": "D",
+                    "t": "When they find job postings visually attractive."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Emails in the normal format."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Major companies in one location."
+                  },
+                  {
+                    "l": "C",
+                    "t": "All companies in the same sector."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Various aspects of a company's workforce."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Job security."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Potential pay raises."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Minimum base salary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Information about diversity.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new study finds that job seekers are even willing to explore jobs with lower salaries when companies are more diverse. It finds that sharing information about diversity makes job postings more attractive to job seekers, even when pay is lower.",
+                "zh": "一项新研究发现，当公司更具多样性时，求职者甚至愿意探索薪资较低的工作。研究发现，分享关于多样性的信息使得招聘信息对求职者更具吸引力，即使薪酬较低。"
+              },
+              {
+                "en": "To conduct the study, the team partnered with an online job listings platform which emails postings relevant to individuals and their job search criteria. For the course of the 11-week study, the platform emailed job listings to some 180,000 users placed in one of two conditions. In the baseline condition, participants saw emails in the normal format, with no information on diversity; in the diversity condition, participants saw a diversity score for each listing: information about the race, gender, education, and language skills of a company's workforce compared to others in the same sector and location. Information was then gathered on whether the email was opened, and which job listings were clicked on by each user.",
+                "zh": "为了进行这项研究，研究团队与一个在线招聘信息平台合作，该平台会向个人发送与其求职标准相关的职位信息邮件。在为期11周的研究过程中，该平台向约18万名用户发送招聘信息邮件，这些用户被分为两种情况之一。在基线情况下，参与者看到的是正常格式的邮件,没有关于多样性的信息;在多样性情况下,参与者看到每个招聘信息的多样性评分:关于公司员工的种族、性别、教育程度和语言技能与同一行业和地区其他公司相比的信息。然后收集关于邮件是否被打开以及每个用户点击了哪些招聘信息的数据。"
+              },
+              {
+                "en": "Participants in the diversity condition tended to click on job listings from companies with slightly higher diversity scores than those in the baseline condition: that is, participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing. And the team also found that participants were willing to look at listings with lower salaries if they came from companies with a higher diversity score.",
+                "zh": "多样性情况下的参与者倾向于点击多样性评分略高于基线情况下公司的招聘信息:也就是说，参与者似乎关注关于多样性的信息，并在决定是否点击该招聘信息时使用这些信息。研究团队还发现，如果招聘信息来自多样性评分较高的公司，参与者愿意查看薪资较低的招聘信息。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Positive."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Original."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Important."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Surprising."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Dogs match their behavior with kids as much as with adults."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Kids and adults alike find in dogs a source of attachment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Kids' attitude to dogs is influenced by adults."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Dogs can help kids in many ways."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Dogs pay much attention to the kids they live with."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Dogs view both adults and kids as social companions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Kids differ from adults in their behavior towards dogs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Kids need to be aware of the risks in playing with dogs."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Understanding dogs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Training dogs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Taking care of dogs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Associating with dogs."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new study from Oregon State University found that dogs tend to match their behavior with the children in their family. The findings are important because there is a growing body of evidence that dogs can help children in many ways. These include helping with social development, increasing physical activity, managing anxiety or serving as a source of attachment in the face of changing family structures.",
+                "zh": "俄勒冈州立大学的一项新研究发现，狗往往会使自己的行为与家庭中的儿童相匹配。这些发现很重要，因为越来越多的证据表明狗可以在许多方面帮助儿童。这些方面包括帮助社交发展、增加身体活动、管理焦虑或在家庭结构变化时充当依恋来源。"
+              },
+              {
+                "en": "Yet, very little research has focused on how dogs perceive and socially engage with children. \"The great news is that this study suggests dogs are paying a lot of attention to the kids that they live with,\" said Monique Udell, the lead author of the study. \"One interesting thing we have observed is that dogs are matching children's behavior, but less frequently than what we have seen between dogs and adults. This suggests that while dogs may view children as social companions, there are also some differences that we need to understand better.\"",
+                "zh": "然而，很少有研究关注狗如何感知儿童并与儿童进行社交互动。该研究的主要作者Monique Udell说：\"好消息是，这项研究表明狗非常关注与它们一起生活的孩子。我们观察到的一个有趣现象是，狗会匹配儿童的行为，但频率低于我们在狗和成人之间观察到的情况。这表明虽然狗可能将儿童视为社交伙伴，但也存在一些我们需要更好理解的差异。\""
+              },
+              {
+                "en": "While research has found dogs can have a lot of positive impacts on a child's life, there are also risks associated with the dog-child relationship. For example, other studies have found dogs are more likely to bite children versus adults. \"We still have a lot to learn about the dog-child relationship,\" Udell said. \"But research does show that kids are very capable of training dogs.\"",
+                "zh": "虽然研究发现狗可以对儿童的生活产生许多积极影响，但狗与儿童的关系也存在风险。例如，其他研究发现狗咬儿童的可能性高于咬成人。Udell说：\"关于狗与儿童的关系，我们还有很多需要了解的。但研究确实表明，孩子们非常有能力训练狗。\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "When Toni Morrison died in 2019, the world lost one of its most influential authors. But Morrison was not an early success. Her first novel was not published until she was 39, and her last appeared when she was 84. And Morrison was not"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "in this regard. Numerous writers produce masterpieces well into their 70s and beyond. Such"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "accomplishments highlight an important point. Our capacity to speak, write and learn new vocabulary does not seem to"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "with age. Our eyesight may dim and our recall may weaken, but, by comparison, our ability to produce and to"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "language is well preserved into older adulthood. Indeed, the latest research that has emerged on language and aging shows that language mastery is a"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "that we begin as infants and continue on for the rest of our lives. Some aspects of our language abilities, such as our knowledge of word meanings,"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "improve during middle and late adulthood. One study, for example, found that adults over sixty had an average vocabulary size of over 21,000 words. The researchers also studied a"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "of college students and found that their average vocabulary contained"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "16,000 words. In another study, older adults, with an average age of 75,"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "better than participants in their youth or middle years on tasks that required them to determine the meaning of words. Thus, language seems to be a skill that, contrary to what many might"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ", does not weaken with age."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "actually"
+        },
+        {
+          "l": "B",
+          "w": "approximately"
+        },
+        {
+          "l": "C",
+          "w": "assume"
+        },
+        {
+          "l": "D",
+          "w": "component"
+        },
+        {
+          "l": "E",
+          "w": "comprehend"
+        },
+        {
+          "l": "F",
+          "w": "deteriorate"
+        },
+        {
+          "l": "G",
+          "w": "equivalent"
+        },
+        {
+          "l": "H",
+          "w": "journey"
+        },
+        {
+          "l": "I",
+          "w": "literary"
+        },
+        {
+          "l": "J",
+          "w": "performed"
+        },
+        {
+          "l": "K",
+          "w": "rarely"
+        },
+        {
+          "l": "L",
+          "w": "sample"
+        },
+        {
+          "l": "M",
+          "w": "undermined"
+        },
+        {
+          "l": "N",
+          "w": "unique"
+        },
+        {
+          "l": "O",
+          "w": "unit"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "N"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "E"
+        },
+        {
+          "n": 30,
+          "a": "H"
+        },
+        {
+          "n": 31,
+          "a": "A"
+        },
+        {
+          "n": 32,
+          "a": "L"
+        },
+        {
+          "n": 33,
+          "a": "B"
+        },
+        {
+          "n": 34,
+          "a": "J"
+        },
+        {
+          "n": 35,
+          "a": "C"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Why it's wrong to look at work-life balance as an achievement",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Few topics have been so endlessly analysed as work-life balance. The quest to attain this mysterious state has dominated discussion around careers for years—especially for working parents. The concept is often presented as something to achieve, or a goal to reach. And once you've reached it, congratulations: you've made it; you're a successful human being of the 21st century."
+        },
+        {
+          "l": "B",
+          "t": "But the problem is that we often tell ourselves: \"I'm going to put in eight hours' worth of work, and then I'm going to put in eight hours' worth of 'me time', which will include my family, my hobbies, my workout, my everything,\" says Anat Lechner, clinical associate professor of management at New York University. \"I don't think it's such a simple formula.\""
+        },
+        {
+          "l": "C",
+          "t": "And, according to new findings, it may not be. Some researchers are now encouraging us to stop thinking about work-life balance as an achievement that you either hit or don't. Instead, they suggest it may be more of a lifelong process—a continuous, never-ending exercise that requires self-awareness and timely adjustments. Researchers Ioana Lupu and Mayra Ruiz-Castro argue that work-life balance is \"a cycle, not an achievement\". In their 2020 study, the researchers interviewed nearly 80 employees at two London-based firms—an equal number of men and women between the ages of 30 and 50, all with at least one dependent child—who worked in middle or senior management roles."
+        },
+        {
+          "l": "D",
+          "t": "Although it sounds like the respondents had a lot in common, here's what separated them: about 30% of the men and 50% of the women reported resisting working long hours. The other respondents, meanwhile, all worked long hours because they thought that's what successful professionals should do."
+        },
+        {
+          "l": "E",
+          "t": "Lupu and Ruiz-Castro looked at those who rejected the long hours and they found that those workers actually had strikingly similar strategies for maintaining their work-life balance. They had a tendency to reflect and question assumptions in the name of self-awareness and regularly took steps to adjust the things standing in their way to work-life balance."
+        },
+        {
+          "l": "F",
+          "t": "Lupu and Ruiz-Castro identified five steps that the respondents in the study who had better work-life balance used in their jobs. First, they paused and reconsidered beliefs such as \"I'm a professional, so I should work, work, work\", and asked themselves questions like, \"What's currently causing me stress?\" Second, after identifying the cause, they zeroed in on their resultant emotions. Did they feel angry, sad, energised? Third, they reprioritised, asking \"Is working long hours really worth cutting back on family time?\", for example. Fourth, they considered their alternatives: is there anything at work that could be changed to accommodate these new priorities? And finally, they implemented changes, like asking their supervisor for greater flexibility, or deciding not to take on every project that comes their way."
+        },
+        {
+          "l": "G",
+          "t": "This five-step process is something anyone can adopt. Going through the steps, and constantly checking in with yourself, can help you shift and adapt your professional life to something that will better harmonise with your personal one. \"Awareness of your emotional state is essential in order to determine the changes you want to make in your work and in your life,\" says Lupu."
+        },
+        {
+          "l": "H",
+          "t": "New York University's Lechner agrees that finding that balance is an ongoing pursuit. It's not simply about dividing up the hours in your day between work, the gym, kids and chores. If the underlying emotional sources of stress are still there, then the time you actually spend at home may not be enjoyable. \"We come home and even though physically we are there, mentally we still may be processing things that happened at work. We're not present,\" she says. What we call \"work-life balance\" is actually just a substitute to having a sense of fulfillment and contentment."
+        },
+        {
+          "l": "I",
+          "t": "Of course, finding that balance probably shouldn't be something you have to do by yourself. Research by Erin Kelly, professor of work and organisation studies at MIT, shows companies and managers can play a key role in creating a better environment for workers. For her book Overload: How Good Jobs Went Bad and What to Do about It, she and co-author Phyllis Moen split more than 1,000 employees at a Fortune 500 company into two groups, one that worked under a management redesign and one that continued working within the existing management structure."
+        },
+        {
+          "l": "J",
+          "t": "Under the management redesign, many steps were taken to ensure better work-life balance and prevent burnout(精疲力竭). Managers were regularly reminded to explicitly support their employees. Workers were allowed to make changes, like cancelling 9 am meetings. All of this was done in the name of increasing job satisfaction and giving workers greater flexibility, and to assure workers that it was something management was committed to. Unsurprisingly, Kelly and Moen found that employees in the redesign group reported less stress and less burnout. They were less likely to quit their jobs; indeed, over the next four years, they were 40% less likely to quit than those who kept working under the old policies."
+        },
+        {
+          "l": "K",
+          "t": "\"Work-life balance is understood to be an individual's response, so people think 'it's up to me to manage the craziness of my work life'\", says Kelly. But organisations need to examine the demands they're placing on employees. \"The root problem is not how the two pieces of work and life come together. It's that we have unrealistic expectations of what we're asked to do on the work side.\" If your workplace isn't an environment where work-life balance is possible in the first place, any effort you attempt to make toward it on a personal level will be in vain."
+        },
+        {
+          "l": "L",
+          "t": "That's a conversation that appears to be gathering pace. The new prevalence of remote and flexible working models will likely all play important roles in how we balance our professional and personal lives. And if it seems like finding that perfect balance remains difficult to achieve, the experts say that keeping some perspective can help. For millions of people, work is about being able to put food on the table. Talking about work-life balance \"is a very privileged conversation\", says Lechner. \"If we're reflecting, maybe we should also reflect on that.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "According to a management expert, work-life balance is not as simple as giving equal amounts of time to work and personal life.",
+          "a": "B"
+        },
+        {
+          "n": 37,
+          "s": "Research found that those who are given greater flexibility at work are less stressed and more likely to stay in their jobs.",
+          "a": "J"
+        },
+        {
+          "n": 38,
+          "s": "Workers who rejected working long hours tended to make regular adjustments in order to achieve work-life balance.",
+          "a": "E"
+        },
+        {
+          "n": 39,
+          "s": "Talking about work-life balance is said to be a privilege reserved for the better-off, not for those who barely make a living.",
+          "a": "L"
+        },
+        {
+          "n": 40,
+          "s": "Knowing one's emotional state is of utmost importance in deciding what changes to make for a better work- life balance.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "More female professionals reported being reluctant to work overtime than their male counterparts.",
+          "a": "D"
+        },
+        {
+          "n": 42,
+          "s": "Without organisational support, any personal effort to maintain work-life balance will be unsuccessful.",
+          "a": "K"
+        },
+        {
+          "n": 43,
+          "s": "The question of how to achieve work-life balance has long been the main subject of discussion among workers.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "You may not actually experience emotional wellbeing at home if you remain occupied with what happened at work.",
+          "a": "H"
+        },
+        {
+          "n": 45,
+          "s": "Some researchers suggest that work-life balance is not a goal to achieve, but a process for life to be adjusted promptly.",
+          "a": "C"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "The weakening of the human connection to nature might be good for economic growth but is bad for people. A tipping point was reached in 2020 when human-made materials—such as steel, concrete and plastic— were found to weigh more than all life on Earth. Continuing to grow concrete forests rather than real ones is shortsighted. Simply being in the nearest wood has such health benefits that the Woodland Trust successfully lobbied for it to be prescribed by doctors. Yet slipping from popular culture is the wonder and beauty of the natural world. For every three nature- related words in hit songs of the 1950s, researchers found, there was only slightly more than one 50 years later. It is not a moment too soon that teenagers will be able to take a natural history test, given that for decades children have been able to name more video game characters than wildlife species. Part of remedying this social disease would be for parliament to pass a \"right to grow\" law, allowing anyone to turn underused public spaces into vegetable and fruit gardens. The idea is for people to get back in touch with the soil—while producing food sustainably. Vegetable planting has a respectable tradition. In April 1649, locals responded to high prices and food shortages by cultivating vegetables on common land in Southern England. The practice of throwing seed bombs to turn vacant plots of land green took off in 1970s New York, and has been revived( 使复活) by green- thumbed(有园艺才能的) social media influencers who defy local US regulations in a war on ugly spots in cities. Apart from the urgent task of providing more healthy nutrients to those who increasingly can't afford them, publicly accessible fruit and vegetable gardens connect what we eat to where it comes from—the means of production, if you will. They can make unlovely spaces lovely, and marry use and beauty as well as help promote a sense of community. Plants are also, of course, our first defence against species loss and climate change. Such planting is a small step for humanity—in the right direction.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the author want to emphasise in the first paragraph?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The year 2020 was a big turning point in human history."
+              },
+              {
+                "l": "B",
+                "t": "Economic growth benefits people little in the long run."
+              },
+              {
+                "l": "C",
+                "t": "It is unwise to weaken the human connection to nature."
+              },
+              {
+                "l": "D",
+                "t": "It is harmful to mankind to use human-made materials."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What did researchers find about popular culture?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is increasingly detached from the natural world."
+              },
+              {
+                "l": "B",
+                "t": "It is filled with all kinds of video game characters."
+              },
+              {
+                "l": "C",
+                "t": "It is especially appealing to the taste of teenagers."
+              },
+              {
+                "l": "D",
+                "t": "It is still impacted by the hit songs of the 1950s."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What does the author propose people do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Take measures to ensure sustainable food development."
+              },
+              {
+                "l": "B",
+                "t": "Reconnect with nature through the right to grow."
+              },
+              {
+                "l": "C",
+                "t": "Stand by the parliament in fighting social diseases."
+              },
+              {
+                "l": "D",
+                "t": "Cover public spaces with fruit trees and vegetable plants."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What do we learn from the passage about vegetable planting?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It all started in 1649 in Southern England."
+              },
+              {
+                "l": "B",
+                "t": "It is protected by US government regulations."
+              },
+              {
+                "l": "C",
+                "t": "It has long been used to increase food supply and improve urban landscape."
+              },
+              {
+                "l": "D",
+                "t": "It has been popularised worldwide with the increasing influence of social media."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What can publicly accessible fruit and vegetable gardens do apart from their practical functions?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Raise people's environmental awareness."
+              },
+              {
+                "l": "B",
+                "t": "Add to the great variety of plant species."
+              },
+              {
+                "l": "C",
+                "t": "Act as the first defence against natural disasters."
+              },
+              {
+                "l": "D",
+                "t": "Enhance people's community spirit."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Engineering in the U.S. has long been a male-dominated profession. Fifty years ago, it looked like that might change. In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that number was 9%. Many hoped women would continue to enter the field at the same rate. But that's not what happened. Today, only 21% of engineering majors are women, a number largely unchanged since 2000. I am a historian who, along with my colleagues, surveyed 251 women engineers who graduated from college in the 1970s. These pioneers reflected on the challenges they faced—and had advice for women entering the field today. One survey taker explained, \"The greatest challenge for me was continuing to believe in myself, when all the messages I was getting were that I would never be taken seriously or promoted or given raises at the same rate as men, who were clearly less qualified and not as smart as I was.\" A chemical engineer who worked in manufacturing agreed, \"You have to prove yourself just because you are female. And you have to work twice as hard!\" A civil engineer said, \"We are 'women engineers.' People don't refer to a man as a 'man engineer'—he's an engineer. We are constantly reminded that we don't truly belong.\" Another civil engineer stated, \"On many levels, you're never quite one of the groups.\" Women also talked about family caregiving responsibilities. A retired vice president from a major chemical company stated, \"Young women engineers are on an equal footing until they have children, then they struggle to balance work and family—and compete with men who don't have the same household responsibilities.\" But over the years things have changed a lot. Young women engineers are more accepted mostly because there are just more of them. Many women engineers hailed the benefits of their chosen career. A program manager in manufacturing stated that engineering is the best degree. A mechanical engineer said, \"It will give you the flexibility to do almost anything. It is also satisfying to see the effects of what you have done.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the passage say about the engineering profession in the United States?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has seen a change in attitude towards women engineers since 1979."
+              },
+              {
+                "l": "B",
+                "t": "It witnessed a significant increase in women engineers in the 1970s."
+              },
+              {
+                "l": "C",
+                "t": "It has experienced the gradual weakening of male dominance."
+              },
+              {
+                "l": "D",
+                "t": "It boasted the largest number of engineering majors in 2000."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What does one survey taker say was her greatest challenge?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Not to feel superior to less qualified male engineers."
+              },
+              {
+                "l": "B",
+                "t": "Not to take seriously all the messages she was getting."
+              },
+              {
+                "l": "C",
+                "t": "Not to think highly of her qualifications when promoted or given a pay raise."
+              },
+              {
+                "l": "D",
+                "t": "Not to lose self-confidence though constantly discouraged or unfairly treated."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "How do women engineers frequently feel according to the two civil engineers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Disqualified on many levels."
+              },
+              {
+                "l": "B",
+                "t": "Excluded from the group."
+              },
+              {
+                "l": "C",
+                "t": "Overworked by their organizations."
+              },
+              {
+                "l": "D",
+                "t": "Looked down upon by male colleagues."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What probably makes young women engineers more accepted nowadays?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their success in gaining an equal footing."
+              },
+              {
+                "l": "B",
+                "t": "Their ability to balance work and family."
+              },
+              {
+                "l": "C",
+                "t": "The change in their responsibilities."
+              },
+              {
+                "l": "D",
+                "t": "The increase in their number."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What can we conclude about many female engineers from the statement of a mechanical engineer?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They take great pride in their chosen career."
+              },
+              {
+                "l": "B",
+                "t": "They have reaped the benefits of being flexible."
+              },
+              {
+                "l": "C",
+                "t": "They enjoy doing engineering to the best degree."
+              },
+              {
+                "l": "D",
+                "t": "They have proved capable of doing almost anything."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国政府十分重视环境保护。近年来,中国在减少空气、水和土壤污染上取得了显著成效。为了不断改善 人们的生活环境,中国采取了一系列有效措施,包括大力发展清洁能源,改善公共交通,推广共享单车,实施垃圾分 类。通过这些措施,中国的城市和农村正在绿起来、美起来。中国还积极参与国际合作,为全球环境保护做出了 重要贡献。",
+    "reference": "The Chinese government attaches great importance to environmental protection. In recent years, China has made remarkable progress in reducing air, water and soil pollution. To continuously improve people's living environment, China has taken a series of effective measures, including developing clean energy, improving public transportation, promoting shared bikes and implementing garbage classification. Thanks to these measures, both urban and rural areas in China are becoming greener and more beautiful. China also actively participates in international cooperation, making important contributions to global environmental protection."
+  }
+}

@@ -1,0 +1,1358 @@
+{
+  "id": "cet6-2018-12-3",
+  "level": "cet6",
+  "year": 2018,
+  "month": 12,
+  "set": 3,
+  "title": "2018年12月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on how to balance academic study and extracurricular activities. You should write at least 150 words but no more than 200 words.",
+    "sample": "University life offers not only lectures and exams but also clubs, sports and volunteer work. Yet many students feel torn between the two, letting one crowd out the other. In my view, academic study and extracurricular activities are not rivals; with a few practical habits, they can reinforce each other.The first step is to make a weekly plan and prioritize tasks by importance. By listing deadlines and fixed activities in one schedule, I can set aside blocks for study while reserving time for the clubs I love, so neither is neglected. Equally important is to raise my study efficiency. When I concentrate fully during class and finish assignments promptly, I save hours that would otherwise be wasted, leaving room for the basketball team without hurting my grades.In short, balancing the two is far from impossible. Once we plan ahead, sort out what matters most and study more efficiently, academic work and campus activities can grow together rather than at each other's expense."
+  },
+  "listening": {
+    "audio": "cet6-2018-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can benefit professionals and non-professionals alike."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It lists the various challenges physicists are confronting."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It describes how some mysteries of physics were solved."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is one of the most fascinating physics books ever written."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Physicists' contribution to humanity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Stories about some female physicists."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Historical evolution of modern physics."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Women's changing attitudes to physics."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By exposing a lot of myths in physics."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By describing her own life experiences."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By including lots of fascinating knowledge."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By telling anecdotes about famous professors."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It avoids detailing abstract concepts of physics."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It contains a lot of thought-provoking questions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It demonstrates how they can become physicists."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It provides experiments they can do themselves.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hey, I just read a great book about physics. I think you'd like it. It's called The Physics of the World. It's written by a scientist named Sylvia Mundus.",
+                "zh": "M: 嘿，我刚读了一本很棒的物理学书。我觉得你会喜欢。书名叫《世界的物理学》，作者是一位名叫 Sylvia Mundus 的科学家。"
+              },
+              {
+                "en": "W: Oh, I read that book. It was great. The writer is a warm and competent guide to the mysteries of physics. I think it promises enrichment for any reader, from those who know little about science to the career physicist.",
+                "zh": "W: 哦，我读过那本书。写得很棒。作者是一位温暖而称职的向导，带领读者探索物理学的奥秘。我觉得这本书能让任何读者都有所收获，从对科学知之甚少的人，到以物理学为职业的物理学家，概莫能外。"
+              },
+              {
+                "en": "M: And it's refreshing to see a strong, curious, clever woman adding her voice to the scientific discourse in a field that has been traditionally dominated by men. I think she is to be commended for making an effort to include anecdotes about little-known female scientists. You know, they were often victims of \"a generation firmly convinced that the woman's place was in the home.\"",
+                "zh": "M: 而且，在一个传统上由男性主导的领域里，看到一位坚强、好奇又聪慧的女性为科学 discourse 增添自己的声音，真令人耳目一新。我认为，她努力加入那些鲜为人知的女性科学家的轶事，值得肯定。你知道，她们往往是“整整一代人都坚信女人的位置在家里”这一观念的受害者。"
+              },
+              {
+                "en": "W: I like how the book is clearly written with each chapter brought to life by pieces of fascinating knowledge. For example, in one chapter she exposes a myth that I've heard taught by university physics professors. I've often heard that medieval glass windows are thicker at the bottom because glass \"flows\" like a fluid. This, she shows, is not true. The distortion is actually thanks to a peculiarity of the glassmaker's process.",
+                "zh": "W: 我喜欢这本书清晰易懂的写法，每一章都通过一些引人入胜的知识片段变得生动起来。比如，在其中一章里，她揭穿了一个我曾听大学物理学教授讲过的迷思。我经常听人说，中世纪玻璃窗的底部更厚，是因为玻璃会像流体一样“流动”。但她指出，这并不是真的。玻璃出现这种变形，实际上是因为玻璃制造工艺的一个特殊之处。"
+              },
+              {
+                "en": "M: Yeah, I like how she cultivates scientific engagement by providing a host of do-it-yourself experiments that bring the same foundational principles of classical physics that govern everything from the solar system to your kitchen table. From using complex laws of physics to test whether a spinning egg is cooked to measuring atmospheric pressure by lifting a piece of cardboard, her hands-on examples make her book a truly interactive read.",
+                "zh": "M: 是啊，我喜欢她通过提供大量自己动手做的实验来培养科学参与感。这些实验展现了经典物理学的基本原理，而这些原理支配着从太阳系到你家餐桌的一切。从运用复杂的物理学定律来检验一个旋转的鸡蛋是否煮熟，到通过举起一块纸板来测量大气压，她的实践性示例让这本书真正成为一本互动式读物。"
+              },
+              {
+                "en": "Yes. I must say this equation-free book is an ideal read for scientists of all stripes, anyone teaching science and even people who dislike physics.",
+                "zh": "是的。我得说，这本没有公式的书非常适合各个领域的科学家、所有教授科学的人，甚至那些不喜欢物理学的人阅读。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is too busy to finish his assignment in time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He does not know what kind of topic to write on."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He does not understand the professor's instructions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has no idea how to proceed with his dissertation."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is too broad."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a bit outdated."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is challenging."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is interesting."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Biography."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Nature."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Philosophy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Beauty."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Improve his cumulative grade."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Develop his reading ability."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Stick to the topic assigned."
+                  },
+                  {
+                    "l": "D",
+                    "t": "List the parameters first."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hi, professor. I was hoping I could have a moment of your time if you're not too busy. I'm having some problems getting started on my dissertation, and I was hoping you could give me some advice on how to begin.",
+                "zh": "M：教授您好。如果您不是太忙的话，我想占用您一点时间。我在开始写毕业论文方面遇到了一些问题，希望您能给我一些如何着手的建议。"
+              },
+              {
+                "en": "W: Sure. I have quite a few students, though. So can you remind me what your topic is?",
+                "zh": "W：当然可以。不过，我的学生相当多。你能提醒我一下你的论文题目是什么吗？"
+              },
+              {
+                "en": "M: The general topic I chose is aesthetics, but that's as far as I've got. I don't really know where to go from there.",
+                "zh": "M：我选的总体题目是美学，但也只进行到这一步。我真的不知道接下来该从哪里入手。"
+              },
+              {
+                "en": "W: Yeah. That's much too large a topic. You really need to narrow it down in order to make it more accessible. Otherwise, you will be writing a book.",
+                "zh": "W：是的。这个题目实在太大了。你确实需要把范围缩小，这样才更容易展开。否则，你写的就会是一本书。"
+              },
+              {
+                "en": "M: Exactly. That's what I wanted to ask you about. I was hoping it would be possible for me to change topics. I'm really more interested in nature than beauty.",
+                "zh": "M：没错。这正是我想向您请教的。我希望能有可能更换题目。我其实对自然比对美更感兴趣。"
+              },
+              {
+                "en": "W: I'm afraid you have to adhere to the assigned topic. Still, if you are interested in nature, then that certainly can be worked into your dissertation. We've talked about Hume before in class, right?",
+                "zh": "W：恐怕你必须遵循指定的题目。不过，既然你对自然感兴趣，当然可以把它融入你的论文中。我们之前在课堂上讨论过休谟，对吧？"
+              },
+              {
+                "en": "M: Oh, yeah. He's the philosopher who wrote about where our ideas of beauty come from.",
+                "zh": "M：哦，对。他是那个写过关于我们的美感观念从何而来的哲学家。"
+              },
+              {
+                "en": "W: Exactly. I suggest you go to the library and get a copy of his biography. Start from there, but remember to stick to the parameters of the assignment. This paper is a large part of your cumulative grade, so make sure to follow the instructions. If you take a look at his biography, you can get a good idea of how his life experiences manifest themselves in his theories of beauty, specifically the way he looked towards nature as the origin of what we find beautiful.",
+                "zh": "W：没错。我建议你去图书馆找一本他的传记。从那里开始，但记住要遵守作业要求的范围。这篇论文在你的累计成绩中占很大比重，所以一定要按照要求来。如果你看看他的传记，就能很好地了解他的人生经历是如何体现在他的美学理论中的，尤其是他如何把自然视为我们认定美的事物的源头。"
+              },
+              {
+                "en": "M: Great! Thanks for taking the time to answer my questions, professor. I'll let you get back to class now.",
+                "zh": "M：太好了！教授，谢谢您抽时间回答我的问题。您现在可以回去上课了。"
+              },
+              {
+                "en": "W: If there is anything else you need, please come see me in my office anytime.",
+                "zh": "W：如果你还需要其他帮助，随时来我的办公室找我。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The unprecedented high temperature in Greenland."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The collapse of ice on the northern tip of Greenland."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The unusual cold spell in the Arctic area in October."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The rapid change of Arctic temperature within a day."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has created a totally new climate pattern."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will pose a serious threat to many species."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It typically appears about once every ten years."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has puzzled the climate scientists for decades."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Extinction of Arctic wildlife."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Iceless summers in the Arctic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Emigration of indigenous people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Better understanding of ecosystems.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "During the Arctic winter from October to March, the average temperature in the frozen north typically hovers around minus 20 degrees Celsius. But this year, the Arctic is experiencing much higher temperatures.",
+                "zh": "从十月到次年三月的北极冬季，冰封北方的平均气温通常徘徊在零下20摄氏度左右。但今年，北极正经历高得多的气温。"
+              },
+              {
+                "en": "On February 20, the temperature in Greenland climbed above freezing or zero degrees Celsius and it stayed there for over 24 hours. Then on February 24, the temperature on Greenland's northern tip reached six degrees Celsius. Climate scientists described the phenomenon as \"stunning.\"",
+                "zh": "2月20日，格陵兰岛的气温升至冰点以上，即零摄氏度以上，并持续了24个多小时。随后，2月24日，格陵兰岛北端的气温达到6摄氏度。气候科学家将这一现象描述为“惊人”。"
+              },
+              {
+                "en": "Weather conditions that drive this bizarre temperature surge have visited the Arctic before. They typically appear about once in a decade. However, the last such increase in temperature took place two years ago.",
+                "zh": "导致这种异常升温的天气条件过去也曾光顾北极。它们通常十年左右出现一次。然而，上一次这样的气温升高发生在两年前。"
+              },
+              {
+                "en": "This is troubling as climbing Arctic temperatures combined with rapid sea-ice loss are creating a new type of climate feedback loop which could accelerate Arctic warming. Indeed, sea-ice cover in the Arctic is melting faster than expected. Without those masses of cooling sea ice, warm air brought to the Arctic can penetrate further inland than it ever did before. The air can stay warmer longer, too. This drives additional melting.",
+                "zh": "这令人担忧，因为不断升高的北极气温与海冰的快速消退相结合，正在形成一种新型气候反馈循环，可能会加速北极变暖。事实上，北极的海冰覆盖层正在以超出预期的速度融化。没有了这些大面积的降温海冰，带到北极的暖空气能够比以往任何时候都更深入内陆。暖空气也能更长时间地保持较高温度，从而推动更多冰层融化。"
+              },
+              {
+                "en": "Overall, Earth is warming at a rapid pace—2014 through 2017 rank as the hottest years on record—and the Arctic is warming twice as fast as anyplace else on Earth. This raises unique challenges for Arctic wildlife and indigenous people who depend on Arctic ecosystems to survive.",
+                "zh": "总体而言，地球正在以很快的速度变暖，2014年至2017年位列有记录以来最热的年份，而北极的变暖速度是地球其他任何地方的两倍。这给依赖北极生态系统生存的北极野生动物和原住民带来了独特的挑战。"
+              },
+              {
+                "en": "Previously, climate forecasts predicted that Arctic summer ice would disappear entirely by around 2060. But based on what scientists are seeing now, the Arctic may be facing summers without ice within 20 years.",
+                "zh": "此前，气候预测曾预计北极夏季海冰将在大约2060年之前完全消失。但根据科学家目前观察到的情况，北极可能在20年内迎来没有海冰的夏季。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A good start."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A detailed plan."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A strong determination."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A scientific approach."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Most people get energized after a sufficient rest."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Most people tend to have a finite source of energy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is vital to take breaks between demanding mental tasks."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is most important to have confidence in one's willpower."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They could keep on working longer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They could do more challenging tasks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They found it easier to focus on work at hand."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They held more positive attitudes toward life."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are part of their nature."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are subject to change."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are related to culture."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are beyond control."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A good dose of willpower is often necessary to see any task through, whether it's sticking to a spending plan or finishing a great novel. And if you want to increase that willpower, a new study suggests you just simply have to believe you have it. According to the study, what matters most is what we think about our willpower. If we believe it's a finite resource, we act that way. We feel exhausted and need breaks between demanding mental tasks. However, people who view their willpower as a limitless resource get energized instead.",
+                "zh": "要把任何一项任务坚持到底，往往都需要相当大的意志力，无论是遵守消费计划，还是读完一部精彩的小说。如果你想增强意志力，一项新的研究表明，你只需相信自己拥有意志力即可。研究显示，最重要的是我们如何看待自己的意志力。如果我们认为意志力是一种有限的资源，就会依照这种方式行事。我们会感到疲惫，在需要高度专注的脑力任务之间需要休息。然而，那些把意志力视为一种取之不尽资源的人反而会变得精力充沛。"
+              },
+              {
+                "en": "The researchers used a psychological assessment tool to test the validity of the study. They asked 1,100 Americans and 1,600 Europeans to grade different statements such as \"After a challenging mental activity, my energy is depleted, and I must rest to get it refueled again.\" or \"I can focus on a mental task for long periods without feeling tired.\" Although there was little difference between men and women overall, Americans were more likely to admit to needing breaks after completing mentally challenging tasks. European participants, on the other hand, claimed they were able to keep going.",
+                "zh": "研究人员使用一种心理评估工具来检验这项研究的有效性。他们让1100名美国人和1600名欧洲人对不同的陈述进行评分，例如：“完成一项具有挑战性的脑力活动后，我的精力会耗尽，必须休息才能重新补充能量。”或者“我可以长时间专注于一项脑力任务而不会感到疲倦。”总体而言，男性和女性之间的差异很小，但美国人更有可能承认，在完成具有脑力挑战性的任务后需要休息。另一方面，欧洲参与者则声称自己能够继续坚持下去。"
+              },
+              {
+                "en": "Based on the findings, the researchers suggest that the key to boosting your willpower is to believe that you have an abundant supply of it. \"Your feelings about your willpower affect the way you behave. But these feelings are changeable,\" they said. \"Changing your beliefs about the nature of your self-control can have positive effects on character development. This leads to healthier behaviors and perceptions of other people.\"",
+                "zh": "根据研究结果，研究人员认为，增强意志力的关键在于相信自己拥有充足的意志力。他们说：“你对自己意志力的感受会影响你的行为方式。但这些感受是可以改变的。改变你对自我控制本质的看法，能够对品格发展产生积极影响。这会带来更健康的行为方式以及对他人的认知。”"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About half of current jobs might be automated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The jobs of doctors and lawyers would be threatened."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The job market is becoming somewhat unpredictable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Machine learning would prove disruptive by 2013."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are widely applicable for massive open online courses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are now being used by numerous high school teachers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They could read as many as 10,000 essays in a single minute."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They could grade high-school essays just like human teachers."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It needs instructions throughout the process."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It does poorly on frequent, high-volume tasks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has to rely on huge amounts of previous data."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is slow when it comes to tracking novel things.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Here is my baby niece Sarah. Her mom is a doctor and her dad is a lawyer. By the time Sarah goes to college, the jobs her parents do are going to look dramatically different.",
+                "zh": "这是我的小侄女萨拉。她的妈妈是一名医生，爸爸是一名律师。等萨拉上大学时，她父母所从事的工作将会呈现出截然不同的面貌。"
+              },
+              {
+                "en": "In 2013, researchers at Oxford University did a study on the future of work. They concluded that almost one in every two jobs has a high risk of being automated by machines. Machine learning is the technology that's responsible for most of this disruption. It's the most powerful branch of artificial intelligence. It allows machines to learn from data and copy some of the things that humans can do. My company, Kaggle, operates on the cutting edge of machine learning. We bring together hundreds of thousands of experts to solve important problems for industry and academia. This gives us a unique perspective on what machines can do, what they can't do and what jobs they might automate or threaten.",
+                "zh": "2013年，牛津大学的研究人员对未来的工作进行了研究。他们得出结论，几乎每两份工作中就有一份面临被机器自动化的高风险。机器学习是造成大部分这种变革的技术。它是人工智能最强大的分支。机器学习使机器能够从数据中学习，并模仿人类能够完成的一些事情。我的公司 Kaggle 处于机器学习发展的前沿。我们汇集了数十万名专家，为工业界和学术界解决重要问题。这让我们能够独特地洞察机器能做什么、不能做什么，以及它们可能会自动化或威胁到哪些工作。"
+              },
+              {
+                "en": "Machine learning started making its way into industry in the early '90s. It started with relatively simple tasks. It started with things like assessing credit risk from loan applications, sorting the mail by reading handwritten zip codes. Over the past few years, we have made dramatic breakthroughs. Machine learning is now capable of far, far more complex tasks. In 2012, Kaggle challenged its community to build a program that could grade high-school essays. The winning programs were able to match the grades given by human teachers.",
+                "zh": "机器学习在20世纪90年代初开始进入工业领域。起初，它处理的是相对简单的任务，比如根据贷款申请评估信用风险，通过读取手写邮政编码来分拣邮件。在过去几年里，我们取得了重大突破。如今，机器学习已经能够完成复杂得多的任务。2012年，Kaggle 向其社区发起挑战，要求开发一个能够给高中作文评分的程序。获胜程序给出的分数能够与人类教师的评分相媲美。"
+              },
+              {
+                "en": "Now, given the right data, machines are going to outperform humans at tasks like this. A teacher might read 10,000 essays over a 40-year career. A machine can read millions of essays within minutes. We have no chance of competing against machines on frequent, high-volume tasks.",
+                "zh": "现在，只要拥有合适的数据，机器在这类任务上的表现将超过人类。一名教师在40年的职业生涯中可能会阅读一万篇作文，而一台机器几分钟内就能阅读数百万篇作文。在频繁、大批量的任务上，我们没有机会与机器竞争。"
+              },
+              {
+                "en": "But there are things we can do that machines cannot. Where machines have made very little progress is in tackling novel situations. Machines can't handle things they haven't seen many times before. The fundamental limitation of machine learning is that it needs to learn from large volumes of past data. But humans don't. We have the ability to connect seemingly different threads to solve problems we've never seen before.",
+                "zh": "但是，有些事情是机器做不到的。机器进展甚微的领域，是应对新情况。对于以前没有反复见过的事物，机器无法处理。机器学习的根本局限在于，它需要从大量过去的数据中学习，而人类不需要这样做。我们有能力将看似不同的线索联系起来，从而解决从未遇到过的问题。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The engineering problems with solar power."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The generation of steam with the latest technology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The importance of exploring new energy sources."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The theoretical aspects of sustainable energy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Drive trains with solar energy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Upgrade the city's train facilities."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Build a new ten-kilometre railway line."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cut down the city's energy consumption."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Build a tank for keeping calcium oxide."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Find a new material for storing energy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Recover super-heated steam."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Collect carbon dioxide gas.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "We've talked recently about the importance of sustainable energy. We've also talked about the different theories on how that can be done. So far, our discussions have all been theoretical. Now I have a practical question for you all. Can you run a 140,000 kilogram train on just the steam generated by solar power? Well, one engineer, Tim Castleman, believes it's possible.",
+                "zh": "我们最近谈过可持续能源的重要性，也谈过如何实现这一目标的不同理论。到目前为止，我们的讨论一直停留在理论层面。现在我想问大家一个实际问题：仅凭太阳能产生的蒸汽，能否驱动一列重达14万千克的火车？一位名叫Tim Castleman的工程师认为这是可能的。"
+              },
+              {
+                "en": "And his home city of Sacramento, California should see the technology's first test. As part of the upgrading of its rail yard, Castleman, who is an inventor and self-proclaimed steam visionary, is campaigning for a new steam train that runs without any fire and could run on an existing 10-kilometre line, drawing tourists and perhaps offering city commuters a green alternative to their cars. Castleman wants to build an array of solar magnifying mirrors at one end of the line to collect and focus heat onto water-filled tubes. This would generate steam that could be used to fill tanks on a small steam train without the use of fire. \"Supplying power to trains in this way would offer the shortest distance from well to wheels,\" he says, \"with the least amount of energy lost.\" According to Harry Valentine, a Canadian engineer who is researching modern steam technology, a special tank measuring 2 by 10 metres could store over 750 kilowatt-hours of energy as high-pressure steam, enough to pull a two-car train for an hour or so.",
+                "zh": "而他的家乡城市——加利福尼亚州的萨克拉门托——应该会迎来这项技术的首次测试。作为铁路车辆段升级改造的一部分，Castleman是一位发明家，也是自称的蒸汽技术先驱；他正在争取建造一列无需燃火即可运行的新型蒸汽火车。这列火车可以在一条现有的10公里线路上运行，吸引游客，也许还能为城市通勤者提供一种比开车更环保的选择。Castleman希望在线路的一端建造一组太阳能聚光镜，收集并聚焦热量，将其集中到装满水的管道上。这样就能产生蒸汽，在不使用火的情况下将蒸汽注入一列小型蒸汽火车的储罐中。他说：“以这种方式为火车提供动力，可以实现从能源来源到车轮的最短距离，同时损失的能量也最少。”加拿大工程师Harry Valentine正在研究现代蒸汽技术。据他介绍，一个尺寸为2米乘10米的特制储罐，可以以高压蒸汽的形式储存超过750千瓦时的能量，足以牵引一列两节车厢的火车运行大约一小时。"
+              },
+              {
+                "en": "Energy to drive a steam locomotive can be stored in other materials besides water. For example, a team at Tohoku University in Japan has studied materials that can store large amounts of heat. When heated, these materials turn from a solid into a liquid absorbing energy as they change phase. The liquid is maintained above its melting point until steam is required, at which point the liquid is allowed to turn back into a solid, releasing its stored energy. Another team at Nagoya University in Japan has tested calcium compound as an energy storage material. Heating this chemical compound drives off carbon dioxide gas, leaving calcium oxide. The gas can be stored under pressure in a tank. To recover the energy, the gas is fed back over the calcium oxide. \"In theory,\" says Valentine, \"this can create a high enough temperature to generate superheated steam.\"",
+                "zh": "驱动蒸汽机车所需的能量，除了储存在水中，也可以储存在其他材料中。例如，日本东北大学的一个研究团队研究了能够储存大量热量的材料。这些材料受热后会从固态变为液态，并在发生相变的过程中吸收能量。在需要蒸汽之前，这种液体会一直保持在熔点以上；需要蒸汽时，则使液体重新变回固体，释放出储存的能量。日本名古屋大学的另一个团队测试了将含钙化合物作为储能材料。加热这种化合物会驱除二氧化碳气体，留下氧化钙。气体可以在储罐中加压储存。为了回收能量，将气体重新通入氧化钙中。Valentine说：“从理论上讲，这可以产生足够高的温度，从而生成过热蒸汽。”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The lack of supervision by both the national and local governments."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The impact of the current economic crisis at home and abroad."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The poor management of day centres and home help services."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The poor relation between national health and social care services."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was mainly provided by voluntary services."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It mainly caters to the needs of the privileged."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It called for a sufficient number of volunteers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has deteriorated over the past sixty years."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their longer lifespans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Fewer home helpers available."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their preference for private services."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More of them suffering serious illnesses."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are unable to pay for health services."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have long been discriminated against."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are vulnerable to illnesses and diseases."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have contributed a great deal to society."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Today's crisis in care for older people in England has two main causes. First, people are living longer with a lot more complex needs. Second, they rely on a system that has long been marked by a poor relation between national health and social care services.",
+                "zh": "如今英格兰老年人照护危机主要有两个原因。第一，人们的寿命更长了，同时面临的需求也复杂得多。第二，他们依赖的是一个长期以来国家医疗服务与社会照护服务关系不佳的体系。"
+              },
+              {
+                "en": "Current services originate in two key measures. They are the National Health Service and the 1948 National Assistance Act. This required local governments to provide residential accommodation for older people and supervise care homes run by independent organizations. They also provided home and community services, including meals, day centres and home helpers and other subsidized services. The National Health Service was free and wholly publicly provided. It delivered the best health care for all. No such vision guided residential and community care though. The care was substantially provided by voluntary services which worked together with local authorities as they long had, with eligibility based on income.",
+                "zh": "现行服务源于两项重要举措，即国民保健署和1948年的《国民援助法》。该法要求地方政府为老年人提供住宿，并监督由独立机构运营的护理院。地方政府还提供居家和社区服务，包括餐食、日间照料中心、居家护理人员以及其他补贴服务。国民保健署提供免费且完全由公共部门承担的服务，为所有人提供最优质的医疗保健。然而，住宿照护和社区照护并没有受到这样的理念指导。这类照护主要由志愿服务机构提供；正如长期以来的做法一样，这些机构与地方政府合作，并以收入作为享受服务的资格标准。"
+              },
+              {
+                "en": "Today, life expectancy has risen from 66 for a male at best in 1948 to around 80 now. In addition, there is better overall health and improved medical knowledge in care. This means an unprecedented number of people are surviving longer in conditions requiring experts' support. Families provide at least as much care as they ever did. Even so, they can rarely, without subsidized support, address serious personal needs. Care for older people faced persistent criticism as these trends became apparent.",
+                "zh": "如今，男性的预期寿命已从1948年顶多约66岁提高到现在的约80岁。此外，整体健康状况有所改善，照护方面的医学知识也更加丰富。这意味着，前所未有的大量人口得以在需要专家支持的情况下存活更长时间。家庭提供的照护至少与过去一样多。即便如此，如果没有补贴支持，他们通常很难应对严重的个人照护需求。随着这些趋势逐渐显现，老年人照护持续受到批评。"
+              },
+              {
+                "en": "From the early 1960s, local authorities were required to plan health and welfare services. The aim was to enable older people to remain in their own homes for as long as possible. But this increased concern about the lack of coordination between free health and paid-for social care. Through the 1970s, a number of measures sought to improve matters.",
+                "zh": "从20世纪60年代初开始，地方政府被要求规划医疗和福利服务。其目标是让老年人尽可能长久地住在自己的家中。但这也加剧了人们对免费医疗服务与收费社会照护之间缺乏协调的担忧。整个20世纪70年代，一些措施试图改善这一状况。"
+              },
+              {
+                "en": "However, at a time of financial crisis, funding diminished and little changed. In the 1980s, the government cut spending. Meanwhile, preference for private over public services made management even more difficult. Simultaneously, the number of sick older people grew. Governments emphasized the need to improve services. They did so, though, while doing little to stop the erosion of available aid.",
+                "zh": "然而，在财政危机时期，资金减少了，情况几乎没有改变。20世纪80年代，政府削减了支出。与此同时，对私人服务而非公共服务的偏好使管理变得更加困难。与此同时，患病老年人的数量不断增加。历届政府都强调改善服务的必要性。不过，它们在强调这一点的同时，却没有采取多少措施来阻止现有援助不断削弱。"
+              },
+              {
+                "en": "Services were irregular across authorities. Unless you were prepared to pay, they were increasingly difficult to obtain for any but the most severely disabled.",
+                "zh": "各地方政府提供的服务并不一致。除非愿意付费，否则除了残疾程度最重的人以外，其他人越来越难以获得这些服务。"
+              },
+              {
+                "en": "Why has 60 years of criticism produced so little change? Discrimination against older people has a long history. Additionally, those affected by inadequate health and social care are too vulnerable to launch the protests that have addressed other forms of discrimination.",
+                "zh": "为什么长达60年的批评只带来了如此微小的变化？对老年人的歧视由来已久。此外，那些受到不完善的医疗和社会照护影响的人过于脆弱，无法发起曾推动解决其他形式歧视问题的抗议。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2018-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "In what's probably the craziest headline I've ever written, I've reported that"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "in livestock protection are happening with scientists painting eyes on the butts of cows. The experiment is based upon the idea that farmers who're protecting their herd from lions would shoot and kill lions in an effort to protect their livestock. While this makes a lot of sense, it results in many lion deaths that"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "would have been unnecessary. Researchers in Australia have been"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "and testing a method of trickery to make lions think they are being watched by the painted eyes on cow butts. This idea is based on the principle that lions and other"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "are far less likely to attack when they feel they are being watched. As conservation areas become smaller, lions are increasingly coming into contact with human populations, which are expanding to the"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "of these protected areas. Efforts like painting eyes on cow butts may seem crazy at first, but they could make actual headway in the fight for conservation. \"If the method works, it could provide farmers in Botswana—and"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "—with a low- cost, sustainable tool to protect their livestock, and a way to keep lions safe from being killed.\" Lions are"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "ambush(埋伏) hunters, so when they feel their prey has"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "them, they usually give up on the hunt. Researchers are"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "testing their idea on a select herd of cattle. They have painted half of the cows with eyes and left the other half as normal. Through satellite tracking of both the herd and the lions in the area, they will be able to"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "if their psychological trickery will work to help keep farmers from shooting lions."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "advances"
+        },
+        {
+          "l": "B",
+          "w": "boundaries"
+        },
+        {
+          "l": "C",
+          "w": "challenging"
+        },
+        {
+          "l": "D",
+          "w": "currently"
+        },
+        {
+          "l": "E",
+          "w": "determine"
+        },
+        {
+          "l": "F",
+          "w": "devising"
+        },
+        {
+          "l": "G",
+          "w": "elsewhere"
+        },
+        {
+          "l": "H",
+          "w": "nevertheless"
+        },
+        {
+          "l": "I",
+          "w": "otherwise"
+        },
+        {
+          "l": "J",
+          "w": "predators"
+        },
+        {
+          "l": "K",
+          "w": "primarily"
+        },
+        {
+          "l": "L",
+          "w": "retorted"
+        },
+        {
+          "l": "M",
+          "w": "spotted"
+        },
+        {
+          "l": "N",
+          "w": "testimonies"
+        },
+        {
+          "l": "O",
+          "w": "wrestle"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "A"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "J"
+        },
+        {
+          "n": 30,
+          "a": "B"
+        },
+        {
+          "n": 31,
+          "a": "G"
+        },
+        {
+          "n": 32,
+          "a": "K"
+        },
+        {
+          "n": 33,
+          "a": "M"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "E"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Resilience Is About How You Recharge, Not How You Endure",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "As constant travelers and parents of a 2-year-old, we sometimes fantasize about how much work we can do when one of us gets on a plane, undistracted by phones, friends, or movies. We race to get all our ground work done: packing, going through security, doing a last-minute work call, calling each other, then boarding the plane. Then, when we try to have that amazing work session in flight, we get nothing done. Even worse, after refreshing our email or reading the same studies over and over, we are too exhausted when we land to soldier on with(继续处理) the emails that have inevitably still piled up."
+        },
+        {
+          "l": "B",
+          "t": "Why should flying deplete us? We're just sitting there doing nothing. Why can't we be tougher, more resilient( 有复原力的) and determined in our work so we can accomplish all of the goals we set for ourselves? Based on our current research, we have come to realize that the problem is not our hectic schedule or the plane travel itself; the problem comes from a misconception of what it means to be resilient, and the resulting impact of overworking."
+        },
+        {
+          "l": "C",
+          "t": "We often take a militaristic, \"tough\" approach to resilience and determination like a Marine pulling himself through the mud, a boxer going one more round, or a football player picking himself up off the ground for one more play. We believe that the longer we tough it out, the tougher we are, and therefore the more successful we will be. However, this entire conception is scientifically inaccurate."
+        },
+        {
+          "l": "D",
+          "t": "The very lack of a recovery period is dramatically holding back our collective ability to be resilient and successful. Research has found that there is a direct correlation between lack of recovery and increased incidence of health and safety problems. And lack of recovery—whether by disrupting sleep with thoughts of work or having continuous cognitive arousal by watching our phones—is costing our companies $62 billion a year in lost productivity."
+        },
+        {
+          "l": "E",
+          "t": "And just because work stops, it doesn't mean we are recovering. We \"stop\" work sometimes at 5 pm, but then we spend the night wrestling with solutions to work problems, talking about our work over dinner, and falling asleep thinking about how much work we'll do tomorrow. In a study just released, researchers from Norway found that 7.8% of Norwegians have become workaholics(工作狂). The scientists cite a definition of \"workaholism\" as \"being overly concerned about work, driven by an uncontrollable work motivation, and investing so much time and effort in work that it impairs other important life areas.\""
+        },
+        {
+          "l": "F",
+          "t": "We believe that the number of people who fit that definition includes the majority of American workers, which prompted us to begin a study of workaholism in the U.S. Our study will use a large corporate dataset from a major medical company to examine how technology extends our working hours and thus interferes with necessary cognitive recovery, resulting in huge health care costs and turnover costs for employers."
+        },
+        {
+          "l": "G",
+          "t": "The misconception of resilience is often bred from an early age. Parents trying to teach their children resilience might celebrate a high school student staying up until 3 am to finish a science fair project. What a distortion of resilience! A resilient child is a well-rested one. When an exhausted student goes to school, he risks hurting everyone on the road with his impaired driving; he doesn't have the cognitive resources to do well on his English test; he has lower self-control with his friends; and at home, he is moody with his parents. Overwork and exhaustion are the opposite of resilience and the bad habits we acquire when we're young only magnify when we hit the workforce."
+        },
+        {
+          "l": "H",
+          "t": "As Jim Loehr and Tony Schwartz have written, if you have too much time in the performance zone, you need more time in the recovery zone, otherwise you risk burnout. Gathering your resources to \"try hard\" requires burning energy in order to overcome your currently low arousal level. It also worsens exhaustion. Thus the more imbalanced we become due to overworking, the more value there is in activities that allow us to return to a state of balance. The value of a recovery period rises in proportion to the amount of work required of us."
+        },
+        {
+          "l": "I",
+          "t": "So how do we recover and build resilience? Most people assume that if you stop doing a task like answering emails or writing a paper, your brain will naturally recover, so that when you start again later in the day or the next morning, you'll have your energy back. But surely everyone reading this has had times when you lie in bed for hours, unable to fall asleep because your brain is thinking about work. If you lie in bed for eight hours, you may have rested, but you can still feel exhausted the next day. That's because rest and recovery are not the same thing."
+        },
+        {
+          "l": "J",
+          "t": "If you're trying to build resilience at work, you need adequate internal and external recovery periods. As researchers Zijlstra, Cropley and Rydstedt write in their 2014 paper: \"Internal recovery refers to the shorter periods of relaxation that take place within the frames of the work day or the work setting in the form of short scheduled or unscheduled breaks, by shifting attention or changing to other work tasks when the mental or physical resources required for the initial task are temporarily depleted or exhausted. External recovery refers to actions that take place outside of work—e.g. in the free time between the work days, and during weekends, holidays or vacations.\" If after work you lie around on your bed and get irritated by political commentary on your phone or get stressed thinking about decisions about how to renovate your home, your brain has not received a break from high mental arousal states. Our brains need a rest as much as our bodies do."
+        },
+        {
+          "l": "K",
+          "t": "If you really want to build resilience, you can start by strategically stopping. Give yourself the resources to be tough by creating internal and external recovery periods. Amy Blankson describes how to strategically stop during the day by using technology to control overworking. She suggests downloading the Instant or Moment apps to see how many times you turn on your phone each day. You can also use apps like Offtime or Unplugged to create tech free zones by strategically scheduling automatic airplane modes. The average person turns on their phone 150 times every day. If every distraction took only 1 minute, that would account for 2.5 hours a day."
+        },
+        {
+          "l": "L",
+          "t": "In addition, you can take a cognitive break every 90 minutes to charge your batteries. Try to not have lunch at your desk, but instead spend time outside or with your friends—not talking about work. Take all of your paid time off, which not only gives you recovery periods, but raises your productivity and likelihood of promotion."
+        },
+        {
+          "l": "M",
+          "t": "As for us, we've started using our plane time as a work-free zone, and thus time to dip into the recovery phase. The results have been fantastic. We are usually tired already by the time we get on a plane, and the crowded space and unstable internet connection make work more challenging. Now, instead of swimming upstream, we relax, sleep, watch movies, or listen to music. And when we get off the plane, instead of being depleted, we feel recovered and ready to return to the performance zone."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It has been found that inadequate recovery often leads to poor health and accidents.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "Mental relaxation is much needed, just as physical relaxation is.",
+          "a": "J"
+        },
+        {
+          "n": 38,
+          "s": "Adequate rest not only helps one recover, but also increases one's work efficiency.",
+          "a": "L"
+        },
+        {
+          "n": 39,
+          "s": "The author always has a hectic time before taking a flight.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Recovery may not take place even if one seems to have stopped working.",
+          "a": "E"
+        },
+        {
+          "n": 41,
+          "s": "It is advised that technology be used to prevent people from overworking.",
+          "a": "K"
+        },
+        {
+          "n": 42,
+          "s": "Contrary to popular belief, rest does not equal recovery.",
+          "a": "I"
+        },
+        {
+          "n": 43,
+          "s": "The author has come to see that his problem results from a misunderstanding of the meaning of resilience.",
+          "a": "B"
+        },
+        {
+          "n": 44,
+          "s": "People's distorted view about resilience may have developed from their upbringing.",
+          "a": "G"
+        },
+        {
+          "n": 45,
+          "s": "People tend to think the more determined they are, the greater their success will be.",
+          "a": "C"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Children with attention problems in early childhood were 40% less likely to graduate from high school, says a new study from Duke University. The study included 386 kindergarteners from schools in the Fast Track Project, a multi-site clinical trial in the U.S. that in 1991 began tracking how children developed across their lives. With this study, researchers examined early academic attention and socio-emotional skills and how each contributed to academic success into young adulthood. They found that early attention skills were the most consistent predictor of academic success, and that likability by peers also had a modest effect on academic performance. By fifth grade, children with early attention difficulties had lower grades and reading achievement scores than their peers. As fifth-graders, children with early attention problems obtained average reading scores at least 3% lower than their contemporaries' and grades at least 8% lower than those of their peers. This was after controlling for IQ, socio-economic status and academic skills at school entry. Although these may not seem like large effects, the impact of early attention problems continued throughout the children's academic careers. Lower reading achievement scores and grades in fifth grade contributed to reduced grades in middle school and thereby contributed to a 40% lower high school graduation rate. \"The children we identified as having attention difficulties were not diagnosed with attention deficit hyperactivity disorder(注意力缺乏多动症)(ADHD), although some may have had the disorder. Our findings suggest that even more modest attention difficulties can increase the risk of negative academic outcomes,\" said David Rabiner, an associate dean of Duke's Trinity College of Arts & Sciences, whose research has focused on ADHD and interventions to improve academic performance in children with attention difficulties. Social acceptance by peers in early childhood also predicted grades in fifth grade. Children not as liked by their first-grade peers had slightly lower grades in fifth grade, while those with higher social acceptance had higher grades. \"This study shows the importance of so-called 'non-cognitive' or soft skills in contributing to children's positive peer relationships, which, in turn, contribute to their academic success,\" said Kenneth Dodge, director of the Duke Center for Child and Family Policy. The results highlight the need to develop effective early interventions to help those with attention problems stay on track academically and for educators to encourage positive peer relationships, the researchers said. \"We're learning that student success requires a more comprehensive approach, one that incorporates not only academic skills but also social, self-regulatory and attention skills,\" Dodge said. \"If we neglect any of these areas, the child's development lags. If we attend to these areas, a child's success may reinforce itself with positive feedback loops.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What is the focus of the new study from Duke University?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The contributors to children's early attention."
+              },
+              {
+                "l": "B",
+                "t": "The predictors of children's academic success."
+              },
+              {
+                "l": "C",
+                "t": "The factors that affect children's emotional well-being."
+              },
+              {
+                "l": "D",
+                "t": "The determinants of children's development of social skills."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "How did the researchers ensure that their findings are valid?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By attaching equal importance to all possible variables examined."
+              },
+              {
+                "l": "B",
+                "t": "By collecting as many typical samples as were necessary."
+              },
+              {
+                "l": "C",
+                "t": "By preventing them from being affected by factors not under study."
+              },
+              {
+                "l": "D",
+                "t": "By focusing on the family background of the children being studied."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What do we learn from the findings of the Duke study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Modest students are generally more attentive than their contemporaries."
+              },
+              {
+                "l": "B",
+                "t": "There are more children with attention difficulties than previously thought."
+              },
+              {
+                "l": "C",
+                "t": "Attention deficit hyperactivity disorder accounts for most academic failures."
+              },
+              {
+                "l": "D",
+                "t": "Children's academic performance may suffer from even slight inattention."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What does the Duke study find about children better accepted by peers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They do better academically."
+              },
+              {
+                "l": "B",
+                "t": "They are easy to get on with."
+              },
+              {
+                "l": "C",
+                "t": "They are teachers' favorites."
+              },
+              {
+                "l": "D",
+                "t": "They care less about grades."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What can we conclude from the Duke study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Children's success is related to their learning environment."
+              },
+              {
+                "l": "B",
+                "t": "School curriculum should cover a greater variety of subjects."
+              },
+              {
+                "l": "C",
+                "t": "Social skills are playing a key role in children's development."
+              },
+              {
+                "l": "D",
+                "t": "An all-round approach should be adopted in school education."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Passage Two Questions 51 to 55 are based on the following passage On Jan. 9, 2007, Steve Jobs formally announced Apple's \"revolutionary mobile phone\"—a device that combined the functionality of an iPod, phone and Internet communication into a single unit, navigated by touch. It was a huge milestone in the development of smartphones, which are now owned by a majority of American adults and are increasingly common across the globe. As smartphones have multiplied, so have questions about their impact on how we live and how we work. Often the advantages of convenient, mobile technology are both obvious and taken for granted, leaving more subtle topics for concerned discussion: Are smartphones disturbing children's sleep? Is an inability to get away from work having a negative impact on health? And what are the implications for privacy? But today, on the 10th anniversary of the iPhone, let's take a moment to consider a less obvious advantage: the potential for smartphone technology to revolutionize behavioral science. That's because, for the first time in human history, a large proportion of the species is in continuous contact with technology that can record key features of an individual's behavior and environment. Researchers have already begun to use smartphones in social scientific research, either to query people regularly as they engage in their normal lives or to record activity using the device's built-in sensors. These studies are confirming, challenging and extending what's been found using more traditional approaches, in which people report how they behaved in real life or participate in relatively short and artificial laboratory-based tasks. Such studies are just first steps. As more data are collected and methods for analysis improve, researchers will be in a better position to identify how different experiences, behaviors and environments relate to each other and evolve over time, with the potential to improve people's productivity and wellbeing in a variety of domains. Beyond revealing population-wide patterns, the right combination of data and analysis can also help individuals identify unique characteristics of their own behavior, including conditions that could indicate the need for some form of intervention—such as an unusual increase in behaviors that signal a period of depression. Smartphone-based data collection comes at an appropriate time in the evolution of psychological science. Today, the field is in transition, moving away from a focus on laboratory studies with undergraduate participants towards more complex, real-world situations studied with more diverse groups of people. Smartphones offer new tools for achieving these ambitions, providing rich data about everyday behaviors in a variety of contexts. So here's another way in which smartphones might transform the way we live and work: by offering insights into human psychology and behavior and, thus, supporting smarter social science.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about the negative impact of smartphones?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has been overshadowed by the positive impact."
+              },
+              {
+                "l": "B",
+                "t": "It has more often than not been taken for granted."
+              },
+              {
+                "l": "C",
+                "t": "It is not so obvious but has caused some concern."
+              },
+              {
+                "l": "D",
+                "t": "It is subtle but should by no means be overstated."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What is considered a less obvious advantage of smartphone technology?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It systematically records real human interactions."
+              },
+              {
+                "l": "B",
+                "t": "It helps people benefit from technological advances."
+              },
+              {
+                "l": "C",
+                "t": "It brings people into closer contact with each other."
+              },
+              {
+                "l": "D",
+                "t": "It greatly improves research on human behavior."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What characterizes traditional psychological research?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is based on huge amounts of carefully collected data."
+              },
+              {
+                "l": "B",
+                "t": "It relies on lab observations and participants' reports."
+              },
+              {
+                "l": "C",
+                "t": "It makes use of the questionnaire method."
+              },
+              {
+                "l": "D",
+                "t": "It is often expensive and time-consuming."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "How will future psychological studies benefit individuals?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By helping them pin down their unusual behaviors."
+              },
+              {
+                "l": "B",
+                "t": "By helping them maintain a positive state of mind."
+              },
+              {
+                "l": "C",
+                "t": "By helping them live their lives in a unique way."
+              },
+              {
+                "l": "D",
+                "t": "By helping them cope with abnormal situations."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What do we learn about current psychological studies?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are going through a period of painful transition."
+              },
+              {
+                "l": "B",
+                "t": "They are increasingly focused on real-life situations."
+              },
+              {
+                "l": "C",
+                "t": "They are conducted in a more rigorous manner."
+              },
+              {
+                "l": "D",
+                "t": "They are mainly targeted towards undergraduates."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "近年来，中国政府进一步加大体育馆建设投资，以更好地满足人们快速增长的健身需求。除了新建体育馆 外，许多城市换采取了改造旧工厂和商业建筑等措施，来增加当地体育馆的数量。在政府资金的支持下，越来 越多的体育馆向公众免费开放，或者只收取少量费用。许多体育馆通过应用现代信息技术大大提高了服务质 量。人民可以方便地在线预订场地和付费。可以预见，随着运动设施的不断改善，愈来愈多的人将会去体育馆 健身。",
+    "reference": "In recent years, the Chinese government has further increased its investment in the construction of gymnasiums to better meet the rapidly growing fitness needs of the people. In addition to building new gymnasiums, many cities have also taken measures such as renovating old factories and commercial buildings to increase the number of local gymnasiums. With the support of government funding, more and more gymnasiums are open to the public for free, or charge only a small fee. Many gymnasiums have greatly improved their service quality by applying modern information technology. People can conveniently book venues and make payments online. It can be predicted that with the continuous improvement of sports facilities, more and more people will go to gymnasiums to work out."
+  }
+}

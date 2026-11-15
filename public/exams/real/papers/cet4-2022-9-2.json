@@ -1,0 +1,1406 @@
+{
+  "id": "cet4-2022-9-2",
+  "level": "cet4",
+  "year": 2022,
+  "month": 9,
+  "set": 2,
+  "title": "2022年9月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose your class has just finished celebrating the Teachers'Day. You are now to write a report to the university newspaper on the celebration activities organized by your class. You will have 30 minutes to write the report.You should write at least 120 words but no more than 180 words.",
+    "sample": "A Report on Teachers' Day Celebration On September 10th, our class held a warm celebration to mark Teachers' Day and to show our gratitude to all our teachers. The event took place in Classroom 305 and was attended by every student as well as three of our subject teachers.The celebration was filled with carefully prepared activities. To begin with, we decorated the classroom with balloons and handwritten cards. Then several students performed songs and a short play, while others presented flowers and small gifts. What moved everyone most was a video in which we collected our thanks to our teachers.The celebration turned out to be a great success. Our teachers were deeply touched, and some of them could hardly hold back their tears. Through this activity, we not only expressed our respect but also drew closer to one another. It was surely a Teachers' Day none of us will ever forget."
+  },
+  "listening": {
+    "audio": "cet4-2022-9-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It examines the effect of cholesterol on people's health."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its participants all had high blood cholesterol levels."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It questions the benefits of a vegetarian protein diet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its finding came as a surprise to the researchers."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They do not know all the effects of eating meat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Red meat itself does not cause heart diseases."
+                  },
+                  {
+                    "l": "C",
+                    "t": "White meat may be healthier than red meat."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Vegetarian protein may be easier to absorb.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "White meat, such as chicken, may raise blood cholesterol levels as much as red meat does. This finding surprised researchers, who admitted they didn't expect that eating white meat would lead to higher blood cholesterol levels.",
+                "zh": "白肉，如鸡肉，可能会像红肉一样升高血液胆固醇水平。这一发现令研究人员感到意外，他们承认没有预料到食用白肉会导致血液胆固醇水平升高。"
+              },
+              {
+                "en": "In the study, researchers looked at 113 healthy people. The participants ate three different diets. These were a red meat diet which is primarily beef, a white meat diet which is mostly chicken and turkey, and a vegetarian protein diet. Each diet period was four weeks. Between the diet periods, participants had a break, during which they ate their regular foods. In addition, participants had blood tests at the start and finish of each new diet.",
+                "zh": "在这项研究中,研究人员观察了113名健康人。参与者食用了三种不同的饮食。这些饮食分别是主要以牛肉为主的红肉饮食、主要以鸡肉和火鸡肉为主的白肉饮食，以及素食蛋白饮食。每个饮食周期为四周。在饮食周期之间，参与者有一个休息期，期间他们食用常规食物。此外，参与者在每个新饮食开始和结束时都进行了血液检测。"
+              },
+              {
+                "en": "The results showed that white and red meat diets had the same effects on blood cholesterol levels. Further, both diets increased blood cholesterol levels compared with the diet built on vegetarian protein sources.",
+                "zh": "结果显示，白肉和红肉饮食对血液胆固醇水平有相同的影响。此外，与基于素食蛋白来源的饮食相比，这两种饮食都增加了血液胆固醇水平。"
+              },
+              {
+                "en": "The team acknowledged that it is possible that white meat is better for our health than red meat despite their findings. This is because other effects of red meat consumption could contribute to heart disease independent of cholesterol. Their main recommendations are that people eat less of both kinds of meat and more vegetarian protein.",
+                "zh": "该团队承认，尽管有他们的研究结果，白肉对我们的健康可能比红肉更好。这是因为食用红肉的其他影响可能会独立于胆固醇而导致心脏病。他们的主要建议是人们减少食用这两种肉类，多摄入素食蛋白。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It may have been due to the lorry driver's drunk driving."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It may affect the local supply of turkeys for Christmas."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It interrupted traffic for several hours running."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was caused by a lorry running into a trailer."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has been the scene of several fatal accidents recently."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the spot that causes the local police a lot of worry."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has witnessed several traffic accidents this year."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a location frequented by local traffic police.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "At around half past nine this morning, a trailer attached to a lorry turned over at the crossing of High Street in Milton. Hundreds of frozen turkeys were spilled all over the road. It is reported that nobody was hurt in the incident, but police said it may affect traffic and Christmas dinners. With just one week to go before Christmas, there are worries that local supermarket supplies of this holiday favorite may be affected.",
+                "zh": "今天上午九点半左右,一辆卡车拖挂的拖车在Milton的High Street十字路口发生侧翻。数百只冷冻火鸡散落在路面上。据报道,此次事故中无人受伤,但警方表示这可能会影响交通和圣诞晚餐。距离圣诞节仅剩一周时间,人们担心当地超市这一节日热门食品的供应可能会受到影响。"
+              },
+              {
+                "en": "A police spokeswoman said that officers were currently in attendance at the scene. She stated that the driver of the lorry had been arrested on suspicion of dangerous driving.",
+                "zh": "一名警方女发言人表示,警员目前正在现场处置。她说,卡车司机已因涉嫌危险驾驶被逮捕。"
+              },
+              {
+                "en": "The crossing on High Street is a well-known accident blackspot. This year alone, there have been seven traffic accidents at this location. Thankfully, none of these accidents have resulted in serious injury.",
+                "zh": "High Street的这个十字路口是一个众所周知的交通事故多发点。仅今年一年,该路口就发生了七起交通事故。幸运的是,这些事故均未造成重伤。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Get approval to add more routes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Attract more international tourists."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Advertise it through a mobile app."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make it affordable to common folk."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It costs more than twice as much as a car ride."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is gaining popularity among ordinary Indians."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It symbolizes India's advancement in high-tech."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can get anywhere in the city within 15 minutes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "International tourists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "High-class travelers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Prominent superstars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Customers in a hurry."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "India launched its helicopter taxi service on Monday, promising to ferry customers the 40 miles between Bangalore's Electronic City tech hub and the International Airport terminal in 15 minutes.",
+                "zh": "印度于周一推出了直升机出租车服务,承诺在15分钟内将客户从班加罗尔的Electronic City科技中心送至国际机场航站楼,全程40英里。"
+              },
+              {
+                "en": "Customers can book their helicopter ride through a mobile app. The service, which claims to be the first of its kind in India, offers only one route, but Bangalore airport will add more once it gets approval.",
+                "zh": "客户可以通过移动应用程序预订直升机行程。该服务自称是印度首创,目前仅提供一条航线,但班加罗尔机场表示一旦获得批准将增加更多航线。"
+              },
+              {
+                "en": "Helicopter taxi is not an affordable option for many travelers. A car ride for the same journey costs less than half as much. But Bangalore airport says it is a competitive alternative to a car ride for tech executives in a hurry. \"A large number of high-class travelers, including CEOs, have to spend more than three hours by road to get there and that is a loss of time,\" a Bangalore airport spokesperson said. \"This is not a low cost option, but it is an option,\" she added.",
+                "zh": "直升机出租车对许多旅客来说并非经济实惠的选择。同样行程的汽车费用还不到一半。但班加罗尔机场表示,对于赶时间的科技公司高管来说,这是汽车出行的有竞争力的替代方案。班加罗尔机场发言人说:\"包括CEO在内的大量高端旅客不得不花费三个多小时的车程才能到达那里,这是时间的损失。\"她补充道:\"这不是低成本选择,但它是一个选择。\""
+              },
+              {
+                "en": "The helicopters ferried around eight customers to the airport on their first day. The company that owns and operates the service is called Thumby Aviation. It previously specialized in private charter flights for government officials.",
+                "zh": "直升机在首日将约八名客户送往机场。拥有并运营该服务的公司名为Thumby Aviation,此前专门为政府官员提供私人包机服务。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Treat her friends in a bar."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Take a trip to Washington."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Make some cheese."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Throw a party."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Spend no more than 30 dollars."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Buy different kinds of cheese."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help him prepare the barbecue."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Find out different people's tastes."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the best kind of hard cheese."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the most popular in Spain."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is more delicious than honey."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a good choice for children."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Buy what the man recommended."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Have a taste of both of the cheeses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Choose one of the two types of cheese."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Ask the man to cut the cheese into slices.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Hi, I wish to buy some cheese for a barbecue this weekend.",
+                "zh": "W: 你好,我想买些奶酪,这周末烧烤用。"
+              },
+              {
+                "en": "M: What kind would you like?",
+                "zh": "M: 您想要什么种类的?"
+              },
+              {
+                "en": "W: Sorry, I don't know much about cheese. What type do you think would be suitable for a barbecue?",
+                "zh": "W: 不好意思,我对奶酪不太了解。您觉得哪种适合烧烤呢?"
+              },
+              {
+                "en": "M: That's easy! For a barbecue, you could have any cheese you want. I imagine there will be different foods and people will just help themselves and eat at their own pace, right?",
+                "zh": "M: 这简单!烧烤的话,您想要什么奶酪都行。我想应该会有各种不同的食物,大家自己取用,按自己的节奏吃,对吧?"
+              },
+              {
+                "en": "W: Yes, exactly. It will be very casual. We will just be a small group of friends gathering together at Washington Park. There will be around 20 of us, including children.",
+                "zh": "W: 对,没错。会很随意的。就是一小群朋友在Washington Park聚一聚。大概20个人左右,包括孩子。"
+              },
+              {
+                "en": "M: Great! So you could have different types of cheese. How much would you like to spend?",
+                "zh": "M: 太好了!那您可以买几种不同类型的奶酪。您打算花多少钱?"
+              },
+              {
+                "en": "W: Not very much. Let's say $30.",
+                "zh": "W: 不想花太多。就算30美元吧。"
+              },
+              {
+                "en": "M: I would suggest having at least one soft cheese and one hard cheese. That will offer you a good variety to suit different people's tastes.",
+                "zh": "M: 我建议至少买一种软奶酪和一种硬奶酪。这样品种丰富,能满足不同人的口味。"
+              },
+              {
+                "en": "W: That sounds good. What's the difference between a soft cheese and a hard cheese?",
+                "zh": "W: 听起来不错。软奶酪和硬奶酪有什么区别呢?"
+              },
+              {
+                "en": "M: Well, it depends. But generally speaking, soft cheeses are creamy and go well with sweet things like honey and jam. I would suggest something like this Spanish goat cheese. It's only $15, a very good price. You can spread it on bread with a knife, and then add a tiny bit of honey on top. It's delicious. Children love it.",
+                "zh": "M: 嗯,这要看情况。但一般来说,软奶酪是奶油状的,跟蜂蜜、果酱这些甜食很配。我建议买这种西班牙山羊奶酪。只要15美元,价格很实惠。您可以用刀把它抹在面包上,然后在上面加一点点蜂蜜。非常好吃。孩子们都爱吃。"
+              },
+              {
+                "en": "W: Okay, great. What about a hard cheese?",
+                "zh": "W: 好的,很棒。那硬奶酪呢?"
+              },
+              {
+                "en": "M: Yes, for hard cheese, I would recommend this Italian one here. It has a very strong smell and a dry flavor. You can cut it into thin slices and eat it on its own. It's $16.",
+                "zh": "M: 对,硬奶酪的话,我推荐这款意大利的。它味道很浓,口感偏干。您可以把它切成薄片直接吃。16美元。"
+              },
+              {
+                "en": "W: Okay, I'll take both. Thank you for your help.",
+                "zh": "W: 好的,两种我都要了。谢谢您的帮助。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "New teachers and staff have to be recruited."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It might take some time for students to adapt."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It involves buying lots of tablets and software."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The software has to be constantly upgraded."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can greatly improve their learning efficiency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can help them to interact more with teachers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can save their trouble of carrying printed books."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can develop their skills in using electronic devices."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They may have trouble comprehending texts."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They may encounter technological problems."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may pay less respect to teachers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They may get distracted more easily."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It generates a great deal of electronic garbage."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It does a lot of damage to the environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It emits huge amounts of harmful radiation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It accelerates the exhaustion of rare minerals."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Our school is replacing printed textbooks with e-textbooks next semester. I can't wait.",
+                "zh": "M: 我们学校下学期要用电子教材取代纸质教材了。我等不及了。"
+              },
+              {
+                "en": "W: Really? What about the cost, not only buying all those tablets, but the software and electronic infrastructure that goes with it, not to mention retraining all the teachers and administration staff?",
+                "zh": "W: 真的吗?那成本呢,不仅要购买所有那些平板电脑,还有配套的软件和电子基础设施,更不用说还要重新培训所有的教师和行政人员?"
+              },
+              {
+                "en": "M: Sure, the initial expenditure will be high, but much lower afterwards. Besides that, tablet prices continue to drop and are becoming increasingly affordable. Anyway, tablets help students learn up to 80% faster.",
+                "zh": "M: 当然,初期支出会很高,但之后就低多了。而且,平板电脑价格持续下降,越来越实惠了。不管怎样,平板电脑能帮助学生的学习速度提高80%。"
+              },
+              {
+                "en": "W: Not necessarily. Tablets have too many distractions. Students may pay attention to apps, games and websites instead of their teachers. In fact, research suggests that people who read printed text comprehend more, remember more and learn 30% more than those who read digital text.",
+                "zh": "W: 不一定。平板电脑有太多干扰因素。学生可能会把注意力放在应用程序、游戏和网站上,而不是听老师讲课。事实上,研究表明,阅读纸质文本的人比阅读电子文本的人理解得更多,记住得更多,学到的东西多30%。"
+              },
+              {
+                "en": "M: Yes. But tablets contain many technological features that are not found in printed textbooks. Think about it. Students are able to highlight and edit text, write notes and search for information much more quickly than they can with printed textbooks. And what about all those trees that are cut down to make printed books?",
+                "zh": "M: 是的。但平板电脑包含许多纸质教材没有的技术功能。想想看。学生能够高亮和编辑文本,写笔记,搜索信息,这些都比用纸质教材快得多。还有那些为了制作纸质书而被砍伐的树木呢?"
+              },
+              {
+                "en": "W: Actually, manufacturing tablets is environmentally destructive and dangerous to human health. The health impacts from making one electronic reader are 70 times greater than those from making a single printed book. A lot of minerals are extracted from the earth to make electronic readers. It does far more damage to the environment.",
+                "zh": "W: 实际上,制造平板电脑对环境的破坏性很大,而且对人类健康有危害。制造一台电子阅读器对健康的影响是制造一本纸质书的70倍。制造电子阅读器需要从地球上开采大量矿物。对环境的破坏要大得多。"
+              },
+              {
+                "en": "M: Yes. But the software for electronic readers can be updated instantly without the need for buying a whole lot of new books. That's better for the environment.",
+                "zh": "M: 是的。但是电子阅读器的软件可以即时更新,不需要购买一大堆新书。这样对环境更好。"
+              },
+              {
+                "en": "W: But the core curriculum doesn't change that much. Printed textbooks that are not brand new, still contain the basic relevant information of core subjects.",
+                "zh": "W: 但核心课程变化并不大。不是全新的纸质教材仍然包含核心科目的基本相关信息。"
+              },
+              {
+                "en": "M: Well, I'm looking forward to the change.",
+                "zh": "M: 嗯,我很期待这个改变。"
+              },
+              {
+                "en": "W: I'll stick with my printed books.",
+                "zh": "W: 我还是坚持用我的纸质书。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Communicate with our coworkers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Encounter people in different places."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Judge people based on our first impressions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Engage in a variety of psychological activities."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is an objective evaluation of a person's character."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a mental process influenced by many factors."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It contributes to the formation of personal traits."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It varies greatly among different social groups."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can lead to incorrect judgments."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can cause mistrust among people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can result in instant losses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can give rise to gender bias.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In social psychology, the term \"person perception\" refers to the mental processes that we use to form impressions of other people. It includes not just how we form these impressions, but the conclusions we make about other people based on our impressions. Consider how often you make this kind of judgment every day. When you meet with a new coworker, you immediately begin to develop an initial impression of this person. When you visit the grocery store, you might draw conclusions about the cashier who checks you out.",
+                "zh": "在社会心理学中，\"人物知觉\"这一术语指的是我们用来形成对他人印象的心理过程。它不仅包括我们如何形成这些印象，还包括我们基于印象对他人做出的结论。想想你每天做出这种判断的频率有多高。当你遇到一位新同事时，你会立即开始对这个人形成初步印象。当你去杂货店时，你可能会对为你结账的收银员得出一些结论。"
+              },
+              {
+                "en": "Obviously, person perception is a very subjective process that can be affected by a number of variables, including the characteristics of the person you are observing, the context of the situation, your own personal traits, and your past experiences.",
+                "zh": "显然，人物知觉是一个非常主观的过程，可能会受到许多变量的影响，包括你所观察的人的特征、情境的背景、你自己的个人特质以及你过去的经历。"
+              },
+              {
+                "en": "One of the techniques we use in person perception is social categorization. In this process, we mentally categorize people into different groups based on common characteristics.",
+                "zh": "我们在人物知觉中使用的技巧之一是社会分类。在这个过程中，我们根据共同特征在心理上将人们归入不同的群体。"
+              },
+              {
+                "en": "Problems with this technique include the fact that it can lead to errors and prejudice. Imagine that you are getting on a bus. There are only two seats available. One is next to a small, elderly woman; the other is next to a muscular, fierce-looking man. You sit next to the elderly woman, who unfortunately turns out to be quite skilled at picking pockets.",
+                "zh": "这种技巧的问题包括它可能导致错误和偏见。想象一下你正在上公交车。只有两个座位可用。一个挨着一位身材矮小的老年妇女；另一个挨着一位肌肉发达、面容凶狠的男子。你坐在老年妇女旁边，不幸的是她原来非常擅长扒窃。"
+              },
+              {
+                "en": "Because of social categorization, you immediately judge the woman as harmless, and the man as threatening, leading to the loss of your wallet.",
+                "zh": "由于社会分类，你立即判断这位妇女是无害的，而那位男子是有威胁的，这导致了你钱包的丢失。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Both groups spend a lot of time on mobile devices."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Both groups attach importance to social connections."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are equally competent in using new technology."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are similar in terms of social skills."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their social skills were negatively affected."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their school performance was slightly lower."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their emotions were much harder to regulate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their relations with peers were badly strained."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It may pose a threat to their children's safety."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It may affect society's traditional values."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It may hurt their relations with children."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It may change their children's ethical values.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Despite smartphones and social media, young people today are as socially competent as those from the previous generation. At least this is what a new study suggests.",
+                "zh": "尽管有智能手机和社交媒体,今天的年轻人在社交能力方面与上一代人一样出色。至少这是一项新研究所表明的。"
+              },
+              {
+                "en": "For the study, researchers compared teacher and parent evaluations of American children who started kindergarten in 1998, with those who began school in 2010. The former group entered kindergarten when mobile phones were luxuries. The latter group started school when mobile devices were widespread.",
+                "zh": "在这项研究中,研究人员比较了教师和家长对1998年开始上幼儿园的美国儿童与2010年入学儿童的评价。前一组儿童入园时,移动电话还是奢侈品。后一组儿童入学时,移动设备已经普及。"
+              },
+              {
+                "en": "Results showed both groups of children were rated similarly on important social skills. These included their ability to form and maintain friendships and get along with people who are different. They were also rated similarly on self-control, such as the ability to regulate their temper.",
+                "zh": "结果显示,两组儿童在重要社交技能方面的评分相似。这些技能包括建立和维持友谊的能力,以及与不同的人相处的能力。他们在自我控制方面的评分也相似,比如控制脾气的能力。"
+              },
+              {
+                "en": "In virtually every comparison made, ratings of social skills either remain constant or improved for the children born later. There was one exception: Social skills were slightly lower for children who accessed online games and social networking sites many times a day.",
+                "zh": "在几乎所有的比较中,晚出生儿童的社交技能评分要么保持不变,要么有所提高。有一个例外:每天多次访问网络游戏和社交网站的儿童,其社交技能略低。"
+              },
+              {
+                "en": "Adults are worried when technological change starts to undermine traditional relationships, particularly the parent-child relationship.",
+                "zh": "当技术变革开始削弱传统关系,特别是亲子关系时,成年人会感到担忧。"
+              },
+              {
+                "en": "The introduction of telephones, automobiles and radio all led to moral panic among adults of the time, because the technology allowed children to enjoy more freedom. Fears over screen-based technology represent the most recent panic in response to technological change. But overall, the study found little evidence that time spent on screens was hurting social skills for most children.",
+                "zh": "电话、汽车和广播的引入都曾在当时的成年人中引发道德恐慌,因为这些技术让儿童享有更多自由。对屏幕技术的恐惧是对技术变革做出反应的最新恐慌。但总体而言,该研究发现几乎没有证据表明,对大多数儿童来说,花在屏幕上的时间损害了社交技能。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is motivating."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is passive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is incredible."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is impracticable."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It results in short-term excitement."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It helps us avoid making mistakes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It breeds long-term passion and enthusiasm."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is bound to help us achieve greater success."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Drive us forward."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Bring us power."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Spur us to action."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Give us ideas."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Listening to success stories."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Applying ideas to one's life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Following the advice of experts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Consuming the world around us."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It's easy to spend all day searching for inspiration. You can find incredible videos, articles and news stories about the success of others.",
+                "zh": "人们很容易花一整天时间寻找灵感。你可以找到关于他人成功的精彩视频、文章和新闻报道。"
+              },
+              {
+                "en": "The problem is that consuming the success and ideas of others is passive inspiration. Every time you read an article or listen to an interview, you're practicing passive inspiration. You might learn something, but you don't actually have to do anything. Hearing about other people's success isn't the same as creating your own.",
+                "zh": "问题在于,消费他人的成功和想法是被动的灵感。每次你阅读一篇文章或收听一次采访,你都在实践被动灵感。你可能会学到一些东西,但你实际上不必做任何事情。听说他人的成功并不等同于创造你自己的成功。"
+              },
+              {
+                "en": "Instead, it is through the process of active inspiration—the act of creating things, applying new ideas to our goals, and making mistakes that we discover who we are and what is important to us. Furthermore, active inspiration is what results in long-term passion and enthusiasm. Watching someone else's success might leave you feeling excited for a few minutes. However, taking action and applying a new idea to your life will inspire you more than anything someone else can say.",
+                "zh": "相反,正是通过主动灵感的过程——创造事物、将新想法应用于我们的目标、犯错误的行动——我们才发现自己是谁以及什么对我们重要。此外,主动灵感会带来长期的热情和激情。观看他人的成功可能会让你兴奋几分钟。然而,采取行动并将新想法应用到你的生活中,会比他人所说的任何话都更能激励你。"
+              },
+              {
+                "en": "Learning and listening can help you think about things in a different way. But creating, producing, and experimenting is what drives you forward. Passive inspiration can give you ideas, but active inspiration will give you power.",
+                "zh": "学习和倾听可以帮助你以不同的方式思考问题。但创造、生产和实验才是推动你前进的动力。被动灵感可以给你想法,但主动灵感会给你力量。"
+              },
+              {
+                "en": "Too often we spend our lives consuming the world around us instead of creating it. And what matters is the power your actions have to inspire you. The best inspiration comes from the application of ideas, not the consumption of them.",
+                "zh": "我们常常把生活花在消费周围的世界而不是创造它上面。而重要的是你的行动激励你的力量。最好的灵感来自想法的应用,而非对它们的消费。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2022-9-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Public perception of success in the U.S. might be totally misguided. While 92% of people believe others care most about fame and"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ", fewer than 10% factor those qualities into their own success. This is according to the newly"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "study by Harvard Graduate School of Education professor Todd Smith. Smith says he was"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "by how past studies on success \"assumed what people will care about.\" In this study, his team \"went the"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "direction\" by spending years carrying out individual interviews and group surveys to see what people really talk about when they talk about success. As a scientist, Smith"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "studied individuality for a living, and even he was surprised to find younger respondents cared more about having a"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "in life. Those between the ages of 18 and 34 prioritized it most, and that prioritization dropped off as respondents' ages went up. Perhaps this is because older people had fewer options when they were starting their careers, at a time when values focused more on stable incomes than"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "personal missions. Other trends included an emphasis on the importance of parenting. Being a parent"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "very high across the priorities of all study participants. Ultimately, Smith hopes institutions will take note of these insights"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ". Higher education institutions tend to focus on preparing students for high-paying jobs. For such institutions, from universities to workplaces, to better"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "people in the U.S., they'll need to understand \"what the American public highly prioritizes,\" Smith says."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "accommodate"
+        },
+        {
+          "l": "B",
+          "w": "accordingly"
+        },
+        {
+          "l": "C",
+          "w": "acquiring"
+        },
+        {
+          "l": "D",
+          "w": "bothered"
+        },
+        {
+          "l": "E",
+          "w": "fortune"
+        },
+        {
+          "l": "F",
+          "w": "fulfilling"
+        },
+        {
+          "l": "G",
+          "w": "identify"
+        },
+        {
+          "l": "H",
+          "w": "literally"
+        },
+        {
+          "l": "I",
+          "w": "opposite"
+        },
+        {
+          "l": "J",
+          "w": "profession"
+        },
+        {
+          "l": "K",
+          "w": "purpose"
+        },
+        {
+          "l": "L",
+          "w": "ranked"
+        },
+        {
+          "l": "M",
+          "w": "released"
+        },
+        {
+          "l": "N",
+          "w": "similarly"
+        },
+        {
+          "l": "O",
+          "w": "wrong"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "E"
+        },
+        {
+          "n": 27,
+          "a": "M"
+        },
+        {
+          "n": 28,
+          "a": "D"
+        },
+        {
+          "n": 29,
+          "a": "I"
+        },
+        {
+          "n": 30,
+          "a": "H"
+        },
+        {
+          "n": 31,
+          "a": "K"
+        },
+        {
+          "n": 32,
+          "a": "F"
+        },
+        {
+          "n": 33,
+          "a": "L"
+        },
+        {
+          "n": 34,
+          "a": "B"
+        },
+        {
+          "n": 35,
+          "a": "A"
+        }
+      ]
+    },
+    "matching": {
+      "title": "How a rabbit study and an ex-student boost my hopes for a future of 'love and dignity'",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "At whatever grade level teachers find themselves, from kindergarten to the final class at medical or law school, few moments stir the emotions as deeply as when former students reappear years and often decades later with an update on where their journey has taken them and what resiliencies( 韧性) have been the pavement on which they've traveled."
+        },
+        {
+          "l": "B",
+          "t": "So it was when a recent letter came from Kelli Harding, a student 21 years ago in my Peace Studies summer course in Washington. The weekly tuition-free class, in a roomy space that Ralph Nader and his Public Citizen nonprofit group provided, was discussion-based and required no useless homework or exams. Just come in and figure out how to increase peace and decrease violence. And do it today, tomorrow is too late. The course attracted mostly congressional interns( 实习生), with a few exceptions like Kelli who was in Washington as an AmeriCorps volunteer."
+        },
+        {
+          "l": "C",
+          "t": "Her year-long service included comforting AIDS patients at a free health clinic and delivering meals to the homebound. It was a world apart from her undergraduate days at the University of California-Berkeley majoring in political science. The Washington experience, which Kelli would later call \"transformative\", was the fuel that carried her into medicine to earn a master's degree in public health from Columbia University and a medical degree from the University of Rochester, and almost two decades of practice as an emergency- room psychiatrist(精神科医生) at New York-Presbyterian Hospital and a clinical professor of psychiatry at Columbia University Irving Medical Center."
+        },
+        {
+          "l": "D",
+          "t": "Kelli's letter, a literate update on both her personal and professional life, touched my heart, and especially so when saying that two decades later she still has the course text, \"Solutions to Violence,\" and that \"it remains one of my favorite possessions.\" She lives in Lower Manhattan with her husband, Padraic, whom she met on a flight to London, and their three boys."
+        },
+        {
+          "l": "E",
+          "t": "If Kelli stands out, it's because she is also a gifted writer. Last month, Atria Books published her book The Rabbit Effect: Live Longer, Happier, and Healthier with the Groundbreaking Science of Kindness."
+        },
+        {
+          "l": "F",
+          "t": "With a blending of free-flowing confessional prose and scholarly research found in 461 notes, Kelli met my expectations that her ideas and ideals would be sound and singular. \"Despite our scientific progress,\" she writes, \"Americans are remarkably unhealthy. In 2016, the United States ranked forty-third in the world for life expectancy. It is also by far the world's most expensive place to get sick.\""
+        },
+        {
+          "l": "G",
+          "t": "Enter the rabbits—not those running around in our woodlands but ones serving in two month-long medical experiments to test the effects of eating a high-fat diet and the connections between cholesterol and heart disease. With similar diets, the expectations were that all the rabbits would have similar cloggings of their arteries(动脉堵塞). Yet one group had 60% fewer of them."
+        },
+        {
+          "l": "H",
+          "t": "The reason? Instead of receiving the standard care given to lab animals, the 60% group was watched over by a newcomer to the lab who, Kelli writes, \"handled the animals differently. When she fed her rabbits she talked to them and petted them. She didn't just pass out food, she gave them love. The studies indicate something is missing in the traditional biomedical model. It wasn't diet or genetics that made a difference in which rabbits got sick and which stayed healthy. It was kindness.\""
+        },
+        {
+          "l": "I",
+          "t": "Amid the political noise about Obamacare, Medicare, Medicaid, health insurance and thieving pharmaceutical(医药的) companies, Kelli Harding stands apart from the crowd calling for quick fixes, the simpler the better. She has walked too many miles in the halls of hospitals visiting too many far-gone patients and seeing too many medical mistakes to go along with conventional thinking."
+        },
+        {
+          "l": "J",
+          "t": "\"The rabbit effect,\" she explains, means that \"when it comes to our health, we've been missing some crucial pieces: hidden factors behind what really makes us healthy. Factors like love, friendship, and dignity. The designs of our neighborhoods, schools, and workplaces. There's a social dimension to health that we've completely overlooked in our efforts to find the best and most cutting-edge medical care … Ultimately, what affects our health in the most meaningful ways has more to do with how we treat one another, how we live, and how we think about what it means to be human than with anything that happens in the doctor's office.\""
+        },
+        {
+          "l": "K",
+          "t": "In more than a few passages, she relates the stories of men and women who came up against assembly-line medicine where patients were treated mostly as pieces of flesh. \"Clinically,\" she writes, \"it's common to see two patients with the same condition, such as recovering from a heart attack, have two very different courses based on seemingly irrelevant factors, such as their family relationships or their educational levels. In my practice, the sickest people I see often share similar backgrounds: loneliness, abuse, poverty, or discrimination. For them, the medical model isn't enough. It's like fixing up an airplane engine and ignoring that the pilot is on his third drink at the bar and a massive storm is overhead … To properly care for patients, we also need to care about the lives of the people getting the care.\""
+        },
+        {
+          "l": "L",
+          "t": "Kelli wastes no time taking potshots at( 随意批评) the medical establishment and its body-centered biomedicine methods. Instead, she remains positive, holding up for praise one of her medical school professors, George Engel, \"who always noticed not just a patient's physical condition but little details about her life, such as if she had family pictures up in her hospital room or flowers delivered. He was the kind of trusted doctor you'd feel relieved to see and welcome into the room with a sick family member. He'd sit down to talk with the patient not just about medical problems, but about her life and priorities. He built a large consultation service to address the holistic( 整体的) needs of hospitalized patients, including psychological and social factors.\""
+        },
+        {
+          "l": "M",
+          "t": "It's a guess how many George Engels in their white jackets are at work these days and another speculation on the number of Kelli Hardings the nation is blessed with. May the totals be large and getting larger."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Kelli Harding also distinguishes herself by her literary talent.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "Kelli Harding doesn't think America's medical model is sufficient for patients who need help most.",
+          "a": "K"
+        },
+        {
+          "n": 38,
+          "s": "Kelli Harding differs from those seeking quick and simple solutions to America's medical problems.",
+          "a": "I"
+        },
+        {
+          "n": 39,
+          "s": "Kelli Harding was a participant in a summer course the author taught.",
+          "a": "B"
+        },
+        {
+          "n": 40,
+          "s": "According to Kelli Harding, scientific advances have not made Americans healthier, nor prolonged their life.",
+          "a": "F"
+        },
+        {
+          "n": 41,
+          "s": "The author was deeply moved by what Kelli Harding wrote about her current life.",
+          "a": "D"
+        },
+        {
+          "n": 42,
+          "s": "George Engel, in treating his patients, not only looks into their symptoms but also into things like the emotional support they receive.",
+          "a": "L"
+        },
+        {
+          "n": 43,
+          "s": "According to Kelli Harding, rabbits' health had more to do with humans' kindness to them than their diet or genetics.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "What Kelli Harding went through in Washington changed her life.",
+          "a": "C"
+        },
+        {
+          "n": 45,
+          "s": "A social aspect to health has not been taken into account in trying to provide the best medical care.",
+          "a": "J"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Academic dishonesty is nothing new. As long as there have been homework assignments and tests, there have been cheaters. The way that cheating looks has changed over time, though, particularly now that technology has made it easier than ever. A study by the Josephson Institute of Ethics interviewed 23,000 high school students and asked them a variety of questions about academic ethics. Of the teens surveyed, 51 percent said that they had knowingly cheated at some point on an exam but that they did not feel uneasy about the behavior. A Common Sense Media survey found that 35 percent of students had cheated via smartphone, though the parents surveyed in that particular study did not believe their kids had ever cheated. In many cases, students did not realize that strategies like looking up answers on a smartphone were actually cheating at all. In today's classrooms, students who cheat are rarely caught. There are no formulas written on the insides of hands or students looking across the aisle, or whispering answers to their classmates. Today's students use smartphones, tablets or even in-class computers to aid their cheating attempts and leave no trace of their crimes. Since cheating through technology is not listed specifically as being against the rules in many school policies, students do not view the actions as unethical. The technology is being adopted so quickly that school districts cannot adequately keep up with cheating policies, or even awareness campaigns that alert students to the problem with using technology to find answers in a certain way. From a young age, students learn that answers exist conveniently at their fingertips through search engines and expert websites. Schools must develop anti-cheating policies that include technology and these policies must be updated consistently. Teachers must stay on guard when it comes to what their students are doing in classrooms and how technology could be playing a negative role in the learning process. Parents must also talk to their kids about the appropriate ways to find academic answers and alert them to unethical behaviours that may seem innocent in their own eyes.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from the study by the Josephson Institute of Ethics?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Over half of the students interviewed were unaware they were cheating."
+              },
+              {
+                "l": "B",
+                "t": "Cheating was becoming a way of life for a majority of high school teens."
+              },
+              {
+                "l": "C",
+                "t": "More than half of the interviewees felt no sense of guilt over cheating."
+              },
+              {
+                "l": "D",
+                "t": "Cheating was getting more and more difficult for high school students."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What did the Common Sense Media survey reveal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Most parents tended to overprotect their children."
+              },
+              {
+                "l": "B",
+                "t": "Many students committed cheating unknowingly."
+              },
+              {
+                "l": "C",
+                "t": "Students were in urgent need of ethical education."
+              },
+              {
+                "l": "D",
+                "t": "Parents and kids had conflicting ideas over cheating."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "Why do students rarely get caught cheating nowadays?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They copy formulas on their palms."
+              },
+              {
+                "l": "B",
+                "t": "They help each other to cover up their acts."
+              },
+              {
+                "l": "C",
+                "t": "They keep changing their ways of cheating."
+              },
+              {
+                "l": "D",
+                "t": "They make use of modern technology."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What does the author think schools should do to tackle cheating?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Bring policies against cheating up to date."
+              },
+              {
+                "l": "B",
+                "t": "Reform their exam methods constantly."
+              },
+              {
+                "l": "C",
+                "t": "Take advantage of the latest technologies."
+              },
+              {
+                "l": "D",
+                "t": "Alert parents to their children's behaviour."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What does the author suggest teachers do in the classroom?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Prevent students from overusing electronic devices."
+              },
+              {
+                "l": "B",
+                "t": "Develop more effective anti-cheating strategies."
+              },
+              {
+                "l": "C",
+                "t": "Find more ways to curb students' unethical acts."
+              },
+              {
+                "l": "D",
+                "t": "Guard against students' misuse of technology."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Remote work is about more than just working from home—it means working differently. Organizations should reconsider the appropriateness of their performance evaluation procedures in light of the shift to remote work. This requires a fundamental rethinking of what organizations expect from employees and what companies would look for in a model employee in a remote work context. It is likely that the \"first to arrive and last to leave\" mentality is no longer relevant, but should be replaced by a regard for the quality of an employee's contribution to the organization. This means that work should be measured in terms of the quality of the work, not just the quality of the process. As remote work is largely unobservable to supervisors, employers need to think about how they can objectively measure the quality of work in a way that is consistent for employees of similar rank. Focusing on output alone can have unintended consequences. Employers should think instead about the values and soft skills they want to emphasize in a remote work environment. Qualities like flexibility and the ability to work under minimal supervision might become critical. Much has been written about the importance of timely feedback. In the context of a global pandemic(大流 行病), firms may want to provide additional support to employees by providing more frequent communication. This allows managers to both keep an eye on struggling employees and provide ongoing feedback on how employees are adapting to their new work environment. Compensation also needs to be revisited. The purpose of performance evaluation is ultimately to determine how to reward employees for their work. This means that pay structures need to adapt to the reality of working from home. However, organizations also need to be honest with employees about the financial impact of COVID-19. For organizations that have struggled to keep the lights on due to the pandemic, this might mean thinking of non-financial ways to reward employees, like unpaid time off or flexible work schedules. Employers can also consider how to bundle different types of compensation to help employees cope with their unique situations.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say companies should do in the context of remote work?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Reform performance evaluation."
+              },
+              {
+                "l": "B",
+                "t": "Rethink the organizational fundamentals."
+              },
+              {
+                "l": "C",
+                "t": "Reexamine its effects on employees' behaviors."
+              },
+              {
+                "l": "D",
+                "t": "Reflect on its differences from working in the office."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What should be prioritized in assessing employees' remote work?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The quantity of their output."
+              },
+              {
+                "l": "B",
+                "t": "The length of their work time."
+              },
+              {
+                "l": "C",
+                "t": "The quality of their contribution."
+              },
+              {
+                "l": "D",
+                "t": "The flexibility of their work schedules."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What quality in the employees would be of great importance in a remote work context?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The ability to produce quality work."
+              },
+              {
+                "l": "B",
+                "t": "The ability to maximize work efficiency."
+              },
+              {
+                "l": "C",
+                "t": "The ability to finish tasks in a timely manner."
+              },
+              {
+                "l": "D",
+                "t": "The ability to work with the least supervision."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "Why is it important for firms to provide timely feedback during the pandemic?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To evaluate their employees of similar rank in a consistent way."
+              },
+              {
+                "l": "B",
+                "t": "To keep a watchful eye on those employees who perform poorly."
+              },
+              {
+                "l": "C",
+                "t": "To help employees in need adapt to the new work environment."
+              },
+              {
+                "l": "D",
+                "t": "To maintain connections with their employees away from office."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What is the author's suggestion to employers who experience the financial impact of the pandemic?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Urging their employees to adapt to the new situation."
+              },
+              {
+                "l": "B",
+                "t": "Rewarding their employees in unconventional ways."
+              },
+              {
+                "l": "C",
+                "t": "Identifying employees who make little contribution."
+              },
+              {
+                "l": "D",
+                "t": "Allowing their employees to look for part-time jobs."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ],
+    "shared": "cet4-2022-9-1"
+  },
+  "translation": {
+    "source": "按照中国民间的传统习俗，春节期间长辈通常会给孩子发红包，俗称发压岁钱 (lucky money), 以表达对 孩子的祝福，祝他们好运。如今，红包不仅是给孩子的礼物，而且经常也是给长辈或亲朋好友的礼物。近年 来，随着微信用户数量的增加，微信红包变得愈加流行。欢度春节时，人们经常互发微信红包表达问候。这无 疑是一种与远方亲友联系的便捷方式。",
+    "reference": "According to traditional Chinese folk customs, during the Spring Festival the elders usually give children red envelopes, commonly known as lucky money, to express their blessings and wish them good luck. Nowadays, red envelopes are not only a gift for children but also often a gift for the elders, relatives and friends. In recent years, with the increasing number of WeChat users, WeChat red envelopes have become increasingly popular. When celebrating the Spring Festival, people often send WeChat red envelopes to each other to express their greetings. This is undoubtedly a convenient way of staying in touch with relatives and friends far away."
+  }
+}

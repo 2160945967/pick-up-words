@@ -1,0 +1,1393 @@
+{
+  "id": "cet4-2016-6-3",
+  "level": "cet4",
+  "year": 2016,
+  "month": 6,
+  "set": 3,
+  "title": "2016年6月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a letter to express your thanks to your parents or any other family member upon making a memorable achievement. You should write at least 120 words but no more than 180 words.",
+    "sample": "Dear Mom and Dad, I am thrilled to tell you that I have finally won the first prize in the National English Speaking Contest. The moment I stepped off the stage, the first thing I wanted to do was to write and thank you, because this honour belongs to you as much as to me.I still remember how you supported me along the way. On those cold winter nights when I practised my speech again and again, Mom, you always stayed up with me and brought me warm milk. Dad, whenever I felt like giving up, your quiet encouragement pulled me back. Without your patience and countless small sacrifices, I could never have stood on that stage.From the bottom of my heart, thank you for everything. I promise to keep working hard and make you even prouder in the future. Please take good care of yourselves, and I will come home soon. With love, Your son, Li Hua"
+  },
+  "listening": {
+    "audio": "cet4-2016-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The International Labour Organization's key objective."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The basic social protection for the most vulnerable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Rising unemployment worldwide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Global economic recovery."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many countries have not taken measures to create enough jobs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Few countries know how to address the current economic crisis."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Few countries have realized the seriousness of the current crisis."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many countries need support to improve their people's livelihood.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The International Labour Organization says the number of people without jobs is increasing. In its latest update on global employment trends, the agency says projections of the number of unemployed people this year range from 210 million to nearly 240 million people. The report warns that 200 million poor workers are at risk of joining the ranks of people living on less than two dollars per day in the past three years. The Director-General of the International Labour Organization Juan Somavia notes that some countries have taken measures to address the effects of the global crisis. However, he points out that many countries have not done so. And based on past experiences, it takes four to five years after economic recovery for unemployment to return to pre-crisis levels. Mr. Somavia says the International Labour Organization is proposing a global jobs agreement to deal with unemployment.",
+                "zh": "国际劳工组织表示，失业人数正在增加。在其最新发布的全球就业趋势报告中，该机构称今年失业人数的预测范围在2.1亿至近2.4亿人之间。报告警告说,在过去三年里,有2亿贫困劳动者面临加入每天生活费不足两美元人群行列的风险。国际劳工组织总干事胡安·索马维亚指出,一些国家已经采取措施应对全球危机的影响。然而,他指出许多国家尚未这样做。根据以往经验,经济复苏后需要四到五年时间失业率才能恢复到危机前的水平。索马维亚先生表示,国际劳工组织正在提议一项全球就业协议来应对失业问题。"
+              },
+              {
+                "en": "\"Its key objective is to place at the center of recovery efforts, measures that would generate higher levels of employment and provide basic social protection for the most vulnerable.\"",
+                "zh": "该协议的核心目标是将能够创造更高就业水平并为最脆弱群体提供基本社会保障的措施置于复苏努力的中心。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Serve standardized food nationwide."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Put calorie information on the menu."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Increase protein content in the food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Offer convenient food to customers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will be fined."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will be closed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will get a warning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will lose customers.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Big fast food chains in New York City have started to obey a first-of-its-kind rule requiring them to post calorie counts right on the menu. Cathy Nonas is with the New York City Department of Health.",
+                "zh": "纽约市的大型快餐连锁店已开始遵守一项首创性规定,要求它们直接在菜单上标注卡路里含量。Cathy Nonas是纽约市卫生局的工作人员。"
+              },
+              {
+                "en": "\"We wanted to give people an opportunity to actually see the calories before they purchase the food and make a decision, an informed decision that if they want to make the healthier choice, if they want to eat fewer calories, they can. And we expect this will have a huge impact on obesity. And of course, if it has an impact on obesity, it will have an impact on diabetes and heart disease and high blood pressure.\"",
+                "zh": "我们希望让人们有机会在购买食物之前真正看到卡路里含量并做出决定,一个知情的决定,如果他们想做出更健康的选择,如果他们想摄入更少的卡路里,他们就可以做到。我们预计这将对肥胖产生巨大影响。当然,如果它对肥胖产生影响,它也将对糖尿病、心脏病和高血压产生影响。"
+              },
+              {
+                "en": "The new rules were introduced as part of an anti-obesity campaign that also includes a recent citywide ban on artificial trans fats in restaurant food. The menu rule only applies to restaurants that serve standardised portion sizes and have fifteen or more locations nationwide.",
+                "zh": "这些新规定是作为抗肥胖运动的一部分推出的,该运动还包括最近在全市范围内禁止在餐厅食品中使用人工反式脂肪。该菜单规定仅适用于提供标准化份量并在全国拥有十五家或更多门店的餐厅。"
+              },
+              {
+                "en": "Starting last Saturday, chains big enough to fall under the rule will face penalties of up to 2000 dollars for not showing calorie information in a prominent spot on their menus, preferably next to the price.",
+                "zh": "从上周六开始,规模足够大而受该规定约束的连锁店如果不在菜单的显著位置(最好在价格旁边)显示卡路里信息,将面临最高2000美元的罚款。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Inability to implement their business plans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inability to keep turning out novel products."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lack of a successful business model of their own."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Failure to integrate innovation into their business."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the secret to business success."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the creation of something new."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a magic tool to bring big rewards."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is an essential part of business culture."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its hardworking employees."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its flexible promotion strategy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its innovation culture."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its willingness to make investments."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Almost all companies recognize the importance of innovation today, but not many are able to integrate innovation into their business. A commentary in the Shanghai Daily points out that innovation doesn't mean piles of documents. It is something more practical. The article says many people tend to assume that innovation just means creating something new, but actually it's more than that. It's an attitude of doing things. A company should find ways to innovate not just in products but also in functions, business models and processes.",
+                "zh": "几乎所有公司都认识到创新在当今的重要性,但能够将创新融入业务的公司并不多。《上海日报》的一篇评论指出,创新并不意味着成堆的文件,它是更实际的东西。文章说,许多人倾向于认为创新只是意味着创造新事物,但实际上远不止于此。它是一种做事的态度。一家公司应该找到方法,不仅在产品上创新,还要在职能、商业模式和流程上创新。"
+              },
+              {
+                "en": "The article cites the global giant Procter & Gamble as an example, saying a real innovative company should develop an innovation culture and use it as a primary tool for success. Procter & Gamble has a \"Corporate Innovation Fund\" which offers big rewards for high-risk ideas that succeed. It also has a special innovation facility for its employees. Sometimes its employees are released from their daily jobs for weeks and spend their time interacting in the innovation facility instead. In conclusion, the article says innovative ideas alone do not ensure success. It's pointless unless there is a repeatable process in place to turn inspiration into financial performance.",
+                "zh": "文章以全球巨头宝洁公司为例,指出真正的创新型公司应该培养创新文化,并将其作为成功的主要工具。宝洁公司设有\"企业创新基金\",为成功的高风险创意提供丰厚奖励。它还为员工设有专门的创新设施。有时员工会从日常工作中解脱出来数周,将时间花在创新设施中进行互动。文章最后指出,仅有创新想法并不能确保成功。除非有可重复的流程将灵感转化为财务业绩,否则就毫无意义。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He's got addicted to technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is not very good at socializing"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is crazy about text-messaging."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He does not talk long on the phone."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Talk big."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Talk at length."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Gossip a lot."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Forget herself."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He thought it was cool."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He needed the practice."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He wanted to stay connected with them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He had an urgent message to send."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It poses a challenge to seniors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It saves both time and money."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is childish and unprofessional."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is cool and convenient.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: So, Lyndsay, do you like to text message on your cell phone?",
+                "zh": "M: 那么，Lyndsay，你喜欢用手机发短信吗？"
+              },
+              {
+                "en": "W: Yeah, I text message a lot.",
+                "zh": "W: 是的，我经常发短信。"
+              },
+              {
+                "en": "M: I don't do it so much. I prefer to make a call if I'm in a hurry.",
+                "zh": "M: 我不怎么发。如果我赶时间的话，我更喜欢打电话。"
+              },
+              {
+                "en": "W: Yeah, I go both ways. Sometimes I don't really want to talk to the person. I just want to ask them one question, so it's much easier for me just to text message. If I call them, I'll have to have a long conversation.",
+                "zh": "W: 嗯，我两种方式都用。有时候我不是真的想跟那个人说话，我只是想问他们一个问题，所以对我来说发短信要容易得多。如果我打电话给他们，就得聊很长时间。"
+              },
+              {
+                "en": "M: Yeah, I can see what you mean. But I get off the phone pretty quickly when I call. I'm not a big talker.",
+                "zh": "M: 是的，我明白你的意思。但我打电话的时候挂得很快。我不是一个话多的人。"
+              },
+              {
+                "en": "W: Yeah, that's true. You don't talk a lot.",
+                "zh": "W: 是的，没错。你话不多。"
+              },
+              {
+                "en": "M: So are you fast at writing the messages with your thumb?",
+                "zh": "M: 那你用大拇指打字快吗？"
+              },
+              {
+                "en": "W: Well, when I first got a cell phone, I was so slow. I thought I would never text message. But then people kept text messaging me, so I felt obliged to learn how to text message. So now I'm pretty fast. What about you?",
+                "zh": "W: 嗯，我刚拿到手机的时候特别慢。我当时觉得我永远不会发短信。但后来人们不停地给我发短信，所以我觉得有必要学会怎么发短信。所以现在我挺快的。你呢？"
+              },
+              {
+                "en": "M: Actually I have the opposite problem. When I first got my cell phone, I thought it was so cool to text message all my friends who have one, and I was pretty fast with my thumb then. But it seems like now I don't use it so much. I've gotten slower actually.",
+                "zh": "M: 实际上我的问题正相反。我刚拿到手机的时候，我觉得给所有有手机的朋友发短信特别酷，那时候我用大拇指打字还挺快的。但现在好像不怎么用了，实际上变慢了。"
+              },
+              {
+                "en": "W: Yeah, I think text-messaging actually sort of has to do with your age. For example, people in high school, they text message a lot. But I asked my father if he texted messages, and guess what he said?",
+                "zh": "W: 是啊，我觉得发短信其实跟年龄有关。比如说，高中生他们发很多短信。但我问我爸爸他发不发短信，你猜他怎么说？"
+              },
+              {
+                "en": "M: What?",
+                "zh": "M: 什么？"
+              },
+              {
+                "en": "W: He said he'd never text message. He thinks it's very childish and unprofessional to text message.",
+                "zh": "W: 他说他从不发短信。他认为发短信很幼稚，很不专业。"
+              },
+              {
+                "en": "M: Yeah, I can see what he means. It's considered pretty informal to text message someone.",
+                "zh": "M: 是的，我明白他的意思。给别人发短信被认为是相当不正式的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He wants to change his job assignment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is unhappy with his department manager"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He thinks he deserves extra pay for overtime."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is often singled out for criticism by his boss"
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His workload was much too heavy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His immediate boss did not trust him"
+                  },
+                  {
+                    "l": "C",
+                    "t": "His colleagues often refused to cooperate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His salary was too low for his responsibility"
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He never knows how to refuse."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is always ready to help others"
+                  },
+                  {
+                    "l": "C",
+                    "t": "His boss has a lot of trust in him."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His boss has no sense of fairness."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Put all his complaints in writing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Wait and see what happens next."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Learn to say no when necessary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Talk to his boss in person first."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Good morning, Mr. Johnson. How can I help you?",
+                "zh": "W: 早上好,Johnson先生。有什么可以帮您的吗?"
+              },
+              {
+                "en": "M: Well, I'd like to talk to you about Tim Bond, the department manager.",
+                "zh": "M: 嗯,我想和您谈谈部门经理Tim Bond的事。"
+              },
+              {
+                "en": "W: What seems to be the problem?",
+                "zh": "W: 有什么问题吗?"
+              },
+              {
+                "en": "M: Well, ever since Sandra left the department, I feel like I've been targeted to do all her work as well as mine. I'm expected to attend too many meetings and I seem to be spending a lot of my time doing unnecessary paperwork.",
+                "zh": "M: 嗯,自从Sandra离开部门后,我感觉我被指定要做她所有的工作以及我自己的工作。我要参加太多会议,而且我似乎把大量时间都花在做不必要的文书工作上。"
+              },
+              {
+                "en": "W: I'm sorry to hear that.",
+                "zh": "W: 听到这个我很遗憾。"
+              },
+              {
+                "en": "M: And, on top of that, I'd specifically asked if I could leave early last Friday as I'd done a lot of overtime during the week. But that afternoon, even though I'd finished my assigned work, I was told to help other colleagues finish their work, too.",
+                "zh": "M: 而且,最重要的是,我特别要求上周五能早点下班,因为我那周加了很多班。但那天下午,尽管我已经完成了分配给我的工作,我还是被告知要帮其他同事完成他们的工作。"
+              },
+              {
+                "en": "W: But surely that's a positive sign showing that Mr. Bond has a lot of trust in you.",
+                "zh": "W: 但这肯定是个积极的信号,说明Bond先生非常信任您。"
+              },
+              {
+                "en": "M: Yes, but other colleagues get to leave early, and they don't have such a lot of work to do.",
+                "zh": "M: 是的,但其他同事可以早退,而且他们没有这么多工作要做。"
+              },
+              {
+                "en": "W: So you feel he's been making unrealistic demands on you?",
+                "zh": "W: 所以您觉得他对您提出了不切实际的要求?"
+              },
+              {
+                "en": "M: Yes, absolutely.",
+                "zh": "M: 是的,完全是这样。"
+              },
+              {
+                "en": "W: Have you approached Mr. Bond about this particular problem?",
+                "zh": "W: 您就这个具体问题找过Bond先生谈吗?"
+              },
+              {
+                "en": "M: I've tried, but it seems like he just has no time for me.",
+                "zh": "M: 我试过,但他似乎根本没时间理我。"
+              },
+              {
+                "en": "W: Well, at this stage, it would be better if you approached him directly. If nothing else, showing that you've tried to solve the problem yourself, before you take it further, makes it clear that you're not just a complainer. Why don't you send an email requesting a meeting with him in private?",
+                "zh": "W: 好吧,在这个阶段,您最好直接找他谈。如果没有别的办法,至少表明在把问题提交上来之前,您已经尝试自己解决问题了,这清楚地表明您不只是个抱怨者。您为什么不发封邮件要求和他私下见面呢?"
+              },
+              {
+                "en": "M: Hmm, I'd be a bit worried about his reaction. But anyway I'll send him an email to request a meeting, and I'll see what happens from there. Thanks for your advice.",
+                "zh": "M: 嗯,我会有点担心他的反应。但无论如何,我会给他发封邮件要求见面,然后看看会怎么样。谢谢您的建议。"
+              },
+              {
+                "en": "W: Good luck. And let us know the outcome.",
+                "zh": "W: 祝您好运。有结果了告诉我们。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The importance of sleep to a healthy life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Reasons for Americans' decline in sleep."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some tips to improve the quality of sleep."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Diseases associated with lack of sleep."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are more health-conscious."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are changing their living habits."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They get less and less sleep."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They know the dangers of lack of sleep."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their weight will go down."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their mind function will deteriorate."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their work efficiency will decrease."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their blood pressure will rise.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The massive decline in sleep happened so slowly and quietly that few seemed to notice the trend. Was it because of the growing attraction of the Internet, video games and endless TV channels? Never disconnecting from work? No matter how it happened, millions of Americans are putting their health, quality of life and even length of life in danger.",
+                "zh": "睡眠的大幅减少发生得如此缓慢而悄无声息，以至于很少有人注意到这一趋势。这是因为互联网、电子游戏和无穷无尽的电视频道日益增长的吸引力吗？还是因为从不从工作中脱离？无论是如何发生的,数以百万计的美国人正在将他们的健康、生活质量甚至寿命置于危险之中。"
+              },
+              {
+                "en": "New evidence shows why getting enough sleep is a top priority. Some 40% of Americans get less than seven hours of shut-eye on weeknights. \"The link between sleep and health, and bad sleep and disease is becoming clearer and clearer,\" says Lawrence Epstein, a sleep expert at Harvard University. For example, sleep duration has declined from some eight hours in the 1950s to seven in recent years. At the same time, high blood pressure has become an increasing problem. Blood pressure and heart rate are typically at their lowest levels during sleep. People who sleep less tend to have higher blood pressure, heart attack, diabetes, weight gain and other problems.",
+                "zh": "新的证据表明为什么获得充足的睡眠是头等大事。约40%的美国人在工作日夜晚的睡眠时间少于七小时。哈佛大学睡眠专家Lawrence Epstein说:\"睡眠与健康之间的联系,以及睡眠不足与疾病之间的联系正变得越来越清晰。\"例如,睡眠时长已从20世纪50年代的约八小时下降到近年来的七小时。与此同时,高血压已成为一个日益严重的问题。血压和心率通常在睡眠期间处于最低水平。睡眠较少的人往往有更高的血压、心脏病发作、糖尿病、体重增加和其他问题。"
+              },
+              {
+                "en": "Sleeping better may help fight off illness. \"When people are sleep-deprived, there are higher levels of stress hormones in their bodies, which can decrease immune function,\" says Doctor Felice of Northwestern University in Chicago. A university of Chicago study shows people who sleep well live longer. So say good night sooner and it may help you stay active and vital to a ripe old age.",
+                "zh": "更好的睡眠可能有助于抵抗疾病。芝加哥西北大学的Felice医生说:\"当人们睡眠不足时,他们体内的应激激素水平会升高,这会降低免疫功能。\"芝加哥大学的一项研究表明,睡眠良好的人寿命更长。所以早点说晚安吧,这可能有助于你保持活跃和充满活力直到高龄。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How much you can afford to pay."
+                  },
+                  {
+                    "l": "B",
+                    "t": "What course you are going to choose."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Which university you are going to apply to."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When you are going to submit your application."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The list of courses studied."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The full record of scores."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The references from teachers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The personal statement."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Specify what they would like to do after graduation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Describe in detail how much they would enjoy studying."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Indicate they have reflected and thought about the subject."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Emphasize that they admire the professors in the university.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Parents and teachers will tell you not to worry when applying for a place at university, but in the same breath we'll remind you that it is the most important decision of your life.",
+                "zh": "家长和老师会告诉你在申请大学时不要担心,但同时又会提醒你这是你人生中最重要的决定。"
+              },
+              {
+                "en": "The first decision is your choice of course. It will depend on what you want to get out of university, what you are good at and what you enjoy. The next decision is where to apply. Aim high but within reason. Do you have the right combination of subjects and are your expected grades likely to meet entry requirements? The deadline is January 15th. But it is best to submit your application early because universities begin work as soon as forms start rolling in.",
+                "zh": "第一个决定是你的课程选择。这取决于你想从大学获得什么、你擅长什么以及你喜欢什么。下一个决定是申请哪里。目标要高但要合理。你是否具备正确的科目组合,你的预期成绩是否可能达到入学要求?截止日期是1月15日。但最好尽早提交申请,因为大学一旦开始收到表格就会立即开展工作。"
+              },
+              {
+                "en": "The most important part of the application is the much feared personal statement. This is your chance to convey boundless enthusiasm for the subject. So economy of expression is foremost. Omit dull and ineffective generalities and make sure you give concrete examples.",
+                "zh": "申请中最重要的部分是令人畏惧的个人陈述。这是你传达对该学科无限热情的机会。因此简洁表达是首要的。省略枯燥无效的泛泛之谈,确保给出具体例子。"
+              },
+              {
+                "en": "Admissions officers read every personal statement that arrives. It is not convincing if you say you have chosen the subject because you enjoy it. You have to get across what it is about a particular area that has inspired you. They will look for evidence that you have reflected and thought about the subject.",
+                "zh": "招生官会阅读每一份个人陈述。如果你说选择这个学科是因为你喜欢它,这并不令人信服。你必须表达出某个特定领域的哪些方面激发了你的灵感。他们会寻找证据证明你对该学科进行了反思和思考。"
+              },
+              {
+                "en": "Applicants should be honest. There is no point saying you run marathons if you are going to be out of breath arriving at the interview on the second floor.",
+                "zh": "申请者应该诚实。如果你到达二楼面试时会上气不接下气,那说自己跑马拉松就毫无意义。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was equipped with rubber tyres."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was built in the late 19th century."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was purchased by the Royal family."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was designed by an English engineer."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They consumed lots of petrol."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They took two passengers only."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were difficult to drive."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They often broke down."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were produced on the assembly line."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were built with less costly materials."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were modeled after British cars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were made for ordinary use."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It made news all over the world."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was built for the Royal family."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It marked a new era in motor travel."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It attracted large numbers of motorists."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It is usually agreed that a German, Carl Benz, built the first motor car in 1885. It was actually a tricycle with a petrol motor at the rear. Soon, members of the Royal family and other wealthy people took up motoring as a sport. Many of the early cars had two seats. There were no petrol pumps and few garages, so every driver had to be his own engineer for the frequent breakdowns.",
+                "zh": "人们通常认为德国人Carl Benz于1885年制造了第一辆汽车。它实际上是一辆后部装有汽油发动机的三轮车。很快,王室成员和其他富人将驾车作为一项运动。许多早期汽车有两个座位。当时没有加油站,车库也很少,因此每个司机都必须成为自己的工程师来应对频繁的故障。"
+              },
+              {
+                "en": "By 1905, cars began to look like cars of today, with headlamps, windscreen, rubber tyres and number plates. Henry Ford's Model T introduced in America in 1909 was cheaper because it was made on the assembly line. It brought cars closer towards the reach of ordinary people. With the popularity of the car, registration became a must in 1903 with the Motor Car Act. Competency tests were introduced in 1935.",
+                "zh": "到1905年,汽车开始看起来像今天的汽车,配有前照灯、挡风玻璃、橡胶轮胎和车牌。Henry Ford的Model T于1909年在美国推出,因为采用装配线生产而更便宜。它使汽车更接近普通人的购买能力。随着汽车的普及,1903年《汽车法》规定登记成为必须。1935年引入了驾驶能力测试。"
+              },
+              {
+                "en": "Today, the legal driving age for a car in the UK is 17. You are not allowed to drive a car unsupervised until you have passed a driving test. In 1958, Britain celebrated the opening of its first motorway—the Preston Bypass. Until then, no one really understood what a motorway was, not even the laborers who were building it. The bypass hailed a new era in motor travel and was greeted with excitement and optimism. Service stations came with the motorway and the legend of the transport cafe was born. Of course, the service station has diversified greatly. But whether it's an English-cooked breakfast or a coffee and a sandwich, one thing has remained the same: the prices.",
+                "zh": "如今,英国的法定汽车驾驶年龄是17岁。在通过驾驶考试之前,不允许无人监督驾驶汽车。1958年,英国庆祝其第一条高速公路Preston Bypass的开通。在那之前,没有人真正理解什么是高速公路,甚至建造它的工人也不理解。这条旁道开启了汽车旅行的新时代,受到了兴奋和乐观的欢迎。服务站随高速公路而来,运输咖啡馆的传奇由此诞生。当然,服务站已经大大多样化了。但无论是英式熟食早餐还是咖啡加三明治,有一件事始终没变:价格。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2016-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Contrary to popular belief, older people generally do not want to live with their children. Moreover, most adult children"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "every bit as much care and support to their aging parents as was the case in the \"good old days\", and most older people do not feel"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". About 80％ of people 65 years and older have living children, and about 90％ of them have"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "contact with their children. About 75％ of elderly parents who don't go to nursing homes live within 30 minutes of at least one of their children. However,"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "having contact with children does not guarantee happiness in old age. In fact, some research has found that people who are most involved with their families have the lowest spirits. This research may be"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ", however, as ill health often makes older people more"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "and thereby increases contact with family members. So it is more likely that poor health, not just family involvement,"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "spirits. Increasingly, researchers have begun to look at the quality of relationships, rather than at the frequency of contact, between the elderly and their children. If parents and children share interests and values and agree on childrearing practices and religious"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ", they are likely to enjoy each other's company. Disagreements on such matters can"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "cause problems. If parents are angered by their daughter's divorce, dislike her new husband, and disapprove of how she is raising their grandchildren,"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "are that they are not going to enjoy her visits."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "abandoned"
+        },
+        {
+          "l": "B",
+          "w": "advanced"
+        },
+        {
+          "l": "C",
+          "w": "biased"
+        },
+        {
+          "l": "D",
+          "w": "chances"
+        },
+        {
+          "l": "E",
+          "w": "commitment"
+        },
+        {
+          "l": "F",
+          "w": "dampens"
+        },
+        {
+          "l": "G",
+          "w": "dependent"
+        },
+        {
+          "l": "H",
+          "w": "distant"
+        },
+        {
+          "l": "I",
+          "w": "frequent"
+        },
+        {
+          "l": "J",
+          "w": "fulfillment"
+        },
+        {
+          "l": "K",
+          "w": "grant"
+        },
+        {
+          "l": "L",
+          "w": "merely"
+        },
+        {
+          "l": "M",
+          "w": "provide"
+        },
+        {
+          "l": "N",
+          "w": "understandably"
+        },
+        {
+          "l": "O",
+          "w": "unrealistically"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "M"
+        },
+        {
+          "n": 27,
+          "a": "A"
+        },
+        {
+          "n": 28,
+          "a": "I"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "G"
+        },
+        {
+          "n": 32,
+          "a": "F"
+        },
+        {
+          "n": 33,
+          "a": "E"
+        },
+        {
+          "n": 34,
+          "a": "N"
+        },
+        {
+          "n": 35,
+          "a": "D"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Could Food Shortages Bring Down Civilization?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "For many years I have studied global agricultural, population, environmental and economic trends and their interactions. The combined effects of those trends and the political tensions they generate point to the breakdown of governments and societies. Yet I, too, have resisted the idea that food shortages could bring down not only individual governments but also our global civilization."
+        },
+        {
+          "l": "B",
+          "t": "I can no longer ignore that risk. Our continuing failure to deal with the environmental declines that are undermining the world food economy forces me to conclude that such a collapse is possible."
+        },
+        {
+          "l": "C",
+          "t": "As demand for food rises faster than supplies are growing, the resulting food-price inflation puts severe stress on the governments of many countries. Unable to buy grain or grow their own, hungry people take to the streets. Indeed, even before the steep climb in grain prices in 2008, the number of failing states was expanding. If the food situation continues to worsen, entire nations will break down at an ever increasing rate. In the 20th century the main threat to international security was superpower conflict; today it is failing states."
+        },
+        {
+          "l": "D",
+          "t": "States fail when national governments can no longer provide personal security, food security and basic social services such as education and health care. When governments lose their control of power, law and order begins to disintegrate. After a point, countries can become so dangerous that food relief workers are no longer safe and their programs are halted. Failing states are of international concern because they are a source of terrorists, drugs, weapons and refugees(难民) threatening political stability everywhere."
+        },
+        {
+          "l": "E",
+          "t": "The surge in world grain prices in 2007 and 2008—and the threat they pose to food security—has a different, more troubling quality than the increases of the past. During the second half of the 20th century, grain prices rose dramatically several times. In 1972, for instance, the Soviets, recognizing their poor harvest early, quietly cornered the world wheat market. As a result, wheat prices elsewhere more than doubled, pulling rice and corn prices up with them. But this and other price shocks were event-driven—drought in the Soviet Union, crop-shrinking heat in the U.S. Corn Belt. And the rises were short-lived: prices typically returned to normal with the next harvest."
+        },
+        {
+          "l": "F",
+          "t": "In contrast, the recent surge in world grain prices is trend-driven, making it unlikely to reverse without a reversal in the trends themselves. On the demand side, those trends include the ongoing addition of more than 70 million people a year, a growing number of people wanting to move up the food chain to consume highly grain-intensive meat products, and the massive diversion(转向) of U.S. grain to the production of bio- fuel."
+        },
+        {
+          "l": "G",
+          "t": "As incomes rise among low-income consumers, the potential for further grain consumption is huge. But that potential pales beside the never-ending demand for crop-based fuels. A fourth of this year's U.S. grain harvest will go to fuel cars."
+        },
+        {
+          "l": "H",
+          "t": "What about supply? The three environmental trends-the shortage of fresh water, the loss of topsoil and the rising temperatures-are making it increasingly hard to expand the world's grain supply fast enough to keep up with demand. Of all those trends, however, the spread of water shortages poses the most immediate threat. The biggest challenge here is in irrigation, which consumes 70％ of the world's fresh water. Millions of irrigation wells in many countries are now pumping water out of underground sources faster than rainfall can refill them. The result is falling water tables(地下水位) in countries with half the world's people, including the three big grain producers—China, India and the U.S."
+        },
+        {
+          "l": "I",
+          "t": "As water tables have fallen and irrigation wells have gone dry, China's wheat crop, the world's largest, has declined by 8％ since it peaked at 123 million tons in 1997. But water shortages are even more worrying in India. Millions of irrigation wells have significantly lowered water tables in almost every state."
+        },
+        {
+          "l": "J",
+          "t": "As the world's food security falls to pieces, individual countries acting in their own self-interest are actually worsening the troubles of many. The trend began in 2007, when leading wheat-exporting countries such as Russia and Argentina limited or banned their exports, in hopes of increasing local food supplies and thereby bringing down domestic food prices. Vietnam banned its exports for several months for the same reason. Such moves may eliminate the fears of those living in the exporting countries, but they are creating panic in importing countries that must rely on what is then left for export."
+        },
+        {
+          "l": "K",
+          "t": "In response to those restrictions, grain-importing countries are trying to nail down long-term trade agreements that would lock up future grain supplies. Food-import anxiety is even leading to new efforts by food- importing countries to buy or lease farmland in other countries. In spite of such temporary measures, soaring food prices and spreading hunger in many other countries are beginning to break down the social order."
+        },
+        {
+          "l": "L",
+          "t": "Since the current world food shortage is trend-driven, the environmental trends that cause it must be reversed. We must cut carbon emissions by 80% from their 2006 levels by 2020, stabilize the world's population at eight billion by 2040, completely remove poverty, and restore forests and soils. There is nothing new about the four objectives. Indeed, we have made substantial progress in some parts of the world on at least one of these—the distribution of family-planning services and the associated shift to smaller families."
+        },
+        {
+          "l": "M",
+          "t": "For many in the development community, the four objectives were seen as positive, promoting development as long as they did not cost too much. Others saw them as politically correct and morally appropriate. Now a third and far more significant motivation presents itself: meeting these goals may be necessary to prevent the collapse of our civilization. Yet the cost we project for saving civilization would amount to less than $200 billion a year, 1/6 of current global military spending. In effect, our plan is the new security budget."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "The more recent steep climb in grain prices partly results from the fact that more and more people want to consume meat products.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "Social order is breaking down in many countries because of food shortages.",
+          "a": "K"
+        },
+        {
+          "n": 38,
+          "s": "Rather than superpower conflict, countries unable to cope with food shortages now constitute the main threat to world security.",
+          "a": "C"
+        },
+        {
+          "n": 39,
+          "s": "Some parts of the world have seen successful implementation of family planning.",
+          "a": "L"
+        },
+        {
+          "n": 40,
+          "s": "The author has come to agree that food shortages could ultimately lead to the collapse of world civilization.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "Increasing water shortages prove to be the biggest obstacle to boosting the world's grain production.",
+          "a": "H"
+        },
+        {
+          "n": 42,
+          "s": "The cost for saving our civilization would be considerably less than the world's current military spending.",
+          "a": "M"
+        },
+        {
+          "n": 43,
+          "s": "To lower domestic food prices, some countries limited or stopped their grain exports.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "Environmental problems must be solved to ease the current global food shortage.",
+          "a": "L"
+        },
+        {
+          "n": 45,
+          "s": "A quarter of this year's American grain harvest will be used to produce bio-fuel for cars.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Declining mental function is often seen as a problem of old age, but certain aspects of brain function actually begin their decline in young adulthood, a new study suggests. The study, which followed more than 2,000 healthy adults between the ages of 18 and 60, found that certain mental functions—including measures of abstract reasoning, mental speed and puzzle-solving—started to dull as early as age 27. Dips in memory, meanwhile, generally became apparent around age 37. On the other hand, indicators of a person's accumulated knowledge—like performance on tests of vocabulary and general knowledge—kept improving with age, according to findings published in the journal Neurobiology of Aging. The results do not mean that young adults need to start worrying about their memories. Most people's minds function at a high level even in their later years, according to researcher Timothy Salthouse. \"These patterns suggest that some types of mental flexibility decrease relatively early in adulthood, but that the amount of knowledge one has, and the effectiveness of integrating it with one's abilities, may increase throughout all of adulthood if there are no diseases,\" Salthouse said in a news release. The study included healthy, educated adults who took standard tests of memory, reasoning and perception at the outset and at some point over the next seven years. The tests are designed to detect subtle(细微的) changes in mental function, and involve solving puzzles, recalling words and details from stories, and identifying patterns in collections of letters and symbols. In general, Salthouse and his colleagues found, certain aspects of cognition(认知能力) generally started to decline in the late 20s to 30s. The findings shed light on normal age-related changes in mental function, which could aid in understanding the process of dementia(痴呆), according to the researchers. \"By following individuals over time,\" Salthouse said, \"we gain insight into cognition changes, and may possibly discover ways to slow the rate of decline.\" The researchers are currently analyzing the study participants' health and lifestyle to see which factors might influence age-related cognitive changes.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What is the common view of mental function?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It varies from person to person."
+              },
+              {
+                "l": "B",
+                "t": "It weakens in one's later years."
+              },
+              {
+                "l": "C",
+                "t": "It gradually expands with age."
+              },
+              {
+                "l": "D",
+                "t": "It indicates one's health condition"
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What does the new study find about mental functions?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Some diseases inevitably lead to their decline."
+              },
+              {
+                "l": "B",
+                "t": "They reach a peak at the age of 20 for most people."
+              },
+              {
+                "l": "C",
+                "t": "They are closely related to physical and mental exercise."
+              },
+              {
+                "l": "D",
+                "t": "Some of them begin to decline when people are still young."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What does Timothy Salthouse say about people's minds in most cases?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They tend to decline in people's later years."
+              },
+              {
+                "l": "B",
+                "t": "Their flexibility determines one's abilities."
+              },
+              {
+                "l": "C",
+                "t": "They function quite well even in old age."
+              },
+              {
+                "l": "D",
+                "t": "Their functioning is still a puzzle to be solved."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "Although people's minds may function less flexibly as they age, they_______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "may be better at solving puzzles"
+              },
+              {
+                "l": "B",
+                "t": "can memorize things with more ease"
+              },
+              {
+                "l": "C",
+                "t": "may have greater facility in abstract reasoning"
+              },
+              {
+                "l": "D",
+                "t": "can put what they have learnt into more effective use"
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "According to Salthouse, their study may help us _______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "find ways to slow down our mental decline"
+              },
+              {
+                "l": "B",
+                "t": "find ways to boost our memories"
+              },
+              {
+                "l": "C",
+                "t": "understand the complex process of mental functioning"
+              },
+              {
+                "l": "D",
+                "t": "understand the relation between physical and mental health"
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The most important thing in the news last week was the rising discussion in Nashville about the educational needs of children. The shorthand(简写) educators use for this is \"pre-K\"—meaning instruction before kindergarten —and the big idea is to prepare 4-year-olds and even younger kids to be ready to succeed on their K-12 journey. But it gets complicated. The concept has multiple forms, and scholars and policymakers argue about the shape, scope and cost of the ideal program. The federal Head Start program, launched 50 years ago, has served more than 30 million children. It was based on concepts developed at Vanderbilt University's Peabody College by Susan Gray, the legendary pioneer in early childhood education research. A new Peabody study of the Tennessee Voluntary Pre-K program reports that pre-K works, but the gains are not sustained through the third grade. It seems to me this highlights quality issues in elementary schools more than pre-K, and indicates longer-term success must connect pre-K with all the other issues related to educating a child. Pre-K is controversial. Some critics say it is a luxury and shouldn't be free to families able to pay. Pre-K advocates insist it is proven and will succeed if integrated with the rest of the child's schooling. I lean toward the latter view. This is, in any case, the right conversation to be having now as Mayor Megan Barry takes office. She was the first candidate to speak out for strong pre-K programming. The important thing is for all of us to keep in mind the real goal and the longer, bigger picture. The weight of the evidence is on the side of pre-K that early intervention(干预) works. What government has not yet found is the political will to put that understanding into full practice with a sequence of smart schooling that provides the early foundation. For this purpose, our schools need both the talent and the organization to educate each child who arrives at the schoolhouse door. Some show up ready, but many do not at this critical time when young brains are developing rapidly.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about pre-kindergarten education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It should cater to the needs of individual children."
+              },
+              {
+                "l": "B",
+                "t": "It is essential to a person's future academic success."
+              },
+              {
+                "l": "C",
+                "t": "Scholars and policymakers have different opinions about it."
+              },
+              {
+                "l": "D",
+                "t": "Parents regard it as the first phase of children's development."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What does the new Peabody study find?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Pre-K achievements usually do not last long."
+              },
+              {
+                "l": "B",
+                "t": "The third grade marks a new phase of learning."
+              },
+              {
+                "l": "C",
+                "t": "The third grade is critical to children's development."
+              },
+              {
+                "l": "D",
+                "t": "Quality has not been the top concern of pre-K programs."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "When does the author think pre-K works the best?",
+            "o": [
+              {
+                "l": "A",
+                "t": "When it is accessible to kids of all families."
+              },
+              {
+                "l": "B",
+                "t": "When it is made part of kids' education."
+              },
+              {
+                "l": "C",
+                "t": "When it is no longer considered a luxury."
+              },
+              {
+                "l": "D",
+                "t": "When it is made fun and enjoyable to kids."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What do we learn about Mayor Megan Barry?",
+            "o": [
+              {
+                "l": "A",
+                "t": "She knows the real goal of education."
+              },
+              {
+                "l": "B",
+                "t": "She is a mayor of insight and vision."
+              },
+              {
+                "l": "C",
+                "t": "She has once run a pre-K program."
+              },
+              {
+                "l": "D",
+                "t": "She is a firm supporter of pre-K."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does the author think is critical to kids' education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Teaching method."
+              },
+              {
+                "l": "B",
+                "t": "Kids' interest."
+              },
+              {
+                "l": "C",
+                "t": "Early intervention."
+              },
+              {
+                "l": "D",
+                "t": "Parents' involvement."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "乌镇是浙江的一座古老水镇, 坐落在京杭大运河畔。这是一处迷人的地方, 有许多古桥、中式旅店和餐 馆。在过去一千年里, 乌镇的水系和生活方式并未经历多少变化, 是一座展现古文明的博物馆。乌镇所有房屋 都用石木建造。数百年来, 当地人沿着河边建起了住宅和集市。无数宽敞美丽的庭院藏身于屋舍之间, 游客们 每到一处都会有惊喜的发现。",
+    "reference": "Wuzhen is an ancient water town in Zhejiang, located on the bank of the Beijing-Hangzhou Grand Canal. It is a charming place with many ancient bridges, Chinese-style inns and restaurants. Over the past thousand years, the water system and way of life in Wuzhen have changed little. It is a museum that showcases ancient civilization. All the houses in Wuzhen are built of stone and wood. Over the centuries, local people have built houses and markets along the river. Countless spacious and beautiful courtyards are hidden among the houses, and visitors will make a pleasant discovery wherever they go."
+  }
+}

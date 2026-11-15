@@ -1,0 +1,1409 @@
+{
+  "id": "cet6-2015-12-1",
+  "level": "cet6",
+  "year": 2015,
+  "month": 12,
+  "set": 1,
+  "title": "2015年12月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay based on the picture below. You should focus on the harm caused by misleading information online. You are required to write at least 150 words but no more than 200 words.",
+    "sample": "As is vividly depicted in the cartoon, a man sitting at his desk in front of a computer complains to a woman by the door, \"I just feel unfortunate to live in a world with so much misleading information!\" Simple as it is, the drawing conveys a thought-provoking message about how false and misleading content online has become an inescapable part of our daily lives.The picture points to the alarming harm that misleading information does to modern society. To begin with, false content distorts people's judgment: readers who trust unverified rumors may make wrong decisions about their health, money or safety. Furthermore, when lies spread faster than facts, public trust in media and institutions is gradually undermined, leaving society more divided. Worse still, sensational fake news can trigger needless panic, as groundless claims once drove crowds to panic-buy daily necessities.In view of the above, it is high time that we took online misinformation seriously. Individuals should verify information before sharing it, and platforms ought to filter out false content responsibly. Only in this way can we enjoy a cleaner and more trustworthy online world."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Touch his heart."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make him cry."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Remind him of his life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make him feel young."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is good at singing operas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He enjoys complicated music."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He can sing any song if he likes it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He loves country music in particular."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He can't do such a complicated piece of music as the opera."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He can't sing a song that he doesn't like."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He can't concentrate on his singing sometimes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He can't play musical instrument while singing."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Go to a bar and drink for hours."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Go to an isolated place to sing blues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Go to see a performance in a concert hall."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Go to work and wrap himself up in music.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Charles, as a singer, do you ever make yourself cry when you sing?",
+                "zh": "W: 查尔斯，作为一名歌手，你唱歌时会不会唱到让自己流泪？"
+              },
+              {
+                "en": "M: No, not at this stage. I'm an old man. But the songs can still get through to me.",
+                "zh": "M: 不会了，到了我这个年纪不会。我已经是个老人了。不过，这些歌仍然能打动我。"
+              },
+              {
+                "en": "W: What song writers are currently exciting you?",
+                "zh": "W: 目前有哪些歌曲作者让你感到兴奋？"
+              },
+              {
+                "en": "M: I don't know much about song writers. Once in a while, I'll listen to the radio to see what they are putting out. But it's not too often I hear something like that. Somebody like Art Tatum can make me sit up and take notice. But some music, like Rap, isn't very musical, and I can't learn anything from it. You got to do something more than talk to me.",
+                "zh": "M: 我对歌曲作者了解不多。偶尔我会听听收音机，看看他们推出了什么作品。但我不常听到那种能打动我的东西。像阿特·塔图姆这样的人，会让我精神一振、留心倾听。不过，有些音乐，比如说唱，并不怎么有音乐性，我也无法从中学到任何东西。你得做点不只是跟我说话的事。"
+              },
+              {
+                "en": "W: What's the most difficult kind of music to sing?",
+                "zh": "W: 哪一种音乐最难唱？"
+              },
+              {
+                "en": "M: It depends. If I like something, I can sing it. I did the opera Porgy and Bess, and that's said to be a complicated piece of music. And I can do country music, blues and love songs. On the other hand, I can't sing something I don't like and that's one of my defects.",
+                "zh": "M: 这要看情况。如果我喜欢某首歌，我就能唱。我演唱过歌剧《波吉与贝丝》，据说那是一部很复杂的音乐作品。而且乡村音乐、布鲁斯和情歌我都能唱。另一方面，我不喜欢的东西我就唱不了，这也是我的一个缺点。"
+              },
+              {
+                "en": "W: Can you perform music that's out of tune with the mood you might be in on a given night?",
+                "zh": "W: 在某个晚上，如果你的情绪与音乐不合，你还能演出那种音乐吗？"
+              },
+              {
+                "en": "M: Yes, because when you sing, you are like an actor performing a part. Once you get out there you become that part, only you are using music instead of dialogue. I'm the kind of person that if my personal life is hurting, I can go to work and the music will take over. It's like a guy who goes to a bar and drinks. For those few hours, I can wrap myself up in my music.",
+                "zh": "M: 能，因为唱歌的时候，你就像演员在扮演一个角色。一旦走上台，你就会成为那个角色，只不过你用的是音乐，而不是对白。我这个人，如果个人生活中有什么烦心事，我可以去工作，让音乐接管一切。就像一个人去酒吧喝酒一样。在那几个小时里，我可以把自己完全沉浸在音乐中。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How he became an announcer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How he writes news stories."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How he makes his living."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How he does his job."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They write the first version of news stories."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They gather news stories on the spot."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They polish incoming news stories."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They write comments on major news stories."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Reading through the news stories in a given period of time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having little time to read the news before going on the air."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Having to change the tone of his voice from time to time."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Getting all the words and phrases pronounced correctly."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It shows where advertisements come in."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It gives a signal for him to slow down."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It alerts him to something important."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It serves as a reminder of sad news."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: I wonder if you could tell me a little bit about your job as a radio announcer. What do you actually do and how do you prepare for your job?",
+                "zh": "W: 我想请你介绍一下你作为电台播音员的工作。你具体做些什么？又是如何为工作做准备的？"
+              },
+              {
+                "en": "M: Well, in the news room I'm sitting with the reporters and the news subs, as though I'm sitting in a newspaper news room.",
+                "zh": "M: 嗯，在新闻编辑室里，我和记者以及新闻编辑坐在一起，就好像是在报社的新闻编辑室里一样。"
+              },
+              {
+                "en": "W: Sorry, what do you mean by news subs?",
+                "zh": "W: 抱歉，你说的“新闻编辑”是什么意思？"
+              },
+              {
+                "en": "M: They are sub-editors. They are the people who write the news stories as they come in. The stories are then passed to the senior duty editor and the assistant editor. As stories go through the chain of people, they are refined, corrected and sorted out until they come finally to me and I have a chance to read through most stories before I go on the air. Of course, sometimes things happen at the last moment and I don't have a chance. So I've just got to do my best, and take a couple of seconds to look through the first few lines before I launch into something. Because it's such a pity if you start off in a bright tone on a story and suddenly realize you are talking about some people having been killed in a road crash. It's very important to just have a quick flip through.",
+                "zh": "M: 他们是副编辑，也就是新闻稿一来就负责撰写新闻报道的人。然后，这些报道会被交给值班高级编辑和助理编辑。报道经过这一层层人员的处理后，会不断得到润色、纠正和整理，最后传到我这里。在我开始播音之前，大多数报道我都有机会通读一遍。当然，有时候最后一刻会发生一些事情，我就没有这个机会了。所以我只能尽力而为，在开始播报之前花几秒钟浏览一下开头的几行。因为如果你用明快的语气开始播报一则新闻，突然却意识到自己说的是有人在交通事故中丧生，那就太遗憾了。快速浏览一下是非常重要的。"
+              },
+              {
+                "en": "W: There's nothing to mark what sort of event it is on your piece of paper?",
+                "zh": "W: 你的稿纸上没有任何标记来说明这是什么性质的事件吗？"
+              },
+              {
+                "en": "M: No, I have my own little mark. If it's something sad, I put a small cross at the top. That's my little clue. So while I'm working on the news, I'm just absorbing the news and checking pronunciations.",
+                "zh": "M: 没有，不过我有自己的一套小标记。如果是令人悲伤的事情，我就会在顶部画一个小十字。这就是我的小提示。所以在处理新闻时，我一边了解新闻内容，一边核对发音。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They offer students a wide variety of courses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They attract students from all over the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They admit more students than they can handle."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have trouble dealing with overseas students."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Everyone will benefit from education sooner or later."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A good education contributes to the prosperity of a nation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A good education is necessary for one to climb the social ladder."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Everyone has a right to an education appropriate to his potential."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He likes students with high motivation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He enjoys teaching intelligent students."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He tailors his teaching to students' needs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He treats all his students in a fair manner.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If sheer numbers provide any proof, America's universities are the envy of the world. For all their troubles, the United States' 3,500 institutions were flooded with more than half a million students from 193 countries last year. Asia led the way, with the biggest number from China followed by Japan and India. Most European and Asian universities provide an elite service to a small number of people. While fully 60% of all US high school graduates attend college at some point in their life, just 30% of the comparable German population, 28% of the French, 20% of the British, and 37% of the Japanese proceed beyond high school. Britains who pass their A-Levels may still not qualify for a top university at home, but find American universities far more welcoming. Some US schools acknowledge the rigor of European secondary training, and will give up to a year's credit to foreigners who have passed their high school exams. The conception that everyone has a right to an education appropriate to his potential is a highly democratic and compassionate standard, says Marvin Bresler, a professor at Princeton University. True, not all US students can match the performance of their foreign counterparts, but American institutions do offer students from rich and poor families alike the chance to realize their full potential. \"America educates so many more people at university that one can't expect all those who go to be as intelligent as the much narrower band in British universities,\" says Prof. Christopher Ricks at Boston University. \"I'm not against elitism, but I happen to like having people who are more eager to learn.\"",
+                "zh": "如果单凭数量就能说明问题，那么美国的大学无疑令全世界羡慕。尽管面临种种困难，美国的3500所高校去年仍接收了来自193个国家的50多万名学生。亚洲学生人数最多，其中来自中国的学生最多，其次是日本和印度。大多数欧洲和亚洲的大学只为少数人提供精英教育。美国高中毕业生中，整整有60%的人一生中的某个阶段会进入大学；相比之下，德国相应人口中只有30%、法国只有28%、英国只有20%、日本只有37%的人会继续接受高中以上教育。通过A-Level考试的英国人，即使仍未必有资格进入本国顶尖大学，却会发现美国大学对他们友好得多。一些美国学校承认欧洲中学教育的严格程度，会为通过高中考试的外国学生抵免最多一年的学分。普林斯顿大学教授马文·布雷斯勒说，认为每个人都有权接受与其潜力相适应的教育，这种理念是一项高度民主且富有同情心的标准。诚然，并非所有美国学生都能达到外国同龄人的表现水平，但美国高校确实为来自富裕和贫困家庭的学生提供了同样实现自身全部潜力的机会。波士顿大学的克里斯托弗·里克斯教授说：“美国在大学里教育的人多得多，因此不能指望所有入学者都像英国大学中那一小部分人那样聪明。我并不反对精英主义，但我恰好喜欢有更多求知热情的人。”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is mostly imported from the Middle East."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a sure indicator of its economic activity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has a direct impact on the international oil market."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It equals more than 30 million barrels of oil each day."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It eventually turns into heat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is used in a variety of forms."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its use is chiefly responsible for air pollution."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Part of it is lost in the process of transmission."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When it is used in rural areas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When it is environment-friendly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When it operates at near capacity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When it operates at regular times."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Traffic jams in cities."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inefficient use of energy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fuel shortage."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Global warming."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Every year, people in America use energy equal to over 30 million barrels of oil each day. That's energy in all forms: oil, gas, coal, nuclear, solar and even wind power. Viewed from a scientist's standpoint, all of the energy contained in fuel, either now or in the future, becomes heat. Some of the heat is used directly or produces useful work. The rest is lost or rejected, radiated into the atmosphere from the engines, motors, boilers and all the other energy-consuming machinery that makes America's wheels go around. If we could figure out how to improve the efficiency with which we use energy, we could do a lot more work with the energy that is available. With money and careful planning, we can boost efficiency up to a point. Yet improvement won't come easily. It won't come overnight and there are limits beyond which not even science can take us. According to the Centre for Strategic and International Studies, about three quarters of the energy we use to move things, including ourselves, accomplishes no useful work. In terms of efficiency and cleanness, buses, trains and other forms of public or mass transportation are superior to the private automobile, but only if they operate at near capacity. Otherwise, their overall efficiency is poor. For some people, mass transit may answer all transportation needs. For others, a combination of mass transit and private transportation may be desirable. Better design and wiser use of both mass transit systems and private vehicles will play an important part in helping America get more out of energy used for transportation.",
+                "zh": "每年，美国人每天消耗的能源相当于超过3000万桶石油。这包括各种形式的能源：石油、天然气、煤炭、核能、太阳能，甚至风能。从科学家的角度看，燃料中所含的全部能量，无论是现在还是将来，最终都会转化为热能。其中一部分热能被直接利用，或产生有用的功；其余部分则损失掉或被排放出去，从发动机、电动机、锅炉以及所有其他使美国社会运转的耗能机械中辐射到大气中。如果我们能够设法提高能源利用效率，就能用现有的能源完成更多的工作。通过投入资金和周密规划，我们可以在一定程度上提高效率。然而，效率的提升并不容易，也不会一夜之间实现，而且存在着科学也无法逾越的极限。据战略与国际问题研究中心称，我们用来运送物品（包括运送我们自己）的能源中，约有四分之三没有完成任何有用的工作。就效率和清洁程度而言，公共汽车、火车以及其他形式的公共交通或大运量交通优于私人汽车，但前提是它们的运载率接近满载。否则，它们的总体效率就很低。对有些人来说，公共交通可以满足全部交通需求；对另一些人来说，将公共交通与私人交通结合起来可能更为理想。更好的设计以及对公共交通系统和私人车辆更明智的使用，将在帮助美国从用于交通运输的能源中获取更多效益方面发挥重要作用。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Smelling scented candles."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Setting an alarm for waking up."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Talking with your parents often."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Listening to an upsetting song."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Handle the overwhelming unopened mail and tiny tasks within one minute."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Do anything that can be done in less than one minute without delay."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Do everything that can't be done in a minute within one minute."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Documents must be printed out and filed within one minute."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Strict habits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Positive attitude."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Hard rules."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Decision-making methods.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Moderator:",
+                "zh": "主持人："
+              },
+              {
+                "en": "Hello, ladies and gentlemen. It is my honour to introduce our keynote speaker for today's lecture, Gretchen Rubin. Ms. Rubin received international attention for her 2009 best-selling book, The Happiness Project, in which she re-examines her own happiness and tries to develop mood-boosting habits. Today, Rubin will share with us her mood-boosting experience. Welcome, Ms. Rubin.",
+                "zh": "女士们、先生们，大家好。今天我很荣幸向大家介绍本次讲座的主题演讲嘉宾格雷琴·鲁宾。鲁宾女士因其2009年出版的畅销书《幸福计划》而受到国际关注。在书中，她重新审视了自己的幸福，并尝试培养能够改善情绪的习惯。今天，鲁宾将与我们分享她改善情绪的经验。欢迎您，鲁宾女士。"
+              },
+              {
+                "en": "Ms. Rubin:",
+                "zh": "鲁宾女士："
+              },
+              {
+                "en": "Good afternoon, everyone. Before I elaborate, I'd like to first brief some of my most effective mood-boosting tips. For the most part, they can be accomplished in a minute or less.",
+                "zh": "大家下午好。在详细讲解之前，我想先简要介绍一些我最有效的改善情绪的小窍门。大多数窍门都能在一分钟或更短时间内完成。"
+              },
+              {
+                "en": ". MAKE YOUR BED",
+                "zh": "1. 整理床铺"
+              },
+              {
+                "en": "The thing that's surprising to me is that, for most people, outer order does contribute to inner calm and creativity. One easy way to maintain order and, in turn, boost happiness, is to make the bed, every day.",
+                "zh": "让我感到意外的是，对大多数人来说，外在的井然有序确实有助于内心的平静与创造力。保持秩序并进而提升幸福感的一个简单方法，就是每天整理床铺。"
+              },
+              {
+                "en": ". SMELL THE ROSES—OR SOMETHING ELSE NICE",
+                "zh": "2. 闻闻玫瑰，或其他令人愉悦的东西"
+              },
+              {
+                "en": "I used to laugh at scented candles but now I understand scents are a way to get a quick lift without any time, energy and money.",
+                "zh": "我以前总是嘲笑香薰蜡烛，但现在我明白，气味是一种无需花费时间、精力和金钱就能迅速改善情绪的方法。"
+              },
+              {
+                "en": ". FOLLOW THE \"ONE-MINUTE RULE\"",
+                "zh": "3. 遵循“一分钟规则”"
+              },
+              {
+                "en": "Overwhelmed by unopened mail, and other tiny tasks? The one-minute rule says that anything I can do in less than a minute, I should do without delay. So I don't postpone hanging up my coat, printing out a document and filing it, glancing over a letter and throwing it away.",
+                "zh": "未拆的邮件和其他琐碎事务是否让你感到应接不暇？一分钟规则是说，凡是我能在一分钟内完成的事情，都应该立即去做。因此，我不会拖延挂起外套、打印文件并将其归档、浏览一封信后把它扔掉等事情。"
+              },
+              {
+                "en": ". SET AN ALARM-AND NOT JUST FOR WAKING UP",
+                "zh": "4. 设置闹钟，不只是为了起床"
+              },
+              {
+                "en": "Since sleep and mood are linked, I think folks who struggle with turning out the light may benefit from a bedtime alarm. For many people, an alarm really helps; they just need that trigger.",
+                "zh": "既然睡眠与情绪息息相关，我认为那些难以关灯睡觉的人可能会受益于就寝闹钟。对很多人来说，闹钟确实很有帮助；他们只是需要这样一个触发信号。"
+              },
+              {
+                "en": ". DON'T LIKE A BOOK? STOP READING IT",
+                "zh": "5. 不喜欢一本书？那就别再读了"
+              },
+              {
+                "en": "I mean, I don't watch a TV show if I don't like it. So why not apply the same logic to books? I used to have this feeling that a \"real reader\" would finish a book if he started it. Now I just have so much more time to read the books that I like, and I love everything that I read.",
+                "zh": "我的意思是，如果我不喜欢一档电视节目，我就不会继续看。那么，为什么不对书籍采用同样的逻辑呢？我以前总觉得，一个“真正的读者”如果开始读一本书，就应该把它读完。现在，我有了更多时间去读自己喜欢的书，而且我读什么都喜欢。"
+              },
+              {
+                "en": ". TAKE ONE THING WITH YOU",
+                "zh": "6. 随手带走一样东西"
+              },
+              {
+                "en": "This one may be especially helpful for parents: When leaving a room, pick up as you go, one thing at a time, without having to dedicate a lot of time and energy to it.",
+                "zh": "这一点对父母尤其有帮助：离开一个房间时，顺手收拾一样东西，不必为此投入大量时间和精力。"
+              },
+              {
+                "en": ". LISTEN TO AN UPBEAT SONG",
+                "zh": "7. 听一首欢快的歌曲"
+              },
+              {
+                "en": "It's familiar, but it actually does work. It's a very easy way to change your mood.",
+                "zh": "这虽然是老生常谈，但确实有效。这是改变情绪的一种非常简单的方法。"
+              },
+              {
+                "en": ". JUMP UP AND DOWN",
+                "zh": "8. 上下跳跃"
+              },
+              {
+                "en": "I strongly recommend this simple energy-booster, especially when you may only have a few seconds to spare.",
+                "zh": "我强烈推荐这种简单的提振精力的方法，尤其是在你可能只有几秒钟空闲时间的时候。"
+              },
+              {
+                "en": ". KISS SOMEONE YOU LOVE",
+                "zh": "9. 亲吻你所爱的人"
+              },
+              {
+                "en": "Ancient philosophers and contemporary scientists would agree that relationships are a key—maybe the key—to happiness. So anytime you do something that broadens your relationships or deepens your relationship, it's going to make you happier.",
+                "zh": "古代哲学家和当代科学家都会同意，人际关系是幸福的关键，也许就是幸福的关键。因此，无论何时，只要你做了拓展人际关系或加深彼此关系的事情，就会变得更加幸福。"
+              },
+              {
+                "en": ". MAKE SOME \"BRIGHT-LINE RULES\"",
+                "zh": "10. 制定一些“明确界限规则”"
+              },
+              {
+                "en": "I believe habits have a direct connection with happiness, and I think hard rules can spare one the agony of decision-making.",
+                "zh": "我相信习惯与幸福之间存在直接联系，而且我认为严格的规则可以让人免受做决定的痛苦。"
+              },
+              {
+                "en": "Now, I will explain these tips one by one in detail…",
+                "zh": "现在，我将逐一详细解释这些窍门……"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It takes great pains for a person to be very rich."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Not Everyone wants to be too rich."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A person will never be satisfied with his wealth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A person will never have the feeling of being wealthy."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Introducing a topic."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Telling a joke."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Making a complaint."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making a decision."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were well paid by the German government."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They gathered mostly in London during the war."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They didn't provide any valuable information for Germany."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They worked for both their own country and their enemies."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Some common chicken food in America."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The living and working conditions of Americans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The German and British spies in World War Two."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some expressions related to money.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I would like to talk about interesting words that have something to do with money today.",
+                "zh": "今天我想谈谈一些与金钱有关的有趣词语。"
+              },
+              {
+                "en": "Almost every language in the world has a saying that a person can never be too rich. Americans, like people in other countries, always want more money. One way they express this is by protesting that their jobs do not pay enough. A common expression is, \"I am working for chickenfeed.\" It means working for very little money. The expression probably began because seeds fed to chickens made people think of small change. Small change means metal coins of not much value, like nickels which are worth five cents.",
+                "zh": "世界上几乎每一种语言都有这样一句谚语：一个人永远不会嫌钱多。美国人和其他国家的人一样，总是想要更多的钱。他们表达这种想法的一种方式，就是抱怨自己的工作报酬不够高。一个常见的说法是：“我是在挣鸡饲料钱。”意思是，工作所得的钱非常少。这个说法的由来可能是因为喂给鸡的种子让人联想到零钱。零钱指的是价值不高的金属硬币，比如面值五美分的镍币。"
+              },
+              {
+                "en": "An early use of the word chickenfeed appeared in an American publication in 1930. It told about a rich man and his son. Word expert Mitford Mathews says it read, \"I'll bet neither the kid nor his father ever saw a nickel or a dime. They would not have been interested in such chickenfeed.\"",
+                "zh": "“Chickenfeed”一词最早的用例之一出现在1930年的一份美国出版物中。文章讲述了一位富人和他的儿子。词语专家Mitford Mathews说，原文是：“我敢打赌，那孩子和他的父亲谁都没见过五美分硬币或一角硬币。他们不会对这种鸡饲料钱感兴趣。”"
+              },
+              {
+                "en": "Chickenfeed also has another interesting meaning known to history experts and World War I spies and soldiers. Spy expert Henry S. A. Becket writes that some German spies working in London during the war also worked for the British. The British government had to make the Germans believe their spies were working. So, British officials gave them mostly false information. It was called chickenfeed.",
+                "zh": "“Chickenfeed”对历史专家以及第一次世界大战期间的间谍和士兵来说，还有另一个有趣的含义。间谍专家Henry S. A. Becket写道，战争期间，一些在伦敦工作的德国间谍也为英国人效力。英国政府必须让德国人相信他们的间谍正在开展工作。因此，英国官员给他们的大多是假情报。这些假情报就被称为“chickenfeed”。"
+              },
+              {
+                "en": "The same person who protests that he is working for chickenfeed may also say, \"I am working for peanuts.\" She means she is working for a small amount of money. It is a very different meaning from the main one in the dictionary. That meaning is small nuts that grow on a plant. No one knows for sure how a word for something to eat also came to mean something very small. But, a peanut is a very small food.",
+                "zh": "同一个抱怨自己挣的是鸡饲料钱的人也可能会说：“我是在挣花生钱。”她的意思是，她工作所得的钱很少。这与词典中的主要含义大不相同。词典中的含义是指生长在植物上的小坚果。没有人确切知道，一个表示食物的词是如何又有了表示某种东西很小的含义。不过，花生确实是一种很小的食物。"
+              },
+              {
+                "en": "The expression is an old one. Word expert Mitford Mathews says that as early as 1854, an American publication used the words \"peanut agitators\". That meant political troublemakers who did not have a lot of support.",
+                "zh": "这个说法由来已久。词语专家Mitford Mathews说，早在1854年，一份美国出版物就使用了“peanut agitators”这个说法。它指的是没有多少支持者的政治煽动者。"
+              },
+              {
+                "en": "Another reason for the saying about working for peanuts may be linked to elephants. Think of how elephants are paid for their work in the circus. They receive food, not money. One of the foods they like best is peanuts.",
+                "zh": "“挣花生钱”这一说法的另一个由来可能与大象有关。想想马戏团里的大象是如何因工作获得报酬的。它们得到的是食物，而不是钱。它们最喜欢的食物之一就是花生。"
+              },
+              {
+                "en": "When you add the word \"gallery\" to the word \"peanut\" you have the name of an area in an American theatre. A gallery is a high seating area or balcony above the main floor. The \"peanut gallery\" got its name because it is the part of the theatre most distant from where the show takes place. So, peanut gallery tickets usually cost less than other tickets. People pay a small amount of money for them.",
+                "zh": "当你把“gallery”这个词加在“peanut”后面时，就得到了美国剧院中一个区域的名称。Gallery指的是主楼层上方较高的座位区或楼座。“Peanut gallery”之所以得名，是因为它位于剧院中距离演出地点最远的地方。因此，花生楼座的票价通常比其他座位的票价低。人们只需花很少的钱就能买到这些票。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The husband is the head of the household."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The husband usually makes big decisions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The wife lives within her husband's income."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The wife works and does two kinds of jobs."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their mother would help them to get ready for school and to make their breakfast."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They had to help their mother and father to take care of their younger sisters and brothers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their mother had to get up early in the morning to drive them to school."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were spoiled by their parents and didn't want to go to school."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The roles of the father, mother, and children have changed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "An increasing number of women work outside the home."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Changes have taken place in the structure of an American family."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The increasingly rapid pace of life makes people under greater pressure."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The family is changing in the US as in many other countries in the world. About fifty years ago in the traditional families the father was boss. Now in a modern family both the father and the mother are equal partners.",
+                "zh": "美国家庭正在发生变化，世界上许多其他国家的家庭也同样如此。大约五十年前，在传统家庭中，父亲是一家之主。如今，在现代家庭中，父亲和母亲都是平等的伴侣。"
+              },
+              {
+                "en": "There are some great differences between the traditional family and the modern family. The first important difference is in the man's role. The traditional husband was the head of the household, because he was the only one who worked outside the home. If the wife worked for pay, then the husband was not considered to be a good provider. In many families today, both husband and wife work for pay. Therefore, they share the role of head of household. In addition, the traditional husband usually made the big decisions about spending money. However, the modern husband shares these decisions with his working wife. Also, the traditional husband did not help his wife with the housework or meal preparation. Dinner was ready when he came home. In contrast, the modern husband helps his working wife at home. He may do some of the household jobs, and it is not unusual for him to cook.",
+                "zh": "传统家庭和现代家庭之间存在一些显著差异。第一个重要差异体现在男性的角色上。传统家庭中的丈夫是一家之主，因为只有他在外工作。如果妻子从事有偿工作，那么丈夫就不会被认为是一个称职的养家者。如今，在许多家庭中，丈夫和妻子都从事有偿工作。因此，他们共同承担一家之主的角色。此外，传统家庭中的丈夫通常会对花钱方面的重大决定作出决定。然而，现代家庭中的丈夫会与参加工作的妻子共同作出这些决定。同样，传统家庭中的丈夫不会帮助妻子做家务或准备饭菜。他回家时，晚饭已经准备好了。相比之下，现代家庭中的丈夫会在家里帮助参加工作的妻子。他可能会做一些家务，让他做饭也并不罕见。"
+              },
+              {
+                "en": "The second difference is in the woman's role. In the traditional family, the woman may have worked for pay during her first years of marriage. However, after she became pregnant, she would usually give up her job. Her primary role was to take care of her family. In contrast, in many families today, the modern woman works outside the home even after she has children. She's doing two jobs instead of one, so she is busier than the traditional mother was. The traditional wife learned to live within her husband's income. However, the modern wife does not have to live within her husband's income because the family has two incomes.",
+                "zh": "第二个差异体现在女性的角色上。在传统家庭中，女性可能在结婚后的最初几年从事有偿工作。然而，怀孕后，她通常会放弃工作。她的主要职责是照顾家庭。相比之下，如今在许多家庭中，现代女性即使有了孩子，仍然会在外工作。她做着两份工作，而不是一份，因此比传统家庭中的母亲更加忙碌。传统家庭中的妻子学会了靠丈夫的收入生活。然而，现代家庭中的妻子不必只靠丈夫的收入生活，因为家庭有两份收入。"
+              },
+              {
+                "en": "The final difference is in the role of the children. In the traditional family, the children were taken care of by the mother because she did not work outside the home. However, today preschool children may go to a child care centre or to a baby-sitter regularly because the mother works. The school-age children of a traditional family were more dependent. Their mother was there to help them to get ready for school and to make their breakfast. In contrast, modern children are more independent. They have to get up early in the morning and get ready for school. Their mother is busy getting ready for work, so they may even have to make their own breakfast.",
+                "zh": "最后一个差异体现在孩子的角色上。在传统家庭中，孩子由母亲照顾，因为她不在外工作。然而，如今，学龄前儿童可能会定期去托儿中心或由临时保姆照看，因为母亲要工作。传统家庭中的学龄儿童更加依赖他人。他们的母亲会帮助他们准备上学，并为他们准备早餐。相比之下，现代儿童更加独立。他们必须早晨早起，为上学做好准备。他们的母亲正忙着准备上班，所以他们甚至可能还得自己做早餐。"
+              },
+              {
+                "en": "In conclusion, the American family today is quite different from the family of fifty years ago. In the modern family, the roles of the father, mother, and children have changed as more and more women work outside the home. The next century may bring more important changes to the American family structure.",
+                "zh": "总之，如今的美国家庭与五十年前的家庭大不相同。随着越来越多的女性在外工作，现代家庭中父亲、母亲和孩子的角色都发生了变化。下个世纪可能会给美国家庭结构带来更多重要变化。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "According to a report from the Harvard School of Public Health, many everyday products, including some bug sprays and cleaning fluids, could lead to an increased risk of brain and behavioral disorders in children. The developing brain, the report says, is particularly"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to the toxic effects of certain chemicals these products may contain, and the damage they cause can be"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". The official policy, however, is still evolving. Health and environmental"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "have long urged US government agencies to"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "the use of some of the 11 chemicals the report cites and called for more studies on their long-term effects. In 2001, for example, the Environmental Protection Agency"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "the type and amount of lead that could be present in paint and soil in homes and child-care"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ", after concerns were raised about lead poisoning. The agency is now"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "the toxic effects of some of the chemicals in the latest report. But the threshold for regulation is high. Because children's brain and behavioral disorders, like hyperactivity and lower grades, can also be linked to social and genetic factors, it's tough to pin them on exposure to specific chemicals with solid"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "evidence, which is what the EPA requires. Even the Harvard study did not prove a direct"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "but noted strong associations between exposure and risk of behavioral issues. Nonetheless, it's smart to"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "caution. While it may be impossible to prevent kids from drinking tap water that may contain trace amounts of chemicals, keeping kids away from lawns recently sprayed with chemicals and freshly dry-cleaned clothes can't hurt."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "advocates"
+        },
+        {
+          "l": "B",
+          "w": "compact"
+        },
+        {
+          "l": "C",
+          "w": "correlation"
+        },
+        {
+          "l": "D",
+          "w": "exercise"
+        },
+        {
+          "l": "E",
+          "w": "facilities"
+        },
+        {
+          "l": "F",
+          "w": "interaction"
+        },
+        {
+          "l": "G",
+          "w": "investigating"
+        },
+        {
+          "l": "H",
+          "w": "overwhelmed"
+        },
+        {
+          "l": "I",
+          "w": "particles"
+        },
+        {
+          "l": "J",
+          "w": "permanent"
+        },
+        {
+          "l": "K",
+          "w": "restricted"
+        },
+        {
+          "l": "L",
+          "w": "simulating"
+        },
+        {
+          "l": "M",
+          "w": "statistical"
+        },
+        {
+          "l": "N",
+          "w": "tighten"
+        },
+        {
+          "l": "O",
+          "w": "vulnerable"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "O"
+        },
+        {
+          "n": 27,
+          "a": "J"
+        },
+        {
+          "n": 28,
+          "a": "A"
+        },
+        {
+          "n": 29,
+          "a": "N"
+        },
+        {
+          "n": 30,
+          "a": "K"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "G"
+        },
+        {
+          "n": 33,
+          "a": "M"
+        },
+        {
+          "n": 34,
+          "a": "C"
+        },
+        {
+          "n": 35,
+          "a": "D"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The Impossibility of Rapid Energy Transitions",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Politicians are fond of promising rapid energy transitions. Whether it is a transition from imported to domestic oil or from coal-powered electricity production to natural-gas power plants, politicians love to talk big. Unfortunately for them (and often the taxpayers), our energy systems are a bit like an aircraft carrier: they are unbelievably expensive, they are built to last for a very long time, they have a huge amount of inertia (meaning it takes a lot of energy to set them moving), and they have a lot of momentum once they are set in motion. No matter how hard you try, you can't turn something that large on a dime(10美分硬币), or even a few thousand dimes."
+        },
+        {
+          "l": "B",
+          "t": "In physics, moving objects have two characteristics relevant to understanding the dynamics of energy systems: inertia and momentum. Inertia is the resistance of objects to efforts to change their state of motion. If you try to push a boulder(大圆石), it pushes you back. Once you have started the boulder rolling, it develops momentum, which is defined by its mass and velocity. Momentum is said to be \"conserved,\" that is, once you build it up, it has to go somewhere. So a heavy object, like a football player moving at a high speed, has a lot of momentum—that is, once he is moving, it is hard to change his state of motion. If you want to change his course, you have only a few choices: you can stop him, transferring (possibly painfully) some of his kinetic energy( 动能) to your own body, or you can approach alongside and slowly apply pressure to gradually alter his course."
+        },
+        {
+          "l": "C",
+          "t": "But there are other kinds of momentum as well. After all, we don't speak only of objects or people as having momentum; we speak of entire systems having momentum. Whether it's a sports team or a presidential campaign, everybody relishes having the big momentum, because it makes them harder to stop or change direction."
+        },
+        {
+          "l": "D",
+          "t": "One kind of momentum is technological momentum. When a technology is deployed, its impacts reach far beyond itself. Consider the incandescent(白炽灯的) bulb, an object currently hated by many environmentalists and energy-efficiency advocates. The incandescent light bulb, invented by Thomas Edison, which came to be the symbol of inspiration, has been developed into hundreds, if not thousands, of forms. Today, a visit to a lighting store reveals a stunning array of choices. There are standard-shaped bulbs, flame-shaped bulbs, colored globe-shaped bulbs, and more. It is quite easy, with all that choice, to change a light bulb."
+        },
+        {
+          "l": "E",
+          "t": "But the momentum of incandescent lighting does not stop there. All of those specialized bulbs led to the building of specialized light fixtures, from the desk lamp you study by, to the ugly but beloved hand-painted Chinese lamp you inherited from your grandmother, to the ceiling fixture in your closet, to the light in your oven or refrigerator, and to the light that the dentist points at you. It is easy to change a light bulb, sure, but it is harder to change the bulb and its fixture."
+        },
+        {
+          "l": "F",
+          "t": "And there is more to the story, because not only are the devices that house incandescent bulbs shaped to their underlying characteristics, but rooms and entire buildings have been designed in accordance with how incandescent lighting reflects off walls and windows."
+        },
+        {
+          "l": "G",
+          "t": "As lighting expert Howard Brandston points out, \"Generally, there are no bad light sources, only bad applications.\" There are some very commendable characteristics of the CFL [compact fluorescent(荧光的) light bulb], yet the selection of any light source remains inseparable from the luminaire( 照明装置) that houses it, along with the space in which both are installed, and lighting requirements that need to be satisfied. The lamp, the fixture, and the room, all three must work in concert and for the true benefits of end-users. If the CFL should be used for lighting a particular space, or an object within that space, the fixture must be designed to work with that lamp, and that fixture with the room. It is a symbiotic(共生的) relationship. A CFL cannot be simply installed in an incandescent fixture and then expected to produce a visual appearance that is more than washed out, foggy, and dim. The whole fixture must be replaced—light source and luminaire—and this is never an inexpensive proposition."
+        },
+        {
+          "l": "H",
+          "t": "And Brandston knows a thing or two about lighting, being the man who illuminated the Statue of Liberty."
+        },
+        {
+          "l": "I",
+          "t": "Another type of momentum we have to think about when planning for changes in our energy systems is labor-pool momentum. It is one thing to say that we are going to shift 30 percent of our electricity supply from, say, coal to nuclear power in 20 years. But it is another thing to have a supply of trained talent that could let you carry out this promise. That is because the engineers, designers, regulators, operators, and all of the other skilled people needed for the new energy industry are specialists who have to be trained first (or retrained, if they are the ones being laid off in some related industry), and education, like any other complicated endeavor, takes time. And not only do our prospective new energy workers have to be trained, they have to be trained in the right sequence. One needs the designers, and perhaps the regulators, before the builders and operators, and each group of workers in training has to know there is work waiting beyond graduation. In some cases, colleges and universities might have to change their training programs, adding another layer of difficulty."
+        },
+        {
+          "l": "J",
+          "t": "By far the biggest type of momentum that comes into play when it comes to changing our energy systems is economic momentum. The major components of our energy systems, such as fuel production, refining, electrical generation and distribution, are costly installations that have lengthy life spans. They have to operate for long periods of time before the costs of development have been recovered. When investors put up money to build, say, a nuclear power plant, they expect to earn that money back over the planned life of the plant, which is typically between 40 and 60 years. Some coal power plants in the United States have operated for more than 70 years! The oldest continuously operated commercial hydro-electric plant in the United States is on New York's Hudson River, and it went into commercial service in 1898."
+        },
+        {
+          "l": "K",
+          "t": "As Vaclav Smil points out, \"All the forecasts, plans, and anticipations cited above have failed so miserably because their authors and promoters thought the transitions they hoped to implement would proceed unlike all previous energy transitions, and that their progress could be accelerated in an unprecedented manner.\""
+        },
+        {
+          "l": "L",
+          "t": "When you hear people speaking of making a rapid transition toward any type of energy, whether it is a switch from coal to nuclear power, or a switch from gasoline-powered cars to electric cars, or even a switch from an incandescent to a fluorescent light, understanding energy system inertia and momentum can help you decide whether their plans are feasible."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Not only moving objects and people but all systems have momentum.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "Changing the current energy system requires the systematic training of professionals and skilled labor.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "Changing a light bulb is easier than changing the fixture housing it.",
+          "a": "E"
+        },
+        {
+          "n": 39,
+          "s": "Efforts to accelerate the current energy transitions didn't succeed as expected.",
+          "a": "K"
+        },
+        {
+          "n": 40,
+          "s": "To change the light source is costly because you have to change the whole fixture.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "Energy systems, like an aircraft carrier set in motion, have huge momentum.",
+          "a": "A"
+        },
+        {
+          "n": 42,
+          "s": "The problem with lighting, if it arises, often doesn't lie in light sources but in their applications.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "The biggest obstacle to energy transition is that the present energy system is too expensive to replace.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "The application of a technology can impact areas beyond itself.",
+          "a": "D"
+        },
+        {
+          "n": 45,
+          "s": "Physical characteristics of moving objects help explain the dynamics of energy systems.",
+          "a": "B"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "One hundred years ago, \"Colored\" was the typical way of referring to Americans of African descent. Twenty years later, it was purposefully dropped to make way for \"Negro.\" By the late 1960s, that term was overtaken by \"Black.\" And then, at a press conference in Chicago in 1988, Jesse Jackson declared that \"African American\" was the term to embrace. This one was chosen because it echoed the labels of groups, such as \"Italian Americans\" and \"Irish Americans,\" that had already been freed of widespread discrimination. A century's worth of calculated name changes points to the fact that naming any group is a politically freighted exercise. A 2001 study cataloged all the ways in which the term \"Black\" carried connotations(涵义) that were more negative than those of \"African American.\" But if it was known that \"Black\" people were viewed differently from \"African Americans,\" researchers, until now, hadn't identified what that gap in perception was derived from. A recent study, conducted by Emory University's Erika Hall, found that \"Black\" people are viewed more negatively than \"African Americans\" because of a perceived difference in socioeconomic status. As a result, \"Black\" people are thought of as less competent and as having colder personalities. The study's most striking findings shed light on the racial biases permeating the professional world. Even seemingly harmless details on a resume, it appears, can tap into recruiters' biases. A job application might mention affiliations with groups such as the \"Wisconsin Association of African-American Lawyers\" or the \"National Black Employees Association,\" the names of which apparently have consequences, and are also beyond their members' control. In one of the study's experiments, subjects were given a brief description of a man from Chicago with the last name Williams. To one group, he was identified as \"African-American,\" and another was told he was \"Black.\" With little else to go on, they were asked to estimate Mr. Williams's salary, professional standing, and educational background. The \"African-American\" group estimated that he earned about $37,000 a year and had a two-year college degree. The \"Black\" group, on the other hand, put his salary at about $29,000, and guessed that he had only \"some\" college experience. Nearly three-quarters of the first group guessed that Mr. Williams worked at a managerial level, while only 38.5 percent of the second group thought so. Hall's findings suggest there's an argument to be made for electing to use \"African American,\" though one can't help but get the sense that it's a decision that papers over the urgency of continued progress. Perhaps a new phrase is needed, one that can bring everyone one big step closer to realizing Du Bois's original, idealistic hope: \"It's not the name—it's the Thing that counts.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "Why did Jesse Jackson embrace the term \"African American\" for people of African descent?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is free from racial biases."
+              },
+              {
+                "l": "B",
+                "t": "It represents social progress."
+              },
+              {
+                "l": "C",
+                "t": "It is in the interest of common Americans."
+              },
+              {
+                "l": "D",
+                "t": "It follows the standard naming practice."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the author say about the naming of an ethnic group?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It advances with the times."
+              },
+              {
+                "l": "B",
+                "t": "It is based on racial roots."
+              },
+              {
+                "l": "C",
+                "t": "It merits intensive study."
+              },
+              {
+                "l": "D",
+                "t": "It is politically sensitive."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What do Erika Hall's findings indicate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Racial biases are widespread in the professional world."
+              },
+              {
+                "l": "B",
+                "t": "Many applicants don't attend to details on their resumes."
+              },
+              {
+                "l": "C",
+                "t": "Job seekers should all be careful about their affiliations."
+              },
+              {
+                "l": "D",
+                "t": "Most recruiters are unable to control their racial biases."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What does Erika Hall find in her experiment about a man with the last name Williams?",
+            "o": [
+              {
+                "l": "A",
+                "t": "African Americans fare better than many other ethnic groups."
+              },
+              {
+                "l": "B",
+                "t": "Black people's socioeconomic status in America remains low."
+              },
+              {
+                "l": "C",
+                "t": "People's conception of a person has much to do with the way he or she is labeled."
+              },
+              {
+                "l": "D",
+                "t": "One's professional standing and income are related to their educational background."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What is Dr. Du Bois's ideal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "All Americans enjoy equal rights."
+              },
+              {
+                "l": "B",
+                "t": "A person is judged by their worth."
+              },
+              {
+                "l": "C",
+                "t": "A new term is created to address African Americans."
+              },
+              {
+                "l": "D",
+                "t": "All ethnic groups share the nation's continued progress."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Across the board, American colleges and universities are not doing a very good job of preparing their students for the workplace or their post-graduation lives. This was made clear by the work of two sociologists, Richard Arum and Josipa Roksa. In 2011 they released a landmark study titled \"Academically Adrift,\" which documented the lack of intellectual growth experienced by many people enrolled in college. In particular, Arum and Roksa found, college students were not developing the critical thinking, analytic reasoning and other higher- level skills that are necessary to thrive in today's knowledge-based economy and to lead our nation in a time of complex challenges and dynamic change. Arum and Roksa placed the blame for students' lack of learning on a watered-down college curriculum and lowered undergraduate work standards. Although going to college is supposed to be a full-time job, students spent, on average, only 12 to 14 hours a week studying and many were skating through their semesters without doing a significant amount of reading and writing. Students who take more challenging classes and spend more time studying do learn more. But the priorities of many undergraduates are with extracurricular activities, playing sports, and partying and socializing. Laura Hamilton, the author of a study on parents who pay for college, will argue in a forthcoming book that college administrations are overly concerned with the social and athletic activities of their students. In Paying for the Party, Hamilton describes what she calls the \"party pathway,\" which eases many students through college, helped along by various clubs that send students into the party scene and a host of easier majors. By sanctioning this watered-down version of college, universities are \"catering to the social and educational needs of wealthy students at the expense of others\" who won't enjoy the financial backing or social connections of richer students once they graduate. These students need to build skills and knowledge during college if they are to use their degrees as a stepping-stone to middle-class mobility. But more privileged students must not waste this opportunity either. As recent graduates can testify, the job market isn't kind to candidates who can't demonstrate genuine competence, along with a well-cultivated willingness to work hard. Nor is the global economy forgiving of an American workforce with increasingly weak literacy, math and science abilities. College graduates will still fare better than those with only a high school education, of course. But a university degree unaccompanied by a gain in knowledge or skills is an empty achievement indeed. For students who have been coasting through college, and for American universities that have been demanding less work, offering more attractions and charging higher tuition, the party may soon be over.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is Arum and Roksa's finding about higher education in America?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It aims at stimulating the intellectual curiosity of college students."
+              },
+              {
+                "l": "B",
+                "t": "It fails to prepare students to face the challenges of modern times."
+              },
+              {
+                "l": "C",
+                "t": "It has experienced dramatic changes in recent years."
+              },
+              {
+                "l": "D",
+                "t": "It has tried hard to satisfy students' various needs."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What is responsible for the students' lack of higher-level skills?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The diluted college curriculum."
+              },
+              {
+                "l": "B",
+                "t": "The boring classroom activities."
+              },
+              {
+                "l": "C",
+                "t": "The absence of rigorous discipline."
+              },
+              {
+                "l": "D",
+                "t": "The outdated educational approach."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What does Laura Hamilton say about college administrations?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They fail to give adequate help to the needy students."
+              },
+              {
+                "l": "B",
+                "t": "They tend to offer too many less challenging courses."
+              },
+              {
+                "l": "C",
+                "t": "They seem to be out of touch with society."
+              },
+              {
+                "l": "D",
+                "t": "They prioritize non-academic activities."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What can be learned about the socially and financially privileged students?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They tend to have a sense of superiority over their peers."
+              },
+              {
+                "l": "B",
+                "t": "They can afford to choose easier majors in order to enjoy themselves."
+              },
+              {
+                "l": "C",
+                "t": "They spend a lot of time building strong connections with businesses."
+              },
+              {
+                "l": "D",
+                "t": "They can climb the social ladder even without a degree."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What does the author suggest in the last paragraph?",
+            "o": [
+              {
+                "l": "A",
+                "t": "American higher education has lost its global competitiveness."
+              },
+              {
+                "l": "B",
+                "t": "People should not expect too much from American higher education."
+              },
+              {
+                "l": "C",
+                "t": "The current situation in American higher education may not last long."
+              },
+              {
+                "l": "D",
+                "t": "It will take a long time to change the current trend in higher education."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "在中国,父母总是竭力帮助孩子，甚至为孩子做重要决定，而不管孩子想要什么,因为他们相信这样做是为 孩子好。结果,孩子的成长和教育往往屈从于父母的意愿。 如果父母决定为孩子报名参加一个课外班,以增加其 被重点学校录取的机会，他们会坚持自己的决定，即使孩子根本不感兴趣。 然而在美国,父母很可能会尊重孩 子的意见，并在决策时更注重他们的意见。 中国父母十分重视教育或许值得称赞。然而，他们应向美国父母 学习在涉及教育时如何平衡父母与子女间的关系。",
+    "reference": "In China, parents always try their best to help their children and even make important decisions for them, regardless of what the children want, because they believe that doing so is good for the children. As a result, the growth and education of children often give way to their parents' wishes. If parents decide to sign their child up for an extracurricular class to increase the child's chances of being admitted to a top school, they will stick to their decision even if the child is not interested at all. In the United States, however, parents are likely to respect their children's opinions and pay more attention to them when making decisions. It may be commendable that Chinese parents attach great importance to education. However, they should learn from American parents how to balance the relationship between parents and children when it comes to education."
+  }
+}

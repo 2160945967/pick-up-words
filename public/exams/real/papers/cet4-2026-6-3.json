@@ -1,0 +1,1377 @@
+{
+  "id": "cet4-2026-6-3",
+  "level": "cet4",
+  "year": 2026,
+  "month": 6,
+  "set": 3,
+  "title": "2026年6月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose you are invited to put forward a proposal to the university on how to make students' campus life easier. You are now to write an essay to make your proposal. You will have 30 minutes to write the essay. You should write at least 120 words but not more than 180 words.",
+    "sample": "I am honored to submit a proposal on how to make students' campus life easier. As daily routines grow more demanding, small improvements in campus services can save students considerable time and energy.First, the university could develop a one-stop mobile app that integrates course schedules, room bookings, and exam arrangements. This would spare students the trouble of switching between multiple platforms. Second, extending library opening hours and adding more self-study spaces during examination periods would reduce overcrowding. Third, improving shuttle-bus frequency between teaching buildings and dormitories would make commuting less stressful.These practical measures, if implemented, would significantly ease students' daily pressures. I sincerely hope the university will consider this proposal and take steps toward a more convenient campus life."
+  },
+  "listening": {
+    "audio": "cet4-2026-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He had bought meals with his online food ordering account."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His son had used his cell phone to pay for playing a game."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His son had ordered food from several restaurants."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He had dined out at a famous five-star restaurant."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Teach his son a lesson."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Change his password."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Ask his neighbors for help."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Buy a bigger refrigerator.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A man was left with a $1,000 bill, after his 6-year-old son ordered a virtual buffet of food from several restaurants last weekend. This led to a string of unexpected deliveries, and maybe a starring role in an advertisement campaign.",
+                "zh": "上周末，一名男子的6岁儿子从多家餐厅订购了一顿“虚拟自助餐”，结果给他留下了一张1000美元的账单。这引发了一连串意外送餐，也可能让他在一场广告宣传活动中担任主角。"
+              },
+              {
+                "en": "Keith Stonehouse said the food piled up quickly at his home Saturday night, after he let his son use his cell phone to play a game before bed. He said the youngster instead used his father's online food ordering account to order food from one restaurant after another. The boy's mother, Christine Stonehouse, said that the online food app has reached out to the family and offered them a $1,000 gift card. The company also is considering using the family in an online promotional campaign.",
+                "zh": "基思·斯通豪斯说，上周六晚上，他让儿子睡前用自己的手机玩游戏，之后食物很快就堆满了家里。他说，孩子没有玩游戏，而是使用父亲的在线点餐账户，一家接一家地订购食物。男孩的母亲克里斯蒂娜·斯通豪斯说，这款在线点餐应用已经联系了他们一家，并向他们提供了一张价值1000美元的礼品卡。该公司还在考虑让这一家人参与一场线上宣传活动。"
+              },
+              {
+                "en": "Most of the food went into the family's refrigerators. They also invited some neighbors over to eat some of it. The father is planning to change his password.",
+                "zh": "大部分食物都放进了家里的冰箱。他们还邀请了一些邻居来吃掉其中一部分。孩子的父亲打算更改密码。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They examined how visitors affected animal behaviour in zoos."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They studied when the best time to feed animals in public was."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They studied how animals adapted themselves to life in zoos."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They examined what behaviours indicated animal boredom."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They socialise with zookeepers as well as with each other."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They show good adaptability to living with humans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have been kept as pets by humans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have been born and raised in zoos.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Animal behaviour experts looked at more than 100 research papers. They examined how visitors affected the behaviour of more than 250 species in zoos. They found that elephants socialised more with each other during public feeding times. After public feeding times, they were more likely to search for food and less likely to be inactive. In the presence of many visitors, elephants were less likely to use repetitive behaviours which often indicate boredom.",
+                "zh": "动物行为专家查阅了100多篇研究论文。他们研究了参观者如何影响动物园中250多种动物的行为。他们发现，在面向公众的喂食时段，大象彼此之间的社交活动更多。公众喂食时段结束后，大象更有可能寻找食物，也不太可能处于不活动状态。在众多参观者在场时，大象较少表现出重复性行为，而这类行为通常表明它们感到无聊。"
+              },
+              {
+                "en": "Visitors had a similar effect on some other species too, including polar bears, certain jungle cats and black-tailed plain dogs. Some animal species have been born and raised in zoos, and so have likely become used to the presence of humans. Zoo visitors are often aspects of a zoo animal's environment that animals cannot control, and as such can be stressful, although some species appear to show good adaptability to the changing conditions of visitors.",
+                "zh": "参观者对其他一些物种也产生了类似影响，包括北极熊、某些丛林猫科动物和黑尾草原犬。一些动物物种出生并成长于动物园，因此很可能已经习惯了人类的存在。对动物园里的动物而言，参观者通常是其环境中动物无法控制的因素，因此可能会造成压力，尽管有些物种似乎表现出对参观者状况变化的良好适应能力。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Adjusting it."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Suspending it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Reevaluating it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Expanding it."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They could buy an electric bike for $400 in April."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They could buy their first electric bike at a discount."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They could enjoy free after-sale service for their purchase."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They could get $1,200 from government funds if they qualified."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Put 400 more electric bikes on its streets."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Increase the program funding by 8 percent."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Resume its electric bike incentive program."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Invest millions of dollars into the local economy."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Denver is suspending its popular electric bike incentive program. The program was launched in April. It allowed Denver residents to apply for $400 in government funds before buying an electric bike from a participating shop. Residents who met certain income qualifications could qualify for $1,200. More than 3,000 Denver residents applied for incentives within the first 3 weeks.",
+                "zh": "丹佛暂停了广受欢迎的电动自行车激励计划。该计划于4月启动，允许丹佛居民在从参与计划的商店购买电动自行车之前，申请400美元的政府补助。符合特定收入条件的居民可获得1,200美元。启动后的前3周内，超过3,000名丹佛居民申请了补助。"
+              },
+              {
+                "en": "The city then changed the program to limit the number of applications each month. On Monday, the city announced the pause. \"We're honored to be a part of transforming the way Denver wants to move around,\" said Grace Rink, Denver's chief climate officer. \"We exhausted three years' worth of funding in six months.\" The city said the program has put 4,400 electric bikes on the streets of Denver and invested $8.6 million into the local economy. The city has provided 2,200 incentives to lower-income residents that represent 68% of the program funding. The city expects to resume the program early next year. It also plans design changes to make participation easier and increase access to the program.",
+                "zh": "随后，该市对计划进行了调整，限制每月的申请数量。周一，该市宣布暂停该计划。丹佛首席气候官格蕾丝·林克说：“我们很荣幸能够参与改变丹佛人出行的方式。”她说：“我们在6个月内用尽了原本可供3年使用的资金。”该市表示，这项计划已让4,400辆电动自行车行驶在丹佛街头，并向当地经济投入了860万美元。该市已向低收入居民提供2,200项补助，占计划资金的68%。该市预计明年年初恢复该计划，同时还计划进行设计调整，以便居民更容易参与并扩大计划的覆盖范围。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The coin collection."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The primitive tools."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The ancient ornaments."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The 2,000-year-old clothes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is charming with narrow but beautiful streets."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It attracts visitors from every corner of the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has flowers displayed around the Trevi Fountain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is more attractive than the pictures in guidebooks."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is covered with wild grass."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is very famous and pretty."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is located away from an old church."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is surrounded by Spanish-style houses."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Ask Kathy what her plan is."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Tell Kathy Mike will join them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Ask Kathy if she'd like to see the square."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Tell Kathy Mike would like to have a change.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Hey, Mike, what do you think of the museum you visited today?",
+                "zh": "W: 嘿，迈克，你觉得今天参观的博物馆怎么样？"
+              },
+              {
+                "en": "M: Hey, Sue. The museum is great, very interesting. They have loads of stuff there on display. The primitive tools early humans used tell a lot about their life, but my favorite is the coin collection. They have some coins that are over 2,000 years old.",
+                "zh": "M: 嘿，苏。这个博物馆很棒，非常有意思。那里展出了很多东西。早期人类使用的原始工具能让我们了解到很多他们的生活情况，不过我最喜欢的是钱币收藏。他们有些钱币已经有两千多年的历史了。"
+              },
+              {
+                "en": "W: That sounds cool.",
+                "zh": "W: 听起来很酷。"
+              },
+              {
+                "en": "M: Yeah, what did you do today?",
+                "zh": "M: 是啊，你今天做了什么？"
+              },
+              {
+                "en": "W: Kathy and I just wandered through the old city centre. The streets are narrow but beautiful with plenty of charm. We saw the Trevi Fountain, which is in all the guidebooks.",
+                "zh": "W: 我和凯西只是逛了逛老城区。街道虽然狭窄，却很漂亮，充满了魅力。我们看了特莱维喷泉，所有旅游指南上都有介绍。"
+              },
+              {
+                "en": "M: How do you like it?",
+                "zh": "M: 你觉得怎么样？"
+              },
+              {
+                "en": "W: It's very pretty, but it was overcrowded with tourists.",
+                "zh": "W: 非常漂亮，不过游客太多了，挤得水泄不通。"
+              },
+              {
+                "en": "M: Yeah, well, it's crowded everywhere. It is August after all, the busiest month of the year.",
+                "zh": "M: 是啊，到处都很拥挤。毕竟现在是八月，一年中最繁忙的月份。"
+              },
+              {
+                "en": "W: Yes, it's like the whole world is here on holiday, including us. What will you do tomorrow?",
+                "zh": "W: 是啊，感觉全世界的人都来这里度假了，包括我们。你明天打算做什么？"
+              },
+              {
+                "en": "M: I haven't decided yet. I was thinking of doing what you did today—wandering the old streets and taking pictures. I was also thinking of visiting the square with the Spanish steps.",
+                "zh": "M: 我还没决定。我在考虑做你今天做的事，逛逛老街，拍拍照。我还在考虑去看看有西班牙阶梯的那个广场。"
+              },
+              {
+                "en": "W: What is that? I haven't heard of it.",
+                "zh": "W: 那是什么地方？我没听说过。"
+              },
+              {
+                "en": "M: It's a square where on one side, there are some very wide steps with flowers that go up to a church. It's also in all the tourist guidebooks. It's very famous and pretty. I was also thinking of seeing that tomorrow.",
+                "zh": "M: 那是一个广场，广场一侧有一段很宽的台阶，台阶上摆满了鲜花，一直通向一座教堂。旅游指南上也都有介绍。那里非常有名，也很漂亮。我也在考虑明天去看看。"
+              },
+              {
+                "en": "W: It sounds very nice. Do you mind if Kathy and I join you tomorrow?",
+                "zh": "W: 听起来很不错。你介意明天我和凯西跟你一起去吗？"
+              },
+              {
+                "en": "M: Not at all. I spent the whole day today pretty much alone. Doing tourist stuff with others would be a welcome change.",
+                "zh": "M: 当然不介意。我今天基本上独自待了一整天。和别人一起做些游客会做的事，换换方式也挺不错的。"
+              },
+              {
+                "en": "W: Let me ask her first, but I'm sure she'll be up for it.",
+                "zh": "W: 我先问问她，不过我相信她会愿意去的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How to fit into the bigger picture."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How to get on with colleagues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How to create a solid first impression."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How to succeed in a new job."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Get familiar with all the details of his job description."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Learn about the relations within the organization."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Recognize his own limitations and weaknesses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Understand his role from various perspectives."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Learning history."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Meeting his boss."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Creating reports for other departments to use."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Leaving his coworkers in the present company."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Get to know the decision-makers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Acquire decision-making authority."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Promote its products and services."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Observe its overall management."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Can you give me advice about being successful at a new job? I start mine next week.",
+                "zh": "M: 你能给我一些关于如何在新工作中取得成功的建议吗？我下周就要开始工作了。"
+              },
+              {
+                "en": "W: Sure. It's important not to undermine the significance of the first few days of your job, since this is the best time to create a solid first impression.",
+                "zh": "W: 当然。千万不要低估入职头几天的重要性，因为这段时间最适合树立良好的第一印象。"
+              },
+              {
+                "en": "M: That's a good point. I'll need to collaborate with my coworkers and I'm very aware of just how important others are for my success at work.",
+                "zh": "M: 你说得有道理。我需要和同事合作，而且我非常清楚别人对我在工作中的成功有多么重要。"
+              },
+              {
+                "en": "W: It's also important to understand your role thoroughly to gain a comprehensive picture of your job. The most important thing for you to do at first is to understand your role from multiple perspectives.",
+                "zh": "W: 彻底了解自己的职责也很重要，这样才能全面了解你的工作。你一开始最重要的事情，就是从多个角度了解自己的职责。"
+              },
+              {
+                "en": "M: Why is that?",
+                "zh": "M: 为什么呢？"
+              },
+              {
+                "en": "W: Well, what you do at work is not just limited to your job description. You need to consider how your work relates to other people within the organization.",
+                "zh": "W: 这个嘛，你在工作中做的事情并不只是局限于职位描述。你需要考虑自己的工作与组织内部其他人的工作有什么联系。"
+              },
+              {
+                "en": "M: Oh, right. So, for example, certain reports that I create at the end of the month may be used by a team in another department.",
+                "zh": "M: 哦，对。比如说，我在月底制作的某些报告可能会被另一个部门的团队使用。"
+              },
+              {
+                "en": "W: That's right. And in that respect, it's also important to learn about the business to see the big picture.",
+                "zh": "W: 没错。从这个角度来说，了解公司业务、掌握全局也很重要。"
+              },
+              {
+                "en": "M: You mean like knowing about the history of the company.",
+                "zh": "M: 你的意思是要了解公司的历史之类的吗？"
+              },
+              {
+                "en": "W: Kind of, but more like knowing the details of the products and services that the company exists to deliver. Learning about the business will give you a chance to understand how your role fits into the bigger picture.",
+                "zh": "W: 算是吧，不过更重要的是了解公司赖以存在的那些产品和服务的具体情况。了解公司业务能让你明白自己的职责是如何融入更大的整体的。"
+              },
+              {
+                "en": "M: Okay. I'm feeling a bit uneasy about meeting my boss as well.",
+                "zh": "M: 好的。不过，想到要见我的老板，我还是有点不安。"
+              },
+              {
+                "en": "W: That's to be expected. However, it's crucial that you get to know the people who have decision-making authority to gain insight regarding how the business is run and decisions are made.",
+                "zh": "W: 这是可以理解的。不过，了解那些拥有决策权的人至关重要，这样你才能深入了解公司是如何运营的，以及决策是如何做出的。"
+              },
+              {
+                "en": "M: Great advice. Thanks.",
+                "zh": "M: 这个建议太好了。谢谢。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They do not tell marketers their feeling about a product."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They do not compare competing brands and prices."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are not hesitant to contradict themselves."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are not sure what they really like to buy."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Consumers are often attracted by new products."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Consumers tend to make decisions on the spot."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Consumers find it hard to resist temptation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Consumers are actually driven by emotion."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Draw consumers' attention to the luxury goods symbolizing quality life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Leave consumers the impression they are doing nothing manipulative."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Highlight the emotional response it will trigger in the consumer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Remind consumers of the wide connections it can help to build.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Contrary to popular belief, consumers aren't as smart as they like to believe. Many consumers report comparing multiple competing brands and prices when evaluating a purchase. However, research indicates that this is not actually the case. What consumers really think or feel often contradicts what they say. A big reason is that they are driven by unconscious urges, the biggest of which is emotion.",
+                "zh": "与普遍看法相反，消费者并没有他们自认为的那么聪明。许多消费者表示，在评估一项购买时，他们会比较多个相互竞争的品牌及其价格。然而，研究表明，实际情况并非如此。消费者真正的想法或感受往往与他们所说的相矛盾。一个重要原因是，他们受到无意识冲动的驱使，其中最主要的就是情感。"
+              },
+              {
+                "en": "Emotion is what really drives the purchasing behaviors, and also, decision making in general. Good marketers keep in mind this important fact all the time, and examples of emotion-based campaigns are everywhere. Think for a moment, what is actually being sold in most marketing campaigns? Luxury goods target our feelings of self-worth, acceptance, and status in the world. Communication devices excite us by offering a connection to friends, family and a broader network of people. And many other products, such as rings, target emotions related to love and relationships.",
+                "zh": "真正驱动购买行为的，是情感；一般而言，决策也是如此。优秀的营销人员始终牢记这一重要事实，而以情感为基础的营销活动随处可见。请想一想，大多数营销活动实际上销售的是什么？奢侈品瞄准的是我们关于自我价值、认同感以及社会地位的感受。通信设备通过提供与朋友、家人以及更广泛人际网络的联系，使我们感到兴奋。许多其他产品，例如戒指，则瞄准与爱情和人际关系相关的情感。"
+              },
+              {
+                "en": "As marketers, we should focus on the features of the product, but we must also sell the lifestyle and the feeling. The key is to highlight the emotional response a consumer will have by using the product. To achieve the highest emotional response, we should target our consumer through many different senses. A lot of what drives consumers is subconscious behavior. But this isn't a bad thing. There's nothing manipulative about helping consumers achieve desired states of emotion.",
+                "zh": "作为营销人员，我们应当关注产品的功能，但也必须销售一种生活方式和一种感受。关键在于突出消费者使用产品后将产生的情感反应。为了达到最强烈的情感反应，我们应当通过许多不同的感官来触达消费者。驱动消费者行为的诸多因素都属于潜意识行为。但这并不是一件坏事。帮助消费者获得期望的情感状态，并没有任何操纵性。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are taking in a lot of plastic."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are polluting the environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They consume much processed food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They make everything with plastics."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Beer, salts and added sugars."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Tap water and take-away food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Food packages and plastic bags."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Air, bottled water and seafood."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How much plastic there is in the remaining 85% of Americans' typical diet."
+                  },
+                  {
+                    "l": "B",
+                    "t": "What measures can be taken to prevent plastic objects from fragmenting."
+                  },
+                  {
+                    "l": "C",
+                    "t": "What harm microplastics may actually do to the average Americans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How many ways there are for microplastics to get into food and air.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Plastics have for years been used to make nearly everything that surrounds us. But along the way, they escaped the confines of packaging and objects and settled in the environment, the food we eat and the air we breathe.",
+                "zh": "多年来，塑料一直被用于制造我们周围几乎所有的东西。但在这一过程中，它们逃离了包装和物品的束缚，进入了环境、我们所吃的食物以及所呼吸的空气中。"
+              },
+              {
+                "en": "Americans are consuming and breathing in a lot of plastic. Based on available data, Americans take in an estimated 74,000 to 121,000 microplastic particles every year. However, scientists believe the true number is probably much higher, because for some likely sources of microplastics, there were no strong data available.",
+                "zh": "美国人正在摄入并吸入大量塑料。根据现有数据估算，美国人每年摄入的微塑料颗粒数量在7.4万至12.1万之间。然而，科学家认为真实数量可能高得多，因为对于一些很可能的微塑料来源，目前没有可靠的数据。"
+              },
+              {
+                "en": "Microplastics get into food and air in several ways. Many start off as part of larger plastic objects, which over time fragment into smaller and smaller pieces until they become tiny: 5 millimeters or less in diameter. They are breathed in or consumed by animals, and then become our food. The particles float through the air until people breathe them in. They also settle on the food that people eat.",
+                "zh": "微塑料通过多种方式进入食物和空气。许多微塑料最初是较大塑料物品的一部分，随着时间的推移逐渐碎裂成越来越小的碎片，最终变得十分微小，直径仅为5毫米或更小。它们会被动物吸入或摄入，随后成为我们的食物。这些颗粒漂浮在空气中，直到人们将其吸入。它们也会沉积在供人们食用的食物上。"
+              },
+              {
+                "en": "Data shows that for Americans, air, bottled water and seafood were the biggest sources for breathed-in or consumed microplastics. Added sugars accounted for less, and salts, tap water and beer contributed minimal amounts. These estimates are conservative. The included foods only make up about 15% of the average American diet. It's not yet known how much plastic is contained in the remaining 85% of the typical diet.",
+                "zh": "数据显示，对于美国人来说，空气、瓶装水和海鲜是吸入或摄入微塑料的最大来源。添加糖所占比例较小，而盐、自来水和啤酒所贡献的数量极少。这些估算是保守的。所纳入的食物仅约占美国人平均饮食的15%。典型饮食中剩余的85%含有多少塑料，目前尚不清楚。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They planned to adopt a pet animal."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They kept not only a dog but a cat."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They had at least one pet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They liked cats more than dogs."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A sense of pride."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A sense of duty."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A sense of purpose."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A sense of security."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A few problems with keeping big animals."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Some disadvantages related to pet ownership."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A few cases of getting attacked by pet animals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some conflicts with neighbors due to pet keeping."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Reduce as many symptoms of depression as medical help."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Improve people's health as much as physical activities."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lower older people's stress as effectively as exercising."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Bring many of the same benefits as human social support."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "People looking to stay well as they age may want to adopt a pet animal, according to new data from the University of Michigan National Poll on Healthy Aging. For the survey, researchers polled about 2,000 U.S. adults from ages 50 to 80. 55% said they owned at least one pet. Dogs were the most common pet, followed by cats. But whatever the type of animal, the vast majority of owners said their pets boosted their mental and physical health.",
+                "zh": "密歇根大学健康老龄化全国民意调查的最新数据显示，希望随着年龄增长保持健康的人或许可以考虑养一只宠物。调查中，研究人员询问了约2,000名年龄在50至80岁之间的美国成年人。55%的人表示自己至少养有一只宠物。狗是最常见的宠物，其次是猫。但无论饲养何种动物，绝大多数宠物主人都表示，宠物改善了他们的心理和身体健康。"
+              },
+              {
+                "en": "Nearly 90% of older pet owners said their animals helped them enjoy life and feel loved; roughly 80% said their pets reduced stress; and almost three-quarters said their pets provided a sense of purpose. However, people did report a few disadvantages to pet ownership. This included difficulty traveling and financial strains. 6% of pet owners said they'd fallen or injured themselves as a result of having a pet.",
+                "zh": "近90%的老年宠物主人表示，宠物帮助他们享受生活并感受到关爱；约80%的人表示，宠物减轻了他们的压力；近四分之三的人表示，宠物让他们感到生活有目标。不过，人们确实也报告了养宠物带来的一些不利之处，包括出行困难和经济压力。6%的宠物主人表示，他们曾因养宠物而跌倒或受伤。"
+              },
+              {
+                "en": "Still, plenty of research has shown that just about anyone can benefit from their pet, since animals can lower stress, reduce symptoms of depression and anxiety and encourage physical activity. The new poll suggests that pet ownership may be especially beneficial for older adults, given how common loneliness and social isolation are within this age group. Human social support comes with a host of health benefits—less stress, lower rates of long-term disease and more—and research shows that interacting with pets can bring many of the same benefits.",
+                "zh": "尽管如此，大量研究表明，几乎所有人都能从宠物身上受益，因为动物能够减轻压力，缓解抑郁和焦虑症状，并促进身体活动。这项新的民意调查表明，养宠物对老年人可能尤其有益，因为孤独和社会隔离在这一年龄群体中十分普遍。人类的社会支持能够带来一系列健康益处，包括减轻压力、降低长期疾病的发生率等；研究表明，与宠物互动也能带来许多相同的益处。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2026-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Junk-food lovers who try to cut back on fries or chocolate may experience symptoms similar to drug withdrawal, a new study suggests. Researchers found that people attempting to cut down on eating highly processed foods experience some of the same"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "smoking cigarettes or using drugs, according to the study. The new study"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "the first evidence that these withdrawal-like symptoms can occur when people cut down on highly processed foods, said lead study author Erica Schulte. Based on the participants' self-reported symptoms, withdrawal symptoms were"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "more intense between the second and fifth days after attempting to reduce junk-food consumption, which"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "the time span people live through during drug withdrawal. The idea that food may be addictive after \"heavy\" use by some individuals is a"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "subject, Schulte said. Although prior studies in animals and humans have shown some biological and behavioral similarities between substance-use disorders and addictive-like consumption of highly processed foods, no studies have looked at whether reducing junk food can"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "withdrawal symptoms in people, she noted. Raising"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "coping strategies in advance, Schulte noted. The findings may also"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "light on the barriers people face when changing eating habits—barriers that may play a role in people dropping out of treatments, she said."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "awareness"
+        },
+        {
+          "l": "B",
+          "w": "canceling"
+        },
+        {
+          "l": "C",
+          "w": "controversial"
+        },
+        {
+          "l": "D",
+          "w": "emptiness"
+        },
+        {
+          "l": "E",
+          "w": "monstrous"
+        },
+        {
+          "l": "F",
+          "w": "offers"
+        },
+        {
+          "l": "G",
+          "w": "parallels"
+        },
+        {
+          "l": "H",
+          "w": "permanently"
+        },
+        {
+          "l": "I",
+          "w": "physical"
+        },
+        {
+          "l": "J",
+          "w": "prepare"
+        },
+        {
+          "l": "K",
+          "w": "prospects"
+        },
+        {
+          "l": "L",
+          "w": "quitting"
+        },
+        {
+          "l": "M",
+          "w": "shed"
+        },
+        {
+          "l": "N",
+          "w": "significantly"
+        },
+        {
+          "l": "O",
+          "w": "trigger"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "I"
+        },
+        {
+          "n": 27,
+          "a": "L"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "N"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "C"
+        },
+        {
+          "n": 32,
+          "a": "O"
+        },
+        {
+          "n": 33,
+          "a": "A"
+        },
+        {
+          "n": 34,
+          "a": "J"
+        },
+        {
+          "n": 35,
+          "a": "M"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Giving a better phone interview",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "These days, phone interviews are an unavoidable part of the job interview process, and for good reason: They save time and effort. But that doesn't mean that phone calls require zero energy on the part of the candidate. Many companies treat phone screening as the official first round of the hiring process. That means candidates are expected to go into them prepared with as much information as possible about the company, position, and their own skills and strengths."
+        },
+        {
+          "l": "B",
+          "t": "A big mistake people often make is talking about their personal lives. Don't talk about your personal life unless you're directly asked a question about what you like to do in your off-hours. \"The point of a phone interview is to focus on getting to know a candidate's professional experience and goals,\" says Mckenzie Roark, campus talent specialist at Lithko Contracting. \"A recruiter is trying to see if they are the best fit for a role, and learning about their personal life doesn't help. For example, when asked where you see yourself in five years, we don't want to know that you hope to be married or that you want to buy a new house. That is nice, but that isn't relative to anything professional.\""
+        },
+        {
+          "l": "C",
+          "t": "It might be tempting to cross something off your to-do list while on a phone interview, but recruiters and hiring managers can easily tell if your attention is elsewhere. Many interviewers are annoyed to see people who decide to multitask while on the phone interview. There are candidates who wash dishes, go for walks, or do grocery shopping during the interview. Needless to say, this doesn't reflect well on your level of interest in the position you're interviewing for."
+        },
+        {
+          "l": "D",
+          "t": "The question regarding pay is also best avoided. To be frank, it's simply too early in the process for you to be the one who brings up salary expectations. \"Chances are if a candidate is participating in a phone interview, this is the first time they have talked with the company, and the first call isn't the appropriate time to talk about 'what's in it for you,'\" says Justina Strnad, the Talent Acquisition Manager for Shiftgig. \"Trust me, if you are a great candidate and make it to the next step, the hiring team is going to be very transparent about what's in it for you later on.\""
+        },
+        {
+          "l": "E",
+          "t": "\"After wrapping up a phone interview, it is typical that the interviewer will ask the candidate if they have any questions. I can't stress this enough: ALWAYS ask questions,\" says Roark. \"If we have had a great phone interview and then we wrap up and they don't have any questions for me, it pretty much ruins the whole interview. It tells me that the candidate is uninterested in the role, which in reality might not be the case at all,\" she notes. But surely, if you're interested in a job, you can think of something to ask your interviewer."
+        },
+        {
+          "l": "F",
+          "t": "It seems basic, but surprisingly, a lot of people are late to phone interviews. \"About a quarter of the people with whom I schedule phone interviews aren't on time,\" says Sophie Cikovsky, who handles U.S. recruiting for Infinite Global. \"While this bothers me personally, it's also indicative of someone who isn't very detail- oriented,\" she explains. \"In order to identify this early in the hiring process, I started asking all candidates a few years ago to call me as opposed to calling them at an agreed-upon time. That way, if I hear from them at 1:13 p.m. or 12:49 p.m. instead of our planned 1:00 p.m. interview time, I have an early indicator that they might not be a great fit.\""
+        },
+        {
+          "l": "G",
+          "t": "\"Make sure you test your headset and connection before dialing in,\" recommends Roark. \"There is nothing more frustrating for a recruiter who has a structured interview guide in place having to repeatedly ask the same question over and over because they could not understand your answer due to dropped signals.\" Test- call a friend beforehand, or even call yourself from a landline if necessary; it will take less than a minute."
+        },
+        {
+          "l": "H",
+          "t": "You might be eager to get your point across or talk about your experience, but interrupting the interviewer is awkward and rude. \"Interviewing can be stressful, and sometimes that stress manifests itself in speaking too fast, speaking too loud, talking over the interviewer, or attempting to answer the interviewer's question before they have actually finished asking the question,\" says Chris Dardis, a recruiting expert. \"Don't do this.\" There's a big difference between being assertive(自信的) and being aggressive, and interviewers can always recognize it."
+        },
+        {
+          "l": "I",
+          "t": "It's tough not to say things like \"um,\" \"uh,\" and \"like\" in everyday speech, but these verbal habits become much more pronounced when speaking on the phone, says Dardis. \"In face-to-face interviews, they're not as noticeable, because there are other things like your hair, suit, or body language to distract people.\" But in a phone interview, the only thing you have to go on is what you say and how you say it. \"That's why it's so important to eliminate these words from your speech when doing a phone interview.\""
+        },
+        {
+          "l": "J",
+          "t": "Not knowing anything about the company or job you're interviewing for is way more obvious than you'd think. \"Many people think that they don't have to put as much effort into researching the role or the company,\" says Steve Pritchard, an HR consultant. And if you have your laptop in front of you during the interview to do a few quick searches, they won't know the difference, right? Not exactly. \"Seasoned interviewers will know whether an interviewee is researching while on the phone. The interviewer can often even hear the typing as they ask the question,\" he adds."
+        },
+        {
+          "l": "K",
+          "t": "\"The key to success during a phone interview is clear and concise answers,\" says Dardis. \"People's attention spans tend to be shorter over the phone. You don't want your future employer to lose interest in the conversation.\" He recommends practicing answers to questions you know will be asked ahead of time in order to be clear on what you're going to say. That way, you can prevent talking in an aimless manner."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Interviewees are advised not to ask questions about pay during a phone interview.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "Experienced interviewers will know if an applicant is searching for information online while talking on the phone.",
+          "a": "J"
+        },
+        {
+          "n": 38,
+          "s": "Many employers regard the phone interview as the first step of the official recruiting process.",
+          "a": "A"
+        },
+        {
+          "n": 39,
+          "s": "Applicants who don't ask questions at the end of an interview most probably ruin their chance of getting the position.",
+          "a": "E"
+        },
+        {
+          "n": 40,
+          "s": "The interviewee should test their phone connection before they call the interviewer.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "It is annoying to the interviewer to find the applicant doing other tasks while being interviewed.",
+          "a": "C"
+        },
+        {
+          "n": 42,
+          "s": "To pass a phone interview, the most important thing is to answer questions clearly and concisely.",
+          "a": "K"
+        },
+        {
+          "n": 43,
+          "s": "If you fail to call the interviewer on time, they might not see you as a suitable candidate.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "Applicants should avoid talking about their personal lives if the interviewer has only asked about their professional background and goals.",
+          "a": "B"
+        },
+        {
+          "n": 45,
+          "s": "It is impolite for an interviewee to interrupt the interviewer in the phone conversation.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Disgust is a universal human emotion. One type of disgust is called physical disgust, which protects us from eating or touching things that could be dangerous for us, such as raw meat or insects. Children experience physical disgust from a very early age, but do not achieve an understanding of the concept until they are around four years old. Some researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong. Examples of moral disgust are stealing, lying or cheating. However, not all academics think that moral disgust really exists. Some say that when we refer to disgust in relation to moral issues, we are using disgust as a metaphor(隐喻), and what we are feeling is in reality anger. If moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it. Children learn about emotions in many different ways. Of special relevance are parents-children conversations about emotions. Indeed, children whose parents talk about emotions often have a better emotional understanding than children whose parents do not discuss emotions often. However, there are no studies that have examined how parents and children talk about disgust. This is what we set up to examine in our study. We asked 68 English-speaking mothers and their four-, six- or eight-year-old children to discuss some stories about moral and physical disgust. Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust. When we asked mothers and children to discuss moral issues, such as whether it is OK to play with a child who has stolen someone else's snack, they linked this type of moral wrongdoing with the emotion of anger and not disgust. Does this mean that moral disgust does not exist? Some researchers suggest moral disgust exists in adults. Our findings suggest that moral disgust is either understood at a later age or is only used metaphorically, if at all, in children as old as eight years.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the passage tell us about physical disgust?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is an emotion as contrasted with thoughts."
+              },
+              {
+                "l": "B",
+                "t": "It is a concept beyond children's understanding."
+              },
+              {
+                "l": "C",
+                "t": "It is a mechanism to keep us from being harmed."
+              },
+              {
+                "l": "D",
+                "t": "It is an experience gained from any form of danger."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "How do some researchers perceive moral disgust?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It tends to appear in various forms of wrongdoing."
+              },
+              {
+                "l": "B",
+                "t": "It is just as annoying to people as physical disgust."
+              },
+              {
+                "l": "C",
+                "t": "It is a term used by common folk to describe anger."
+              },
+              {
+                "l": "D",
+                "t": "It stops people from doing anything morally wrong."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "Why does moral disgust appear quite late in children's development?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It needs to be learnt through social interactions."
+              },
+              {
+                "l": "B",
+                "t": "They have little control over its learning process."
+              },
+              {
+                "l": "C",
+                "t": "It is too complex for them to acquire."
+              },
+              {
+                "l": "D",
+                "t": "Their parents seldom talk about emotions."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What did the author and his colleagues want to examine in their experiment?",
+            "o": [
+              {
+                "l": "A",
+                "t": "What parents tell children against moral wrongdoing."
+              },
+              {
+                "l": "B",
+                "t": "What parents and children link moral wrongdoing to."
+              },
+              {
+                "l": "C",
+                "t": "How moral disgust is seen by children aged 4, 6 and 8."
+              },
+              {
+                "l": "D",
+                "t": "How disgust is discussed between parents and children."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What can we infer about moral disgust from the author and his colleagues' findings?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is a notion hardly comprehensible to children."
+              },
+              {
+                "l": "B",
+                "t": "It rarely exists in children younger than eight."
+              },
+              {
+                "l": "C",
+                "t": "It is a term most parents use when talking to children."
+              },
+              {
+                "l": "D",
+                "t": "It exists in adults with a strong sense of justice."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "After finding out details about a stranger, we mistakenly think that they also know about us. As a result, we act more honestly around them, according to a recent study in Nature. Past research has found that we tend to assume social relationships are reciprocal(相互的). Most of the time, this assumption is accurate: someone you think of as a friend will usually consider you a friend too. But sometimes our social ties are more one-sided: for example, you might learn something about a stranger who doesn't know you at all. Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social ties are reciprocal could lead us to mistakenly feel that a stranger does actually know us. In a series of lab-based studies, this is exactly what the researchers found. When we know about strangers, we erroneously think they also know about us. But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment. The team developed leaflets( 传单) containing fairly ordinary information about local community police officers, such as their favourite food, hobbies, or reasons for joining the police force. They then sent out these leaflets to every apartment in a number of housing developments in disadvantaged areas. The officers themselves also dropped off cards to local residents containing similar information. Two months later, the researchers surveyed residents at these housing developments as well as control areas that did not receive leaflets or outreach cards. Residents were asked to imagine that they had committed a crime and how likely it would be that local officers would find out about it. They also rated how well the officers in the area knew them. The team found that residents of the developments that had received the leaflets believed it more likely that local officers would find out about illegal activity than residents of the control areas. Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is the finding of a recent study in Nature?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People are more honest with those who know them than with total strangers."
+              },
+              {
+                "l": "B",
+                "t": "People we want to have detailed information about are keen to know about us."
+              },
+              {
+                "l": "C",
+                "t": "People who get to know about a person wrongly assume the person knows them too."
+              },
+              {
+                "l": "D",
+                "t": "People who are familiar with each other tend to behave honestly in their everyday dealings."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What does the passage say about the assumption that social relationships are reciprocal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is more the exception than the rule."
+              },
+              {
+                "l": "B",
+                "t": "It does not hold true in every situation."
+              },
+              {
+                "l": "C",
+                "t": "It does not apply to complex relationships."
+              },
+              {
+                "l": "D",
+                "t": "It is more accurate in one-sided social ties."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What did Anuj Shah and Michael LaForest want to find out about the belief that social relationships are\n reciprocal?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Whether it may resolve misunderstandings about social ties."
+              },
+              {
+                "l": "B",
+                "t": "Whether it could help develop one's relationships with strangers."
+              },
+              {
+                "l": "C",
+                "t": "Whether it could help strengthen interpersonal relationships."
+              },
+              {
+                "l": "D",
+                "t": "Whether it may lead to false assumptions about a stranger."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "When did Anuj Shah and Michael LaForest find something really interesting in their research?",
+            "o": [
+              {
+                "l": "A",
+                "t": "During lab-based studies."
+              },
+              {
+                "l": "B",
+                "t": "During a field experiment."
+              },
+              {
+                "l": "C",
+                "t": "While investigating local residents' crime."
+              },
+              {
+                "l": "D",
+                "t": "While talking to police officers nearby."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What happened in the areas around the housing developments subjected to the studies?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They saw fewer crimes than the control developments."
+              },
+              {
+                "l": "B",
+                "t": "They witnessed a swifter elimination of illegal activities."
+              },
+              {
+                "l": "C",
+                "t": "Local police responded more quickly to criminal complaints than before."
+              },
+              {
+                "l": "D",
+                "t": "Local police related better to residents there than to those in other areas."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "在中国传统文化中，亲朋好友之间互赠礼物是人际交往的一种重要礼节 (etiquette) 。赠送礼物不仅是物质 的馈赠，更是情感的表达，是维系人际关系的重要纽带。一份精心挑选、符合接受者喜好的礼物，往往能加深 彼此的感情。中国人遵循\"礼尚往来\" (mutually exchanging courtesies)的传统，接受礼物时会表达谢意，并适时 回赠礼物，以增进彼此的融洽关系。",
+    "reference": "In traditional Chinese culture, exchanging gifts among relatives and close friends is an important form of etiquette in interpersonal communication. Giving gifts is not only a material offering, but also an expression of affection, and an important bond that maintains interpersonal relationships. A carefully chosen gift that suits the recipient's preferences can often deepen mutual affection. Chinese people follow the tradition of reciprocity (mutually exchanging courtesies): when receiving gifts, they express their gratitude and return gifts at an appropriate time, so as to enhance their harmonious relationship."
+  }
+}

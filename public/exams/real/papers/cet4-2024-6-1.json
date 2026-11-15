@@ -1,0 +1,1336 @@
+{
+  "id": "cet4-2024-6-1",
+  "level": "cet4",
+  "year": 2024,
+  "month": 6,
+  "set": 1,
+  "title": "2024年6月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose your university is seeking students’ opinions on whether university libraries should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+    "sample": "Whether university libraries should open their doors to the public has sparked heated debate in recent years. In my view, these libraries should indeed be accessible to ordinary citizens, provided that reasonable management measures are in place.Two reasons support my position. Firstly, opening university libraries promotes the sharing of knowledge. Many valuable books and academic resources sit idle on the shelves, and allowing the public to use them turns campus libraries into vibrant centers of lifelong learning. Moreover, such openness enriches the cultural life of the whole community. For instance, a retired worker or a curious teenager could freely explore fields they never studied at school, which narrows the gap between universities and society.Admittedly, outside visitors may strain limited seats and disturb students. Yet this problem can be eased by setting fixed visiting hours and registration rules. Therefore, I firmly believe university libraries should welcome the public, so long as students' study needs are fully protected."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Due to a fire alarm in their apartments."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Because of the smoke and heat damage."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Due to the water used to extinguish the flames."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Because of the collapse of the three-story building."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Investigating the cause of the incident."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Helping search for the suspect of the crime."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Rescuing the businessmen trapped in the building."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Checking town records for the property developer.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Six people had to move away from their home to another place after a fire broke out in a building on Main Street Saturday, officials said. Firefighters responded to the three-story building shortly after 1 p.m. for a reported structure fire, according to Norwalk Deputy Fire Chief Adam Markowitz.",
+                "zh": "官员称,周六Main Street一栋建筑发生火灾后,六人不得不从家中搬到另一个地方。据Norwalk消防副局长Adam Markowitz称,消防员在下午1点刚过就接到建筑物火灾报告后赶到了这栋三层建筑。"
+              },
+              {
+                "en": "Markowitz said crews encountered heavy smoke coming from the second floor when they arrived. A team of about 25 firefighters then spent about 25 minutes extinguishing the flames. Officials described the structure as a mixed-use building that features commercial businesses on the first floor and residential on the second and third floors.",
+                "zh": "Markowitz说,消防人员到达时遇到从二楼冒出的浓烟。随后约25名消防员组成的队伍花了大约25分钟扑灭了火焰。官员将该建筑描述为一栋混合用途建筑,一楼为商业店铺,二楼和三楼为住宅。"
+              },
+              {
+                "en": "Town records list four apartments in the building. Due to smoke and heat damage, the four apartments were declared uninhabitable, and the six residents had to move to another place, officials said. No injuries were reported in connection with the fire. The Norwalk Fire Marshal is investigating the cause and origin of the fire.",
+                "zh": "城镇记录显示该建筑内有四套公寓。官员称,由于烟雾和高温破坏,这四套公寓被宣布不适宜居住,六名居民不得不搬到另一个地方。没有关于火灾造成人员伤亡的报告。Norwalk消防局长正在调查火灾的原因和起源。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It plays a less important role in one's health than nutrient intake."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It impacts people's health to a lesser degree than sun exposure."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is associated with people's mental health conditions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is linked with older adults' symptoms of depression."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was indefinite."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was systematic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was straightforward."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was insignificant.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new study has cast doubt on historic research suggesting that the season or month of someone's birth is associated with an increased risk of certain mental health conditions. The study looks at symptoms of anxiety and depression among more than 70,000 older adults in Europe.",
+                "zh": "一项新研究对历史研究提出了质疑,这些历史研究认为某人的出生季节或月份与某些心理健康状况的风险增加有关。该研究调查了欧洲超过7万名老年人的焦虑和抑郁症状。"
+              },
+              {
+                "en": "A number of past studies have found the link between season of birth and mental health diagnoses. Researchers have suggested that such links could arise from various things. These include nutrient intake, sun exposure, climate, and disease exposure varying across the course of the year. However, evidence has been mixed. More recent studies have suggested that factors such as social class or economic background have more to do with these diagnoses than month of birth.",
+                "zh": "过去的许多研究发现了出生季节与心理健康诊断之间的联系。研究人员认为,这种联系可能源于各种因素。这些因素包括全年不同时期的营养摄入、阳光照射、气候和疾病暴露的变化。然而,证据一直是混杂的。最近的研究表明,社会阶层或经济背景等因素与这些诊断的关系比出生月份更大。"
+              },
+              {
+                "en": "Overall, the new study found no significant relationship between participants' month of birth and symptoms of depression or anxiety. There was some variability in some countries. In Poland, depressive symptoms fluctuated a little depending on birth month. In the Czech Republic, the same was true of anxiety symptoms. But on the whole, there was no systematic pattern.",
+                "zh": "总体而言,这项新研究发现参与者的出生月份与抑郁或焦虑症状之间没有显著关系。在一些国家存在一些变化。在波兰,抑郁症状根据出生月份有轻微波动。在捷克共和国,焦虑症状也是如此。但总的来说,没有系统性模式。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has helped solve several murder cases."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has become a star office dog in Beijing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has surpassed its mother in performance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has done better than naturally born dogs."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To speed up investigation into criminal cases."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To test the feasibility of cloning technology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To cut down training expenses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To reduce their training time."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cloning is too complicated a process."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The technology is yet to be accepted."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Cloning is ethically controversial."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The technology is too expensive."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Genetic researchers in China have made a clone of a star police dog. The clone was born in a laboratory in Beijing in December. Tests show that the clone and her mother are almost identical genetically. The mother dog helped solve multiple murders and many other crimes. The clone has already performed better than traditionally bred dogs on several tests.",
+                "zh": "中国的遗传研究人员克隆了一只明星警犬。该克隆犬于12月在北京的一个实验室出生。测试显示,克隆犬与其母犬在基因上几乎完全相同。母犬曾协助侦破多起谋杀案和许多其他犯罪案件。克隆犬已经在多项测试中表现得优于传统繁育的犬只。"
+              },
+              {
+                "en": "If the clone continues to perform as well as expected, it could mean a huge reduction in the training time for police dogs, which usually takes about five years. The ultimate goal of scientists is to produce clones of talented police dogs that can be trained in months instead of years. However, this goal is not yet possible due to the current costs of the technology.",
+                "zh": "如果克隆犬继续按预期表现良好,这可能意味着警犬训练时间的大幅缩减,而警犬训练通常需要约五年时间。科学家的最终目标是培育出优秀警犬的克隆体,使其能够在数月而非数年内完成训练。然而,由于目前该技术的成本,这一目标尚无法实现。"
+              },
+              {
+                "en": "This is not the first time a clone has been made of a star police dog. In South Korea, six clones began working with the police in 2008.",
+                "zh": "这并非首次克隆明星警犬。在韩国,六只克隆犬于2008年开始与警方合作。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He read it somewhere online."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He heard about it from a coworker."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He read an article reviewing it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He watched a TV series based on it."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His publications."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His first book."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His address."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His name."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Collect a lot more data."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Relax a bit less often."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Clarify many new concepts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Read more reference books."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Find out the show's most interesting episodes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Watch the series together with the woman."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Get an e-copy of the book to read."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Check to see when the show starts.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Tom, did you see the article online about the new TV series based on the book The Three Body Problem?",
+                "zh": "W: Tom，你看到网上关于根据《三体》这本书改编的新电视剧的文章了吗？"
+              },
+              {
+                "en": "M: A colleague mentioned the book, but I've been so busy writing my thesis that I haven't been able to read for pleasure in months.",
+                "zh": "M: 有同事提到过这本书，但我一直忙着写论文，已经好几个月没能读闲书了。"
+              },
+              {
+                "en": "W: Well, sounds like if you're going to read anything for fun, this is the book. It's written by a Chinese science fiction writer. I can't remember his name, but he's written three books in all, and The Three Body Problem is the first in the series. I don't want to say too much and spoil it for you, but it's definitely got some amazing technological and sociological concepts in it.",
+                "zh": "W: 听起来如果你要读点消遣的东西，就该读这本书。它是一位中国科幻作家写的。我记不得他的名字了，但他一共写了三本书，《三体》是系列的第一部。我不想说太多剧透，但里面确实有一些很棒的技术和社会学概念。"
+              },
+              {
+                "en": "M: It does sound like it would suit my taste, but if they are making a TV series based on it now, I don't know if I should read the book or watch the show first.",
+                "zh": "M: 听起来确实符合我的口味，但如果他们现在要根据它拍电视剧，我不知道该先读书还是先看剧。"
+              },
+              {
+                "en": "W: I think it's better to read the book first. It's rare for the show or movie to be better than the book. And then, you just end up ruining the book for yourself, if the show isn't very good.",
+                "zh": "W: 我觉得最好先读书。电视剧或电影比书好的情况很少见。而且如果剧拍得不好，你就把书给毁了。"
+              },
+              {
+                "en": "M: When is the show supposed to start? I'm a bit overwhelmed with the amount of data I still need to collect to finish my thesis. But I still need to relax sometimes.",
+                "zh": "M: 这个剧什么时候开播？我现在还有大量数据要收集才能完成论文，有点应接不暇。但我还是需要偶尔放松一下。"
+              },
+              {
+                "en": "W: I can't remember exactly. It's pretty soon, and it's going to be quite long. There are 24 episodes. Well, maybe you could download an electronic copy of the book and try to read it before the show starts.",
+                "zh": "W: 我记不太清了。挺快的，而且会很长。有24集。也许你可以下载电子版的书，在剧开播前试着读完。"
+              },
+              {
+                "en": "M: That's a good idea. And then, maybe we can watch the series together. Thanks for the tip, Alice.",
+                "zh": "M: 这主意不错。然后也许我们可以一起看这部剧。谢谢你的建议，Alice。"
+              },
+              {
+                "en": "W: No problem.",
+                "zh": "W: 不客气。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To check the prices of his farm produce."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To ask the way to the Newcastle City Hall."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To inquire about the vegetarian food festival."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To seek the man's help with her work on the farm."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Bakers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Vendors."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Vegetarians."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Organisers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The issuing of certificates to vendors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The completion of the baking task."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The festival they are organising."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The deadline for application."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The closing date of submission."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The website of his company."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The details of the ceremony."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The organiser's address."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Hello, good afternoon. I have an inquiry to make. It's about the vegetarian food festival you are holding on the 19th of August at the Newcastle City Hall.",
+                "zh": "W: 你好，下午好。我有个问题想咨询一下。是关于你们8月19日在纽卡斯尔市政厅举办的素食美食节的。"
+              },
+              {
+                "en": "M: Yes, of course. My name's Philip. How can I help you?",
+                "zh": "M: 好的，当然可以。我叫Philip。有什么可以帮您的吗?"
+              },
+              {
+                "en": "W: It says on your website that you are still looking for vendors, and I grow organic vegetables on my farm, as well as doing my own home baking. Would I be able to sell both the vegetables and items baked from them at the festival?",
+                "zh": "W: 你们网站上说还在招募摊主，我在自己的农场种植有机蔬菜，同时也自己在家烘焙。我能在美食节上同时售卖蔬菜和用这些蔬菜烘焙的食品吗?"
+              },
+              {
+                "en": "M: That's exactly the type of thing we are looking for. We're getting close to the deadline, however. Do you prefer to fill out an application on the web, or to print it out and fill it in by hand and then post it back to us? Remember that you will have to have all your certificates to hand when you are filling out the forms, as the standards are high and they'll be carefully checked before anyone will be able to sell their produce at the event.",
+                "zh": "M: 这正是我们在寻找的。不过我们快到截止日期了。您是想在网上填写申请表，还是打印出来手工填写然后邮寄给我们?请注意，填表时您需要准备好所有的证书，因为标准很高，在任何人能够在活动上售卖产品之前，这些证书都会被仔细审核。"
+              },
+              {
+                "en": "W: I should be fine with doing it on your website, and I already have all my certificates, as we run a small farm shop too. But can you give me your details anyway?",
+                "zh": "W: 我在你们网站上填应该没问题，而且我已经有所有证书了，因为我们也经营一家小型农场商店。不过你还是能把邮寄地址给我吗?"
+              },
+              {
+                "en": "M: Sure. Please address it to the Organic Organization, Vendor Applications, 112 Queens Road, Newcastle, Northumbria. The postcode is NU 29 3LJ. Remember that the closing date is next Tuesday, the 28th of June.",
+                "zh": "M: 当然。请寄到Organic Organization，Vendor Applications，112 Queens Road，Newcastle，Northumbria。邮编是NU 29 3LJ。请记住截止日期是下周二，6月28日。"
+              },
+              {
+                "en": "W: That's absolutely wonderful. Thank you so much for your help. Goodbye.",
+                "zh": "W: 太好了。非常感谢你的帮助。再见。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Most scenic sites have been closed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Access to official campsites is limited."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Health experts advise going outdoors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People have more time during the summer."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is strongly opposed by nearby residents."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It leads to much waste of public money."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has caused environmental concerns."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has created conflicts among campers."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Look for open land in Scotland."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Leave no trace of their camping."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Avoid getting close to wilderness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Ask for permission from authorities.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Supporters call it \"wild camping\"; opponents call it \"illegal camping\". What both sides accept is that there has been a boom in the past few months, with increasing numbers of visitors pitching their tents on any bit of land they fancy in the UK. In part, this reflects the fact that official campsites have been wholly or partially closed, or are overflowing in a summer when fewer people are going abroad. It is also cheap, at a time when many are worried about what the economic future holds. But it may also be an expression of a desire for going outdoors—a response to the months of lockdown.",
+                "zh": "支持者称之为\"野外露营\"；反对者称之为\"非法露营\"。双方都承认的是，过去几个月出现了激增现象，越来越多的游客在英国任何他们看中的土地上搭起帐篷。这在一定程度上反映了一个事实，即官方露营地已经全部或部分关闭，或者在这个出国人数较少的夏天已经人满为患。在许多人担心未来经济前景的时候，这也很便宜。但这也可能是一种对户外活动渴望的表达——一种对数月封锁的回应。"
+              },
+              {
+                "en": "Most of the coverage of the boom in wild camping has been negative. Camping in public parks has now been banned for August and the early part of September because campers dump litter, human waste, and even their tents on the grassland. Similar action has been taken even in Scotland, where camping is usually permitted on most of its open land.",
+                "zh": "关于野外露营热潮的大部分报道都是负面的。由于露营者在草地上倾倒垃圾、人类排泄物甚至他们的帐篷，公共公园现已禁止在8月和9月初进行露营。即使在苏格兰也采取了类似的行动，而那里通常允许在其大部分开放土地上露营。"
+              },
+              {
+                "en": "Clearly there have to be rules. It would make sense that wild campers need to ask for permission to camp from landowners, especially outside Scotland, where the law is far more restrictive. It would be common sense for people to use small tents and leave no trace of their visit. They have been attracted by a patch of land this close to wilderness, and it is their responsibility to keep it that way.",
+                "zh": "显然必须有规则。野外露营者需要向土地所有者征求露营许可是合理的,特别是在苏格兰以外的地区，那里的法律要严格得多。人们使用小帐篷并不留下任何访问痕迹是常识。他们被这片如此接近荒野的土地所吸引，保持其原貌是他们的责任。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They outcompete mythical creatures."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They usually mind their own business."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They truly exist in the Amazon region."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They resemble alarmingly large snakes."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Scar tissue from dolphins' fighting."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Skin infection from water pollution."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Unhealed wounds from snake bites."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Swimming along in seasonal floods."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has been shrinking at an astonishing pace."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has been placed under international protection."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has been appealing to both freshwater and sea dolphins."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has been abandoned as a battleground for male dolphins.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Imagine boating down the Amazon River, minding your own business—calmly keeping an eye out for alarmingly large snakes—and a curious pink dolphin appears to swim alongside. While this may seem like a mythical creature, pink dolphins do exist in the Amazon region.",
+                "zh": "想象一下，你正在亚马逊河上划船，专心做着自己的事——平静地留意着那些大得惊人的蛇——这时一只好奇的粉红色海豚出现在你身边游动。虽然这看起来像是神话中的生物，但粉红色海豚确实存在于亚马逊地区。"
+              },
+              {
+                "en": "The Amazon river dolphin is a giant among its species. It can measure up to 2 meters long and weigh around 204 kilograms. Size isn't the only thing that sets the Amazon river dolphin apart. Thriving in South American rivers and temporary lakes caused by seasonal flooding, this freshwater dolphin is sometimes shockingly pink.",
+                "zh": "亚马逊河豚是其物种中的巨型成员。它的体长可达2米，体重约204千克。体型并不是亚马逊河豚与众不同的唯一特征。这种淡水豚栖息在南美洲的河流和季节性洪水形成的临时湖泊中，有时会呈现出令人震惊的粉红色。"
+              },
+              {
+                "en": "Although born gray, males of the species are easily identified as they enter adulthood by a decisive pink shade. Their unusual coloring is believed to be the result of scar tissue from dolphin fights—whether playful fighting or a serious bid for a mate. The deeper the pink, the more attractive the males are believed to be, and the older the male, the more pink it will have.",
+                "zh": "虽然出生时是灰色的，但该物种的雄性在进入成年期后很容易通过明显的粉红色阴影来识别。它们不寻常的颜色被认为是海豚打斗留下的疤痕组织的结果——无论是嬉戏打闹还是为争夺配偶的激烈竞争。粉红色越深，雄性被认为越有吸引力，而雄性年龄越大，粉红色就越多。"
+              },
+              {
+                "en": "There's also a theory that this color helps the dolphins more readily blend in with their surroundings. During heavy rains, rivers along the Amazon rainforest turn a pink shade, and with it male dolphins are harder to detect. The Amazon wetland system, fed by the Amazon River, is a crucial place for pink dolphins to breed, and since 2018 has been granted internationally protected status.",
+                "zh": "还有一种理论认为，这种颜色有助于海豚更容易地与周围环境融为一体。在大雨期间，亚马逊雨林沿岸的河流会呈现粉红色，雄性海豚也因此更难被发现。由亚马逊河滋养的亚马逊湿地系统是粉红色海豚繁殖的关键场所，自2018年以来已被授予国际保护地位。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About 58% of young adults call parental support the new normal."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Most adult children enjoy increasing sources of financial support."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A full 70% of the young adults cannot afford to buy a car by themselves."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Most early adults cannot sustain their lifestyles without parental support."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It renders them dependent."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It causes them to lose dignity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It makes them mentally immature."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It hinders them from getting ahead."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It challenges one's willpower."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It results from education."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It calls for due assistance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It defines adulthood."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Current lifestyles."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Poor budgeting."
+                  },
+                  {
+                    "l": "C",
+                    "t": "College loans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Emergency expenses."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In a new Merrill Lynch/Age Wave survey, a full 70% of the early adults said they received financial support from their parents in the past year and 58% said they couldn't afford their current lifestyles without it. The most common types of financial support include cell phone plans, food, school costs and car expenses. Parental financial support of early adults, said Ken Dychtwald, CEO of Age Wave, is \"the new normal\".",
+                "zh": "在 Merrill Lynch/Age Wave 的一项新调查中，70% 的年轻成年人表示他们在过去一年中得到了父母的经济支持，58% 的人表示如果没有这些支持，他们无法负担目前的生活方式。最常见的经济支持类型包括手机套餐、食物、学费和汽车开支。Age Wave 首席执行官 Ken Dychtwald 表示，父母对年轻成年人的经济支持是\"新常态\"。"
+              },
+              {
+                "en": "But 64% of the young adults surveyed said parents' financial support to children age 25 to 34 is \"a bad thing\", because it makes those kids dependent. By contrast, only 29% thought supporting men and women age 18 to 24 is bad; the remaining 71% think that assistance \"helps the adult children get ahead\".",
+                "zh": "但 64% 接受调查的年轻成年人表示,父母对 25 至 34 岁子女的经济支持是\"坏事\",因为这会让这些孩子产生依赖性。相比之下,只有 29% 的人认为支持 18 至 24 岁的男性和女性是坏事;其余 71% 的人认为这种援助\"帮助成年子女取得进步\"。"
+              },
+              {
+                "en": "Dychtwald believes the young women and men surveyed were saying that by 25, younger adults ought to be financially independent. In fact, the respondents said, financial independence defines adulthood. \"Financial independence is something they were struggling with and challenged by. And it scared them a bit,\" Dychtwald said. One big reason they're struggling is attributed to college loans, of which the average amounts to $37,000. Many of the parents have taken on college loans for the kids, too, sometimes at the expense of their own finances. In the survey, 60% of early adults define financial success as being debt-free. Whether that's likely, or even possible, anytime soon is anyone's guess.",
+                "zh": "Dychtwald 认为,接受调查的年轻女性和男性表达的意思是,到 25 岁时,年轻成年人应该在经济上独立。事实上,受访者表示,经济独立定义了成年。\"经济独立是他们正在努力应对和面临挑战的事情。这让他们有点害怕,\" Dychtwald 说。他们面临困难的一个重要原因归结于大学贷款,平均金额为 37,000 美元。许多父母也为孩子承担了大学贷款,有时以牺牲自己的财务状况为代价。在调查中,60% 的年轻成年人将经济成功定义为无债务。这是否可能,甚至是否有可能在短期内实现,谁也说不准。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "It's well known that physical exercise is beneficial not just to physical health but also to mental health. Yet whereas most countries have"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ", evidence-backed guidelines on the type and intensity of exercise"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "for various physical health benefits, such guidelines do not yet exist for exercise and mood. This is"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "due to a lack of necessary evidence. However, a new systematic review brings us usefully up to-date on the current findings in this area. Before"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "into some of the key take-aways, an important"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "made in the review is between aerobic exercise and anaerobic. The former"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "such things as walking, jogging and cycling and means exercising in such a way that your body is able to use oxygen to burn fat for energy. In contrast, anaerobic exercise—such as lifting heavy weights—is of such"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "intensity that your body does not have time to use oxygen to create energy and so instead it breaks down glucose(葡萄糖) in your blood or muscles. Beginning first with the influence of exercise intensity on the mood benefits of aerobic exercise, the researchers, led by John Chan at Shenzhen University, found"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "results from 19 relevant studies. Some favoured higher intensity, others low, while seven studies found that intensity made no"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "to mood benefits. In relation to the intensity of anaerobic exercise, however, the results were far clearer—the optimum(最佳选 择) for improving mood is"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "intensity, perhaps because low intensity is too dull while high intensity is too unpleasant."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "constitutes"
+        },
+        {
+          "l": "B",
+          "w": "contradictory"
+        },
+        {
+          "l": "C",
+          "w": "decision"
+        },
+        {
+          "l": "D",
+          "w": "detailed"
+        },
+        {
+          "l": "E",
+          "w": "difference"
+        },
+        {
+          "l": "F",
+          "w": "dipping"
+        },
+        {
+          "l": "G",
+          "w": "distinction"
+        },
+        {
+          "l": "H",
+          "w": "falling"
+        },
+        {
+          "l": "I",
+          "w": "involves"
+        },
+        {
+          "l": "J",
+          "w": "moderate"
+        },
+        {
+          "l": "K",
+          "w": "notified"
+        },
+        {
+          "l": "L",
+          "w": "partly"
+        },
+        {
+          "l": "M",
+          "w": "required"
+        },
+        {
+          "l": "N",
+          "w": "traditionally"
+        },
+        {
+          "l": "O",
+          "w": "vigorous"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "D"
+        },
+        {
+          "n": 27,
+          "a": "M"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "F"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "I"
+        },
+        {
+          "n": 32,
+          "a": "O"
+        },
+        {
+          "n": 33,
+          "a": "B"
+        },
+        {
+          "n": 34,
+          "a": "E"
+        },
+        {
+          "n": 35,
+          "a": "J"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Why Do Americans Work So Much?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "How will we all keep busy when we only have to work 15 hours a week? That was the question that worried the British economist John Maynard Keynes when he wrote his short essay \"Economic Possibilities for Our Grandchildren\" in 1930. Over the next century, he predicted, the economy would become so productive that people would barely need to work at all. For a while, it looked like Keynes was right. In 1930 the average working week was 47 hours in the United States. But by 1970, the number of hours Americans worked on average had fallen to slightly less than 39."
+        },
+        {
+          "l": "B",
+          "t": "But then something changed. Instead of continuing to decline, the duration of the working week remained stable. It has stayed at just below 40 hours for nearly five decades. So what happened? Why are people working just as much today as in 1970?"
+        },
+        {
+          "l": "C",
+          "t": "There would be no mystery in this if Keynes had been wrong about the power of technology to increase the economy's productivity, which he thought would lead to a standard of living \"between four and eight times as high as it is today.\" But Keynes got that right: Technology has made the economy massively more productive. According to Benjamin M.Friedman, an economist at Harvard, the U.S. economy is right on track to reach Keynes's eight-fold(八倍) multiple by 2029. That is a century after the last data Keynes would have had access to."
+        },
+        {
+          "l": "D",
+          "t": "In a new paper, Friedman tries to figure out why that increased productivity has not translated into increased leisure time. Perhaps people just never feel materially satisfied, always wanting more money to buy the next new thing. This is a theory that appeals to many economists. \"This argument is, at best, far from sufficient,\" he writes. If that were the case, why did the duration of the working week decline in the first place?"
+        },
+        {
+          "l": "E",
+          "t": "Another theory Friedman considers is that, in an era of ever fewer settings that provide effective opportunities for personal connections and relationships, people may place more value on the socializing that happens at work. There is support for this theory. Many people today consider colleagues as friends. But Friedman argues that the evidence for this theory is far from conclusive. Many workers report that they would like to spend more time with family, rather than at work. Furthermore, this theory cannot explain the change in trend in the U.S. working week in the 1970s."
+        },
+        {
+          "l": "F",
+          "t": "A third possibility proves more convincing for Friedman. That is: American inequality means that the gains of increasing productivity are not widely shared by everyone. In other words, most Americans are too poor to work less. Unlike the other two explanations Friedman considers, this one fits chronologically( 按年代). Inequality declined in America during the period following World War II, along with the duration of the working week. But since the early 1970s it has risen dramatically."
+        },
+        {
+          "l": "G",
+          "t": "Keynes's prediction of a shorter working week rests on the idea that the standard of living would continue rising for everyone. But Friedman says that this is not what has happened. Although Keynes's eight-fold figure holds up for the economy as a whole, it is not at all the case for the median(中位数的) American worker. For them, output by 2029 is likely to be around 3.5 times what it was when Keynes was writing. This is a bit below his four-to eight-fold predicted range."
+        },
+        {
+          "l": "H",
+          "t": "This can be seen in the median worker's income over this time period, complete with a shift in 1973 that fits in precisely with when the working week stopped shrinking. According to Friedman, between 1947 and 1973 the average hourly wage for normal workers (those who were not in management roles) in private industries other than agriculture nearly doubled in terms of what their money could buy. But by 2013 the average hourly wage for ordinary workers had fallen 5 percent from the 1973 level in terms of actual purchasing power. Thus, though American incomes may have gone up since 1973, the amount that American workers can actually buy with their money has gone down. For most Americans, then, the magic of increasing productivity stopped working around 1973. Thus, they had to keep working just as much in order to maintain their standard of living."
+        },
+        {
+          "l": "I",
+          "t": "What Keynes predicted was a very optimistic version of what economists call technological unemployment. This is the idea that less labor will be necessary because machines can do so much. In Keynes's vision, the resulting unemployment would be distributed more or less evenly across society in the form of increased leisure. But Friedman says that, for Americans, reality is much darker. Americans now have a labor market in which millions of people—those with fewer skills and less education—are seeking whatever poorly paid work they can get. This is confirmed by a recent poll that found that, for half of hourly workers, their top concern is not that they work too much but that they work too little. This is most likely not because they like their jobs so much. Rather, we can assume it is because they need the money."
+        },
+        {
+          "l": "J",
+          "t": "This explanation leaves an important question. If the very rich—the workers who have reaped above-average gains from the increased productivity since Keynes's time—can afford to work less, why do they continue to work so much? (Indeed, research has shown that the highest earners in America tend to work the most.) Friedman believes that for many top earners, work is a labor of love. They are doing work they care about and are interested in, and doing more of it is not necessarily a burden. For them, it may even be a pleasure. These top earners derive meaning from their jobs and work is an important part of how they think of themselves. And, of course, they are compensated for it at a level that makes it worth their while."
+        },
+        {
+          "l": "K",
+          "t": "Friedman concludes that the prosperity(繁荣) Keynes predicted is here. After all, the economy as a whole has grown even more brilliantly than he expected. But for most Americans, that prosperity is nowhere to be seen. And, as a result, neither are those shorter working weeks."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Some people view socializing at the workplace as a chance to develop personal relationships.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "As ordinary American workers' average hourly pay had decreased despite increasing productivity, they had to work just as many hours as before to keep their living standards.",
+          "a": "H"
+        },
+        {
+          "n": 38,
+          "s": "American workers' average weekly working time has not changed for nearly half a century.",
+          "a": "B"
+        },
+        {
+          "n": 39,
+          "s": "Friedman believes inequality in the U.S. largely explains why increasing productivity has not resulted in reduced working hours.",
+          "a": "F"
+        },
+        {
+          "n": 40,
+          "s": "Many economists assume people's thirst for material things has prevented them from enjoying more leisure time.",
+          "a": "D"
+        },
+        {
+          "n": 41,
+          "s": "An economist's prediction about a shorter average working week seemed to be correct for a time in the 20th century.",
+          "a": "A"
+        },
+        {
+          "n": 42,
+          "s": "In the U.S. labor market, the primary concern of people with less schooling and fewer skills is to secure any employment even if it is low-paid.",
+          "a": "I"
+        },
+        {
+          "n": 43,
+          "s": "Keynes was right in predicting that technology would make the economy much more productive.",
+          "a": "C"
+        },
+        {
+          "n": 44,
+          "s": "Many of the highest earners have a keen interest in and love for what they are doing.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "According to Keynes, there would be a shorter working week with everyone's standard of living continuing to rise.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Lao Zi once said, \"Care about what other people think and you will always be their prisoner.\" People-pleasing, or seeking self-worth through others' approval, is unproductive and an exhausting way to go through life. Why do we allow what others think of us to have so much power over how we feel about ourselves? If it's true that you can't please all people all of the time, wouldn't it make sense to stop trying? Unfortunately, sense often isn't driving our behavior. For social beings who desire love and belonging, wanting to be liked, and caring about the effect we have on others, is healthy and allows us to make connections. However, where we get into trouble is when our self-worth is dependent upon whether we win someone's approval or not. This need to be liked can be traced back to when we were children and were completely dependent on others to take care of us: Small children are not just learning how to walk and communicate, they are also trying to learn how the world works. We learn about who we are and what is expected of us based on interactions with others, so, to a four-year-old, if Mommy or Daddy doesn't like him or her, there is the danger that they will abandon them. We need to understand that when we desperately want someone to approve of us, it's being driven by that little kid part of us that is still terrified of abandonment. As you become more capable of providing yourself with the approval you seek, your need for external validation will start to vanish, leaving you stronger, more confident, and yes, happier in your life. Imagine how much time we lose each moment we restrain our authentic selves in an effort to be liked. If we base our worth on the opinions of others, we cheat ourselves of the power to shape our experiences and embrace life not only for others but also for ourselves, because ultimately, there is no difference. So embrace the cliché(老话) and love yourself as it's highly doubtful that you'll regret it.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What can we conclude from Lao Zi's quotation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "We should see through other people's attempt to make a prisoner of us."
+              },
+              {
+                "l": "B",
+                "t": "We can never really please other people even if we try as hard as we can."
+              },
+              {
+                "l": "C",
+                "t": "We can never be truly free if taking to heart others' opinion of us."
+              },
+              {
+                "l": "D",
+                "t": "We should care about other people's view as much as they care about our own."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What will happen if we base our self-worth on other people's approval?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Our desire to be loved will be fulfilled."
+              },
+              {
+                "l": "B",
+                "t": "Our life will be unfruitful and exhausting."
+              },
+              {
+                "l": "C",
+                "t": "Our identity as social beings will be affected."
+              },
+              {
+                "l": "D",
+                "t": "Our sense of self will be sharpened and enhanced."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What may account for our need to be liked or approved of?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Our desperate longing for interactions with others."
+              },
+              {
+                "l": "B",
+                "t": "Our understanding of the workings of the world."
+              },
+              {
+                "l": "C",
+                "t": "Our knowledge about the pain of abandonment."
+              },
+              {
+                "l": "D",
+                "t": "Our early childhood fear of being deserted."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What can we do when we become better able to provide ourselves with the desired approval?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Enjoy a happier life."
+              },
+              {
+                "l": "B",
+                "t": "Exercise self-restraint."
+              },
+              {
+                "l": "C",
+                "t": "Receive more external validation."
+              },
+              {
+                "l": "D",
+                "t": "Strengthen our power of imagination."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What does the author advise us to do in the last paragraph?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Embrace life for ourselves and for others."
+              },
+              {
+                "l": "B",
+                "t": "Base our worth on others' opinions."
+              },
+              {
+                "l": "C",
+                "t": "See our experiences as assets."
+              },
+              {
+                "l": "D",
+                "t": "Love ourselves as we are."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Some people have said aging is more a slide into forgetfulness than a journey towards wisdom. However, a growing body of research suggests that late-in-life learning is possible. In reality, education does an aging brain good. Throughout life, people's brains constantly renovate themselves. In the late 1960s, British brain scientist Geoffrey Raisman spied growth in damaged brain regions of rats through an electron microscope; their brains were forging new connections. This meant brains may change every time a person learns something new. Of course, that doesn't mean the brain isn't affected by the effects of time. Just as height usually declines over the years, so does brain volume: Humans lose about 4 percent every decade starting in their 40s. But that reduction doesn't necessarily make people think slower; as long as we are alive and functioning, we can alter our brains with new information and experiences. In fact, scientists now suspect accumulating novel experiences, facts, and skills can keep people's minds more flexible. New pathways can strengthen our ever-changing mental structure, even as the brain shrinks. Conventional fixes like word puzzles and brain-training apps can contribute to mental durability. Even something as simple as taking a different route to the grocery store or going somewhere new on vacation can keep the brain healthy. A desire for new life challenges can further boost brainpower. Research about aging adults who take on new enterprises shows improved function and memory as well as a reduced risk of mental disease. Openness—a characteristic defined by curiosity and a desire for knowledge—may also help folks pass brain tests. Some folks are born with this take-in-the-world attitude, but those who aren't as genetically gifted aren't necessarily out of luck. While genes can encourage an interest in doing new things, a 2012 study in the journal Psychology and Aging found completing reasoning tasks like puzzles and number games can enhance that desire for novel experiences, which can, in turn, refresh the brain. That's why brain scientist Richard Kennedy says \"It's not that old dogs can't learn new tricks. It's that maybe old dogs don't realize why they should.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do some people think of aging adults?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their wisdom grows as time goes by."
+              },
+              {
+                "l": "B",
+                "t": "Their memory gradually deteriorates."
+              },
+              {
+                "l": "C",
+                "t": "They can benefit from late-in-life learning."
+              },
+              {
+                "l": "D",
+                "t": "They are likely to have mental health issues."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What can we conclude from Geoffrey Raisman's finding?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Brain damage seriously hinders one's learning."
+              },
+              {
+                "l": "B",
+                "t": "Brain power weakens slower than we imagine."
+              },
+              {
+                "l": "C",
+                "t": "Brains can refresh and improve with learning."
+              },
+              {
+                "l": "D",
+                "t": "Brains forge connections under new conditions."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What is one thing that helps maintain the health of our brain even as it shrinks?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Doing daily routines by conventional means."
+              },
+              {
+                "l": "B",
+                "t": "Avoiding worrying about our mental durability."
+              },
+              {
+                "l": "C",
+                "t": "Imitating old dogs' way of learning new tricks."
+              },
+              {
+                "l": "D",
+                "t": "Approaching everyday tasks in novel ways."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What does the author say can contribute to the improvement of brain function?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Being curious and desiring knowledge."
+              },
+              {
+                "l": "B",
+                "t": "Being eager to pass brain tests at an old age."
+              },
+              {
+                "l": "C",
+                "t": "Rising to life's challenges and avoiding risks."
+              },
+              {
+                "l": "D",
+                "t": "Boosting immunity to serious mental diseases."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What is the finding of the 2012 study in the journal Psychology and Aging?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Wishing to solve puzzles enhances one's reasoning power."
+              },
+              {
+                "l": "B",
+                "t": "Playing number games unexpectedly stimulates one's memory."
+              },
+              {
+                "l": "C",
+                "t": "Desiring new experiences can help to renovate the brain."
+              },
+              {
+                "l": "D",
+                "t": "Learning new tricks should not be confined to old dogs only."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "四合院(siheyuan)是中国一种传统的住宅建筑，其特点是房屋建造在一个院子的四周，将院子合围在中 间。四合院通常冬暖夏凉，环境舒适，尤其适合大家庭居住。四合院在中国各地有多种类型，其中以北京的四 合院最为典型。如今，随着现代城市的发展，传统的四合院已逐渐减少，但因其独特的建筑风格，四合院对中 国文化的传承和中国历史的研究具有重要意义。",
+    "reference": "The siheyuan is a traditional Chinese residential building, characterized by houses built on the four sides of a courtyard, enclosing it in the middle. It is usually warm in winter and cool in summer, providing a comfortable environment that is especially suitable for large families. There are various types of siheyuan across China, among which the ones in Beijing are the most typical. Nowadays, with the development of modern cities, traditional siheyuan have gradually decreased; however, owing to their unique architectural style, they remain of great significance to the inheritance of Chinese culture and the study of Chinese history."
+  }
+}

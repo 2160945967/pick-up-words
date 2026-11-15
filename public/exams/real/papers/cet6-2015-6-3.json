@@ -1,0 +1,1449 @@
+{
+  "id": "cet6-2015-6-3",
+  "level": "cet6",
+  "year": 2015,
+  "month": 6,
+  "set": 3,
+  "title": "2015年6月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on the saying“ If you cannot do great things, do small things in a great way.\"You can cite examples to illustrate your point of view. You should write at least 150 words but no more than 200 words.",
+    "sample": "The saying \"If you cannot do great things, do small things in a great way\" reminds us that true value lies not in the scale of what we do, but in the devotion and care we put into it. In my view, greatness is an attitude rather than a matter of size.Consider an ordinary street cleaner who sweeps every corner spotless before dawn, or a rural teacher who spends decades patiently guiding children in a remote village. Neither builds an empire, yet by pouring perfection into humble tasks, they make an impact far beyond their modest positions. Their example shows that even the smallest job, done with heart, can shine. Had they despised such work as trivial, their potential would have been wasted.Therefore, we should never look down on small things or wait passively for great opportunities. Even if we cannot change the world overnight, doing each ordinary task in an extraordinary way is itself a form of greatness worth pursuing."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is well paid."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is stimulating."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is demanding."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is fairly secure."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A quick promotion."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Free accommodation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Moving expenses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A lighter workload."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has difficulty communicating with local people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has to spend a lot more traveling back and forth."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has trouble adapting to the local weather."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has to sign a long-term contract."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The woman will help the man make a choice."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The man is going to attend a job interview."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The man is in the process of job hunting."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The woman sympathizes with the man.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I'd like to go to the States, but if I took the job there, I wouldn't get a very good salary.",
+                "zh": "M: 我想去美国，但如果在那里接受这份工作，薪水不会很高。"
+              },
+              {
+                "en": "W: Really? I thought salaries were high there, but there would be some fringe benefits presumably.",
+                "zh": "W: 是吗？我以为那里的薪水很高，不过想必会有一些额外福利吧。"
+              },
+              {
+                "en": "M: Oh, yes. It'd be stimulating and it has some advantages.",
+                "zh": "M: 哦，是的。这份工作会很有挑战性，也有一些优势。"
+              },
+              {
+                "en": "W: What else do you have in mind?",
+                "zh": "W: 你还考虑了什么？"
+              },
+              {
+                "en": "M: Well, there's a position in Portugal.",
+                "zh": "M: 嗯，葡萄牙有一个职位。"
+              },
+              {
+                "en": "W: How does it compare?",
+                "zh": "W: 这个职位怎么样？"
+              },
+              {
+                "en": "M: It'd offer greater security, because it'd be on a homebase contract.",
+                "zh": "M: 它能提供更大的保障，因为这是以本国为基地的合同。"
+              },
+              {
+                "en": "W: And salary?",
+                "zh": "W: 薪水呢？"
+              },
+              {
+                "en": "M: Much better, I'll get an overseas allowance plus free accommodation from the firm.",
+                "zh": "M: 好得多，我能拿到海外津贴，公司还会提供免费住宿。"
+              },
+              {
+                "en": "W: Presumably you'd be given moving expenses for the Portugal job?",
+                "zh": "W: 想必葡萄牙那份工作会给你报销搬迁费用吧？"
+              },
+              {
+                "en": "M: Yes, but just to complicate matters, there's a possibility of a post in Sao Paulo.",
+                "zh": "M: 是的，不过事情就更复杂了，因为圣保罗还有一个职位的可能性。"
+              },
+              {
+                "en": "W: That's Brazil, isn't it?",
+                "zh": "W: 那是在巴西，对吧？"
+              },
+              {
+                "en": "M: Yes. I'd get a promotion if I took a post there.",
+                "zh": "M: 是的。如果我接受那里的职位，就会得到晋升。"
+              },
+              {
+                "en": "W: I'd love to go to Brazil.",
+                "zh": "W: 我很想去巴西。"
+              },
+              {
+                "en": "M: But there are some disadvantages. I'd have to do a five-year term there.",
+                "zh": "M: 但也有一些不利之处。我得在那里任职五年。"
+              },
+              {
+                "en": "W: Personal problem surely?",
+                "zh": "W: 肯定会有个人方面的问题吧？"
+              },
+              {
+                "en": "M: Well, not at the moment. But if there were a change in family circumstances, I'd be a long way from home.",
+                "zh": "M: 嗯，目前还没有。不过如果家庭情况发生变化，我就会离家很远。"
+              },
+              {
+                "en": "W: But if you're worried about distance, isn't that the same problem with the States?",
+                "zh": "W: 但如果你担心距离问题，那去美国不是也有同样的问题吗？"
+              },
+              {
+                "en": "M: Yes, but in the States I'd be on an annual contract, so I could leave fairly quickly if I needed to.",
+                "zh": "M: 是的，但在美国我是签年度合同，所以如果有需要，我可以相当快地离开。"
+              },
+              {
+                "en": "W: In Portugal?",
+                "zh": "W: 在葡萄牙呢？"
+              },
+              {
+                "en": "M: Well, that's almost next door, isn't it? I could visit home every few months if necessary.",
+                "zh": "M: 嗯，那里几乎就在隔壁，对吧？如果有必要，我每隔几个月就可以回家一趟。"
+              },
+              {
+                "en": "W: I can see you've got a difficult choice to make.",
+                "zh": "W: 我看得出来，你要做出一个艰难的选择。"
+              },
+              {
+                "en": "M: Well, fortunately I don't have to make up my mind about any of them yet. In fact, I haven't even been called for an interview.",
+                "zh": "M: 幸运的是，我还不用马上决定其中任何一个。事实上，我甚至还没有接到面试通知。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To inquire about the interest rates at the woman's bank."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To inquire about the current financial market situation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To see if he can find a job in the woman's company."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To see if he can get a loan from the woman's bank."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "There is no difference between rate and yield."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The man has a good understanding of rate and yield."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The rate is the percentage of simple interest paid on the money."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The yield is only influenced by the amount of money."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Long-term investment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A three-month deposit."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Any high-interest deposit."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Any high-yield investment."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She treated him to a meal."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She gave him loans at low rates."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She offered him dining coupons."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She raised interest rates for him."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Good morning, High Mountain Savings and Loan. How may we help you?",
+                "zh": "W: 早上好，这里是高山储蓄贷款协会。请问有什么可以帮您？"
+              },
+              {
+                "en": "M: Well, I'm looking for the highest rate possible on a short-term certificate to deposit account.",
+                "zh": "M: 嗯，我想找一份短期存单账户，利率越高越好。"
+              },
+              {
+                "en": "W: Well, let's see what we can do for you. High Mountain is currently offering a rate of 6,496 on a thirteen-week account for the minimum deposit of only 12,000 dollars, 6.55% on a minimum deposit of 25,000 dollars and 6.7% on a deposit of 50,000 dollars. Those will have yields of 6.55%, 6.71% and 6.87% respectively.",
+                "zh": "W: 好的，让我们看看能为您做些什么。目前，高山储蓄贷款协会提供三种十三周账户：最低只需存入12,000美元，利率为6.496%；最低存入25,000美元，利率为6.55%；存入50,000美元，利率为6.7%。相应的收益率分别为6.55%、6.71%和6.87%。"
+              },
+              {
+                "en": "M: Rate and yield? I'm afraid I don't understand the difference.",
+                "zh": "M: 利率和收益率？恐怕我不明白两者有什么区别。"
+              },
+              {
+                "en": "W: Well, sir. The rate is the percentage of simple interest paid on your money, and the yield is the total percentage you will receive on your account if you leave your money with us, for at least a year, at the same interest rate.",
+                "zh": "W: 先生，利率是您存款所获得的单利百分比，而收益率是如果您以相同的利率把钱存放在我们这里至少一年，您的账户最终获得的总百分比。"
+              },
+              {
+                "en": "M: Oh, well… Um… But I'm not interested in long-term investing and three months sounds just fine.",
+                "zh": "M: 哦，这样啊……嗯……不过我对长期投资没兴趣，三个月就很好。"
+              },
+              {
+                "en": "W: Then perhaps you'd like to open one of our high finance money market checking accounts. With the minimum balance of only 50,000 dollars, you'll get interest of 6.1% on any amount over that, for a yearly yield of 6.27%. Of course, there's no penalty for early withdrawal.",
+                "zh": "W: 那么，也许您会想开立我们的一种高息货币市场支票账户。只需保持50,000美元的最低余额，超出部分就能获得6.1%的利息，年收益率为6.27%。当然，提前支取不会受到任何罚金。"
+              },
+              {
+                "en": "M: Er… No, thank you, I…",
+                "zh": "M: 呃……不用了，谢谢，我……"
+              },
+              {
+                "en": "W: Or, could we persuade you to save with us if we offered you a dining coupon book that will get you a 25% discount at many of the area's leading restaurants and cost you only 12 dollars and 95 cents?",
+                "zh": "W: 或者，如果我们送您一本餐饮优惠券册，您可以在本地区许多知名餐厅享受25%的折扣，而这本券册只要12美元95美分，您会不会考虑在我们这里存款呢？"
+              },
+              {
+                "en": "M: Look, I… I think I'll just call around for more information. Thank you for your time.",
+                "zh": "M: 您听我说，我……我想我还是打电话向其他地方咨询一下更多信息。谢谢您抽出时间。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 12 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a Portuguese company selling coffee in New York."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its most important task is to conduct coffee studies."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It represents several countries that export coffee."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its role is to regulate international coffee prices."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The freezing weather in Brazil."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The impact of global warming."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The increased coffee consumption."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The fluctuation of coffee prices."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is doing a bachelor's degree."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is young, handsome and single."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is a heavy coffee drinker."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is tall, rich and intelligent."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A visit to several coffee-growing plantations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Coffee prices and his advertising campaign."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A vacation on some beautiful tropical beach."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A quick promotion and a handsome income.\n\nQuestions 13 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Vaukin de Silva is a Brazilian who lives and works in New York. Brazil's most important product is coffee and coffee is Vaukin's business. He works for an international coffee institute. It represents Brazil and several other countries that export coffee. The institute wants more people to drink more coffee. That hasn't been easy to do for the last few months.",
+                "zh": "沃金·德席尔瓦是一名生活和工作在纽约的巴西人。巴西最重要的产品是咖啡，而咖啡就是沃金的事业。他供职于一家国际咖啡协会。该协会代表巴西以及其他几个出口咖啡的国家。这个协会希望有更多的人饮用更多的咖啡。在过去几个月里，这并不容易做到。"
+              },
+              {
+                "en": "A period of freezing weather destroyed a large part of Brazil's coffee crop. As a result, there has been a shortage of coffee throughout the world. The shortage has caused prices to go very high. Many people are talking about giving up coffee until the prices come down again. All the countries that are represented in the institute want people to continue drinking coffee. They spend a lot of time explaining the recent rise in price to newspaper reporters. They want the public to understand the reason for the shortage. A month ago, Vaukin was put in charge of an advertising campaign. The campaign will try to encourage people to keep on drinking coffee.",
+                "zh": "一段时间的严寒天气摧毁了巴西大部分的咖啡作物。因此，全世界都出现了咖啡短缺。短缺导致价格大幅上涨。许多人都在谈论，是否要等价格再次下降后再喝咖啡。协会所代表的所有国家都希望人们继续饮用咖啡。他们花费大量时间向报纸记者解释近期价格上涨的原因。他们希望公众了解造成咖啡短缺的原因。一个月前，沃金受命负责一场广告宣传活动。这场活动将努力鼓励人们继续饮用咖啡。"
+              },
+              {
+                "en": "Sometimes, Vaukin misses the beaches and tropical weather in Rio de Janeiro, but he likes life in New York. He's young, only 27 years old, and he's a good-looking bachelor. There are a lot of women to meet in New York and a lot of places to go with them. When he misses home, there are several Brazilian restaurants where he can go and speak Portuguese, his native language. The last few weeks, however, he's been too busy to think about anything except coffee prices and his advertising campaign.",
+                "zh": "有时，沃金会想念里约热内卢的海滩和热带气候，但他喜欢纽约的生活。他很年轻，只有27岁，而且是一名相貌英俊的单身汉。在纽约，有许多女性可以认识，也有许多地方可以和她们一起去。当他想念家乡时，可以去几家巴西餐馆，在那里说他的母语葡萄牙语。然而，在过去几周里，他一直忙得无暇考虑咖啡价格和广告宣传活动以外的任何事情。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 13 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were held up in a traffic jam."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They boarded a wrong coach in a hurry."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were late for the first morning bus."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were delayed by the train for hours."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was canceled because of an unexpected strike."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was spoiled by poor accommodations."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was the most exciting trip they ever had."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was postponed due to terrible weather."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Go overseas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Stay at home."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Take romantic cruises."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Take escorted trips."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Last summer, my wife and I had saved for a year to be able to take a romantic cruise to several Caribbean islands. Because the train was scheduled to arrive in Miami, Florida several hours before the sailing, we didn't think we'd have any reason to worry about getting to the dock on time. We should've known that long distance trains are often many hours late. We should've taken an earlier one to allow extra time. We should have, but we didn't and we missed the boat. Because there wouldn't be a refund of our cruise fare if we returned home, we had to pay for a hotel room and meals in the city and an air fare to fly to the first island on the shipped route two days later. We missed half the cruise.",
+                "zh": "去年夏天，我和妻子攒了一年的钱，终于能够乘坐浪漫的游轮，前往加勒比海的几个岛屿。由于火车按计划会在游轮启航前几个小时抵达佛罗里达州的迈阿密，我们觉得没有理由担心能否按时到达码头。我们本该知道，长途列车经常会晚点好几个小时。我们本应乘坐更早的一班车，留出额外的时间。我们本来应该这样做，但我们没有，于是错过了游轮。由于如果我们返回家中，游轮费用不会退款，我们只好在城里支付酒店房间费和餐费，并支付机票钱，于两天后乘飞机前往航线上的第一个岛屿。我们错过了半程的航程。"
+              },
+              {
+                "en": "This year, we decided to let an experienced travel agent do our vacation planning for us. We had to pay the full price in advance for an escorted tour. We should be joining that relaxing well-planned trip right now. How could we have known there would be a strike against our airline? And why hasn't anyone advised us that the travel agency can't refund your money unless the tour operator can get the passengers' fees back from the reserved hotels, the tour boat's company and so on?",
+                "zh": "今年，我们决定让一位经验丰富的旅行代理人为我们安排假期。参加有导游陪同的旅行团，我们必须提前支付全额费用。现在我们本应正在参加那次轻松而安排周密的旅行。我们怎么会知道我们的航空公司会遭到罢工呢？而且，为什么没有人告诉我们，除非旅行团运营商能从预订的酒店、游船公司等方面收回乘客支付的费用，否则旅行社不能给你退款？"
+              },
+              {
+                "en": "To avoid trouble like this, we ought to get more travel experience. But to tell you the truth, we don't want to go anywhere. We're planning to spend our vacations at home for a long time to come.",
+                "zh": "为了避免再遇到这样的麻烦，我们应该积累更多的旅行经验。但说实话，我们哪里也不想去。今后很长一段时间里，我们打算在家里度过假期。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 19 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their extraordinary intelligence."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The special bones in their fins."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The way they communicate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The way they get water."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They love to keep them as pets just like cats and dogs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They love them but cannot live with them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can find many stores selling such souvenirs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They believe such souvenirs can bring good luck."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They made them swim around their ships."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They painted their images on some items."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They hunted them in great numbers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They trained them to perform tricks."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are hunted in many places except Japan."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have been protected thanks to literature and film."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have adapted to the life in captivity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are losing their habitat and clean sea.\n\nQuestions 20 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Moderator:",
+                "zh": "主持人："
+              },
+              {
+                "en": "Good evening, ladies and gentleman. Today we are honored to have Professor Barnett who is an expert in dolphin study. And he will introduce to us the unique characteristics and living conditions of dolphins. Professor Barnett, please.",
+                "zh": "女士们、先生们，晚上好。今天，我们非常荣幸地邀请到了海豚研究专家巴尼特教授。他将向我们介绍海豚的独特特征及其生存状况。巴尼特教授，请。"
+              },
+              {
+                "en": "Professor Barnett:",
+                "zh": "巴尼特教授："
+              },
+              {
+                "en": "Thank you for your introduction, Lisa. Well, one of the most intelligent animals on the planet is the dolphin. These unique animals have been regarded highly by humans for many centuries. In ancient Greece, if sailors saw dolphins swim by their ships when they were starting out on a voyage, they believed they would have good luck.",
+                "zh": "感谢你的介绍，丽莎。海豚是地球上最聪明的动物之一。这些独特的动物几百年来一直备受人类推崇。在古希腊，如果水手们在启航时看到海豚游过他们的船只，他们就相信自己会有好运。"
+              },
+              {
+                "en": "One unique characteristic that makes them different from other sea animals is the way that they communicate. Dolphins use sound, touch and taste in order to learn about their world; however, unlike dogs, dolphins cannot smell. They use a whistle or sound waves to see and feel their way around their environment. This makes them different from many other sea animals and also helps them communicate with people.",
+                "zh": "海豚区别于其他海洋动物的一个独特特征，是它们交流的方式。海豚利用声音、触觉和味觉来了解周围的世界；然而，与狗不同，海豚无法嗅闻。它们利用口哨声或声波来观察和感知周围的环境。这使它们区别于许多其他海洋动物，也有助于它们与人类交流。"
+              },
+              {
+                "en": "Another unique thing about dolphins is that the bones in their fins are similar to those in human arms and hands. However, the connective tissue that surrounds the bones forms a flipper instead of a hand with individual fingers. Even though dolphins live in the oceans, they do not drink the salt water around them. Their bodies absorb water from the wide variety of creatures they eat.",
+                "zh": "海豚的另一个独特之处在于，它们鳍中的骨骼与人类手臂和手部的骨骼相似。不过，包围这些骨骼的结缔组织形成的是鳍肢，而不是带有独立手指的手。尽管海豚生活在海洋中，但它们并不饮用周围的海水。它们的身体会从所食用的各种生物中吸收水分。"
+              },
+              {
+                "en": "Loving a dolphin is an easy thing to do but, unlike a dog or a cat, the dolphin cannot come home with you from the ocean. That is why many people like collecting dolphin souvenirs. One can find many such things in almost every shop around the world. Even the ancient people painted the images of dolphins on their vases.",
+                "zh": "喜爱海豚是一件很容易的事，但与狗或猫不同，海豚无法从海洋里跟你一起回家。这就是为什么许多人喜欢收集海豚纪念品。在世界各地几乎每一家商店里，都能找到许多这类物品。甚至古人也会在花瓶上描绘海豚的形象。"
+              },
+              {
+                "en": "However, dolphins are sometimes hunted in places like Japan, in an activity known as dolphin drive hunting. Besides drive hunting, they also face threats from habitat loss and marine pollution. Dolphins have been depicted in various cultures worldwide. Dolphins occasionally feature in literature and film. Dolphins are sometimes kept in captivity and trained to perform tricks, but breeding success has been poor and the animals often die within a few months of capture. The most common dolphins kept are the killer whales and bottlenose dolphins.",
+                "zh": "然而，在日本等地，人们有时会捕猎海豚，这种活动被称为海豚围捕。除了围捕之外，海豚还面临栖息地丧失和海洋污染的威胁。世界各地的不同文化中都描绘过海豚的形象。海豚偶尔也会出现在文学作品和电影中。有时，人们会将海豚圈养起来并训练它们表演各种把戏，但繁殖成功率一直很低，而且这些动物在被捕获后的几个月内往往就会死亡。最常被圈养的海豚是虎鲸和宽吻海豚。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 20 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It won't have any side-effect."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can kill drug-resistant tumours."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can be as effective as conventional treatments."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can stop cancer cells from spreading in the body."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How to find a way to deliver viruses to tumours effectively."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How to inject viruses directly into tumours."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How to allow viruses to do what chemotherapy drugs do."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How to strengthen the body's immune system."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To use it to cure 75% of the patients with malignant cancers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To make it accepted by the patients with incurable cancers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To apply it to those with secondary cancers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To apply it to treat all kinds of cancers.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "British scientists are preparing to launch trials of a radical new way to fight cancer, which kills tumours by infecting them with viruses like the common cold. If successful, virus therapy could eventually form a third pillar alongside radiotherapy and chemotherapy in the standard arsenal against cancer, while avoiding some of the side-effects.",
+                "zh": "英国科学家正准备开展一种抗癌全新激进疗法的试验，这种疗法通过让肿瘤感染类似普通感冒病毒的病毒来杀死肿瘤。如果取得成功，病毒疗法最终可能与放射疗法和化学疗法并列，成为标准抗癌武器库中的第三大支柱，同时避免其中一些副作用。"
+              },
+              {
+                "en": "Leonard Seymour, a professor of gene therapy at Oxford University, will lead the trials later this year. One of the country's leading geneticists, Prof. Seymour has been working with viruses that kill cancer cells directly, while avoiding harm to healthy tissue. \"In principle, you've got something which could be many times more effective than regular chemotherapy,\" he said.",
+                "zh": "牛津大学基因疗法教授伦纳德·西摩将于今年晚些时候领导这项试验。作为英国顶尖遗传学家之一，西摩教授一直在研究能够直接杀死癌细胞、同时避免损伤健康组织的病毒。他说：“原则上，这种疗法的效果可能是常规化学疗法的许多倍。”"
+              },
+              {
+                "en": "Preliminary research on mice shows that the viruses work well on tumours resistant to standard cancer drugs. \"It's an interesting possibility that they may have an advantage in killing drug-resistant tumours, which could be quite different to anything we've had before.\"",
+                "zh": "对小鼠进行的初步研究表明，这些病毒对那些对标准抗癌药物产生耐药性的肿瘤疗效良好。“它们或许在杀死耐药肿瘤方面具有优势，这是一个很有意思的可能性，而这种肿瘤可能与我们以往遇到的任何肿瘤都大不相同。”"
+              },
+              {
+                "en": "Researchers have known for some time that viruses can kill tumour cells and some aspects of the work have already been published in scientific journals. American scientists have previously injected viruses directly into tumours but this technique will not work if the cancer is inaccessible or has spread throughout the body.",
+                "zh": "研究人员早已知道病毒能够杀死肿瘤细胞，这项研究的部分内容也已经发表在科学期刊上。美国科学家此前曾将病毒直接注入肿瘤，但如果癌症所在部位无法接触到，或已经扩散到全身，这种技术就无法奏效。"
+              },
+              {
+                "en": "Prof. Seymour's innovative solution is to mask the virus from the body's immune system, effectively allowing the viruses to do what chemotherapy drugs do—spread through the blood and reach tumours wherever they are. The big hurdle has always been to find a way to deliver viruses to tumours via the bloodstream without the body's immune system destroying them on the way.",
+                "zh": "西摩教授的创新解决方案是将病毒伪装起来，使其避开人体免疫系统，从而有效地让病毒像化学疗法药物那样发挥作用——通过血液扩散，到达肿瘤所在的任何部位。一直以来，最大的难题就是找到一种途径，使病毒能够经由血液输送到肿瘤，而不被人体免疫系统在途中摧毁。"
+              },
+              {
+                "en": "The therapy would be especially useful for secondary cancers, which sometimes spread around the body after the first tumour appears. \"There's an awful statistic of patients in the west…with malignant cancers; 75% of them go on to die from secondary cancers.\" said Prof. Seymour.",
+                "zh": "这种疗法对继发性癌症尤其有用，因为原发肿瘤出现后，癌症有时会扩散到全身。西摩教授说：“西方恶性肿瘤患者中有一项令人痛心的统计数据……其中75%最终会死于继发性癌症。”"
+              },
+              {
+                "en": "Several more years of trials will be needed, before the therapy can be considered for use in the NHS. Though the approach will be examined at first for cancers that do not respond to conventional treatments, Prof. Seymour hopes that one day it will be applied to all cancers.",
+                "zh": "还需要进行数年的试验，这种疗法才可能被考虑用于英国国民保健制度。尽管这种方法起初将针对那些对传统疗法没有反应的癌症进行研究，西摩教授希望有一天它能够应用于所有癌症。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It allows users of some Kindle devices to borrow books from local libraries."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has benefited more than eleven thousand local libraries in the US."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has led to a debate between publishers and libraries over e-book lending."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It aims at allowing everyone to read books anytime they like."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can purchase any kind of media product."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can lend books to readers repeatedly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can deal with digital products as they like."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They can limit the time the readers keep a certain book."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By allowing libraries to purchase e-books for lending in perpetuity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By adopting the technology known as digital rights management."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By requiring libraries to purchase more of its e-book."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By persuading the critics to support the publishers."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Amazon.com launched its Kindle library-lending service in the United States. Millions of users of the Kindle reader and app can now borrow Kindle books from their local public library. The service will be available through the websites of more than eleven thousand local libraries across the country.",
+                "zh": "亚马逊公司在美国推出了 Kindle 图书馆借阅服务。数百万名 Kindle 阅读器和应用程序用户现在可以从当地公共图书馆借阅 Kindle 电子书。这项服务将通过全国一万一千多家地方图书馆的网站提供。"
+              },
+              {
+                "en": "Users of other devices have already been able to borrow library books. Experts say Amazon's entry is likely to reopen a debate between publishers and libraries over e-book lending.",
+                "zh": "其他设备的用户此前已经能够借阅图书馆的书籍。专家表示，亚马逊的加入可能会重新引发出版商与图书馆之间围绕电子书借阅的争论。"
+              },
+              {
+                "en": "Bill Rosenblatt is president of Giant Steps Media Technology Strategies, a consulting company. He says, \"Publishers and libraries are enemies that occur in nature like snakes and monkeys. Libraries would like to be able to make books available to everyone, all the time, with no limitations. And publishers, of course, would like to sell more books to the public.\"",
+                "zh": "比尔·罗森布拉特是咨询公司 Giant Steps Media Technology Strategies 的总裁。他说：“出版商和图书馆是像蛇和猴子那样在自然界中彼此为敌的存在。图书馆希望能够让所有人随时都可以获取书籍，不受任何限制。当然，出版商则希望向公众销售更多书籍。”"
+              },
+              {
+                "en": "Mr. Rosenblatt says the debate in the United States centers on what is known as the law of first sale. Once you buy any kind of media product such as a book or a CD or a DVD or anything like that, you can do whatever you want with it. You can read it, you can give it away, you can lend it, you can resell it, you can burn it—whatever you want. This law is referred to as 'first sale'.",
+                "zh": "罗森布拉特先生说，美国的争论集中在一项被称为首次销售原则的法律上。你一旦购买了任何一种媒体产品，例如书籍、CD、DVD 或类似的任何东西，就可以随意处置它。你可以阅读它、赠送它、借给别人、转售它，也可以把它刻录下来，想怎么处理都可以。这项法律被称为“首次销售原则”。"
+              },
+              {
+                "en": "This law is what permits libraries to lend books over and over again without having to pay publishers each time. But Bill Rosenblatt points out that it does not include digital products. Technology known as digital rights management can make e-books unreadable once they have reached a certain time or user limit.",
+                "zh": "正是这项法律允许图书馆一遍又一遍地出借书籍，而不必每次都向出版商付费。但比尔·罗森布拉特指出，这项法律并不包括数字产品。被称为数字版权管理的技术可以在电子书达到一定的时间或用户使用次数限制后，使其无法阅读。"
+              },
+              {
+                "en": "Mr. Rosenblatt says, \"Several months ago, one of the major publishers, HarperCollins, which is a division of News Corp, announced that they were only going to allow e-books to be lent out twenty-six times, and then they would have to be purchased by the libraries again. Apart from HarperCollins, publishers are allowing libraries to purchase e-books for lending in perpetuity, meaning as many times as anyone wants to borrow them.\"",
+                "zh": "罗森布拉特先生说：“几个月前，主要出版商之一、新闻集团旗下的 HarperCollins 宣布，他们只允许电子书被借出二十六次，之后图书馆就必须再次购买这些电子书。除 HarperCollins 外，其他出版商允许图书馆购买电子书以供永久借阅，这意味着任何人想借多少次都可以。”"
+              },
+              {
+                "en": "HarperCollins says it took the action to protect the growing e-book industry and its own book sales. But Bill Rosenblatt says critics did not see it that way. They believe a digital book should be lendable forever.",
+                "zh": "HarperCollins 表示，采取这一措施是为了保护不断发展的电子书行业以及自身的图书销售。但比尔·罗森布拉特说，批评者并不这么认为。他们认为，数字图书应该可以永久借阅。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Travel websites have been around since the 1990s, when Expedia, Travelocity, and other holiday booking sites were launched, allowing travelers to compare flight and hotel prices with the click of a mouse. With information no longer"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "by travel agents or hidden in business networks, the travel industry was revolutionized, as greater transparency helped"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "prices. Today, the industry is going through a new revolution—this time transforming service quality. Online rating platforms—"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "in hotels, restaurants, apartments, and taxis—allow travelers to exchange reviews and experiences for all to see. Hospitality businesses are now ranked, analyzed, and compared not by industry"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": ", but by the very people for whom the service is intended—the customer. This has"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "a new relationship between buyer and seller. Customers have always voted with their feet; they can now explain their decision to anyone who is interested. As a result, businesses are much more"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ", often in very specific ways, which creates powerful"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "to improve service. Although some readers might not care for gossipy reports of unfriendly bellboys( 行李员) in Berlin or malfunctioning hotel hairdryers in Houston, the true power of online reviews lies not just in the individual stories, but in the websites'"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "to aggregate a large volume of ratings. The impact cannot be"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ". Businesses that attract top ratings can enjoy rapid growth, as new customers are attracted by good reviews and"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "provide yet more positive feedback. So great is the influence of online ratings that many companies now hire digital reputation managers to ensure a favorable online identity."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "accountable"
+        },
+        {
+          "l": "B",
+          "w": "capacity"
+        },
+        {
+          "l": "C",
+          "w": "controlled"
+        },
+        {
+          "l": "D",
+          "w": "entail"
+        },
+        {
+          "l": "E",
+          "w": "forged"
+        },
+        {
+          "l": "F",
+          "w": "incentives"
+        },
+        {
+          "l": "G",
+          "w": "occasionally"
+        },
+        {
+          "l": "H",
+          "w": "overstated"
+        },
+        {
+          "l": "I",
+          "w": "persisting"
+        },
+        {
+          "l": "J",
+          "w": "pessimistic"
+        },
+        {
+          "l": "K",
+          "w": "professionals"
+        },
+        {
+          "l": "L",
+          "w": "slash"
+        },
+        {
+          "l": "M",
+          "w": "specializing"
+        },
+        {
+          "l": "N",
+          "w": "spectators"
+        },
+        {
+          "l": "O",
+          "w": "subsequently"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "C"
+        },
+        {
+          "n": 27,
+          "a": "L"
+        },
+        {
+          "n": 28,
+          "a": "M"
+        },
+        {
+          "n": 29,
+          "a": "K"
+        },
+        {
+          "n": 30,
+          "a": "E"
+        },
+        {
+          "n": 31,
+          "a": "A"
+        },
+        {
+          "n": 32,
+          "a": "F"
+        },
+        {
+          "n": 33,
+          "a": "B"
+        },
+        {
+          "n": 34,
+          "a": "H"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "A better credit card is the solution to ever larger hack attacks.",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "A thin magnetic stripe (magstripe) is all that stands between your credit-card information and the bad guys. And they've been working hard to break in. That's why 2014 is shaping up as a major showdown: banks, law enforcement and technology companies are all trying to stop a network of hackers who are succeeding in stealing account numbers, names, email addresses and other crucial data used in identity theft. More than 100 million accounts at Target, Neiman Marcus and Michaels stores were affected in some way during the most recent attacks, starting last November."
+        },
+        {
+          "l": "B",
+          "t": "Swipe(刷卡) is the operative word: cards are increasingly vulnerable to attacks when you make purchases in a store. In several recent incidents, hackers have been able to obtain massive information of credit-debit-(借 记) or prepaid-card numbers using malware, i.e. malicious software, inserted secretly into the retailers' point- of-sale system—the checkout registers. Hackers then sold the data to a second group of criminals operating in shadowy corners of the web. Not long after, the stolen data was showing up on fake cards and being used for online purchases."
+        },
+        {
+          "l": "C",
+          "t": "The solution could cost as little as $2 extra for every piece of plastic issued. The fix is a security technology used heavily outside the U.S. While American credit cards use the 40-year-old magstripe technology to process transactions, much of the rest of the world uses smarter cards with a technology called EMV (short for Europay, MasterCard, Visa) that employs a chip embedded in the card plus a customer PIN (personal identification number) to authenticate(验证) every transaction on the spot. If a purchaser fails to punch in the correct PIN at the checkout, the transaction gets rejected. (Online purchases can be made by setting up a separate transaction code.)"
+        },
+        {
+          "l": "D",
+          "t": "Why haven't big banks adopted the more secure technology? When it comes to mailing out new credit cards, it's all about relative costs, says David Robertson, who runs the Nilson Report, an industry newsletter. \"The cost of the card, putting the sticker on it, coding the account number and expiration date, embossing(凸印) it, the small envelope—all put together, you're in the dollar range.\" A chip-and-PIN card currently costs closer to $3, says Robertson, because of the price of chips. (Once large issuers convert together, the chip costs should drop.)"
+        },
+        {
+          "l": "E",
+          "t": "Multiply $3 by the more than 5 billion magstripe credit and prepaid cards in circulation in the U.S. Then consider that there's an estimated $12.4 billion in card fraud on a global basis, says Robertson. With 44% of that in the U.S., American credit-card fraud amounts to about $5.5 billion annually. Card issuers have so far calculated that absorbing the liability for even big hacks like the Target one is still cheaper than replacing all that plastic."
+        },
+        {
+          "l": "F",
+          "t": "That leaves American retailers pretty much alone the world over in relying on magstripe technology to charge purchases—and leaves consumers vulnerable. Each magstripe has three tracks of information, explains payments security expert Jeremy Gumbley, the chief technology officer of Credit Call, an electronic-payments company. The first and third are used by the bank or card issuer. Your vital account information lives on the second track, which hackers try to capture. \"Malware is scanning through the memory in real time and looking for data,\" he says. \"It creates a text file that gets stolen.\""
+        },
+        {
+          "l": "G",
+          "t": "Chip-and-PIN cards, by contrast, make fake cards or skimming impossible because the information that gets scanned is encrypted(加密). The historical reason the U.S. has stuck with magstripe, ironically enough, is once superior technology. Our cheap, ultra-reliable wired networks made credit-card authentication over the phone frictionless. In France, card companies created EMV in part because the telephone monopoly was so maddeningly inefficient and expensive. The EMV solution allowed transactions to be verified locally and securely."
+        },
+        {
+          "l": "H",
+          "t": "Some big banks, like Wells Fargo, are now offering to convert your magstripe card to a chip-and-PIN model. It's actually a hybrid(混合体) that will still have a magstripe, since most U.S. merchants don't have EMV terminals. Should you take them up on it? If you travel internationally, the answer is yes."
+        },
+        {
+          "l": "I",
+          "t": "Keep in mind, too, that credit cards typically have better liability protection than debit cards. If someone uses your credit card fraudulently(欺诈性的), it's the issuer or merchant, not you, that takes the hit. Debit cards have different liability limits depending on the bank and the events surrounding any fraud. \"If it's available, the logical thing is to get a chip-and-PIN card from your bank,\" says Eric Adamowsky, a co-founder of Credit CardInsider.com. \"I would use credit cards over debit cards because of liability issues.\" Cash still works pretty well too."
+        },
+        {
+          "l": "J",
+          "t": "Retailers and banks stand to benefit from the lower fraud levels of chip-and-PIN cards but have been reluctant for years to invest in the new infrastructure(基础设施) needed for the technology, especially if consumers don't have access to it. It's a chicken-and-egg problem: no one wants to spend the money on upgraded point- of-sale systems that can read the chip cards if shoppers aren't carrying them—yet there's little point in consumers' carrying the fancy plastic if stores aren't equipped to use them. (An earlier effort by Target to move to chip and PIN never gained progress.) According to Gumbley, there's a \"you-first mentality. The logjam(僵局) has to be broken.\""
+        },
+        {
+          "l": "K",
+          "t": "JPMorgan Chase CEO Jamie Dimon recently expressed his willingness to do so, noting that banks and merchants have spent the past decade suing each other over interchange fees—the percentage of the transaction price they keep—rather than deal with the growing hacking problem. Chase offers a chip-enabled card under its own brand and several others for travel-related companies such as British Airways and Ritz- Carlton."
+        },
+        {
+          "l": "L",
+          "t": "The Target and Neiman hacks have also changed the cost calculation: although retailers have been reluctant to spend the $6.75 billion that Capgemini consultants estimate it will take to convert all their registers to be chip-and-PIN-compatible, the potential liability they now face is dramatically greater. Target has been hit with class actions from hacked consumers. \"It's the ultimate nightmare,\" a retail executive from a well-known chain admitted to TIME."
+        },
+        {
+          "l": "M",
+          "t": "The card-payment companies MasterCard and Visa are pushing hard for change. The two firms have warned all parties in the transaction chain—merchant, network, bank—that if they don't become EMV-compliant by October 2015, the party that is least compliant will bear the fraud risk."
+        },
+        {
+          "l": "N",
+          "t": "In the meantime, app-equipped smartphones and digital wallets—all of which can use EMV technology—are beginning to make inroads(侵染) on cards and cash. PayPal, for instance, is testing an app that lets you use your mobile phone to pay on the fly at local merchants—without surrendering any card information to them. And further down the road is biometric authentication, which could be encrypted with, say, a fingerprint."
+        },
+        {
+          "l": "O",
+          "t": "Credit and debit cards, though, are going to be with us for the foreseeable future, and so are hackers, if we stick with magstripe technology. \"It seems crazy to me,\" says Gumbley, who is English, \"that a cutting-edge technology country is depending on a 40-year-old technology.\" That's why it may be up to consumers to move the needle on chip and PIN. Says Robertson: \"When you get the consumer into a position of worry and inconvenience, that's where the rubber hits the road.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It is best to use an EMV card for international travel.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "Personal information on credit and debit cards is increasingly vulnerable to hacking.",
+          "a": "B"
+        },
+        {
+          "n": 38,
+          "s": "The French card companies adopted EMV technology partly because of inefficient telephone service.",
+          "a": "G"
+        },
+        {
+          "n": 39,
+          "s": "While many countries use the smarter EMV cards, the U.S. still clings to its old magstripe technology.",
+          "a": "C"
+        },
+        {
+          "n": 40,
+          "s": "Attempts are being made to prevent hackers from carrying out identity theft.",
+          "a": "A"
+        },
+        {
+          "n": 41,
+          "s": "Credit cards are much safer to use than debit cards.",
+          "a": "I"
+        },
+        {
+          "n": 42,
+          "s": "Big banks have been reluctant to switch to more secure technology because of the higher costs involved.",
+          "a": "D"
+        },
+        {
+          "n": 43,
+          "s": "The potential liability for retailers using magstripe is far more costly than upgrading their registers.",
+          "a": "L"
+        },
+        {
+          "n": 44,
+          "s": "The use of magstripe cards by American retailers leaves consumers exposed to the risks of losing account information.",
+          "a": "F"
+        },
+        {
+          "n": 45,
+          "s": "Consumers will be a driving force behind the conversion from magstripe to EMV technology.",
+          "a": "O"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "What's the one word of advice a well-meaning professional would give to a recent college graduate? China? India? Brazil? How about trade? When the Commerce Department reported last week that the trade deficit in June approached $50 billion, it set off a new round of economic doomsaying. Imports, which soared to $200.3 billion in the month, are subtracted in the calculation of gross domestic product. The larger the trade deficit, the smaller the GDP. Should such imbalances continue, pessimists say, they could contribute to slower growth. But there's another way of looking at the trade data. Over the past two years, the figures on imports and exports seem not to signal a double-dip recession—a renewed decline in the broad level of economic activity in the United States—but an economic expansion. The rising volume of trade—more goods and services shuttling in and out of the United States—is good news for many sectors. Companies engaged in shipping, trucking, rail freight, delivery, and logistics(物流) have all been reporting better than expected results. The rising numbers signify growing vitality in foreign markets— when we import more stuff, it puts more cash in the hands of people around the world, and U.S. exports are rising because more foreigners have the ability to buy the things we produce and market. The rising tide of trade is also good news for people who work in trade-sensitive businesses, especially those that produce commodities for which global demand sets the price—agricultural goods, mining, metals, oil. And while exports always seem to lag, U.S. companies are becoming more involved in the global economy with each passing month. General Motors sells as many cars in China as in America each month. While that may not do much for imports, it does help GM's balance sheet—and hence makes the jobs of U.S.-based executives more stable. One great challenge for the U.S. economy is slack domestic consumer demand. Americans are paying down debt, saving more, and spending more carefully. That's to be expected, given what we've been through. But there's a bigger challenge. Can U.S.-based businesses, large and small, figure out how to get a piece of growing global demand? Unless you want to pick up and move to India, or Brazil, or China, the best way to do that is through trade. It may seem obvious, but it's no longer enough simply to do business with our friends and neighbors here at home. Companies and individuals who don't have a strategy to export more, or to get more involved in foreign markets, or to play a role in global trade, are shutting themselves out of the lion's share of economic opportunity in our world.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "How do pessimists interpret the U.S. trade deficit in June?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It reflects Americans' preference for imported goods."
+              },
+              {
+                "l": "B",
+                "t": "It signifies a change in American economic structure."
+              },
+              {
+                "l": "C",
+                "t": "It could lead to slower growth of the national economy."
+              },
+              {
+                "l": "D",
+                "t": "It is the result of America's growing focus on domestic market."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What does the author say about the trade data of the past two years?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It indicates that economic activities in the U.S. have increased."
+              },
+              {
+                "l": "B",
+                "t": "It signals decreasing domestic demand for goods and services."
+              },
+              {
+                "l": "C",
+                "t": "It reflects the fluctuations in the international market."
+              },
+              {
+                "l": "D",
+                "t": "It shows that U.S. economy is slipping further into recession."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "Who particularly benefits from the rising volume of trade?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People who have expertise in international trade."
+              },
+              {
+                "l": "B",
+                "t": "Consumers who favor imported goods and services."
+              },
+              {
+                "l": "C",
+                "t": "Producers of agricultural goods and raw materials."
+              },
+              {
+                "l": "D",
+                "t": "Retailers dealing in foreign goods and services."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What is one of the challenges facing the American economy?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Decreasing productivity."
+              },
+              {
+                "l": "B",
+                "t": "Competition from overseas."
+              },
+              {
+                "l": "C",
+                "t": "People's reluctance to spend."
+              },
+              {
+                "l": "D",
+                "t": "Slack trade activities."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What is the author's advice to U.S. companies and individuals?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To import more cheap goods from developing countries."
+              },
+              {
+                "l": "B",
+                "t": "To increase their market share overseas."
+              },
+              {
+                "l": "C",
+                "t": "To be alert to fluctuations in foreign markets."
+              },
+              {
+                "l": "D",
+                "t": "To move their companies to where labor is cheaper."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "A recurring criticism of the UK's university sector is its perceived weakness in translating new knowledge into new products and services. Recently, the UK National Stem Cell Network warned the UK could lose its place among the world leaders in stem cell research unless adequate funding and legislation could be assured. We should take this concern seriously as universities are key in the national innovation system. However, we do have to challenge the unthinking complaint that the sector does not do enough in taking ideas to market. The most recent comparative data on the performance of universities and research institutions in Australia, Canada, USA and UK shows that, from a relatively weak starting position, the UK now leads on many indicators of commercialisation activity. When viewed at the national level, the policy interventions of the past decade have helped transform the performance of U.K. universities. Evidence suggests the UK's position is much stronger than in the recent past and is still showing improvement. But national data masks the very large variation in the performance of individual universities. The evidence shows that a large number of universities have fallen off the back of the pack, a few perform strongly and the rest chase the leaders. This type of uneven distribution is not peculiar to the U.K. and is mirrored across other economies. In the UK, research is concentrated: less than 25% of universities receive 75% of the research funding. These same universities are also the institutions producing the greatest share of PhD graduates, science citations, patents and licence income. The effect of policies generating long-term resource concentration has also created a distinctive set of universities which are research-led and commercially active. It seems clear that the concentration of research and commercialisation work creates differences between universities. The core objective for universities which are research-led must be to maximise the impact of their research efforts. These universities should be generating the widest range of social, economic and environmental benefits. In return for the scale of investment, they should share their expertise in order to build greater confidence in the sector. Part of the economic recovery of the UK will be driven by the next generation of research commercialisations spilling out of our universities. There are three dozen universities in the UK which are actively engaged in advanced research training and commercialisation work. If there was a greater coordination of technology transfer offices within regions and a simultaneous investment in the scale and functions of our graduate schools, universities could, and should, play a key role in positioning the U.K. for the next growth cycle.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author think of UK universities in terms of commercialisation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They still have a place among the world leaders."
+              },
+              {
+                "l": "B",
+                "t": "They have lost their leading position in many ways."
+              },
+              {
+                "l": "C",
+                "t": "They do not regard it as their responsibility."
+              },
+              {
+                "l": "D",
+                "t": "They fail to convert knowledge into money."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What does the author say about the national data on UK universities' performance in commercialisation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It masks the fatal weaknesses of government policy."
+              },
+              {
+                "l": "B",
+                "t": "It does not reflect the differences among universities."
+              },
+              {
+                "l": "C",
+                "t": "It does not rank UK universities in a scientific way."
+              },
+              {
+                "l": "D",
+                "t": "It indicates their ineffective use of government resources."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "We can infer from Paragraph 5 that \"policy interventions\"(Line 1, Para. 4) refers to____.",
+            "o": [
+              {
+                "l": "A",
+                "t": "concentration of resources in a limited number of universities"
+              },
+              {
+                "l": "B",
+                "t": "compulsory cooperation between universities and industries"
+              },
+              {
+                "l": "C",
+                "t": "government aid to non-research-oriented universities"
+              },
+              {
+                "l": "D",
+                "t": "fair distribution of funding for universities and research institutions"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What does the author suggest research-led universities do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Fully utilise their research to benefit all sectors of society."
+              },
+              {
+                "l": "B",
+                "t": "Generously share their facilities with those short of funds."
+              },
+              {
+                "l": "C",
+                "t": "Publicise their research to win international recognition."
+              },
+              {
+                "l": "D",
+                "t": "Spread their influence among top research institutions."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "How can the university sector play a key role in the UK's economic growth?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By establishing more regional technology transfer offices."
+              },
+              {
+                "l": "B",
+                "t": "By asking the government to invest in technology transfer research."
+              },
+              {
+                "l": "C",
+                "t": "By promoting technology transfer and graduate school education."
+              },
+              {
+                "l": "D",
+                "t": "By increasing the efficiency of technology transfer agencies."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国传统的待客之道要求饭菜丰富多样，让客人吃不完。中国宴席上典型的菜单包括开席的一套凉菜及其 后的热菜，例如肉类、鸡鸭、蔬菜等。大多数宴席上,全鱼被认为是必不可少的,除非已经上过各式海鲜。如 今，中国人喜欢把西方特色菜与传统中式菜肴融于一席,因此牛排上桌也不少见。沙拉也已流行起来,尽管传统 上中国人一般不吃任何未经烹饪的菜肴。宴席通常至少有一道汤，可以最先或最后上桌。甜点和水果通常标志 宴席的结束。",
+    "reference": "The traditional Chinese way of hosting guests requires a rich variety of food, so that the guests cannot finish all the dishes. A typical menu at a Chinese banquet includes a set of cold dishes to start the meal, followed by hot dishes such as meat, chicken, duck and vegetables. At most banquets, a whole fish is considered essential, unless various kinds of seafood have already been served. Nowadays, Chinese people like to combine Western specialties with traditional Chinese dishes at one banquet, so it is not uncommon to see steak on the table. Salads have also become popular, although traditionally Chinese people seldom eat any uncooked dishes. There is usually at least one soup at a banquet, which can be served either first or last. Desserts and fruit usually mark the end of the banquet."
+  }
+}

@@ -1,0 +1,1345 @@
+{
+  "id": "cet6-2015-6-1",
+  "level": "cet6",
+  "year": 2015,
+  "month": 6,
+  "set": 1,
+  "title": "2015年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on the saying “Knowledge is a treasure, but practice is the key to it. ” You can cite one example or two to illustrate your point of view. You should write at least 150 words but no more than 200 words.",
+    "sample": "The saying reminds us that knowledge, like a hidden treasure, is precious, yet it stays locked until practice turns the key. I firmly agree: only when we put what we learn into practice can knowledge reveal its true value.A telling example is learning to swim. A boy may memorize every rule about breathing and strokes, but he will sink the moment he enters the water if he never trains his body. Only by jumping in and practising again and again can his theoretical knowledge become a real skill. The same is true of medical students: however many textbooks they read, they cannot heal a single patient until they operate under a doctor's guidance.Therefore, knowledge and practice are two sides of one coin. Knowledge offers us the treasure, while practice hands us the key. As students, we should never be content with what we read on paper; instead, we ought to apply it boldly, so that our learning is finally turned into ability."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Persuade the man to join her company."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Employ the most up-to-date technology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Export bikes to foreign markets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Expand their domestic business."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The state subsidizes small and medium enterprises."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The government has control over bicycle imports."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can compete with the best domestic manufacturers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have a cost advantage and can charge higher prices."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Extra costs might eat up their profits abroad."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More workers will be needed to do packaging."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They might lose to foreign bike manufacturers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is very difficult to find suitable local agents."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Report to the management."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Attract foreign investments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Conduct a feasibility study."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Consult financial experts.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Jack, sit down and listen. This is important. We'll have to tackle the problems of exporting step by step. And the first move is to get an up-to-date picture of where we stand now.",
+                "zh": "W: 杰克，坐下来听我说。这很重要。我们得一步一步解决出口的问题。第一步是及时了解一下我们目前的处境。"
+              },
+              {
+                "en": "M: Why don't we just concentrate on expanding here at home?",
+                "zh": "M: 我们为什么不干脆集中精力在国内扩大业务呢？"
+              },
+              {
+                "en": "W: Of course, we should hold on to our position here. But you must admit the market here is limited.",
+                "zh": "W: 当然，我们应该守住在这里的地位。但你得承认，这里的市场是有限的。"
+              },
+              {
+                "en": "M: Yes, but it's safe. The government keeps out foreigners with import controls, though I must admit I feel sure we could hold our own against foreign bikes.",
+                "zh": "M: 没错，但这里很安全。政府通过进口管制把外国企业挡在外面，不过我得承认，我相信我们完全有能力与外国自行车竞争。"
+              },
+              {
+                "en": "W: I agree. That's why I'm suggesting exporting, because I feel we can compete with the best of them.",
+                "zh": "W: 我同意。所以我才建议出口，因为我觉得我们能和最优秀的竞争者一较高下。"
+              },
+              {
+                "en": "M: What you are really saying is that we'd make more profit by selling bikes abroad, where we have a cost advantage and can charge higher prices.",
+                "zh": "M: 你真正想说的是，在国外卖自行车能赚更多，因为我们在那里有成本优势，还可以收取更高的价格。"
+              },
+              {
+                "en": "W: Exactly.",
+                "zh": "W: 正是。"
+              },
+              {
+                "en": "M: But, wait a minute. Packaging, shipping, financing, etc. will push up our costs and we could end up no better off, maybe worse off.",
+                "zh": "M: 但是，等一下。包装、运输、融资等费用会推高我们的成本，到头来我们可能并没有占到便宜，甚至情况会更糟。"
+              },
+              {
+                "en": "W: OK. Now there are extra costs involved. But if we do it right, they can be built into the price of the bike and we can still be competitive.",
+                "zh": "W: 好吧。现在确实会产生额外费用。但如果我们处理得当，就可以把这些费用计入自行车的价格中，同时仍然保持竞争力。"
+              },
+              {
+                "en": "M: How sure are you about our chances of success in the foreign market?",
+                "zh": "M: 你有多大把握我们能在国外市场取得成功？"
+              },
+              {
+                "en": "W: Well, that's the sticky one. It's going to need a lot of research. I'm hoping to get your help. Well, come on, Jack. Is it worth it, or not?",
+                "zh": "W: 嗯，这才是棘手的问题。这需要做大量研究。我希望能得到你的帮助。好了，杰克，值得做，还是不值得？"
+              },
+              {
+                "en": "M: There'll be a lot of problems.",
+                "zh": "M: 会有很多问题。"
+              },
+              {
+                "en": "W: Nothing we can't handle.",
+                "zh": "W: 没有什么是我们解决不了的。"
+              },
+              {
+                "en": "M: Um… I'm not that hopeful. But, yes, I think we should go ahead with a feasibility study.",
+                "zh": "M: 嗯……我没那么乐观。不过，我觉得我们应该继续进行可行性研究。"
+              },
+              {
+                "en": "W: Marvelous, Jack. I was hoping you'd be on my side.",
+                "zh": "W: 太好了，杰克。我就希望你能站在我这边。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Coal burnt daily for the comfort of our homes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Anything that can be used to produce power."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fuel refined from oil extracted from underground."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Electricity that keeps all kinds of machines running."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Oil will soon be replaced by alternative energy sources."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Oil reserves in the world will be exhausted in a decade."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Oil consumption has given rise to many global problems."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Oil production will begin to decline worldwide by 2025."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Minimize the use of fossil fuels."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Start developing alternative fuels."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Find the real cause for global warming."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Take steps to reduce the greenhouse effect."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They release harmful substances when they are burned."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They dissolve in the water and cause a waste of water."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They release poisonous gas and lead to pollution."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are burned inefficiently resulting in a waste of resources."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: What does the term \"alternative energy source\" mean?",
+                "zh": "W： “替代能源”这个术语是什么意思？"
+              },
+              {
+                "en": "M: When we think of energy or fuel for our homes and cars, we think of petroleum—a fossil fuel processed from oil removed from the ground, of which there is a limited supply. But alternative fuels can be many things—wind, sun and water can all be used to create fuel.",
+                "zh": "M： 当我们想到家庭和汽车所使用的能源或燃料时，想到的是石油，也就是从地下开采出来的原油经过加工制成的化石燃料，而石油的储量是有限的。但替代燃料可以有很多种，风能、太阳能和水能都可以用来制造燃料。"
+              },
+              {
+                "en": "W: Is the threat of running out of petroleum real?",
+                "zh": "W： 石油即将耗尽的威胁是真实存在的吗？"
+              },
+              {
+                "en": "M: It has taken thousands of years to create the natural stores of petroleum we have now. We are using what is available at a much faster rate than it has been produced over time. The real controversy surrounding the amounts of petroleum we have is how much we need to keep in reserve for future use. Most experts agree that by around 2025, the amount of petroleum we use will reach a peak. Then production and availability will begin to seriously decline. This is not to say there will be no petroleum at this point. But it'll become very difficult and therefore expensive to extract.",
+                "zh": "M： 我们现在拥有的天然石油储藏，是经过数千年才形成的。我们消耗现有石油的速度，远远快于它在漫长岁月中的形成速度。围绕石油储量的真正争议在于，我们需要为未来使用保留多少储备。大多数专家都认为，到2025年左右，我们使用的石油量将达到峰值。之后，石油的产量和可获得量将开始大幅下降。这并不是说那时就不会再有石油了，而是说开采石油将变得非常困难，因此成本也会很高。"
+              },
+              {
+                "en": "W: Is that the most important reason to develop alternative fuel and energy sources?",
+                "zh": "W： 这是开发替代燃料和替代能源最重要的原因吗？"
+              },
+              {
+                "en": "M: There're two very clear reasons to do so. One is that whether we have 60 or 600 years of fossil fuels left, we have to find other fuel sources eventually. So the sooner we start, the better off we will be. The other big argument is that when you burn fossil fuels, you release substances trapped in the ground for a long time, which leads to some long-term negative effects, like global warming and the greenhouse effect.",
+                "zh": "M： 这样做有两个非常明确的原因。一个原因是，无论我们还剩下60年还是600年的化石燃料，我们最终都必须寻找其他燃料来源。所以我们越早开始，就会越有利。另一个重要理由是，当你燃烧化石燃料时，会释放出长期以来被困在地下的物质，这会导致一些长期的负面影响，比如全球变暖和温室效应。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The ability to predict fashion trends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A refined taste for artistic works."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Years of practical experience."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Strict professional training."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Promoting all kinds of American hand-made specialties."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Strengthening cooperation with foreign governments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Conducting trade in art works with dealers overseas."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Purchasing handicrafts from all over the world."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She has access to fashionable things."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is doing what she enjoys doing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She can enjoy life on a modest salary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is free to do whatever she wants.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Karen Smith is a buyer for a department store in New York. Department store buyers purchase the goods that their stores sell. They not only have to know what is fashionable at the moment, but also have to guess what will become fashionable next season or next year. Most buyers work for just one department in a store. But the goods that Karen finds may be displayed and sold in several different sections of the store. Her job involves buying handicrafts from all over the world. Last year, she made a trip to Morocco and returned with rugs, pots, dishes and pans. The year before, she visited Mexico, and bought back handmade table cloths, mirrors with frames of tin, and paper flowers. The paper flowers are bright and colorful, so they were used to decorate the whole store. This year Karen is travelling in Malaysia, Thailand and Indonesia. Many of the countries that Karen visits have government offices that promote handicrafts. The officials are glad to cooperate with her by showing her the products that are available. Karen especially likes to visit markets in small towns and villages whenever she can arrange for it. She is always looking for interesting and unusual items. Karen thinks she has the best job she could have found. She loves all the travelling that she has to do, because she often visits markets and small out-of-the-way places. She sees much more of the country she visits than an ordinary tourist would. As soon as she gets back to New York from one trip, Karen begins to plan another.",
+                "zh": "凯伦·史密斯是纽约一家百货商店的采购员。百货商店的采购员负责购买商店销售的商品。他们不仅要了解目前流行什么，还要猜测下个季度或明年会流行什么。大多数采购员只负责商店里的一个部门。但凯伦找到的商品可能会在商店的几个不同区域陈列和销售。她的工作包括从世界各地购买手工艺品。去年，她去了摩洛哥，带回了地毯、罐子、盘子和锅。前年，她访问了墨西哥，买回了手工桌布、带锡制框架的镜子和纸花。纸花色彩鲜艳，因此被用来装饰整家商店。今年凯伦正在马来西亚、泰国和印度尼西亚旅行。凯伦访问的许多国家都有推广手工艺品的政府机构。官员们很乐意与她合作，向她展示可以买到的产品。只要有机会安排，凯伦尤其喜欢去小城镇和村庄的市场。她总是在寻找有趣而不寻常的物品。凯伦认为自己找到了一份再好不过的工作。她喜欢所有必须进行的旅行，因为她经常会去逛市场和偏僻的小地方。与普通游客相比，她能更多地了解所访问的国家。每次旅行从纽约回来后，凯伦都会立即开始计划下一次旅行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Join in neighborhood patrols."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Get involved in his community."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Voice his complaints to the city council."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make suggestions to the local authorities."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Deterioration in the quality of life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Increase of police patrols at night."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Renovation of the vacant buildings."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Violation of community regulations."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They may take a long time to solve."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They need assistance from the city."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have to be dealt with one by one."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are too big for individual efforts."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He had got some groceries at a big discount."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He had read a funny poster near his seat."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He had done a small deed of kindness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He had caught the bus just in time."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Mark felt that it was time for him to take part in his community, so he went to the neighborhood meeting after work. The area city council woman was leading a discussion about how the quality of life was on the decline. The neighborhood faced many problems. Mark looked at the charts taped to the walls. There were charts for parking problems, crime, and for problems in vacant buildings. Mark read from the charts, \"Police patrols cut back, illegal parking up 20%.\" People were supposed to suggest solutions to the council woman. It was too much for Mark. \"The problems are too big,\" he thought. He turned to the man next to him and said, \"I think this is a waste of my time. Nothing I could do would make a difference here.\"",
+                "zh": "马克觉得自己是时候参与社区事务了，于是下班后去了社区会议。当地的女市议员正在主持一场关于生活质量日益下降的讨论。这个社区面临着许多问题。马克看着贴在墙上的图表，其中有关于停车问题、犯罪问题以及空置建筑问题的图表。马克从图表上读到：“警察巡逻减少，违规停车增加了20%。”大家本应向女市议员提出解决方案。马克觉得这实在让人难以应付。“这些问题太严重了，”他想道。他转向旁边的男人说：“我觉得这在浪费我的时间。我做什么都不可能改变这里的情况。”"
+              },
+              {
+                "en": "As he neared the bus stop on his way home, Mark saw a woman carrying a grocery bag and a baby. As Mark got closer, her other child, a little boy, suddenly darted into the street. The woman tried to reach for him, but as she moved, her bag shifted, and groceries started to fall out. Mark ran to take the boy's arm and led him back to his mother. \"You gotta stay with mom,\" he said. Then he picked up the stray groceries while the woman smiled in relief. \"Thanks,\" she said, \"You've got great timing.\" \"Just being neighborly,\" Mark said. As he rode home, he glanced at the poster near his seat in the bus: Small acts of kindness add up. Mark smiled and thought, \"Maybe that's a good place to start.\"",
+                "zh": "马克在回家的路上快到公交车站时，看见一位提着购物袋、抱着婴儿的女人。马克走近时，她的另一个孩子，一个小男孩，突然冲到了街上。女人试图伸手去抓住他，但她一动，手里的袋子便发生了偏移，里面的食品开始掉出来。马克跑过去抓住男孩的胳膊，把他领回母亲身边。“你得跟妈妈待在一起，”他说。随后，他捡起散落的食品，女人如释重负地笑了。“谢谢你，”她说，“你来得真及时。”“只是尽了邻里之间应有的情分，”马克说。他乘车回家时，瞥见座位附近公交车上的一张海报：点滴善意汇聚起来，也能产生大影响。马克笑了，心想：“也许这是一个不错的开始。”"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 19 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The difficulties of industrialization in North America."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The influence of industrialization on people's life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The negative effect of industrialization in North America."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Improved ways of organizing the manufacturing of goods."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To provide an example of how entrepreneurs increased output by using an extended work system."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To provide an example of how entrepreneurs used technological improvements to increase output."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To provide an example of how rural workers responded to shoe bosses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To provide an example of how changes in the work system improved the quality of shoes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were located away from large cities."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They used new technology to produce power."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They did not allow flour to cool before it was placed in barrels."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They combined technology with the work system."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It became easier for factory owners to find workers and customers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Manufacturers had to employ more highly skilled workers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The amount of power required for factories' operation was reduced."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Factories could operate more than one engine at a time.\n\nQuestions 20 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Industrialization came to the United States after 1790 as North American entrepreneurs increased productivity by reorganizing work and building factories. These innovations in manufacturing boosted output and living standards to an unprecedented extent; the average per capita wealth increased by nearly 1 percent per year—30 percent over the course of a generation. Goods that had once been luxury items became part of everyday life.",
+                "zh": "1790年以后，随着北美企业家通过重新组织劳动和兴建工厂来提高生产率，工业化进入了美国。这些制造业创新使产量和生活水平以前所未有的程度得到提高；人均财富平均每年增加近1%，一代人的时间里增长了30%。曾经属于奢侈品的商品，如今成为日常生活的一部分。"
+              },
+              {
+                "en": "The impressive gain in output stemmed primarily from the change of the way in which workers made goods. Since the 1790's, North American entrepreneurs-even without technological improvements—had broadened the scope of the work system that made manufacturing more efficient by distributing materials to a succession of workers who each performed a single step of the production process. For example, during the 1820's and 1830's the shoe industry greatly expanded the scale and extent of the work system. Tens of thousands of rural women, paid according to the amount they produced, fabricated the uppers of shoes, which were bound to the soles by skilled shoemakers in dozens of Massachusetts towns, whereas previously skilled shoemakers would have made the entire shoe. This system of production made the employer a powerful shoe boss and eroded workers' control over the pace and conditions of labor. However, it also dramatically increased the output of shoes while cutting the price.",
+                "zh": "产量的显著增长主要源于工人制造商品的方式发生了变化。自18世纪90年代以来，即使没有技术改进，北美企业家也扩大了这种劳动体系的范围，使制造业更加高效：他们把材料依次分发给一系列工人，每个人只完成生产过程中的一个步骤。例如，在19世纪20年代和30年代，制鞋业大大扩大了这种劳动体系的规模和范围。成千上万名按产量计酬的农村妇女制作鞋面，马萨诸塞州数十个城镇中的熟练鞋匠再将鞋面缝接到鞋底上；而在此之前，熟练鞋匠通常会独自完成整双鞋的制作。这种生产体系使雇主成为拥有强大权力的制鞋老板，并削弱了工人对劳动节奏和劳动条件的控制。然而，它也大幅提高了鞋子的产量，同时降低了价格。"
+              },
+              {
+                "en": "Entrepreneurs created an even more important new organization, the modern factory, which used power-driven machines and assembly-line techniques to turn out large quantities of well-made goods. As early as 1782 the creative inventor Oliver Evans had built a highly automated, laborsaving flour mill driven by water power. His machinery lifted the grain to the top of the mill, cleaned it as it fell into containers known as hoppers, ground the grain into flour, and then conveyed the flour back to the top of the mill to allow it to cool as it descended into barrels. Subsequently, manufacturers made use of new improved stationary steam engines to power their mills. This new technology enabled them to build factories in the nation's largest cities, taking advantage of urban inexpensive labor, good transportation networks, and eager customers.",
+                "zh": "企业家们还创造了一种更加重要的新型组织形式，即现代工厂。现代工厂利用动力驱动的机器和流水线技术，大批量生产制作精良的商品。早在1782年，富有创造力的发明家奥利弗·埃文斯就建造了一座由水力驱动的高度自动化、节省劳动力的磨坊。磨坊中的机器将谷物提升到顶部，在谷物落入称为料斗的容器时将其清理干净，把谷物磨成面粉，然后又将面粉运回磨坊顶部，使其在落入木桶的过程中冷却。此后，制造商利用新式改良的固定式蒸汽机为磨坊提供动力。这项新技术使他们能够在全国最大的城市中建造工厂，利用城市中廉价的劳动力、良好的交通网络以及热切的顾客。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 20 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The Civil War."
+                  },
+                  {
+                    "l": "B",
+                    "t": "An economic depression."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A recognition that romanticism was unpopular."
+                  },
+                  {
+                    "l": "D",
+                    "t": "An increased interest in the study of common speech."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Because he wrote humorous stories and novels."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Because he rejected romanticism as a literary approach."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Because he was the first realist writer in the United States."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Because he influenced American prose style through his use of common speech."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He mainly wrote about historical subjects such as the Civil War."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His novels often contained elements of humor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He viewed himself more as a social observer than as a literary artist."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He believed writers should emphasize the positive aspects of life.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The economic depression in the late-nineteenth-century United States contributed significantly to a growing movement in literature toward realism and naturalism. After the 1870's, a number of important authors began to reject the romanticism that had prevailed immediately following the Civil War of 1861-1865 and turned instead to realism. Determined to portray life as it was, with loyalty to real life and accurate representation without any idealization, they studied local dialects, wrote stories which focused on life in specific regions of the country, and emphasized the true relationships between people. In doing so, they reflected broader trends in the society, such as industrialization, evolutionary theory which emphasized the effect of the environment on humans, and the influence of science.",
+                "zh": "19世纪后期美国的经济萧条极大地推动了文学界日益转向现实主义和自然主义的潮流。19世纪70年代以后，一些重要作家开始摒弃1861年至1865年内战结束后随即盛行的浪漫主义，转而走向现实主义。他们决心如实描绘生活，忠实于现实生活，准确地再现现实而不加任何理想化处理；他们研究地方方言，创作以美国特定地区的生活为重点的故事，并强调人与人之间真实的关系。通过这些做法，他们反映了社会中的更广泛趋势，例如工业化、强调环境对人类影响的进化论，以及科学的影响。"
+              },
+              {
+                "en": "Realists such as Joel Chandler Harris and Ellen Glasgow depicted life in the South, Hamlin Garland described life on the Great Plains, and Sarah Orne Jewett wrote about everyday life in rural New England. Another realist, Bret Harte, achieved fame with stories that portrayed local life in the California mining camps.",
+                "zh": "乔尔·钱德勒·哈里斯和埃伦·格拉斯哥等现实主义作家描绘了南方的生活，哈姆林·加兰描述了大平原地区的生活，萨拉·奥恩·朱厄特则书写了新英格兰乡村的日常生活。另一位现实主义作家布雷特·哈特凭借描写加利福尼亚矿营当地生活的故事而声名鹊起。"
+              },
+              {
+                "en": "Samuel Clemens, who adopted the pen name Mark Twain, became the country's most outstanding realist author, observing life around him with a humorous and skeptical eye. In his stories and novels, Twain drew on his own experiences and used dialect and common speech instead of literary language, touching off a major change in American prose style.",
+                "zh": "塞缪尔·克莱芒采用笔名马克·吐温，成为美国最杰出的现实主义作家。他以幽默而怀疑的眼光观察周围的生活。在他的故事和小说中，吐温取材于自己的经历，使用方言和日常口语而非文学语言，从而引发了美国散文文体的一次重大变革。"
+              },
+              {
+                "en": "Other writers became impatient even with realism. Pushing evolutionary theory to its limits, they wrote of a world in which a cruel and merciless environment determined human fate. These writers, called naturalists, often focused on economic hardship, studying people struggling with poverty, and other aspects of urban and industrial life. Naturalists brought to their writing a passion for direct and honest experience.",
+                "zh": "其他作家甚至对现实主义也感到不耐烦。他们将进化论推向极端，描写了这样一个世界：残酷无情的环境决定着人的命运。这些被称为自然主义作家的作家常常关注经济困苦，研究与贫困作斗争的人们，以及城市和工业生活的其他方面。自然主义作家以对直接而诚实经验的热情投入了写作。"
+              },
+              {
+                "en": "Theodore Dreiser, the foremost naturalist writer, in novels such as Sister Carrie, grimly portrayed a dark world in which human beings were tossed about by forces beyond their understanding or control. Dreiser thought that writers should tell the truth about human affairs, not fabricate romance, and Sister Carrie, he said, was not intended as a piece of literary craftsmanship, but was a picture of conditions.",
+                "zh": "西奥多·德莱塞是最重要的自然主义作家。在《嘉莉妹妹》等小说中，他冷峻地描绘了一个黑暗的世界，在那里，人类被一些超出自身理解或控制能力的力量抛来抛去。德莱塞认为，作家应当讲述人类事务的真相，而不应虚构浪漫故事；他说，《嘉莉妹妹》并不是为了成为一部精雕细琢的文学作品，而是对现实状况的写照。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have remained basically unchanged from their original forms."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have been able to adapt to ecological changes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have caused rapid change in the environment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are no longer in existence."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Extinction of species has occurred from time to time throughout Earth's history."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Extinctions on Earth have generally been massive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There has been only one mass extinction in Earth's history."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Dinosaurs became extinct much earlier than scientists originally believed."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Extinctions during the past 25 million years have tended to be more intense every 2.6 million years."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The theory that the periodic extinction had something to do with the Earth's movement is only a\n speculation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "This finding was already confirmed by the most prestigious scientists in the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A species' survival totally depends on its ability or inability to adapt."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Moderator:",
+                "zh": "主持人："
+              },
+              {
+                "en": "Welcome to \"Science World\". Today we have Dr. Michael Hudson, Chief of the Department of Life Science in Boston University. It is estimated that over 99 percent of all species that ever existed have become extinct. What causes extinction?",
+                "zh": "欢迎收看《科学世界》。今天我们请来了波士顿大学生命科学系主任迈克尔·赫德森博士。据估计，曾经存在过的所有物种中，超过99%已经灭绝。是什么导致了物种灭绝？"
+              },
+              {
+                "en": "Dr. Hudson:",
+                "zh": "赫德森博士："
+              },
+              {
+                "en": "Well, when a species is no longer adapted to a changed environment, it may perish. The exact causes of a species' death vary from situation to situation. Rapid ecological change may render an environment hostile to a species. For example, temperatures may change and a species may not be able to adapt. Food resources may be affected by environmental changes, which will then cause problems for a species requiring these resources. Other species may become better adapted to an environment, resulting in competition and, ultimately, in the death of a species.",
+                "zh": "物种不再适应变化了的环境时，就可能灭亡。一个物种灭亡的确切原因因情况而异。生态环境的快速变化可能使环境变得不利于某个物种的生存。例如，温度可能发生变化，而某个物种可能无法适应。环境变化可能影响食物资源，进而给依赖这些资源的物种带来问题。其他物种可能变得更加适应某种环境，从而导致竞争，并最终造成某个物种的灭亡。"
+              },
+              {
+                "en": "The fossil record reveals that extinction has occurred throughout the history of Earth. Recent analyses have also revealed that on some occasions many species become extinct at the same time—a mass extinction. One of the best-known examples of mass extinction occurred 65 million years ago with the demise of dinosaurs and many other forms of life. Perhaps the largest mass extinction was the one that occurred 225 million years ago, when approximately 95 percent of all species died. Mass extinctions can be caused by a relatively rapid change in the environment and can be worsened by the close interrelationship of many species.",
+                "zh": "化石记录揭示，灭绝在地球的整个历史进程中都曾发生过。近期的分析还显示，在某些情况下，许多物种会同时灭绝，这就是大灭绝。最著名的大灭绝实例之一发生在6500万年前，当时恐龙和许多其他生命形式灭亡。也许规模最大的一次大灭绝发生在2.25亿年前，当时大约95%的物种灭亡。大灭绝可能由环境相对迅速的变化引起，并且可能因许多物种之间密切的相互关系而加剧。"
+              },
+              {
+                "en": "One interesting and controversial finding is that extinctions during the past 250 million years have tended to be more intense every 26 million years. This periodic extinction might be due to intersection of the Earth's orbit with a cloud of comets, but this theory is purely speculative. Some researchers have also speculated that extinction may be random. That is, certain species may be eliminated and others may survive for no particular reason. A species' survival may have nothing to do with its ability or inability to adapt. If so, some of evolutionary history may reflect a sequence of essentially random events.",
+                "zh": "一个有趣且颇具争议的发现是，在过去2.5亿年间，灭绝事件往往每隔2600万年就会变得更加严重。这种周期性的灭绝可能是由于地球轨道与彗星云相交所致，但这一理论纯属推测。一些研究人员还推测，灭绝可能是随机发生的。也就是说，某些物种可能会灭绝，而另一些物种则可能存活下来，并没有什么特别的原因。一个物种能否存活，可能与其适应能力或无法适应的能力毫无关系。如果确实如此，那么部分进化史可能反映的是一连串本质上随机发生的事件。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Innovation, the elixir(灵丹妙药) of progress, has always cost people their jobs. In the Industrial Revolution hand weavers were"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "aside by the mechanical loom. Over the past 30 years the digital revolution has"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "many of the mid-skill jobs that supported 20th-century middle-class life. Typists, ticket agents, bank tellers and many production-line jobs have been dispensed with, just as the weavers were. For those who believe that technological progress has made the world a better place, such disruption is a natural part of rising"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ". Although innovation kills some jobs, it creates new and better ones, as a more"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "society becomes richer and its wealthier inhabitants demand more goods and services. A hundred years ago one in three American workers was"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "on a farm. Today less than 2% of them produce far more food. The millions freed from the land were not rendered"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ", but found better-paid work as the economy grew more sophisticated. Today the pool of secretaries has"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": ", but there are ever more computer programmers and web designers. Optimism remains the right starting-point, but for workers the dislocating effects of technology may make themselves evident faster than its"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ". Even if new jobs and wonderful products emerge, in the short term income gaps will widen, causing huge social dislocation and perhaps even changing politics. Technology's"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "will feel like a tornado(旋风), hitting the rich world first, but"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "sweeping through poorer countries too. No government is prepared for it."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "benefits"
+        },
+        {
+          "l": "B",
+          "w": "displaced"
+        },
+        {
+          "l": "C",
+          "w": "employed"
+        },
+        {
+          "l": "D",
+          "w": "eventually"
+        },
+        {
+          "l": "E",
+          "w": "impact"
+        },
+        {
+          "l": "F",
+          "w": "jobless"
+        },
+        {
+          "l": "G",
+          "w": "primarily"
+        },
+        {
+          "l": "H",
+          "w": "productive"
+        },
+        {
+          "l": "I",
+          "w": "prosperity"
+        },
+        {
+          "l": "J",
+          "w": "responsive"
+        },
+        {
+          "l": "K",
+          "w": "rhythm"
+        },
+        {
+          "l": "L",
+          "w": "sentiments"
+        },
+        {
+          "l": "M",
+          "w": "shrunk"
+        },
+        {
+          "l": "N",
+          "w": "swept"
+        },
+        {
+          "l": "O",
+          "w": "withdrawn"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "N"
+        },
+        {
+          "n": 27,
+          "a": "B"
+        },
+        {
+          "n": 28,
+          "a": "I"
+        },
+        {
+          "n": 29,
+          "a": "H"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "M"
+        },
+        {
+          "n": 33,
+          "a": "A"
+        },
+        {
+          "n": 34,
+          "a": "E"
+        },
+        {
+          "n": 35,
+          "a": "D"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Why the Mona Lisa Stands Out",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Have you ever fallen for a novel and been amazed not to find it on lists of great books? Or walked around a sculpture renowned as a classic, struggling to see what the fuss is about? If so, you've probably pondered the question a psychologist, James Cutting, asked himself: How does a work of art come to be considered great?"
+        },
+        {
+          "l": "B",
+          "t": "The intuitive answer is that some works of art are just great: of intrinsically superior quality. The paintings that win prime spots in galleries, get taught in classes and reproduced in books are the ones that have proved their artistic value over time. If you can't see they're superior, that's your problem. It's an intimidatingly neat explanation. But some social scientists have been asking awkward questions of it, raising the possibility that artistic canons(名作目录) are little more than fossilised historical accidents."
+        },
+        {
+          "l": "C",
+          "t": "Cutting, a professor at Cornell University, wondered if a psychological mechanism known as the \"mere- exposure effect\" played a role in deciding which paintings rise to the top of the cultural league. Cutting designed an experiment to test his hunch(直觉). Over a lecture course he regularly showed undergraduates works of impressionism for two seconds at a time. Some of the paintings were canonical, included in art- history books. Others were lesser known but of comparable quality. These were exposed four times as often. Afterwards, the students preferred them to the canonical works, while a control group of students liked the canonical ones best. Cutting's students had grown to like those paintings more simply because they had seen them more."
+        },
+        {
+          "l": "D",
+          "t": "Cutting believes his experiment offers a clue as to how canons are formed. He points out that the most reproduced works of impressionism today tend to have been bought by five or six wealthy and influential collectors in the late 19th century. The preferences of these men bestowed(给予) prestige on certain works, which made the works more likely to be hung in galleries and printed in collections. The fame passed down the years, gaining momentum from mere exposure as it did so. The more people were exposed to, the more they liked it, and the more they liked it, the more it appeared in books, on posters and in big exhibitions. Meanwhile, academics and critics created sophisticated justifications for its preeminence(卓越). After all, it's not just the masses who tend to rate what they see more often more highly. As contemporary artists like Warhol and Damien Hirst have grasped, critics' praise is deeply entwined(交织) with publicity. \"Scholars\", Cutting argues, \"are no different from the public in the effects of mere exposure.\""
+        },
+        {
+          "l": "E",
+          "t": "The process described by Cutting evokes a principle that the sociologist Duncan Watts calls \"cumulative advantage\": once a thing becomes popular, it will tend to become more popular still. A few years ago, Watts, who is employed by Microsoft to study the dynamics of social networks, had a similar experience to Cutting's in another Paris museum. After queuing to see the \"Mona Lisa\" in its climate-controlled bulletproof box at the Louvre, he came away puzzled: why was it considered so superior to the three other Leonardos in the previous chamber, to which nobody seemed to be paying the slightest attention?"
+        },
+        {
+          "l": "F",
+          "t": "When Watts looked into the history of \"the greatest painting of all time\", he discovered that, for most of its life, the \"Mona Lisa\" remained in relative obscurity. In the 1850s, Leonardo da Vinci was considered no match for giants of Renaissance art like Titian and Raphael, whose works were worth almost ten times as much as the \"Mona Lisa\". It was only in the 20th century that Leonardo's portrait of his patron's wife rocketed to the number-one spot. What propelled it there wasn't a scholarly re-evaluation, but a theft."
+        },
+        {
+          "l": "G",
+          "t": "In 1911 a maintenance worker at the Louvre walked out of the museum with the \"Mona Lisa\" hidden under his smock(工作服). Parisians were shocked at the theft of a painting to which, until then, they had paid little attention. When the museum reopened, people queued to see the gap where the \"Mona Lisa\" had once hung in a way they had never done for the painting itself. From then on, the \"Mona Lisa\" came to represent Western culture itself."
+        },
+        {
+          "l": "H",
+          "t": "Although many have tried, it does seem improbable that the painting's unique status can be attributed entirely to the quality of its brushstrokes. It has been said that the subject's eyes follow the viewer around the room. But as the painting's biographer, Donald Sassoon, dryly notes, \"In reality the effect can be obtained from any portrait.\" Duncan Watts proposes that the \"Mona Lisa\" is merely an extreme example of a general rule. Paintings, poems and pop songs are buoyed(使浮起) or sunk by random events or preferences that turn into waves of influence, passing down the generations."
+        },
+        {
+          "l": "I",
+          "t": "\"Saying that cultural objects have value,\" Brian Eno once wrote, \"is like saying that telephones have conversations.\" Nearly all the cultural objects we consume arrive wrapped in inherited opinion; our preferences are always, to some extent, someone else's. Visitors to the \"Mona Lisa\" know they are about to visit the greatest work of art ever and come away appropriately impressed—or let down. An audience at a performance of \"Hamlet\" knows it is regarded as a work of genius, so that is what they mostly see. Watts even calls the preeminence of Shakespeare a \"historical accident\"."
+        },
+        {
+          "l": "J",
+          "t": "Although the rigid high-low distinction fell apart in the 1960s, we still use culture as a badge of identity. Today's fashion for eclecticism(折衷主义)—\"I love Bach, ABBA and Jay Z\"—is, Shamus Khan, a Columbia University psychologist, argues, a new way for the middle class to distinguish themselves from what they perceive to be the narrow tastes of those beneath them in the social hierarchy."
+        },
+        {
+          "l": "K",
+          "t": "The intrinsic quality of a work of art is starting to seem like its least important attribute. But perhaps it's more significant than our social scientists allow. First of all, a work needs a certain quality to be eligible to be swept to the top of the pile. The \"Mona Lisa\" may not be a worthy world champion, but it was in the Louvre in the first place, and not by accident. Secondly, some stuff is simply better than other stuff. Read \"Hamlet\" after reading even the greatest of Shakespeare's contemporaries, and the difference may strike you as unarguable."
+        },
+        {
+          "l": "L",
+          "t": "A study in the British Journal of Aesthetics suggests that the exposure effect doesn't work the same way on everything, and points to a different conclusion about how canons are formed. The social scientists are right to say that we should be a little sceptical of greatness, and that we should always look in the next room. Great art and mediocrity(平庸) can get confused, even by experts. But that's why we need to see, and read, as much as we can. The more we're exposed to the good and the bad, the better we are at telling the difference. The eclecticists have it."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "According to Duncan Watts, the superiority of the \"Mona Lisa\" to Leonardo's other works resulted from the cumulative advantage.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "Some social scientists have raised doubts about the intrinsic value of certain works of art.",
+          "a": "B"
+        },
+        {
+          "n": 38,
+          "s": "It is often random events or preferences that determine the fate of a piece of art.",
+          "a": "H"
+        },
+        {
+          "n": 39,
+          "s": "In his experiment, Cutting found that his subjects liked lesser known works better than canonical works because of more exposure.",
+          "a": "C"
+        },
+        {
+          "n": 40,
+          "s": "The author thinks the greatness of an art work still lies in its intrinsic value.",
+          "a": "K"
+        },
+        {
+          "n": 41,
+          "s": "It is true of critics as well as ordinary people that the popularity of artistic works is closely associated with publicity.",
+          "a": "D"
+        },
+        {
+          "n": 42,
+          "s": "We need to expose ourselves to more art and literature in order to tell the superior from the inferior.",
+          "a": "L"
+        },
+        {
+          "n": 43,
+          "s": "A study of the history of the greatest paintings suggests even a great work of art could experience years of neglect.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "Culture is still used as a mark to distinguish one social class from another.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "Opinions about and preferences for cultural objects are often inheritable.",
+          "a": "I"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "When the right person is holding the right job at the right moment, that person's influence is greatly expanded. That is the position in which Janet Yellen, who is expected to be confirmed as the next chair of the Federal Reserve Bank (Fed) in January, now finds herself. If you believe, as many do, that unemployment is the major economic and social concern of our day, then it is no stretch to think Yellen is the most powerful person in the world right now. Throughout the 2008 financial crisis and the recession and recovery that followed, central banks have taken on the role of stimulators of last resort, holding up the global economy with vast amounts of money in the form of asset buying. Yellen, previously a Fed vice chair, was one of the principal architects of the Fed's $3.8 trillion money dump. A star economist known for her groundbreaking work on labor markets, Yellen was a kind of prophetess early on in the crisis for her warnings about the subprime(次级债) meltdown. Now it will be her job to get the Fed and the markets out of the biggest and most unconventional monetary program in history without derailing the fragile recovery. The good news is that Yellen, 67, is particularly well suited to meet these challenges. She has a keen understanding of financial markets, an appreciation for their imperfections and a strong belief that human suffering was more related to unemployment than anything else. Some experts worry that Yellen will be inclined to chase unemployment to the neglect of inflation. But with wages still relatively flat and the economy increasingly divided between the well-off and the long-term unemployed, more people worry about the opposite, deflation(通货紧缩) that would aggravate the economy's problems. Either way, the incoming Fed chief will have to walk a fine line in slowly ending the stimulus. It must be steady enough to deflate bubbles(去泡沫) and bring markets back down to earth but not so quick that it creates another credit crisis. Unlike many past Fed leaders, Yellen is not one to buy into the finance industry's argument that it should be left alone to regulate itself. She knows all along the Fed has been too slack on regulation of finance. Yellen is likely to address the issue right after she pushes unemployment below 6%, stabilizes markets and makes sure that the recovery is more inclusive and robust. As Princeton Professor Alan Blinder says, \"She's smart as a whip, deeply logical, willing to argue but also a good listener. She can persuade without creating hostility.\" All those traits will be useful as the global economy's new power player takes on its most annoying problems.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do many people think is the biggest problem facing Janet Yellen?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Lack of money."
+              },
+              {
+                "l": "B",
+                "t": "Subprime crisis."
+              },
+              {
+                "l": "C",
+                "t": "Unemployment."
+              },
+              {
+                "l": "D",
+                "t": "Social instability."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What did Yellen help the Fed do to tackle the 2008 financial crisis?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Take effective measures to curb inflation."
+              },
+              {
+                "l": "B",
+                "t": "Deflate the bubbles in the American economy."
+              },
+              {
+                "l": "C",
+                "t": "Formulate policies to help financial institutions."
+              },
+              {
+                "l": "D",
+                "t": "Pour money into the market through asset buying."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What is a greater concern of the general public?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Recession."
+              },
+              {
+                "l": "B",
+                "t": "Deflation."
+              },
+              {
+                "l": "C",
+                "t": "Inequality."
+              },
+              {
+                "l": "D",
+                "t": "Income."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What is Yellen likely to do in her position as the Fed chief?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Develop a new monetary program."
+              },
+              {
+                "l": "B",
+                "t": "Restore public confidence."
+              },
+              {
+                "l": "C",
+                "t": "Tighten financial regulation."
+              },
+              {
+                "l": "D",
+                "t": "Reform the credit system."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "How does Alan Blinder portray Yellen?",
+            "o": [
+              {
+                "l": "A",
+                "t": "She possesses strong persuasive power."
+              },
+              {
+                "l": "B",
+                "t": "She has confidence in what she is doing."
+              },
+              {
+                "l": "C",
+                "t": "She is one of the world's greatest economists."
+              },
+              {
+                "l": "D",
+                "t": "She is the most powerful Fed chief in history."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Air pollution is deteriorating in many places around the world. The fact that public parks in cities become crowded as soon as the sun shines proves that people long to breathe in green, open spaces. They do not all know what they are seeking but they flock there, nevertheless. And, in these surroundings, they are generally both peaceful and peaceable. It is rare to see people fighting in a garden. Perhaps struggle unfolds first, not at an economic or social level, but over the appropriation of air, essential to life itself. If human beings can breathe and share air, they don't need to struggle with one another. Unfortunately, in our western tradition, neither materialist nor idealist theoreticians give enough consideration to this basic condition for life. As for politicians, despite proposing curbs on environmental pollution, they have not yet called for it to be made a crime. Wealthy countries are even allowed to pollute if they pay for it. But is our life worth anything other than money? The plant world shows us in silence what faithfulness to life consists of. It also helps us to a new beginning, urging us to care for our breath, not only at a vital but also at a spiritual level. The interdependence to which we must pay the closest attention is that which exists between ourselves and the plant world. Often described as \"the lungs of the planet\", the woods that cover the earth offer us the gift of breathable air by releasing oxygen. But their capacity to renew the air polluted by industry has long reached its limit. If we lack the air necessary for a healthy life, it is because we have filled it with chemicals and undercut the ability of plants to regenerate it. As we know, rapid deforestation combined with the massive burning of fossil fuels is an explosive recipe for an irreversible disaster. The fight over the appropriation of resources will lead the entire planet to hell unless humans learn to share life, both with each other and with plants. This task is simultaneously ethical and political because it can be discharged only when each takes it upon herself or himself and only when it is accomplished together with others. The lesson taught by plants is that sharing life expands and enhances the sphere of the living, while dividing life into so-called natural or human resources diminishes it. We must come to view the air, the plants and ourselves as the contributors to the preservation of life and growth, rather than a web of quantifiable objects or productive potentialities at our disposal. Perhaps then we would finally begin to live, rather than being concerned with bare survival.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author assume might be the primary reason that people would struggle with each other?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To get their share of clean air."
+              },
+              {
+                "l": "B",
+                "t": "To pursue a comfortable life."
+              },
+              {
+                "l": "C",
+                "t": "To gain a higher social status."
+              },
+              {
+                "l": "D",
+                "t": "To seek economic benefits."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What does the author accuse western politicians of?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Depriving common people of the right to clean air."
+              },
+              {
+                "l": "B",
+                "t": "Giving priority to theory rather than practical action."
+              },
+              {
+                "l": "C",
+                "t": "Offering preferential treatment to wealthy countries."
+              },
+              {
+                "l": "D",
+                "t": "Failing to pass laws to curb environmental pollution."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What does the author try to draw our closest attention to?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The massive burning of fossil fuels."
+              },
+              {
+                "l": "B",
+                "t": "Our relationship to the plant world."
+              },
+              {
+                "l": "C",
+                "t": "The capacity of plants to renew polluted air."
+              },
+              {
+                "l": "D",
+                "t": "Large-scale deforestation across the world."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "How can human beings accomplish the goal of protecting the plant according to the author?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By showing respect for plants."
+              },
+              {
+                "l": "B",
+                "t": "By preserving all forms of life."
+              },
+              {
+                "l": "C",
+                "t": "By tapping all natural resources."
+              },
+              {
+                "l": "D",
+                "t": "By pooling their efforts together."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does the author suggest we do in order not just to survive?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Expand the sphere of living."
+              },
+              {
+                "l": "B",
+                "t": "Develop nature's potentials."
+              },
+              {
+                "l": "C",
+                "t": "Share life with nature."
+              },
+              {
+                "l": "D",
+                "t": "Allocate the resources."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "2011年是中国城市化(urbanization)进程中的历史性时刻,其城市人口首次超过农村人口。在未来20年里,预 计约有3.5亿农村人口将移居到城市。如此规模的城市发展对城市交通来说既是挑战，也是机遇。中国政府一 直提倡\"以人为本\"的发展理念,强调人们以公交而不是私家车出行。它还号召建设\"资源节约和环境友好型\"社 会。有了这个明确的目标,中国城市就可以更好地规划其发展，并把大量投资转向安全、清洁和经济型交通系 统的发展上。",
+    "reference": "The year 2011 was a historic moment in China's urbanization, when its urban population exceeded the rural population for the first time. Over the next two decades, it is estimated that some 350 million rural people will move into cities. Urban development of such a scale is both a challenge and an opportunity for urban transport. The Chinese government has advocated a people-oriented development concept, emphasizing that people should travel by public transport rather than by private cars. It also calls for the building of a resource-saving and environment-friendly society. With this clear goal, Chinese cities can better plan their development and channel huge investment into the development of safe, clean and economical transport systems."
+  }
+}

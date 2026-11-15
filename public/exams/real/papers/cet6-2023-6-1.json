@@ -1,0 +1,1365 @@
+{
+  "id": "cet6-2023-6-1",
+  "level": "cet6",
+  "year": 2023,
+  "month": 6,
+  "set": 1,
+  "title": "2023年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words",
+    "sample": "Today there is a growing awareness that mental well-being needs to be given as much attention as physical health. For too long, we have measured a person's health only by the body, ignoring the mind that quietly suffers behind a healthy-looking face. Yet a troubled mind can be just as disabling as a broken leg, which is why the two deserve equal care.My own experience convinces me of this. During my sophomore year, a close friend kept a perfect exercise routine but slid into deep anxiety before exams. He looked strong, so no one noticed until his grades and sleep collapsed. Only after he sought counseling did he truly recover. His story shows that neglecting the mind can undo all the benefits of a fit body.Therefore, we should treat mental and physical health as two wheels of the same cart. Schools and workplaces ought to offer counseling as readily as gyms, and each of us should learn to talk about our feelings without shame. When the mind is cared for as much as the body, a person can be genuinely, fully healthy."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was spacious and tranquil."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was warm and comfortable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was shabby and solitary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was tiny and noisy."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She no longer hates people talking loudly in the dorm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She misses her roommates she used to complain about."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She begins to enjoy the movies she once found irritating."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She finds the crowded dorm as cozy as her new apartment."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He found the apartment perfectly furnished."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He had a feeling of despair and frustration."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He had a similar feeling to the woman's."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He felt the new place was like paradise."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Go to see the woman's apartment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make a phone call to his parents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Buy some furniture for the woman."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Decorate the woman's apartment.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hi, Lily, how's the new apartment?",
+                "zh": "M: 嗨，莉莉，新公寓怎么样？"
+              },
+              {
+                "en": "W: It's okay.",
+                "zh": "W: 还行吧。"
+              },
+              {
+                "en": "M: What? How can it be just okay when last week you were thrilled about the place and kept posting photos of it online?",
+                "zh": "M: 什么？上周你还对这个地方兴奋不已，还不停地把照片发到网上，怎么现在只能说还行？"
+              },
+              {
+                "en": "W: Well, last week when I moved in, the apartment seemed cozy, just the right size for one person. But now it just seems tiny, shabby and solitary.",
+                "zh": "W: 嗯，我上周搬进去的时候，觉得公寓很温馨，对一个人来说大小正合适。但现在我只觉得它又小又破旧，还很孤单。"
+              },
+              {
+                "en": "M: Ah, that's the problem. You miss your roommates from university, don't you?",
+                "zh": "M: 啊，问题就在这儿。你想念大学时的室友了，对吧？"
+              },
+              {
+                "en": "W: I'm going to sound like an idiot, because I used to complain to you all the time about how crowded our dormitory room was, and about all the things they did to irritate me, like watching movies late at night without headphones, or talking loudly early in the morning. But now I miss them terribly.",
+                "zh": "W: 我这么说听起来可能像个傻瓜，因为我以前总是向你抱怨我们的宿舍有多拥挤，还抱怨他们做的那些让我恼火的事，比如深夜不戴耳机看电影，或者一大早大声说话。可现在我特别想念他们。"
+              },
+              {
+                "en": "M: Of course you do. That's perfectly normal. When I got my first place I remember thinking I couldn't wait to live by myself and get away from my juvenile roommates and all their annoying habits. But then I began missing them and feeling lonely and thinking that our dormitory was like paradise, even though there were six of us guys in one small room.",
+                "zh": "M: 你当然会想念他们，这完全正常。我刚有自己的住处时，记得自己当时想的是，真等不及要独自生活，摆脱那些幼稚的室友和他们烦人的习惯。可是后来我开始想念他们，感到孤独，还觉得我们的宿舍简直像天堂，尽管我们六个大男人挤在一个小房间里。"
+              },
+              {
+                "en": "W: I thought it was just me who felt like that.",
+                "zh": "W: 我还以为只有我会有这种感觉。"
+              },
+              {
+                "en": "M: Look, you lived at home with us, and then you had three roommates, and this is your first time living alone. So it's hard. But your first apartment is a milestone in your life, and you should celebrate it. Tell me about the apartment.",
+                "zh": "M: 你以前和我们住在家里，后来又和三个室友一起住，而这是你第一次独居，所以确实很难适应。不过，你的第一套公寓是人生中的一个里程碑，你应该庆祝一下。跟我说说这套公寓吧。"
+              },
+              {
+                "en": "W: Actually, it's not bad. In fact, it's pretty adorable, now that I have decorated it and it has everything I need. I have a kitchen to cook in and a bathroom all to myself, and then another room with my bed at one end, and a sofa, a small table and chairs at the other end.",
+                "zh": "W: 其实，它还不错。事实上，我把它装饰好，也置办齐了所有需要的东西之后，发现它还挺可爱的。我有一间可以做饭的厨房和一间完全属于自己的浴室，另外还有一个房间，一头放着我的床，另一头放着沙发、小桌子和椅子。"
+              },
+              {
+                "en": "M: That does sound adorable and I can't wait to see it, and neither can mom and dad.",
+                "zh": "M: 听起来确实很可爱，我都等不及想去看看了，爸爸妈妈也一样。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He works as a literary critic."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He hosts an educational program."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has initiated a university reform."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has published a book recently."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It fails to keep up with the radical changes of society."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It fails to ensure universities get sufficient resources."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has not prepared young people for the job market."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has not fostered the growth of the arts disciplines."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More of the budget should go to science and technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The underfunded music discipline should be prioritized."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Subdisciplines like sculpture should get more funding."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Literature should get as much funding as engineering."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Build a prosperous nation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make skilled professionals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Create ingenious artists."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cultivate better citizens."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Welcome to our program Book Talk. Our guest today is Frank Jones, a critic of our education system, and the author of a new book, How to Reform Our Universities.",
+                "zh": "W: 欢迎收听我们的节目《图书访谈》。今天的嘉宾是弗兰克·琼斯，他是我们教育体系的批评者，也是新书《如何改革我们的大学》的作者。"
+              },
+              {
+                "en": "M: Hello, Susan.",
+                "zh": "M: 你好，苏珊。"
+              },
+              {
+                "en": "W: Frank, you support radically changing universities in America?",
+                "zh": "W: 弗兰克，你支持彻底改变美国的大学吗？"
+              },
+              {
+                "en": "M: Yes, I believe that the purpose of higher education is to prepare young people to enter the workforce, and that our current system fails to do this. We're allocating too many resources to disciplines that don't match the needs of employers.",
+                "zh": "M: 是的，我认为高等教育的目的是让年轻人为进入职场做好准备，而我们目前的体系没有做到这一点。我们把太多资源分配给了与雇主需求不匹配的学科。"
+              },
+              {
+                "en": "W: I think your attitude to education is a bit cynical, Frank. Surely the purpose of university is to prepare young people to participate fully in civic life, rather than just to find well-paid jobs.",
+                "zh": "W: 弗兰克，我觉得你对教育的态度有点愤世嫉俗。大学的目的当然应该是让年轻人充分参与公民生活，而不只是找到高薪工作。"
+              },
+              {
+                "en": "M: Susan, many young graduates struggle to find any job, let alone a good one. The job market is grim, particularly for students who study the arts.",
+                "zh": "M: 苏珊，许多年轻的毕业生连工作都很难找到，更不用说一份好工作了。就业市场很不景气，尤其是对学习艺术的学生而言。"
+              },
+              {
+                "en": "W: I agree that it isn't easy for young people to find work, but you propose closing down all departments that aren't directly related to science and technology. Is that really the solution?",
+                "zh": "W: 我同意年轻人找工作并不容易，但你提议关闭所有与科学和技术没有直接关系的院系。这真的是解决办法吗？"
+              },
+              {
+                "en": "M: You're overstating my point. My argument is that we need to use more of our budget on areas like science and engineering. To do that, we need to take money from subjects like literature and music.",
+                "zh": "M: 你夸大了我的观点。我的意思是，我们需要把更多预算用于科学和工程等领域。要做到这一点，我们就得从文学、音乐等学科中抽走资金。"
+              },
+              {
+                "en": "W: But the arts have value. They're an important part of our culture. Studying literature or music or sculpture might not result in a job in that area, but it helps young people to think about the world in a deeper way, which makes them better citizens and makes for a better society.",
+                "zh": "W: 但艺术是有价值的。它们是我们文化的重要组成部分。学习文学、音乐或雕塑也许不会让人最终从事相关领域的工作，但这能帮助年轻人更深入地思考世界，使他们成为更好的公民，也让社会变得更好。"
+              },
+              {
+                "en": "M: I agree that the arts are valuable to society, but it's naive to think that not only the most talented, but all students should study them at university level. The arts are very competitive, and most graduates will end up with a great deal of debt, obtaining a degree that has little value on the job market.",
+                "zh": "M: 我同意艺术对社会有价值，但认为不仅最有天赋的学生，所有学生都应该在大学阶段学习艺术，这种想法很天真。艺术领域竞争非常激烈，大多数毕业生最终会背负巨额债务，拿到一个在就业市场上价值不大的学位。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is quite common."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is rarely noticed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It seldom annoys people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It occurs when one is alone."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Seeing things in black and white."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Engaging in regular contemplation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Having a special understanding of creativity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Knowing how to make their mental batteries work."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Engaging in intense activity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Fantasizing in one's downtime."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Working on a particular project."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Reflecting during one's relaxation.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Do you ever have the annoying feeling that you don't have time to really think anymore? You are not alone. A variety of factors have conspired to rob us of time for reflection about ourselves and our lives. Today, our preoccupied minds are rarely silent. The average person receives hundreds of texts and voice messages a day, and holidays for many of us are action-packed weeks more likely full of family activities than opportunities for tranquility and contemplation.",
+                "zh": "你是否常有一种恼人的感觉，觉得自己再也没有时间真正思考了？你并不孤单。各种因素共同作用，夺走了我们用于反思自己和生活的时间。如今，我们被各种事务占据的头脑很少有安静的时候。普通人每天会收到数百条短信和语音消息，而对我们许多人来说，假期也是安排得满满当当的一周，更多的是充满家庭活动，而不是拥有宁静与沉思的机会。"
+              },
+              {
+                "en": "Regular reflection, however, underlies all great professionals. It's a prerequisite for you to recharge your mental batteries, see things in a new light and tap into your creativity. Almost all of the great advisors that I have studied have found ways to get away from it all and contemplate their life and work. Some researchers in the field of creativity, in fact, believe that insight occurs during the reflection and relaxation that follows a period of intense activity.",
+                "zh": "然而，定期反思是一切杰出专业人士的基础。这是你重新充实心理能量、以新的眼光看待事物并发挥创造力的先决条件。我研究过的几乎所有杰出顾问，都找到了远离一切、思考自己生活和工作的方式。事实上，一些创造力领域的研究人员认为，洞见产生于高强度活动之后的反思与放松期间。"
+              },
+              {
+                "en": "Schedule time for reflection about your work or a particular project you're engaged in. I usually block out half an hour. Don't answer the phone. Push your papers to the side. Sketch, make lists, draw \"mind maps\" of ideas that come to you. At the end, write down any emerging ideas.",
+                "zh": "安排时间反思你的工作或正在参与的某个项目。我通常会留出半小时。不要接电话。把文件推到一边。画草图、列清单、把浮现出的想法绘制成“思维导图”。最后，把任何新出现的想法记下来。"
+              },
+              {
+                "en": "When you're alone, stop worrying and think. A lot of our down time is spent worrying about troublesome things in our lives or fantasizing about how we'd like our lives to be. Revisit things during moments of relaxation after a period of intense work. This is when we are the most creative.",
+                "zh": "独处时，停止担忧，认真思考。我们许多空闲时间都花在担心生活中令人烦恼的事情上，或幻想自己的生活应该是什么样子。在一段高强度工作之后的放松时刻，重新思考这些事情。此时正是我们最具创造力的时候。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Farmers helped Native Americans grow crops."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There were expansive university campuses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There existed post offices."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Migrants found gold there."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It helped to boost the economy in the American West."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It provided job opportunities for many gold seekers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It extended the influence of the federal government."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It kept people in the deserts and plains connected."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It employed Native Americans to work as postmen."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It commissioned private wagons to carry the mail."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It subsidized the locals who acted as postmasters."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It centralized postal services in its remote areas."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He analyzed interactive maps of mail routes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He read a large collection of books on the topic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He examined its historical trends with data science."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He collected data about its impact on local business."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Even before Colorado was a state, it had post offices. The first opened in 1859, in a settlement founded by migrants searching for gold. Life could be unpredictable out west—gold failed to appear, drought ruined farmers and settlers clashed with Native Americans. On the settlement's location now stands a sprawling university campus. Amid all the changes, one feature remained constant—the postal service.",
+                "zh": "甚至在科罗拉多成为一个州之前，这里就已经有了邮局。第一家邮局于1859年在一个由寻找黄金的移民建立的定居点开业。西部的生活充满不可预测性——黄金未能出现，干旱摧残了农民，移居者与美洲原住民发生冲突。在该定居点如今的位置上，耸立着一座庞大的大学校园。在所有的变迁中，有一个特征始终保持不变——那就是邮政服务。"
+              },
+              {
+                "en": "The maps tracing America's westward expansion are telling. In 1864, there were few postal branches on land controlled by Native Americans, which still accounted for most of the West. Over the next 25 years, post offices grew quickly. Colonization of the West could be regarded as a result of big government rather than pioneers. As federal subsidies and land grants tempted people into the deserts and plains, the post kept them connected.",
+                "zh": "追溯美国西进运动的地图非常具有说服力。1864年，在美洲原住民控制的土地上几乎没有邮政分局，而这些土地当时仍占据了西部的大部分。在接下来的25年里，邮局迅速增多。对西部的拓殖可以被视为大政府而非拓荒者的产物。随着联邦补贴和土地赠予吸引人们深入沙漠和平原，邮政保持了他们之间的联系。"
+              },
+              {
+                "en": "In the mid-19th century, the Post Office Department was far from a centralized bureaucracy. To keep up with migration patterns, postal services were added to existing businesses. The federal government commissioned private wagons to carry the mail. Short-term contracts were granted to local businessmen to act as postmasters. These partnerships enabled the mail to quickly follow migrants, helping knit together remote parts of the country.",
+                "zh": "在19世纪中叶，邮政部远非一个集权的官僚机构。为了跟上移民模式的脚步，邮政服务被附加到了现有的商业经营中。联邦政府委托私人马车运送邮件。当地商人获得了担任邮局局长的短期合同。这些合作关系使邮件能够迅速跟随移民，有助于将该国偏远地区紧密联系在一起。"
+              },
+              {
+                "en": "Mr. Blevins, a digital historian, wrote a book on the history of the US postal service. He used data science to analyze historical trends. Most strikingly, he built an accompanying website, complete with interactive maps. They show readers how, within a generation, the postal service helped colonize a continent. These online interactive maps illustrate the formative power of snail mail.",
+                "zh": "数字历史学家布莱文斯先生写了一本关于美国邮政服务历史的书。他利用数据科学分析了历史趋势。最引人注目的是，他建立了一个配套网站，里面配备了完整的互动地图。它们向读者展示了在短短一代人的时间内，邮政服务是如何协助拓殖整块大陆的。这些在线互动地图展示了传统邮政的塑造力量。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Higher levels of anxiety may improve people's memory."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Some experiences are easier to remember than others."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Most people tend to remember things selectively."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Simple things may leave a deep impression on one's memory."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They classified the participants' mindset."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They showed some photos to the participants."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They measured the participants' anxiety levels."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They tested the size of the participants' vocabulary."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Anxiety has become a serious problem for an increasing number of people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Extreme levels of anxiety can adversely affect cognitive performance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People diagnosed with anxiety disorder may forget things selectively."
+                  },
+                  {
+                    "l": "D",
+                    "t": "There is no direct correlation between memory and levels of anxiety.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In last week's lecture, we discussed reasons why people forget things. This week, we will discuss a surprising reason why we might remember some things—anxiety.",
+                "zh": "在上周的讲座中，我们讨论了人们遗忘事物的原因。本周，我们将讨论一个令人惊讶的、可能使我们记住某些事物的原因——焦虑。"
+              },
+              {
+                "en": "Think about something as simple as buying a coffee. That may not seem like an experience that would make a deep impression on your memory, but anxiety could change that. In fact, a new study suggests that people with higher anxiety levels might remember certain information better than people with lower anxiety levels. That's because higher levels of anxiety may make people more susceptible to negative feelings, putting them in a more negative state of mind. That in turn may make them able to better remember some events.",
+                "zh": "想一想像买咖啡这样简单的事情。这似乎不太像是一种会在记忆中留下深刻印象的经历，但焦虑可能会改变这一点。事实上，一项新的研究表明，焦虑程度较高的人可能比焦虑程度较低的人更能记住某些信息。这是因为较高程度的焦虑可能使人更容易受到负面情绪的影响，使他们处于更加消极的心理状态。这反过来可能使他们能够更好地记住某些事件。"
+              },
+              {
+                "en": "Let's take a closer look at that new study now. In the study, the researchers started by giving 80 undergraduate students an anxiety test. The test measured the participants' anxiety levels over the preceding two weeks. Then, to test memory, the participants were shown a series of neutral words, one at a time. Some of the words were printed on to photos of negative scenes, meaning images that could affect their emotions negatively, such as a photo of a car accident or a cemetery. The rest of the words were printed on to photos of neutral scenes, such as a photo of a lake or trees. Neutral words included words like \"table\" or \"desk\" that don't elicit emotion. Later, the participants were asked to think back to the words they were shown earlier, which caused them to reenter either a negative or a neutral mindset. The participants were then presented with another set of neutral words, and their memory of these new words was tested.",
+                "zh": "现在让我们更仔细地了解一下这项新研究。在这项研究中，研究人员首先让80名本科生接受焦虑测试。该测试测量了参与者在此前两周内的焦虑程度。随后，为了测试记忆力，研究人员让参与者逐一观看一系列中性词语。其中一些词语印在负面场景的照片上，也就是可能对他们的情绪产生负面影响的图像上，例如车祸或墓地的照片。其余词语则印在中性场景的照片上，例如湖泊或树木的照片。中性词语包括“桌子”或“书桌”之类不会引发情绪的词语。之后，研究人员要求参与者回想刚才看到的词语，这使他们重新进入消极或中性的心理状态。然后，研究人员向参与者展示另一组中性词语，并测试他们对这些新词语的记忆。"
+              },
+              {
+                "en": "The researchers found that the new words presented to people in a negative mindset were better remembered by people with higher levels of anxiety than those with lower levels of anxiety. In other words, when highly anxious individuals took in otherwise emotionally neutral information that was presented to them, it became colored by their negative mindset, making them remember the information better. But these same effects were not seen in people with low levels of anxiety.",
+                "zh": "研究人员发现，对于处于消极心理状态的人，新呈现的词语中，焦虑程度较高的人比焦虑程度较低的人记得更好。换句话说，高度焦虑的人接收到原本在情感上中性的信息时，这些信息会受到其消极心理状态的影响，从而使他们更好地记住这些信息。但在焦虑程度较低的人身上并未观察到同样的效果。"
+              },
+              {
+                "en": "Previous studies have found that extreme levels of anxiety, such as those experienced by people diagnosed with an anxiety disorder, can be quite detrimental to memory and cognitive performance. But the highly anxious people in this study represent individuals who are managing their anxiety and for whom anxiety is not a serious problem.",
+                "zh": "先前的研究发现，极高程度的焦虑，例如被诊断患有焦虑障碍的人所经历的焦虑，可能会严重损害记忆力和认知表现。但这项研究中的高度焦虑者代表的是那些能够管理自己的焦虑、且焦虑并非严重问题的人。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They compare products from different companies before making a choice."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They get information from other consumers' postings and comments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They lose patience when their phone call is not promptly answered."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They expect to get instantaneous responses to their inquiry."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Giving them rewards on the spot."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Broadening their scope of interest."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Speaking directly to their emotions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Focusing on the details of the product."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Change the rules of the game in the market every year."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Keep up with the latest technological developments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Learn from technological innovators to do business."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make greater efforts to build up consumers' confidence.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Over the past 20 years, the internet has gradually become a dominant feature of our lives. It has changed how we communicate with each other, and it has definitely transformed the way we do business with each other. Marketing has also changed in a number of ways. For instance, in the past, consumers had to call a phone number and patiently wait on hold, in order to get the information they wanted. Today, they want the information immediately. They'll go to the company's social media page and post comments and questions, expecting to receive an immediate response. If they don't get their questions answered soon, they'll move on to another company that will answer them quickly.",
+                "zh": "在过去20年里，互联网逐渐成为我们生活中的主导因素。它改变了我们彼此沟通的方式，也确实改变了我们彼此开展业务的方式。营销也在许多方面发生了变化。例如，过去，消费者必须拨打一个电话号码，并耐心等待接通，才能获得他们想要的信息。如今，他们希望立即获得信息。他们会前往公司的社交媒体页面，发布评论和问题，并期待立即得到回应。如果他们的问题很快得不到解答，就会转而选择另一家能够迅速回答他们问题的公司。"
+              },
+              {
+                "en": "Marketing departments today need to follow technological development. For example, this year's smartphone is smarter than last year's; self-driving cars are now on the road. Marketers have to do research on which technologies are coming into being. Otherwise, they risk being left behind in the virtual dust. Marketing has also changed due to the importance of video. People don't just want to read text; they want to watch things happening. Companies now have to explore how they can use video on a consistent basis to share information about their businesses. Fortunately, it's extremely easy to shoot something these days. All you need is a smartphone.",
+                "zh": "如今，营销部门需要跟上技术的发展。例如，今年的智能手机比去年的更智能；自动驾驶汽车如今已经上路。营销人员必须研究哪些技术正在出现，否则就有被抛在虚拟尘埃中的风险。营销也因视频的重要性而发生了变化。人们不只是想阅读文字；他们还想观看事情发生的过程。如今，公司必须探索如何持续利用视频来分享有关自身业务的信息。幸运的是，现在拍摄视频非常容易。你只需要一部智能手机。"
+              },
+              {
+                "en": "But what's the result of all this? Shorter attention spans. We aren't the same people that we were 20 years ago. Not only have we grown accustomed to getting the information we want instantaneously, our attention spans are much shorter. If something doesn't capture our attention within a few seconds, we're on to the next piece of content. Marketers need to figure out ways to speak directly to the customers' emotions, and they need to figure out how to do that as quickly as possible. Once people are emotionally engaged, they'll stick with you.",
+                "zh": "但这一切带来了什么结果呢？注意力持续时间变短了。我们已经不是20年前的那群人了。我们不仅已经习惯于即时获得想要的信息，注意力持续时间也短得多了。如果某件事在几秒钟内无法吸引我们的注意力，我们就会转向下一条内容。营销人员需要想办法直接与客户的情感沟通，也需要想办法尽快做到这一点。一旦人们在情感上投入其中，他们就会一直关注你。"
+              },
+              {
+                "en": "If marketing has changed this much in the past 20 years, imagine what the next 20 years will bring. In a recent survey, only 9% of marketers could say with confidence that their marketing efforts were actually working. Their confidence is being shaken, because the rules of the game change every year. That's why it's important for marketers to pay attention to the latest technological developments and consider collaborating with technological innovators. That way, they'll be moving at the same pace as the tech industry.",
+                "zh": "如果营销在过去20年里发生了如此大的变化，想象一下未来20年会带来什么。在最近的一项调查中，只有9%的营销人员能够自信地说，他们的营销工作确实奏效了。他们的信心正在受到动摇，因为游戏规则每年都在变化。这就是营销人员关注最新技术发展并考虑与技术创新者合作十分重要的原因。这样一来，他们就能与科技行业保持同样的步调。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People have only one social engagement per week."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Working together enhances friendship."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Few people have devoted friends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Friendships benefit work."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The impact of friends on people's self-esteem."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How supportive friends can be in the workplace."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How to boost one's sense of value and worthiness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The role of family ties in people's mental well-being."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They show little interest in their friends' work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to be much more difficult to make."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are more trustworthy and reliable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They increase people's job satisfaction."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Allow employees to have a flexible work schedule."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Encourage employees to be friends with colleagues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help employees balance work and family responsibilities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Organize activities to nourish friendships outside of work."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "You might be surprised to learn that the benefits of friendships extend beyond people's social life and into their work, which is interesting when considering the extent to which people sacrifice friendships, or at least the time they spend with friends, because of the extended hours they're devoting to work. Just last week, I was remarking to a colleague that I'm content with only one social engagement per week. But according to recent research, that's evidently not enough.",
+                "zh": "你可能会惊讶地得知，友谊带来的益处不仅限于人们的社交生活，还延伸到了工作领域。想到人们常常因为投入工作、延长工作时间，而牺牲友谊，或者至少牺牲与朋友相处的时间，这一点就很有意思。就在上周，我还对一位同事说，我每周只参加一次社交活动就满足了。但根据最近的研究，显然这还不够。"
+              },
+              {
+                "en": "In an initial study of more than 700 respondents, scholars from an American university analyzed the impact that friends, as opposed to family, have on self-esteem and well-being. Friends came out substantially on top. That's because to be someone's mate is a voluntary act, unlike family who people rarely get to choose. The researchers found that when people choose to cultivate and maintain supportive friendships with an individual, it means that the person is valued and worthy of their limited time. Such sentiments of value and worthiness boost our self-esteem.",
+                "zh": "在一项对700多名受访者进行的初步研究中，一所美国大学的学者分析了朋友相较于家人对自尊和幸福感的影响。结果显示，朋友的影响明显更大。这是因为，成为某人的朋友是一种自愿行为，而家人通常并不是人们可以选择的。研究人员发现，当人们选择与某个人培养并维持相互支持的友谊时，这意味着那个人受到重视，值得人们投入有限的时间。这种受到重视和认可的感受会提升我们的自尊。"
+              },
+              {
+                "en": "The second study comprised more than 300 participants. It proved that the better we feel about ourselves, the more likely we'll perform our job confidently and competently. This follow-up study found that non-work friends even improve people's job satisfaction. They have as much of an impact on how much they love their jobs as do the friends they have at work, despite not actually being at our place of work. These types of friends tend to be our preferred outlet for venting about work-related matters. This is an avenue that may not be available at the office.",
+                "zh": "第二项研究由300多名参与者组成。研究证明，我们对自己的感觉越好，就越有可能自信而出色地完成工作。这项后续研究发现，工作之外的朋友甚至还能提高人们的工作满意度。尽管这些朋友并不在我们的工作场所，但他们对我们有多喜欢自己的工作所产生的影响，与工作中的朋友一样大。这类朋友往往是我们倾诉工作相关事情的首选对象，而在办公室里未必有这样的倾诉渠道。"
+              },
+              {
+                "en": "So even though friendships can be easy to neglect when confronted by pressures at work, or even pressures at home, neglecting our friends can turn out to be harmful and counterproductive. That's why, when determining how to create a better work-life balance, we need to consider not only how to balance work and family demands, but also how to cultivate and sustain supportive friendships. It's for this reason that managers should never discriminate when it comes to requests from employees for flexible work arrangements. It's irrelevant whether their need for a desired schedule is due to, say, parenting responsibilities, or a craving to hang out with a best mate. What matters is the opportunity to engage in a nourishing activity outside of work. That will definitely have a follow-on effect at work.",
+                "zh": "因此，尽管在工作压力甚至家庭压力面前，友谊很容易被忽视，但忽视朋友最终可能会带来伤害，并产生适得其反的效果。这就是为什么，在确定如何实现更好的工作与生活平衡时，我们不仅需要考虑如何平衡工作和家庭的要求，还需要考虑如何培养并维持相互支持的友谊。正因如此，管理者在员工提出弹性工作安排请求时，绝不应区别对待。无论他们希望采用某种工作时间安排是因为需要承担育儿责任，还是因为想与最要好的朋友出去相聚，这都无关紧要。重要的是，他们有机会参与工作之外有益身心的活动。这肯定会对工作产生后续影响。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Scientists recently examined studies on dog intelligence and compared them with research into the minds of other intelligent animals. The researchers found that dogs are among the more intelligent carnivores(食肉动物), social hunters and domestic animals, but that their intelligence does not"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "other intelligent animals in any of those categories. Though a significant body of research has examined dog cognition"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ", the authors of this new study found little to warrant the"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "of work that has been devoted to the topic. Stephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "how clever dogs are, rather than simply to study dogs' brains. Lea and a colleague examined more than 300 studies of dog cognition, comparing the studies' results with those from research into other animals. The researchers made specific comparisons between the different species in different categories of intelligence. These comparisons"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "that dogs are intelligent, but their intelligence is not as"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "as some researchers might have believed. In many areas, though, comparisons were not possible. For example, the researchers noted that both dogs and cats are known to be able to recognize and"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "human voices. But the investigators could not find any data to indicate which species can remember a greater number of"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "human voices, so it was impossible to compare the two on that front. However, not all researchers agree"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "with the findings of this study. Zachary Silver, an American researcher, believes the authors of the new study"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "affirmed"
+        },
+        {
+          "l": "B",
+          "w": "approximately"
+        },
+        {
+          "l": "C",
+          "w": "completely"
+        },
+        {
+          "l": "D",
+          "w": "differentiate"
+        },
+        {
+          "l": "E",
+          "w": "distinct"
+        },
+        {
+          "l": "F",
+          "w": "domain"
+        },
+        {
+          "l": "G",
+          "w": "formidable"
+        },
+        {
+          "l": "H",
+          "w": "outperformed"
+        },
+        {
+          "l": "I",
+          "w": "overstated"
+        },
+        {
+          "l": "J",
+          "w": "pledge"
+        },
+        {
+          "l": "K",
+          "w": "previously"
+        },
+        {
+          "l": "L",
+          "w": "prospective"
+        },
+        {
+          "l": "M",
+          "w": "prove"
+        },
+        {
+          "l": "N",
+          "w": "surpass"
+        },
+        {
+          "l": "O",
+          "w": "volume"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "N"
+        },
+        {
+          "n": 27,
+          "a": "K"
+        },
+        {
+          "n": 28,
+          "a": "O"
+        },
+        {
+          "n": 29,
+          "a": "M"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "G"
+        },
+        {
+          "n": 32,
+          "a": "D"
+        },
+        {
+          "n": 33,
+          "a": "E"
+        },
+        {
+          "n": 34,
+          "a": "C"
+        },
+        {
+          "n": 35,
+          "a": "I"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The lifesaving power of gratitude",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Gratitude may be more beneficial than we commonly suppose. One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel—an impact that they consistently underestimated. Another study assessed the health benefits of writing thank-you notes. The researchers found that writing as few as three weekly thank-you notes over the course of three weeks improved life satisfaction, increased happy feelings and reduced symptoms of depression."
+        },
+        {
+          "l": "B",
+          "t": "While this research into gratitude is relatively new, the principles involved are anything but. Students of mine in a political philosophy course at Indiana University are reading Daniel Defoe's 300-year-old Robinson Crusoe, often regarded as the first novel published in English. Left alone on an unknown island with no apparent prospect of rescue or escape, Crusoe has much to lament(悲叹). But instead of giving in to despair, he makes a list of things for which he is grateful, including the fact that he is the sole survivor from the shipwreck(海难) and has been able to salvage many useful items from the wreckage."
+        },
+        {
+          "l": "C",
+          "t": "Defoe's masterpiece, which is often ranked as one of the world's greatest novels, provides a portrait of gratitude in action that is as timely and relevant today as it has ever been. It is also one with which contemporary psychology and medicine are just beginning to catch up. Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation."
+        },
+        {
+          "l": "D",
+          "t": "When we focus on the things we regret, such as failed relationships, family disputes, and setbacks in career and finance, we tend to become more regretful. Conversely, when we focus on the things we are grateful for, a greater sense of happiness tends to spread through our lives. And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health."
+        },
+        {
+          "l": "E",
+          "t": "Gratitude has long enjoyed a privileged position in many of the world's cultural traditions. For example, some ancient Western philosophers counsel gratitude that is both enduring and complete, and some Eastern thinkers portray it as not merely an attitude but a virtue to be put into practice."
+        },
+        {
+          "l": "F",
+          "t": "Recent scientific studies support these ancient teachings. Individuals who regularly engage in gratitude exercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction with relationships and fewer symptoms of physical illness. And the benefits are not only psychological and physical. They may also be moral—those who practice gratitude also view their lives less materialistically and suffer from less envy."
+        },
+        {
+          "l": "G",
+          "t": "There are multiple explanations for such benefits of gratefulness. One is the fact that expressing gratitude encourages others to continue being generous, thus promoting a virtuous cycle of goodness in relationships. Similarly, grateful people may be more likely to reciprocate( 回报) with acts of kindness of their own. Broadly speaking, a community in which people feel grateful to one another is likely to be a more pleasant place to live than one characterized by mutual suspicion and resentment. The beneficial effects of gratitude may extend even further. For example, when many people feel good about what someone else has done for them, they experience a sense of being lifted up, with a corresponding enhancement of their regard for humanity. Some are inspired to attempt to become better people themselves, doing more to help bring out the best in others and bringing more goodness into the world around them."
+        },
+        {
+          "l": "H",
+          "t": "Gratitude also tends to strengthen a sense of connection with others. When people want to do good things that inspire gratitude, the level of dedication in relationships tends to grow and relationships seem to last longer. And when people feel more connected, they are more likely to choose to spend their time with one another and demonstrate their feelings of affection in daily acts."
+        },
+        {
+          "l": "I",
+          "t": "Of course, acts of kindness can also foster discomfort. For example, if people feel they are not worthy of kindness or suspect that some ulterior(别有用心的) motive lies behind it, the benefits of gratitude will not be realized. Likewise, receiving a kindness can give rise to a sense of indebtedness, leaving beneficiaries feeling that they must now pay back whatever good they have received. Gratitude can flourish only if people are secure enough in themselves and sufficiently trusting to allow it to do so. Another obstacle to gratitude is often called a sense of entitlement. Instead of experiencing a benefaction( 善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which no one deserves any moral credit."
+        },
+        {
+          "l": "J",
+          "t": "There are a number of practical steps anyone can take to promote a sense of gratitude. One is simply spending time on a regular basis thinking about someone who has made a difference, or perhaps writing a thank-you note or expressing such gratitude in person. Others are found in ancient religious disciplines, such as reflecting on benefactions received from another person or actually praying for the health and happiness of a benefactor. In addition to benefactions received, it is also possible to focus on opportunities to do good oneself, whether those acted on in the past or hoped for in the future. Some people are most grateful not for what others have done for them but for chances they enjoyed to help others. In regularly reflecting on the things in his life he is grateful for, Defoe's Crusoe believes that he becomes a far better person than he would have been had he remained in the society from which he originally set out on his voyage."
+        },
+        {
+          "l": "K",
+          "t": "Reflecting on generosity and gratitude, the great basketball coach John Wooden once offered two counsels to his players and students. First, he said, \"It is impossible to have a perfect day unless you have done something for someone who will never be able to repay you.\" In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward. Second, he said, \"Give thanks for your blessings every day.\""
+        },
+        {
+          "l": "L",
+          "t": "Some faith traditions incorporate such practices into the rhythm of daily life. For example, adherents of some religions offer prayers of thanksgiving every morning before rising and every night before lying down to sleep. Others offer thanks throughout the day, such as before meals. Other less frequent special events, such as births, deaths and marriages, may also be heralded by such prayers."
+        },
+        {
+          "l": "M",
+          "t": "When Defoe depicted Robinson Crusoe making thanksgiving a daily part of his island life, he was anticipating findings in social science and medicine that would not appear for hundreds of years. Yet he was also reflecting the wisdom of religious and philosophical traditions that extend back thousands of years. Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It does us far more good to focus on things we can be grateful for than what makes us sad and resentful.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "The beneficial impacts of gratitude can extend from individuals to their community and to the wider society.",
+          "a": "G"
+        },
+        {
+          "n": 38,
+          "s": "The participants in a recent study repeatedly underestimated the positive effect on those who received thank- you notes.",
+          "a": "A"
+        },
+        {
+          "n": 39,
+          "s": "Good deeds can sometimes make people feel uncomfortable.",
+          "a": "I"
+        },
+        {
+          "n": 40,
+          "s": "People who regularly express gratitude can benefit in moral terms.",
+          "a": "F"
+        },
+        {
+          "n": 41,
+          "s": "A basketball coach advocated performing generous acts without expecting anything in return.",
+          "a": "K"
+        },
+        {
+          "n": 42,
+          "s": "More and more evidence shows it makes us mentally and physically healthier to routinely count our blessings.",
+          "a": "D"
+        },
+        {
+          "n": 43,
+          "s": "Of all states of mind, feeling grateful is considered one of the most healthy and beneficial.",
+          "a": "M"
+        },
+        {
+          "n": 44,
+          "s": "The principles underlying the research into gratitude are nothing new at all.",
+          "a": "B"
+        },
+        {
+          "n": 45,
+          "s": "Gratitude is likely to enhance one's sense of being connected with other people.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity. While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications. As AI increasingly shapes the human experience, how does this change what it means to be human? Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications. Aristotle argued that the capacity for making practical judgments depends on regularly making them—on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves. In the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are areas where algorithmic(算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will. Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own. At the same time, though, this selection is optimizing for what people are likely to prefer based on what they've preferred in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way. As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant. Algorithms could soon—if they don't already—have a better idea about which show you'd like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display. But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn about the deeper implications of AI?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is causing catastrophic levels of unemployment."
+              },
+              {
+                "l": "B",
+                "t": "It is doing physical harm to human operators."
+              },
+              {
+                "l": "C",
+                "t": "It is altering moral judgments."
+              },
+              {
+                "l": "D",
+                "t": "It is reshaping humanity."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What is the consequence of algorithmic prescription replacing human judgment?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People lose the chance to cultivate the ability to make practical judgments."
+              },
+              {
+                "l": "B",
+                "t": "People are prevented from participating in making major decisions in the workplace."
+              },
+              {
+                "l": "C",
+                "t": "Managers no longer have the chance to decide which loan to approve."
+              },
+              {
+                "l": "D",
+                "t": "Managers do not need to take the trouble to determine who to hire or fire."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What may result from increasing application of recommendation engines in our consumption of culture?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Consumers will have much limited choice."
+              },
+              {
+                "l": "B",
+                "t": "Consumers will actually enjoy better luck."
+              },
+              {
+                "l": "C",
+                "t": "It will be easier to decide on what to enjoy."
+              },
+              {
+                "l": "D",
+                "t": "Humans will develop tastes similar to machines'."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They will turn out to be more pleasant."
+              },
+              {
+                "l": "B",
+                "t": "They will repeat our past experience."
+              },
+              {
+                "l": "C",
+                "t": "They can be completely anticipated."
+              },
+              {
+                "l": "D",
+                "t": "They may become better and better."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "Why does the author say the creatures living in the more and more AI-mediated world will become\n increasingly unlike us?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They will have lost the most significant human element of being intelligent."
+              },
+              {
+                "l": "B",
+                "t": "They will no longer possess the human characteristic of being unpredictable."
+              },
+              {
+                "l": "C",
+                "t": "They will not be able to understand themselves as we can do today."
+              },
+              {
+                "l": "D",
+                "t": "They will be deprived of what their predecessors were proud of about themselves."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Phonics, which involves sounding out words syllable(音节) by syllable, is the best way to teach children to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom. Most American children are taught to read in a way that study after study has found to be wrong. The consequences of this are striking. Less than half of all American adults were proficient readers in 2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international exam. America is stuck in a debate about teaching children to read that has been going on for decades. Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as \"whole language\". Most teachers today, almost three out of four according to a survey by the Ed Week Research Centre in 2019, use a mix called \"balanced literacy\". This combination of methods is ineffective. \"You can't sprinkle in a little phonics,\" says Tenette Smith, executive director of elementary education and reading at Mississippi's education department. \"It has to be systematic and explicitly taught.\" Mississippi, often behind in social policy, has set an example here. In a state once notorious for its low reading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi has seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam. In 2019 it was the only state to improve its scores. For the first time since measurement began, Mississippi's pupils are now average readers, a remarkable achievement in such a poor state. Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading. In 1997 Congress requested the National Institute of Child Health and Human Development and the Department of Education to convene a National Reading Panel to end the \"reading wars\" and synthesize the evidence. The panel found that phonics, along with explicit instruction in phonemic(音位的) awareness, fluency and comprehension, worked best. Yet over two decades on, \"balanced literacy\" is still being taught in classrooms. But advances in statistics and brain imaging have disproved the whole-language method. To the teacher who is a proficient reader, literacy seems like a natural process that requires educated guessing, rather than the deliberate process emphasized by phonics. Teachers can imagine that they learned to read through osmosis(潜移默化) when they were children. Without proper training, they bring this to classrooms.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn about phonics in many American classrooms?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is ill reputed."
+              },
+              {
+                "l": "B",
+                "t": "It is mostly misapplied."
+              },
+              {
+                "l": "C",
+                "t": "It is arbitrarily excluded."
+              },
+              {
+                "l": "D",
+                "t": "It is misrepresented."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What has America been witnessing for decades?",
+            "o": [
+              {
+                "l": "A",
+                "t": "An obsession with innovating teaching methodologies of reading."
+              },
+              {
+                "l": "B",
+                "t": "An enduring debate over the approach to teaching children to read."
+              },
+              {
+                "l": "C",
+                "t": "An increasing concern with many children's inadequacy in literacy."
+              },
+              {
+                "l": "D",
+                "t": "An ever-forceful advocacy of a combined method for teaching reading."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "Why does Tenette Smith think a combination of teaching methods is ineffective?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Elementary schoolchildren will be frustrated when taught with several methods combined."
+              },
+              {
+                "l": "B",
+                "t": "Phonics has to be systematically applied and clearly taught to achieve the desired effect."
+              },
+              {
+                "l": "C",
+                "t": "Sprinkling in a little phonics deters the progress of even adequately motivated children."
+              },
+              {
+                "l": "D",
+                "t": "Balanced literacy fails to sustain children's interest in developing a good reading habit."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What does the author say Mississippi's success is attributed to?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Convening a National Reading Panel to synthesize research evidence."
+              },
+              {
+                "l": "B",
+                "t": "Placing sufficient emphasis upon both fluency and comprehension."
+              },
+              {
+                "l": "C",
+                "t": "Adopting scientifically grounded approaches to teaching reading."
+              },
+              {
+                "l": "D",
+                "t": "Obtaining support from Congress to upgrade teaching methods."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What have advances in statistics and brain imaging proved ineffective?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The teaching of symbol-sound relationships."
+              },
+              {
+                "l": "B",
+                "t": "Explicit instruction in phonemic awareness."
+              },
+              {
+                "l": "C",
+                "t": "Efforts to end the reading wars."
+              },
+              {
+                "l": "D",
+                "t": "The immersive approach."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "近年来,越来越多的中国文化产品走向全球市场, 日益受到海外消费者的青睐。随着中国对外文化贸易的快 速发展,中国文化产品出口额已持续多年位居世界前列,形成了一批具有国际影响力的文化企业、产品和品牌。 数据显示,中国的出版物、影视作品、网络文学与动漫作品等在海外的销售量连年攀升。中国政府出台了一系 列政策鼓励和支持更多具有中国元素的优秀文化产品走出国门,扩大海外市场份额,进一步提升中国文化的世界 影响力。",
+    "reference": "In recent years, more and more Chinese cultural products have been entering the global market and winning increasing favor among overseas consumers. With the rapid development of China's foreign cultural trade, the export value of Chinese cultural products has ranked among the world's top for many years, forming a number of internationally influential cultural enterprises, products and brands. Data show that the overseas sales of China's publications, film and TV works, online literature and animation works have been rising year by year. The Chinese government has introduced a series of policies to encourage and support more fine cultural products with Chinese elements to go global, expand their overseas market share, and further enhance the global influence of Chinese culture."
+  }
+}

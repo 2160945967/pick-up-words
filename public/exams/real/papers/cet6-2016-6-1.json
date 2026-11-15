@@ -1,0 +1,1437 @@
+{
+  "id": "cet6-2016-6-1",
+  "level": "cet6",
+  "year": 2016,
+  "month": 6,
+  "set": 1,
+  "title": "2016年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on living in the virtual world. Try to imagine what will happen when people spend more and more time in the virtual world instead of interacting in the real world. You are required to write at least 150 words but no more than 200 words.",
+    "sample": "As digital technologies advance at an astonishing pace, more and more people are choosing to live in the virtual world rather than interact face to face. Where will this trend lead us? In my view, spending excessive time online is likely to reshape our lives in worrying ways.First, human relationships will probably grow more distant. Picture a family sitting in one room at dinner, yet each member is silently staring at a glowing screen, connected to strangers online but disconnected from those beside them. As such scenes multiply, our real social skills may gradually decay, since abilities like reading emotions and holding a warm conversation only sharpen through practice. What is more, constant immersion could damage both our mental and physical health, leaving many anxious, lonely and out of shape.This does not mean the virtual world is purely harmful; it can indeed link distant hearts and boost efficiency. Yet the key lies in balance. The more time we surrender to screens, the more deliberately we should return to reality. Only by keeping one foot firmly in the real world can we enjoy technology without being enslaved by it."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Project organizer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Public relations officer."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Marketing manager."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Market research consultant."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Quantitative advertising research."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Questionnaire design."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Research methodology."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Interviewer training."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are intensive studies of people's spending habits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They examine relations between producers and customers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They look for new and effective ways to promote products."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They study trends or customer satisfaction over a long period."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The lack of promotion opportunity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Checking charts and tables."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Designing questionnaires."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The persistent intensity.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: So, how long have you been a market research consultant?",
+                "zh": "M: 你做市场调研顾问有多久了？"
+              },
+              {
+                "en": "W: Well, I started straight after finishing university.",
+                "zh": "W: 嗯，我大学毕业后就马上开始做了。"
+              },
+              {
+                "en": "M: Did you study market research?",
+                "zh": "M: 你学的是市场调研吗？"
+              },
+              {
+                "en": "W: Yeah, and it really helped me to get into the industry, but I have to say that it's more important to get experience in different types of market research to find out exactly what you're interested in.",
+                "zh": "W: 是的，这确实帮助我进入了这个行业，但我得说，接触不同类型的市场调研、确切了解自己感兴趣的方向更重要。"
+              },
+              {
+                "en": "M: So what are you interested in?",
+                "zh": "M: 那你对什么感兴趣？"
+              },
+              {
+                "en": "W: Well, at the moment, I specialize in quantitative advertising research, which means that I do two types of projects. Trackers, which are ongoing projects that look at trends or customer satisfaction over a long period of time. The only problem with trackers is that it takes up a lot of your time. But you do build up a good relationship with the client. I also do a couple of ad-hoc jobs which are much shorter projects.",
+                "zh": "W: 嗯，目前我专门从事定量广告研究，也就是说，我做两类项目。一类是跟踪调查，也就是持续进行的项目，用来长期观察趋势或客户满意度。跟踪调查唯一的问题是很占时间。不过，这样你确实能和客户建立良好的关系。我还做一些临时项目，这些项目的周期要短得多。"
+              },
+              {
+                "en": "M: What exactly do you mean by ad-hoc jobs?",
+                "zh": "M: 你说的临时项目具体是什么意思？"
+              },
+              {
+                "en": "W: It's basically when companies need quick answers to their questions about their consumers' habits. They just ask for one questionnaire to be sent out, for example, so the time you spend on an ad-hoc project tends to be fairly short.",
+                "zh": "W: 基本上就是公司需要迅速得到关于消费者习惯的问题答案时开展的项目。比如，他们只要求发放一份问卷，所以你花在临时项目上的时间通常相当短。"
+              },
+              {
+                "en": "M: Which do you prefer, trackers or ad-hoc?",
+                "zh": "M: 你更喜欢哪一种，跟踪调查还是临时项目？"
+              },
+              {
+                "en": "W: I like doing both and in fact I need to do both at the same time to keep me from going crazy. I need the variety.",
+                "zh": "W: 两种我都喜欢，事实上，我需要同时做这两种项目，才能避免发疯。我需要多样性。"
+              },
+              {
+                "en": "M: Can you just explain what process you go through with a new client?",
+                "zh": "M: 你能简单解释一下你和新客户合作时会经历什么流程吗？"
+              },
+              {
+                "en": "W: Well, together we decide on the methodology and the objectives of the research. I then design a questionnaire. Once the interviewers have been briefed, I send the client a schedule and then they get back to me with deadlines. Once the final charts and tables are ready, I have to check them and organize a presentation.",
+                "zh": "W: 嗯，我们一起决定研究方法和研究目标。然后我设计一份问卷。采访员接受培训后，我会把进度安排发给客户，然后他们再回复我各项截止日期。最终的图表和表格准备好后，我得检查它们并组织一次演示。"
+              },
+              {
+                "en": "M: Hmm, one last question, what do you like and dislike about your job?",
+                "zh": "M: 嗯，最后一个问题，你喜欢和不喜欢这份工作的哪些方面？"
+              },
+              {
+                "en": "W: As I said, variety is important and as for what I don't like, it has to be the checking of charts and tables.",
+                "zh": "W: 正如我所说，多样性很重要。至于我不喜欢的部分，那一定是检查图表和表格。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His view on Canadian universities."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His understanding of higher education."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His suggestions for improvements in higher education."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His complaint about bureaucracy in American universities."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is well designed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is rather inflexible."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It varies among universities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has undergone great changes."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The United States and Canada can learn from each other."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Public universities are often superior to private universities."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Everyone should be given equal access to higher education."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Private schools work more efficiently than public institutions."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "University systems vary from country to country."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Efficiency is essential to university management."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is hard to say which is better, a public university or a private one."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many private universities in the U.S. are actually large bureaucracies."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Hello, I'm here with Frederick. Now Fred, you went to university in Canada?",
+                "zh": "W: 你好，我现在和弗雷德里克在一起。弗雷德，你是在加拿大上的大学，对吗？"
+              },
+              {
+                "en": "M: Yeah, that's right.",
+                "zh": "M: 是的，没错。"
+              },
+              {
+                "en": "W: OK, and you have very strong views about universities in Canada. Could you please explain?",
+                "zh": "W: 好的，而且你对加拿大的大学有很强烈的看法。你能解释一下吗？"
+              },
+              {
+                "en": "M: Well, we don't have private universities in Canada. They're all public. All the universities are owned by the government, so there is the Ministry of Education in charge of creating the curriculum for the universities and so there's not much room for flexibility. Since it's a government-operated institution, things don't move very fast. If you want something to be done, then their staff do not have so much incentive to help you because they are workers for the government. So I don't think it's very efficient. However, there are certain advantages of public universities, such as the fees being free. You don't have to pay for your education. But the system isn't efficient, and it does not work that well.",
+                "zh": "M: 嗯，加拿大没有私立大学，所有大学都是公立的。所有大学都由政府拥有，所以由教育部负责制定大学的课程，这样一来灵活性就不大。由于这是政府运营的机构，办事进展不会很快。如果你想让某件事得到解决，工作人员也没有太大的动力来帮助你，因为他们是政府雇员。所以我觉得这种体制效率不高。不过，公立大学也有一些优点，比如学费是免费的。你不需要为教育付费。但是，这个体制效率不高，运行得也不是很好。"
+              },
+              {
+                "en": "W: Yeah, I can see your point, but in the United States we have many private universities, and I think they're large bureaucracies also. Maybe people don't act that much differently, because it's the same thing working for a private university. They get paid for their job. I don't know if they're that much more motivated to help people. Also, we have a problem in the United States that usually only wealthy kids go to the best schools and it's kind of a problem actually.",
+                "zh": "W: 是的，我能理解你的观点，但在美国，我们有很多私立大学，我觉得它们同样也是庞大的官僚机构。人们的做法可能并没有太大不同，因为在私立大学工作也是一样的。他们都是为自己的工作领取报酬。我不知道他们是否会更有动力去帮助别人。另外，美国还有一个问题，通常只有富裕家庭的孩子才能进入最好的学校，这实际上有点问题。"
+              },
+              {
+                "en": "M: I agree with you. I think it's a problem because you're not giving equal access to education to everybody. It's not easy, but having only public universities also might not be the best solution. Perhaps we can learn from Japan where they have a system of private and public universities. Now, in Japan, public universities are considered to be the best.",
+                "zh": "M: 我同意你的看法。我认为这是个问题，因为这样就没有为每个人提供平等接受教育的机会。这并不容易，但只有公立大学也可能不是最好的解决办法。也许我们可以借鉴日本，那里的大学有公立和私立之分。而在日本，公立大学被认为是最好的。"
+              },
+              {
+                "en": "W: Right. It's the exact opposite in the United States.",
+                "zh": "W: 对，这和美国恰恰相反。"
+              },
+              {
+                "en": "M: So, as you see, it's very hard to say which one is better.",
+                "zh": "M: 所以，正如你所看到的，很难说哪一种更好。"
+              },
+              {
+                "en": "W: Right, a good point.",
+                "zh": "W: 对，说得有道理。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Government's role in resolving an economic crisis."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The worsening real wage situation around the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Indications of economic recovery in the United States."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The impact of the current economic crisis on people's life."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will feel less pressure to raise employees' wages."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will feel free to choose the most suitable employees."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will feel inclined to expand their business operations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will feel more confident in competing with their rivals."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Employees and companies cooperate to pull through the economic crisis."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Government and companies join hands to create jobs for the unemployed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Employees work shorter hours to avoid layoffs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Team work will be encouraged in companies.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A recent International Labor Organization report says the deterioration of real wages around the world calls into question the true extent of an economic recovery, especially if government rescue packages are phased out too early. The report warns the picture on wages is likely to get worse this year, despite indications of an economic rebound.",
+                "zh": "国际劳工组织最近发布的一份报告称，世界各地实际工资的恶化使人们对经济复苏的真实程度产生质疑，尤其是在政府救助方案过早退出的情况下。报告警告说，尽管有迹象表明经济正在反弹，但今年的工资形势可能会进一步恶化。"
+              },
+              {
+                "en": "Patrick Belser, an International Labor Organization specialist, says declining wage rates are linked to the levels of unemployment. \"The quite dramatic unemployment figures, which we now see in some of the countries, strongly suggest that there will be greater pressure on wages in the future as more people will be unemployed, more people will be looking for jobs and the pressure on employers to raise wages to attract workers will decline. So, we expect that the second part of the year will not be very good in terms of wage growth.\"",
+                "zh": "国际劳工组织专家帕特里克·贝尔瑟说，工资水平下降与失业率有关。“我们目前在一些国家看到的相当严重的失业数据强烈表明，未来工资将面临更大的压力，因为会有更多人失业，更多人寻找工作，而雇主为吸引工人而提高工资的压力将会减小。因此，我们预计今年下半年工资增长情况不会很好。”"
+              },
+              {
+                "en": "The report finds more than a quarter of the countries experienced flat or falling monthly wages in real terms. They include the United States, Austria, Costa Rica, South Africa and Germany. International Labor Organization economists say some nations have come up with policies to lessen the impact of lower wages during the economic crisis. An example of these is work sharing with government subsidies. Under this scheme, the number of individual working hours is reduced in an effort to avoid layoffs.",
+                "zh": "报告发现，超过四分之一的国家实际月工资持平或下降，其中包括美国、奥地利、哥斯达黎加、南非和德国。国际劳工组织的经济学家说，一些国家已经制定政策，以减轻经济危机期间工资降低所造成的影响。其中一个例子是由政府提供补贴的工作分享制度。在这一制度下，通过减少每名员工的工作时数来避免裁员。"
+              },
+              {
+                "en": "For this scheme to work, the government must provide wage subsidies to compensate for lost pay due to the shorter hours.",
+                "zh": "要使这一制度发挥作用，政府必须提供工资补贴，以弥补因工作时数减少而损失的收入。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Whether memory supplements work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether herbal medicine works wonders."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether exercise enhances one's memory."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether a magic memory promises success."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They help the elderly more than the young."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are beneficial in one way or another."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They generally do not have side effects."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are not based on real science."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are available at most country fairs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are taken in relatively high dosage."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are collected or grown by farmers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are prescribed by trained practitioners."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have often proved to be as helpful as doing mental exercise."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Taking them with other medications might entail unnecessary risks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their effect lasts only a short time."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many have benefited from them."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Is there really a magic memory pill or a herbal recall remedy? I have been frequently asked if these memory supplements work. You know, one of these first things I like to tell people when they ask me about the supplements, is that a lot of them are promoted as a cure for your memory. But your memory doesn't need a cure.",
+                "zh": "真的存在所谓的神奇记忆药片或草本记忆改善药吗？人们经常问我这些记忆补充剂是否有效。你知道，当人们问起这些补充剂时，我首先喜欢告诉他们的一点是，许多补充剂都被宣传成能够治愈记忆问题的药物。但你的记忆并不需要治愈。"
+              },
+              {
+                "en": "What your memory needs is a good work-out. So really, those supplements aren't going to give you that perfect memory in the way that they promise. The other thing is that a lot of these supplements aren't necessarily what they claim to be, and you really have to be wary when you take any of them. The science isn't there behind most of them. They're not really well-regulated unless they adhere to some industry standard.",
+                "zh": "你的记忆需要的是良好的锻炼。所以说，这些补充剂并不能像它们承诺的那样，让你拥有完美的记忆。另一点是，许多这类补充剂未必如其宣称的那样，你服用任何一种时都必须十分谨慎。大多数补充剂背后并没有充分的科学依据。除非它们遵循某些行业标准，否则实际上并没有受到很好的监管。"
+              },
+              {
+                "en": "You don't really know that what they say is in there isn't there. What you must understand is that those supplements, especially in some eastern cultures, are part of a medical practice tradition. People don't just go in a local grocery store and buy these supplements.",
+                "zh": "你并不能真正确定它们声称含有的成分是否确实存在其中。你必须明白，这些补充剂，尤其是在一些东方文化中，是医疗实践传统的一部分。人们不会只是走进当地的杂货店就买来这些补充剂。"
+              },
+              {
+                "en": "In fact, they are prescribed and they're given at a certain level, a dosage that is understood by a practitioner who's been trained. And that's not really the way they're used in this country. The other thing that people do forget is that these are medicines, so they do have an impact. A lot of times people are not really aware of the impact they have, or the fact that taking them in combination with other medications might put you at increased risk for something that you wouldn't otherwise be countering or be at risk for.",
+                "zh": "事实上，这些补充剂是由经过培训的医 practitioner 开具的，并按照其了解的特定标准和剂量服用。而在这个国家，人们并不是这样使用它们的。人们还常常忽略一点：这些都是药物，因此确实会产生影响。很多时候，人们并没有真正意识到它们会产生什么影响，也没有意识到将它们与其他药物合用，可能会使自己面临某种原本不会遇到或有风险的情况。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How catastrophic natural disasters turn out to be to developing nations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How the World Meteorological Organization studies natural disasters."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How powerless humans appear to be in face of natural disasters."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How the negative impacts of natural disasters can be reduced."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By training rescue teams for emergencies."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By taking steps to prepare people for them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By changing people's views of nature."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By relocating people to safer places."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How preventive action can reduce the loss of life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How courageous Cubans are in face of disasters."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How Cubans suffer from tropical storms."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How destructive tropical storms can be.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The negative impacts of natural disasters can be seen everywhere. In just the past few weeks, the world has witnessed the destructive power of earthquakes in Indonesia, typhoons in the Philippines, and the destructive sea waves that struck Samoa and neighboring islands.",
+                "zh": "自然灾害造成的负面影响随处可见。仅在过去几周，世界就目睹了印度尼西亚地震、菲律宾台风以及袭击萨摩亚和邻近岛屿的破坏性海浪所展现出的毁灭性力量。"
+              },
+              {
+                "en": "A study by the Center for Research on the Epidemiology of Disasters finds that, between 1980 and 2007, nearly 8,400 natural disasters killed more than two-million people. These catastrophic events caused more than $1.5 trillion in economic losses.",
+                "zh": "灾害流行病学研究中心的一项研究发现，1980年至2007年间，近8400起自然灾害造成了200多万人死亡。这些灾难性事件造成的经济损失超过1.5万亿美元。"
+              },
+              {
+                "en": "U.N. weather expert Geoffrey Love says that is the bad news. \"Over the last 50 years, economic losses have increased by a factor of 50. That sounds pretty terrible, but the loss of life has decreased by a factor of 10 simply because we are getting better at warning people. We are making a difference. Extreme events, however, will continue to occur. But the message is that they need not be disasters.\"",
+                "zh": "联合国气象专家杰弗里·洛夫说，这就是坏消息。“在过去50年中，经济损失增加了50倍。这听起来相当糟糕，但死亡人数减少了10倍，这仅仅是因为我们越来越善于向人们发出预警。我们正在产生影响。然而，极端事件仍将继续发生。但其中传达的信息是，这些事件不一定会演变成灾害。”"
+              },
+              {
+                "en": "Love, who is director of Weather and Disaster Risk Reduction at the World Meteorological Organization, says most of the deaths and economic losses were caused by weather, climate, or water-related extremes. These include droughts, floods, windstorms, strong tropical winds and wildfires.",
+                "zh": "洛夫是世界气象组织天气与灾害风险减少部门的主任。他说，大多数人员死亡和经济损失都是由天气、气候或水相关的极端事件造成的。这些事件包括干旱、洪水、风暴、强热带风以及野火。"
+              },
+              {
+                "en": "He says extreme events will continue. But, he says extreme events become disasters only when people fail to prepare for them.",
+                "zh": "他说，极端事件将继续发生。但是，他表示，只有在人们未能做好应对准备时，极端事件才会变成灾害。"
+              },
+              {
+                "en": "\"Many of the remedies are well-known. From a planning perspective, it's pretty simple. Build better buildings. Don't build where the hazards will destroy them. From an early-warning perspective, make sure the warnings go right down to the community level. Build community action plans.\"",
+                "zh": "“许多应对措施都是众所周知的。从规划角度看，这相当简单：建造更坚固的建筑。不要在灾害会摧毁建筑物的地方建房。从预警角度看，要确保预警信息一直传达到社区层面。制定社区行动计划。”"
+              },
+              {
+                "en": "The World Meteorological Organization points to Cuba and Bangladesh as examples of countries that have successfully reduced the loss of life caused by natural disasters by taking preventive action.",
+                "zh": "世界气象组织以古巴和孟加拉国为例，说明这些国家通过采取预防措施，成功减少了自然灾害造成的人员死亡。"
+              },
+              {
+                "en": "It says tropical storms formerly claimed dozens, if not hundreds of lives, each year in Cuba. But the development of an early-warning system has reversed that trend. In 2008, Cuba was hit by five successive hurricanes, but only seven people were killed.",
+                "zh": "该组织说，过去热带风暴每年在古巴造成数十人、甚至数百人死亡。但预警系统的建立扭转了这一趋势。2008年，古巴连续遭到五场飓风袭击，但只有7人死亡。"
+              },
+              {
+                "en": "Bangladesh also has achieved substantial results. Major storm surges in 1970 and 1991 caused the deaths of about 440,000 people. Through careful preparation, the death toll from a super tropical storm in November 2007 was less than 3,500.",
+                "zh": "孟加拉国也取得了显著成效。1970年和1991年的大规模风暴潮造成约44万人死亡。通过周密准备，2007年11月一场超级热带风暴造成的死亡人数降至3500人以下。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Pay back their loans to the American government."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Provide loans to those in severe financial difficulty."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Contribute more to the goal of a wider recovery."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Speed up their recovery from the housing bubble."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Some banks may have to merge with others."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Many smaller regional banks are going to fail."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will be hard for banks to provide more loans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many banks will have to lay off some employees."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It will work closely with the government."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will endeavor to write off bad loans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will try to lower the interest rate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will try to provide more loans."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It won't help the American economy to turn around."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It won't do any good to the major commercial banks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will win the approval of the Obama administration."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will be necessary if the economy starts to shrink again.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "As U.S. banks recovered with the help of the American government and the American taxpayers, President Obama held meetings with top bank executives, telling them it's time to return the favor.",
+                "zh": "随着美国银行在美国政府和美国纳税人的帮助下逐渐复苏，奥巴马总统与银行高管举行会谈，告诉他们现在是回报这份帮助的时候了。"
+              },
+              {
+                "en": "\"The way I see it is banks now having greater obligation to the goal of a wider recovery,\" he said. But the president may be giving the financial sector too much credit. \"It was in a free fall, and it was a very scary period,\" Economist Martin Neil Baily said.",
+                "zh": "“在我看来，银行现在对实现更广泛的经济复苏负有更大的责任。”他说。但这位总统可能高估了金融业的作用。“当时形势急转直下，那是一段非常令人恐惧的时期。”经济学家马丁·尼尔·贝利说。"
+              },
+              {
+                "en": "After the failure of Lehman Brothers, many of the world's largest banks feared the worst as the collapse of the housing bubble exposed investments in risky loans.",
+                "zh": "雷曼兄弟倒闭后，随着房地产泡沫破裂暴露出对高风险贷款的投资，世界上许多最大的银行都担心情况会恶化到最糟。"
+              },
+              {
+                "en": "Although he says the worst is over, Baily says the banking crisis is not. More than 130 U.S. banks failed in 2009. He predicts high failure rates for smaller, regional banks in 2010 as commercial real estate loans come due.",
+                "zh": "尽管贝利说最糟糕的时期已经过去，但他表示银行业危机并未结束。2009年，130多家美国银行倒闭。他预测，随着商业房地产贷款到期，2010年规模较小的地区性银行将出现较高的倒闭率。"
+              },
+              {
+                "en": "\"So there may actually be a worsening of credit availability to small and medium sized businesses in the next year or so.\"",
+                "zh": "“因此，未来一年左右，中小型企业获得信贷的难度实际上可能会加大。”"
+              },
+              {
+                "en": "Analysts say the biggest problem is high unemployment, which weakens demand and makes banks reluctant to lend. But U.S. Bancorp chief Richard Davis sees the situation differently.",
+                "zh": "分析人士说，最大的问题是高失业率，它削弱了需求，也使银行不愿放贷。但美国合众银行首席执行官理查德·戴维斯却有不同看法。"
+              },
+              {
+                "en": "\"We're probably more optimistic than the experts might be. With that in mind, we're putting in everything we can, lending is the coal to our engine, so we want to make more loans. We have to find a way to qualify more people and not put ourselves at risk.\"",
+                "zh": "“我们可能比专家们更加乐观。考虑到这一点，我们正在尽我们所能投入一切；放贷就是我们发动机里的煤炭，所以我们希望发放更多贷款。我们必须找到一种办法，让更多人符合贷款资格，同时又不让自己承担风险。”"
+              },
+              {
+                "en": "While some economists predict continued recovery in the future, Baily says the only certainty is that banks are unlikely to make the same mistakes twice. \"You know, forecasting has become a very hazardous business so I don't want to commit myself too much. I don't think we know exactly what's going to happen but it's certainly possible that we could get very slow growth over the next year or two.\"",
+                "zh": "一些经济学家预测未来经济将继续复苏，而贝利说，唯一可以确定的是，银行不太可能再犯同样的错误。“你知道，预测已经变成一项风险极高的工作，所以我不想过于武断。我认为我们并不确切知道将会发生什么，但未来一两年经济增长非常缓慢当然是有可能的。”"
+              },
+              {
+                "en": "If the economy starts to shrink again, Baily says it would make a strong case for a second stimulus—something the Obama administration hopes will not be necessary.",
+                "zh": "贝利说，如果经济再次开始萎缩，这将为推出第二轮经济刺激方案提供有力依据，而奥巴马政府希望不必采取这一措施。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Being unable to learn new things."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Being rather slow to make changes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Losing temper more and more often."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Losing the ability to get on with others."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cognitive stimulation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Community activity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Balanced diet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Fresh air."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Ignoring the signs and symptoms of aging."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Adopting an optimistic attitude towards life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Endeavoring to give up unhealthy lifestyles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Seeking advice from doctors from time to time."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new study has failed to find any conclusive evidence that lifestyle changes can prevent cognitive decline in older adults. Still, there are good reasons to make positive changes in how we live and what we eat as we age.",
+                "zh": "一项新研究未能发现生活方式的改变可以预防老年人认知能力下降的确凿证据。不过，随着年龄增长，在生活方式和饮食方面作出积极改变仍有充分的理由。"
+              },
+              {
+                "en": "Cognitive decline is the loss of ability to learn new skills, or recall words, names, and faces that is most common as we age. To reduce or avoid it, researchers have examined the effect of smoking, diet, brain-challenging games, exercise and other strategies.",
+                "zh": "认知能力下降是指学习新技能，或回忆词语、姓名和面孔的能力减退，这种情况在我们衰老过程中最为常见。为了减少或避免这种情况，研究人员考察了吸烟、饮食、挑战大脑的游戏、锻炼以及其他策略的影响。"
+              },
+              {
+                "en": "Researchers at Duke University scrutinized more than 160 published studies and found an absence of strong evidence that any of these approaches can make a big difference. Co-author James Burke helped design the study.",
+                "zh": "杜克大学的研究人员仔细审查了160多项已发表的研究，发现没有有力证据表明上述任何一种方法都能产生重大影响。合著者詹姆斯·伯克参与了这项研究的设计。"
+              },
+              {
+                "en": "\"In the observational studies we found that some of the B vitamins were beneficial. Exercise, diet, cognitive stimulation showed some positive effects, although the evidence was not so strong that we could actually consider these firmly established.\"",
+                "zh": "“在观察性研究中，我们发现某些B族维生素有益。锻炼、饮食和认知刺激显示出一些积极作用，尽管证据还不够有力，无法让我们真正认为这些作用已经得到确证。”"
+              },
+              {
+                "en": "Some previous studies have suggested that challenging your brain with mentally stimulating activities might help. And Burke says that actually does seem to help, based on randomized studies—the researcher's gold standard.",
+                "zh": "此前的一些研究表明，通过具有心理刺激性的活动来挑战大脑可能会有所帮助。伯克说，根据随机研究，也就是研究领域的黄金标准，这种做法确实似乎有帮助。"
+              },
+              {
+                "en": "\"Cognitive stimulation is one of the areas where we did find some benefit. The exact type of stimulation that an individual uses is not as important as being intellectually engaged.\"",
+                "zh": "“认知刺激是我们确实发现了一些益处的领域之一。一个人采用的具体刺激类型并不如保持智力上的投入重要。”"
+              },
+              {
+                "en": "The expert review also found insufficient evidence to recommend any drugs or dietary supplements that could prevent or slow cognitive decline. However, given that there is at least some evidence for positive effects from some of these lifestyle changes, plus other benefits apparently unrelated to cognitive decline, Burke was willing to offer some recommendations.",
+                "zh": "这项专家评估还发现，没有足够证据推荐任何可以预防或减缓认知能力下降的药物或膳食补充剂。不过，鉴于一些生活方式改变至少有一定证据表明能够产生积极影响，而且这些改变显然还具有与认知能力下降无关的其他益处，伯克愿意提出一些建议。"
+              },
+              {
+                "en": "\"I think that by having people adopt a healthy lifestyle, both from a medical standpoint as well as nutritional and cognitive stimulation standpoint, we can reduce the incidence of cognitive decline, which will be proof that these factors are, in fact, important.\"",
+                "zh": "“我认为，让人们采取健康的生活方式，无论是从医学角度，还是从营养和认知刺激的角度，都可以降低认知能力下降的发生率，而这将证明这些因素实际上确实很重要。”"
+              },
+              {
+                "en": "James Burke of Duke University is one of the authors of a study reviewing previous research on cognitive decline. The paper is published online by the Annals of Internal Medicine.",
+                "zh": "杜克大学的詹姆斯·伯克是审查认知能力下降相关既有研究的论文作者之一。该论文由《内科学年鉴》在线发表。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Pursuing a career is an essential part of adolescent development. \"The adolescent becomes an adult when he"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "a real job.\" To cognitive researchers like Piaget, adulthood meant the beginning of an"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". Piaget argued that once adolescents enter the world of work, their newly acquired ability to form hypotheses allows them to create representations that are too ideal. The"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "of such ideals, without the tempering of the reality of a job or profession, rapidly leads adolescents to become"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "of the non-idealistic world and to press for reform in a characteristically adolescent way. Piaget said: \"True adaptation to society comes"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "when the adolescent reformer attempts to put his ideas to work.\" Of course, youthful idealism is often courageous, and no one likes to give up dreams. Perhaps, taken"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "out of context, Piaget's statement seems harsh. What he was"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": ", however, is the way reality can modify idealistic views. Some people refer to such modification as maturity. Piaget argued that attaining and accepting a vocation is one of the best ways to modify idealized views and to mature. that attaining and accepting a vocation is one of the best ways to modify idealized views and to mature. As careers and vocations become less available during times of"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ", adolescents may be especially hard hit. Such difficult economic times may leave many adolescents"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "about their roles in society. For this reason, community interventions and government job programs that offer summer and vacation work are not only economically"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "but also help to stimulate the adolescent's sense of worth."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "automatically"
+        },
+        {
+          "l": "B",
+          "w": "beneficial"
+        },
+        {
+          "l": "C",
+          "w": "capturing"
+        },
+        {
+          "l": "D",
+          "w": "confused"
+        },
+        {
+          "l": "E",
+          "w": "emphasizing"
+        },
+        {
+          "l": "F",
+          "w": "entrance"
+        },
+        {
+          "l": "G",
+          "w": "excited"
+        },
+        {
+          "l": "H",
+          "w": "existence"
+        },
+        {
+          "l": "I",
+          "w": "incidentally"
+        },
+        {
+          "l": "J",
+          "w": "intolerant"
+        },
+        {
+          "l": "K",
+          "w": "occupation"
+        },
+        {
+          "l": "L",
+          "w": "promises"
+        },
+        {
+          "l": "M",
+          "w": "recession"
+        },
+        {
+          "l": "N",
+          "w": "slightly"
+        },
+        {
+          "l": "O",
+          "w": "undertakes"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "O"
+        },
+        {
+          "n": 27,
+          "a": "K"
+        },
+        {
+          "n": 28,
+          "a": "H"
+        },
+        {
+          "n": 29,
+          "a": "J"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "N"
+        },
+        {
+          "n": 32,
+          "a": "E"
+        },
+        {
+          "n": 33,
+          "a": "M"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "B"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Can Societies be rich and green?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "\"If our economies are to flourish, if global poverty is to be eliminated and if the well-being of the world's people is to be enhanced—not just in this generation but in succeeding generations—we must make sure we take care of the natural environment and resources on which our economic activity depends.\" That statement comes not, as you might imagine, from a stereotypical tree-hugging, save-the-world greenie(环保主义者), but from Gordon Brown, a politician with a reputation for rigour, thoroughness and above all, caution."
+        },
+        {
+          "l": "B",
+          "t": "A surprising thing for the man who runs one of the world's most powerful economies to say? Perhaps; though in the run-up to the five-year review of the millennium(千年的) Goals, he is far from alone. The roots of his speech, given in March at the roundtable meeting of environment and energy ministers from the G20 group of nations, stretch back to 1972, and the United Nations Conference on the Human Environment in Stockholm."
+        },
+        {
+          "l": "C",
+          "t": "\"The protection and improvement of the human environment is a major issue which affects the well-being of peoples and economic development throughout the world,\" read the final declaration from this gathering, the first of a sequence which would lead to the Rio de Janeiro Earth Summit in 1992 and the World Development Summit in Johannesburg three years ago."
+        },
+        {
+          "l": "D",
+          "t": "Hunt through the reports prepared by UN agencies and development groups—many for conferences such as this year's Millennium Goals review—and you will find that the linkage between environmental protection and economic progress is a common thread."
+        },
+        {
+          "l": "E",
+          "t": "Managing ecosystems sustainably is more profitable than exploiting them, according to the Millennium Ecosystem Assessment. But finding hard evidence to support the thesis is not so easy. Thoughts turn first to some sort of global statistic, some indicator which would rate the wealth of nations in both economic and environmental terms and show a relationship between the two."
+        },
+        {
+          "l": "F",
+          "t": "If such an indicator exists, it is well hidden. And on reflection, this is not surprising; the single word \"environment\" has so many dimensions, and there are so many other factors affecting wealth—such as the oil deposits—that teasing out a simple economy-environment relationship would be almost impossible."
+        },
+        {
+          "l": "G",
+          "t": "The Millennium Ecosystem Assessment, a vast four-year global study which reported its initial conclusions earlier this year, found reasons to believe that managing ecosystems sustainably—working with nature rather than against it—might be less profitable in the short term, but certainly brings long-term rewards."
+        },
+        {
+          "l": "H",
+          "t": "And the World Resources Institute (WRI) in its World Resources 2005 report, issued at the end of August, produced several such examples from Africa and Asia; it also demonstrated that environmental degradation affects the poor more than the rich, as poorer people derive a much higher proportion of their income directly from the natural resources around them."
+        },
+        {
+          "l": "I",
+          "t": "But there are also many examples of growing wealth by trashing the environment, in rich and poor parts of the world alike, whether through unregulated mineral extraction, drastic water use for agriculture, slash-and- burn farming, or fossil-fuel-guzzling(大量消耗) transport. Of course, such growth may not persist in the long term—which is what Mr. Brown and the Stockholm declaration were both attempting to point out. Perhaps the best example of boom growth and bust decline is the Grand Banks fishery. For almost five centuries a very large supply of cod(鳕鱼) provided abundant raw material for an industry which at its peak employed about 40,000 people, sustaining entire communities in Newfoundland. Then, abruptly, the cod population collapsed. There were no longer enough fish in the sea for the stock to maintain itself, let alone an industry. More than a decade later, there was no sign of the ecosystem re-building itself. It had, apparently, been fished out of existence; and the once mighty Newfoundland fleet now gropes about frantically for crab on the sea floor."
+        },
+        {
+          "l": "J",
+          "t": "There is a view that modern humans are inevitably sowing the seed of a global Grand Banks-style disaster. The idea is that we are taking more out of what you might call the planet's environmental bank balance than it can sustain; we are living beyond our ecological means. One recent study attempted to calculate the extent of this \"ecological overshoot of the human economy\", and found that we are using 1.2 Earth's-worth of environmental goods and services—the implication being that at some point the debt will be called in, and all those services—the things which the planet does for us for free—will grind to a halt."
+        },
+        {
+          "l": "K",
+          "t": "Whether this is right, and if so where and when the ecological axe will fall, is hard to determine with any precision—which is why governments and financial institutions are only beginning to bring such risks into their economic calculations. It is also the reason why development agencies are not united in their view of environmental issues; while some, like the WRI, maintain that environmental progress needs to go hand-in- hand with economic development, others argue that the priority is to build a thriving economy, and then use the wealth created to tackle environmental degradation."
+        },
+        {
+          "l": "L",
+          "t": "This view assumes that rich societies will invest in environmental care. But is this right? Do things get better or worse as we get richer? Here the Stockholm declaration is ambiguous. \"In the developing countries,\" it says, \"most of the environmental problems are caused by under-development,\" So it is saying that economic development should make for a cleaner world? Not necessarily. \"In the industrialised countries, environmental problems are generally related to industrialisation and technological development,\" it continues. In other words, poor and rich both over-exploit the natural world, but for different reasons. It's simply not true that economic growth will surely make our world cleaner."
+        },
+        {
+          "l": "M",
+          "t": "Clearly, richer societies are able to provide environmental improvements which lie well beyond the reach of poorer communities. Citizens of wealthy nations demand national parks, clean rivers, clean air and poison- free food. They also, however, use far more natural resources—fuel, water (all those baths and golf courses) and building materials."
+        },
+        {
+          "l": "N",
+          "t": "A case can be made that rich nations export environmental problems, the most graphic example being climate change. As a country's wealth grows, so do its greenhouse gas emissions. The figures available will not be completely accurate. Measuring emissions is not a precise science, particularly when it comes to issues surrounding land use; not all nations have released up-to-date data, and in any case, emissions from some sectors such as aviation are not included in national statistics. But the data is exact enough for a clear trend to be easily discernible. As countries become richer, they produce more greenhouse gases; and the impact of those gases will fall primarily in poor parts of the world."
+        },
+        {
+          "l": "O",
+          "t": "Wealth is not, of course, the only factor involved. The average Norwegian is better off than the average US citizen, but contributes about half as much to climate change. But could Norway keep its standard of living and yet cut its emissions to Moroccan or even Ethiopian levels? That question, repeated across a dozen environmental issues and across our diverse planet, is what will ultimately determine whether the human race is living beyond its ecological means as it pursues economic revival."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Examples show that both rich and poor countries exploited the environment for economic progress.",
+          "a": "I"
+        },
+        {
+          "n": 37,
+          "s": "Environmental protection and improvement benefit people all over the world.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "It is not necessarily true that economic growth will make our world cleaner.",
+          "a": "L"
+        },
+        {
+          "n": 39,
+          "s": "The common theme of the UN reports is the relation between environmental protection and economic growth.",
+          "a": "D"
+        },
+        {
+          "n": 40,
+          "s": "Development agencies disagree regarding how to tackle environment issues while ensuring economic progress.",
+          "a": "K"
+        },
+        {
+          "n": 41,
+          "s": "It is difficult to find solid evidence to prove environmental friendliness generates more profits than exploiting the natural environment.",
+          "a": "E"
+        },
+        {
+          "n": 42,
+          "s": "Sustainable management of ecosystems will prove rewarding in the long run.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "A politician noted for being cautious asserts that sustainable human development depends on the natural environment.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "Poor countries will have to bear the cost for rich nations' economic development.",
+          "a": "N"
+        },
+        {
+          "n": 45,
+          "s": "One recent study warns us of the danger of the exhaustion of natural resources on Earth.",
+          "a": "J"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Interactive television advertising, which allows viewers to use their remote controls to click on advertisements, has been pushed for years. Nearly a decade ago it was predicted that viewers of \"Friends\", a popular situation comedy, would soon be able to purchase a sweater like Jennifer Aniston's with a few taps on their remote control. \"It's been the year of interactive television advertising for the last ten or twelve years,\" says Colin Dixon of a digital-media consultancy. So the news that Cablevision, an American cable company, was rolling out interactive advertisements to all its customers on October 6th was greeted with some skepticism. During commercials, an overlay will appear at the bottom of the screen, prompting viewers to press a button to request a free sample or order a catalogue. Cablevision hopes to allow customers to buy things with their remote controls early next year. Television advertising could do with a boost. Spending fell by 10% in the first half of the year. The popularization of digital video recorders has caused advertisers to worry that their commercials will be skipped. Some are turning to the Internet, which is cheaper and offers concrete measurements like click-through rates— especially important at a time when marketing budgets are tight. With the launch of interactive advertising, \"many of the dollars that went to the Internet will come back to the TV,\" says David Kline of Cablevision. Or so the industry hopes. In theory, interactive advertising can engage viewers in a way that 30-second spots do not. Unilever recently ran an interactive campaign for its Axe deodorant(除臭剂), which kept viewers engaged for more than three minutes on average. The amount spent on interactive advertising on television is still small. Magna, an advertising agency, reckons it will be worth about $138 million this year. That falls far short of the billions of dollars people once expected it to generate. But DirecTV, Comcast and Time Warner Cable have all invested in it. A new effort led by Canoe Ventures, a coalition of leading cable providers, aims to make interactive advertising available across America later this year. BrightLine ITV, which designs and sells interactive ads, says interest has surged: it expects its revenues almost to triple this year. BSkyB, Britain's biggest satellite-television service, already provides 9 million customers with interactive ads. Yet there are doubts whether people watching television, a \"lean back\" medium, crave interaction. Click- through rates have been high so far (around 3-4%, compared with less than 0.3% online), but that may be a result of the novelty. Interactive ads and viewers might not go well together.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does Colin Dixon mean by saying \"It's been the year of interactive television advertising for the last\n ten or twelve years\" (Lines 4, Para. 1)?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Interactive television advertising will become popular in 10-12 years."
+              },
+              {
+                "l": "B",
+                "t": "Interactive television advertising has been under debate for the last decade or so."
+              },
+              {
+                "l": "C",
+                "t": "Interactive television advertising is successful when incorporated into situation comedies."
+              },
+              {
+                "l": "D",
+                "t": "Interactive television advertising has not achieved the anticipated results."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What is the public's response to Cablevision's planned interactive TV advertising program?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Pretty positive."
+              },
+              {
+                "l": "B",
+                "t": "Totally indifferent."
+              },
+              {
+                "l": "C",
+                "t": "Somewhat doubtful."
+              },
+              {
+                "l": "D",
+                "t": "Rather critical."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What is the impact of the wide use of digital video recorders on TV advertising?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has made TV advertising easily accessible to viewers."
+              },
+              {
+                "l": "B",
+                "t": "It helps advertisers to measure the click-through rates."
+              },
+              {
+                "l": "C",
+                "t": "It has placed TV advertising at a great disadvantage."
+              },
+              {
+                "l": "D",
+                "t": "It enables viewers to check the sales items with ease."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What do we learn about Unilever's interactive campaign?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It proves the advantage of TV advertising."
+              },
+              {
+                "l": "B",
+                "t": "It has done well in engaging the viewers."
+              },
+              {
+                "l": "C",
+                "t": "It helps attract investments in the company."
+              },
+              {
+                "l": "D",
+                "t": "It has boosted the TV advertising industry."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "How does the author view the hitherto high click-through rates?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may be due to the novel way of advertising."
+              },
+              {
+                "l": "B",
+                "t": "They signify the popularity of interactive advertising."
+              },
+              {
+                "l": "C",
+                "t": "They point to the growing curiosity of TV viewers."
+              },
+              {
+                "l": "D",
+                "t": "They indicate the future direction of media reform."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "What can be done about mass unemployment? All the wise heads agree: there're no quick or easy answers. There's work to be done, but workers aren't ready to do it—they're in the wrong places, or they have the wrong skills. \"Our problems are structural,\" and will take many years to solve. But don't bother asking for evidence that justifies this bleak view. There isn't any. On the contrary, all the facts suggest that high unemployment in America is the result of inadequate demand. Saying that there're no easy answers sounds wise, but it's actually foolish: our unemployment crisis could be cured very quickly if we had the intellectual clarity and political will to act. In other words, structural unemployment is a fake problem, which mainly serves as an excuse for not pursuing real solutions. The fact is job openings have plunged in every major sector, while the number of workers forced into part- time employment in almost all industries has soared. Unemployment has surged in every major occupational category. Only three states, with a combined population not much larger than that of Brooklyn, have unemployment rates below 5%. So the evidence contradicts the claim that we're mainly suffering from structural unemployment. Why, then, has this claim become so popular? Part of the answer is that this is what always happens during periods of high unemployment—in part because experts and analysts believe that declaring the problem deeply rooted, with no easy answers, makes them sound serious. I've been looking at what self-proclaimed experts were saying about unemployment during the Great Depression; it was almost identical to what Very Serious People are saying now. Unemployment cannot be brought down rapidly, declared one 1935 analysis, because the workforce is \"unadaptable and untrained. It cannot respond to the opportunities which industry may offer.\" A few years later, a large defense buildup finally provided a fiscal stimulus adequate to the economy's needs—and suddenly industry was eager to employ those \"unadaptable and untrained\" workers. But now, as then, powerful forces are ideologically opposed to the whole idea of government action on a sufficient scale to jump-start the economy. And that, fundamentally, is why claims that we face huge structural problems have been multiplying: they offer a reason to do nothing about the mass unemployment that is crippling our economy and our society. So what you need to know is that there's no evidence whatsoever to back these claims. We aren't suffering from a shortage of needed skills; we're suffering from a lack of policy resolve. As I said, structural unemployment isn't a real problem, it's an excuse—a reason not to act on America's problems at a time when action is desperately needed.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author think is the root cause of mass unemployment in America?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Corporate mismanagement."
+              },
+              {
+                "l": "B",
+                "t": "Insufficient demand."
+              },
+              {
+                "l": "C",
+                "t": "Technological advances."
+              },
+              {
+                "l": "D",
+                "t": "Workers' slow adaptation."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What does the author think of the experts' claim concerning unemployment?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Self-evident."
+              },
+              {
+                "l": "B",
+                "t": "Thought-provoking."
+              },
+              {
+                "l": "C",
+                "t": "Irrational."
+              },
+              {
+                "l": "D",
+                "t": "Groundless."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What does the author say helped bring down unemployment during the Great Depression?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The booming defense industry."
+              },
+              {
+                "l": "B",
+                "t": "The wise heads' benefit package."
+              },
+              {
+                "l": "C",
+                "t": "Nationwide training of workers."
+              },
+              {
+                "l": "D",
+                "t": "Thorough restructuring of industries."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What has caused claims of huge structural problems to multiply?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Powerful opposition to government's stimulus efforts."
+              },
+              {
+                "l": "B",
+                "t": "Very Serious People's attempt to cripple the economy."
+              },
+              {
+                "l": "C",
+                "t": "Evidence gathered from many sectors of the industries."
+              },
+              {
+                "l": "D",
+                "t": "Economists' failure to detect the problems in time."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What is the author's purpose in writing the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To testify to the experts' analysis of America's problems."
+              },
+              {
+                "l": "B",
+                "t": "To offer a feasible solution to the structural unemployment."
+              },
+              {
+                "l": "C",
+                "t": "To show the urgent need for the government to take action."
+              },
+              {
+                "l": "D",
+                "t": "To alert American workers to the urgency for adaptation."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国的创新正以前所未有的速度蓬勃发展。 为了在科学技术上尽快赶超世界发达国家，中国近年来大幅 度增加了研究开发资金。 中国的大学和研究所正在积极开展创新研究，这些研究覆盖了从大数据到生物化 学、从新能源到机器人等各类高科技领域。 它们还与各地的科技园合作，使创新成果商业化。 与此同时，无 论在产品还是商业模式上，中国企业家也在努力争做创新的先锋，以适应国内外消费市场不断变化和增长的需 求。",
+    "reference": "Innovation in China is booming at an unprecedented speed. To catch up with and surpass the developed countries in science and technology as soon as possible, China has substantially increased its research and development funding in recent years. China's universities and research institutes are actively carrying out innovative research, which covers various high-tech fields ranging from big data to biochemistry and from new energy to robotics. They also cooperate with science parks across the country to commercialize their innovation achievements. Meanwhile, whether in products or business models, Chinese entrepreneurs are also striving to be pioneers of innovation, so as to meet the changing and growing demands of consumer markets at home and abroad."
+  }
+}

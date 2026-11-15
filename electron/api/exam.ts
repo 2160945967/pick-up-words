@@ -194,6 +194,38 @@ function findListeningWav(id: string): string | null {
 }
 let listeningStatusCache: { total: number; available: number; ids: string[] } | null = null;
 
+// ==================== 历年真题听力音频（MP3，不打包，resource 流式发送，支持 Range） ====================
+const REAL_AUDIO_REL = path.join('真题', 'audio');
+function findRealMp3(id: string): string | null {
+  // 严格校验：cet4-2024-6-1 / cet6-2025-12-3，杜绝路径分隔符与路径穿越
+  if (!/^cet[46]-\d{4}-\d{1,2}-\d{1,2}$/.test(id)) return null;
+  const file = `${id}.mp3`;
+  const candidates = [
+    path.join(ROOT_DIR, 'resource', REAL_AUDIO_REL, file),
+    path.join(ASSETS_DIR, REAL_AUDIO_REL, file),
+    path.join(ASSETS_DIR, 'real-audio', file),
+  ];
+  for (const c of candidates) {
+    try { if (fs.existsSync(c)) return c; } catch { /* ignore */ }
+  }
+  return null;
+}
+// CET通 资源虽以 .mp3 命名，实际可能是 MP4/M4A 容器，按魔数返回真实 Content-Type
+function realAudioContentType(file: string): string {
+  try {
+    const fd = fs.openSync(file, 'r');
+    const head = Buffer.alloc(12);
+    fs.readSync(fd, head, 0, 12, 0);
+    fs.closeSync(fd);
+    // ISO BMFF: 偏移 4 处为 "ftyp"
+    if (head.toString('latin1', 4, 8) === 'ftyp') return 'audio/mp4';
+    // ID3 标签或 MP3 帧同步
+    if (head[0] === 0x49 && head[1] === 0x44) return 'audio/mpeg';
+    if (head[0] === 0xff && (head[1] & 0xe0) === 0xe0) return 'audio/mpeg';
+  } catch { /* ignore */ }
+  return 'audio/mpeg';
+}
+
 export function setupExamRoutes(app: any): void {
   // 听力音频可用状态
   app.get('/api/exam/listening-status', (req: Request, res: Response) => {
@@ -231,6 +263,28 @@ export function setupExamRoutes(app: any): void {
       res.sendFile(file);
     } catch (e: any) {
       res.status(500).json(errorResponse(e.message || '获取听力音频失败', 500));
+    }
+  });
+
+  // 单套历年真题听力音频流（MP3，express sendFile 自动处理 Range）
+  app.get('/api/exam/real-audio/:id', (req: Request, res: Response) => {
+    try {
+      const id = String(req.params.id || '');
+      if (!/^cet[46]-\d{4}-\d{1,2}-\d{1,2}$/.test(id)) {
+        res.status(400).json(errorResponse('真题套卷编号无效', 400));
+        return;
+      }
+      const file = findRealMp3(id);
+      if (!file) {
+        res.status(404).json(errorResponse(
+          '未找到该套真题听力音频：音频体积较大未随程序打包，可运行下载脚本或安装真题音频资源包。', 404));
+        return;
+      }
+      res.set('Content-Type', realAudioContentType(file));
+      res.set('Accept-Ranges', 'bytes');
+      res.sendFile(file);
+    } catch (e: any) {
+      res.status(500).json(errorResponse(e.message || '获取真题听力音频失败', 500));
     }
   });
 

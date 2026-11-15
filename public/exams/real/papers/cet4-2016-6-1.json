@@ -1,0 +1,1396 @@
+{
+  "id": "cet4-2016-6-1",
+  "level": "cet4",
+  "year": 2016,
+  "month": 6,
+  "set": 1,
+  "title": "2016年6月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a letter to express your thanks to one of your school teachers upon entering college. You should write at least 120 words but no more than 180 words.",
+    "sample": "Dear Mr. Wang,Now that I have entered college, I am writing to express my heartfelt thanks to you for all the guidance you gave me during my high school years.I still clearly remember the time when I failed an important English exam and almost gave up. Instead of blaming me, you stayed after class, went through every mistake with me, and encouraged me to keep trying. It was you who helped me build the habit of reading English news every morning, which has greatly improved my language skills and confidence. Thanks to your patience and faith in me, I finally earned a place at my dream university.I owe much of my progress to you, and I will always treasure what you taught me, both in knowledge and in character. I sincerely wish you good health and happiness in the years ahead.Yours sincerely, Li Ming"
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The International Labour Organization's key objective."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The basic social protection for the most vulnerable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Rising unemployment worldwide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Global economic recovery."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many countries have not taken measures to create enough jobs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Few countries know how to address the current economic crisis."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Few countries have realized the seriousness of the current crisis."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many countries need support to improve their people's livelihood.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The International Labour Organization says the number of people without jobs is increasing. In its latest update on global employment trends, the agency says projections of the number of unemployed people this year range from 210 million to nearly 240 million people. The report warns that 200 million poor workers are at risk of joining the ranks of people living on less than two dollars per day in the past three years. The Director-General of the International Labour Organization Juan Somavia notes that some countries have taken measures to address the effects of the global crisis. However, he points out that many countries have not done so. And based on past experiences, it takes four to five years after economic recovery for unemployment to return to pre-crisis levels. Mr. Somavia says the International Labour Organization is proposing a global jobs agreement to deal with unemployment.",
+                "zh": "国际劳工组织表示，失业人数正在增加。在其最新发布的全球就业趋势报告中，该机构称今年失业人数的预测范围在2.1亿至近2.4亿人之间。报告警告说,在过去三年里,有2亿贫困劳动者面临加入每天生活费不足两美元人群行列的风险。国际劳工组织总干事胡安·索马维亚指出,一些国家已经采取措施应对全球危机的影响。然而,他指出许多国家尚未这样做。根据以往经验,经济复苏后需要四到五年时间失业率才能恢复到危机前的水平。索马维亚先生表示,国际劳工组织正在提议一项全球就业协议来应对失业问题。"
+              },
+              {
+                "en": "\"Its key objective is to place at the center of recovery efforts, measures that would generate higher levels of employment and provide basic social protection for the most vulnerable.\"",
+                "zh": "该协议的核心目标是将能够创造更高就业水平并为最脆弱群体提供基本社会保障的措施置于复苏努力的中心。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Serve standardized food nationwide."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Put calorie information on the menu."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Increase protein content in the food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Offer convenient food to customers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will be fined."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will be closed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will get a warning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will lose customers.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Big fast food chains in New York City have started to obey a first-of-its-kind rule requiring them to post calorie counts right on the menu. Cathy Nonas is with the New York City Department of Health.",
+                "zh": "纽约市的大型快餐连锁店已开始遵守一项首创性规定,要求它们直接在菜单上标注卡路里含量。Cathy Nonas是纽约市卫生局的工作人员。"
+              },
+              {
+                "en": "\"We wanted to give people an opportunity to actually see the calories before they purchase the food and make a decision, an informed decision that if they want to make the healthier choice, if they want to eat fewer calories, they can. And we expect this will have a huge impact on obesity. And of course, if it has an impact on obesity, it will have an impact on diabetes and heart disease and high blood pressure.\"",
+                "zh": "我们希望让人们有机会在购买食物之前真正看到卡路里含量并做出决定,一个知情的决定,如果他们想做出更健康的选择,如果他们想摄入更少的卡路里,他们就可以做到。我们预计这将对肥胖产生巨大影响。当然,如果它对肥胖产生影响,它也将对糖尿病、心脏病和高血压产生影响。"
+              },
+              {
+                "en": "The new rules were introduced as part of an anti-obesity campaign that also includes a recent citywide ban on artificial trans fats in restaurant food. The menu rule only applies to restaurants that serve standardised portion sizes and have fifteen or more locations nationwide.",
+                "zh": "这些新规定是作为抗肥胖运动的一部分推出的,该运动还包括最近在全市范围内禁止在餐厅食品中使用人工反式脂肪。该菜单规定仅适用于提供标准化份量并在全国拥有十五家或更多门店的餐厅。"
+              },
+              {
+                "en": "Starting last Saturday, chains big enough to fall under the rule will face penalties of up to 2000 dollars for not showing calorie information in a prominent spot on their menus, preferably next to the price.",
+                "zh": "从上周六开始,规模足够大而受该规定约束的连锁店如果不在菜单的显著位置(最好在价格旁边)显示卡路里信息,将面临最高2000美元的罚款。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Inability to implement their business plans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inability to keep turning out novel products."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lack of a successful business model of their own."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Failure to integrate innovation into their business."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is the secret to business success."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the creation of something new."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a magic tool to bring big rewards."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is an essential part of business culture."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its hardworking employees."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its flexible promotion strategy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its innovation culture."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its willingness to make investments."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Almost all companies recognize the importance of innovation today, but not many are able to integrate innovation into their business. A commentary in the Shanghai Daily points out that innovation doesn't mean piles of documents. It is something more practical. The article says many people tend to assume that innovation just means creating something new, but actually it's more than that. It's an attitude of doing things. A company should find ways to innovate not just in products but also in functions, business models and processes.",
+                "zh": "几乎所有公司都认识到创新在当今的重要性,但能够将创新融入业务的公司并不多。《上海日报》的一篇评论指出,创新并不意味着成堆的文件,它是更实际的东西。文章说,许多人倾向于认为创新只是意味着创造新事物,但实际上远不止于此。它是一种做事的态度。一家公司应该找到方法,不仅在产品上创新,还要在职能、商业模式和流程上创新。"
+              },
+              {
+                "en": "The article cites the global giant Procter & Gamble as an example, saying a real innovative company should develop an innovation culture and use it as a primary tool for success. Procter & Gamble has a \"Corporate Innovation Fund\" which offers big rewards for high-risk ideas that succeed. It also has a special innovation facility for its employees. Sometimes its employees are released from their daily jobs for weeks and spend their time interacting in the innovation facility instead. In conclusion, the article says innovative ideas alone do not ensure success. It's pointless unless there is a repeatable process in place to turn inspiration into financial performance.",
+                "zh": "文章以全球巨头宝洁公司为例,指出真正的创新型公司应该培养创新文化,并将其作为成功的主要工具。宝洁公司设有\"企业创新基金\",为成功的高风险创意提供丰厚奖励。它还为员工设有专门的创新设施。有时员工会从日常工作中解脱出来数周,将时间花在创新设施中进行互动。文章最后指出,仅有创新想法并不能确保成功。除非有可重复的流程将灵感转化为财务业绩,否则就毫无意义。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He's got addicted to technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is not very good at socializing"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is crazy about text-messaging."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He does not talk long on the phone."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Talk big."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Talk at length."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Gossip a lot."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Forget herself."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He thought it was cool."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He needed the practice."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He wanted to stay connected with them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He had an urgent message to send."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It poses a challenge to seniors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It saves both time and money."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is childish and unprofessional."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is cool and convenient.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: So, Lyndsay, do you like to text message on your cell phone?",
+                "zh": "M: 那么，Lyndsay，你喜欢用手机发短信吗？"
+              },
+              {
+                "en": "W: Yeah, I text message a lot.",
+                "zh": "W: 是的，我经常发短信。"
+              },
+              {
+                "en": "M: I don't do it so much. I prefer to make a call if I'm in a hurry.",
+                "zh": "M: 我不怎么发。如果我赶时间的话，我更喜欢打电话。"
+              },
+              {
+                "en": "W: Yeah, I go both ways. Sometimes I don't really want to talk to the person. I just want to ask them one question, so it's much easier for me just to text message. If I call them, I'll have to have a long conversation.",
+                "zh": "W: 嗯，我两种方式都用。有时候我不是真的想跟那个人说话，我只是想问他们一个问题，所以对我来说发短信要容易得多。如果我打电话给他们，就得聊很长时间。"
+              },
+              {
+                "en": "M: Yeah, I can see what you mean. But I get off the phone pretty quickly when I call. I'm not a big talker.",
+                "zh": "M: 是的，我明白你的意思。但我打电话的时候挂得很快。我不是一个话多的人。"
+              },
+              {
+                "en": "W: Yeah, that's true. You don't talk a lot.",
+                "zh": "W: 是的，没错。你话不多。"
+              },
+              {
+                "en": "M: So are you fast at writing the messages with your thumb?",
+                "zh": "M: 那你用大拇指打字快吗？"
+              },
+              {
+                "en": "W: Well, when I first got a cell phone, I was so slow. I thought I would never text message. But then people kept text messaging me, so I felt obliged to learn how to text message. So now I'm pretty fast. What about you?",
+                "zh": "W: 嗯，我刚拿到手机的时候特别慢。我当时觉得我永远不会发短信。但后来人们不停地给我发短信，所以我觉得有必要学会怎么发短信。所以现在我挺快的。你呢？"
+              },
+              {
+                "en": "M: Actually I have the opposite problem. When I first got my cell phone, I thought it was so cool to text message all my friends who have one, and I was pretty fast with my thumb then. But it seems like now I don't use it so much. I've gotten slower actually.",
+                "zh": "M: 实际上我的问题正相反。我刚拿到手机的时候，我觉得给所有有手机的朋友发短信特别酷，那时候我用大拇指打字还挺快的。但现在好像不怎么用了，实际上变慢了。"
+              },
+              {
+                "en": "W: Yeah, I think text-messaging actually sort of has to do with your age. For example, people in high school, they text message a lot. But I asked my father if he texted messages, and guess what he said?",
+                "zh": "W: 是啊，我觉得发短信其实跟年龄有关。比如说，高中生他们发很多短信。但我问我爸爸他发不发短信，你猜他怎么说？"
+              },
+              {
+                "en": "M: What?",
+                "zh": "M: 什么？"
+              },
+              {
+                "en": "W: He said he'd never text message. He thinks it's very childish and unprofessional to text message.",
+                "zh": "W: 他说他从不发短信。他认为发短信很幼稚，很不专业。"
+              },
+              {
+                "en": "M: Yeah, I can see what he means. It's considered pretty informal to text message someone.",
+                "zh": "M: 是的，我明白他的意思。给别人发短信被认为是相当不正式的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He wants to change his job assignment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is unhappy with his department manager"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He thinks he deserves extra pay for overtime."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is often singled out for criticism by his boss"
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His workload was much too heavy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His immediate boss did not trust him"
+                  },
+                  {
+                    "l": "C",
+                    "t": "His colleagues often refused to cooperate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His salary was too low for his responsibility"
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He never knows how to refuse."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is always ready to help others"
+                  },
+                  {
+                    "l": "C",
+                    "t": "His boss has a lot of trust in him."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His boss has no sense of fairness."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Put all his complaints in writing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Wait and see what happens next."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Learn to say no when necessary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Talk to his boss in person first."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Good morning, Mr. Johnson. How can I help you?",
+                "zh": "W: 早上好,Johnson先生。有什么可以帮您的吗?"
+              },
+              {
+                "en": "M: Well, I'd like to talk to you about Tim Bond, the department manager.",
+                "zh": "M: 嗯,我想和您谈谈部门经理Tim Bond的事。"
+              },
+              {
+                "en": "W: What seems to be the problem?",
+                "zh": "W: 有什么问题吗?"
+              },
+              {
+                "en": "M: Well, ever since Sandra left the department, I feel like I've been targeted to do all her work as well as mine. I'm expected to attend too many meetings and I seem to be spending a lot of my time doing unnecessary paperwork.",
+                "zh": "M: 嗯,自从Sandra离开部门后,我感觉我被指定要做她所有的工作以及我自己的工作。我要参加太多会议,而且我似乎把大量时间都花在做不必要的文书工作上。"
+              },
+              {
+                "en": "W: I'm sorry to hear that.",
+                "zh": "W: 听到这个我很遗憾。"
+              },
+              {
+                "en": "M: And, on top of that, I'd specifically asked if I could leave early last Friday as I'd done a lot of overtime during the week. But that afternoon, even though I'd finished my assigned work, I was told to help other colleagues finish their work, too.",
+                "zh": "M: 而且,最重要的是,我特别要求上周五能早点下班,因为我那周加了很多班。但那天下午,尽管我已经完成了分配给我的工作,我还是被告知要帮其他同事完成他们的工作。"
+              },
+              {
+                "en": "W: But surely that's a positive sign showing that Mr. Bond has a lot of trust in you.",
+                "zh": "W: 但这肯定是个积极的信号,说明Bond先生非常信任您。"
+              },
+              {
+                "en": "M: Yes, but other colleagues get to leave early, and they don't have such a lot of work to do.",
+                "zh": "M: 是的,但其他同事可以早退,而且他们没有这么多工作要做。"
+              },
+              {
+                "en": "W: So you feel he's been making unrealistic demands on you?",
+                "zh": "W: 所以您觉得他对您提出了不切实际的要求?"
+              },
+              {
+                "en": "M: Yes, absolutely.",
+                "zh": "M: 是的,完全是这样。"
+              },
+              {
+                "en": "W: Have you approached Mr. Bond about this particular problem?",
+                "zh": "W: 您就这个具体问题找过Bond先生谈吗?"
+              },
+              {
+                "en": "M: I've tried, but it seems like he just has no time for me.",
+                "zh": "M: 我试过,但他似乎根本没时间理我。"
+              },
+              {
+                "en": "W: Well, at this stage, it would be better if you approached him directly. If nothing else, showing that you've tried to solve the problem yourself, before you take it further, makes it clear that you're not just a complainer. Why don't you send an email requesting a meeting with him in private?",
+                "zh": "W: 好吧,在这个阶段,您最好直接找他谈。如果没有别的办法,至少表明在把问题提交上来之前,您已经尝试自己解决问题了,这清楚地表明您不只是个抱怨者。您为什么不发封邮件要求和他私下见面呢?"
+              },
+              {
+                "en": "M: Hmm, I'd be a bit worried about his reaction. But anyway I'll send him an email to request a meeting, and I'll see what happens from there. Thanks for your advice.",
+                "zh": "M: 嗯,我会有点担心他的反应。但无论如何,我会给他发封邮件要求见面,然后看看会怎么样。谢谢您的建议。"
+              },
+              {
+                "en": "W: Good luck. And let us know the outcome.",
+                "zh": "W: 祝您好运。有结果了告诉我们。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The importance of sleep to a healthy life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Reasons for Americans' decline in sleep."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some tips to improve the quality of sleep."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Diseases associated with lack of sleep."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are more health-conscious."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are changing their living habits."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They get less and less sleep."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They know the dangers of lack of sleep."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their weight will go down."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their mind function will deteriorate."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their work efficiency will decrease."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their blood pressure will rise.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The massive decline in sleep happened so slowly and quietly that few seemed to notice the trend. Was it because of the growing attraction of the Internet, video games and endless TV channels? Never disconnecting from work? No matter how it happened, millions of Americans are putting their health, quality of life and even length of life in danger.",
+                "zh": "睡眠的大幅减少发生得如此缓慢而悄无声息，以至于很少有人注意到这一趋势。这是因为互联网、电子游戏和无穷无尽的电视频道日益增长的吸引力吗？还是因为从不从工作中脱离？无论是如何发生的,数以百万计的美国人正在将他们的健康、生活质量甚至寿命置于危险之中。"
+              },
+              {
+                "en": "New evidence shows why getting enough sleep is a top priority. Some 40% of Americans get less than seven hours of shut-eye on weeknights. \"The link between sleep and health, and bad sleep and disease is becoming clearer and clearer,\" says Lawrence Epstein, a sleep expert at Harvard University. For example, sleep duration has declined from some eight hours in the 1950s to seven in recent years. At the same time, high blood pressure has become an increasing problem. Blood pressure and heart rate are typically at their lowest levels during sleep. People who sleep less tend to have higher blood pressure, heart attack, diabetes, weight gain and other problems.",
+                "zh": "新的证据表明为什么获得充足的睡眠是头等大事。约40%的美国人在工作日夜晚的睡眠时间少于七小时。哈佛大学睡眠专家Lawrence Epstein说:\"睡眠与健康之间的联系,以及睡眠不足与疾病之间的联系正变得越来越清晰。\"例如,睡眠时长已从20世纪50年代的约八小时下降到近年来的七小时。与此同时,高血压已成为一个日益严重的问题。血压和心率通常在睡眠期间处于最低水平。睡眠较少的人往往有更高的血压、心脏病发作、糖尿病、体重增加和其他问题。"
+              },
+              {
+                "en": "Sleeping better may help fight off illness. \"When people are sleep-deprived, there are higher levels of stress hormones in their bodies, which can decrease immune function,\" says Doctor Felice of Northwestern University in Chicago. A university of Chicago study shows people who sleep well live longer. So say good night sooner and it may help you stay active and vital to a ripe old age.",
+                "zh": "更好的睡眠可能有助于抵抗疾病。芝加哥西北大学的Felice医生说:\"当人们睡眠不足时,他们体内的应激激素水平会升高,这会降低免疫功能。\"芝加哥大学的一项研究表明,睡眠良好的人寿命更长。所以早点说晚安吧,这可能有助于你保持活跃和充满活力直到高龄。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How much you can afford to pay."
+                  },
+                  {
+                    "l": "B",
+                    "t": "What course you are going to choose."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Which university you are going to apply to."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When you are going to submit your application."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The list of courses studied."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The full record of scores."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The references from teachers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The personal statement."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Specify what they would like to do after graduation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Describe in detail how much they would enjoy studying."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Indicate they have reflected and thought about the subject."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Emphasize that they admire the professors in the university.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Parents and teachers will tell you not to worry when applying for a place at university, but in the same breath we'll remind you that it is the most important decision of your life.",
+                "zh": "家长和老师会告诉你在申请大学时不要担心,但同时又会提醒你这是你人生中最重要的决定。"
+              },
+              {
+                "en": "The first decision is your choice of course. It will depend on what you want to get out of university, what you are good at and what you enjoy. The next decision is where to apply. Aim high but within reason. Do you have the right combination of subjects and are your expected grades likely to meet entry requirements? The deadline is January 15th. But it is best to submit your application early because universities begin work as soon as forms start rolling in.",
+                "zh": "第一个决定是你的课程选择。这取决于你想从大学获得什么、你擅长什么以及你喜欢什么。下一个决定是申请哪里。目标要高但要合理。你是否具备正确的科目组合,你的预期成绩是否可能达到入学要求?截止日期是1月15日。但最好尽早提交申请,因为大学一旦开始收到表格就会立即开展工作。"
+              },
+              {
+                "en": "The most important part of the application is the much feared personal statement. This is your chance to convey boundless enthusiasm for the subject. So economy of expression is foremost. Omit dull and ineffective generalities and make sure you give concrete examples.",
+                "zh": "申请中最重要的部分是令人畏惧的个人陈述。这是你传达对该学科无限热情的机会。因此简洁表达是首要的。省略枯燥无效的泛泛之谈,确保给出具体例子。"
+              },
+              {
+                "en": "Admissions officers read every personal statement that arrives. It is not convincing if you say you have chosen the subject because you enjoy it. You have to get across what it is about a particular area that has inspired you. They will look for evidence that you have reflected and thought about the subject.",
+                "zh": "招生官会阅读每一份个人陈述。如果你说选择这个学科是因为你喜欢它,这并不令人信服。你必须表达出某个特定领域的哪些方面激发了你的灵感。他们会寻找证据证明你对该学科进行了反思和思考。"
+              },
+              {
+                "en": "Applicants should be honest. There is no point saying you run marathons if you are going to be out of breath arriving at the interview on the second floor.",
+                "zh": "申请者应该诚实。如果你到达二楼面试时会上气不接下气,那说自己跑马拉松就毫无意义。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was equipped with rubber tyres."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was built in the late 19th century."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was purchased by the Royal family."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was designed by an English engineer."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They consumed lots of petrol."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They took two passengers only."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were difficult to drive."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They often broke down."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were produced on the assembly line."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were built with less costly materials."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were modeled after British cars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were made for ordinary use."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It made news all over the world."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was built for the Royal family."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It marked a new era in motor travel."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It attracted large numbers of motorists."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It is usually agreed that a German, Carl Benz, built the first motor car in 1885. It was actually a tricycle with a petrol motor at the rear. Soon, members of the Royal family and other wealthy people took up motoring as a sport. Many of the early cars had two seats. There were no petrol pumps and few garages, so every driver had to be his own engineer for the frequent breakdowns.",
+                "zh": "人们通常认为德国人Carl Benz于1885年制造了第一辆汽车。它实际上是一辆后部装有汽油发动机的三轮车。很快,王室成员和其他富人将驾车作为一项运动。许多早期汽车有两个座位。当时没有加油站,车库也很少,因此每个司机都必须成为自己的工程师来应对频繁的故障。"
+              },
+              {
+                "en": "By 1905, cars began to look like cars of today, with headlamps, windscreen, rubber tyres and number plates. Henry Ford's Model T introduced in America in 1909 was cheaper because it was made on the assembly line. It brought cars closer towards the reach of ordinary people. With the popularity of the car, registration became a must in 1903 with the Motor Car Act. Competency tests were introduced in 1935.",
+                "zh": "到1905年,汽车开始看起来像今天的汽车,配有前照灯、挡风玻璃、橡胶轮胎和车牌。Henry Ford的Model T于1909年在美国推出,因为采用装配线生产而更便宜。它使汽车更接近普通人的购买能力。随着汽车的普及,1903年《汽车法》规定登记成为必须。1935年引入了驾驶能力测试。"
+              },
+              {
+                "en": "Today, the legal driving age for a car in the UK is 17. You are not allowed to drive a car unsupervised until you have passed a driving test. In 1958, Britain celebrated the opening of its first motorway—the Preston Bypass. Until then, no one really understood what a motorway was, not even the laborers who were building it. The bypass hailed a new era in motor travel and was greeted with excitement and optimism. Service stations came with the motorway and the legend of the transport cafe was born. Of course, the service station has diversified greatly. But whether it's an English-cooked breakfast or a coffee and a sandwich, one thing has remained the same: the prices.",
+                "zh": "如今,英国的法定汽车驾驶年龄是17岁。在通过驾驶考试之前,不允许无人监督驾驶汽车。1958年,英国庆祝其第一条高速公路Preston Bypass的开通。在那之前,没有人真正理解什么是高速公路,甚至建造它的工人也不理解。这条旁道开启了汽车旅行的新时代,受到了兴奋和乐观的欢迎。服务站随高速公路而来,运输咖啡馆的传奇由此诞生。当然,服务站已经大大多样化了。但无论是英式熟食早餐还是咖啡加三明治,有一件事始终没变:价格。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Physical activity does the body good, and there's growing evidence that it helps the brain too. Researchers in the Netherlands report that children who get more exercise, whether at school or on their own,"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to have higher GPAs and better scores on standardized tests. In a"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "of 14 studies that looked at physical activity and academic"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ", investigators found that the more children moved, the better their grades were in school,"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "in the basic subjects of math, English and reading. The data will certainly fuel the ongoing debate over whether physical education classes should be cut as schools struggle to"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "on smaller budgets. The arguments against physical education have included concerns that gym time may be taking away from study time. With standardized test scores in the U.S."
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "in recent years, some administrators believe students need to spend more time in the classroom instead of on the playground. But as these findings show, exercise and academics may not be"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "exclusive. Physical activity can improve blood"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "to the brain, fueling memory, attention and creativity, which are"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "to learning. And exercise releases hormones that can improve"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "and relieve stress, which can also help learning. So while it may seem as if kids are just exercising their bodies when they're running around, they may actually be exercising their brains as well."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "attendance"
+        },
+        {
+          "l": "B",
+          "w": "consequently"
+        },
+        {
+          "l": "C",
+          "w": "current"
+        },
+        {
+          "l": "D",
+          "w": "depressing"
+        },
+        {
+          "l": "E",
+          "w": "dropping"
+        },
+        {
+          "l": "F",
+          "w": "essential"
+        },
+        {
+          "l": "G",
+          "w": "feasible"
+        },
+        {
+          "l": "H",
+          "w": "flow"
+        },
+        {
+          "l": "I",
+          "w": "mood"
+        },
+        {
+          "l": "J",
+          "w": "mutually"
+        },
+        {
+          "l": "K",
+          "w": "particularly"
+        },
+        {
+          "l": "L",
+          "w": "performance"
+        },
+        {
+          "l": "M",
+          "w": "review"
+        },
+        {
+          "l": "N",
+          "w": "survive"
+        },
+        {
+          "l": "O",
+          "w": "tend"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "O"
+        },
+        {
+          "n": 27,
+          "a": "M"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "K"
+        },
+        {
+          "n": 30,
+          "a": "N"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "J"
+        },
+        {
+          "n": 33,
+          "a": "H"
+        },
+        {
+          "n": 34,
+          "a": "F"
+        },
+        {
+          "n": 35,
+          "a": "I"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Finding the Right Home—and Contentment, Too",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "When your elderly relative needs to enter some sort of long-term care facility—a moment few parents or children approach without fear-what you would like is to have everything made clear."
+        },
+        {
+          "l": "B",
+          "t": "Does assisted living really mark a great improvement over a nursing home, or has the industry simply hired better interior designers? Are nursing homes as bad as people fear, or is that an out-moded stereotype(固定看 法)? Can doing one's homework really steer families to the best places? It is genuinely hard to know."
+        },
+        {
+          "l": "C",
+          "t": "I am about to make things more complicated by suggesting that what kind of facility an older person lives in may matter less than we have assumed. And that the characteristics adult children look for when they begin the search are not necessarily the things that make a difference to the people who are going to move in. I am not talking about the quality of care, let me hastily add. Nobody flourishes in a gloomy environment with irresponsible staff and a poor safety record. But an accumulating body of research indicates that some distinctions between one type of elder care and another have little real bearing on how well residents do."
+        },
+        {
+          "l": "D",
+          "t": "The most recent of these studies, published in The Journal of Applied Gerontology, surveyed 150 Connecticut residents of assisted living, nursing homes and smaller residential care homes (known in some states as board and care homes or adult care homes). Researchers from the University of Connecticut Health Center asked the residents a large number of questions about their quality of life, emotional well-being and social interaction, as well as about the quality of the facilities."
+        },
+        {
+          "l": "E",
+          "t": "\"We thought we would see differences based on the housing types,\" said the lead author of the study, Julie Robison, an associate professor of medicine at the university. A reasonable assumption—don't families struggle to avoid nursing homes and suffer real guilt if they can't?"
+        },
+        {
+          "l": "F",
+          "t": "In the initial results, assisted living residents did paint the most positive picture. They were less likely to report symptoms of depression than those in the other facilities, for instance, and less likely to be bored or lonely. They scored higher on social interaction."
+        },
+        {
+          "l": "G",
+          "t": "But when the researchers plugged in a number of other variables, such differences disappeared. It is not the housing type, they found, that creates differences in residents' responses. \"It is the characteristics of the specific environment they are in, combined with their own personal characteristics-how healthy they feel they are, their age and marital status,\" Dr. Robison explained. Whether residents felt involved in the decision to move and how long they had lived there also proved significant."
+        },
+        {
+          "l": "H",
+          "t": "An elderly person who describes herself as in poor health, therefore, might be no less depressed in assisted living (even if her children preferred it) than in a nursing home. A person who had input into where he would move and has had time to adapt to it might do as well in a nursing home as in a small residential care home, other factors being equal. It is an interaction between the person and the place, not the sort of place in itself, that leads to better or worse experiences. \"You can't just say, 'Let's put this person in a residential care home instead of a nursing home—she will be much better off,'\" Dr. Robison said. What matters, she added, \"is a combination of what people bring in with them, and what they find there.\""
+        },
+        {
+          "l": "I",
+          "t": "Such findings, which run counter to common sense, have surfaced before. In a multi-state study of assisted living, for instance, University of North Carolina researchers found that a host of variables—the facility's type, size or age; whether a chain owned it; how attractive the neighborhood was—had no significant relationship to how the residents fared in terms of illness, mental decline, hospitalizations or mortality. What mattered most was the residents' physical health and mental status. What people were like when they came in had greater consequence than what happened once they were there."
+        },
+        {
+          "l": "J",
+          "t": "As I was considering all this, a press release from a respected research firm crossed my desk, announcing that the five-star rating system that Medicare developed in 2008 to help families compare nursing home quality also has little relationship to how satisfied its residents or their family members are. As a matter of fact, consumers expressed higher satisfaction with the one-star facilities, the lowest rated, than with the five-star ones. (More on this study and the star ratings will appear in a subsequent post.)"
+        },
+        {
+          "l": "K",
+          "t": "Before we collectively tear our hair out—how are we supposed to find our way in a landscape this confusing? Here is a thought from Dr. Philip Sloane, a geriatrician(老年病学专家) at the University of North Carolina: \"In a way, that could be liberating for families.\""
+        },
+        {
+          "l": "L",
+          "t": "Of course, sons and daughters want to visit the facilities, talk to the administrators and residents and other families, and do everything possible to fulfill their duties. But perhaps they don't have to turn themselves into private investigators or Congressional subcommittees. \"Families can look a bit more for where the residents are going to be happy,\" Dr. Sloane said. And involving the future resident in the process can be very important."
+        },
+        {
+          "l": "M",
+          "t": "We all have our own ideas about what would bring our parents happiness. They have their ideas, too. A friend recently took her mother to visit an expensive assisted living/nursing home near my town. I have seen this place—it is elegant, inside and out. But nobody greeted the daughter and mother when they arrived, though the visit had been planned; nobody introduced them to the other residents. When they had lunch in the dining room, they sat alone at a table."
+        },
+        {
+          "l": "N",
+          "t": "The daughter feared her mother would be ignored there, and so she decided to move her into a more welcoming facility. Based on what is emerging from some of this research, that might have been as rational a way as any to reach a decision."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Many people feel guilty when they cannot find a place other than a nursing home for their parents.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "Though it helps for children to investigate care facilities, involving their parents in the decision-making process may prove very important.",
+          "a": "L"
+        },
+        {
+          "n": 38,
+          "s": "It is really difficult to tell if assisted living is better than a nursing home.",
+          "a": "B"
+        },
+        {
+          "n": 39,
+          "s": "How a resident feels depends on an interaction between themselves and the care facility they live in.",
+          "a": "H"
+        },
+        {
+          "n": 40,
+          "s": "The author thinks her friend made a rational decision in choosing a more hospitable place over an apparently elegant assisted living home.",
+          "a": "N"
+        },
+        {
+          "n": 41,
+          "s": "The system Medicare developed to rate nursing home quality is of little help to finding a satisfactory place.",
+          "a": "J"
+        },
+        {
+          "n": 42,
+          "s": "At first the researchers of the most recent study found residents in assisted living facilities gave higher scores on social interaction.",
+          "a": "F"
+        },
+        {
+          "n": 43,
+          "s": "What kind of care facility old people live in may be less important than we think.",
+          "a": "C"
+        },
+        {
+          "n": 44,
+          "s": "The findings of the latest research were similar to an earlier multi-state study of assisted living.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "A resident's satisfaction with a care facility has much to do with whether they had participated in the decision to move in and how long they had stayed there.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "As Artificial Intelligence (AI) becomes increasingly sophisticated, there are growing concerns that robots could become a threat. This danger can be avoided, according to computer science professor Stuart Russell, if we figure out how to turn human values into a programmable code. Russell argues that as robots take on more complicated tasks, it's necessary to translate our morals into AI language. For example, if a robot does chores around the house, you wouldn't want it to put the pet cat in the oven to make dinner for the hungry children. \"You would want that robot preloaded with a good set of values,\" said Russell. Some robots are already programmed with basic human values. For example, mobile robots have been programmed to keep a comfortable distance from humans. Obviously there are cultural differences, but if you were talking to another person and they came up close in your personal space, you wouldn't think that's the kind of thing a properly brought-up person would do. It will be possible to create more sophisticated moral machines, if only we can find a way to set out human values as clear rules. Robots could also learn values from drawing patterns from large sets of data on human behavior. They are dangerous only if programmers are careless. The biggest concern with robots going against human values is that human beings fail to do sufficient testing and they've produced a system that will break some kind of taboo(禁忌). One simple check would be to program a robot to check the correct course of action with a human when presented with an unusual situation. If the robot is unsure whether an animal is suitable for the microwave, it has the opportunity to stop, send out beeps(嘟嘟声), and ask for directions from a human. If we humans aren't quite sure about a decision, we go and ask somebody else. The most difficult step in programming values will be deciding exactly what we believe is moral, and how to create a set of ethical rules. But if we come up with an answer, robots could be good for humanity.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the author say about the threat of robots?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may constitute a challenge to computer programmers."
+              },
+              {
+                "l": "B",
+                "t": "It accompanies all machinery involving high technology."
+              },
+              {
+                "l": "C",
+                "t": "It can be avoided if human values are translated into their language."
+              },
+              {
+                "l": "D",
+                "t": "It has become an inevitable peril as technology gets more sophisticated."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What would we think of a person who invades our personal space according to the author?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are aggressive."
+              },
+              {
+                "l": "B",
+                "t": "They are outgoing."
+              },
+              {
+                "l": "C",
+                "t": "They are ignorant."
+              },
+              {
+                "l": "D",
+                "t": "They are ill-bred."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "How do robots learn human values?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By interacting with humans in everyday life situations."
+              },
+              {
+                "l": "B",
+                "t": "By following the daily routines of civilized human beings."
+              },
+              {
+                "l": "C",
+                "t": "By picking up patterns from massive data on human behavior."
+              },
+              {
+                "l": "D",
+                "t": "By imitating the behavior of properly brought-up human beings."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What will a well-programmed robot do when facing an unusual situation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Keep a distance from possible dangers."
+              },
+              {
+                "l": "B",
+                "t": "Stop to seek advice from a human being."
+              },
+              {
+                "l": "C",
+                "t": "Trigger its built-in alarm system at once."
+              },
+              {
+                "l": "D",
+                "t": "Do sufficient testing before taking action."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What is most difficult to do when we turn human values into a programmable code?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Determine what is moral and ethical."
+              },
+              {
+                "l": "B",
+                "t": "Design some large-scale experiments."
+              },
+              {
+                "l": "C",
+                "t": "Set rules for man-machine interaction."
+              },
+              {
+                "l": "D",
+                "t": "Develop a more sophisticated program."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Why do some people live to be older than others? You know the standard explanations:keeping a moderate diet, engaging in regular exercise, etc. But what effect does your personality have on your longevity(长寿)? Do some kinds of personalities lead to longer lives? A new study in the Journal of the American Geriatrics Society looked at this question by examining the personality characteristics of 246 children of people who had lived to be at least 100. The study shows that those living the longest are more outgoing, more active and less neurotic(神经质的) than other people. Long-living women are also more likely to be sympathetic and cooperative than women with a normal life span. These findings are in agreement with what you would expect from the evolutionary theory: those who like to make friends and help others can gather enough resources to make it through tough times. Interestingly, however, other characteristics that you might consider advantageous had no impact on whether study participants were likely to live longer. Those who were more self-disciplined, for instance, were no more likely to live to be very old. Also, being open to new ideas had no relationship to long life, which might explain all those bad-tempered old people who are fixed in their ways. Whether you can successfully change your personality as an adult is the subject of a longstanding psychological debate. But the new paper suggests that if you want long life, you should strive to be as outgoing as possible. Unfortunately, another recent study shows that your mother's personality may also help determine your longevity. That study looked at nearly 28,000 Norwegian mothers and found that those moms who were more anxious, depressed and angry were more likely to feed their kids unhealthy diets. Patterns of childhood eating can be hard to break when we're adults, which may mean that kids of depressed moms end up dying younger. Personality isn't destiny(命运), and everyone knows that individuals can learn to change. But both studies show that long life isn't just a matter of your physical health but of your mental health.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "The aim of the study in the Journal of the American Geriatrics Society is_______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "to see whether people's personality affects their life span"
+              },
+              {
+                "l": "B",
+                "t": "to find out if one's lifestyle has any effect on their health"
+              },
+              {
+                "l": "C",
+                "t": "to investigate the role of exercise in living a long life"
+              },
+              {
+                "l": "D",
+                "t": "to examine all the factors contributing to longevity"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What does the author imply about outgoing and sympathetic people?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have a good understanding of evolution."
+              },
+              {
+                "l": "B",
+                "t": "They are better at negotiating an agreement."
+              },
+              {
+                "l": "C",
+                "t": "They generally appear more resourceful."
+              },
+              {
+                "l": "D",
+                "t": "They are more likely to get over hardship."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What finding of the study might prove somewhat out of our expectation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Easy-going people can also live a relatively long life."
+              },
+              {
+                "l": "B",
+                "t": "Personality characteristics that prove advantageous actually vary with times."
+              },
+              {
+                "l": "C",
+                "t": "Such personality characteristics as self-discipline have no effect on longevity."
+              },
+              {
+                "l": "D",
+                "t": "Readiness to accept new ideas helps one enjoy longevity."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What does the recent study of Norwegian mothers show?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Children's personality characteristics are invariably determined by their mothers."
+              },
+              {
+                "l": "B",
+                "t": "People with unhealthy eating habits are likely to die sooner."
+              },
+              {
+                "l": "C",
+                "t": "Mothers' influence on children may last longer than fathers'."
+              },
+              {
+                "l": "D",
+                "t": "Mothers' negative personality characteristics may affect their children's life spans."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What can we learn from the findings of the two new studies?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Anxiety and depression more often than not cut short one's life span."
+              },
+              {
+                "l": "B",
+                "t": "Longevity results from a combination of mental and physical health."
+              },
+              {
+                "l": "C",
+                "t": "Personality plays a decisive role in how healthy one is."
+              },
+              {
+                "l": "D",
+                "t": "Health is in large part related to one's lifestyle."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "功夫 (Kung Fu)是中国武术 (martial arts)的俗称。中国武术的起源可以追溯到自卫的需要、狩猎活动以及 古代中国的军事训练。它是中国传统体育运动的一种,年轻人和老年人都练。它已逐渐演变成了中国文化的独 特元素。作为中国的国宝, 功夫有上百种不同的风格,是世界上练得最多的武术形式。有些风格模仿了动物的动 作, 还有一些则受到了中国哲学思想、神话和传说的启发。",
+    "reference": "Kung Fu is the popular name for Chinese martial arts. The origins of Chinese martial arts can be traced back to the need for self-defense, hunting activities and ancient Chinese military training. It is a form of traditional Chinese sports practiced by both the young and the old. It has gradually evolved into a unique element of Chinese culture. As a national treasure of China, Kung Fu has hundreds of different styles and is the most practiced martial art form in the world. Some styles imitate the movements of animals, while others are inspired by Chinese philosophy, mythology and legends."
+  }
+}

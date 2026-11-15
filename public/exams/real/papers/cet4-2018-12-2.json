@@ -1,0 +1,1328 @@
+{
+  "id": "cet4-2018-12-2",
+  "level": "cet4",
+  "year": 2018,
+  "month": 12,
+  "set": 2,
+  "title": "2018年12月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on the challenges of studying abroad. You should write at least 120 words but no more than 180 words.",
+    "sample": "An increasing number of Chinese students choose to pursue their degrees overseas every year. While studying abroad broadens one's horizons, it also confronts young people with a series of tough challenges that should not be underestimated.To begin with, the language barrier is perhaps the most immediate obstacle. Many students struggle to adapt to lectures delivered at native speed, and following classroom discussions can be exhausting. What's more, cultural differences often leave newcomers confused; from dining habits to ways of communicating, everything demands time to get used to. In addition, being far from family frequently triggers homesickness and loneliness, especially during festivals when there is no one familiar around to share the moment.In my view, these difficulties, though real, are far from insurmountable. As long as we keep an open mind, reach out for help actively and give ourselves time to adjust, we can gradually overcome them and turn the experience abroad into a rewarding journey of growth."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A man was pulled to safety after a building collapse."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A beam about ten feet long collapsed to the ground."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A rescue worker got trapped in the basement."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A deserted 100-year-old building caught fire."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He suffered a fatal injury in an accident."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He once served in a fire department."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was collecting building materials."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He moved into his neighbor's old house.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Rescue crews pulled a man to safety after a collapse at a construction site in Brooklyn on Tuesday. The incident happened on the 400 block of Rutland Road just after 12:30 p.m. The Fire Department of New York says the vacant 100-year-old building being pulled down partially collapsed. A man described as a \"non-worker civilian\" was buried up to his waist in the basement. The man was collecting building materials when the first floor collapsed underneath him. He was trapped under a beam about 10 feet below the surface for nearly an hour and a half. The man was then taken to hospital. Officials said he is in stable condition with non-life-threatening injuries. The building was reportedly purchased by a neighboring church in 2011. It was the site of a 2006 fire and has remained vacant ever since.",
+                "zh": "周二，救援人员在Brooklyn一处建筑工地发生坍塌后将一名男子救至安全地带。事故发生在Rutland Road 400街区，时间刚过下午12点30分。纽约消防局表示，这栋正在拆除的有100年历史的空置建筑发生了部分坍塌。一名被描述为\"非工人平民\"的男子被埋在地下室，齐腰深。该男子在收集建筑材料时，一楼在他脚下坍塌。他被困在地表下约10英尺的一根横梁下，时间长达近一个半小时。随后该男子被送往医院。官员称他情况稳定,伤势不危及生命。据报道,这栋建筑于2011年被邻近的一座教堂购买。它曾是2006年火灾的发生地，此后一直空置。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Improve the maths skills of high school teachers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Change British people's negative view of maths."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help British people understand their paychecks."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Launch a campaign to promote maths teaching."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Children take maths courses at an earlier age."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The public sees the value of maths in their life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "British people know how to do elementary calculations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Primary school teachers understand basic maths concepts.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Millions of people are struggling to understand their paychecks or calculate money in shops, campaigners have said. Being bad at maths should no longer be seen as a badge of honor or down to genetics, according to National Numeracy, a new organization which aims to challenge the nation's negative view of the subject. Chris Humphries, chairman of the group, said that poor maths skills can affect an individual's life, leaving them at a higher risk of being excluded from school, or out of work. \"Figures from a government survey, published last year, show that 17 million adults in England have basic maths skills that are, at best, the same as an 11-year-old,\" he said. Speaking at the launch of National Numeracy, Mr. Humphries said, \"That's a scary figure, because what it means is they often can't calculate or give change.\" Mike Ellicock, chief executive of National Numeracy, said, \"We want to challenge this 'I can't do maths' attitude that is prevalent in the UK,\" adding that it was vital that all primary school teachers understand key maths concepts, as young children who fail to learn the basics will suffer later on.",
+                "zh": "活动人士表示,数百万人正在努力理解自己的工资单或在商店里计算金额。据National Numeracy这一新成立的旨在挑战国家对该学科负面看法的组织称,数学不好不应再被视为一种荣誉标志或归咎于遗传。该组织主席Chris Humphries表示,数学能力差会影响个人生活,使他们面临更高的被学校开除或失业的风险。他说:\"去年公布的一项政府调查数据显示,英格兰有1700万成年人的基础数学能力充其量与11岁儿童相当。\"Humphries先生在National Numeracy成立仪式上表示:\"这是一个可怕的数字,因为这意味着他们往往无法计算或找零。\"National Numeracy首席执行官Mike Ellicock说:\"我们想要挑战英国普遍存在的'我不会数学'这种态度。\"他补充说,所有小学教师理解关键数学概念至关重要,因为未能学习基础知识的幼儿日后会受到影响。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He owns a fleet of aircraft."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is learning to be a pilot."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He regards his royal duties as a burden."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He held a part-time job for over 20 years."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He can demonstrate his superior piloting skills."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He can change his focus of attention and relax."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He can show his difference from other royalty."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He can come into closer contact with his people."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They enjoyed his company."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They liked him in his uniform."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They rarely recognised him."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were surprised to see him."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The Dutch king has revealed that for more than two decades, he has held down a part-time second job alongside his royal duties. King Willem-Alexander of the Netherlands said that he recently ended his role as a regular \"guest pilot\" after 21 years with the national airline's fleet of now-outdated aircraft. As a guest flier, the king worked about twice a month, always as co-pilot. He will now retrain to fly the bigger Boeing 737s as the old planes are being phased out of service. The 50-year-old father of three and king to 17 million Dutch citizens calls flying a \"hobby.\" It lets him leave his royal duties on the ground and fully focus on something else. \"You have an aircraft, passengers and crew. You have responsibility for them,\" the king said. \"You can't take your problems from the ground into the skies. You can completely change focus and concentrate on something else. That, for me, is the most relaxing part of flying.\" Willem-Alexander said he is rarely recognised by passengers. Very few people pay attention to him as he walks through the airport in his airline uniform and cap.",
+                "zh": "荷兰国王透露，二十多年来，他在履行王室职责的同时还兼职从事第二份工作。荷兰国王威廉-亚历山大表示，他最近结束了在国家航空公司机队中担任常规\"客座飞行员\"的角色，这一工作他坚持了21年，驾驶的是现已过时的飞机。作为客座飞行员,国王每月工作约两次,始终担任副驾驶。随着旧飞机逐步退出服务,他现在将重新接受培训以驾驶更大的波音737飞机。这位50岁的三个孩子的父亲、1700万荷兰公民的国王称飞行是一种\"爱好\"。这让他能够将王室职责留在地面上,全神贯注于其他事情。\"你有一架飞机、乘客和机组人员。你对他们负有责任,\"国王说。\"你不能把地面上的问题带到天空中。你可以完全转换焦点,专注于其他事情。对我来说,这是飞行中最放松的部分。\"威廉-亚历山大说,乘客很少认出他。当他穿着航空公司制服和帽子走过机场时,很少有人注意到他。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were skilled carpenters themselves."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It didn't need much capital to start with."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Wood supply was plentiful in Romania."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They saw a business opportunity there."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Provide quality furniture at affordable prices."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Attract foreign investment to expand business."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enlarge their company by hiring more workers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Open some more branch companies in Germany."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are from her hometown."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are imported from Germany."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They all come from Romania."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They come from all over the continent."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All across Europe."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Throughout the world."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Mostly in Bucharest."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In Romania only.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Morning, Miss Semenov. Welcome to our studio.",
+                "zh": "M: 早上好，Semenov女士。欢迎来到我们的演播室。"
+              },
+              {
+                "en": "W: Thanks. My pleasure.",
+                "zh": "W: 谢谢。我的荣幸。"
+              },
+              {
+                "en": "M: OK then. Let me start by asking you how old your company is.",
+                "zh": "M: 好的。那让我先问问您的公司成立多久了。"
+              },
+              {
+                "en": "W: My grandparents started the company in 1955.",
+                "zh": "W: 我的祖父母在1955年创办了这家公司。"
+              },
+              {
+                "en": "M: Why did they decide to open a furniture plant in Bucharest?",
+                "zh": "M: 他们为什么决定在Bucharest开一家家具厂呢？"
+              },
+              {
+                "en": "W: At that time there was a construction boom. There was a great need for furniture and my grandparents saw a business opportunity. Their aim was to provide quality yet affordable wooden furniture. And this goal has never changed.",
+                "zh": "W: 那时候正值建筑热潮。对家具的需求很大，我的祖父母看到了商机。他们的目标是提供优质且价格实惠的木制家具。这个目标从未改变过。"
+              },
+              {
+                "en": "M: Do you still only work with wood?",
+                "zh": "M: 你们现在还是只做木制家具吗？"
+              },
+              {
+                "en": "W: That's right. It's what we know and what we do best. If we started trying different materials, our quality would probably suffer.",
+                "zh": "W: 没错。这是我们擅长的，也是我们做得最好的。如果我们开始尝试不同的材料，质量可能会下降。"
+              },
+              {
+                "en": "M: And all the wood is local?",
+                "zh": "M: 所有的木材都是本地的吗？"
+              },
+              {
+                "en": "W: Correct. A hundred percent of our raw material comes from Romania.",
+                "zh": "W: 是的。我们百分之百的原材料都来自Romania。"
+              },
+              {
+                "en": "M: Could you please outline how the company has grown over time? What have been the main challenges and opportunities that you have faced?",
+                "zh": "M: 您能概括一下公司是如何发展壮大的吗？你们面临过哪些主要的挑战和机遇？"
+              },
+              {
+                "en": "W: Well, back in the '50s and '60s, Romania was a lot poorer than it is today. My grandfather and father did not have much capital, and our customers didn't have much money either. So that limited growth. The big change was in 2007 when Romania joined the European Union. Suddenly, our market exploded in size and we could now sell our products all across the continent. There was also more financial investment. And, as a result, we went from having 20 employees to 200.",
+                "zh": "W: 嗯，在50年代和60年代，Romania比现在穷得多。我的祖父和父亲没有多少资金，我们的客户也没有多少钱。所以这限制了发展。重大转变是在2007年Romania加入欧盟的时候。突然间，我们的市场规模爆发式增长，我们现在可以在整个欧洲大陆销售产品了。还有更多的金融投资。结果，我们从20名员工增加到了200名。"
+              },
+              {
+                "en": "M: Which countries are your biggest markets?",
+                "zh": "M: 哪些国家是你们最大的市场？"
+              },
+              {
+                "en": "W: Besides Romania, our biggest market is Germany. There is strong demand there for our traditional style of furniture.",
+                "zh": "W: 除了Romania，我们最大的市场是Germany。那里对我们传统风格的家具有很强的需求。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Go to a concert with him and his girlfriend."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Try out a new restaurant together in town."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Go with him to choose a pearl for Susan."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Attend the opening of a local restaurant."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is sponsored by local restaurants."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It specializes in food advertizing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is especially popular with the young."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It provides information on local events."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They design a special set of menus for themselves."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They treat themselves to various entertainments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They go to eat at different stylish restaurants."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They participate in a variety of social events."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More restaurants will join Restaurant Week."
+                  },
+                  {
+                    "l": "B",
+                    "t": "This year's Restaurant Week will start soon."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Bigger discounts will be offered this Restaurant Week."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More types of food will be served this Restaurant Week."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Have you heard about the new restaurant, the Pearl? Susan and I are going to try it out this weekend. We have a reservation on Saturday at 7 o'clock. I can call to add two more to the table if you'd like.",
+                "zh": "M: 你听说过那家新餐厅 the Pearl 吗？Susan 和我打算这个周末去试试。我们星期六晚上7点有预订。如果你们想去的话，我可以打电话加两个人。"
+              },
+              {
+                "en": "W: That sounds great. We'd love to join you. You always seem to know the best places to go. Where do you hear about these things?",
+                "zh": "W: 听起来不错。我们很乐意加入。你似乎总是知道最好的去处。你从哪儿听说这些的？"
+              },
+              {
+                "en": "M: I have a habit of reading (614) Magazine. It has all the information on local events within the (614) column code area.",
+                "zh": "M: 我有看 (614) Magazine 的习惯。它有 (614) 区号范围内所有本地活动的信息。"
+              },
+              {
+                "en": "W: That was a clever name for the magazine then. Does it only focus on new restaurant openings?",
+                "zh": "W: 那这个杂志名字起得真聪明。它只关注新餐厅开业吗？"
+              },
+              {
+                "en": "M: They have other information too. Things like concerts, festivals and small shops. I think the restaurant information and reviews are the most exciting though. Each year they also sponsor a local event called Restaurant Week.",
+                "zh": "M: 他们也有其他信息。比如音乐会、节日和小商店之类的。不过我觉得餐厅信息和评论是最令人兴奋的。每年他们还会赞助一个叫餐厅周的本地活动。"
+              },
+              {
+                "en": "W: Restaurant Week? What's that?",
+                "zh": "W: 餐厅周？那是什么？"
+              },
+              {
+                "en": "M: Oh, it's wonderful. All the stylish restaurants participate. They have special set menus for the week, usually in spring, at a number of different price points. Susan and I go to at least three different places during the event. It's a great opportunity to try some of the more expensive restaurants at a discounted price and try something new. That's how we found the Pearl, actually.",
+                "zh": "M: 哦，太棒了。所有时尚餐厅都会参与。他们在那一周有特别的套餐，通常在春天，有几个不同的价位。Susan 和我在活动期间至少会去三家不同的餐厅。这是一个以折扣价尝试一些更贵的餐厅、尝试新东西的好机会。实际上我们就是这样发现 the Pearl 的。"
+              },
+              {
+                "en": "W: Wow, that's an event I would be interested in. When will it be happening this year?",
+                "zh": "W: 哇，那是我会感兴趣的活动。今年什么时候举办？"
+              },
+              {
+                "en": "M: You are in luck. Restaurant Week starts in just a few days, the first Sunday in May. Let's make sure they set a double date during the event. Just let me know what type of food you would like to try.",
+                "zh": "M: 你很幸运。餐厅周几天后就开始了，五月的第一个星期天。我们一定要在活动期间安排一次双人约会。告诉我你想尝试什么类型的食物就行。"
+              },
+              {
+                "en": "W: Okay, I will.",
+                "zh": "W: 好的，我会的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Rewarding them for eating vegetables."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Exposing them to vegetables repeatedly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Improving the taste of vegetable dishes for them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Explaining the benefits of eating vegetables to them."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were disliked most by children."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were considered most nutritious."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were least used in Belgian cooking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were essential to children's health."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Vegetables differ in their nutritional value."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Children's eating habits can be changed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Parents watch closely what children eat."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Children's choices of food vary greatly.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "All parents know it is difficult to get children to eat their vegetables. Some of them offer rewards or treats for children finishing their share. But researchers have discovered that youngsters who are not praised for trying vegetables are more likely to eat them eventually. The study found that the best way to get children to eat food they do not like is simply to give them repeated exposure to it. Psychologists from Ghent University in Belgium studied 98 children. They gave them five kinds of vegetables to eat—mushrooms, peas, eggplants, carrots and cabbages. The taste tests revealed that carrots were the least-liked vegetable among youngsters. The children were then given a bowl of boiled carrots and told to choose how much to eat. After 8 minutes, they were asked to rate the dish as \"delicious,\" \"just OK\" or \"disgusting.\" The trial went on twice a week for a month, with a follow-up taste test after 8 weeks. Children were split into three groups, with one group asked to try the bowl of carrots repeatedly with no further encouragement. The other two groups were given rewards of a toy or verbal praise. (18) After the trial, 81% of children who simply tried the carrots consistently liked them. This is in contrast to 68% for the group given a toy and 75% for the group given verbal praise.",
+                "zh": "所有父母都知道让孩子吃蔬菜很困难。有些父母会为孩子吃完自己那份蔬菜提供奖励或零食。但研究人员发现,那些因尝试吃蔬菜而未受到表扬的孩子最终更有可能吃蔬菜。该研究发现,让孩子吃他们不喜欢的食物的最佳方法就是简单地让他们反复接触这种食物。比利时根特大学的心理学家对98名儿童进行了研究。他们给孩子们吃五种蔬菜——蘑菇、豌豆、茄子、胡萝卜和卷心菜。味觉测试显示,胡萝卜是孩子们最不喜欢的蔬菜。然后,孩子们得到一碗煮熟的胡萝卜,并被告知自己选择吃多少。8分钟后,他们被要求将这道菜评为\"好吃\"、\"还可以\"或\"恶心\"。试验每周进行两次,持续一个月,并在8周后进行跟进味觉测试。孩子们被分为三组,其中一组被要求反复尝试这碗胡萝卜,没有进一步的鼓励。另外两组则获得了玩具奖励或口头表扬。试验结束后,81%持续尝试胡萝卜的孩子喜欢上了它们。相比之下,获得玩具奖励的那组为68%,获得口头表扬的那组为75%。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Space exploration has serious consequences."
+                  },
+                  {
+                    "l": "B",
+                    "t": "India has many space exploration programs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There is quite a lot to learn about the moon."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A lot of garbage has been left on the moon."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is costly to bring back."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is risky to destroy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is of no use on Earth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is damaged by radiation."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Record details of space exploration."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Monitor the change of lunar weather."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Study the effect of radiation and vacuum on its materials."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Explore the possibility of human settlement on the moon.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "One thing about the moon many people don't know is that it has a lot of garbage on its surface, left over from human space exploration. But how much garbage exactly have humans left on the moon? It's hard to be accurate, but the trash likely weighs more than 181,000 kilograms on Earth. Much of it was left by American astronauts who landed on the lunar surface between 1969 and 1972 during NASA's Apollo missions. The other rubbish comes from missions that did not have human crews. These missions were conducted by various space exploring agencies, including those from the US, Russia, Japan, India, and Europe. Many of the older pieces are equipment sent to learn about the moon. The equipment stayed there after its missions ended. The moon is also home to lunar orbiters that mapped the moon before they crashed into its surface, adding to the garbage heap. The objects left by the Apollo astronauts included equipment that was no longer needed. Bringing back unneeded equipment would have used up precious resources such as fuel. But, as the saying goes, one person's trash is another's treasure. Researchers can study the garbage left on the moon to see how its materials weathered the radiation and vacuum of space over time. Moreover, some of the objects on the moon are still being used, including a laser-range reflector left by the Apollo 11 crew.",
+                "zh": "关于月球，许多人不知道的一件事是它的表面有大量垃圾，这些垃圾是人类太空探索留下的。但是人类究竟在月球上留下了多少垃圾？很难准确统计，但这些垃圾在地球上的重量可能超过181,000千克。其中大部分是1969年至1972年间NASA阿波罗任务期间登陆月球表面的美国宇航员留下的。其他垃圾来自没有人类机组人员的任务。这些任务是由各个太空探索机构执行的，包括来自美国、俄罗斯、日本、印度和欧洲的机构。许多较旧的物品是为了解月球而发送的设备。这些设备在任务结束后留在了那里。月球上还有在撞向月球表面之前绘制月球地图的月球轨道器，它们也增加了垃圾堆。阿波罗宇航员留下的物品包括不再需要的设备。带回不需要的设备会消耗宝贵的资源，比如燃料。但是，正如俗话说的，一个人的垃圾是另一个人的宝藏。研究人员可以研究留在月球上的垃圾，了解其材料如何随时间经受辐射和太空真空的影响。此外，月球上的一些物品仍在使用，包括阿波罗11号机组人员留下的激光测距反射器。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is likely to remain a means of business communication."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is likely to be a competitor of various messaging apps."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will gradually be replaced by social media."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will have to be governed by specific rules."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Save the message in their file."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make a timely response."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Examine the information carefully."
+                  },
+                  {
+                    "l": "D",
+                    "t": "See if any action needs to be taken."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is to be passed on."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is mostly junk."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It requires no reply."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It causes no concern."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Make it as short as possible."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Use simple and clear language."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Adopt an informal style of writing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Avoid using capitals for emphasis."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In my line of work, I receive a lot of emails. I also send a lot of emails. Though social media and messaging apps have taken over some of the roles from email as a form of communication, email is likely to retain an important role for business communication in the future. Surprisingly, though, a lot of companies and organizations lack formal guidelines for emailing. As most of you will soon be entering the workforce, I would like to share with you my own rules for emailing. If someone sends you an email, reply to them acknowledging the email. A simple \"thank you\" lets the sender know that their email has arrived safely, that it has not been lost among what could be 50 other emails that have arrived in your email inbox that day. It's not necessary to reply to a mass email sent to numerous recipients. These emails are often informative rather than personalized correspondence requiring a response or action. But it's common politeness to respond to a personal message, preferably within 24 hours of receiving it. It's also important to use proper English. Just because emails are a quick form of communication, doesn't mean emails, especially business emails, should be written using informal shortened forms of words. Think of an email as a letter. Spelling, grammar and punctuation should not be overlooked. And never use capitals to emphasize a word or words in an email. It's the same as yelling.",
+                "zh": "在我的工作中，我收到很多电子邮件。我也发送很多电子邮件。尽管社交媒体和即时通讯应用已经接管了电子邮件作为通讯形式的部分角色，但电子邮件在未来很可能会在商务沟通中保持重要地位。然而令人惊讶的是，许多公司和组织缺乏正式的电子邮件使用指南。由于你们大多数人很快就会进入职场，我想与你们分享我自己的电子邮件使用规则。如果有人给你发送电子邮件，请回复他们以确认收到邮件。一句简单的\"谢谢\"能让发件人知道他们的邮件已安全送达，没有在当天可能收到的其他50封邮件中丢失。不必回复发送给众多收件人的群发邮件。这些邮件通常是信息性的，而非需要回复或行动的个性化通信。但回复私人信息是基本的礼貌，最好在收到邮件后24小时内回复。使用正确的英语也很重要。电子邮件是一种快速的沟通形式并不意味着电子邮件，尤其是商务邮件，应该使用非正式的缩略词形式来书写。把电子邮件当作一封信来看待。拼写、语法和标点符号不应被忽视。而且永远不要在电子邮件中使用大写字母来强调某个或某些单词。这和大声喊叫是一样的。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Have you ever used email to apologize to a colleague? Delivered a"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to a subordinate(下属) with a voice-mail message? Flown by plane across the country just to deliver important news in person? The various communication options at our fingertips today can be good for"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "and productivity—and at the same time very troublesome. With so many ways to communicate, how should a manager choose the one that's best—"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "when the message to be delivered is bad or unwelcome news for the recipient? We've"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "business communication consultants and etiquette(礼仪) experts to come up with the following guidelines for"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "using the alternative ways of delivering difficult messages. First of all, choose how personal you want to be. A face-to-face communication is the most"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ". Other choices, in descending order of personalization, are: a real-time phone call, a voice-mail message, a handwritten note, a typewritten letter, and the most"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "is email. Some of these may change order according to the"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "situation or your own preferences; for example, a handwritten note might seem more personal than voice-mail. How do you decide on the best choice for the difficult message you've got to deliver? \"My"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "concern is: How can I soften or civilize this message?\" says etiquette expert Dana Casperson. \"So when I apologize, I usually choose in-person first, or a phone conversation as my top alternative, and maybe a handwritten note next. Apologizing by email is something I now totally"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "avoid"
+        },
+        {
+          "l": "B",
+          "w": "convenience"
+        },
+        {
+          "l": "C",
+          "w": "effectively"
+        },
+        {
+          "l": "D",
+          "w": "escape"
+        },
+        {
+          "l": "E",
+          "w": "intimate"
+        },
+        {
+          "l": "F",
+          "w": "particularly"
+        },
+        {
+          "l": "G",
+          "w": "primary"
+        },
+        {
+          "l": "H",
+          "w": "prompt"
+        },
+        {
+          "l": "I",
+          "w": "reward"
+        },
+        {
+          "l": "J",
+          "w": "silent"
+        },
+        {
+          "l": "K",
+          "w": "specific"
+        },
+        {
+          "l": "L",
+          "w": "surveyed"
+        },
+        {
+          "l": "M",
+          "w": "unfriendly"
+        },
+        {
+          "l": "N",
+          "w": "warning"
+        },
+        {
+          "l": "O",
+          "w": "witnessed"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "N"
+        },
+        {
+          "n": 27,
+          "a": "B"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "M"
+        },
+        {
+          "n": 33,
+          "a": "K"
+        },
+        {
+          "n": 34,
+          "a": "G"
+        },
+        {
+          "n": 35,
+          "a": "A"
+        }
+      ]
+    },
+    "matching": {
+      "title": "How a Poor, Abandoned Parisian Boy Became a Top Chef",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "The busy streets in Paris were uneven and caked in thick mud, but there was always a breathtaking sight to see in the shop windows of Patisserie de la Rue de la Paix. By 1814, people crowded outside the bakery, straining for a glimpse of the latest sweet food created by the young chef who worked inside."
+        },
+        {
+          "l": "B",
+          "t": "His name was Marie-Antoine Carême, and he had appeared, one day, almost out of nowhere. But in his short lifetime, which ended exactly 184 years ago today, he would forever revolutionize French gourmet food(美 食), write best-selling cook books and think up magical dishes for royals and other important people."
+        },
+        {
+          "l": "C",
+          "t": "Carême's childhood was one part tragedy, equal part mystery. Born the 16th child to poor parents in Paris in either 1783 or 1784, a young Carême was suddenly abandoned at the height of the French Revolution. At 8 years old, he worked as a kitchen boy for a restaurant in Paris in exchange for room and board. By age 15, he had become an apprentice(学徒) to Sylvain Bailly, a well-known dessert chef with a successful bakery in one of Paris's most fashionable neighborhoods."
+        },
+        {
+          "l": "D",
+          "t": "Carême was quick at learning in the kitchen. Bailly encouraged his young apprentice to learn to read and write. Carême would often spend his free afternoons at the nearby National Library reading books on art and architecture. In the back room of the little bakery, his interest in design and his baking talent combined to work wonders—he shaped delicious masterpieces out of flour, butter and sugar."
+        },
+        {
+          "l": "E",
+          "t": "In his teenage years, Carême fashioned eatable copies of the late 18th century's most famous buildings— cookies in the shape of ruins of ancient Athens and pies in the shape of ancient Chinese palaces and temples. Sylvain Bailly, his master, displayed these luxuriant creations—often as large as 4 feet tall—in his bakery windows."
+        },
+        {
+          "l": "F",
+          "t": "Carême's creations soon captured the discriminating eye of a French diplomat, Charles Maurice de Talleyrand- Périgord. Around 1804, Talleyrand challenged Carême to produce a full menu for his personal castle, instructing the young baker to use local, seasonal fruits and vegetables and to avoid repeating main dishes over the course of an entire year. The experiment was a grand success and Talleyrand's association with French nobility would prove a profitable connection for Carême."
+        },
+        {
+          "l": "G",
+          "t": "French Emperor Napoleon Bonaparte was known to be unimpressed by the declining taste of early 18th century cooking, but under pressure to entertain Paris's high society, he too called Carême to his kitchen at Tuileries Palace. In 1810, Carême designed the extraordinary cake for the wedding of Napoleon and his second bride, Marie-Louise of Austria. He became one of the first modern chefs to focus on the appearance of his table, not just the flavor of his dishes. \"I want order and taste. A well-displayed meal is enhanced one hundred percent in my eyes,\" he later wrote in one of his cook books."
+        },
+        {
+          "l": "H",
+          "t": "In 1816, Carême began a culinary(烹饪的) journey which would forever mark his place as history's first top chef. He voyaged to England to cook in the modern Great Kitchen of the prince regent(摄政王), George Ⅳ, and crossed continents to prepare grand banquets for the tables of Tsar Alexander Ⅰ of Russia. Never afraid to talk up his own accomplishments, a boastful Carême made a fortune as wealthy families with social ambitions invited him to their kitchens. Later, in his cook books, he would often include a sketch of himself, so that people on the street would be able to recognize—and admire—him."
+        },
+        {
+          "l": "I",
+          "t": "Carême's cooking displays became the symbol of fine French dining; they were plentiful, beautiful and imposing. Guests would fall silent in wonder as servants carried Carême's fancy creations into the dining hall. For a banquet celebrating the Grand Duke Nicholas of Russia's visit to George Ⅳ's Brighton Pavilion on Jan. 18, 1817, the menu featured 120 different dishes, highlighting eight different soups, 40 main courses, and 32 desserts."
+        },
+        {
+          "l": "J",
+          "t": "As he traveled through the homes of early 19th century nobility, Carême forged the new art of French gourmet food. Locked in hot kitchens, Carême created his four \"mother sauces.\" These sauces—béchamel, velouté, espagnole and allemande—formed the central building blocks for many French main courses. He also perfected the soufflé—a baked egg dish, and introduced the standard chef's uniform—the same double-breasted white coat and tall white hat still worn by many chefs today. The white clothing conveyed an image of cleanliness, according to Carême—and in his realm, appearance was everything."
+        },
+        {
+          "l": "K",
+          "t": "Between meals, Carême wrote cook books that would be used in European kitchens for the next century. His manuals including The Royal Parisian Baker and the massive five-volume Art of French Cooking Series (1833-1847, completed after his death) first systematized many basic principles of cooking, complete with drawings and step-by-step directions. Long before television cooking shows, Carême walked readers through common kitchen tasks, instructing them to \"try this for yourself, at home\" as famous American Chef Julia Child might do, many years later."
+        },
+        {
+          "l": "L",
+          "t": "In the end, however, it was the kitchen that did Carême in. Decades of working over coal fires in tight, closed spaces with little fresh air (to ensure his dishes would not get cold) had fatally damaged his lungs. On Jan. 12, 1833, Carême died just before he turned 50."
+        },
+        {
+          "l": "M",
+          "t": "But in his lifetime, Carême, ever confident, could see beyond his short domination in the kitchen. He wanted to \"set the standard for beauty in classical and modern cooking, and prove to the distant future that the French chefs of the 19th century were the most famous in the world,\" as he wrote in his papers."
+        },
+        {
+          "l": "N",
+          "t": "Decades later, chef Auguste Escoffier would build upon Carême's concept of French cuisine(烹饪). But in the very beginning, there was just Carême, the top chef who elevated dining into art."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Carême was among the first chefs who stressed both the appearance and flavor of dishes.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "Carême wanted to show to later generations that French chefs of his time were most outstanding in the world.",
+          "a": "M"
+        },
+        {
+          "n": 38,
+          "s": "Carême benefited greatly from serving a French diplomat and his connections.",
+          "a": "F"
+        },
+        {
+          "n": 39,
+          "s": "Carême learned his trade from a famous dessert chef in Paris.",
+          "a": "C"
+        },
+        {
+          "n": 40,
+          "s": "Carême's creative works were exhibited in the shop windows by his master.",
+          "a": "E"
+        },
+        {
+          "n": 41,
+          "s": "Carême's knowledge of art and architecture helped him create extraordinary desserts out of ordinary ingredients.",
+          "a": "D"
+        },
+        {
+          "n": 42,
+          "s": "Many people in Paris were eager to have a look at the latest sweet food made by Carême.",
+          "a": "A"
+        },
+        {
+          "n": 43,
+          "s": "Carême became extremely wealthy by cooking for rich and socially ambitious families.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "Carême's writings dealt with fundamental cooking principles in a systematic way.",
+          "a": "K"
+        },
+        {
+          "n": 45,
+          "s": "Carême's contribution to French cooking was revolutionary.",
+          "a": "B"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Roughly the size of a soda can, sitting on a bookshelf, a relatively harmless gadget may be turning friends away from your home. The elephant in your living room is your Internet-connected security camera, a device people are increasingly using for peace of mind in their homes. But few stop to think about the effect these devices may have on house guests. Should you tell your friends, for instance, that they're being recorded while you all watch the big game together? \"It's certainly new territory, especially as home security cameras become easier to install,\" says Lizzie Post, president of the Emily Post Institute, America's foremost manners advisors. \"I think it will be very interesting to see what etiquette(礼仪) emerges in terms of whether you tell people you have a camera or not, and whether guests have a right to ask that it be turned off, if it's not a security issue.\" Post wants to make clear that she's not talking about legal rights, but rather personal preferences. She also wants to explain that there are no right or wrong answers regarding manners on this front yet, because the technology is just now becoming mainstream. Besides, the Emily Post Institute doesn't dictate manners. When it comes to security cameras, Post says it's a host's responsibility to make sure guests feel comfortable within their home. \"I'm always a fan of being open and honest.\" For instance, if the host casually acknowledges that there is a camera in the room by telling a story about it, that may be enough to provide an opening for a guest to say if they are uncomfortable. However, if a contractor is working in your home, you don't need to tell them that there are cameras watching. Then again, the air of accountability that the camera generates can also work in contractors' favor. \"If anything does go wrong while they're in the house, they don't want to be blamed for it,\" she says. \"In fact, the camera could be the thing that proves that they didn't steal the $20, or knock the vase off the table.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "For what reason may your friends feel reluctant to visit your home?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The security camera installed may intrude into their privacy."
+              },
+              {
+                "l": "B",
+                "t": "They don't want their photos to be circulated on the Internet."
+              },
+              {
+                "l": "C",
+                "t": "The security camera may turn out to be harmful to their health."
+              },
+              {
+                "l": "D",
+                "t": "They may not be willing to interact with your family members."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does Lizzie Post say is new territory?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The effect of manners advice on the public."
+              },
+              {
+                "l": "B",
+                "t": "Cost of applying new technologies at home."
+              },
+              {
+                "l": "C",
+                "t": "The increasing use of home security devices."
+              },
+              {
+                "l": "D",
+                "t": "Etiquette around home security cameras."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What is Lizzie Post mainly discussing with regard to the use of home security cameras?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Legal rights."
+              },
+              {
+                "l": "B",
+                "t": "Moral issues"
+              },
+              {
+                "l": "C",
+                "t": "Likes and dislikes of individuals."
+              },
+              {
+                "l": "D",
+                "t": "The possible impact on manners."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What is a host's responsibility regarding security cameras, according to Lizzie Post?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Making their guests feel at ease."
+              },
+              {
+                "l": "B",
+                "t": "Indicating where they are."
+              },
+              {
+                "l": "C",
+                "t": "Turning them off in time."
+              },
+              {
+                "l": "D",
+                "t": "Ensuring their guests' privacy."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "In what way can the home security camera benefit visitors to your home?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It can satisfy their curiosity."
+              },
+              {
+                "l": "B",
+                "t": "It can prove their innocence."
+              },
+              {
+                "l": "C",
+                "t": "It can help them learn new technology."
+              },
+              {
+                "l": "D",
+                "t": "It can make their visit more enjoyable."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "PepsiCo is to spend billions of dollars to develop drinks and snacks and reformulate existing ones with lower sugar, salt and fat, as consumers demand healthier options and regulatory pressure intensifies amid an obesity epidemic(流行病). The maker of Mountain Dew and Gatorade has been one of the earlier movers in the industry to offer products with reduced levels of unhealthy ingredients—PepsiCo claims a packet of its chips now contains less salt than a slice of white bread. However, its new 10-year plan makes clear it believes it still has a long way to go. Shifting eating habits, including a sharp drop in consumption of sparkling drinks, have forced radical change on the industry. But those shifts have yet to be reflected in record obesity levels, which stand at 36.5% overall in the US. Indra Nooyi, PepsiCo chairman, said the plan to make its products healthier was important for the company's growth. But on the subject of obesity, she pointed out that consumers' lifestyles have changed significantly, with many people being more sedentary(久坐不动的) not least because more time is spent in front of computers. She said PepsiCo's contribution was to produce healthier snacks that still tasted good. \"Society has to change its habits,\" she added. \"We can't do much to alter sedentary lifestyles, but we can provide consumers with great-tasting products, low in salt, sugar and fat. In the past we had to have a taste trade-off. But we're breaking that trade-off.\" PepsiCo's plan for its foods and drinks is based on guidelines from the World Health Organisation, which last week backed using taxes on sparkling drinks to reduce sugar consumption. Initiatives also include efforts to reduce its environmental impact, water consumption and materials used in packaging by 2025. PepsiCo did not say exactly how much it planned to invest to reach its goals. However, Dr Mehmood Khan, chief scientific officer, said the company had doubled research and development spending in the past five years and was \"committed to sustaining investment\", adding that companies cannot cost-cut their way to increasing sales. PepsiCo's research and development budget in 2015 was $754 million.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "Why is PepsiCo making a policy change?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To win support from the federal government."
+              },
+              {
+                "l": "B",
+                "t": "To be more competitive in the global market."
+              },
+              {
+                "l": "C",
+                "t": "To satisfy the growing needs for healthy foods."
+              },
+              {
+                "l": "D",
+                "t": "To invest more wisely in the soft drink industry."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What does PepsiCo think it will have to do in the future?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Invest more to develop new snacks."
+              },
+              {
+                "l": "B",
+                "t": "Reduce levels of obesity in the US."
+              },
+              {
+                "l": "C",
+                "t": "Change consumers' eating habits."
+              },
+              {
+                "l": "D",
+                "t": "Keep on improving its products."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "Why does PepsiCo plan to alter its products, according to Indra Nooyi?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To ensure the company's future development."
+              },
+              {
+                "l": "B",
+                "t": "To adapt to its customers' changed taste."
+              },
+              {
+                "l": "C",
+                "t": "To help improve its consumers' lifestyles."
+              },
+              {
+                "l": "D",
+                "t": "To break the trade-off in its product design."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What does Indra Nooyi say about the obesity epidemic?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is mainly caused by overconsumption of snacks."
+              },
+              {
+                "l": "B",
+                "t": "It results from high sugar and salt consumption."
+              },
+              {
+                "l": "C",
+                "t": "It is attributable to people's changed lifestyles."
+              },
+              {
+                "l": "D",
+                "t": "It has a lot to do with longer working hours."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What has PepsiCo been doing to achieve its objective?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Studying WHO's guidelines."
+              },
+              {
+                "l": "B",
+                "t": "Increasing its research funding."
+              },
+              {
+                "l": "C",
+                "t": "Expanding its market overseas."
+              },
+              {
+                "l": "D",
+                "t": "Cutting its production costs."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "越来越多的中国人现在的确离不开手机了。他们中的许多人，包括老年人，都使用手机应用程序(apps)保 持联系并拓宽朋友圈。他们也用手机购物、查找信息，因为手机便于携带。此外，使用手机应用程序通信比传 统电话便宜。然而，这种新趋势导致人们在社交时过度依赖手机。事实上，一些年轻人已经变得十分上瘾，以 至于忽视了与家人和朋友面对面的交流。",
+    "reference": "More and more Chinese people indeed cannot live without their cell phones nowadays. Many of them, including the elderly, use mobile apps to keep in touch and expand their circle of friends. They also use cell phones to shop and search for information, because cell phones are easy to carry. Besides, communicating through mobile apps is cheaper than traditional phone calls. However, this new trend leads to people's excessive reliance on cell phones in social interactions. In fact, some young people have become so addicted that they neglect face-to-face communication with their family and friends."
+  }
+}

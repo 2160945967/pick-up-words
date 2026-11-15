@@ -1,0 +1,1312 @@
+{
+  "id": "cet4-2015-12-3",
+  "level": "cet4",
+  "year": 2015,
+  "month": 12,
+  "set": 3,
+  "title": "2015年12月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on the saying “Never go out there to see what happens, go out there to make things happen.” You can cite examples to illustrate the importance of being participants rather than mere onlookers in life. You should write at least 120 words but no more than 180 words.",
+    "sample": "The saying \"Never go out there to see what happens, go out there to make things happen\" urges us to be active creators of our own lives rather than passive bystanders. In my view, this attitude is exactly what turns dreams into reality, and I firmly stand with those who choose to make things happen.Those who merely stand by and watch often let precious opportunities slip away. Take Jack Ma as an example. When most people were still doubting the Internet, he took the initiative to start Alibaba, seizing the chance that others were only observing. Had he chosen to be a mere onlooker, China's e-commerce might never have flourished as it does today. His story shows that only by stepping forward and acting can we shape the outcome.Therefore, we should never wait on the sidelines for good things to appear. Instead, let us take the initiative, seize every opportunity, and become participants who make things happen."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A lawsuit has been filed against Malaysia Airlines."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The missing passengers' bodies have been found."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The cause of the disappearance has been unveiled."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Flight MH370 got lost during its trip to Hong Kong."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "On a beach in Mozambique."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In Malaysia."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In Reunion Island."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In Beijing.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Commemorations are underway to mark two years since Malaysia Airlines flight MH370 vanished en route from Kuala Lumpur to Beijing with 239 people on board. In Beijing, relatives of Chinese passengers on the missing flight have filed a lawsuit against Malaysia Airlines. Despite daily visits to the airline's office to understand what may have happened to their loved ones, they feel they are being ignored. \"We're here to go after Malaysia Airlines, Boeing, Rolls-Royce and anyone else who's responsible, because they didn't provide us with the support we were entitled to. They caused us harm and we will ask for compensation.\" Experts are now studying a piece of debris found last week on a beach in Mozambique. If it's confirmed to be a piece of the missing flight, it would be the second to be washed up on a shore last year, a section of the plane's wing was found off Reunion Island.",
+                "zh": "纪念活动正在进行，以纪念马来西亚航空公司MH370航班失踪两周年，该航班从吉隆坡飞往北京途中失踪,机上有239人。在北京,失踪航班上中国乘客的亲属已对马来西亚航空公司提起诉讼。尽管他们每天都去航空公司办公室了解亲人可能发生了什么,但他们感到自己被忽视了。\"我们来这里是要追究马来西亚航空公司、Boeing、Rolls-Royce以及其他任何负有责任的人,因为他们没有向我们提供我们应得的支持。他们对我们造成了伤害,我们将要求赔偿。\"专家们目前正在研究上周在莫桑比克海滩发现的一块残骸。如果确认是失踪航班的一部分,这将是第二块被冲上岸的残骸,去年在留尼汪岛附近发现了飞机机翼的一部分。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Because they are used to living here."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Because it is cheaper for them to live here."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Because it is easier for them to get a job."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Because the government forced them to live here."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The snowstorm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The bombing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The war."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The starvation.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "This is Lebanon. Nearly two million Syrian refugees have settled. As another harsh winter sets in, many people struggle to keep their tents warm enough for their young children. About 195,000 Syrian families are particularly at risk. The number of years that refugees have stayed here means that they are facing increasing vulnerabilities. All of their savings have been depleted. Many have moved into the settlements because they are cheaper than living in flats or apartments in town. They are not used to these conditions. It is practically impossible to find a job and therefore they have no income and are totally reliant on resources from humanitarian agencies. A snowstorm over the weekend worsened conditions for many families. Some stayed inside huddled around their stoves to keep warm. One refugee says, \"It's important to keep my children alive. The cold is easier than death, barrel bombs and shelling.\"",
+                "zh": "这里是黎巴嫩。近两百万叙利亚难民已在此定居。随着又一个严冬来临,许多人难以让帐篷保持足够温暖以供年幼的孩子居住。约19.5万个叙利亚家庭面临特别高的风险。难民在这里停留的年数意味着他们正面临日益严重的脆弱处境。他们所有的积蓄都已耗尽。许多人搬进定居点是因为那里比在城镇的公寓或住宅便宜。他们不习惯这些条件。找到工作几乎不可能,因此他们没有收入,完全依赖人道主义机构提供的资源。周末的暴风雪使许多家庭的状况进一步恶化。一些人待在室内,围在炉子旁取暖。一位难民说:'让我的孩子活下去很重要。寒冷比死亡、桶装炸弹和炮击更容易承受。'"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Enriching the menu."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Meeting customer needs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Opening new branches."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Improving customer sales."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "U.S.-based McDonald's president."
+                  },
+                  {
+                    "l": "B",
+                    "t": "McDonald's Japan's customer."
+                  },
+                  {
+                    "l": "C",
+                    "t": "McDonald's Japan's president."
+                  },
+                  {
+                    "l": "D",
+                    "t": "U.S.-based McDonald's customer."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In 1971."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In 1991."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In 1997."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In 2015."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Fast-food chain McDonald's is adding French fries with chocolate sauce to its menu in Japan. The new item is called McChoco Potato. A portion of the potatoes and chocolate costs 330 yen, which is around $3. The chocolate fries are McDonald's Japan's attempt to reverse poor sales. According to the Japan Times, McDonald's Japan reported an annual loss of over 34 billion yen, or nearly $300 million, last year. \"Undoubtedly, 2015 was the most challenging year we have faced in our 45-year history,\" said McDonald's Japan's president Sarah Casanova. U.S.-based McDonald's opened its first restaurant in Tokyo in 1971. In the past few years, McDonald's Japan closed hundreds of the restaurants known for their golden arches. Because of the McChoco Potato, customer sales increased in January for the first time in a number of years. \"The chocolate fries have been extremely popular with customers, and actually not just customers in Japan,\" said Casanova. The chocolate-covered French fries debuted January 26. They are available at Japan's McDonald's for a limited time.",
+                "zh": "快餐连锁店McDonald's正在日本菜单中加入配巧克力酱的炸薯条。这款新产品名为McChoco Potato。一份薯条加巧克力售价330日元，约合3美元。巧克力薯条是McDonald's日本试图扭转销售不佳状况的尝试。据《日本时报》报道,McDonald's日本去年公布的年度亏损超过340亿日元,即近3亿美元。McDonald's日本总裁Sarah Casanova表示:\"毫无疑问,2015年是我们45年历史中面临的最具挑战性的一年。\"总部位于美国的McDonald's于1971年在东京开设了首家餐厅。在过去几年中,McDonald's日本关闭了数百家以金色拱门闻名的餐厅。由于McChoco Potato的推出,1月份的顾客销售额多年来首次实现增长。Casanova说:\"巧克力薯条在顾客中极受欢迎,而且实际上不仅仅是日本的顾客。\"这款巧克力炸薯条于1月26日首次亮相。它们在日本的McDonald's限时供应。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Hosting an evening TV program."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having her bicycle repaired."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lecturing on business management."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Conducting a market survey."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He repaired bicycles."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He served as a consultant."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He worked as a salesman."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He coached in a racing club."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He wanted to be his own boss."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He found it more profitable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He didn't want to start from scratch."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He didn't want to be in too much debt."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They work five days a week."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are all the man's friends."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are paid by the hour."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They all enjoy gambling.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Good evening, and welcome to this week's Business World, the program for and about business people. Tonight we have Mr. Steven Kane, who has just taken over an established bicycle shop. Tell us, Mr Kane, what made you want to run your own store?",
+                "zh": "W: 晚上好,欢迎收看本周的《商业世界》,这是一档为商界人士制作的节目。今晚我们请到了Steven Kane先生,他刚刚接手了一家成熟的自行车店。Kane先生,请告诉我们,是什么让您想要经营自己的店铺?"
+              },
+              {
+                "en": "M: Well, I've always loved racing bikes and fixing them. When I was working full-time as a salesman for a big company, I seldom had time to enjoy my hobby. I knew then that as soon as I had enough money to get my own business going, I'd do it. I had my heart set on it and I didn't let anything stand in my way. When I went down to the bank and got a business loan, I knew I'd love being my own boss. Now my time is my own. I open the store when I want and leave when I want.",
+                "zh": "M: 嗯,我一直很喜欢竞速自行车和修理它们。当我在一家大公司做全职销售员的时候,我几乎没时间享受我的爱好。那时我就知道,只要我有足够的钱开始自己的生意,我就会去做。我下定了决心,不让任何事情阻挡我。当我去银行拿到商业贷款的时候,我就知道我会喜欢做自己的老板。现在我的时间是我自己的了。我想什么时候开店就什么时候开,想什么时候走就什么时候走。"
+              },
+              {
+                "en": "W: You mean you don't keep regular hours?",
+                "zh": "W: 您的意思是您不按固定时间营业?"
+              },
+              {
+                "en": "M: Well, the sign on my store says the hours are ten to six, but if business is slower than usual, I can just lock up and take off early.",
+                "zh": "M: 嗯,我店门上的牌子写的是十点到六点营业,但如果生意比平时清淡,我就可以锁上门早点离开。"
+              },
+              {
+                "en": "W: Have you hired any employees to work with you yet?",
+                "zh": "W: 您雇了员工和您一起工作了吗?"
+              },
+              {
+                "en": "M: Yeah, a couple of friends of mine who love biking as much as I do. They help me out a few days a week. It's great because we play cards or just sit around and talk when there are no customers.",
+                "zh": "M: 雇了,几个和我一样热爱骑车的朋友。他们一周帮我几天。这很棒,因为没有顾客的时候我们就打打牌或者坐着聊聊天。"
+              },
+              {
+                "en": "W: Thank you, Mr. Kane. We wish you success in your new business.",
+                "zh": "W: 谢谢您,Kane先生。我们祝您的新生意成功。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has gradually given way to service industry."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It remains a major part of industrial activity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has a history as long as paper processing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It accounts for 80 percent of the region's GDP."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Transport problems."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Shortage of funding."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lack of resources."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Poor management."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Competition from rival companies."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Product promotion campaigns."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Possible locations for a new factory."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Measures to create job opportunities."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It's just so-so."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It's perfect."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It's very good and improving."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It's disappointing."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Well, the main activities in the region were historically steel and paper processing, I think.",
+                "zh": "W: 嗯,这个地区历史上的主要产业是钢铁和造纸加工,我想。"
+              },
+              {
+                "en": "M: Yes, but I'm not quite sure about the status of those industries now. Could you tell us something about that?",
+                "zh": "M: 是的,但我不太确定这些行业现在的状况。你能跟我们说说吗?"
+              },
+              {
+                "en": "W: Yes, of course. In fact, they are less significant, but steel-related manufacturing still accounts for 44% of industrial activity. So it's still very important. In fact, 80% of Spain's machine tools are from the Basque Country. As for paper processing, there's still a little. But it's no longer what it once was in the region. So, is that clear?",
+                "zh": "W: 当然可以。事实上,它们现在没那么重要了,但钢铁相关制造业仍占工业活动的44%。所以还是非常重要的。实际上,西班牙80%的机床都来自巴斯克地区。至于造纸加工,还有一点。但已经不像以前在这个地区那么兴旺了。这样清楚了吗?"
+              },
+              {
+                "en": "M: Yes, thanks.",
+                "zh": "M: 清楚了,谢谢。"
+              },
+              {
+                "en": "W: Now, to get back to what I was saying, there's a lot of unemployment as well as geographical problems in the region.",
+                "zh": "W: 现在,回到我刚才说的,这个地区有很多失业问题,还有地理问题。"
+              },
+              {
+                "en": "M: Sorry, Victoria. What do you mean by geographical problems?",
+                "zh": "M: 抱歉,Victoria。你说的地理问题是什么意思?"
+              },
+              {
+                "en": "W: Well, what I mean is the area is very hilly, mountainous in parts. So there used to be transport problems, now though there are new train links and better roads, but it may be that some smaller towns inland remain not very well-connected. Is that OK? Does that make sense? When we talk about specific location suggestions for the factory, we'll see this in more detail, so we'll come back to this question, OK?",
+                "zh": "W: 嗯,我的意思是这个地区多丘陵,有些地方是山区。所以过去存在交通问题,不过现在有了新的铁路线和更好的公路,但可能内陆的一些小城镇仍然连接得不太好。这样可以吗?明白了吗?当我们谈到工厂的具体选址建议时,我们会更详细地看到这一点,所以我们会回到这个问题,好吗?"
+              },
+              {
+                "en": "M: OK, right.",
+                "zh": "M: 好的,明白。"
+              },
+              {
+                "en": "W: So, I was about to say something about the work force in the region and the level of training and education. In general, it's very good and improving.",
+                "zh": "W: 所以,我正要说说这个地区的劳动力以及培训和教育水平。总的来说,非常好而且在不断提高。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They shared mutual friends in school."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They had known each other since childhood."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They shared many extracurricular activities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They had many interests in common."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "At a local club."
+                  },
+                  {
+                    "l": "B",
+                    "t": "At Joe's house."
+                  },
+                  {
+                    "l": "C",
+                    "t": "At the sports center."
+                  },
+                  {
+                    "l": "D",
+                    "t": "At the boarding school."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Durable friendships can be very difficult to maintain."
+                  },
+                  {
+                    "l": "B",
+                    "t": "One has to be respectful of other people in order to win respect."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is hard for people from different backgrounds to become friends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Social divisions will break down if people get to know each other.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I first met Joe Gumps when we were both 9 years old, which is probably the only reason he is one of my best friends. If I had first met Joe as a freshman in high school, we wouldn't even have had the chance to get to know each other. Joe is a day student, but I am a boarding student. We haven't been in the same classes, sports or extracurricular activities. Nonetheless, I spend nearly every weekend at his house, and we talk on the phone every night. This is not to say that we would not have been compatible if we had first met in our freshman year. Rather, we would not have been likely to spend enough time getting to know each other, due to the lack of immediately visible mutual interests.",
+                "zh": "我第一次遇见Joe Gumps时我们都是9岁,这可能是他成为我最好的朋友之一的唯一原因。如果我是在高中一年级时第一次遇见Joe,我们甚至不会有机会去了解彼此。Joe是一名走读生,而我是一名寄宿生。我们没有上过同样的课程,没有参加同样的体育运动或课外活动。尽管如此,我几乎每个周末都在他家度过,我们每晚都通电话。这并不是说如果我们在高一时第一次见面就不会合得来。相反,由于缺乏立即可见的共同兴趣,我们不太可能花足够的时间去了解彼此。"
+              },
+              {
+                "en": "In fact, to be honest, I struggle even now to think of things we have in common, but maybe that's what makes us enjoy each other's company so much. When I look at my friendship with Joe, I wonder how many people I've known whom I never disliked but simply didn't take the time to get to know. Thanks to Joe, I have realized how little basis there is, for the social divisions that exist in every community. Since this realization, I have begun to make an even more determined effort to find friends in unexpected people and places.",
+                "zh": "事实上,说实话,即使现在我也很难想到我们有什么共同点,但也许正是这一点让我们如此享受彼此的陪伴。当我审视我和Joe的友谊时,我想知道有多少我认识的人,我从未不喜欢过他们,只是没有花时间去了解他们。多亏了Joe,我意识到存在于每个社区中的社会分化是多么缺乏依据。自从有了这个认识,我开始更加坚定地努力在意想不到的人和地方寻找朋友。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Near the entrance of a park."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In his building's parking lot."
+                  },
+                  {
+                    "l": "C",
+                    "t": "At a parking meter."
+                  },
+                  {
+                    "l": "D",
+                    "t": "At a street corner."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It had been taken by the police."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It had been moved to the next block."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It had been stolen by someone."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It had been parked at a wrong place."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "At the Greenville center."
+                  },
+                  {
+                    "l": "B",
+                    "t": "At a public parking lot."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In a neighboring town."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In the city garage.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It was a bad night for Louis. His research in the neighboring town had taken longer than he expected. It was late and he was very tired when he drove home. He turned into his building's parking lot, but all the spaces were full. He drove back out onto the street looking for a parking space. The first block was full. The next block was almost empty. Louis didn't see a no-parking sign, but he suspected that if parking were allowed there, most of the spaces would be filled. Then he saw a small parking lot with two free spaces. He was so glad to see them that he didn't even think to read the sign by the entrance. He drove in, parked, and hurried home to go to bed. The next morning he went back to the lot to get his car. It was gone. He ran home and telephoned the city police to say that his car had been stolen. It took the police only a minute to tell him what had happened. His car had been on a private lot. It had been taken away by the police. Louis had to take a taxi to the city garage far from the center of town. He had to pay a fee of $40 to get his car back. In addition, he got a parking ticket-his first one ever in Greenville.",
+                "zh": "那天晚上对Louis来说很糟糕。他在邻镇的研究工作花费的时间比预期的要长。当他开车回家时已经很晚了，而且非常疲惫。他转进自己大楼的停车场，但所有车位都满了。他把车开回街上寻找停车位。第一个街区停满了。下一个街区几乎是空的。Louis没有看到禁止停车的标志，但他怀疑如果那里允许停车的话，大部分车位应该会被占满。然后他看到了一个有两个空位的小停车场。他看到它们时非常高兴，甚至没有想到要去读入口处的标志。他把车开了进去，停好车，然后匆匆回家睡觉。第二天早上他回到停车场取车。车不见了。他跑回家给市警察局打电话，说他的车被偷了。警察只用了一分钟就告诉他发生了什么事。他的车停在了一个私人停车场上。车已经被警察拖走了。Louis不得不打车去远离市中心的市政车库。他不得不支付40美元的费用才取回他的车。此外,他还收到了一张停车罚单——这是他在Greenville有史以来的第一张罚单。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Famous creative individuals."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The mysteriousness of creativity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A major scientific discovery."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Creativity as shown in arts."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is something people all engage in."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It helps people acquire knowledge."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It starts soon after we are born."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is the source of all artistic work."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Creative imagination."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Logical reasoning."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Natural curiosity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Critical thinking."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is beyond ordinary people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is yet to be fully understood."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is part of everyday life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a unique human trait."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Well, to pick up where we left off last time. I believe we agreed that creativity is a mysterious idea. It's one of those things we all recognize when we see it. But we don't really understand what it is. We seem to feel that some people are naturally creative, but we don't know how they got that way. Is creativity a natural gift like good looks? Or is it something that can be acquired like knowledge? Perhaps if we analyze the creative process carefully, we might get some insight into what it is and how it might work in our lives. The creative process has always been accepted as the source of all important work in the arts. But we should not think that creativity plays a role only in the arts. Every major scientific discovery began with someone imagining the world to look differently from the way others saw it. And this is what creativity is all about: imagining the world in a new way. And despite what you may believe about the limits of your own creative imaginations, we all have the potential to imagine the world in an absolutely new way.",
+                "zh": "好的,让我们从上次讲到的地方继续。我想我们已经达成共识,创造力是一个神秘的概念。它是我们看到时都能识别出来的那类事物之一,但我们并不真正理解它是什么。我们似乎觉得有些人天生富有创造力,但我们不知道他们是如何变成这样的。创造力是像美貌一样的天赋吗?还是像知识一样可以后天习得的东西?也许如果我们仔细分析创造过程,我们可能会对它是什么以及它如何在我们生活中发挥作用获得一些见解。创造过程一直被认为是艺术领域所有重要作品的源泉。但我们不应该认为创造力只在艺术中发挥作用。每一项重大科学发现都始于某人想象世界看起来与他人所见不同。这就是创造力的全部意义:以一种新的方式想象世界。尽管你可能相信自己的创造性想象力存在局限,但我们所有人都有潜力以一种全新的方式想象世界。"
+              },
+              {
+                "en": "In fact, you were born with it. It is your birth right as a human being. And what's more, you use it every day almost every moment of your life. Your creative imagination is what you use to make sense of your experiences. It's your creative mind that gets meaning from the chaos of your experiences and brings order to your world.",
+                "zh": "事实上,你生来就具备这种能力。这是你作为人类与生俱来的权利。而且,你每天几乎每时每刻都在使用它。你的创造性想象力正是你用来理解自己经历的东西。正是你的创造性思维从你混乱的经历中获取意义,并为你的世界带来秩序。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Question"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to 35 are based on the following passage. For many Americans, 2013 ended with an unusually bitter cold spell. Late November and December     26    early snow and bone-chilling temperatures in much of the country, part of a year when, for the first time in two"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ", record-cold days will likely turn out to have outnumbered record-warm ones. But the U. S. was the exception: November was the warmest ever"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ", and current data indicates that 2013 is likely to have been the fourth hottest year on record. Enjoy the snow now, because"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "are good that 2014 will be even hotter, perhaps the hottest year since records have been kept. That's because, scientists are predicting, 2014 will be an El Nino year. El Nino, Spanish for \"the child\","
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "when surface ocean waters in the southern Pacific become abnormally warm. So large is the Pacific, covering 30% of the planet's surface, that the"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "energy generated by its warming is enough to touch off a series of weather changes around the world. El Ninos are"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "with abnormally dry conditions in Southeast Asia and Australia. They can lead to extreme rain in parts of North and South America, even as southern Africa"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "dry weather. Marine life may be affected too: El Ninos can"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "the rising of the cold, nutrient-rich(营养丰富的) water that supports large fish"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ", and the unusually warm ocean temperatures can destroy coral(珊瑚)."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "additional"
+        },
+        {
+          "l": "B",
+          "w": "associated"
+        },
+        {
+          "l": "C",
+          "w": "bore"
+        },
+        {
+          "l": "D",
+          "w": "chances"
+        },
+        {
+          "l": "E",
+          "w": "communicated"
+        },
+        {
+          "l": "F",
+          "w": "decades"
+        },
+        {
+          "l": "G",
+          "w": "experiences"
+        },
+        {
+          "l": "H",
+          "w": "globally"
+        },
+        {
+          "l": "I",
+          "w": "logically"
+        },
+        {
+          "l": "J",
+          "w": "occurs"
+        },
+        {
+          "l": "K",
+          "w": "populations"
+        },
+        {
+          "l": "L",
+          "w": "realize"
+        },
+        {
+          "l": "M",
+          "w": "reduce"
+        },
+        {
+          "l": "N",
+          "w": "saw"
+        },
+        {
+          "l": "O",
+          "w": "Specific"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "N"
+        },
+        {
+          "n": 27,
+          "a": "F"
+        },
+        {
+          "n": 28,
+          "a": "H"
+        },
+        {
+          "n": 29,
+          "a": "D"
+        },
+        {
+          "n": 30,
+          "a": "J"
+        },
+        {
+          "n": 31,
+          "a": "A"
+        },
+        {
+          "n": 32,
+          "a": "B"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "M"
+        },
+        {
+          "n": 35,
+          "a": "K"
+        }
+      ]
+    },
+    "matching": {
+      "title": "How to Eat Well",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Why do so many Americans eat tons of processed food, the stuff that is correctly called junk(垃圾) and should really carry warning labels?"
+        },
+        {
+          "l": "B",
+          "t": "It's not because fresh ingredients are hard to come by. Supermarkets offer more variety than ever, and there are over four times as many farmers' markets in the U.S. as there were 20 years ago. Nor is it for lack of available information. There are plenty of recipes( 食谱) how-to videos and cooking classes available to anyone who has a computer, smartphone or television. If anything, the information is overwhelming."
+        },
+        {
+          "l": "C",
+          "t": "And yet we aren't cooking. If you eat three meals a day and behave like most Americans, you probably get at least a third of your daily calories(卡路里) outside the home. Nearly two thirds of us grab fast food once a week, and we get almost 25% of our daily calories from snacks. So we're eating out or taking in, and we don't sit down—or we do, but we hurry."
+        },
+        {
+          "l": "D",
+          "t": "Shouldn't preparing—and consuming—food be a source of comfort, pride, health, well-being, relaxation, sociability? Something that connects us to other humans? Why should we want to outsource(外包) this basic task, especially when outsourcing it is so harmful?"
+        },
+        {
+          "l": "E",
+          "t": "When I talk about cooking, I'm not talking about creating elaborate dinner parties or three-day science projects. I'm talking about simple, easy, everyday meals. My mission is to encourage green hands and those lacking time or money to feed themselves. That means we need modest, realistic expectations, and we need to teach people to cook food that's good enough to share with family and friends."
+        },
+        {
+          "l": "F",
+          "t": "Perhaps a return to real cooking needn't be far off. A recent Harris poll revealed that 79% of Americans say they enjoy cooking and 30% \"love it\"; 14% admit to not enjoying kitchen work and just 7% won't go near the stove at all. But this doesn't necessarily translate to real cooking, and the result of this survey shouldn't surprise anyone: 52% of those 65 or older cook at home five or more times per week; only a third of young people do."
+        },
+        {
+          "l": "G",
+          "t": "Back in the 1950s most of us grew up in households where Mom cooked virtually every night. The intention to put a home-cooked meal on the table was pretty much universal. Most people couldn't afford to do otherwise."
+        },
+        {
+          "l": "H",
+          "t": "Although frozen dinners were invented in the 40s, their popularity didn't boom until televisions became popular a decade or so later. Since then, packaged, pre-prepared meals have been what's for dinner. The microwave and fast-food chains were the biggest catalyst(催化剂), but the big food companies—which want to sell anything except the raw ingredients that go into cooking—made the home cook an endangered species."
+        },
+        {
+          "l": "I",
+          "t": "Still, I find it strange that only a third of young people report preparing meals at home regularly. Isn't this the same crowd that rails against processed junk and champions craft cooking? And isn't this the generation who say they are concerned about their health and the well-being of the planet? If these are truly the values of many young people, then their behavior doesn't match their beliefs."
+        },
+        {
+          "l": "J",
+          "t": "There have been half-hearted but well-publicized efforts by some food companies to reduce calories in their processed foods, but the Standard American Diet is still the polar opposite of the healthy, mostly plant-based diet that just about every expert says we should be eating. Considering that the government's standards are not nearly ambitious enough, the picture is clear: by not cooking at home, we're not eating the right things, and the consequences are hard to overstate."
+        },
+        {
+          "l": "K",
+          "t": "To help quantify(量化) costs of a poor diet, I recently tried to estimate this impact in terms of a most famous food, the burger(汉堡包). I concluded that the profit from burgers is more than offset(抵消) by the damage they cause in health problems and environmental harm."
+        },
+        {
+          "l": "L",
+          "t": "Cooking real food is the best defense—not to mention that any meal you're likely to eat at home contains about 200 fewer calories than one you would eat in a restaurant."
+        },
+        {
+          "l": "M",
+          "t": "To those Americans for whom money is a concern, my advice is simple: Buy what you can afford, and cook it yourself. The common prescription is to primarily shop the grocery store, since that's where fresh produce, meat and seafood, and dairy are. And to save money and still eat well you don't need local, organic ingredients; all you need is real food. I'm not saying local food isn't better; it is. But there is plenty of decent food in the grocery stores."
+        },
+        {
+          "l": "N",
+          "t": "The other sections you should get to know are the frozen foods and the canned goods. Frozen produce is still produce; canned tomatoes are still tomatoes. Just make sure you're getting real food without tons of added salt or sugar. Ask yourself, would Grandma consider this food? Does it look like something that might occur in nature? It's pretty much common sense: you want to buy food, not unidentifiable foodlike objects."
+        },
+        {
+          "l": "O",
+          "t": "You don't have to hit the grocery store daily, nor do you need an abundance of skill. Since fewer than half of Americans say they cook at an intermediate level and only 20% describe their cooking skills as advanced, the crisis is one of confidence. And the only remedy for that is practice. There's nothing mysterious about cooking the evening meal. You just have to do a little thinking ahead and redefine what qualifies as dinner. Like any skill, cooking gets easier as you do it more; every time you cook, you advance your level of skills. Someday you won't even need recipes. My advice is that you not pay attention to the number of steps and ingredients, because they can be deceiving."
+        },
+        {
+          "l": "P",
+          "t": "Time, I realize, is the biggest obstacle to cooking for most people. You must adjust your priorities to find time to cook. For instance, you can move a TV to the kitchen and watch your favorite shows while you're standing at the sink. No one is asking you to give up activities you like, but if you're watching food shows on TV, try cooking instead."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Cooking benefits people in many ways and enables them to connect with one another.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "Abundant information about cooking is available either online or on TV.",
+          "a": "B"
+        },
+        {
+          "n": 38,
+          "s": "Young people do less cooking at home than the elderly these days.",
+          "a": "F"
+        },
+        {
+          "n": 39,
+          "s": "Cooking skills can be improved with practice.",
+          "a": "O"
+        },
+        {
+          "n": 40,
+          "s": "In the mid-20th century, most families ate dinner at home instead of eating out.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "Even those short of time or money should be encouraged to cook for themselves and their family.",
+          "a": "E"
+        },
+        {
+          "n": 42,
+          "s": "Eating food not cooked by ourselves can cause serious consequences.",
+          "a": "J"
+        },
+        {
+          "n": 43,
+          "s": "To eat well and still save money, people should buy fresh food and cook it themselves.",
+          "a": "M"
+        },
+        {
+          "n": 44,
+          "s": "We get a fairly large portion of calories from fast food and snacks.",
+          "a": "C"
+        },
+        {
+          "n": 45,
+          "s": "The popularity of TV led to the popularity of frozen food.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "The wallet is heading for extinction. As a day-to-day essential, it will die off with the generation who read print newspapers. The kind of shopping—where you hand over notes and count out change in return—now happens only in the most minor of our retail encounters, like buying a bar of chocolate or a pint of milk from a corner shop. At the shops where you spend any real money, that money is increasingly abstracted. And this is more and more true, the higher up the scale you go. At the most cutting-edge retail stores—Victoria Beckham on Dover Street, for instance—you don't go and stand at any kind of cash register when you decide to pay. The staff are equipped with iPads to take your payment while you relax on a sofa. Which is nothing more or less than excellent service, if you have the money. But across society, the abstraction of the idea of cash makes me uneasy. Maybe I'm just old-fashioned. But earning money isn't quick or easy for most of us. Isn't it a bit weird that spending it should happen in half a blink(眨眼) of an eye? Doesn't a wallet—that time-honoured Friday-night feeling of pleasing, promising fatness—represent something that matters? But I'll leave the economics to the experts. What bothers me about the death of the wallet is the change it represents in our physical environment. Everything about the look and feel of a wallet—the way the fastenings and materials wear and tear and loosen with age, the plastic and paper and gold and silver, and handwritten phone numbers and printed cinema tickets—is the very opposite of what our world is becoming. The opposite of a wallet is a smartphone or an iPad. The rounded edges, cool glass, smooth and unknowable as a pebble(鹅卵 石). Instead of digging through pieces of paper and peering into corners, we move our fingers left and right. No more counting out coins. Show your wallet, if you still have one. It may not be here much longer.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What is happening to the wallet?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is disappearing."
+              },
+              {
+                "l": "B",
+                "t": "It is being fattened."
+              },
+              {
+                "l": "C",
+                "t": "It is becoming costly,"
+              },
+              {
+                "l": "D",
+                "t": "It is changing in style."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "How are business transactions done in big modern stores?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Individually."
+              },
+              {
+                "l": "B",
+                "t": "Electronically."
+              },
+              {
+                "l": "C",
+                "t": "In the abstract."
+              },
+              {
+                "l": "D",
+                "t": "Via a cash register."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What makes the author feel uncomfortable nowadays?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Saving money is becoming a thing of the past."
+              },
+              {
+                "l": "B",
+                "t": "The pleasing Friday-night feeling is fading."
+              },
+              {
+                "l": "C",
+                "t": "Earning money is getting more difficult."
+              },
+              {
+                "l": "D",
+                "t": "Spending money is so fast and easy."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "Why does the author choose to write about what's happening to the wallet?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It represents a change in the modern world."
+              },
+              {
+                "l": "B",
+                "t": "It has something to do with everybody's life."
+              },
+              {
+                "l": "C",
+                "t": "It marks the end of a time-honoured tradition."
+              },
+              {
+                "l": "D",
+                "t": "It is the concern of contemporary economists."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What can we infer from the passage about the author?",
+            "o": [
+              {
+                "l": "A",
+                "t": "He is resistant to social changes."
+              },
+              {
+                "l": "B",
+                "t": "He is against technological progress."
+              },
+              {
+                "l": "C",
+                "t": "He feels reluctant to part with the traditional wallet."
+              },
+              {
+                "l": "D",
+                "t": "He feels insecure in the ever-changing modern world."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Everybody sleeps, but what people stay up late to catch—or wake up early in order not to miss—varies by culture. From data collected, it seems the things that cause us to lose the most sleep, on average, are sporting events, time changes, and holidays. Around the world, people changed sleep patterns thanks to the start or end of daylight savings time. Russians, for example, began to wake up about a half-hour later each day after President Vladimir Putin shifted the country permanently to \"winter time\" starting on October 26. Russia's other late nights and early mornings generally correspond to public holidays. On New Year's Eve, Russians have the world's latest bedtime, hitting the hay at around 3:30 a.m. Russians also get up an hour later on International Women's Day, the day for treating and celebrating female relatives. Similarly, Americans' late nights, late mornings, and longest sleeps fall on three-day weekends. Canada got the least sleep of the year the night it beat Sweden in the Olympic hockey(冰球). The World Cup is also chiefly responsible for sleep deprivation(剥夺). The worst night for sleep in the U.K was the night of the England-Italy match on June 14. Brits stayed up a half-hour later to watch it, and then they woke up earlier than usual the next morning thanks to summer nights, the phenomenon in which the sun barely sets in northern countries in the summertime. That was nothing, though, compared to Germans, Italians, and the French, who stayed up around an hour and a half later on various days throughout the summer to watch the Cup. It should be made clear that not everyone has a device to record their sleep patterns; in some of these nations, it's likely that only the richest people do. And people who elect to track their sleep may try to get more sleep than the average person. Even if that's the case, though, the above findings are still striking. If the most health-conscious among us have such deep swings in our shut-eye levels throughout the year, how much sleep are the rest of us losing?",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about people's sleeping habits?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are culture-related."
+              },
+              {
+                "l": "B",
+                "t": "They affect people's health."
+              },
+              {
+                "l": "C",
+                "t": "They change with the seasons."
+              },
+              {
+                "l": "D",
+                "t": "They vary from person to person."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What do we learn about the Russians regarding sleep?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They don't fall asleep until very late."
+              },
+              {
+                "l": "B",
+                "t": "They don't sleep much on weekends."
+              },
+              {
+                "l": "C",
+                "t": "They get less sleep on public holidays."
+              },
+              {
+                "l": "D",
+                "t": "They sleep longer than people elsewhere."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What is the major cause for Europeans' loss of sleep?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The daylight savings time."
+              },
+              {
+                "l": "B",
+                "t": "The colorful night life."
+              },
+              {
+                "l": "C",
+                "t": "The World Cup."
+              },
+              {
+                "l": "D",
+                "t": "The summertime."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What is the most probable reason for some rich people to use a device to record their sleep patterns?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have trouble falling asleep."
+              },
+              {
+                "l": "B",
+                "t": "They want to get sufficient sleep."
+              },
+              {
+                "l": "C",
+                "t": "They are involved in a sleep research."
+              },
+              {
+                "l": "D",
+                "t": "They want to go to bed on regular hours."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What does the author imply in the last paragraph?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Sleeplessness does harm to people's health."
+              },
+              {
+                "l": "B",
+                "t": "Few people really know the importance of sleep."
+              },
+              {
+                "l": "C",
+                "t": "It is important to study our sleep patterns."
+              },
+              {
+                "l": "D",
+                "t": "Average people probably sleep less than the rich."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "今年在长沙举行了一年一度的外国人汉语演讲比赛。这项比赛证明是促进中国和世界其他地区文化交流的 好方法。它为世界各地的年轻人提供了更好地了解中国的机会。 来自 87 个国家共计 126 位选手聚集在湖南 省省会参加了从 7 月 6 日到 8 月 5 日进行的半决赛和决赛。 比赛并不是唯一的活动。选手们还有机会参观 了中国其他地区的著名景点和历史名胜。",
+    "reference": "The annual Chinese language speaking contest for foreigners was held in Changsha this year. The contest has proved to be a good way to promote cultural exchanges between China and the rest of the world. It offered young people around the world an opportunity to better understand China. A total of 126 contestants from 87 countries gathered in the capital of Hunan Province to take part in the semifinals and finals held from July 6 to August 5. The contest was not the only activity. The contestants also had the chance to visit famous scenic spots and places of historical interest in other parts of China."
+  }
+}

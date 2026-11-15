@@ -1,0 +1,1370 @@
+{
+  "id": "cet6-2023-6-3",
+  "level": "cet6",
+  "year": 2023,
+  "month": 6,
+  "set": 3,
+  "title": "2023年6月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"It is widely accepted that an important goal of education is to help students learn how to learn.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+    "sample": "It is widely accepted that an important goal of education is to help students learn how to learn. In my view, teaching learners to acquire knowledge on their own matters far more than simply filling their heads with facts, because the ability to learn lasts a lifetime.The reason is that knowledge itself keeps changing, while the skill of learning does not. Consider two students: one memorizes every formula the teacher offers, and the other masters how to find, question and apply new information. When they leave campus and face problems no textbook has covered, the first often feels lost, whereas the second keeps growing. My own experience confirms this. In college I taught myself programming through online courses; what my teachers really gave me was not the code, but the confidence and method to explore an unfamiliar field by myself.For these reasons, education should do more than deliver content. Once students truly learn how to learn, they hold a key that opens every door throughout their lives."
+  },
+  "listening": {
+    "audio": "cet6-2023-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was spacious and tranquil."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was warm and comfortable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was shabby and solitary."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was tiny and noisy."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She no longer hates people talking loudly in the dorm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She misses her roommates she used to complain about."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She begins to enjoy the movies she once found irritating."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She finds the crowded dorm as cozy as her new apartment."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He found the apartment perfectly furnished."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He had a feeling of despair and frustration."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He had a similar feeling to the woman's."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He felt the new place was like paradise."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Go to see the woman's apartment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make a phone call to his parents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Buy some furniture for the woman."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Decorate the woman's apartment.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hi, Lily, how's the new apartment?",
+                "zh": "M: 嗨，莉莉，新公寓怎么样？"
+              },
+              {
+                "en": "W: It's okay.",
+                "zh": "W: 还行吧。"
+              },
+              {
+                "en": "M: What? How can it be just okay when last week you were thrilled about the place and kept posting photos of it online?",
+                "zh": "M: 什么？上周你还对这个地方兴奋不已，还不停地把照片发到网上，怎么现在只能说还行？"
+              },
+              {
+                "en": "W: Well, last week when I moved in, the apartment seemed cozy, just the right size for one person. But now it just seems tiny, shabby and solitary.",
+                "zh": "W: 嗯，我上周搬进去的时候，觉得公寓很温馨，对一个人来说大小正合适。但现在我只觉得它又小又破旧，还很孤单。"
+              },
+              {
+                "en": "M: Ah, that's the problem. You miss your roommates from university, don't you?",
+                "zh": "M: 啊，问题就在这儿。你想念大学时的室友了，对吧？"
+              },
+              {
+                "en": "W: I'm going to sound like an idiot, because I used to complain to you all the time about how crowded our dormitory room was, and about all the things they did to irritate me, like watching movies late at night without headphones, or talking loudly early in the morning. But now I miss them terribly.",
+                "zh": "W: 我这么说听起来可能像个傻瓜，因为我以前总是向你抱怨我们的宿舍有多拥挤，还抱怨他们做的那些让我恼火的事，比如深夜不戴耳机看电影，或者一大早大声说话。可现在我特别想念他们。"
+              },
+              {
+                "en": "M: Of course you do. That's perfectly normal. When I got my first place I remember thinking I couldn't wait to live by myself and get away from my juvenile roommates and all their annoying habits. But then I began missing them and feeling lonely and thinking that our dormitory was like paradise, even though there were six of us guys in one small room.",
+                "zh": "M: 你当然会想念他们，这完全正常。我刚有自己的住处时，记得自己当时想的是，真等不及要独自生活，摆脱那些幼稚的室友和他们烦人的习惯。可是后来我开始想念他们，感到孤独，还觉得我们的宿舍简直像天堂，尽管我们六个大男人挤在一个小房间里。"
+              },
+              {
+                "en": "W: I thought it was just me who felt like that.",
+                "zh": "W: 我还以为只有我会有这种感觉。"
+              },
+              {
+                "en": "M: Look, you lived at home with us, and then you had three roommates, and this is your first time living alone. So it's hard. But your first apartment is a milestone in your life, and you should celebrate it. Tell me about the apartment.",
+                "zh": "M: 你以前和我们住在家里，后来又和三个室友一起住，而这是你第一次独居，所以确实很难适应。不过，你的第一套公寓是人生中的一个里程碑，你应该庆祝一下。跟我说说这套公寓吧。"
+              },
+              {
+                "en": "W: Actually, it's not bad. In fact, it's pretty adorable, now that I have decorated it and it has everything I need. I have a kitchen to cook in and a bathroom all to myself, and then another room with my bed at one end, and a sofa, a small table and chairs at the other end.",
+                "zh": "W: 其实，它还不错。事实上，我把它装饰好，也置办齐了所有需要的东西之后，发现它还挺可爱的。我有一间可以做饭的厨房和一间完全属于自己的浴室，另外还有一个房间，一头放着我的床，另一头放着沙发、小桌子和椅子。"
+              },
+              {
+                "en": "M: That does sound adorable and I can't wait to see it, and neither can mom and dad.",
+                "zh": "M: 听起来确实很可爱，我都等不及想去看看了，爸爸妈妈也一样。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He works as a literary critic."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He hosts an educational program."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has initiated a university reform."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has published a book recently."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It fails to keep up with the radical changes of society."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It fails to ensure universities get sufficient resources."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has not prepared young people for the job market."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has not fostered the growth of the arts disciplines."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More of the budget should go to science and technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The underfunded music discipline should be prioritized."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Subdisciplines like sculpture should get more funding."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Literature should get as much funding as engineering."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Build a prosperous nation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make skilled professionals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Create ingenious artists."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cultivate better citizens."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Welcome to our program Book Talk. Our guest today is Frank Jones, a critic of our education system, and the author of a new book, How to Reform Our Universities.",
+                "zh": "W: 欢迎收听我们的节目《图书访谈》。今天的嘉宾是弗兰克·琼斯，他是我们教育体系的批评者，也是新书《如何改革我们的大学》的作者。"
+              },
+              {
+                "en": "M: Hello, Susan.",
+                "zh": "M: 你好，苏珊。"
+              },
+              {
+                "en": "W: Frank, you support radically changing universities in America?",
+                "zh": "W: 弗兰克，你支持彻底改变美国的大学吗？"
+              },
+              {
+                "en": "M: Yes, I believe that the purpose of higher education is to prepare young people to enter the workforce, and that our current system fails to do this. We're allocating too many resources to disciplines that don't match the needs of employers.",
+                "zh": "M: 是的，我认为高等教育的目的是让年轻人为进入职场做好准备，而我们目前的体系没有做到这一点。我们把太多资源分配给了与雇主需求不匹配的学科。"
+              },
+              {
+                "en": "W: I think your attitude to education is a bit cynical, Frank. Surely the purpose of university is to prepare young people to participate fully in civic life, rather than just to find well-paid jobs.",
+                "zh": "W: 弗兰克，我觉得你对教育的态度有点愤世嫉俗。大学的目的当然应该是让年轻人充分参与公民生活，而不只是找到高薪工作。"
+              },
+              {
+                "en": "M: Susan, many young graduates struggle to find any job, let alone a good one. The job market is grim, particularly for students who study the arts.",
+                "zh": "M: 苏珊，许多年轻的毕业生连工作都很难找到，更不用说一份好工作了。就业市场很不景气，尤其是对学习艺术的学生而言。"
+              },
+              {
+                "en": "W: I agree that it isn't easy for young people to find work, but you propose closing down all departments that aren't directly related to science and technology. Is that really the solution?",
+                "zh": "W: 我同意年轻人找工作并不容易，但你提议关闭所有与科学和技术没有直接关系的院系。这真的是解决办法吗？"
+              },
+              {
+                "en": "M: You're overstating my point. My argument is that we need to use more of our budget on areas like science and engineering. To do that, we need to take money from subjects like literature and music.",
+                "zh": "M: 你夸大了我的观点。我的意思是，我们需要把更多预算用于科学和工程等领域。要做到这一点，我们就得从文学、音乐等学科中抽走资金。"
+              },
+              {
+                "en": "W: But the arts have value. They're an important part of our culture. Studying literature or music or sculpture might not result in a job in that area, but it helps young people to think about the world in a deeper way, which makes them better citizens and makes for a better society.",
+                "zh": "W: 但艺术是有价值的。它们是我们文化的重要组成部分。学习文学、音乐或雕塑也许不会让人最终从事相关领域的工作，但这能帮助年轻人更深入地思考世界，使他们成为更好的公民，也让社会变得更好。"
+              },
+              {
+                "en": "M: I agree that the arts are valuable to society, but it's naive to think that not only the most talented, but all students should study them at university level. The arts are very competitive, and most graduates will end up with a great deal of debt, obtaining a degree that has little value on the job market.",
+                "zh": "M: 我同意艺术对社会有价值，但认为不仅最有天赋的学生，所有学生都应该在大学阶段学习艺术，这种想法很天真。艺术领域竞争非常激烈，大多数毕业生最终会背负巨额债务，拿到一个在就业市场上价值不大的学位。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is quite common."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is rarely noticed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It seldom annoys people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It occurs when one is alone."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Seeing things in black and white."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Engaging in regular contemplation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Having a special understanding of creativity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Knowing how to make their mental batteries work."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Engaging in intense activity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Fantasizing in one's downtime."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Working on a particular project."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Reflecting during one's relaxation.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Do you ever have the annoying feeling that you don't have time to really think anymore? You are not alone. A variety of factors have conspired to rob us of time for reflection about ourselves and our lives. Today, our preoccupied minds are rarely silent. The average person receives hundreds of texts and voice messages a day, and holidays for many of us are action-packed weeks more likely full of family activities than opportunities for tranquility and contemplation.",
+                "zh": "你是否常有一种恼人的感觉，觉得自己再也没有时间真正思考了？你并不孤单。各种因素共同作用，夺走了我们用于反思自己和生活的时间。如今，我们被各种事务占据的头脑很少有安静的时候。普通人每天会收到数百条短信和语音消息，而对我们许多人来说，假期也是安排得满满当当的一周，更多的是充满家庭活动，而不是拥有宁静与沉思的机会。"
+              },
+              {
+                "en": "Regular reflection, however, underlies all great professionals. It's a prerequisite for you to recharge your mental batteries, see things in a new light and tap into your creativity. Almost all of the great advisors that I have studied have found ways to get away from it all and contemplate their life and work. Some researchers in the field of creativity, in fact, believe that insight occurs during the reflection and relaxation that follows a period of intense activity.",
+                "zh": "然而，定期反思是一切杰出专业人士的基础。这是你重新充实心理能量、以新的眼光看待事物并发挥创造力的先决条件。我研究过的几乎所有杰出顾问，都找到了远离一切、思考自己生活和工作的方式。事实上，一些创造力领域的研究人员认为，洞见产生于高强度活动之后的反思与放松期间。"
+              },
+              {
+                "en": "Schedule time for reflection about your work or a particular project you're engaged in. I usually block out half an hour. Don't answer the phone. Push your papers to the side. Sketch, make lists, draw \"mind maps\" of ideas that come to you. At the end, write down any emerging ideas.",
+                "zh": "安排时间反思你的工作或正在参与的某个项目。我通常会留出半小时。不要接电话。把文件推到一边。画草图、列清单、把浮现出的想法绘制成“思维导图”。最后，把任何新出现的想法记下来。"
+              },
+              {
+                "en": "When you're alone, stop worrying and think. A lot of our down time is spent worrying about troublesome things in our lives or fantasizing about how we'd like our lives to be. Revisit things during moments of relaxation after a period of intense work. This is when we are the most creative.",
+                "zh": "独处时，停止担忧，认真思考。我们许多空闲时间都花在担心生活中令人烦恼的事情上，或幻想自己的生活应该是什么样子。在一段高强度工作之后的放松时刻，重新思考这些事情。此时正是我们最具创造力的时候。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Farmers helped Native Americans grow crops."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There were expansive university campuses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There existed post offices."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Migrants found gold there."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It helped to boost the economy in the American West."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It provided job opportunities for many gold seekers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It extended the influence of the federal government."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It kept people in the deserts and plains connected."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It employed Native Americans to work as postmen."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It commissioned private wagons to carry the mail."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It subsidized the locals who acted as postmasters."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It centralized postal services in its remote areas."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He analyzed interactive maps of mail routes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He read a large collection of books on the topic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He examined its historical trends with data science."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He collected data about its impact on local business."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Even before Colorado was a state, it had post offices. The first opened in 1859, in a settlement founded by migrants searching for gold. Life could be unpredictable out west—gold failed to appear, drought ruined farmers and settlers clashed with Native Americans. On the settlement's location now stands a sprawling university campus. Amid all the changes, one feature remained constant—the postal service.",
+                "zh": "甚至在科罗拉多成为一个州之前，这里就已经有了邮局。第一家邮局于1859年在一个由寻找黄金的移民建立的定居点开业。西部的生活充满不可预测性——黄金未能出现，干旱摧残了农民，移居者与美洲原住民发生冲突。在该定居点如今的位置上，耸立着一座庞大的大学校园。在所有的变迁中，有一个特征始终保持不变——那就是邮政服务。"
+              },
+              {
+                "en": "The maps tracing America's westward expansion are telling. In 1864, there were few postal branches on land controlled by Native Americans, which still accounted for most of the West. Over the next 25 years, post offices grew quickly. Colonization of the West could be regarded as a result of big government rather than pioneers. As federal subsidies and land grants tempted people into the deserts and plains, the post kept them connected.",
+                "zh": "追溯美国西进运动的地图非常具有说服力。1864年，在美洲原住民控制的土地上几乎没有邮政分局，而这些土地当时仍占据了西部的大部分。在接下来的25年里，邮局迅速增多。对西部的拓殖可以被视为大政府而非拓荒者的产物。随着联邦补贴和土地赠予吸引人们深入沙漠和平原，邮政保持了他们之间的联系。"
+              },
+              {
+                "en": "In the mid-19th century, the Post Office Department was far from a centralized bureaucracy. To keep up with migration patterns, postal services were added to existing businesses. The federal government commissioned private wagons to carry the mail. Short-term contracts were granted to local businessmen to act as postmasters. These partnerships enabled the mail to quickly follow migrants, helping knit together remote parts of the country.",
+                "zh": "在19世纪中叶，邮政部远非一个集权的官僚机构。为了跟上移民模式的脚步，邮政服务被附加到了现有的商业经营中。联邦政府委托私人马车运送邮件。当地商人获得了担任邮局局长的短期合同。这些合作关系使邮件能够迅速跟随移民，有助于将该国偏远地区紧密联系在一起。"
+              },
+              {
+                "en": "Mr. Blevins, a digital historian, wrote a book on the history of the US postal service. He used data science to analyze historical trends. Most strikingly, he built an accompanying website, complete with interactive maps. They show readers how, within a generation, the postal service helped colonize a continent. These online interactive maps illustrate the formative power of snail mail.",
+                "zh": "数字历史学家布莱文斯先生写了一本关于美国邮政服务历史的书。他利用数据科学分析了历史趋势。最引人注目的是，他建立了一个配套网站，里面配备了完整的互动地图。它们向读者展示了在短短一代人的时间内，邮政服务是如何协助拓殖整块大陆的。这些在线互动地图展示了传统邮政的塑造力量。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Higher levels of anxiety may improve people's memory."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Some experiences are easier to remember than others."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Most people tend to remember things selectively."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Simple things may leave a deep impression on one's memory."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They classified the participants' mindset."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They showed some photos to the participants."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They measured the participants' anxiety levels."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They tested the size of the participants' vocabulary."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Anxiety has become a serious problem for an increasing number of people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Extreme levels of anxiety can adversely affect cognitive performance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People diagnosed with anxiety disorder may forget things selectively."
+                  },
+                  {
+                    "l": "D",
+                    "t": "There is no direct correlation between memory and levels of anxiety.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In last week's lecture, we discussed reasons why people forget things. This week, we will discuss a surprising reason why we might remember some things—anxiety.",
+                "zh": "在上周的讲座中，我们讨论了人们遗忘事物的原因。本周，我们将讨论一个令人惊讶的、可能使我们记住某些事物的原因——焦虑。"
+              },
+              {
+                "en": "Think about something as simple as buying a coffee. That may not seem like an experience that would make a deep impression on your memory, but anxiety could change that. In fact, a new study suggests that people with higher anxiety levels might remember certain information better than people with lower anxiety levels. That's because higher levels of anxiety may make people more susceptible to negative feelings, putting them in a more negative state of mind. That in turn may make them able to better remember some events.",
+                "zh": "想一想像买咖啡这样简单的事情。这似乎不太像是一种会在记忆中留下深刻印象的经历，但焦虑可能会改变这一点。事实上，一项新的研究表明，焦虑程度较高的人可能比焦虑程度较低的人更能记住某些信息。这是因为较高程度的焦虑可能使人更容易受到负面情绪的影响，使他们处于更加消极的心理状态。这反过来可能使他们能够更好地记住某些事件。"
+              },
+              {
+                "en": "Let's take a closer look at that new study now. In the study, the researchers started by giving 80 undergraduate students an anxiety test. The test measured the participants' anxiety levels over the preceding two weeks. Then, to test memory, the participants were shown a series of neutral words, one at a time. Some of the words were printed on to photos of negative scenes, meaning images that could affect their emotions negatively, such as a photo of a car accident or a cemetery. The rest of the words were printed on to photos of neutral scenes, such as a photo of a lake or trees. Neutral words included words like \"table\" or \"desk\" that don't elicit emotion. Later, the participants were asked to think back to the words they were shown earlier, which caused them to reenter either a negative or a neutral mindset. The participants were then presented with another set of neutral words, and their memory of these new words was tested.",
+                "zh": "现在让我们更仔细地了解一下这项新研究。在这项研究中，研究人员首先让80名本科生接受焦虑测试。该测试测量了参与者在此前两周内的焦虑程度。随后，为了测试记忆力，研究人员让参与者逐一观看一系列中性词语。其中一些词语印在负面场景的照片上，也就是可能对他们的情绪产生负面影响的图像上，例如车祸或墓地的照片。其余词语则印在中性场景的照片上，例如湖泊或树木的照片。中性词语包括“桌子”或“书桌”之类不会引发情绪的词语。之后，研究人员要求参与者回想刚才看到的词语，这使他们重新进入消极或中性的心理状态。然后，研究人员向参与者展示另一组中性词语，并测试他们对这些新词语的记忆。"
+              },
+              {
+                "en": "The researchers found that the new words presented to people in a negative mindset were better remembered by people with higher levels of anxiety than those with lower levels of anxiety. In other words, when highly anxious individuals took in otherwise emotionally neutral information that was presented to them, it became colored by their negative mindset, making them remember the information better. But these same effects were not seen in people with low levels of anxiety.",
+                "zh": "研究人员发现，对于处于消极心理状态的人，新呈现的词语中，焦虑程度较高的人比焦虑程度较低的人记得更好。换句话说，高度焦虑的人接收到原本在情感上中性的信息时，这些信息会受到其消极心理状态的影响，从而使他们更好地记住这些信息。但在焦虑程度较低的人身上并未观察到同样的效果。"
+              },
+              {
+                "en": "Previous studies have found that extreme levels of anxiety, such as those experienced by people diagnosed with an anxiety disorder, can be quite detrimental to memory and cognitive performance. But the highly anxious people in this study represent individuals who are managing their anxiety and for whom anxiety is not a serious problem.",
+                "zh": "先前的研究发现，极高程度的焦虑，例如被诊断患有焦虑障碍的人所经历的焦虑，可能会严重损害记忆力和认知表现。但这项研究中的高度焦虑者代表的是那些能够管理自己的焦虑、且焦虑并非严重问题的人。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They compare products from different companies before making a choice."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They get information from other consumers' postings and comments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They lose patience when their phone call is not promptly answered."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They expect to get instantaneous responses to their inquiry."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Giving them rewards on the spot."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Broadening their scope of interest."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Speaking directly to their emotions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Focusing on the details of the product."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Change the rules of the game in the market every year."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Keep up with the latest technological developments."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Learn from technological innovators to do business."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make greater efforts to build up consumers' confidence.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Over the past 20 years, the internet has gradually become a dominant feature of our lives. It has changed how we communicate with each other, and it has definitely transformed the way we do business with each other. Marketing has also changed in a number of ways. For instance, in the past, consumers had to call a phone number and patiently wait on hold, in order to get the information they wanted. Today, they want the information immediately. They'll go to the company's social media page and post comments and questions, expecting to receive an immediate response. If they don't get their questions answered soon, they'll move on to another company that will answer them quickly.",
+                "zh": "在过去20年里，互联网逐渐成为我们生活中的主导因素。它改变了我们彼此沟通的方式，也确实改变了我们彼此开展业务的方式。营销也在许多方面发生了变化。例如，过去，消费者必须拨打一个电话号码，并耐心等待接通，才能获得他们想要的信息。如今，他们希望立即获得信息。他们会前往公司的社交媒体页面，发布评论和问题，并期待立即得到回应。如果他们的问题很快得不到解答，就会转而选择另一家能够迅速回答他们问题的公司。"
+              },
+              {
+                "en": "Marketing departments today need to follow technological development. For example, this year's smartphone is smarter than last year's; self-driving cars are now on the road. Marketers have to do research on which technologies are coming into being. Otherwise, they risk being left behind in the virtual dust. Marketing has also changed due to the importance of video. People don't just want to read text; they want to watch things happening. Companies now have to explore how they can use video on a consistent basis to share information about their businesses. Fortunately, it's extremely easy to shoot something these days. All you need is a smartphone.",
+                "zh": "如今，营销部门需要跟上技术的发展。例如，今年的智能手机比去年的更智能；自动驾驶汽车如今已经上路。营销人员必须研究哪些技术正在出现，否则就有被抛在虚拟尘埃中的风险。营销也因视频的重要性而发生了变化。人们不只是想阅读文字；他们还想观看事情发生的过程。如今，公司必须探索如何持续利用视频来分享有关自身业务的信息。幸运的是，现在拍摄视频非常容易。你只需要一部智能手机。"
+              },
+              {
+                "en": "But what's the result of all this? Shorter attention spans. We aren't the same people that we were 20 years ago. Not only have we grown accustomed to getting the information we want instantaneously, our attention spans are much shorter. If something doesn't capture our attention within a few seconds, we're on to the next piece of content. Marketers need to figure out ways to speak directly to the customers' emotions, and they need to figure out how to do that as quickly as possible. Once people are emotionally engaged, they'll stick with you.",
+                "zh": "但这一切带来了什么结果呢？注意力持续时间变短了。我们已经不是20年前的那群人了。我们不仅已经习惯于即时获得想要的信息，注意力持续时间也短得多了。如果某件事在几秒钟内无法吸引我们的注意力，我们就会转向下一条内容。营销人员需要想办法直接与客户的情感沟通，也需要想办法尽快做到这一点。一旦人们在情感上投入其中，他们就会一直关注你。"
+              },
+              {
+                "en": "If marketing has changed this much in the past 20 years, imagine what the next 20 years will bring. In a recent survey, only 9% of marketers could say with confidence that their marketing efforts were actually working. Their confidence is being shaken, because the rules of the game change every year. That's why it's important for marketers to pay attention to the latest technological developments and consider collaborating with technological innovators. That way, they'll be moving at the same pace as the tech industry.",
+                "zh": "如果营销在过去20年里发生了如此大的变化，想象一下未来20年会带来什么。在最近的一项调查中，只有9%的营销人员能够自信地说，他们的营销工作确实奏效了。他们的信心正在受到动摇，因为游戏规则每年都在变化。这就是营销人员关注最新技术发展并考虑与技术创新者合作十分重要的原因。这样一来，他们就能与科技行业保持同样的步调。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People have only one social engagement per week."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Working together enhances friendship."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Few people have devoted friends."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Friendships benefit work."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The impact of friends on people's self-esteem."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How supportive friends can be in the workplace."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How to boost one's sense of value and worthiness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The role of family ties in people's mental well-being."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They show little interest in their friends' work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to be much more difficult to make."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are more trustworthy and reliable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They increase people's job satisfaction."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Allow employees to have a flexible work schedule."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Encourage employees to be friends with colleagues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Help employees balance work and family responsibilities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Organize activities to nourish friendships outside of work."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "You might be surprised to learn that the benefits of friendships extend beyond people's social life and into their work, which is interesting when considering the extent to which people sacrifice friendships, or at least the time they spend with friends, because of the extended hours they're devoting to work. Just last week, I was remarking to a colleague that I'm content with only one social engagement per week. But according to recent research, that's evidently not enough.",
+                "zh": "你可能会惊讶地得知，友谊带来的益处不仅限于人们的社交生活，还延伸到了工作领域。想到人们常常因为投入工作、延长工作时间，而牺牲友谊，或者至少牺牲与朋友相处的时间，这一点就很有意思。就在上周，我还对一位同事说，我每周只参加一次社交活动就满足了。但根据最近的研究，显然这还不够。"
+              },
+              {
+                "en": "In an initial study of more than 700 respondents, scholars from an American university analyzed the impact that friends, as opposed to family, have on self-esteem and well-being. Friends came out substantially on top. That's because to be someone's mate is a voluntary act, unlike family who people rarely get to choose. The researchers found that when people choose to cultivate and maintain supportive friendships with an individual, it means that the person is valued and worthy of their limited time. Such sentiments of value and worthiness boost our self-esteem.",
+                "zh": "在一项对700多名受访者进行的初步研究中，一所美国大学的学者分析了朋友相较于家人对自尊和幸福感的影响。结果显示，朋友的影响明显更大。这是因为，成为某人的朋友是一种自愿行为，而家人通常并不是人们可以选择的。研究人员发现，当人们选择与某个人培养并维持相互支持的友谊时，这意味着那个人受到重视，值得人们投入有限的时间。这种受到重视和认可的感受会提升我们的自尊。"
+              },
+              {
+                "en": "The second study comprised more than 300 participants. It proved that the better we feel about ourselves, the more likely we'll perform our job confidently and competently. This follow-up study found that non-work friends even improve people's job satisfaction. They have as much of an impact on how much they love their jobs as do the friends they have at work, despite not actually being at our place of work. These types of friends tend to be our preferred outlet for venting about work-related matters. This is an avenue that may not be available at the office.",
+                "zh": "第二项研究由300多名参与者组成。研究证明，我们对自己的感觉越好，就越有可能自信而出色地完成工作。这项后续研究发现，工作之外的朋友甚至还能提高人们的工作满意度。尽管这些朋友并不在我们的工作场所，但他们对我们有多喜欢自己的工作所产生的影响，与工作中的朋友一样大。这类朋友往往是我们倾诉工作相关事情的首选对象，而在办公室里未必有这样的倾诉渠道。"
+              },
+              {
+                "en": "So even though friendships can be easy to neglect when confronted by pressures at work, or even pressures at home, neglecting our friends can turn out to be harmful and counterproductive. That's why, when determining how to create a better work-life balance, we need to consider not only how to balance work and family demands, but also how to cultivate and sustain supportive friendships. It's for this reason that managers should never discriminate when it comes to requests from employees for flexible work arrangements. It's irrelevant whether their need for a desired schedule is due to, say, parenting responsibilities, or a craving to hang out with a best mate. What matters is the opportunity to engage in a nourishing activity outside of work. That will definitely have a follow-on effect at work.",
+                "zh": "因此，尽管在工作压力甚至家庭压力面前，友谊很容易被忽视，但忽视朋友最终可能会带来伤害，并产生适得其反的效果。这就是为什么，在确定如何实现更好的工作与生活平衡时，我们不仅需要考虑如何平衡工作和家庭的要求，还需要考虑如何培养并维持相互支持的友谊。正因如此，管理者在员工提出弹性工作安排请求时，绝不应区别对待。无论他们希望采用某种工作时间安排是因为需要承担育儿责任，还是因为想与最要好的朋友出去相聚，这都无关紧要。重要的是，他们有机会参与工作之外有益身心的活动。这肯定会对工作产生后续影响。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2023-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "You might not know yourself as well as you think. According to a new study, people are"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "accurate judges of only some of their behaviors. While most previous studies on how well people know themselves have been done on long-term personality traits, this new study"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "how well people understand how they are acting from one moment to the next. Researchers asked participants to wear audio recorders that automatically"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "every 9.5 minutes between 7 a.m. and 2 a.m. to record 30 seconds of audio. These participants were then emailed surveys four times a day asking them to"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "how outgoing, agreeable, or conscientious they were during a particular hour of the day. The study used data from 248 participants, all of whom answered questions about their behavior for two"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "weeks and wore the audio device for one of those weeks. Six laboratory assistants rated each participant's audio clips to see how their observations compared with people's"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "of themselves. The six assistants were generally in agreement with one another about how the people they were observing acted. Further, participants' ratings of their own behaviors agreed with observers' for how outgoing and how conscientious they were being. But the agreement between participants and outside observers was much smaller for agreeableness. Some of this"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "could be because the observers used only audio clips, and thus could not read"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "like body language, but there are"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "other explanations, as people should be able to hear when a participant is being kind versus being rude. The weak agreement between how participants thought they were acting and what observers heard could be because people would rather"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "rude behavior."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "activated"
+        },
+        {
+          "l": "B",
+          "w": "articulates"
+        },
+        {
+          "l": "C",
+          "w": "assessment"
+        },
+        {
+          "l": "D",
+          "w": "consecutive"
+        },
+        {
+          "l": "E",
+          "w": "cues"
+        },
+        {
+          "l": "F",
+          "w": "deny"
+        },
+        {
+          "l": "G",
+          "w": "discrepancy"
+        },
+        {
+          "l": "H",
+          "w": "probably"
+        },
+        {
+          "l": "I",
+          "w": "probes"
+        },
+        {
+          "l": "J",
+          "w": "random"
+        },
+        {
+          "l": "K",
+          "w": "recall"
+        },
+        {
+          "l": "L",
+          "w": "relatively"
+        },
+        {
+          "l": "M",
+          "w": "saturated"
+        },
+        {
+          "l": "N",
+          "w": "symptoms"
+        },
+        {
+          "l": "O",
+          "w": "terminate"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "L"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "A"
+        },
+        {
+          "n": 29,
+          "a": "K"
+        },
+        {
+          "n": 30,
+          "a": "D"
+        },
+        {
+          "n": 31,
+          "a": "C"
+        },
+        {
+          "n": 32,
+          "a": "G"
+        },
+        {
+          "n": 33,
+          "a": "E"
+        },
+        {
+          "n": 34,
+          "a": "H"
+        },
+        {
+          "n": 35,
+          "a": "F"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Why we need tiny colleges",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "We're experiencing the rebirth of smallness. Farmers markets, tiny homes, and brew pubs all exemplify our love of smallness. So do charter schools, coffee shops, and local bookstores. Small is often (but not always) more affordable, healthier, and sustainable, but its finest characteristic, the one that turns charm into love, is that going small allows us to be more fully who we are."
+        },
+        {
+          "l": "B",
+          "t": "In higher education the trend is mostly in the opposite direction: Universities with 20,000 or 30,000 students are considered \"mid-sized\". The nation's largest university, Arizona State University, has 80,000 students on campus and aims to enroll another 100,000 students online. At the other end of the spectrum is a handful of colleges that have fewer than a hundred students on campus and no online courses: colleges such as Sterling College, Thomas More College of Liberal Arts, and Deep Springs College. These colleges are so small that they can only be called \"tiny.\""
+        },
+        {
+          "l": "C",
+          "t": "Tiny colleges focus not just on a young person's intellect, but on the young person as a whole. Equally important, tiny colleges ask, \"How can education contribute to human flourishing and the well-being of the world?\" And they shape a college experience to address that question. They replace concerns about institutional growth with attention to the growth of students as fully developed participants in their communities."
+        },
+        {
+          "l": "D",
+          "t": "I've had the privilege of teaching at three different institutions of higher learning during my career—a small liberal arts college and two mid-sized public universities. I've also been profoundly disappointed in each of these institutions, and in many of my colleagues, especially when it comes to helping students and preparing them for the many responsibilities of adulthood. Administrators focus on the business of running a university, and most faculty focus on their scholarship and teaching their discipline. Little deliberate attention is given to how students mature as individuals and social beings."
+        },
+        {
+          "l": "E",
+          "t": "Having just retired from teaching at a public university, I'm now returning to my hometown of Flagstaff, Arizona, to establish a tiny college—Flagstaff College. I'm convinced there's a need for another type of education, one devoted to helping students come into their own and into this beautiful and troubled world. Young people need an education that will provide them with meaning, hope, courage, and passion, as well as information and skills. Large institutions, I believe, are particularly ill-suited to this type of education."
+        },
+        {
+          "l": "F",
+          "t": "There's no \"best of\" list when it comes to tiny colleges, at least not yet. But around the country people are creating new colleges that provide an alternative to small liberal arts colleges, large public universities, and online education."
+        },
+        {
+          "l": "G",
+          "t": "With only 26 students, Deep Springs is the smallest college in the country and, quite likely, the most atypical(非典型的). Located on a working cattle ranch on the California-Nevada border, Deep Springs is a private, residential, two-year college for men, committed to educating students for \"a life of service to humanity.\" Founded by the electricity tycoon(大亨) L.L. Nunn in 1917, Deep Springs \"curriculum\" revolves around academics, labor, and self-governance. In addition to their courses, students are charged with running the 155-acre ranch and overseeing the functioning of the college. Students chair both the admissions and the curriculum committees."
+        },
+        {
+          "l": "H",
+          "t": "\"Living in close community with one's teachers and fellow students, and being forced to take on adult responsibilities, makes for one's growth as a person,\" says William Hunt, who graduated last year. \"To exist for very long in a community like that, you have to get over the question of whether you're sufficiently talented or principled and get started worrying about how you can stretch yourself and your peers, how much you can manage to learn with them.\""
+        },
+        {
+          "l": "I",
+          "t": "Sterling College, in Craftsbury Common, Vermont, is also very small—fewer than 100 students. Unlike Deep Springs, Sterling focuses its curriculum on environmental and social justice issues, but like Deep Springs it places a high value on personal responsibility and manual labor. According to its catalog, a college education at Sterling combines \"rigorous academics, roll-up-your-sleeves challenges, and good old hard work.\""
+        },
+        {
+          "l": "J",
+          "t": "The average tuition at a small liberal-arts college is $30,000 to $40,000 a year, not including the cost of living on campus, as compared to $8,000 to $10,000 a year for tuition alone at a public university. Of the tiny colleges, only Deep Springs doesn't charge tuition or room and board; students pay only for books and the cost of traveling to and from college. If tiny schools are to become a player on the higher education scene, they will need to find a way to be truly affordable."
+        },
+        {
+          "l": "K",
+          "t": "Doing so may not be that difficult so long as they do not pattern themselves too closely on existing norms. We've come to believe that a good college should have many academic programs and excellent facilities, posh(豪华的) dorms, an array of athletic programs, and a world-class student activity center. Imagine a good college without a climbing wall! We also have accepted the idea that college presidents, and their many vice- presidents, should be paid like their counterparts in the business world and that higher education requires an elaborate, up-to-date technology infrastructure. All of this drives up the cost of education."
+        },
+        {
+          "l": "L",
+          "t": "The \"trick\" to making tiny colleges affordable, if that's the right word, is simplicity. At its core, education is a human-to-human interaction. Reflecting on his own college education, President Garfield once commented that an ideal college would consist of nothing more than the legendary teacher Mark Hopkins on one end of a log and a student on the other. The economics of a tiny college, in other words, might be similar to that of a tiny house. Because it is small, a tiny house costs less to build and less to furnish, insure, and maintain. But the economic benefits of a small house don't end there. Tiny homes discourage homeowners from buying stuff that they really don't need, because there's no place to put it."
+        },
+        {
+          "l": "M",
+          "t": "I'm a late convert to the idea of tiny colleges, and I fully understand the need for many diverse types of educational institutions. Academic research and job training are important, but tiny colleges aren't suited for either. The educational needs of a complex society are themselves complex, and no single model can meet all of these needs. But I'm now convinced there's an educational need that's now going almost completely unmet: namely, the need to help young people transition into adulthood. Tiny colleges can do this better than any other type of educational institution."
+        },
+        {
+          "l": "N",
+          "t": "The ultimate justification for a tiny college is the conviction that each of us comes into our full humanity by close interaction with those who know and care for us, and that one of the basic purposes of higher education is social. Although we give lip service to the idea that a college education will make us better people, when all's said and done, we think of higher education primarily in economic terms. We've come to think of higher education as a means to make a living rather than make a life. We've also come to see higher education as a private good rather than a public one. Tiny colleges are not the answer to all of our educational requirements, but they're an answer to one of our most basic educational necessities; the need to produce thoughtful, engaged, and compassionate human beings."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "One tiny American college situated on a cattle farm is devoted to educating students to serve mankind throughout their lives.",
+          "a": "G"
+        },
+        {
+          "n": 37,
+          "s": "Much to the author's disappointment, the three institutions of higher learning where she taught largely ignore students' growth as social beings.",
+          "a": "D"
+        },
+        {
+          "n": 38,
+          "s": "Tiny colleges must be made affordable in order to play a role in higher education.",
+          "a": "J"
+        },
+        {
+          "n": 39,
+          "s": "According to a recent graduate from a tiny college, living together with faculty and fellow students is conducive to a student's growth as a person.",
+          "a": "H"
+        },
+        {
+          "n": 40,
+          "s": "Rather than going small, most American universities are trying to go big.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "In a certain tiny college, rigorous academic work and traditional manual labor are integrated.",
+          "a": "I"
+        },
+        {
+          "n": 42,
+          "s": "Tiny colleges focus on educating students to become well-rounded citizens instead of seeking their own expansion.",
+          "a": "C"
+        },
+        {
+          "n": 43,
+          "s": "The essence of education lies in the interaction between people.",
+          "a": "L"
+        },
+        {
+          "n": 44,
+          "s": "After her retirement, the author has decided to set up a tiny college in her hometown.",
+          "a": "E"
+        },
+        {
+          "n": 45,
+          "s": "Tiny colleges are justified as it is believed that our growth into full humanity comes through interaction with people near and dear to us.",
+          "a": "N"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "If you're someone who has turned to snacking on junk food more in the pandemic(大流行病), you're not alone. Investigative reporter Michael Moss says processed food is engineered to hook you, not unlike alcohol, cigarettes, or other harmful substances. His 2013 book, Salt Sugar Fat, explored food companies' aggressive marketing of those products and their impact on our health. In his new book, Hooked, Moss updates the food giants' efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates. Processed food is inexpensive, it's legal, and it's everywhere. Companies' advertising is cueing us to remember those products and we want those products constantly. So the food environment is one of those key things that makes food even more problematic for so many people. Memory, nostalgia(怀旧) in particular, plays a big role in the foods we crave. Soda companies discovered that if they put a soda in the hands of a child when they're at a ball game with their parents, that soda will forever be associated with that joyous moment. Later in life, when that child wants to experience a joyous moment, they're going to think of soda. Many people seek comfort in the snacks they remember from childhood. Moss examines the way companies capitalize on our memories, cravings and brain chemistry to keep us snacking. One of the reasons I came to think that some of these food products are even more powerful, more troublesome than drugs can be is memory. What we eat is all about memory. And we begin forming memories for food at a really early age. And we keep those memories for a lifetime. Knowing this, the food industry spends lots of time trying to shape the memories that we have for their products. One of the features of addiction that scientists studying drug addiction discovered back in the 1990s was that the faster a substance hits the brain, the more apt we are as a result to act impulsively. There's nothing faster than food in its ability to hit the brain. For Moss, this puts the notion of \"fast food\" in an entirely new light as this isn't limited to fast food chains-almost 90% of food products in grocery stores are processed foods. Everything in the industry is about speed, from manufacturing to packaging. Overall, Moss outlines the industry's dependence on making their products inexpensive, super delicious, and incredibly convenient for consumers. Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "In what way does Michael Moss think processed food is comparable to alcohol and cigarettes?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are all addictive."
+              },
+              {
+                "l": "B",
+                "t": "They are all necessary evils."
+              },
+              {
+                "l": "C",
+                "t": "They are all engineered to be enjoyed."
+              },
+              {
+                "l": "D",
+                "t": "They are all in increasingly great demand."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the author say plays a key role in the foods we crave?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The food environment."
+              },
+              {
+                "l": "B",
+                "t": "Aggressive marketing."
+              },
+              {
+                "l": "C",
+                "t": "Convenience."
+              },
+              {
+                "l": "D",
+                "t": "Memory."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What do food companies do to capitalize on consumers' association with their food products?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They strive to influence how consumers remember their products."
+              },
+              {
+                "l": "B",
+                "t": "They attempt to use consumers' long-term memories to promote addiction."
+              },
+              {
+                "l": "C",
+                "t": "They try to exploit consumers' memories for their products as early as possible."
+              },
+              {
+                "l": "D",
+                "t": "They endeavor to find what consumers remember about their products."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "How does the food industry operate from manufacturing to packaging, according to Moss?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Placing the idea of fast food in an entirely new light."
+              },
+              {
+                "l": "B",
+                "t": "Setting no limit to the number of fast food chains."
+              },
+              {
+                "l": "C",
+                "t": "Focusing on how quickly the work is done."
+              },
+              {
+                "l": "D",
+                "t": "Prioritizing the quality of their products."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "Why are companies finding it difficult to satisfy consumers' demand for healthier food products?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They think speed of production outweighs consumers' health."
+              },
+              {
+                "l": "B",
+                "t": "They believe their industry would perish without fast foods."
+              },
+              {
+                "l": "C",
+                "t": "They have to strike a balance between taste and nutrition."
+              },
+              {
+                "l": "D",
+                "t": "They are hooked on manufacturing convenience foods."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Chimpanzees(黑猩猩), human beings' closest animal relatives, share up to 98% of our genes. Yet humans and chimpanzees lead very different lives. Fewer than 300,000 wild chimpanzees live in a few forested corners of Africa today, while humans have colonized every corner of the globe. At more than 7 billion, human population dwarfs that of nearly all other mammals—despite our physical weaknesses. What could account for our species' incredible evolutionary successes? One obvious answer is our big brains. It could be that our raw intelligence gave us an unprecedented ability to think outside the box, innovating solutions to thorny problems as people migrated across the globe. But a growing number of cognitive scientists and anthropologists(人类学家) are rejecting that explanation. They think that, rather than making our living as innovators, we survive and thrive precisely because we don't think for ourselves. Instead, people cope with challenging climates and ecological contexts by carefully copying others. In a famous study, psychologists Victoria Horner and Andrew Whiten showed two groups of test subjects— children and chimpanzees—a mechanical box with a treat inside. In one condition, the box was opaque, while in the other it was transparent. The experimenters demonstrated how to open the box to retrieve the treat, but they also included the irrelevant step of tapping on the box with a stick. Oddly, the children carefully copied all the steps to open the box, even when they could see that the stick had no practical effect. That is, they copied irrationally: Instead of doing only what was necessary to get their reward, children slavishly imitated every action they'd witnessed. Of course, that study only included three—and four-year-olds. But additional research has shown that older children and adults are even more likely to mindlessly copy others' actions, and infants are less likely to over- imitate—that is, to precisely copy even impractical actions. By contrast, chimpanzees in the study only over-imitated in the opaque condition. In the transparent condition—where they saw that the stick was mechanically useless—they ignored that step entirely. Other research has since supported these findings. When it comes to copying, chimpanzees are more rational than human children or adults. Where does the seemingly irrational human preference for over-imitation come from? Anthropologist Joseph Henrich points out that people around the world rely on technologies that are often so complex that no one can learn them rationally. Instead, people must learn them step by step, trusting in the wisdom of more experienced elders and peers. So the next time you hear someone arguing passionately that everyone should embrace nonconformity and avoid imitating others, you might laugh a little bit. We're not chimpanzees, after all.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What might explain humans' having the largest population of almost all mammals?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are equipped with raw strength for solving the most challenging problems."
+              },
+              {
+                "l": "B",
+                "t": "They cope with the outside world more effectively than their animal relatives."
+              },
+              {
+                "l": "C",
+                "t": "They possess the most outstanding ability to think."
+              },
+              {
+                "l": "D",
+                "t": "They know how to survive everywhere on earth."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What accounts for humans' evolutionary successes according to a growing number of cognitive scientists and\n anthropologists?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are better at innovating solutions."
+              },
+              {
+                "l": "B",
+                "t": "They thrive through creative strategies."
+              },
+              {
+                "l": "C",
+                "t": "They are naturally adaptive to ecological contexts."
+              },
+              {
+                "l": "D",
+                "t": "They meet challenges by imitating others carefully."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What does the author think is odd about the findings of the study by Victoria Horner and Andrew Whiten?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Children irrationally imitated every action of the experimenters."
+              },
+              {
+                "l": "B",
+                "t": "Chimpanzees could tell the transparent box from the opaque one."
+              },
+              {
+                "l": "C",
+                "t": "Chimpanzees could retrieve the treat more quickly than children did."
+              },
+              {
+                "l": "D",
+                "t": "Children omitted the step of tapping on the box with a stick to open it."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What is anthropologist Joseph Henrich's explanation for the human preference for copying?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It originates in the rationality of people around the world."
+              },
+              {
+                "l": "B",
+                "t": "It stems from the way people learn complex technologies."
+              },
+              {
+                "l": "C",
+                "t": "It results from people distrusting their own wisdom."
+              },
+              {
+                "l": "D",
+                "t": "It derives from the desire to acquire knowledge step by step."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What point does the author want to emphasize when he says \"We're not chimpanzees\"?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is arguable whether everyone should avoid imitation."
+              },
+              {
+                "l": "B",
+                "t": "It is characteristic of human beings to copy others."
+              },
+              {
+                "l": "C",
+                "t": "It is desirable to trust in more knowledgeable peers."
+              },
+              {
+                "l": "D",
+                "t": "It is naive to laugh at someone embracing nonconformity."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "近年来,中国城市加快发展,城市人居环境得到显著改善。许多城市努力探索中国特色的城市高质量发展之 路,城市功能不断完善,治理水平明显提高。中国持续开展城市生态修复和功能修补,全面实施城镇老旧小区改造, 大力推进城市园林绿化,消除污染 ;同时大力推进城市基础设施体系化建设,开展房屋建筑和市政设施普查以及 安全隐患排查整治,努力为市民创造高品质的生活环境,让城市更美丽、更安全、更宜居。",
+    "reference": "In recent years, Chinese cities have accelerated their development, and the urban living environment has improved significantly. Many cities strive to explore a path of high-quality urban development with Chinese characteristics, with urban functions being steadily improved and governance markedly enhanced. China has been carrying out a series of efforts, including the ecological restoration and functional improvement of cities, the comprehensive renovation of old urban residential communities, the vigorous promotion of urban landscaping and afforestation, and the elimination of pollution. At the same time, it vigorously advances the systematic construction of urban infrastructure and conducts surveys of housing and municipal facilities as well as the investigation and rectification of potential safety hazards, striving to create a high-quality living environment for citizens and to make cities more beautiful, safer and more livable."
+  }
+}

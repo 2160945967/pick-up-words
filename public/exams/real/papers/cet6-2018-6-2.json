@@ -1,0 +1,1365 @@
+{
+  "id": "cet6-2018-6-2",
+  "level": "cet6",
+  "year": 2018,
+  "month": 6,
+  "set": 2,
+  "title": "2018年6月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of building trust between teachers and students. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+    "sample": "Trust is the invisible bridge that connects a teacher and a student. In my view, building mutual trust between the two plays a vital role in effective education, and its importance can hardly be overstated.To begin with, trust encourages students to open up. When learners believe their teacher will not laugh at them, they dare to ask questions and admit confusion, which greatly improves learning efficiency. Take my former classmate Tom as an example. He used to keep silent in class, yet after a patient teacher earned his trust, he began to raise his hand and made remarkable progress. Moreover, trust fosters a positive learning atmosphere, in which teachers are willing to devote extra effort and students feel respected rather than judged.In conclusion, mutual trust is not a luxury but a necessity for genuine learning. Only when teachers and students truly rely on each other can knowledge be passed on and talent be nurtured. Therefore, both sides should make every effort to establish and protect this precious bond."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She advocates animal protection."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She sells a special kind of coffee."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is going to start a café chain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is the owner of a special café."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They bear a lot of similarities."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are a profitable business sector."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They cater to different customers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They help take care of customers' pets."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By giving them regular cleaning and injections."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By selecting breeds that are tame and peaceful."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By placing them at a safe distance from customers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By briefing customers on how to get along with them."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They want to learn about rabbits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They like to bring in their children."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They love the animals in her café."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They give her café favorite reviews.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Tonight we have a special guest from a local establishment, the Parisian Cafe. Welcome!",
+                "zh": "M：今晚我们请来了一位来自本地巴黎咖啡馆的特别嘉宾。欢迎！"
+              },
+              {
+                "en": "W: Hi, thanks for having me on your show.",
+                "zh": "W：你好，谢谢你邀请我参加你的节目。"
+              },
+              {
+                "en": "M: Thank you for joining us. So please tell us, why did you decide to open a cafe?",
+                "zh": "M：感谢你加入我们。那么请告诉我们，你为什么决定开一家咖啡馆？"
+              },
+              {
+                "en": "W: Well, we saw the opportunity to offer something a little special and different from other establishments. Cafes certainly are a very competitive market sector. There are more than plenty in our city, and we felt they are all rather similar to each other. Wouldn't you agree?",
+                "zh": "W：嗯，我们看到了提供一些特别的、不同于其他店铺的东西的机会。咖啡馆当然是一个竞争非常激烈的市场领域。我们城市里这样的店多得不得了，而我们觉得它们彼此都很相似。你不觉得吗？"
+              },
+              {
+                "en": "M: Certainly yes. So how is your establishment any different?",
+                "zh": "M：确实如此。那么你们的店有什么不同呢？"
+              },
+              {
+                "en": "W: Well, simply put, we have rabbits wandering freely around the place. Our customers come in and enjoy their food and drinks while little rabbits play about and brush against their legs. There is no other place like it.",
+                "zh": "W：简单地说，我们店里有兔子自由走来走去。顾客进来后，一边享用食物和饮料，一边看着小兔子嬉戏，还会蹭过他们的腿。没有其他地方是这样的。"
+              },
+              {
+                "en": "M: That's amazing! How did you come up with the idea?",
+                "zh": "M：太神奇了！你们是怎么想到这个主意的？"
+              },
+              {
+                "en": "W: We saw other cafes with cats in them. So we thought, why not rabbits? People love rabbits. They are very cute animals.",
+                "zh": "W：我们看到过其他有猫咪的咖啡馆。所以我们就想，为什么不能养兔子呢？人们都喜欢兔子。它们是非常可爱的动物。"
+              },
+              {
+                "en": "M: But is it safe? Do the rabbits ever bite people? Or do any customers ever hurt the rabbits?",
+                "zh": "M：但这样安全吗？兔子会不会咬人？或者有没有顾客伤害过兔子？"
+              },
+              {
+                "en": "W: It's perfectly safe for both rabbits and our customers. Rabbits are very peaceful and certainly do not bite. Furthermore, our rabbits are regularly cleaned and have all received the required shots. So there is no health risk whatsoever. As for our customers, they are all animal lovers, so they would never try to hurt the rabbits. Sometimes a young child may get over-excited, and be a little too rough, but it's never a serious matter. On the contrary, the Parisian Cafe offers a great experience for children, a chance for them to learn about rabbits and how to take care of them.",
+                "zh": "W：这对兔子和顾客双方来说都完全安全。兔子非常温顺，当然不会咬人。此外，我们会定期给兔子清洁，它们也都接种了规定的疫苗。所以完全不存在任何健康风险。至于我们的顾客，他们都是爱动物的人，因此绝不会试图伤害兔子。有时候小孩子可能会过于兴奋，动作稍微粗鲁一些，但从来不会造成严重后果。恰恰相反，巴黎咖啡馆能给孩子们带来很棒的体验，让他们有机会了解兔子以及如何照顾它们。"
+              },
+              {
+                "en": "M: Well, it's certainly the first time I've heard of a cafe like that.",
+                "zh": "M：嗯，我还是第一次听说有这样的咖啡馆。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It contains too many additives."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It lacks the essential vitamins."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can cause obesity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is mostly garbage."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its fancy design."
+                  },
+                  {
+                    "l": "B",
+                    "t": "TV commercials."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its taste and texture."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Peer influence."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Investing heavily in the production of sweet foods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Marketing their products with ordinary ingredients."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Trying to trick children into buying their products."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Offering children more varieties to choose from."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They hardly ate vegetables."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They seldom had junk food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They favored chocolate-coated sweets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They liked the food advertised on TV."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hey, there. How are you?",
+                "zh": "M: 嗨，你好。你怎么样？"
+              },
+              {
+                "en": "W: Oh, hi. I'm great! Thanks. And you look great, too.",
+                "zh": "W: 哦，嗨。我很好！谢谢。你看起来也很棒。"
+              },
+              {
+                "en": "M: Thank you. It's good to see you shopping at the organic section. I see you've got lots of healthy stuff. I wish I could buy more organic produce from here, but I find the kids don't like it. I don't know about yours, but mine are all about junk food.",
+                "zh": "M: 谢谢。很高兴看到你在有机食品区购物。我看你买了很多健康食品。我也希望能多在这里买些有机农产品，但我发现孩子们不喜欢。我不知道你家的孩子怎么样，反正我家的孩子满脑子都是垃圾食品。"
+              },
+              {
+                "en": "W: Oh, trust me! I know exactly how you feel. My children are the same. What is it with kids these days and all that junk food they eat? I think it's all that advertising on TV. That's where they get it.",
+                "zh": "W: 哦，相信我！我完全能理解你的感受。我的孩子也一样。现在的孩子到底是怎么回事，怎么吃那么多垃圾食品？我觉得都是电视上的广告闹的。他们就是从那里学来的。"
+              },
+              {
+                "en": "M: Yes, it must be. My children see something on TV and they immediately want it. It's like they don't realize it's just an advertisement.",
+                "zh": "M: 是的，肯定是这样。我的孩子在电视上看到什么，马上就想要什么。他们好像意识不到那只是一则广告。"
+              },
+              {
+                "en": "W: Right. And practically everything that's advertised for children is unhealthy processed foods. No surprise then it becomes a battle for us parents to feed our children ordinary fruit and vegetables.",
+                "zh": "W: 没错。而且，几乎所有面向儿童投放广告的东西都是不健康的加工食品。这样一来，我们这些家长要让孩子吃普通的水果和蔬菜，自然就成了一场斗争。"
+              },
+              {
+                "en": "M: That's just the thing. One never sees ordinary ingredients being advertised on TV. It's never a carrot or a peach. It's always some garbage, like chocolate-covered sweets. So unhealthy.",
+                "zh": "M: 这正是问题所在。人们从来不会在电视上看到普通食材的广告。广告里绝不会出现胡萝卜或桃子，总是些垃圾食品，比如裹着巧克力的糖果。太不健康了。"
+              },
+              {
+                "en": "W: Exactly. And these big food corporations have so much money to spend on clever tactics designed to make young children want to buy their products. Children never stand a chance. It's really not fair.",
+                "zh": "W: 可不是嘛。而且，这些大型食品公司有很多钱可以花在精心设计的策略上，想方设法让小孩子想买他们的产品。孩子们根本没有机会抵挡。真的太不公平了。"
+              },
+              {
+                "en": "M: You are so right. When we were children, we barely had any junk food available, and we turned out just fine.",
+                "zh": "M: 你说得太对了。我们小时候几乎没有什么垃圾食品可吃，但我们最后不也好好的。"
+              },
+              {
+                "en": "W: Yes. My parents don't understand any of it. Both the TV commercials and the supermarkets are alien to them. Their world was so different back when they were young.",
+                "zh": "W: 是啊。我父母完全无法理解这些。电视广告和超市对他们来说都很陌生。他们年轻的时候，那个世界和现在太不一样了。"
+              },
+              {
+                "en": "M: I don't know what will happen to the next generation.",
+                "zh": "M: 我不知道下一代会变成什么样。"
+              },
+              {
+                "en": "W: The world is going crazy.",
+                "zh": "W: 这个世界真是疯了。"
+              },
+              {
+                "en": "M: You bet.",
+                "zh": "M: 可不是嘛。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Stretches of farmland."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Typical Egyptian animal farms."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Tombs of ancient rulers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Ruins left by devastating floods."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It provides habitats for more primitive tribes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is hardly associated with great civilizations."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has not yet been fully explored and exploited."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It gathers water from many tropical rain forests."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It carries about one fifth of the world's fresh water."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has numerous human settlements along its banks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is second only to the Mississippi River in width."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is as long as the Nile and the Yangtze combined.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "At some 2,300 miles in length, the Mississippi is the longest river in the United States. At some 1,000 miles, the Mackenzie is the longest river in Canada. But these waterways seem minute in comparison to the world's two lengthiest rivers—the Nile and the Amazon.",
+                "zh": "密西西比河全长约2300英里，是美国最长的河流。全长约1000英里的马更些河是加拿大最长的河流。但与世界上最长的两条河流——尼罗河和亚马孙河——相比，这些水道似乎微不足道。"
+              },
+              {
+                "en": "The Nile, which begins in central Africa and flows over 4,100 miles north into the Mediterranean, hosted one of the world's great ancient civilizations along its shores. Calm and peaceful for most of the year, the Nile used to flood annually, thereby creating, irrigating and carrying new topsoil to the nearby farmland on which ancient Egypt depended for livelihood. As a means of transportation, the river carried various vessels up and down its length. A journey through the unobstructed part of this waterway today would pass by the splendid Valley of the Kings, where the tombs of many of these ancient monarchs have stood for over 3,000 years.",
+                "zh": "尼罗河发源于非洲中部，向北流经4100多英里，注入地中海；世界上最伟大的古代文明之一曾在它的两岸繁衍。尼罗河一年中大部分时间都平静安宁，过去却每年泛滥，从而为附近的农田创造、灌溉并输送新的表土，古埃及正是依靠这些农田维持生计的。作为一种交通方式，这条河承载着各种船只往返于全程。如今，沿着这条水道畅通无阻的河段航行，将会经过壮丽的帝王谷；许多古代君主的陵墓已在那里屹立了三千多年。"
+              },
+              {
+                "en": "Great civilizations and intensive settlement are hardly associated with the Amazon. Yet this 4,000-mile-long South American river carries about 20% of the world's fresh water—more than the Mississippi, Nile, and Yangtze combined. Other statistics are equally astonishing. The Amazon is so wide at some points that from its center neither shore can be seen. Each second, the Amazon pours some 55 million gallons of water into the Atlantic; there, at its mouth, stands one island larger than Switzerland. Most important of all, the Amazon irrigates the largest tropical rain forest on earth.",
+                "zh": "亚马孙河很难让人联想到伟大的文明和密集的聚居地。然而，这条全长4000英里的南美洲河流承载着世界淡水总量的约20%，超过密西西比河、尼罗河和长江三者的总和。其他一些数据同样令人惊叹。亚马孙河在某些地方宽阔无比，从河流中央甚至看不到两岸。亚马孙河每秒向大西洋倾泻约5500万加仑的水；在河口处，有一座面积比瑞士还大的岛屿。最重要的是，亚马孙河灌溉着地球上最大的热带雨林。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Living a life in the fast lane leads to success."
+                  },
+                  {
+                    "l": "B",
+                    "t": "We are always in a rush to do various things."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The search for tranquility has become a trend."
+                  },
+                  {
+                    "l": "D",
+                    "t": "All of us actually yearn for a slow and calm life."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She had trouble balancing family and work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She enjoyed the various social events."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She was accustomed to tight schedules."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She spent all her leisure time writing books."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The possibility of ruining her family."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Becoming aware of her declining health."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The fatigue from living a fast-paced life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Reading a book about slowing down."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She started to follow the cultural norms."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She came to enjoy doing everyday tasks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She learned to use more polite expressions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She stopped using to-do lists and calendars."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "How often do you say to people \"I'm busy\" or \"I haven't got time for that?\" It's an inevitable truth that all of us live a life in the fast lane, even though we know that being busy is not always particularly healthy.",
+                "zh": "你多久会对别人说“我很忙”或“我没有时间做那件事”？不可否认，我们所有人都生活在快车道上，尽管我们知道忙碌并不总是特别健康。"
+              },
+              {
+                "en": "Growing up in New Zealand, everything was always calm and slow. People enjoyed the tranquility of a slower pace of life. But after I moved to Tokyo and lived there for a number of years, I got used to having a pile of to-do lists and my calendar always looked like a mess, with loads of things to do written across it. I found myself filling my time up with endless work meetings and social events, rushing along as busy as a bee.",
+                "zh": "我在新西兰长大，那里的生活一直平静而缓慢。人们享受着慢节奏生活的宁静。然而，搬到东京并在那里生活了几年后，我习惯了堆积如山的待办事项，我的日历也总是一团糟，上面写满了要做的事情。我发现自己用没完没了的工作会议和社交活动填满了时间，像一只忙碌的蜜蜂一样匆忙奔波。"
+              },
+              {
+                "en": "Then, one day, I came across a book called In Praise of Slowness and realized that being busy is not only detrimental, but also has the danger of turning life into an endless race. So I started practicing the various practical steps mentioned by the author in the book, and began to revolt against the very idea of being too busy. It doesn't mean that my to-do lists no longer exist, but I've become more aware of the importance of slowing down and making sure that I enjoy the daily activities as I carry them out.",
+                "zh": "后来有一天，我偶然读到一本名为《慢行的赞歌》的书，并意识到忙碌不仅有害，还可能使生活变成一场无休止的赛跑。因此，我开始实践书中作者提到的各种实际步骤，并开始反抗过度忙碌这一观念。这并不意味着我的待办事项不复存在了，但我更加意识到放慢脚步的重要性，并确保自己在进行日常活动时能够享受其中。"
+              },
+              {
+                "en": "From now on, when someone asks you how your life is, try responding with words like \"exciting and fun\" instead of the cultural norm that says \"busy.\" See if you experience the tranquility that follows.",
+                "zh": "从现在开始，当有人问你的生活怎么样时，试着用“令人兴奋而有趣”之类的话来回答，而不是遵循把“忙碌”作为回答的文化惯例。看看随之而来的宁静是否会降临到你身上。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will root out native species altogether."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They contribute to a region's biodiversity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They pose a threat to the local ecosystem."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will crossbreed with native species."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their classifications are meaningful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their interactions are hard to define."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their definitions are changeable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their distinctions are artificial."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Only a few of them cause problems to native species."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They may turn out to benefit the local environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Few of them can survive in their new habitats."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Only 10 percent of them can be naturalized.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Governments, private groups and individuals spend billions of dollars a year trying to root out non-native organisms that are considered dangerous to ecosystems, and to prevent the introduction of new intruders.",
+                "zh": "各国政府、私人团体和个人每年耗费数十亿美元，试图根除那些被认为会危害生态系统的非本地生物，并防止新的入侵者被引入。"
+              },
+              {
+                "en": "But a number of scientists question the assumption that the presence of alien species can never be acceptable in a natural ecosystem. They say that portraying introduced species as inherently bad is an unscientific approach.",
+                "zh": "但一些科学家质疑这样一种假设，即外来物种的存在在自然生态系统中绝不可能被接受。他们认为，把引入物种描述成天生有害，是一种不科学的做法。"
+              },
+              {
+                "en": "Distinctions between exotic and native species are artificial, said Dr. Michael Rosenzweig, a professor of evolutionary biology at the University of Arizona, because they depend on picking a date and calling the plants and animals that show up after that date exotic. Ecosystems free of species defined as exotic are, by default, considered the most natural.",
+                "zh": "亚利桑那大学进化生物学教授迈克尔·罗森茨威格博士说，外来物种与本地物种之间的区分是人为的，因为这种区分取决于选定一个日期，并把在该日期之后出现的动植物称为外来物种。没有被定义为外来物种的生态系统，按默认标准被视为最自然的生态系统。"
+              },
+              {
+                "en": "\"You can't roll back the clock and remove all exotics or fix habitats,\" Dr. Rosenzweig said. \"Both native and exotic species can become invasive, and so they all have to be monitored and controlled when they begin to get out of hand.\"",
+                "zh": "罗森茨威格博士说：“你不可能让时间倒流，清除所有外来物种，也不可能修复所有栖息地。本地物种和外来物种都可能变成入侵物种，因此，当它们开始失去控制时，都必须受到监测和控制。”"
+              },
+              {
+                "en": "At its core, the debate is about how to manage the world's remaining natural ecosystems and about how, and how much, to restore other habitats. Species that invade a territory can harm ecosystems, agriculture and human health. They can threaten some native species or even destroy and replace others. Next to habitat loss, these invasive species represent the greatest threat to biodiversity worldwide, many ecologists say.",
+                "zh": "这场争论的核心，是如何管理世界上现存的自然生态系统，以及如何、在多大程度上恢复其他栖息地。侵入某一地区的物种可能危害生态系统、农业和人类健康。它们可能威胁某些本地物种，甚至摧毁并取代其他物种。许多生态学家说，除了栖息地丧失之外，这些入侵物种是全球生物多样性面临的最大威胁。"
+              },
+              {
+                "en": "Ecologists generally define an alien species as one that people, accidentally or deliberately, carried to its new location. Across the American continents, exotic species are those introduced after the first European contact. That date, rounded off to 1500 AD, represents what ecologists consider to have been a major shift in the spread of species, including crops and livestock, as they began to migrate with humans from continent to continent.",
+                "zh": "生态学家通常把外来物种定义为由人类偶然或有意带到新地点的物种。在美洲大陆，外来物种是指在欧洲人首次抵达之后被引入的物种。这个日期约定为公元1500年，生态学家认为，这是物种传播发生重大转变的时期，因为从那时起，包括农作物和牲畜在内的物种开始随着人类从一个大陆迁移到另一个大陆。"
+              },
+              {
+                "en": "Only a small percentage of alien species cause problems in their new habitats, said Don Smith, professor of ecology and evolutionary biology at the University of Tennessee. Of the 7,000 alien species in the United States—out of a total of 150,000 species—only about 10 percent are invasive, he pointed out. The other 90 percent have fit into their environments and are considered naturalized. Yet appearances can deceive, ecologists caution, and many of these exotics may be considered acceptable only because no one has documented their harmful effects. What is more, non-native species can appear harmless for decades, then turn invasive.",
+                "zh": "田纳西大学生态学与进化生物学教授唐·史密斯说，只有一小部分外来物种会在新的栖息地造成问题。他指出，美国有7,000种外来物种，而物种总数为150,000种，其中只有约10%属于入侵物种。其余90%已经适应了所在环境，被视为归化物种。然而，生态学家提醒说，表象可能具有欺骗性，其中许多外来物种之所以被认为可以接受，只是因为没有人记录过它们造成的有害影响。此外，非本地物种可能几十年来看似无害，后来却转变为入侵物种。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Respect their traditional culture."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Attend their business seminars."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Research their specific demands."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Adopt the right business strategies."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Showing them your palm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Giving them gifts of great value."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Drinking alcohol on certain days of a month."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Clicking your fingers loudly in their presence."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are very easy to satisfy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have a strong sense of worth."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They tend to be friendly and enthusiastic."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have a break from 2:00 to 5:30 p.m.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Good morning, ladies and gentlemen. And welcome to the third in our series of business seminars in the program—Doing Business Abroad. Today we are going to look at intercultural awareness, that is, the fact that not everyone is British, not everyone speaks English and not everyone does business in the British way. And why should they? If overseas business people are selling to us, then they will make every effort to speak English and to respect our traditions and methods. It is only polite for us to do the same when we visit them. It is not only polite. It is essential if we want to sell British products overseas.",
+                "zh": "女士们、先生们，早上好。欢迎参加“海外经商”项目系列商务研讨会的第三场。今天我们将探讨跨文化意识，也就是说，并非所有人都是英国人，并非所有人都说英语，也并非所有人都按照英国人的方式做生意。他们为什么要这样做呢？如果海外商人向我们销售商品，那么他们会尽一切努力说英语，并尊重我们的传统和做法。我们访问他们时，也应该这样做，这不仅是礼貌问题。如果我们想把英国产品销往海外，这更是必不可少的。"
+              },
+              {
+                "en": "First, a short quiz. Let's see how interculturally aware you are. Question 1: Where must you not drink alcohol on the first and seventh of every month? Question 2: Where should you never admire your host's possessions? Question 3: How should you attract the waiter during a business lunch in Bangkok? And Question 4: Where should you try to make all your appointments either before 2:00 or after 5:30 p.m.?",
+                "zh": "首先进行一个简短的测验。让我们看看你们对跨文化问题的了解程度。问题一：每月一号和七号，在哪些地方不得饮酒？问题二：在哪些地方绝不能夸赞主人拥有的物品？问题三：在曼谷商务午餐期间，应该怎样招呼服务员？问题四：在哪些地方，你应尽量把所有约会安排在下午两点以前或五点半以后？"
+              },
+              {
+                "en": "OK. Everyone had a chance to make some notes? Right. Here are the answers—although I am sure that the information could equally well apply to countries other than those I have chosen. So No. 1, you must not drink alcohol on the first and seventh of the month in India. In international hotels, you may find it served, but if you are having a meal with an Indian colleague, remember to avoid asking for a beer if your arrival coincides with one of those dates. 2, In Arab countries, the politeness and generosity of the people are without parallel. If you admire your colleague's beautiful golden bowls, you may well find yourself being presented with them as a present. This is not a cheap way to do your shopping, however, as your host will, quite correctly, expect you to respond by presenting him with a gift of equal worth and beauty. In Thailand, clicking the fingers, clapping your hands, or just shouting \"Waiter!\", will embarrass your hosts, fellow diners, the waiter himself and, most of all, you! Place your palm downward and make an inconspicuous waving gesture, which will produce instant and satisfying results. And finally, in Spain, some businesses maintain the pattern of working until about 2 o'clock and then returning to the office from 5:30 to 8:00, 9:00 or 10:00 in the evening.",
+                "zh": "好了，大家都有机会做些笔记了吗？那么，下面是答案——不过我相信，这些信息同样适用于其他国家，不一定只适用于我所选择的这些国家。第一，在印度，每月一号和七号不得饮酒。在国际酒店里，你可能会看到有酒供应，但如果你和一位印度同事一起用餐，请记住，如果你到达的日期恰逢这两天中的一天，就不要开口要啤酒。第二，在阿拉伯国家，人们的礼貌和慷慨无与伦比。如果你夸赞同事漂亮的金色碗具，你很可能会发现自己随后收到了对方把这些碗具作为礼物送给你的礼遇。不过，这并不是一种廉价购物方式，因为主人完全有理由期待你送给他一件价值和美观程度相当的礼物。在泰国，打响指、拍手，或者只是大喊“服务员！”，都会让你的主人、同桌用餐者、服务员本人，尤其是你自己感到尴尬。把手掌朝下，做一个不引人注意的挥手动作，这样马上就会得到令人满意的回应。最后，在西班牙，一些企业保持着这样的工作安排：工作到下午两点左右，然后从下午五点半回到办公室，一直工作到晚上八点、九点或十点。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He completely changed the company's culture."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He collected paintings by world-famous artists."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He took over the sales department of Reader's Digest."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He had the company's boardroom extensively renovated."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It should be sold at a reasonable price."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its articles should be short and inspiring."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It should be published in the world's leading languages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its articles should entertain blue- and pink-collar workers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He knew how to make the magazine profitable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He served as a church minister for many years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He suffered many setbacks and misfortunes in his life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He treated the employees like members of his family."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It carried many more advertisements."
+                  },
+                  {
+                    "l": "B",
+                    "t": "George Grune joined it as an ad salesman."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Several hundred of its employees got fired."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its subscriptions increased considerably."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Shortly after he took over the Reader's Digest Association in 1984, George Grune unlocked the company's boardroom and announced that the room was now open to the employees. It was a symbolic act, indicating that under Grune's leadership, Reader's Digest was going to be different. True to his word, Grune has shaken up the culture here. To get an idea of the culture we're talking about, consider the boardroom Grune opened up. It has artworks that any museum in the world would want to collect, paintings by many world-famous artists like Monet and Picasso. Its headquarters houses some 3,000 works of art. The main building is topped with a Georgian Tower with four sculptures of the mythical winged horse, the magazine's corporate logo. It sits on 127 acres of well-trimmed lawns.",
+                "zh": "1984年乔治·格鲁内接管读者文摘协会后不久，他打开了公司的董事会议室，并宣布这间会议室现在向员工开放。这一举动具有象征意义，表明在格鲁内的领导下，《读者文摘》将会有所不同。格鲁内言出必行，彻底改变了这里的企业文化。要了解我们所说的这种文化，可以看看格鲁内开放的那间董事会议室。里面陈列着世界上任何一家博物馆都想收藏的艺术品，其中有莫奈、毕加索等许多世界著名艺术家的画作。公司总部收藏着约3000件艺术品。主楼顶部是一座乔治亚式塔楼，塔楼上有四尊神话中的飞马雕塑，这也是该杂志的企业标志。总部坐落在127英亩修剪整齐的草坪之上。"
+              },
+              {
+                "en": "The editor's office used to be occupied by founder DeWitt Wallace, who, along with his wife, Lila Acheson Wallace, launched Reader's Digest in 1922 with condensed articles from other publications. It has become the world's most widely read magazine, selling 28 million copies each month in 17 languages and 41 different editions. The Wallaces, both children of church ministers, had a clearly defined formula for their \"little magazine\" as Reader's Digest was originally subtitled. Articles were to be short, readable and uplifting. Subjects were picked to inspire or entertain. The Wallaces didn't accept advertising in the US edition until 1955 and even then they didn't allow any ads for cigarettes, liquor or drugs. The Wallaces also had a clear sense of the kind of workplace they wanted. It started as a mom-and-pop operation and the childless Wallaces always considered employees to be part of their family. Employees still tell stories of how the Wallaces would take care of their employees who had met with misfortunes and they showered their employees with unusual benefits, like a turkey at Thanksgiving and Fridays off in May.",
+                "zh": "编辑办公室过去由创办人德威特·华莱士使用。1922年，他与妻子莉拉·艾奇逊·华莱士一道，以其他出版物中的文章为基础编选精简版内容，创办了《读者文摘》。如今，它已成为世界上发行量最大的杂志，每月以17种语言、41个不同版本发行2800万册。华莱士夫妇都是牧师的子女，他们为自己的“小杂志”——《读者文摘》最初的副标题——制定了一套明确的办刊方针。文章必须短小、易读并且鼓舞人心，选题则要能够带来启发或娱乐。直到1955年，华莱士夫妇才接受美国版刊登广告；即便如此，他们也不允许刊登香烟、酒类或药品广告。华莱士夫妇同样清楚自己希望建立怎样的工作场所。公司最初是由夫妻二人经营的小型企业，而没有子女的华莱士夫妇始终把员工视为家庭的一员。员工们至今仍会讲述华莱士夫妇如何照料那些遭遇不幸的员工，以及如何给予员工一些不同寻常的福利，比如感恩节送火鸡，以及五月份每周五放假。"
+              },
+              {
+                "en": "This cozy workplace no longer exists here. The Wallaces both died in their nineties in the early 1980s. George Grune, a former ad salesman who joined Reader's Digest in 1960, has his eye focused on the bottom line. In a few short years, he turned the magazine on its head. He laid off several hundred workers. Especially hard hit were the blue- and pink-collar departments such as subscription fulfillment.",
+                "zh": "这里那种温馨的工作场所已经不复存在。20世纪80年代初，华莱士夫妇都在九十多岁时去世了。乔治·格鲁内曾是一名广告推销员，1960年加入《读者文摘》，如今他的目光已经锁定在利润上。短短几年间，他彻底颠覆了这本杂志的经营方式。他裁掉了数百名员工。蓝领和粉领部门受到的打击尤其严重，其中包括订阅订单处理部门。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Did Sarah Josepha Hale write \"Mary's Little Lamb,\" the eternal nursery rhyme(儿歌) about a girl named Mary with a stubborn lamb? This is still disputed, but it's clear that the woman"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "for writing it was one of America's most fascinating"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". In honor of the poem's publication on May 24, 1830, here's more about the"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "author's life. Hale wasn't just a writer, she was also a"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "social advocate, and she was particularly"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "with an ideal New England, which she associated with abundant Thanksgiving meals that she claimed had \"a deep moral influence.\" She began a nationwide"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "to have a national holiday declared that would bring families together while celebrating the"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "festivals. In 1863, after 17 years of advocacy including letters to five presidents, Hale got it. President Abraham Lincoln, during the Civil War, issued a"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "setting aside the last Thursday in November for the holiday. The true authorship of \"Mary's Little Lamb\" is disputed. According to the New England Historical Society, Hale wrote only part of the poem, but claimed authorship. Regardless of the author, it seems that the poem was"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "by a real event. When young Mary Sawyer was followed to school by a lamb in 1816, it caused some problems. A bystander named John Roulstone wrote a poem about the event, then, at some point, Hale herself seems to have helped write it. However, if a 1916 piece by her great-niece is to be trusted, Hale claimed for the"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "of her life that \"some other people pretended that someone else wrote the poem\"."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "campaign"
+        },
+        {
+          "l": "B",
+          "w": "career"
+        },
+        {
+          "l": "C",
+          "w": "characters"
+        },
+        {
+          "l": "D",
+          "w": "features"
+        },
+        {
+          "l": "E",
+          "w": "fierce"
+        },
+        {
+          "l": "F",
+          "w": "inspired"
+        },
+        {
+          "l": "G",
+          "w": "latter"
+        },
+        {
+          "l": "H",
+          "w": "obsessed"
+        },
+        {
+          "l": "I",
+          "w": "proclamation"
+        },
+        {
+          "l": "J",
+          "w": "rectified"
+        },
+        {
+          "l": "K",
+          "w": "reputed"
+        },
+        {
+          "l": "L",
+          "w": "rest"
+        },
+        {
+          "l": "M",
+          "w": "supposed"
+        },
+        {
+          "l": "N",
+          "w": "traditional"
+        },
+        {
+          "l": "O",
+          "w": "versatile"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "K"
+        },
+        {
+          "n": 27,
+          "a": "C"
+        },
+        {
+          "n": 28,
+          "a": "M"
+        },
+        {
+          "n": 29,
+          "a": "E"
+        },
+        {
+          "n": 30,
+          "a": "H"
+        },
+        {
+          "n": 31,
+          "a": "A"
+        },
+        {
+          "n": 32,
+          "a": "N"
+        },
+        {
+          "n": 33,
+          "a": "I"
+        },
+        {
+          "n": 34,
+          "a": "F"
+        },
+        {
+          "n": 35,
+          "a": "L"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Grow Plants Without Water",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Ever since humanity began to farm our own food, we've faced the unpredictable rain that is both friend and enemy. It comes and goes without much warning, and a field of lush(茂盛的) leafy greens one year can dry up and blow away the next. Food security and fortunes depend on sufficient rain, and nowhere more so than in Africa, where 96% of farmland depends on rain instead of the irrigation common in more developed places. It has consequences: South Africa's ongoing drought—the worst in three decades—will cost at least a quarter of its corn crop this year."
+        },
+        {
+          "l": "B",
+          "t": "Biologist Jill Farrant of the University of Cape Town in South Africa says that nature has plenty of answers for people who want to grow crops in places with unpredictable rainfall. She is hard at work finding a way to take traits from rare wild plants that adapt to extreme dry weather and use them in food crops. As the earth's climate changes and rainfall becomes even less predictable in some places, those answers will grow even more valuable. \"The type of farming I'm aiming for is literally so that people can survive as it's going to get more and more dry,\" Farrant says."
+        },
+        {
+          "l": "C",
+          "t": "Extreme conditions produce extremely tough plants. In the rusty red deserts of South Africa, steep-sided rocky hills called inselbergs rear up from the plains like the bones of the earth. The hills are remnants of an earlier geological era, scraped bare of most soil and exposed to the elements. Yet on these and similar formations in deserts around the world, a few fierce plants have adapted to endure under ever-changing conditions."
+        },
+        {
+          "l": "D",
+          "t": "Farrant calls them resurrection plants( 复苏植物). During months without water under a harsh sun, they wither, shrink and contract until they look like a pile of dead gray leaves. But rainfall can revive them in a matter of hours. Her time-lapse(间歇性拍摄的) videos of the revivals look like someone playing a tape of the plant's death in reverse."
+        },
+        {
+          "l": "E",
+          "t": "The big difference between \"drought-tolerant\" plants and these tough plants: metabolism. Many different kinds of plants have developed tactics to weather dry spells. Some plants store reserves of water to see them through a drought; others send roots deep down to subsurface water supplies. But once these plants use up their stored reserve or tap out the underground supply, they cease growing and start to die. They may be able to handle a drought of some length, and many people use the term \"drought tolerant\" to describe such plants, but they never actually stop needing to consume water, so Farrant prefers to call them drought resistant."
+        },
+        {
+          "l": "F",
+          "t": "Resurrection plants, defined as those capable of recovering from holding less than 0.1 grams of water per gram of dry mass, are different. They lack water-storing structures, and their existence on rock faces prevents them from tapping groundwater, so they have instead developed the ability to change their metabolism. When they detect an extended dry period, they divert their metabolisms, producing sugars and certain stress- associated proteins and other materials in their tissues. As the plant dries, these resources take on first the properties of honey, then rubber, and finally enter a glass-like state that is \"the most stable state that the plant can maintain,\" Farrant says. That slows the plant's metabolism and protects its dried-out tissues. The plants also change shape, shrinking to minimize the surface area through which their remaining water might evaporate. They can recover from months and years without water, depending on the species."
+        },
+        {
+          "l": "G",
+          "t": "What else can do this dry out and revive trick? Seeds—almost all of them. At the start of her career, Farrant studied \"recalcitrant seeds(顽拗性种子),\" such as avocados, coffee and lychee. While tasty, such seeds are delicate—they cannot bud and grow if they dry out (as you may know if you've ever tried to grow a tree from an avocado pit). In the seed world, that makes them rare, because most seeds from flowering plants are quite robust. Most seeds can wait out the dry, unwelcoming seasons until conditions are right and they sprout(发芽). Yet once they start growing, such plants seem not to retain the ability to hit the pause button on metabolism in their stems or leaves."
+        },
+        {
+          "l": "H",
+          "t": "After completing her Ph. D. on seeds, Farrant began investigating whether it might be possible to isolate the properties that make most seeds so resilient(迅速恢复活力的) and transfer them to other plant tissues. What Farrant and others have found over the past two decades is that there are many genes involved in resurrection plants' response to dryness. Many of them are the same that regulate how seeds become dryness- tolerant while still attached to their parent plants. Now they are trying to figure out what molecular signaling processes activate those seed-building genes in resurrection plants—and how to reproduce them in crops. \"Most genes are regulated by a master set of genes,\" Farrant says. \"We're looking at gene promoters and what would be their master switch.\""
+        },
+        {
+          "l": "I",
+          "t": "Once Farrant and her colleagues feel they have a better sense of which switches to throw, they will have to find the best way to do so in useful crops. \"I'm trying three methods of breeding,\" Farrant says: conventional, genetic modification and gene editing. She says she is aware that plenty of people do not want to eat genetically modified crops, but she is pushing ahead with every available tool until one works. Farmers and consumers alike can choose whether or not to use whichever version prevails: \"I'm giving people an option.\""
+        },
+        {
+          "l": "J",
+          "t": "Farrant and others in the resurrection business got together last year to discuss the best species of resurrection plant to use as a lab model. Just like medical researchers use rats to test ideas for human medical treatments, botanists use plants that are relatively easy to grow in a lab or greenhouse setting to test their ideas for related species. The Queensland rock violet is one of the best studied resurrection plants so far, with a draft genome(基因图谱) published last year by a Chinese team. Also last year, Farrant and colleagues published a detailed molecular study of another candidate, Xerophyta viscosa, a tough-as-nail South African plant with lily-like flowers, and she says that a genome is on the way. One or both of these models will help researchers test their ideas—so far mostly done in the lab—on test plots."
+        },
+        {
+          "l": "K",
+          "t": "Understanding the basic science first is key. There are good reasons why crop plants do not use dryness defenses already. For instance, there's a high energy cost in switching from a regular metabolism to an almost-no-water metabolism. It will also be necessary to understand what sort of yield farmers might expect and to establish the plant's safety. \"The yield is never going to be high,\" Farrant says, so these plants will be targeted not at Iowa farmers trying to squeeze more cash out of high-yield fields, but subsistence farmers who need help to survive a drought like the present one in South Africa. \"My vision is for the subsistence farmer,\" Farrant says. \"I'm targeting crops that are of African value.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "There are a couple of plants tough and adaptable enough to survive on bare rocky hills and in deserts.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "Farrant is trying to isolate genes in resurrection plants and reproduce them in crops.",
+          "a": "H"
+        },
+        {
+          "n": 38,
+          "s": "Farmers in South Africa are more at the mercy of nature, especially inconsistent rainfall.",
+          "a": "A"
+        },
+        {
+          "n": 39,
+          "s": "Resurrection crops are most likely to be the choice of subsistence farmers.",
+          "a": "K"
+        },
+        {
+          "n": 40,
+          "s": "Even though many plants have developed various tactics to cope with dry weather, they cannot survive a prolonged drought.",
+          "a": "E"
+        },
+        {
+          "n": 41,
+          "s": "Despite consumer resistance, researchers are pushing ahead with genetic modification of crops.",
+          "a": "I"
+        },
+        {
+          "n": 42,
+          "s": "Most seeds can pull through dry spells and begin growing when conditions are ripe, but once this process starts, it cannot be held back.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "Farrant is working hard to cultivate food crops that can survive extreme dryness by studying the traits of rare wild plants.",
+          "a": "B"
+        },
+        {
+          "n": 44,
+          "s": "By adjusting their metabolism, resurrection plants can recover from an extended period of drought.",
+          "a": "F"
+        },
+        {
+          "n": 45,
+          "s": "Resurrection plants can come back to life in a short time after a rainfall.",
+          "a": "D"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Human memory is notoriously unreliable. Even people with the sharpest facial-recognition skills can only remember so much. It's tough to quantify how good a person is at remembering. No one really knows how many different faces someone can recall, for example, but various estimates tend to hover in the thousands—based on the number of acquaintances a person might have. Machines aren't limited this way. Give the right computer a massive database of faces, and it can process what it sees—then recognize a face it's told to find—with remarkable speed and precision. This skill is what supports the enormous promise of facial-recognition software in the 21st century. It's also what makes contemporary surveillance systems so scary. The thing is, machines still have limitations when it comes to facial recognition. And scientists are only just beginning to understand what those constraints are. To begin to figure out how computers are struggling, researchers at the University of Washington created a massive database of faces—they call it MegaFace—and tested a variety of facial-recognition algorithms(算法) as they scaled up in complexity. The idea was to test the machines on a database that included up to 1 million different images of nearly 700,000 different people—and not just a large database featuring a relatively small number of different faces, more consistent with what's been used in other research. As the databases grew, machine accuracy dipped across the board. Algorithms that were right 95% of the time when they were dealing with a 13,000-image database, for example, were accurate about 70% of the time when confronted with 1 million images. That's still pretty good, says one of the researchers, Ira Kemelmacher- Shlizerman. \"Much better than we expected,\" she said. Machines also had difficulty adjusting for people who look a lot alike—either doppelgangers(长相极相似的 人), whom the machine would have trouble identifying as two separate people, or the same person who appeared in different photos at different ages or in different lighting, whom the machine would incorrectly view as separate people. \"Once we scale up, algorithms must be sensitive to tiny changes in identities and at the same time invariant to lighting, pose, age,\" Kemelmacher-Shlizerman said. The trouble is, for many of the researchers who'd like to design systems to address these challenges, massive datasets for experimentation just don't exist—at least, not in formats that are accessible to academic researchers. Training sets like the ones Google and Facebook have are private. There are no public databases that contain millions of faces. Mega Face's creators say it's the largest publicly available facial-recognition dataset out there. \"An ultimate face recognition algorithm should perform with billions of people in a dataset,\" the researchers wrote.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "Compared with human memory, machines can ________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "identify human faces more efficiently"
+              },
+              {
+                "l": "B",
+                "t": "tell a friend from a mere acquaintance"
+              },
+              {
+                "l": "C",
+                "t": "store an unlimited number of human faces"
+              },
+              {
+                "l": "D",
+                "t": "perceive images invisible to the human eye"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "Why did researchers create Mega Face?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To enlarge the volume of the facial-recognition database."
+              },
+              {
+                "l": "B",
+                "t": "To increase the variety of facial-recognition software."
+              },
+              {
+                "l": "C",
+                "t": "To understand computers' problems with facial recognition."
+              },
+              {
+                "l": "D",
+                "t": "To reduce the complexity of facial-recognition algorithms."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What does the passage say about machine accuracy?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It falls short of researchers' expectations."
+              },
+              {
+                "l": "B",
+                "t": "It improves with added computing power."
+              },
+              {
+                "l": "C",
+                "t": "It varies greatly with different algorithms."
+              },
+              {
+                "l": "D",
+                "t": "It decreases as the database size increases."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What is said to be a shortcoming of facial-recognition machines?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They cannot easily tell apart people with near-identical appearances."
+              },
+              {
+                "l": "B",
+                "t": "They have difficulty identifying changes in facial expressions."
+              },
+              {
+                "l": "C",
+                "t": "They are not sensitive to minute changes in people's mood."
+              },
+              {
+                "l": "D",
+                "t": "They have problems distinguishing people of the same age."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What is the difficulty confronting researchers of facial-recognition machines?",
+            "o": [
+              {
+                "l": "A",
+                "t": "No computer is yet able to handle huge datasets of human faces."
+              },
+              {
+                "l": "B",
+                "t": "There do not exist public databases with sufficient face samples."
+              },
+              {
+                "l": "C",
+                "t": "There are no appropriate algorithms to process the face samples."
+              },
+              {
+                "l": "D",
+                "t": "They have trouble converting face datasets into the right format."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "There are currently 21.5 million students in America, and many will be funding their college on borrowed money. Given that there's now over $1.3 trillion in student loans on the books, it's pretty clear that many students are far from sensible. The average student's debt upon graduation now approaches $40,000, and as college becomes ever more expensive, calls to make it \"free\" are multiplying. Even Hillary Clinton says that when it comes to college, \"Costs won't be a barrier.\" But the only way college could be free is if the faculty and staff donated their time, the buildings required no maintenance, and campuses required no utilities. As long as it's impossible to produce something from nothing, costs are absolutely a barrier. The actual question we debate is who should pay for people to go to college. If taxpayers are to bear the cost of forgiving student loans, shouldn't they have a say in how their money is used? At least taxpayers should be able to decide what students will study on the public dime. If we're going to force taxpayers to foot the bill for college degrees, students should only study those subjects that're of greatest benefit to taxpayers. After all, students making their own choices in this respect is what caused the problem in the first place. We simply don't need more poetry, gender studies, or sociology majors. How do we know which subjects benefit society? Easy. Average starting salaries give a clear indication of what type of training society needs its new workers to have. Certainly, there are benefits to a college major beyond the job a student can perform. But if we're talking about the benefits to society, the only thing that matters is what the major enables the student to produce for society. And the value of what the student can produce is reflected in the wage employers are willing to pay the student to produce it. A low wage for elementary school teachers, however, doesn't mean elementary education isn't important. It simply means there are too many elementary school teachers already. Meanwhile, there are few who are willing and able to perform jobs requiring a petroleum engineering major, so the value of one more of those people is very high. So we can have taxpayers pick up students' tuition in exchange for dictating what those students will study. Or we can allow students both to choose their majors and pay for their education themselves. But in the end, one of two things is true: Either a college major is worth its cost or it isn't. If yes, taxpayer financing isn't needed. If not, taxpayer financing isn't desirable. Either way, taxpayers have no business paying for students' college education.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author think of college students funding their education through loans?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They only expect to get huge returns."
+              },
+              {
+                "l": "B",
+                "t": "They are acting in an irrational way."
+              },
+              {
+                "l": "C",
+                "t": "They benefit at taxpayers' expense."
+              },
+              {
+                "l": "D",
+                "t": "They will regret doing so someday."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "In the author's opinion, free college education is ________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "impractical"
+              },
+              {
+                "l": "B",
+                "t": "unsustainable"
+              },
+              {
+                "l": "C",
+                "t": "a goal to strive for"
+              },
+              {
+                "l": "D",
+                "t": "a way to social equality"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What should students do if taxpayers are to bear their college costs?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Work even harder to repay society."
+              },
+              {
+                "l": "B",
+                "t": "Choose their subjects more carefully."
+              },
+              {
+                "l": "C",
+                "t": "Choose majors that will serve society's practical needs."
+              },
+              {
+                "l": "D",
+                "t": "Allow taxpayers to participate in college administration."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What does the author say about the value of a student's college education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is underestimated by profit-seeking employers."
+              },
+              {
+                "l": "B",
+                "t": "It is to be proved by what they can do on the job."
+              },
+              {
+                "l": "C",
+                "t": "It is well reflected in their average starting salary."
+              },
+              {
+                "l": "D",
+                "t": "It is embodied in how they remove social barriers."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What message does the author want to convey in the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Students should think carefully whether to go to college."
+              },
+              {
+                "l": "B",
+                "t": "Taxpayers should only finance the most gifted students."
+              },
+              {
+                "l": "C",
+                "t": "The worth of a college education is open to debate."
+              },
+              {
+                "l": "D",
+                "t": "College students should fund their own education."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国目前拥有世界上最大最快的高速铁路网。高铁列车的运行速度还将继续提升，更多的城市将修建高铁 站。高铁大大缩短了人们出行的时间。相对飞机而言，高铁列车的突出优势在于准时，因为基本不受天气或交 通管制的影响。高铁极大地改变了中国人的生活方式。如今，它已经成了很多人商务旅行的首选交通工具。越 来越多的人也在假日乘高铁外出旅游。还有不少年轻人选择在一个城市工作而在邻近城市居住，每天乘高铁上 下班。",
+    "reference": "China currently has the largest and fastest high-speed railway network in the world. The speed of high-speed trains will continue to increase, and more cities will build high-speed rail stations. High-speed rail has greatly reduced people's travel time. Compared with airplanes, the outstanding advantage of high-speed trains is punctuality, because they are rarely affected by weather or traffic control. High-speed rail has greatly changed the lifestyle of Chinese people. Today, it has become the first choice of transportation for business travel for many people. More and more people also travel by high-speed train during holidays. There are also many young people who choose to work in one city and live in a neighboring one, commuting between the two cities by high-speed train every day."
+  }
+}

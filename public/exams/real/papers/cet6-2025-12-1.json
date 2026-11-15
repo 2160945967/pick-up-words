@@ -1,0 +1,1369 @@
+{
+  "id": "cet6-2025-12-1",
+  "level": "cet6",
+  "year": 2025,
+  "month": 12,
+  "set": 1,
+  "title": "2025年12月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"While striving for the Chinese Dream, young people enjoy more opportunities to realize their self-worth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+    "sample": "While striving for the Chinese Dream, young people enjoy more opportunities to realize their self-worth. As the nation advances, doors that were once closed are swinging open for the younger generation. Specifically, the rapid growth of technology, education and entrepreneurship offers a broad stage on which youth can turn their talents into real contributions.These opportunities become meaningful only when young people seize them actively. Take my cousin as an example: instead of chasing a comfortable office job, she founded a start-up that brings online courses to rural children. For instance, thousands of students now learn from teachers they could never have met, and she has found genuine value in her work. In this way, personal ambition and national progress reinforce each other.In a word, the Chinese Dream is not a distant slogan but a living platform that lets every young person shine. As long as we combine individual effort with the tide of the times, we can both realize our self-worth and push the country forward."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has distinguished himself in foreign service."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is his country's ambassador to Winopia."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is currently an electrical engineer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He craves attention from the media."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A government reshuffle."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A fundamental reform."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some sort of political reorientation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some sort of crisis of legitimacy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All diplomats have more or less similar stories to tell."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a prerequisite to get some practice in diplomacy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Different people can take different paths."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a must to first obtain a law degree."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Key skills required of a diplomat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The making of an expert diplomat."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Diplomatic discourse and rhetoric."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Contributions by diplomatic envoys.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats. Welcome!",
+                "zh": "W: 今天的特别嘉宾是布莱克威尔勋爵，他是我国最具经验、最杰出的职业外交官之一。欢迎您！"
+              },
+              {
+                "en": "M: It's my pleasure.",
+                "zh": "M: 我很荣幸。"
+              },
+              {
+                "en": "W: Our audience will be most interested in learning about a career in the foreign service. However, before we talk about that, I'd like to ask you about the current developments hitting the news today regarding the Republic of Winopia. What can you tell us?",
+                "zh": "W: 我们的听众一定会非常想了解外交部门的职业生涯。不过，在谈这个之前，我想问问您今天新闻中有关Winopia共和国的最新事态发展。您能告诉我们些什么吗？"
+              },
+              {
+                "en": "M: I'm afraid I don't know much beyond what we've all seen on the news. It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy, and an interim administration has been transitionally established until a head of state is agreed on. But my career work has mostly focused around the continental spheres of Europe and the Americas, and thus I've never been involved with Winopian relations. It's for this reason that I don't know anything on this matter beyond what we can all read in the newspapers.",
+                "zh": "M: 恐怕除了我们都在新闻中看到的内容之外，我也不太了解。看起来，Winopia政府似乎正经历某种合法性危机，目前已经临时成立了一个过渡政府，直到各方就国家元首人选达成一致。不过，我的职业生涯主要集中在欧洲和美洲大陆地区，因此从未参与过与Winopia有关的外交事务。正因为如此，关于这件事，除了我们都能在报纸上读到的内容之外，我一无所知。"
+              },
+              {
+                "en": "W: Oh, I see.",
+                "zh": "W: 哦，我明白了。"
+              },
+              {
+                "en": "M: Nevertheless, be rest assured that our expert envoys at our consulate there will be closely monitoring the situation, and I expect our bilateral relations with that country will not be affected.",
+                "zh": "M: 不过请放心，我们驻那里的领事馆中的专家特使会密切关注事态发展，我预计我们与该国的双边关系不会受到影响。"
+              },
+              {
+                "en": "W: So how does one get a career in foreign relations?",
+                "zh": "W: 那么，一个人要怎样才能从事外交事务呢？"
+              },
+              {
+                "en": "M: There are many different paths one can take. All diplomats have their own story. But in my case, I got a degree in electrical engineering followed by six years' service in the air force. Then I went to law school, and upon obtaining a degree in international law, I joined the diplomatic corps where I have been for 22 years.",
+                "zh": "M: 可以选择的道路有很多。每位外交官都有自己的经历。不过就我而言，我先取得了电气工程学位，随后在空军服役了六年。之后我进入法学院学习，取得国际法学位后加入了外交使团，到现在已经22年了。"
+              },
+              {
+                "en": "W: What would you say are the key skills one needs for the job?",
+                "zh": "W: 您认为从事这份工作需要哪些关键技能？"
+              },
+              {
+                "en": "M: There are so many. Being a hard worker and a good student is important. You never stop learning. In addition, a diplomat needs to be very articulate in their discourse and rhetoric. Whether it is defusing attention or enacting policy, people and communication skills are vital.",
+                "zh": "M: 需要的技能很多。勤奋工作、成绩优秀都很重要。学习永无止境。此外，外交官在表达和修辞方面必须非常清晰、善于表达。无论是化解紧张局势还是落实政策，人际交往能力和沟通能力都至关重要。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have got their work done."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They both look tired"
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can meet again tomorrow anyway."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are both anxious to go home."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The board members' insufficient support."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Two months devoted to the same contract."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Working two months without any progress."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The man's long concentration on the project."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Unprofessional."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inspirational."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Exceptional."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Delusional."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Fewer rectifications of the contract."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More support from the board members."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The early implementation of the project."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The alignment of all sections of the contract."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: It's getting late and we're both displaying signs of weariness. I think we should call it a day and meet again tomorrow morning.",
+                "zh": "M：天不早了，而且我们俩都显出疲态了。我觉得我们今天就到这里，明天早上再见吧。"
+              },
+              {
+                "en": "W: Oh, come on, Jeff. We are so close! Don't you think we are almost done? Let's do two more hours, please.",
+                "zh": "W：哦，别这样，Jeff。我们就快完成了！你不觉得我们已经接近尾声了吗？再做两个小时吧，求你了。"
+              },
+              {
+                "en": "M: One hour, then I'm going home.",
+                "zh": "M：那就一小时，之后我就回家。"
+              },
+              {
+                "en": "W: OK, fine. I think we are making good progress, and that with a few more amendments, we will be all done.",
+                "zh": "W：好吧，行。我觉得我们进展不错，再修改几处就全部完成了。"
+              },
+              {
+                "en": "M: I'm sure looking forward to it. I'm so tired of this project. Don't get me wrong. It's a great professional opportunity for me and a milestone for the company, but it's just been so long.",
+                "zh": "M：我真盼着那一刻。我已经厌倦这个项目了。别误会，这对我来说是一次很好的职业机会，对公司来说也是一个里程碑，但这项目实在拖得太久了。"
+              },
+              {
+                "en": "W: Yeah. Two months working on nothing but the same contract is a little tough. Nevertheless, I think that with a bit of luck, we'll be done by next week.",
+                "zh": "W：是啊。连续两个月只处理同一份合同，确实有点难熬。不过，我觉得如果运气好，我们下周就能完成。"
+              },
+              {
+                "en": "M: Ha, you must be delusional.",
+                "zh": "M：哈，你一定是妄想了。"
+              },
+              {
+                "en": "W: You don't think so?",
+                "zh": "W：你不这么认为吗？"
+              },
+              {
+                "en": "M: No chance. Sections 4, 5, 8 and 9 still have to be aligned to the new framework. Then we need to proofread the whole thing and make sure all selling points are watertight.",
+                "zh": "M：没可能。第4、5、8和9部分还得按照新的框架进行统一调整。然后我们还要通读全文，确保所有卖点都无懈可击。"
+              },
+              {
+                "en": "W: But that will all take no more than a couple of days.",
+                "zh": "W：但这些加起来最多也就需要几天。"
+              },
+              {
+                "en": "M: I wasn't finished. When we are done with it and send it upstairs, what do you think will happen?",
+                "zh": "M：我还没说完。等我们完成后把它提交上去，你觉得会发生什么？"
+              },
+              {
+                "en": "W: What?",
+                "zh": "W：什么？"
+              },
+              {
+                "en": "M: They'll argue about it for like a month. There's always going to be the odd board member who intervenes and demands rectifications be made. They might think they're being helpful, but in reality they're being obstructive and hampering progress.",
+                "zh": "M：他们会为这事争论大概一个月。总会有个别董事插手，要求进行修改。他们可能以为自己是在帮忙，但实际上他们是在阻挠，拖慢进度。"
+              },
+              {
+                "en": "W: Oh, Jeff, you're too preoccupied and cynical. It won't be anywhere as bad as that. You'll see, the entire managerial hierarchy wants to see this project implemented as soon as possible, and the board, too, is virtually unanimous in its support. Go on then, let's stop there and meet up again same time tomorrow.",
+                "zh": "W：哦，Jeff，你太忧心忡忡，也太愤世嫉俗了。事情不会糟到那个地步的。你等着看吧，整个管理层都希望这个项目尽快实施，董事会也几乎一致支持。那就这样吧，我们今天先到这里，明天同一时间再见。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When two employees propose contrary solutions to their dispute."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When two employees are directed by their respective manager."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When two people behave in an apparently clashing manner."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When two people tell different stories of the same event."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How it got resolved."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How it happened."
+                  },
+                  {
+                    "l": "C",
+                    "t": "What it was about."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When it was settled."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They intervened promptly lest their dispute escalate."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tried to ascertain the actual facts of the matter."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They assumed the best about them and moved on."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They persuaded them to put their conflict aside.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "One thing I've learned in a quarter-century of management is that there are ample gray areas in human behavior, and that there may not always be clear right-or-wrong solutions to employee disputes. When two people have different versions of the same event, it can be hard to know whom to believe. One such circumstance always comes back to me. It happened years ago, and it's a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution. Two talented young executives, one of whom I was managing, had vastly different accounts of the same event, and it seemed likely we'd never get to the truth. We reached the deadlock, and the manager of the other individual said, \"Here's something I learned from an excellent manager I once worked for. He used to say, 'When in doubt, assume positive intent.'\" And just like that, we had a path forward. My counterpart and I agreed we might never ascertain the actual facts of the matter; quite likely there were elements of truth in both employees' stories. We agreed to monitor their actions and relationship going forward, but to intervene no further. We assumed the best about both of them and moved on. The result was that we were able to put the conflict behind us. In fact, their problems didn't recur. Over the years, this general approach has proved useful. Whenever the truth is obscure, assuming positive intent and agreeing to move on can be a constructive decision.",
+                "zh": "我在四分之一世纪的管理工作中学到的一点是，人类行为中存在大量灰色地带，对于员工之间的纠纷，未必总能找到明确的是非对错解决方案。当两个人对同一事件有不同说法时，很难知道该相信谁。有一种类似情况我始终记得。事情发生在多年前，而这场冲突本身容易被遗忘，以至于我如今甚至想不起争议究竟是关于什么的，但我清楚地记得最后是如何解决的。两位才华横溢的年轻高管，其中一位由我负责管理，对同一事件的叙述大相径庭，我们似乎很可能永远无法查明真相。我们陷入了僵局，另一位员工的经理说：“我曾经跟随一位出色的经理工作，从他那里学到了一件事。他过去常说：‘当你无法确定时，就假定对方的动机是善意的。’”就这样，我们找到了前进的方向。我和那位同事一致认为，我们也许永远无法查明事情的实际情况；很可能两位员工的说法中都包含部分事实。我们同意继续观察他们今后的行为和关系，但不再进一步介入。我们对他们两人都作最好的设想，然后继续向前。结果是，我们得以把这场冲突抛在身后。事实上，他们的问题再也没有发生。多年来，这种总体处理方式一直很有用。每当真相模糊不清时，假定对方的动机是善意的，并同意继续向前，可能是一项具有建设性的决定。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Dine out daily."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Budget sensibly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enjoy cooking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Shop at groceries."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Shopping."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Sewing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Entertaining oneself."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Fashion designing."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Satisfy their taste."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Cut down expenses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Eat more healthily."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cultivate new hobbies."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People's intense focus on convenience."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People's deteriorating family finances."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People's strong aversion to junk foods."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People's increasing dislike of cooking."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "For some Americans, going out to dinner is a treat, planned and budgeted for. For others, it's just a daily occurrence. And that second group of people is becoming the majority as the number of Americans who enjoy cooking is declining. In the early 2000s, researcher Eddie Yoon conducted a survey to ascertain Americans' attitudes to cooking. The survey found that 15% of Americans loved to cook, 50% said they hated to cook and 35% reported mixed feelings. When Yoon conducted the same survey 15 years later, only 10% of respondents reported a love of cooking, 45% said they hated it and 45% had mixed feelings. Yoon asserts cooking is akin to sewing. As recently as the early 20th century, many Americans sewed their own clothing. Today, the vast majority of Americans buy clothing; only a tiny minority still sew, and they do it mainly as a hobby. Yoon believes the number of home cooks will diminish in a similar fashion. Currently, the average American household spends over $3,000 per year on dining out. However, what people save in convenience, they lose in cash. Take buying lunch on workdays for example. People spend, on average, $10 per meal when they buy lunch. Making your own lunch, meanwhile, will cost less. One survey found people only spend on average $6.30 when they bring lunch prepared at home. Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry. It's likely to detrimentally impact family finances as well.",
+                "zh": "对一些美国人来说，外出就餐是一种经过计划并纳入预算的享受。对另一些人来说，这只是每天都会发生的事情。随着喜欢烹饪的美国人数量不断减少，第二类人正在成为多数。21世纪初，研究人员埃迪·尹开展了一项调查，以了解美国人对烹饪的态度。调查发现，15%的美国人喜欢烹饪，50%的人表示讨厌烹饪，35%的人表示感受复杂。15年后，尹再次进行同样的调查，只有10%的受访者表示喜欢烹饪，45%的人表示讨厌烹饪，另有45%的人感受复杂。尹认为，烹饪类似于缝纫。就在20世纪初，许多美国人还会自己缝制衣服。如今，绝大多数美国人购买衣服，仍然缝纫的只是极少数人，而且他们主要是把缝纫当作一种爱好。尹认为，家庭厨师的数量也会以类似的方式减少。目前，美国普通家庭每年在外出就餐上的花费超过3,000美元。然而，人们在便利性上节省下来的，却会在现金支出上付出代价。以工作日购买午餐为例，人们购买午餐时平均每顿要花10美元。与此同时，自己准备午餐的成本会更低。一项调查发现，人们自带在家准备的午餐时，平均每顿只花费6.30美元。美国人日益不愿意花时间待在厨房里，这对食品杂货行业意味着一系列挑战。这种趋势也很可能会对家庭财务造成不利影响。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its owner's flight is delayed because of bad weather."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Airlines cannot find its owner without an ID tag on it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Airline staff have not correctly coded its destination tag."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its owner has forgot to pick it up from the baggage claim."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its tag may get torn off on the conveyor belt."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its tag may get stuck in the sorting machine."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It may be sent to a wrong destination."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It may be picked up by someone else."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Purchase irretrievably lost things at auction."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Contact the airport staff to find our missing bag."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Get the airline agent's phone number before boarding."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Avoid packing valuable items in our checked baggage.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Every year, of the more than 2.5 billion bags checked onto flights worldwide, 26 million go missing — and of that 26 million, 1 million never make it back to their original owner. Bad weather and flight delays, miscoded destination tags and some people simply forgetting to pick up one of their bags are a few of the reasons. But the number-one reason a bag ends up lost is that it has no ID tag, and airlines don't know to whom it belongs.",
+                "zh": "每年，在全球航班上办理托运的超过25亿件行李中，有2600万件会丢失；而在这2600万件中，有100万件永远无法回到原主人的手中。恶劣天气和航班延误、目的地标签编码错误，以及有人单纯忘记取走自己的某件行李，都是造成这种情况的部分原因。但行李最终丢失的首要原因是没有身份标签，航空公司不知道它属于谁。"
+              },
+              {
+                "en": "Transferring baggage from check-in to departure gates to arrival gates to baggage claim is a delicate piece of timing. If the system moves too slowly, the bags won't make connecting flights. If it's too fast, the bags may make the connection but the passengers might miss the flight. Each airport has its own way of allotting how much time a bag needs to move in transit. Some airports have sophisticated automated systems, including scanners that read baggage labels, destination-coded vehicles that load and unload the bags without stopping, and sorting machines that route baggage to the appropriate gate. Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name.",
+                "zh": "将行李从值机柜台转运到出发登机口，再转运到到达登机口，最后送至行李提取处，需要精确掌握时间。如果整个系统运行得太慢，行李就赶不上联程航班；如果运行得太快，行李可能赶上了联程航班，但乘客却可能误机。每座机场都有自己的方式来分配行李在转运过程中所需的时间。有些机场拥有先进的自动化系统，包括能够读取行李标签的扫描仪、无需停下就能装卸行李的目的地编码车辆，以及将行李分拣至相应登机口的分拣机。即便如此，所有这些技术也未必能防止你的行李标签在传送带上被撕掉，使你成为一件无名行李的主人。"
+              },
+              {
+                "en": "Once a bag goes missing and the passenger files a claim, the bag is declared \"mishandled\" by the carrier. Mishandled refers to bags that have been delayed, lost, stolen or damaged. Most delayed bags are only one flight behind their owners and can be delivered within 24 hours. The other bags are examined by airline employees for clues to their ownership and destination. If the mystery is solved, those bags are returned to their owners within four or five days. Bags with no destination code or identification tag are shipped to a central warehouse, and undergo a comprehensive baggage tracing process over the next 90 days.",
+                "zh": "行李一旦丢失，乘客提交索赔后，承运方就会将其认定为“处置不当”。“处置不当”是指行李延误、丢失、被盗或受损。大多数延误的行李只比主人晚一个航班，能够在24小时内送达。其他行李则由航空公司员工检查，以寻找有关其所有者和目的地的线索。如果谜团得以解开，这些行李会在四五天内归还给主人。没有目的地编码或身份标签的行李会被运往一个中央仓库，并在接下来的90天内接受全面的行李追踪调查。"
+              },
+              {
+                "en": "Airlines inventory their mishandled baggage, and many use a database to match the contents with owners' descriptions. It takes about three months to go from \"missing in action\" to \"irretrievably lost\". Once that happens, the bags are donated to charity, sold at auction, or purchased by a company which sells them to the public.",
+                "zh": "航空公司会对处置不当的行李进行登记，许多航空公司还会使用数据库，将行李内容与所有者的描述进行匹配。从“失联”到“无法追回的遗失”，大约需要三个月。一旦被认定为无法追回，这些行李就会捐给慈善机构、被拍卖，或由一家将其出售给公众的公司买走。"
+              },
+              {
+                "en": "So never pack anything of real value in your checked baggage. And make sure your name is on the bag, along with your phone number, so an agent can contact you.",
+                "zh": "所以，千万不要把任何真正有价值的东西放在托运行李中。同时要确保行李上写有你的姓名和电话号码，这样工作人员就能联系到你。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can be behaviorally hazardous."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can be especially disappointing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can be socially harmful."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can be really embarrassing."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They considered it inevitable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They held a negative view towards it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were concerned with its effects."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They saw it as a sign of social evolution."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Elaborate forms of social contact."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ill effects on one's sense of pride."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Poor relationships with others."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Vicious cycles of detachment.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "You've probably been with someone who ignored you while interacting with his or her smartphone. And you've probably engaged in this behavior yourself. In a recent survey, nine out of ten respondents said they'd used their smartphone during their most recent social activity. There's also evidence that this behavior is socially harmful. It can leave people less satisfied with their face-to-face interactions. And it can generate feelings of resentment and jealousy. Now, the Journal of Applied Social Psychology has published a new study exploring the reasons for these effects.",
+                "zh": "你可能曾和这样的人在一起：他或她在与你互动时却忽视你，只顾摆弄智能手机。你自己可能也有过这种行为。最近的一项调查显示，十名受访者中有九人表示，他们在最近一次社交活动中使用过智能手机。也有证据表明，这种行为会损害社交关系。它可能使人们对面对面的互动感到不那么满意，还可能引发怨恨和嫉妒情绪。如今，《应用社会心理学杂志》发表了一项新研究，探讨了这些影响产生的原因。"
+              },
+              {
+                "en": "The study included 128 mostly female student participants. The participants watched a three-minute animation in which two cartoon figures interacted and engaged in a conversation. The conversation couldn't be heard but could be detected through mouth movements. Participants had to imagine themselves as the closest figure in the video and then make judgments about the conversations and how they felt about their conversation partners.",
+                "zh": "这项研究包括128名学生参与者，其中大多数为女性。参与者观看了一段三分钟的动画，动画中两个卡通人物进行互动并交谈。对话内容听不见，但可以通过嘴部动作辨别出来。参与者必须设想自己就是视频中距离观众较近的那个人物，然后对对话作出判断，并评价自己对交谈对象的感受。"
+              },
+              {
+                "en": "In one version of the experiment, the phone of the participants' conversation partner remained unused on the table throughout the conversation. In another version, their partner's attention was quickly drawn to something on their phone and they spent the rest of the time interacting with their phone. A third version involved the participants' partner alternating between periods of interaction with their phone and periods where they ignored their phone. If you've experienced a similar situation, you probably won't be surprised by the results of the experiments.",
+                "zh": "在实验的一种情境中，参与者的交谈对象始终没有使用放在桌上的手机。另一种情境中，交谈对象很快被手机上的某件事吸引，剩下的时间一直与手机互动。第三种情境中，参与者的交谈对象在使用手机互动和不理会手机之间交替进行。如果你曾经历过类似情况，实验结果大概不会让你感到意外。"
+              },
+              {
+                "en": "The participants had a negative view of phone use during social interactions. The more it was present, the worse they considered both the quality of the interaction and the quality of the relationship.",
+                "zh": "参与者对社交互动中的手机使用持负面看法。手机使用出现得越多，他们认为互动质量和关系质量就越差。"
+              },
+              {
+                "en": "The researchers believed that focusing on one's phone instead of the person one is with has this effect because it's seen as a form of social exclusion. They assert that the behavior is analogous to when people have no choice but to eat alone in the school cafeteria. The twist is that this exclusion occurs while sharing a physical encounter and having a conversation. Researchers found that the behavior had adverse effects on participants' sense of belonging, need for meaning and self-esteem.",
+                "zh": "研究人员认为，把注意力放在手机上而不是身边的人身上之所以会产生这种影响，是因为这种行为被视为一种社会排斥形式。他们断言，这种行为类似于人们别无选择、只能独自在学校食堂吃饭的情形。不同之处在于，这种排斥发生在双方共享同一场面对面接触并进行交谈的过程中。研究人员发现，这种行为对参与者的归属感、意义需求和自尊都产生了不利影响。"
+              },
+              {
+                "en": "These negative effects are similar to those caused by traditional forms of social exclusion. The new findings are important because they elaborate our understanding of a subtle but common aspect of our daily experience. This common behavior can create vicious cycles of detachment even as we try to connect with others.",
+                "zh": "这些负面影响与传统社会排斥形式所造成的影响相似。这些新发现十分重要，因为它们加深了我们对日常体验中一种微妙却普遍存在的现象的理解。即使我们努力与他人建立联系，这种常见行为也可能造成疏离感不断加剧的恶性循环。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The ill treatment they get as tourists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The nonprofessional business they see."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The impersonal accommodations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The many adventures on their way."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have been the classic way to visit Europe."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They attract tourists with location and decoration."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have long been competing with chain hotels."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are in fact a completely new idea in America."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Your financial status."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Your family's consent."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Your property."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Your personality."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Costs for starting the business."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The number of guests to receive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The facilities to provide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Opportunities for income."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "More and more people travel for a variety of reasons. Many are tourists, but many venture forth on personal or professional business. Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find. After spending five consecutive nights in five similar hotels, the business traveler may find it difficult to remember what happened from day to day, or even what towns were visited, and the tourist may get the mistaken impression that all cities are pretty much the same, at least as far as decoration, food and service are concerned.",
+                "zh": "越来越多的人出于各种原因旅行。许多人是游客，但也有许多人因个人事务或公务外出。不论出于何种旅行原因，旅行者普遍抱怨的一点是，他们所住的住宿场所缺乏个性。商务旅行者连续五晚住在五家相似的酒店后，可能会难以记清每天发生了什么，甚至记不住去过哪些城镇；而游客则可能产生一种错误印象，认为所有城市都大同小异，至少在装潢、食物和服务方面是如此。"
+              },
+              {
+                "en": "To combat this sense of impersonal sameness, travelers are taking advantage of in-home hospitality or Bed and Breakfast arrangements. B&Bs, I mean, Bed and Breakfast arrangements are private homes which offer lodging and breakfast in a very personalized, friendly setting. For decades, B&Bs have been the classic way to visit Europe, especially the British Isles. And in fact, they are not really a new idea in America. The tradition dates back to colonial times when inns were few and far between, and the weary traveler had to depend on the kindness of strangers for a meal and a bed. But the revival of B&Bs as desirable accommodations is a fairly recent phenomenon.",
+                "zh": "为了消除这种千篇一律、缺乏个性的感受，旅行者开始利用家庭式接待或提供住宿加早餐的安排。我所说的B&B，就是住宿加早餐安排，指的是私人住宅在十分个性化且友好的环境中提供住宿和早餐。几十年来，B&B一直是游览欧洲，尤其是英伦群岛的经典方式。事实上，这在美国也并不是什么新鲜事。这一传统可以追溯到殖民时期，那时旅店十分稀少，疲惫的旅行者不得不依靠陌生人的善意来获得一顿饭和一张床。不过，B&B作为理想住宿方式的复兴，是相当近期的现象。"
+              },
+              {
+                "en": "If the idea of operating a B&B arouses your interest, there are several factors to consider before plunging into this business. The first consideration is your property, not only the building itself, but the location. If you live near a famous historical site or in a popular destination, such as New York City or Washington, D.C., your home can be fairly simple, yet still do well as a B&B. On the other hand, if your home is architecturally unique or has facilities for the traveler, such as a private entrance, private bath or swimming pool, people may be willing to go some distance to reach you. Another important factor is the lifestyle of you and your family. You must take into account whether all members of the family truly enjoy visitors, want to repeatedly discuss local sites and activities, and have the time and energy to handle the additional cooking, cleaning, laundry and the bookkeeping involved. The final consideration is a financial one, potential B&B hosts must be realistic about opportunities for income. While B&Bs usually have low initial costs, experts estimate it would take at least five rooms rented regularly for the host to earn a living from B&B.",
+                "zh": "如果经营B&B的想法引起了你的兴趣，那么在贸然投入这项业务之前，有几个因素需要考虑。首先要考虑的是你的房产，不仅包括建筑物本身，还包括其位置。如果你住在著名历史遗址附近，或住在纽约市、华盛顿特区等热门目的地，你的房子即使相当普通，也仍然可以很好地经营成B&B。另一方面，如果你的房屋在建筑风格上独具特色，或拥有方便旅行者使用的设施，例如私人入口、私人浴室或游泳池，人们可能愿意走相当远的路来投宿。另一个重要因素是你和家人的生活方式。你必须考虑家庭的每一位成员是否真的喜欢接待客人，是否愿意反复谈论当地的景点和活动，以及是否有时间和精力承担由此增加的烹饪、清洁、洗衣和记账工作。最后还要考虑财务因素。潜在的B&B经营者必须现实地看待收入机会。虽然B&B通常前期成本较低，但专家估计，经营者至少需要定期出租五间客房，才能靠B&B维持生计。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "By now, it is generally accepted that regular exercise comes with an assortment of health benefits for people who maintain the habit over time. But is it"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "too late to start? New research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "which were similar to those of people who exercised consistently throughout their lives. This was a"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "of 32% to 35% compared to people who did not exercise. Those who began exercising in middle age also saw reductions in their incidence of"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "diseases, such as heart disease and cancer, which were similar to the steady exercisers. So why bother exercising consistently throughout your life? The authors of the study"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "that some might interpret the study's findings to mean that they can delay starting an exercise program but this would be a mistake. There are other benefits, both mental and physical, to staying consistently active that we should not"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ". These real health benefits include better"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "functioning and lowered risk of gaining weight. The latter is"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "important given the global obesity epidemic. In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "later in life. It is ideal, then, for people to start exercising when they are children or"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ", and it is good to maintain an active lifestyle at all times regardless of your age. However, this study does indicate that, if you have not been active, you can still benefit if you start becoming active in your 40s and 50s."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "adolescents"
+        },
+        {
+          "l": "B",
+          "w": "arbitrarily"
+        },
+        {
+          "l": "C",
+          "w": "chronic"
+        },
+        {
+          "l": "D",
+          "w": "cognitive"
+        },
+        {
+          "l": "E",
+          "w": "concede"
+        },
+        {
+          "l": "F",
+          "w": "disregard"
+        },
+        {
+          "l": "G",
+          "w": "drop"
+        },
+        {
+          "l": "H",
+          "w": "ever"
+        },
+        {
+          "l": "I",
+          "w": "maneuver"
+        },
+        {
+          "l": "J",
+          "w": "mortality"
+        },
+        {
+          "l": "K",
+          "w": "particularly"
+        },
+        {
+          "l": "L",
+          "w": "patterns"
+        },
+        {
+          "l": "M",
+          "w": "refute"
+        },
+        {
+          "l": "N",
+          "w": "stereotype"
+        },
+        {
+          "l": "O",
+          "w": "vocal"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "H"
+        },
+        {
+          "n": 27,
+          "a": "J"
+        },
+        {
+          "n": 28,
+          "a": "G"
+        },
+        {
+          "n": 29,
+          "a": "C"
+        },
+        {
+          "n": 30,
+          "a": "E"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "D"
+        },
+        {
+          "n": 33,
+          "a": "K"
+        },
+        {
+          "n": 34,
+          "a": "L"
+        },
+        {
+          "n": 35,
+          "a": "A"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Restaurants Are Now Employing Robots — Should Chefs Be Worried?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Like most chefs, Flippy is not afraid of hard work. Since last summer, that has meant 11 am until 7 pm shifts at Caliburger in Pasadena, California, as well as short assignments at Chick-N-Tots at Dodger Stadium in Los Angeles. These are long hours of repetitive work, where the boss demands absolute consistency. But you won't hear Flippy complain or say anything, in fact. For Flippy is a robot — a cloud-connected mechanical arm with 3D thermal scanners for eyes — that can flip burgers or fry 80 baskets of food an hour, monitor that food and even clean up afterwards."
+        },
+        {
+          "l": "B",
+          "t": "Flippy was created by Miso Robotics, part of the Cali Group, which is described by its CEO, John Miller, as: \"A technology company that happens to sell cheeseburgers.\" Cali creates new machines that it road-tests in its Caliburger restaurants across the world, into which Flippy will be deployed this year. And Flippy is not alone. Also in California, Bear Robotics has developed a self-guiding robot, Penny, which has so far served 40,000 diners."
+        },
+        {
+          "l": "C",
+          "t": "Ten years ago, robot-chefs and waiters were pure science fiction. Today, they are a reality, and at prices that make them a plausible investment. From May, Penny will be shipped on a subscription basis that offers \"an immediate return\", says Bear Robotics' chief operating officer, Juan Higueros. Flippy will cost a reported $60,000 to $100,000. Fully automated burger restaurants managed with minimal human oversight — where customers order at screens, pay electronically, and eat food cooked and delivered by robots — are now a possibility."
+        },
+        {
+          "l": "D",
+          "t": "The technology exists; it just needs knitting together cost-effectively and in a way diners buy into. In an industry keen to slash labor costs and increase profits, further automation seems inevitable. After an eight- month test at Kang Nam Tofu House in California, Bear Robotics credited Penny with driving a 28% increase in sales. Meanwhile, in US trials, the self-ordering screens that McDonald's is currently installing at its 1,300 UK restaurants yielded a reported 30% rise in order values."
+        },
+        {
+          "l": "E",
+          "t": "Personalisation is seen as key to the appeal of this technology, alongside its ability to reliably push so-called \"upsells\" (meal deals, extras, larger drinks) to customers. Soon when you log into a restaurant app, it will be able to use your data and purchasing history to recommend dishes to you — factoring in everything from the weather to, if you are ordering at a screen that can read your face, your mood."
+        },
+        {
+          "l": "F",
+          "t": "\"Right now people compromise on choice. We're presented with a one-size-fits-all menu. Ultimately, technology can allow us to make personal choices. You love spicy food and chicken? Here's the dish people like you mostly order,\" says Tom Weaver, CEO at the hospitality tech company Flyt. He talks enthusiastically about the Helsinki pop-up Take-In, a full-service restaurant where diners ordered dishes in from various delivery services. \"For the first time in a few hundred years, digital is allowing us to create new versions of restaurants.\""
+        },
+        {
+          "l": "G",
+          "t": "If high-street fast food is automation-ready, its impact on high-end restaurants is likely to be subtler and slower. \"It'll probably be a very long time before we see a five-star robot-chef,\" says Noel Sharkey, professor of AI and robotics at the University of Sheffield. \"Apart from the AI creativity gap, great cooking involves a subtle understanding of ingredients and delicate cooking that would be enormously challenging for robots. Placing fragile foods on plates would be incredibly slow.\""
+        },
+        {
+          "l": "H",
+          "t": "Currently, robots have limited functionality. A human needs to load Penny with plates that diners lift off themselves. At the robot-powered US pizza-delivery company Zume, the more difficult jobs, such as topping pizzas, are still done by humans. But Moley, which will launch soon, offers an idea of the sophistication to come. Modelled on the movements of a MasterChef contest winner, Tim Anderson, its robotic arms are fixed over a stove and programmed to prepare dishes from raw ingredients. It is designed for domestic use, but a commercial version is planned that opens up the possibility of restaurant kitchens automating even highly technically challenging tasks."
+        },
+        {
+          "l": "I",
+          "t": "For now, the kitchen technology that QSR Automations supplies to Mitchells & Butlers' pubs or KFC is less glamorous. Rather than having a chef shouting out diners' orders, the QSR system automatically distributes those orders across screens. The kitchen screens then tell chefs when to start cooking each dish, so that your plate of fish, chips and peas comes together at the right time."
+        },
+        {
+          "l": "J",
+          "t": "The restaurant industry is currently suffering a severe shortage of skilled chefs — a deficit of 11,000, according to the skills agency People 1st. \"Automation systems designed to make the process more idiot-proof are trying to bridge that gap,\" says Stefan Chomka, the editor of Restaurant magazine."
+        },
+        {
+          "l": "K",
+          "t": "In terms of simplifying or enhancing the customer experience, online restaurant booking has been the easily- won success of the internet age. Automated at-table ordering and payment is seen as the next landmark. Until then, early adopters, such as the Manchester bar owner Andy Smith, who uses the Ordoo app at his venue 33 Oldham Street, may well experience growing but \"lower than expected\" acceptance."
+        },
+        {
+          "l": "L",
+          "t": "Embarrassing failures in restaurant tech frequently hit the headlines. The TGI Fridays drone(无人机) that injured a Brooklyn Daily photographer; US burger chain Shake Shack having to retreat from plans for entirely cashless ordering sites. But, says Chomka, such technology could miss the mark if it only offers \"solutions to problems that don't really exist\". \"Payments being automatic\" could be useful, he adds. But, in an expensive restaurant, \"how quick do you need dinner to be?\""
+        },
+        {
+          "l": "M",
+          "t": "That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs. \"Unite is concerned that without safeguards, any benefits will bypass workers in low-paying jobs, such as waiters,\" says the union's London regional officer, Dave Turnbull. \"We're urging Members of Parliament to ensure automation does not just benefit a wealthy few like previous industrial revolutions.\""
+        },
+        {
+          "l": "N",
+          "t": "The industry principle is that automation will allow it to redeploy staff more effectively. Jobs will change, if not immediately decrease in number. \"Self-order screens mean more demand for people front-of-house. Last year, we recruited 1,000 new managers,\" says McDonald's COO, Jason Clark. Caliburger has a programme to retrain staff as robot engineers or \"chef techs\"."
+        },
+        {
+          "l": "O",
+          "t": "But ultimately the chance to reduce overheads(管理费用) by employing fewer people or at lower rates will be what attracts big brands to technology. Invariably, over the next 10 years, jobs will go in conventional bricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery. Companies such as Domino and Just Eat have both experimented with robot and drone delivery, which is already legal in Reykjavik, Iceland. \"Robot food deliveries are the future,\" says Noel Sharkey. \"Small, 4 mph ground robots are safe and will work 24 hours a day.\""
+        },
+        {
+          "l": "P",
+          "t": "Combined with machine learning of anticipated order volumes and the minute-by-minute cooking data generated by systems such as QSR, that robot fleet could deliver almost instantly. \"Restaurants will prepare food ahead of orders coming in,\" predicts Just Eat's director of engineering, Daniel Richardson. \"I'll be able to say 'Let's have pizza' to my family, my intelligent assistant will hear and 10 minutes later the food will be at my door.\" No one is putting an exact date on it yet. But in the dining room and on your doorstep, the robots are coming."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It is now possible to fully automate a burger restaurant with little human supervision.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "At a robot-powered US company, complicated tasks still have to be performed by humans.",
+          "a": "H"
+        },
+        {
+          "n": 38,
+          "s": "More automation appears to be a certainty in industries eager to cut labor costs and raise profits.",
+          "a": "D"
+        },
+        {
+          "n": 39,
+          "s": "There are often front-page reports of failures in technological innovation of the restaurant industry.",
+          "a": "L"
+        },
+        {
+          "n": 40,
+          "s": "Robot-chef Flippy does not fear laborious work, nor does it make any complaints.",
+          "a": "A"
+        },
+        {
+          "n": 41,
+          "s": "Digital technology makes it possible for businesses to innovate restaurant models.",
+          "a": "F"
+        },
+        {
+          "n": 42,
+          "s": "Fondness for human warmth in catering to customers will give hope to employees who are afraid of losing jobs to robots.",
+          "a": "M"
+        },
+        {
+          "n": 43,
+          "s": "There is an acute shortage of experienced chefs in the catering industry and automated cooking is expected to fill the gap.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "Over the coming decade, many jobs in traditional restaurants will disappear due to robot delivery.",
+          "a": "O"
+        },
+        {
+          "n": 45,
+          "s": "According to an expert in AI and robotics, it may be quite some time before a master robot-chef appears.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable soul to confide in. However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process. The chaos and never-ending turmoil that accompanies everyday life is an aggressive obstacle in the pursuit of stable friendships. As students, we use this excuse to shrug off losing people who we once thought to be loved ones. Instead of viewing our lives as a race, where everyone is on their own path to some form of success, we must relearn to value the connections we make along the track. We must reevaluate the harm of radical, individual freedom. Radical individualism elevates the freedom of the individual over the collective. It argues, for instance, that universal healthcare, an example of collectivism, threatened the dream of many Americans. Many of us have fallen victim to an individualistic culture. Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person. As a society, we idolize the concept of \"losing friends on the road to success\". I remember hearing in high school, \"Don't worry about losing friendships, just focus on study and getting into college. That's all that will matter in the long run,\" a sentiment that is not unique to my experience. It's preached in many success stories, and it's embedded in the way we see growth. Motivational speakers will push their audience to be complacent to the inevitable end of losing friends. Spend too much time with friends? You're losing time better utilized on your achievements. Invest time in your relationships? Invest time in your work instead. This constant need to succeed has blinded us from seeing through the whirlwind of change that accompanies our everyday lives. We are expected to tangibly succeed, earn awards, get higher positions, earn better grades. In order to succeed, we lose friends, and that has sadly become normalized. We cannot be complacent with losing friendships because they are our anchors. Yes, pursue success. Challenge yourself. Push limits. But contrary to all the self-proclaimed success experts, doing it alone does not make you more successful or any better than someone who achieved it with the help of others. Put effort into fostering healthy relationships, and maintaining them through your busy schedule that seems like it leaves no time for anyone else. Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What often happens when people are eager to pursue individual success?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They lack a shoulder to cry on."
+              },
+              {
+                "l": "B",
+                "t": "They have no soul to confide in."
+              },
+              {
+                "l": "C",
+                "t": "They cannot find reliable friends."
+              },
+              {
+                "l": "D",
+                "t": "They ignore their ties with friends."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What does the author advise people to do in their pursuit of radical individualism?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Reexamine its detrimental effects."
+              },
+              {
+                "l": "B",
+                "t": "Shrug off the loss of their loved ones."
+              },
+              {
+                "l": "C",
+                "t": "Avoid the chaos and turmoil involved."
+              },
+              {
+                "l": "D",
+                "t": "Remove aggressive obstacles in the way."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What is American society's assumption of personal achievement?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is to be duly celebrated and highly commended."
+              },
+              {
+                "l": "B",
+                "t": "It is a sure way to fulfill a person's dream."
+              },
+              {
+                "l": "C",
+                "t": "It revolves around an individualistic culture."
+              },
+              {
+                "l": "D",
+                "t": "It reflects a person's exceptional endeavor."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What is preached in many success stories?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Attaching importance to academic gains on the road to success."
+              },
+              {
+                "l": "B",
+                "t": "Investing one's time in work instead of connecting with friends."
+              },
+              {
+                "l": "C",
+                "t": "Trying to strengthen friendships in one's pursuit of personal success."
+              },
+              {
+                "l": "D",
+                "t": "Excelling in academic performance to get into a prestigious college."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What can we infer from the passage regarding the pursuit of success?",
+            "o": [
+              {
+                "l": "A",
+                "t": "No one can succeed without pushing limits."
+              },
+              {
+                "l": "B",
+                "t": "No one can afford to neglect close friends."
+              },
+              {
+                "l": "C",
+                "t": "Collectivism is superior to individualism."
+              },
+              {
+                "l": "D",
+                "t": "Success experts often lead people to ruin."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr. said, \"I believe that unarmed truth and unconditional love will have the final word in reality.\" More than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction. From disputes over the climate change to debates about how slavery is taught, America is at a crossroads. And the battle for equity is at the heart of these vital conversations. Study after study shows that inequity has had appalling consequences. A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 – $113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades. This statistic represents a flood of issues we've failed to confront as a nation. It also highlights one truth: We're missing out on valuable opportunities to bridge the differences that divide us. However, by honoring King's legacy, we can get our country back on the path toward true equity. Students — and adults for that matter — simply cannot understand the conflicts we have today without understanding what caused them in the first place. That means we have a responsibility to help them make connections between US history and current events. It also means giving them the tools they need to address inequity and bias in their own lives. Adherence to these principles, along with a commitment to truthful dialogue, can help every student better appreciate how far we've come and more clearly see the roads we have yet to travel. With more truthful analysis of the need for more qualified, diverse educators, we can improve our recruiting, training, and retention strategies for schools across the country. Unfortunately, our deeply rooted divisions are delaying these advancements. A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\". But reports of increased polarization shouldn't persuade us to look away from one another. Instead, they should compel us to address our shared issues head-on. We are not, as some would suggest, living in a \"post-racial society\". We simply cannot afford to keep our heads buried in the sand when it comes to racial inequity. Unless we get honest about intolerance, bias, and how these social diseases impact the ways we treat one another, injustice will continue to haunt us. But our children and our grandchildren deserve better. On this Martin Luther King Day and beyond, let's commit to working together to disrupt the status quo. Let's continue to build a better, more inclusive nation; and in the words of Martin Luther King Jr., \"A society at peace with itself, a society that can live with its conscience.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author think about today's America?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is struggling to transform fiction into reality."
+              },
+              {
+                "l": "B",
+                "t": "It has been the focus of many vital conversations."
+              },
+              {
+                "l": "C",
+                "t": "It still has a long way to go before equity can be truly realized."
+              },
+              {
+                "l": "D",
+                "t": "It has got to a point where people disagree on nearly every issue."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What do we learn from the passage about black students in the past 20 years?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have been unfairly treated regarding higher education."
+              },
+              {
+                "l": "B",
+                "t": "They have been battling hard to address equity issues."
+              },
+              {
+                "l": "C",
+                "t": "They have boosted their lifetime incomes by billions of dollars."
+              },
+              {
+                "l": "D",
+                "t": "They have come to see the consequences of racial discrimination."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "How can Americans bridge the differences that divide them?",
+            "o": [
+              {
+                "l": "A",
+                "t": "By dealing with the thorny issues confronting them."
+              },
+              {
+                "l": "B",
+                "t": "By seizing every chance to enhance racial harmony."
+              },
+              {
+                "l": "C",
+                "t": "By continuing to pursue Martin Luther King Jr.'s cause."
+              },
+              {
+                "l": "D",
+                "t": "By striving to identify exceedingly valuable opportunities."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "How do most Americans view America as a nation according to a recent survey?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is compelled to address its historical social issues."
+              },
+              {
+                "l": "B",
+                "t": "It is delaying advancements toward racial equality."
+              },
+              {
+                "l": "C",
+                "t": "It has kept itself from polarization."
+              },
+              {
+                "l": "D",
+                "t": "It has become increasingly split."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does the author suggest Americans do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Ensure the well-being of their children and grandchildren."
+              },
+              {
+                "l": "B",
+                "t": "Make joint efforts to tackle the nation's equity issues."
+              },
+              {
+                "l": "C",
+                "t": "Restrain their intolerance and discrimination."
+              },
+              {
+                "l": "D",
+                "t": "Restore social order for a harmonious nation."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "尊老是中华民族的传统美德，深深植根于中国人的思想和行为中，是人们普遍遵守的行为规范和社会准 则。在当今的中国，这种美德得到广泛传承。社会各界积极营造敬老助老的社会氛围。为老年人提供便利服务 已成为社会共识，例如社区专门开设长者食堂，公共场所配置优先座位。政府还出台了一系列政策，为老年人 的权益提供有力保障。尊老是社会和谐与发展的重要基石，有助于培育良好的社会氛围，推动整个社会文明进 步。",
+    "reference": "Respecting the elderly is a traditional virtue of the Chinese nation. Deeply rooted in the thoughts and behavior of the Chinese people, it is a code of conduct and a social norm that people widely observe. In China today, this virtue is widely carried forward. People from all walks of life actively foster a social atmosphere of respecting and helping the elderly. Providing convenient services for the elderly has become a social consensus. For example, communities open special canteens for the elderly, and public places provide priority seats. The government has also introduced a series of policies, providing strong protection for the rights and interests of the elderly. Respecting the elderly is an important cornerstone of social harmony and development, helping to foster a sound social atmosphere and promote the civilized progress of the whole society."
+  }
+}

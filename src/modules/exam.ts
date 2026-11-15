@@ -39,7 +39,38 @@ interface ListeningIndexItem { id: string; title: string; hasWav: boolean }
 interface ListeningIndex { type: string; label: string; count: number; tests: ListeningIndexItem[] }
 interface Keyword { w: string; ph: string; mean: string; count: number }
 
-type View = 'home' | 'mock-hub' | 'real-hub' | 'real-papers' | 'real-single' | 'reading-list' | 'listening-list' | 'reading' | 'listening';
+// ---------------- 历年真题数据类型（对应 public/exams/real） ----------------
+interface RealOpt { l: string; t: string }
+interface RealQ { n: number; s: string; o: RealOpt[]; a: string }
+interface RealTranscriptSeg { en: string; zh: string }
+interface RealClip { name: string; questions: RealQ[]; transcript: RealTranscriptSeg[] }
+interface RealSection { key: string; name: string; clips: RealClip[] }
+interface RealListening { audio: string; sections: RealSection[]; transcript: unknown[] }
+interface RealBankItem { l: string; w: string }
+interface RealBanked { passage: string; bank: RealBankItem[]; questions: { n: number; a: string }[] }
+interface RealParagraph { l: string; t: string }
+interface RealMatching { title: string; paragraphs: RealParagraph[]; questions: { n: number; s: string; a: string }[] }
+interface RealCareful { t: string; passage: string; questions: RealQ[] }
+interface RealReading { banked: RealBanked; matching: RealMatching; careful: RealCareful[] }
+interface RealWriting { prompt: string; sample: string }
+interface RealTranslation { source: string; reference: string }
+interface RealTiming { writing: number; listening: number; reading: number; translation: number; total: number }
+interface RealPaper {
+    id: string; level: string; year: number; month: number; set: number; title: string; timing: RealTiming;
+    writing: RealWriting; listening: RealListening; reading: RealReading; translation: RealTranslation;
+}
+interface RealManifestItem { id: string; year: number; month: number; set: number; title: string; hasAudio: boolean }
+interface RealManifestLevel { level: ReadingLevel; label: string; count: number; papers: RealManifestItem[] }
+interface RealManifest { levels: RealManifestLevel[] }
+/** 真题作答选择：听力按 clip、仔细按篇，其余按项勾选 */
+interface RealConfig {
+    listening: Set<string>; banked: boolean; matching: boolean;
+    careful: Set<number>; writing: boolean; translation: boolean;
+}
+interface RealProgress { q: number[]; writing?: boolean; translation?: boolean }
+type RealProgressMap = Record<string, RealProgress>
+
+type View = 'home' | 'mock-hub' | 'real-hub' | 'real-papers' | 'real-single' | 'real-practice' | 'reading-list' | 'listening-list' | 'reading' | 'listening';
 type ReadingLevel = 'cet4' | 'cet6';
 
 // ---------------- 模块状态 ----------------
@@ -58,6 +89,16 @@ let currentTest: ListeningTest | null = null;
 let realLevel: ReadingLevel = 'cet4';
 let practiceStartAt: number | null = null;
 let lastElapsedSec = 0;
+
+// 真题会话状态
+let realManifest: RealManifest | null = null;
+const realPaperCache: Record<string, RealPaper> = {};
+let currentRealPaper: RealPaper | null = null;
+let realConfig: RealConfig | null = null;
+let realIsWhole = false;
+let realText: Record<'writing' | 'translation', string> = { writing: '', translation: '' };
+let realSingleId = '';
+let realSingleConfig: RealConfig = emptyRealConfig();
 
 let answers: Record<number, string> = {};
 let submitted = false;
@@ -115,6 +156,33 @@ function getSavedElapsed(key: string): number | null {
 }
 function readingDoneKey(level: string, n: number | string): string { return `reading:${level}:${n}`; }
 function listeningDoneKey(id: string): string { return `listening:${id}`; }
+function realWholeKey(id: string): string { return `real:whole:${id}`; }
+
+// ---- 真题细粒度进度（按题号持久化，跨整套/单项共用） ----
+const REAL_PROGRESS_KEY = 'examRealProgress';
+function loadRealProgressMap(): RealProgressMap {
+    try { return JSON.parse(localStorage.getItem(REAL_PROGRESS_KEY) || '{}') as RealProgressMap; }
+    catch { return {}; }
+}
+function getRealProgress(id: string): RealProgress {
+    const p = loadRealProgressMap()[id];
+    return p ? { q: [...p.q], writing: p.writing, translation: p.translation } : { q: [] };
+}
+/** 合并本次作答题号与主观项标记，去重后写回 */
+function mergeRealProgress(id: string, answered: number[], writing: boolean, translation: boolean): void {
+    const m = loadRealProgressMap();
+    const cur = m[id] || { q: [] };
+    const qset = new Set([...cur.q, ...answered]);
+    const next: RealProgress = { q: [...qset].sort((a, b) => a - b) };
+    if (cur.writing || writing) next.writing = true;
+    if (cur.translation || translation) next.translation = true;
+    m[id] = next;
+    localStorage.setItem(REAL_PROGRESS_KEY, JSON.stringify(m));
+}
+/** 某套客观题已作答的题号集合 */
+function realAnsweredSet(id: string): Set<number> {
+    return new Set(getRealProgress(id).q);
+}
 
 // ---- 随鼠标移动的查词小提示框 ----
 let wordTipEl: HTMLElement | null = null;
@@ -401,49 +469,512 @@ function renderRealHub(): void {
     </div>`);
 }
 
-function renderRealPapers(): void {
+async function ensureManifest(): Promise<RealManifest> {
+    if (!realManifest) {
+        realManifest = await fetchJson<RealManifest>(`${EXAM_URL}/real/index.json`);
+    }
+    return realManifest;
+}
+function manifestLevel(level: ReadingLevel): RealManifestLevel | null {
+    return realManifest?.levels.find(l => l.level === level) || null;
+}
+function manifestItem(id: string): RealManifestItem | null {
+    for (const lv of realManifest?.levels || []) {
+        const f = lv.papers.find(p => p.id === id);
+        if (f) return f;
+    }
+    return null;
+}
+
+async function openRealPapers(): Promise<void> {
+    view = 'real-papers';
+    render('<div class="ex-loading">正在加载真题清单…</div>');
+    try {
+        await ensureManifest();
+        renderRealPapersList();
+    } catch (e) {
+        console.error('加载真题清单失败', e);
+        renderError('真题清单加载失败', '请确认已运行 tools/exam/real/build_manifest.py 生成 public/exams/real/index.json。');
+    }
+}
+
+function renderRealPapersList(): void {
     view = 'real-papers';
     const t = OFFICIAL_TIMING[realLevel];
+    const lv = manifestLevel(realLevel);
+    if (!lv) return;
+    const items = lv.papers.map((p, i) => {
+        const prog = getRealProgress(p.id);
+        const wholeDone = isCompleted(realWholeKey(p.id));
+        const partial = prog.q.length;
+        return `
+        <button class="ex-list-item" data-action="start-real-whole" data-pos="${i}">
+          <span class="ex-list-no${wholeDone ? ' ex-list-done' : ''}">${i + 1}</span>
+          <span class="ex-list-title">${esc(p.title)}${p.hasAudio ? ' <span class="ex-audio-tag">🎧</span>' : ''}</span>
+          <span class="ex-list-meta">${wholeDone ? '已整套完成' : (partial ? `已练 ${partial}/55` : '未开始')}</span>
+        </button>`;
+    }).join('');
     render(`
     <div class="ex-home">
       <div class="ex-topbar">
         <button class="btn ex-ghost" data-action="back-real-hub">‹ 返回</button>
         <div class="ex-topbar-title"><h1>${levelLabel(realLevel)} 整套真题</h1>
-          <span class="ex-topbar-meta">官方总时长 ${t.total / 60} 分钟</span></div>
+          <span class="ex-topbar-meta">官方总时长 ${t.total / 60} 分钟 · 共 ${lv.count} 套</span></div>
       </div>
-      <div class="ex-error glass">
-        <h2>真题数据准备中</h2>
-        <p>整套真题将在数据流水线接入后按年份 / 月份 / 套卷列出。严格模式固定时间：写作 ${t.writing / 60}、听力 ${t.listening / 60}、阅读 ${t.reading / 60}、翻译 ${t.translation / 60}（分钟）。</p>
-        <button class="btn ex-secondary" data-action="back-real-hub">返回</button>
-      </div>
+      <div class="ex-list glass">${items}</div>
     </div>`);
+}
+
+async function openRealSingle(): Promise<void> {
+    view = 'real-single';
+    render('<div class="ex-loading">正在加载单项训练…</div>');
+    try {
+        const manifest = await ensureManifest();
+        const lv = manifest.levels.find(l => l.level === realLevel)!;
+        if (!realSingleId || lv.papers.every(p => p.id !== realSingleId)) {
+            realSingleId = lv.papers[0].id;
+        }
+        realSingleConfig = emptyRealConfig();
+        await loadRealPaper(realSingleId);
+        renderRealSingle();
+    } catch (e) {
+        console.error('加载单项训练失败', e);
+        renderError('单项训练加载失败', '真题数据缺失，请确认 public/exams/real 数据完整。');
+    }
 }
 
 function renderRealSingle(): void {
     view = 'real-single';
-    const t = OFFICIAL_TIMING[realLevel];
-    const parts: { icon: string; name: string; detail: string; mins: number }[] = [
-        { icon: '🎧', name: '听力理解', detail: realLevel === 'cet4' ? '新闻 / 长对话 / 听力篇章，可按 section 或某一篇选' : '长对话 / 听力篇章 / 讲座，可按 section 或某一篇选', mins: t.listening / 60 },
-        { icon: '🔤', name: '选词填空（词汇理解）', detail: '10 空，词库匹配', mins: t.reading / 60 },
-        { icon: '📑', name: '长篇阅读（匹配）', detail: '10 题，段落匹配', mins: t.reading / 60 },
-        { icon: '🔍', name: '仔细阅读', detail: '10 题，可只选某一篇', mins: t.reading / 60 },
-        { icon: '✍️', name: '写作', detail: '短文写作，官方 30 分钟', mins: t.writing / 60 },
-        { icon: '🌐', name: '翻译', detail: '段落汉译英，官方 30 分钟', mins: t.translation / 60 },
+    const paper = realPaperCache[realSingleId];
+    if (!paper) return;
+    const lv = manifestLevel(realLevel)!;
+    const done = realAnsweredSet(paper.id);
+    const cfg = realSingleConfig;
+
+    const paperOptions = lv.papers.map(p =>
+        `<option value="${esc(p.id)}" ${p.id === paper.id ? 'selected' : ''}>${esc(p.title)}</option>`).join('');
+
+    // 听力：section 全选 + 每 clip 勾选
+    const listeningCards = paper.listening.sections.map(sec => {
+        const clipRows = sec.clips.map((clip, ci) => {
+            const key = clipKey(sec.key, ci);
+            const allN = clip.questions.map(q => q.n);
+            const clipDone = allN.every(n => done.has(n));
+            return `<label class="ex-check-row">
+              <input type="checkbox" data-real-toggle="clip" data-key="${esc(key)}" ${cfg.listening.has(key) ? 'checked' : ''}>
+              <span class="ex-check-label">${esc(clip.name)}（${allN[0]}–${allN[allN.length - 1]} 题）</span>
+              ${clipDone ? '<span class="ex-done-tag">已练</span>' : ''}
+            </label>`;
+        }).join('');
+        const secKeys = sec.clips.map((_, ci) => clipKey(sec.key, ci));
+        const secAll = secKeys.every(k => cfg.listening.has(k));
+        return `<div class="ex-single-sec">
+          <label class="ex-check-row ex-check-head">
+            <input type="checkbox" data-real-toggle="sec" data-sec="${esc(sec.key)}" ${secAll ? 'checked' : ''}>
+            <span class="ex-check-label">Section ${esc(sec.key)} · ${esc(sec.name)}（全选）</span>
+          </label>
+          <div class="ex-check-sub">${clipRows}</div>
+        </div>`;
+    }).join('');
+
+    // 仔细：按篇
+    const carefulRows = paper.reading.careful.map((cp, i) => {
+        const allN = cp.questions.map(q => q.n);
+        const cpDone = allN.every(n => done.has(n));
+        return `<label class="ex-check-row">
+          <input type="checkbox" data-real-toggle="careful" data-idx="${i}" ${cfg.careful.has(i) ? 'checked' : ''}>
+          <span class="ex-check-label">第 ${i + 1} 篇（${allN[0]}–${allN[allN.length - 1]} 题）</span>
+          ${cpDone ? '<span class="ex-done-tag">已练</span>' : ''}
+        </label>`;
+    }).join('');
+
+    const block = (title: string, body: string): string => `
+      <div class="ex-real-block glass">
+        <h3 class="ex-block-title">${title}</h3>${body}</div>`;
+
+    const simpleRow = (toggle: string, label: string, checked: boolean, tag: string): string => `
+      <label class="ex-check-row">
+        <input type="checkbox" data-real-toggle="${toggle}" ${checked ? 'checked' : ''}>
+        <span class="ex-check-label">${label}</span>${tag}
+      </label>`;
+
+    const prog = getRealProgress(paper.id);
+    const blocks = [
+        block('🎧 听力理解（按 section 或某一篇）', listeningCards),
+        block('🔤 选词填空', simpleRow('banked', '词汇理解（26–35 题）', cfg.banked, done.has(26) ? '<span class="ex-done-tag">已练</span>' : '')),
+        block('📑 长篇阅读（段落匹配）', simpleRow('matching', '段落匹配（36–45 题）', cfg.matching, done.has(36) ? '<span class="ex-done-tag">已练</span>' : '')),
+        block('🔍 仔细阅读（可只选某一篇）', carefulRows),
+        block('✍️ 写作', simpleRow('writing', '短文写作（不评分）', cfg.writing, prog.writing ? '<span class="ex-done-tag">已练</span>' : '')),
+        block('🌐 翻译', simpleRow('translation', '汉译英（不评分）', cfg.translation, prog.translation ? '<span class="ex-done-tag">已练</span>' : '')),
     ];
-    const cards = parts.map(p => `
-      <div class="ex-card glass">
-        <div class="ex-card-head"><span class="ex-card-icon">${p.icon}</span><div><h2>${p.name}</h2></div></div>
-        <p class="ex-card-desc">${p.detail}。官方限时约 ${p.mins} 分钟，数据接入后可勾选并任意搭配。</p>
-      </div>`).join('');
+
     render(`
-    <div class="ex-home">
+    <div class="ex-home ex-single-page">
       <div class="ex-topbar">
         <button class="btn ex-ghost" data-action="back-real-hub">‹ 返回</button>
         <div class="ex-topbar-title"><h1>${levelLabel(realLevel)} 单项训练</h1>
-          <span class="ex-topbar-meta">数据接入后可自由勾选搭配</span></div>
+          <span class="ex-topbar-meta">勾选后任意搭配</span></div>
       </div>
-      <div class="ex-cards">${cards}</div>
+      <div class="ex-paper-select glass">
+        <label>选择套卷
+          <select data-real-paper aria-label="选择套卷">${paperOptions}</select>
+        </label>
+      </div>
+      ${blocks.join('')}
+      <div class="ex-single-start glass">
+        <span id="real-single-summary" class="ex-single-summary">${realSingleSummary()}</span>
+        <button class="btn ex-primary" id="real-single-start-btn" data-action="start-real-single"
+          ${realObjectiveCountFor(cfg) + (cfg.writing ? 1 : 0) + (cfg.translation ? 1 : 0) ? '' : 'disabled'}>开始作答</button>
+      </div>
     </div>`);
+}
+
+function realObjectiveCountFor(cfg: RealConfig): number {
+    const paper = realPaperCache[realSingleId];
+    let n = 0;
+    for (const sec of paper.listening.sections) sec.clips.forEach((clip, ci) => {
+        if (cfg.listening.has(clipKey(sec.key, ci))) n += clip.questions.length;
+    });
+    if (cfg.banked) n += paper.reading.banked.questions.length;
+    if (cfg.matching) n += paper.reading.matching.questions.length;
+    paper.reading.careful.forEach((cp, i) => { if (cfg.careful.has(i)) n += cp.questions.length; });
+    return n;
+}
+function realSingleSummary(): string {
+    const obj = realObjectiveCountFor(realSingleConfig);
+    const subj = (realSingleConfig.writing ? 1 : 0) + (realSingleConfig.translation ? 1 : 0);
+    if (!obj && !subj) return '尚未选择任何项目';
+    return `已选客观题 ${obj} 题${subj ? ` · 主观项 ${subj}` : ''}${isSimMode() ? ' · 严格模式按题量限时' : ''}`;
+}
+/** 单项勾选变更：更新 config 后整页重渲染（保持选择与套卷） */
+function onRealToggle(input: HTMLInputElement): void {
+    const cfg = realSingleConfig;
+    const on = input.checked;
+    switch (input.dataset.realToggle) {
+        case 'clip':
+            if (on) cfg.listening.add(input.dataset.key || ''); else cfg.listening.delete(input.dataset.key || '');
+            break;
+        case 'sec': {
+            const paper = realPaperCache[realSingleId];
+            const sec = paper.listening.sections.find(s => s.key === input.dataset.sec)!;
+            sec.clips.forEach((_, ci) => {
+                const k = clipKey(sec.key, ci);
+                if (on) cfg.listening.add(k); else cfg.listening.delete(k);
+            });
+            break;
+        }
+        case 'banked': cfg.banked = on; break;
+        case 'matching': cfg.matching = on; break;
+        case 'careful': {
+            const i = Number(input.dataset.idx);
+            if (on) cfg.careful.add(i); else cfg.careful.delete(i);
+            break;
+        }
+        case 'writing': cfg.writing = on; break;
+        case 'translation': cfg.translation = on; break;
+    }
+    renderRealSingle();
+}
+async function startRealSingle(): Promise<void> {
+    await beginReal(realSingleId, realSingleConfig, false);
+}
+
+// ---------------- 真题作答引擎 ----------------
+function clipKey(secKey: string, ci: number): string { return `${secKey}-${ci}`; }
+function allClipKeys(paper: RealPaper): Set<string> {
+    const s = new Set<string>();
+    for (const sec of paper.listening.sections) sec.clips.forEach((_, ci) => s.add(clipKey(sec.key, ci)));
+    return s;
+}
+function makeWholeConfig(paper: RealPaper): RealConfig {
+    return {
+        listening: allClipKeys(paper),
+        banked: true, matching: true,
+        careful: new Set(paper.reading.careful.map((_, i) => i)),
+        writing: true, translation: true,
+    };
+}
+function emptyRealConfig(): RealConfig {
+    return { listening: new Set(), banked: false, matching: false, careful: new Set(), writing: false, translation: false };
+}
+
+interface IncludedClip { sec: RealSection; ci: number; clip: RealClip }
+function includedListening(paper: RealPaper): IncludedClip[] {
+    const out: IncludedClip[] = [];
+    for (const sec of paper.listening.sections) {
+        sec.clips.forEach((clip, ci) => {
+            if (realConfig!.listening.has(clipKey(sec.key, ci))) out.push({ sec, ci, clip });
+        });
+    }
+    return out;
+}
+function realObjectiveGraded(): { n: number; a: string }[] {
+    const paper = currentRealPaper!; const cfg = realConfig!;
+    const out: { n: number; a: string }[] = [];
+    for (const { clip } of includedListening(paper)) for (const q of clip.questions) out.push({ n: q.n, a: q.a });
+    if (cfg.banked) for (const q of paper.reading.banked.questions) out.push({ n: q.n, a: q.a });
+    if (cfg.matching) for (const q of paper.reading.matching.questions) out.push({ n: q.n, a: q.a });
+    paper.reading.careful.forEach((cp, i) => {
+        if (cfg.careful.has(i)) for (const q of cp.questions) out.push({ n: q.n, a: q.a });
+    });
+    return out;
+}
+function realObjectiveCount(): number { return realObjectiveGraded().length; }
+function realSubjectiveCount(): number { return (realConfig!.writing ? 1 : 0) + (realConfig!.translation ? 1 : 0); }
+function realListeningQuestionCount(paper: RealPaper): number {
+    return includedListening(paper).reduce((n, x) => n + x.clip.questions.length, 0);
+}
+function realReadingQuestionCount(paper: RealPaper): number {
+    const cfg = realConfig!; let n = 0;
+    if (cfg.banked) n += paper.reading.banked.questions.length;
+    if (cfg.matching) n += paper.reading.matching.questions.length;
+    paper.reading.careful.forEach((cp, i) => { if (cfg.careful.has(i)) n += cp.questions.length; });
+    return n;
+}
+/** 严格模式限时：整套等于官方总时长；子集按客观题题量比例 + 主观项固定时长 */
+function realStrictSec(): number {
+    const paper = currentRealPaper!; const t = paper.timing;
+    let sec = 0;
+    const lisQ = realListeningQuestionCount(paper);
+    if (lisQ) sec += (t.listening / 25) * lisQ;
+    const readQ = realReadingQuestionCount(paper);
+    if (readQ) sec += (t.reading / 30) * readQ;
+    if (realConfig!.writing) sec += t.writing;
+    if (realConfig!.translation) sec += t.translation;
+    return Math.round(sec);
+}
+
+// ---- 音频 ----
+function realAudioId(paper: RealPaper): string { return paper.listening.audio || paper.id; }
+function realHasAudio(paper: RealPaper): boolean {
+    const item = manifestItem(realAudioId(paper));
+    return !!item && item.hasAudio;
+}
+function realAudioSrc(paper: RealPaper): string {
+    return `/api/exam/real-audio/${encodeURIComponent(realAudioId(paper))}`;
+}
+
+// ---- 选项 / 判分标记 ----
+function realOptHtml(n: number, letter: string, text: string, correct: string): string {
+    let cls = 'ex-opt';
+    if (submitted) {
+        if (letter === correct) cls += ' ex-opt-correct';
+        else if (answers[n] === letter) cls += ' ex-opt-wrong';
+    } else if (answers[n] === letter) cls += ' ex-opt-selected';
+    return `<button type="button" class="${cls}" data-action="pick-real" data-q="${n}" data-opt="${letter}" ${submitted ? 'disabled' : ''}>
+      <span class="ex-opt-letter">${letter}</span>${text ? `<span class="ex-opt-text">${esc(text)}</span>` : ''}</button>`;
+}
+function realMark(n: number, correct: string): string {
+    if (!submitted) return '';
+    const ok = answers[n] === correct;
+    return `<span class="ex-q-mark ${ok ? 'ex-mark-ok' : 'ex-mark-no'}">${ok ? '✓ 正确' : '✗ 错误'}</span>`;
+}
+function renderRealMcq(q: RealQ): string {
+    const opts = q.o.map(o => realOptHtml(q.n, o.l, o.t, q.a)).join('');
+    return `<div class="ex-q" data-qn="${q.n}">
+      <div class="ex-q-stem"><span class="ex-q-no">${q.n}.</span>${q.s ? ` ${esc(q.s)}` : ''} ${realMark(q.n, q.a)}</div>
+      <div class="ex-opts">${opts}</div></div>`;
+}
+
+// ---- 各部分渲染 ----
+function renderRealWriting(paper: RealPaper): string {
+    return `<div class="ex-real-block glass">
+      <h3 class="ex-block-title">✍️ 写作（官方 30 分钟）</h3>
+      <div class="ex-real-prompt">${esc(paper.writing.prompt)}</div>
+      <textarea class="ex-real-textarea" data-real-input="writing" rows="10" placeholder="在此作答，交卷后可对照范文（本项暂不评分）" ${submitted ? 'disabled' : ''}>${esc(realText.writing)}</textarea>
+    </div>`;
+}
+function renderRealClip(clip: RealClip): string {
+    return `<div class="ex-clip"><div class="ex-clip-name">${esc(clip.name)}</div>${clip.questions.map(q => renderRealMcq(q)).join('')}</div>`;
+}
+function renderRealListening(paper: RealPaper): string {
+    const inc = includedListening(paper);
+    if (!inc.length) return '';
+    const audioBox = realHasAudio(paper)
+        ? `<div class="ex-audio glass"><audio controls preload="none" src="${esc(realAudioSrc(paper))}"></audio>
+           <div class="ex-audio-ctrl"><p class="ex-audio-hint">真题听力录音；交卷后可自由回听。</p></div></div>`
+        : `<div class="ex-audio-missing"><strong>本套听力录音未就绪</strong><span>音频将在资源包接入后可用，题目与原文仍可正常练习。</span></div>`;
+    const bySec = new Map<string, { sec: RealSection; rows: string[] }>();
+    for (const x of inc) {
+        let g = bySec.get(x.sec.key);
+        if (!g) { g = { sec: x.sec, rows: [] }; bySec.set(x.sec.key, g); }
+        g.rows.push(renderRealClip(x.clip));
+    }
+    const secs = [...bySec.values()].map(g => `<div class="ex-section">
+      <h3 class="ex-section-title">Section ${esc(g.sec.key)} · ${esc(g.sec.name)}</h3>${g.rows.join('')}</div>`).join('');
+    return `<div class="ex-real-block glass">
+      <h3 class="ex-block-title">🎧 听力理解</h3>${audioBox}${secs}</div>`;
+}
+function renderRealBanked(paper: RealPaper): string {
+    const b = paper.reading.banked;
+    const bank = `<div class="ex-bank">${b.bank.map(it => `<span class="ex-bank-word"><strong>${esc(it.l)}</strong> ${esc(it.w)}</span>`).join('')}</div>`;
+    const qs = b.questions.map(q => `<div class="ex-q ex-bank-q" data-qn="${q.n}">
+      <div class="ex-q-stem"><span class="ex-q-no">第 ${q.n} 空</span> ${realMark(q.n, q.a)}</div>
+      <div class="ex-opts">${b.bank.map(it => realOptHtml(q.n, it.l, it.w, q.a)).join('')}</div></div>`).join('');
+    return `<div class="ex-real-block glass">
+      <h3 class="ex-block-title">🔤 选词填空（词汇理解）</h3>
+      <div class="ex-real-passage">${esc(b.passage)}</div>${bank}${qs}</div>`;
+}
+function renderRealMatching(paper: RealPaper): string {
+    const m = paper.reading.matching;
+    const paras = `<div class="ex-match-paras">${m.paragraphs.map(p => `<div class="ex-match-par"><strong>${esc(p.l)}</strong> ${esc(p.t)}</div>`).join('')}</div>`;
+    const qs = m.questions.map(q => `<div class="ex-q" data-qn="${q.n}">
+      <div class="ex-q-stem"><span class="ex-q-no">${q.n}.</span> ${esc(q.s)} ${realMark(q.n, q.a)}</div>
+      <div class="ex-opts ex-opts-letters">${m.paragraphs.map(p => realOptHtml(q.n, p.l, '', q.a)).join('')}</div></div>`).join('');
+    return `<div class="ex-real-block glass">
+      <h3 class="ex-block-title">📑 长篇阅读（段落匹配）</h3>${paras}${qs}</div>`;
+}
+function renderRealCareful(paper: RealPaper): string {
+    return paper.reading.careful.map((cp, i) => {
+        if (!realConfig!.careful.has(i)) return '';
+        return `<div class="ex-real-block glass">
+          <h3 class="ex-block-title">🔍 仔细阅读 · 第 ${i + 1} 篇</h3>
+          <div class="ex-real-passage">${esc(cp.passage)}</div>
+          ${cp.questions.map(q => renderRealMcq(q)).join('')}</div>`;
+    }).join('');
+}
+function renderRealTranslation(paper: RealPaper): string {
+    return `<div class="ex-real-block glass">
+      <h3 class="ex-block-title">🌐 翻译（汉译英，官方 30 分钟）</h3>
+      <div class="ex-real-prompt">${esc(paper.translation.source)}</div>
+      <textarea class="ex-real-textarea" data-real-input="translation" rows="10" placeholder="在此作答，交卷后可对照参考译文（本项暂不评分）" ${submitted ? 'disabled' : ''}>${esc(realText.translation)}</textarea>
+    </div>`;
+}
+
+// ---- 做题页装配 ----
+let realShowAnswers = false;
+let realShowTranscript = false;
+let realShowSample = false;
+let realShowReference = false;
+function renderRealPractice(): void {
+    view = 'real-practice';
+    const paper = currentRealPaper; const cfg = realConfig;
+    if (!paper || !cfg) return;
+    const blocks: string[] = [];
+    if (cfg.writing) blocks.push(renderRealWriting(paper));
+    blocks.push(renderRealListening(paper));
+    if (cfg.banked) blocks.push(renderRealBanked(paper));
+    if (cfg.matching) blocks.push(renderRealMatching(paper));
+    blocks.push(renderRealCareful(paper));
+    if (cfg.translation) blocks.push(renderRealTranslation(paper));
+    render(`
+    <div class="ex-practice" data-kind="real">
+      <div class="ex-topbar">
+        <button class="btn ex-ghost" data-action="back-real-list">‹ 返回真题列表</button>
+        <div class="ex-topbar-title"><h1>${esc(paper.title)}</h1></div>
+      </div>
+      ${isSimMode() ? `<div class="ex-sim-bar glass"><span id="sim-countdown" class="ex-sim-clock">⏱ --:--</span><span class="ex-sim-note">严格模式 · 到点强制交卷</span></div>` : ''}
+      ${blocks.filter(Boolean).join('')}
+      ${realSubmitBar()}
+      <div id="ex-extra"></div>
+    </div>`);
+}
+function realSubmitBar(): string {
+    const total = realObjectiveCount();
+    if (submitted) {
+        const graded = realObjectiveGraded();
+        const correct = gradeQuestions(graded, answers).correct;
+        const pct = total ? Math.round((correct / total) * 100) : 0;
+        return `<div class="ex-result-bar glass">
+          <div class="ex-score"><span class="ex-score-num">${correct} / ${total}</span><span class="ex-score-pct">客观题正确率 ${pct}%</span></div>
+          <div class="ex-elapsed"><span class="ex-elapsed-label">本次作答用时</span><span class="ex-elapsed-val">⏱ ${formatElapsed(lastElapsedSec)}</span></div>
+          <div class="ex-result-toggles">
+            <button class="btn ex-secondary" data-action="real-toggle-answers">${realShowAnswers ? '隐藏参考答案' : '显示参考答案'}</button>
+            ${realConfig!.listening.size ? `<button class="btn ex-secondary" data-action="real-toggle-transcript">${realShowTranscript ? '隐藏听力原文' : '查看听力原文'}</button>` : ''}
+            ${realConfig!.writing ? `<button class="btn ex-secondary" data-action="real-toggle-sample">${realShowSample ? '隐藏写作范文' : '查看写作范文'}</button>` : ''}
+            ${realConfig!.translation ? `<button class="btn ex-secondary" data-action="real-toggle-reference">${realShowReference ? '隐藏参考译文' : '查看参考译文'}</button>` : ''}
+            <button class="btn ex-ghost" data-action="real-retry">重新做一遍</button>
+          </div>
+        </div>`;
+    }
+    const answered = realObjectiveGraded().filter(g => answers[g.n]).length;
+    const allDone = answered >= total;
+    return `<div class="ex-submit-bar glass">
+      <span class="ex-progress">客观题已作答 <strong>${answered}</strong> / ${total}${realSubjectiveCount() ? ` · 主观项 ${realSubjectiveCount()}` : ''}</span>
+      <button class="btn ex-primary" data-action="real-submit" ${allDone ? '' : 'disabled'}>${allDone ? '交卷并判分' : `还有 ${total - answered} 题未作答`}</button>
+    </div>`;
+}
+
+// ---- 交卷后附加区 ----
+function renderRealExtra(): void {
+    const host = document.getElementById('ex-extra');
+    if (!host) return;
+    const paper = currentRealPaper!;
+    const blocks: string[] = [];
+    if (realShowAnswers) {
+        const rows = realObjectiveGraded().map(g => `<div class="ex-ans-row"><span class="ex-ans-no">${g.n}</span><span class="ex-ans-key">${esc(g.a)}</span></div>`).join('');
+        blocks.push(`<div class="ex-block"><h4>参考答案</h4><div class="ex-ans-list ex-ans-grid">${rows}</div></div>`);
+    }
+    if (realShowTranscript) {
+        const html = includedListening(paper).map(x => `<div class="ex-tr-block">
+          <h5>Section ${esc(x.sec.key)} · ${esc(x.clip.name)}</h5>
+          ${x.clip.transcript.map(seg => `<p class="ex-tr-en">${processTranscript(seg.en)}</p>${seg.zh ? `<p class="ex-tr-zh">${esc(seg.zh)}</p>` : ''}`).join('')}
+        </div>`).join('');
+        blocks.push(`<div class="ex-block ex-transcript"><h4>听力原文</h4><div class="ex-word-hint">点击单词可查词</div>${html}</div>`);
+    }
+    if (realShowSample) blocks.push(`<div class="ex-block"><h4>写作范文（仅供参考，不评分）</h4><div class="ex-real-sample">${esc(paper.writing.sample)}</div></div>`);
+    if (realShowReference) blocks.push(`<div class="ex-block"><h4>参考译文（仅供参考，不评分）</h4><div class="ex-real-sample">${esc(paper.translation.reference)}</div></div>`);
+    host.innerHTML = blocks.join('');
+}
+
+// ---- 加载 / 开始 / 交卷 / 重做 / 选择 ----
+async function loadRealPaper(id: string): Promise<RealPaper> {
+    if (!realPaperCache[id]) realPaperCache[id] = await fetchJson<RealPaper>(`${EXAM_URL}/real/papers/${id}.json`);
+    return realPaperCache[id];
+}
+async function startRealWhole(pos: number): Promise<void> {
+    const item = manifestLevel(realLevel)!.papers[pos];
+    const paper = await loadRealPaper(item.id);
+    await beginReal(item.id, makeWholeConfig(paper), true);
+}
+async function beginReal(id: string, cfg: RealConfig, isWhole: boolean): Promise<void> {
+    render('<div class="ex-loading">正在加载真题…</div>');
+    try {
+        const paper = await loadRealPaper(id);
+        currentRealPaper = paper; realConfig = cfg; realIsWhole = isWhole;
+        resetAnswers();
+        realText = { writing: '', translation: '' };
+        realShowAnswers = realShowTranscript = realShowSample = realShowReference = false;
+        practiceStartAt = Date.now();
+        renderRealPractice();
+        if (isSimMode()) startSimTimer(realStrictSec());
+    } catch (e) {
+        console.error('加载真题失败', e);
+        renderError('真题加载失败', '题目资源缺失，请确认 public/exams/real/papers 数据完整。');
+    }
+}
+function submitReal(force: boolean = false): void {
+    const paper = currentRealPaper!;
+    if (!force && realObjectiveGraded().filter(g => answers[g.n]).length < realObjectiveCount()) return;
+    stopSimTimer();
+    submitted = true;
+    lastElapsedSec = practiceStartAt ? Math.max(0, Math.round((Date.now() - practiceStartAt) / 1000)) : 0;
+    const answeredNums = realObjectiveGraded().filter(g => answers[g.n]).map(g => g.n);
+    mergeRealProgress(paper.id, answeredNums, realConfig!.writing, realConfig!.translation);
+    if (realIsWhole) markCompleted(realWholeKey(paper.id), answers, lastElapsedSec);
+    renderRealPractice();
+    requestAnimationFrame(() => {
+        renderRealExtra();
+        document.querySelector('.ex-result-bar')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
+}
+function retryReal(): void {
+    resetAnswers();
+    realText = { writing: '', translation: '' };
+    realShowAnswers = realShowTranscript = realShowSample = realShowReference = false;
+    practiceStartAt = Date.now();
+    renderRealPractice();
+    if (isSimMode()) startSimTimer(realStrictSec());
+}
+function onPickReal(node: HTMLElement): void {
+    if (submitted) return;
+    const qn = Number(node.dataset.q);
+    answers[qn] = node.dataset.opt || '';
+    const qBox = el().querySelector(`.ex-q[data-qn="${qn}"]`);
+    qBox?.querySelectorAll('.ex-opt').forEach(o => o.classList.remove('ex-opt-selected'));
+    node.classList.add('ex-opt-selected');
+    const bar = el().querySelector('.ex-submit-bar');
+    if (bar) bar.outerHTML = realSubmitBar();
 }
 
 function renderError(title: string, detail: string): void {
@@ -960,6 +1491,7 @@ function renderSimTimer(): void {
 }
 
 function submit(force: boolean = false): void {
+    if (view === 'real-practice') { submitReal(force); return; }
     if (!force && answeredCount() < totalQuestions()) return;
     stopSimTimer();
     submitted = true;
@@ -1036,13 +1568,51 @@ async function onClick(e: MouseEvent): Promise<void> {
             renderRealHub();
             break;
         case 'open-real-papers':
-            renderRealPapers();
+            await openRealPapers();
             break;
         case 'open-real-single':
-            renderRealSingle();
+            await openRealSingle();
+            break;
+        case 'start-real-single':
+            await startRealSingle();
             break;
         case 'back-real-hub':
             renderRealHub();
+            break;
+        case 'back-real-list':
+            await openRealPapers();
+            break;
+        case 'start-real-whole':
+            await startRealWhole(Number(node.dataset.pos));
+            break;
+        case 'pick-real':
+            onPickReal(node);
+            break;
+        case 'real-submit':
+            submitReal();
+            break;
+        case 'real-retry':
+            retryReal();
+            break;
+        case 'real-toggle-answers':
+            realShowAnswers = !realShowAnswers;
+            node.textContent = realShowAnswers ? '隐藏参考答案' : '显示参考答案';
+            renderRealExtra();
+            break;
+        case 'real-toggle-transcript':
+            realShowTranscript = !realShowTranscript;
+            node.textContent = realShowTranscript ? '隐藏听力原文' : '查看听力原文';
+            renderRealExtra();
+            break;
+        case 'real-toggle-sample':
+            realShowSample = !realShowSample;
+            node.textContent = realShowSample ? '隐藏写作范文' : '查看写作范文';
+            renderRealExtra();
+            break;
+        case 'real-toggle-reference':
+            realShowReference = !realShowReference;
+            node.textContent = realShowReference ? '隐藏参考译文' : '查看参考译文';
+            renderRealExtra();
             break;
         case 'back-home':
             renderHome();
@@ -1178,7 +1748,21 @@ export function initExam(): void {
         } else if (t.id === 'sim-duration') {
             const v = parseInt((t as HTMLInputElement).value, 10);
             if (Number.isFinite(v) && v >= 1) localStorage.setItem(SIM_DURATION_KEY, String(v));
+        } else if (t.hasAttribute('data-real-toggle')) {
+            onRealToggle(t as HTMLInputElement);
+        } else if (t.hasAttribute('data-real-paper')) {
+            const id = (t as HTMLSelectElement).value;
+            realSingleId = id;
+            realSingleConfig = emptyRealConfig();
+            void loadRealPaper(id).then(() => renderRealSingle());
         }
+    });
+    // 真题写作 / 翻译 textarea：实时保存到会话状态
+    box.addEventListener('input', (e: Event) => {
+        const t = (e.target as HTMLElement).closest('[data-real-input]') as HTMLTextAreaElement | null;
+        if (!t) return;
+        const which = t.dataset.realInput as 'writing' | 'translation';
+        if (which === 'writing' || which === 'translation') realText[which] = t.value;
     });
     // 隐藏式单词链接：hover 高光 + 随鼠标移动的查词提示框
     box.addEventListener('mousemove', (e: MouseEvent) => {

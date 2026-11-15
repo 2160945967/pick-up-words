@@ -1,0 +1,1392 @@
+{
+  "id": "cet4-2015-6-1",
+  "level": "cet4",
+  "year": 2015,
+  "month": 6,
+  "set": 1,
+  "title": "2015年6月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay based on the picture below. You should start your essay with a brief description of the picture and then comment on this kind of modern life. You should write at least 120 words but no more than 180 words.",
+    "sample": "As is vividly shown in the four-panel cartoon titled \"This modern life\", a stick figure sits in front of a computer in every single frame. Whether he is working, staying at home, having fun or even sleeping, the screen never leaves him; in the last picture he is lying in bed, yet in his dream he is still glued to the monitor.Simple as it looks, the cartoon reveals a thought-provoking truth about our times. The computer, once merely a tool, has quietly taken over almost every corner of daily life, blurring the line between work, rest and entertainment. Many people can no longer imagine a single hour without a screen. Such heavy dependence may boost efficiency, but it also weakens face-to-face communication, harms our health and leaves little room for genuine relaxation.Therefore, we should learn to be the master of technology rather than its slave. By setting screen-free hours and returning to real life, we can enjoy the convenience of computers without being trapped by them."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "An earthquake hitting Lahore in Pakistan."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Rescue operation after the earthquake."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A factory building being damaged in the earthquake."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Relief work in the collapsed factory building."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Concrete and bricks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Heavy machines."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Plastic bags."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Building materials.\n\nQuestions 3 to 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "At least 16 people were killed and up to 150 trapped under the rubble when a factory collapsed in an industrial area of Lahore in eastern Pakistan. Formerly several stories high, no part of the building remained standing after the disaster, and hundreds of rescue workers including soldiers have been picking through concrete and bricks to find survivors. Dozens have been pulled out alive. Many more remain trapped and with heavy machinery being used, search teams were striving to ensure that no one is hurt further in the rescue operation. It is not known what caused the collapse of the factory where plastic bags were manufactured. But reports suggest the building was still under construction and may have suffered damage in last week's earthquake that hit Afghanistan and Pakistan, leaving hundreds dead.",
+                "zh": "巴基斯坦东部拉合尔一个工业区的一家工厂倒塌，造成至少16人死亡,多达150人被困在废墟下。这座原本有数层高的建筑在灾难发生后没有任何部分保持竖立,数百名救援人员包括士兵一直在混凝土和砖块中搜寻幸存者。已有数十人被救出。还有更多人仍被困,由于使用了重型机械,搜救队正在努力确保在救援行动中没有人受到进一步伤害。目前尚不清楚这家生产塑料袋的工厂倒塌的原因。但报道称该建筑仍在施工中,可能在上周袭击阿富汗和巴基斯坦并造成数百人死亡的地震中受损。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 to 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its color choices."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its hardware."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Its price."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its size."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About 500 dollars."
+                  },
+                  {
+                    "l": "B",
+                    "t": "About 400 dollars."
+                  },
+                  {
+                    "l": "C",
+                    "t": "About 300 dollars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "About 100 dollars.\n\nQuestions 5 to 7 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The technology company Apple announced a new, smaller sized iPhone on Monday at a press conference in Cupertino, California. Apple head Tim Cook said customers had asked that the company continue making four-inch products. He said the new iPhone SE satisfies that demand. It is the same size as the iPhone 5 and 5s. But, the SE includes the better hardware of the most recent iPhone, the 6s. And, Apple is offering the iPhone SE for a lower price. An iPhone SE with 16 GB of storage will cost around $400. One with 64 GB will be about $100 more. The iPhone SE shares the same design and materials as the 5 and 5s. However, the new model adds a color choice: rose gold. The company also reported on its sustainability efforts to use 100% renewable energy at this facility. Currently, Apple says it uses renewable energy at 93% of its facilities.",
+                "zh": "科技公司Apple于周一在加利福尼亚州Cupertino的新闻发布会上宣布推出一款新的、尺寸更小的iPhone。Apple负责人Tim Cook表示，客户要求公司继续生产四英寸的产品。他说新款iPhone SE满足了这一需求。它的尺寸与iPhone 5和5s相同。但是，SE包含了最新款iPhone 6s的更好硬件。而且，Apple以更低的价格提供iPhone SE。一部16 GB存储容量的iPhone SE售价约为400美元。64 GB的售价约为高出100美元。iPhone SE与5和5s采用相同的设计和材质。然而，新机型增加了一种颜色选择：玫瑰金。该公司还报告了其在该设施使用100%可再生能源的可持续发展努力。目前，Apple表示其93%的设施使用可再生能源。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The repeated chemotherapy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The immune system treatment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The stem cell transplant."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The bone marrow transplant."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "About 33."
+                  },
+                  {
+                    "l": "B",
+                    "t": "About 35."
+                  },
+                  {
+                    "l": "C",
+                    "t": "About 50."
+                  },
+                  {
+                    "l": "D",
+                    "t": "About 94."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Improving cancer-fighting ability of immune cells."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Encouraging patients with skin or lung cancers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Healing the leukemia patients in a single treatment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Eradicating invading viruses and bacteria."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "An experimental therapy uses a person's weak immune system to fight deadly blood cancers. Stanley Riddell is a researcher at the Fred Hutchinson Cancer Research Center in the U.S. state of Washington. \"So, that's the one interesting thing about this. It doesn't require repeated treatments or repetitive cycles of chemotherapy,\" said Riddell. \"That's what I think in the future may be most important for patients—that it's a single treatment instead of many months of treatment.\" It has shown great promise in small trials with patients. In one study of 35 patients with a type of leukemia, 94 percent experienced a complete remission. 50 percent to 80 percent of patients with other blood cancers also saw a reduction in symptoms. Riddell said, \"This is encouraging because these are all patients who have failed all conventional therapies, including many kinds of bone marrow and stem cell transplants.\" Immune system cells usually fight invading viruses and bacteria. They can also combat cancer. But they are soon overwhelmed by the disease. The work by Hutchinson researchers increases this natural cancer-fighting ability. Using the immune system has also shown promise against skin cancer and some lung cancers.",
+                "zh": "一种实验性疗法利用人体虚弱的免疫系统来对抗致命的血癌。Stanley Riddell 是美国华盛顿州 Fred Hutchinson 癌症研究中心的研究员。\"所以，这就是这种疗法的一个有趣之处。它不需要重复治疗或反复的化疗周期，\"Riddell 说。\"我认为这对患者来说可能是未来最重要的——它是一次性治疗，而不是数月的治疗。\"它在小规模患者试验中显示出巨大的前景。在一项针对 35 名某种白血病患者的研究中，94% 的患者经历了完全缓解。50% 到 80% 的其他血癌患者的症状也有所减轻。Riddell 说：\"这令人鼓舞，因为这些患者都是所有常规疗法均失败的患者,包括多种骨髓移植和干细胞移植。\"免疫系统细胞通常对抗入侵的病毒和细菌。它们也可以对抗癌症。但它们很快就会被疾病压垮。Hutchinson 研究人员的工作增强了这种天然的抗癌能力。利用免疫系统对抗皮肤癌和某些肺癌也显示出前景。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It specializes in safety from leaks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is headquartered in London."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has a chemical processing plant."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has a partnership with LCP."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is a safety inspector."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is Mr. Grand's friend."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is a chemist."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is a salesman."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The public relations officer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Head of the personnel department."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Mr. Grand's personal assistant."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Director of the safety department."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Send a comprehensive description of their work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Provide details of their products and services."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Leave a message for Mr. Grand."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Wait for Mr. Grand to call back.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Morning, this is TGC.",
+                "zh": "W: 早上好，这里是TGC。"
+              },
+              {
+                "en": "M: Good morning. Er…Walter Berry here, calling from London. Could I speak to Mr. Grand, please?",
+                "zh": "M: 早上好。呃……我是Walter Berry，从伦敦打来的。我能和Grand先生通话吗？"
+              },
+              {
+                "en": "W: Who's calling, please?",
+                "zh": "W: 请问哪位？"
+              },
+              {
+                "en": "M: Walter Berry from London.",
+                "zh": "M: 伦敦的Walter Berry。"
+              },
+              {
+                "en": "W: What is it about, please?",
+                "zh": "W: 请问有什么事吗？"
+              },
+              {
+                "en": "M: Well, I understand that your company has a chemical processing plant. My own company, LCP, Liquid Control Products, is a leader in safety from leaks in the field of chemical processing. I'd like to speak to Mr. Grand to discuss ways in which we could help TGC protect itself from such problems and save money at the same time.",
+                "zh": "M: 嗯，我了解到贵公司有一家化工处理厂。我自己的公司，LCP，Liquid Control Products，在化工处理领域的泄漏安全方面处于领先地位。我想和Grand先生谈谈我们如何帮助TGC防范此类问题，同时节省资金。"
+              },
+              {
+                "en": "W: Yes, I see. Well, Mr. Grand is not available just now.",
+                "zh": "W: 好的，我明白了。不过，Grand先生现在不在。"
+              },
+              {
+                "en": "M: Can you tell me when I could reach him?",
+                "zh": "M: 您能告诉我什么时候能联系到他吗？"
+              },
+              {
+                "en": "W: He is very busy for the next few days. Then he'll be away in New York. So it's difficult to give you a time.",
+                "zh": "W: 他接下来几天都很忙。然后他要去纽约。所以很难给您一个具体时间。"
+              },
+              {
+                "en": "M: Could I speak to someone else, perhaps?",
+                "zh": "M: 我能和其他人通话吗？"
+              },
+              {
+                "en": "W: Who, in particular?",
+                "zh": "W: 具体是哪位？"
+              },
+              {
+                "en": "M: A colleague, for example.",
+                "zh": "M: 比如说，他的同事。"
+              },
+              {
+                "en": "W: You're speaking to his personal assistant. I can deal with calls for Mr. Grand.",
+                "zh": "W: 您现在正在和他的私人助理通话。我可以处理打给Grand先生的电话。"
+              },
+              {
+                "en": "M: Yes, well, could I ring him tomorrow?",
+                "zh": "M: 好的，那我明天能给他打电话吗？"
+              },
+              {
+                "en": "W: No, I'm sorry. He won't be free tomorrow. Listen, let me suggest something. You send us details of your products and services, together with references from other companies. And then we'll contact you.",
+                "zh": "W: 不好意思。他明天也没空。听我说，让我提个建议。您把贵公司的产品和服务详情发给我们，附上其他公司的推荐信。然后我们会联系您。"
+              },
+              {
+                "en": "M: Yes, that's very kind of you. I have your address.",
+                "zh": "M: 好的，太感谢您了。我有你们的地址。"
+              },
+              {
+                "en": "W: Very good. Mr…",
+                "zh": "W: 很好。……先生？"
+              },
+              {
+                "en": "M: Berry. Walter Berry from LCP in London.",
+                "zh": "M: Berry。伦敦LCP的Walter Berry。"
+              },
+              {
+                "en": "W: Right, Mr. Berry. We look forward to hearing from you.",
+                "zh": "W: 好的，Berry先生。我们期待收到您的来信。"
+              },
+              {
+                "en": "M: Thank you. Goodbye.",
+                "zh": "M: 谢谢。再见。"
+              },
+              {
+                "en": "W: Bye.",
+                "zh": "W: 再见。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She listened to recordings of many European orchestras."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She read a lot about European musicians and their music."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She dreamed of working and living in a European country."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She learned playing the violin from a famous French musician."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She was a pupil of a famous European violinist."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She gave her first performance with her father."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She became a professional violinist at fifteen."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She began taking violin lessons as a small child."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In 1955."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In 1961."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In 1964."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In 1970."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was the chance of a lifetime."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was a great challenge to her."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It gave her a chance to explore the city."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It helped her learn classical French music."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Miss Yamada, did you ever think that you would find yourself living and working in the western world?",
+                "zh": "M: Yamada小姐,你有没有想过自己会在西方世界生活和工作?"
+              },
+              {
+                "en": "W: No, not really, although I've always listened to recordings of great orchestras from Europe.",
+                "zh": "W: 没有,不太可能,虽然我一直听欧洲伟大管弦乐团的唱片。"
+              },
+              {
+                "en": "M: So, you enjoyed classical music even when you were very young?",
+                "zh": "M: 所以,你很小的时候就喜欢古典音乐了?"
+              },
+              {
+                "en": "W: Oh, yes. I was only a child.",
+                "zh": "W: 哦,是的。我那时候还是个孩子。"
+              },
+              {
+                "en": "M: You were born in 1955. Is that right?",
+                "zh": "M: 你是1955年出生的,对吧?"
+              },
+              {
+                "en": "W: Yes, I began violin lessons at school when I was 6.",
+                "zh": "W: 是的,我6岁的时候在学校开始学小提琴。"
+              },
+              {
+                "en": "M: As young as that. Did you like it?",
+                "zh": "M: 那么小。你喜欢吗?"
+              },
+              {
+                "en": "W: Oh, yes. Very much.",
+                "zh": "W: 哦,是的。非常喜欢。"
+              },
+              {
+                "en": "M: When did you first play on your own? I mean, when did you give your first performance?",
+                "zh": "M: 你第一次独自演奏是什么时候?我是说,你第一次表演是什么时候?"
+              },
+              {
+                "en": "W: I think I was 8. No, 9. I just had my birthday a week before, and my father had bought me a new violin. I played a small piece at the school concert.",
+                "zh": "W: 我想是8岁。不,9岁。就在我生日过后一周,我父亲给我买了一把新小提琴。我在学校音乐会上演奏了一小段。"
+              },
+              {
+                "en": "M: Did you know then that you would become a professional violinist?",
+                "zh": "M: 那时候你知道自己会成为职业小提琴家吗?"
+              },
+              {
+                "en": "W: Yes, I think so. I enjoyed playing the violin very much, and I didn't mind practicing, sometimes 3 or 4 hours a day.",
+                "zh": "W: 是的,我想是的。我非常喜欢拉小提琴,而且我不介意练习,有时候一天练3到4个小时。"
+              },
+              {
+                "en": "M: And when did you first come to Europe?",
+                "zh": "M: 你第一次来欧洲是什么时候?"
+              },
+              {
+                "en": "W: I was very lucky. When I was 15, I won a scholarship to a college in Paris. That was for a 3-year course.",
+                "zh": "W: 我非常幸运。我15岁的时候,获得了巴黎一所大学的奖学金。那是一个3年的课程。"
+              },
+              {
+                "en": "M: How did your parents feel about that?",
+                "zh": "M: 你父母对此有什么感受?"
+              },
+              {
+                "en": "W: I think they were pleased and worried at the same time. It was the chance of a lifetime. But of course, I would be thousands of miles from home. Anyway, I studied in Paris for 3 years, and then went back to Tokyo.",
+                "zh": "W: 我觉得他们既高兴又担心。这是千载难逢的机会。但当然,我会离家千万里。不管怎样,我在巴黎学习了3年,然后回到了东京。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "There are mysterious stories behind his works."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His personal history is little known."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His works have no match worldwide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "There are many misunderstandings about him."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He once worked in a well-known acting company."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He moved to Stratford-on-Avon in his childhood."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He failed to go beyond grammar school."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He was a member of the town council."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People of his time had little interest in him."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His works were adapted beyond recognition."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Possible sources of clues about him were lost in a fire."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Writers of his time had no means to protect their works.\n\nQuestions 19 to 21 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "What makes a person famous? This is a mystery that many people have carefully thought about. All kinds of myths surround the lives of well-known people. Most people are familiar with the works of William Shakespeare, one of the greatest English writers of the 16th and 17th centuries. Yet how many know Shakespeare, the person, the man behind the works? After centuries of research, scholars are still trying to discover Shakespeare's personal history. It is not easily found in his writings. Authors of the time could not protect their works. An acting company, for example, could change a play if they wanted to. Nowadays, writers have copyrights to protect their work. Many myths arose about Shakespeare. Some said he had no formal education. Others believed that he began his career by tending the horses of wealthy men. All of these myths are interesting, but are they true? Probably not. Shakespeare's father was a respected man in Stratford-upon-Avon, a member of the town council. He sent young William to grammar school. Most people of Elizabethan times did not continue beyond grammar school. So Shakespeare did have at least an average education. Some parts of Shakespeare's life will always remain unknown. The Great London Fire of 1666 burned many important documents that could've been a source of clues. We'll always be left with many questions and few facts.",
+                "zh": "是什么让一个人成名？这是许多人仔细思考过的谜题。各种神话围绕着知名人士的生活。大多数人都熟悉William Shakespeare的作品，他是16世纪和17世纪最伟大的英国作家之一。然而有多少人了解Shakespeare这个人，了解作品背后的那个男人？经过几个世纪的研究，学者们仍在试图发现Shakespeare的个人历史。在他的作品中不容易找到。那个时代的作者无法保护他们的作品。例如，一个剧团可以随意改编一部戏剧。如今，作家拥有版权来保护他们的作品。关于Shakespeare出现了许多神话。有人说他没有接受过正规教育。其他人认为他的职业生涯始于照料富人的马匹。所有这些神话都很有趣，但它们是真的吗？可能不是。Shakespeare的父亲在Stratford-upon-Avon是一位受人尊敬的人，是镇议会的成员。他送年轻的William去文法学校。伊丽莎白时代的大多数人都没有继续接受文法学校以上的教育。所以Shakespeare至少接受了平均水平的教育。Shakespeare生活的某些部分将永远无法知晓。1666年的伦敦大火烧毁了许多重要文件，这些文件本可以成为线索的来源。我们将永远留下许多问题和少量事实。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Theft."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Air crash."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Cheating."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Road accidents."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Learn the local customs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Have the right documents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Book tickets well in advance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make hotel reservations."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Contact your agent."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Use official transport."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Get a lift if possible."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Have a friend meet you.\n\nQuestions 22 to 25 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Wherever you go and for whatever reason, it's important to be safe. While the majority of people you meet when travelling are sure to be friendly and welcoming, there are dangers—theft being the most common.",
+                "zh": "无论你去哪里以及出于什么原因，安全都很重要。虽然你在旅行中遇到的大多数人肯定是友好和热情的,但也存在危险——盗窃是最常见的。"
+              },
+              {
+                "en": "Just as in your home country, do not expect everyone you meet to be friendly and helpful. It's important to prepare for your trip in advance and to take precautions while you are travelling. As you prepare for your trip, make sure you have the right paperwork. You don't want to get to your destination, only to find you have the wrong visa, or worse, that your passport isn't valid anymore. Also, make sure you travel with proper medical insurance so that if you are sick or injured during your travels, you'll be able to get treatment. If you want to drive while you're abroad, make sure you have an international driver's license.",
+                "zh": "就像在你的祖国一样,不要期望你遇到的每个人都是友好和乐于助人的。提前为旅行做好准备并在旅行期间采取预防措施是很重要的。在准备旅行时,确保你有正确的文件。你不会想到达目的地后才发现你的签证不对,或者更糟的是,你的护照已经失效了。另外,确保你购买了适当的医疗保险,这样如果你在旅行期间生病或受伤,你就能够得到治疗。如果你想在国外开车,确保你有国际驾照。"
+              },
+              {
+                "en": "When you get to your destination, use official transport. Always go to bus and taxi stands. Don't accept rides from strangers who offer you a lift. If there's no meter in a taxi, agree on a price before you get in. If you prefer to stay in cheap hotels while traveling, make sure you can lock the door of your room from the inside. Finally, remember to smile. It's the friendliest and most sincere form of communication, and is sure to be understood in any part of the world.",
+                "zh": "当你到达目的地时,使用官方交通工具。始终去公交车站和出租车站。不要接受陌生人主动提供的搭车。如果出租车里没有计价器,在上车前商定好价格。如果你旅行时喜欢住便宜的旅馆,确保你可以从里面锁上房门。最后,记得微笑。这是最友好、最真诚的交流方式,在世界任何地方都一定能被理解。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cut down production cost."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Refine the taste of his goods."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Sell inexpensive products."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Specialise in gold ornaments."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "At a meeting of top British businesspeople."
+                  },
+                  {
+                    "l": "B",
+                    "t": "During a local sales promotion campaign."
+                  },
+                  {
+                    "l": "C",
+                    "t": "During a live television interview."
+                  },
+                  {
+                    "l": "D",
+                    "t": "At a national press conference."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Discouraged."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Distressed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Puzzled."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Insulted."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is not laughed at, that laughs at himself first."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There should be a limit to one's sense of humour."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He who never learns from the past is bound to fail."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The words of some businesspeople are just rubbish."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The British are supposed to be famous for laughing at themselves, but even their sense of humor has a limit, as the British retailer Gerald Ratner found out to his cost. When Ratner took over his father's chain of 130 jeweler shops in 1984, he introduced a very clear company policy. He decided that his shops should sell down-market products at the lowest possible prices. It was a great success. The British public loved his cheap gold earrings and his tasteless silver ornaments. By 1991, Ratner's company had 2,400 shops and it was worth over 680 million pounds. But in April of that year, Gerald Ratner made a big mistake. At a big meeting of top British business people, he showed up and explained the secret of his success. \"People say, how can we sell our goods for such a low price? I say, because they're absolute rubbish.\" His audience roared with laughter. But the British newspapers and the British public were not so amused. People felt insulted and stayed away from Ratner's shops. Sales fell and 6 months after his speech, Ratner's share price had fallen by 42 percent. The following year, things got worse, and Gerald Ratner was forced to resign. By the end of 1992, he lost his company, his career, and his house. Even worse, 25,000 of his employees had lost their jobs. It had been a very expensive joke.",
+                "zh": "英国人应该以自嘲著称,但即使他们的幽默感也是有限度的,正如英国零售商Gerald Ratner付出代价后所发现的那样。1984年,当Ratner接管他父亲的130家珠宝店连锁店时,他引入了一项非常明确的公司政策。他决定他的商店应该以尽可能低的价格销售低端产品。这取得了巨大成功。英国公众喜爱他那些廉价的金耳环和俗气的银饰品。到1991年,Ratner的公司拥有2400家商店,价值超过6.8亿英镑。但在那年4月,Gerald Ratner犯了一个大错。在一次英国顶级商界人士的大型会议上,他现身并解释了他成功的秘诀。'人们问,我们怎么能以如此低的价格出售商品?我说,因为它们是绝对的垃圾。'他的听众哄堂大笑。但英国报纸和英国公众却不觉得好笑。人们感到受到了侮辱,不再光顾Ratner的商店。销售额下降,在他演讲6个月后,Ratner的股价下跌了42%。第二年,情况变得更糟,Gerald Ratner被迫辞职。到1992年底,他失去了他的公司、他的职业生涯和他的房子。更糟糕的是,他的25000名员工失去了工作。这是一个代价非常昂贵的玩笑。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "As a teacher, you could bring the community into your classroom in many ways. The parents and grandparents of your students are resources and"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "for their children. They can be"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "teachers of their own traditions and histories. Immigrant parents could talk about their country of"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "and why they emigrated to the United States. Parents can be invited to talk about their jobs or a community project. Parents, of course, are not the only community resources. Employees at local businesses and staff at community agencies have"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "information to share in classrooms. Field trips provide another opportunity to know the community. Many students don't have the opportunity to"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "concerts or visit museums or historical sites except through field trips. A school district should have"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "for selecting and conducting field trips. Families must be made"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "of field trips and give permission for their children to participate. Through school projects, students can learn to be"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "in community projects ranging from planting trees to cleaning up a park to assisting elderly people. Students,"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "older ones, might conduct research on a community need that could lead to action by a city council or state government. Some schools require students to provide community service by"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "in a nursing home, child care center or government agency. These projects help students understand their responsibility to the larger community."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "assets"
+        },
+        {
+          "l": "B",
+          "w": "attend"
+        },
+        {
+          "l": "C",
+          "w": "aware"
+        },
+        {
+          "l": "D",
+          "w": "especially"
+        },
+        {
+          "l": "E",
+          "w": "excellent"
+        },
+        {
+          "l": "F",
+          "w": "expensive"
+        },
+        {
+          "l": "G",
+          "w": "guidelines"
+        },
+        {
+          "l": "H",
+          "w": "involved"
+        },
+        {
+          "l": "I",
+          "w": "joining"
+        },
+        {
+          "l": "J",
+          "w": "naturally"
+        },
+        {
+          "l": "K",
+          "w": "observe"
+        },
+        {
+          "l": "L",
+          "w": "origin"
+        },
+        {
+          "l": "M",
+          "w": "recruited"
+        },
+        {
+          "l": "N",
+          "w": "up-to-date"
+        },
+        {
+          "l": "O",
+          "w": "volunteering"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "A"
+        },
+        {
+          "n": 27,
+          "a": "E"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "N"
+        },
+        {
+          "n": 30,
+          "a": "B"
+        },
+        {
+          "n": 31,
+          "a": "G"
+        },
+        {
+          "n": 32,
+          "a": "C"
+        },
+        {
+          "n": 33,
+          "a": "H"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Reaping the Rewards of Risk-Taking",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Since Steve Jobs resigned as chief executive of Apple, much has been said about him as a peerless business leader who has created immense wealth for shareholders, and guided the design of hit products that are transforming entire industries, like music and mobile communications."
+        },
+        {
+          "l": "B",
+          "t": "All true, but let's think different, to borrow the Apple marketing slogan of years back. Let's look at Mr. Jobs as a role model."
+        },
+        {
+          "l": "C",
+          "t": "Above all, he is an innovator(创新者). His creative force is seen in products such as the iPod, iPhone, and iPad, and in new business models for pricing and distributing music and mobile software online. Studies of innovation come to the same conclusion: you can't engineer innovation, but you can increase the odds of it occurring. And Mr. Jobs' career can be viewed as a consistent pursuit of improving those odds, both for himself and the companies he has led. Mr. Jobs, of course, has enjoyed singular success. But innovation, broadly defined, is the crucial ingredient in all economic progress—higher growth for nations, more competitive products for companies, and more prosperous careers for individuals. And Mr. Jobs, many experts say, exemplifies what works in the innovation game."
+        },
+        {
+          "l": "D",
+          "t": "\"We can look at and learn from Steve Jobs what the essence of American innovation is,\" says John Kao, an innovation consultant to corporations and governments. \"Many other nations,\" Mr. John Kao notes, \"are now ahead of the United States in producing what are considered the raw materials of innovation. These include government financing for scientific research, national policies to support emerging industries, educational achievement, engineers and scientists graduated, even the speeds of Internet broadband service.\""
+        },
+        {
+          "l": "E",
+          "t": "Yet what other nations typically lack, Mr. Kao adds, is a social environment that encourages diversity, experimentation, risk-taking, and combining skills from many fields into products that he calls \"recombinant mash-ups( 打碎重组),\" like the iPhone, which redefined the smartphone category. \"The culture of other countries doesn't support the kind of innovation that Steve Jobs exemplifies, as America does,\" Mr. John Kao says."
+        },
+        {
+          "l": "F",
+          "t": "Workers of every rank are told these days that wide-ranging curiosity and continuous learning are vital to thriving in the modern economy. Formal education matters, career counselors say, but real-life experience is often even more valuable."
+        },
+        {
+          "l": "G",
+          "t": "An adopted child, growing up in Silicon Valley, Mr. Jobs displayed those traits early on. He was fascinated by electronics as a child, building Heath kit do-it-yourself projects, like radios. Mr. Jobs dropped out of Reed College after only a semester and traveled around India in search of spiritual enlightenment, before returning to Silicon Valley to found Apple with his friend, Stephen Wozniak, an engineering wizard(奇才). Mr. Jobs was forced out of Apple in 1985, went off and founded two other companies, Next and Pixar, before returning to Apple in 1996 and becoming chief executive in 1997."
+        },
+        {
+          "l": "H",
+          "t": "His path was unique, but innovation experts say the pattern of exploration is not unusual. \"It's often people like Steve Jobs who can draw from a deep reservoir of diverse experiences that often generate breakthrough ideas and insights,\" says Hal Gregersen, a professor at the European Institute of Business Administration."
+        },
+        {
+          "l": "I",
+          "t": "Mr. Gregersen is a co-author of a new book, \"The Innovator's DNA,\" which is based on an eight-year study of 5000(创业者) and executives worldwide. His two collaborators and co-authors are Jeff Dyer, a professor at Brigham Young University, and Clayton Christensen, a professor at the Harvard Business School, whose 1997 book \"The Innovator's Dilemma\" popularized the concept of disruptive(颠覆性的) innovation."
+        },
+        {
+          "l": "J",
+          "t": "The academics identify five traits that are common to the disruptive innovators: questioning, experimenting, observing, associating and networking. Their bundle of characteristics echoes the ceaseless curiosity and willingness to take risks noted by other experts. Networking, Mr. Hal Gregersen explains, is less about career- building relationships than a consistent search for new ideas. Associating, he adds, is the ability to make idea- producing connections by linking concepts from different disciplines."
+        },
+        {
+          "l": "K",
+          "t": "\"Innovators engage in these mental activities regularly,\" Mr. Gregersen says. \"It's a habit for them.\" Innovative companies, according to the authors, typically enjoy higher valuations in the stock market, which they call an \"innovation premium(溢价).\" It is calculated by estimating the share of a company's value that cannot be accounted for by its current products and cash flow. The innovation premium tries to quantify(量 化) investors' bets that a company will do even better in the future because of innovation."
+        },
+        {
+          "l": "L",
+          "t": "Apple, by their calculations, had a 37 percent innovation premium during Mr. Jobs' first term with the company. His years in exile resulted in a 31 percent innovation discount. After his return, Apple fortunes improved gradually at first, and improved markedly starting in 2005, yielding a 52 percent innovation premium since then."
+        },
+        {
+          "l": "M",
+          "t": "There is no conclusive proof, but Mr. Hal Gregersen says it is unlikely that Mr. Jobs could have reshaped industries beyond computing, as he has done in his second term at Apple, without the experience outside the company, especially at Pixar—the computer-animation(动画制作) studio that created a string of critically and commercially successful movies, such as \"Toy Story\" and \"Up.\""
+        },
+        {
+          "l": "N",
+          "t": "Mr. Jobs suggested much the same thing during a commencement address to the graduating class at Stanford University in 2005. \"It turned out that getting fired from Apple was the best thing that could have ever happened to me,\" he told the students. Mr. Jobs also spoke of perseverance( 坚持) and will power. \"Sometimes life hits you in the head with a brick,\" he said. \"Don't lose faith.\" Mark D. Shermis, a professor at the University of Akron in Ohio, supervised the Hewlett Foundation's contest on automated essay scoring and wrote a paper about the experiment. In his view, the technology—though imperfect—has a place in educational settings."
+        },
+        {
+          "l": "O",
+          "t": "Mr. Jobs ended his commencement talk with a call to innovation, both in one's choice of work and in one's life. Be curious, experiment, take risks, he said to the students. His advice was emphasized by the words on the back of the final edition of The Whole Earth Catalog, which he quoted, \"Stay hungry. Stay foolish.\" And, Mr. Jobs said, \"I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.\" \"Often they come from very famous institutions where, in fact, they do a much better job of providing feedback than a machine ever could,\" Dr. Shermis said. \"There seems to be a lack of appreciation of what is actually going on in the real world.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Steve Jobs called on Stanford graduates to innovate in his commencement address.",
+          "a": "O"
+        },
+        {
+          "n": 37,
+          "s": "Steve Jobs considered himself lucky to have been fired once by Apple.",
+          "a": "N"
+        },
+        {
+          "n": 38,
+          "s": "Steve Jobs once used computers to make movies that were commercial hits.",
+          "a": "M"
+        },
+        {
+          "n": 39,
+          "s": "Many governments have done more than the US government in providing the raw materials for innovation.",
+          "a": "D"
+        },
+        {
+          "n": 40,
+          "s": "Great innovators are good at connecting concepts from various academic fields.",
+          "a": "J"
+        },
+        {
+          "n": 41,
+          "s": "Innovation is vital to driving economic progress.",
+          "a": "C"
+        },
+        {
+          "n": 42,
+          "s": "America has a social environment that is particularly favorable to innovation.",
+          "a": "E"
+        },
+        {
+          "n": 43,
+          "s": "Innovative ideas often come from diverse experiences.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "Real-life experience is often more important than formal education for career success.",
+          "a": "F"
+        },
+        {
+          "n": 45,
+          "s": "Apple fortunes suffered from an innovation discount during Jobs' absence.",
+          "a": "L"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Some of the world's most significant problems never hit headlines. One example comes from agriculture. Food riots and hunger make news. But the trend lying behind these matters is rarely talked about. This is the decline in the growth in yields of some of the world's major crops. A new study by the University of Minnesota and McGill University in Montreal looks at where, and how far, this decline is occurring. The authors take a vast number of data points for the four most important crops: rice, wheat, corn and soybeans(大豆). They find that in between 24% and 39% of all harvested areas, the improvement in yields that took place before the 1980s slowed down in the 1990s and 2000s. There are two worrying features of the slowdown. One is that it has been particularly sharp in the world's most populous(人口多的) countries, India and China. Their ability to feed themselves has been an important source of relative stability both within the countries and on world food markets. That self-sufficiency cannot be taken for granted if yields continue to slow down or reverse. Second, yield growth has been lower in wheat and rice than in corn and soybeans. This is problematic because wheat and rice are more important as foods, accounting for around half of all calories consumed. Corn and soybeans are more important as feed grains. The authors note that \"we have preferentially focused our crop improvement efforts on feeding animals and cars rather than on crops that feed people and are the basis of food security in much of the world.\" The report qualifies the more optimistic findings of another new paper which suggests that the world will not have to dig up a lot more land for farming in order to feed 9 billion people in 2050, as the Food and Agriculture Organisation has argued. Instead, it says, thanks to slowing population growth, land currently ploughed up for crops might be able to revert( 回返) to forest or wilderness. This could happen. The trouble is that the forecast assumes continued improvements in yields, which may not actually happen.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the author try to draw attention to?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Food riots and hunger in the world."
+              },
+              {
+                "l": "B",
+                "t": "News headlines in the leading media."
+              },
+              {
+                "l": "C",
+                "t": "The decline of the grain yield growth."
+              },
+              {
+                "l": "D",
+                "t": "The food supply in populous countries."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "Why does the author mention India and China in particular?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their self-sufficiency is vital to the stability of world food markets."
+              },
+              {
+                "l": "B",
+                "t": "Their food yields have begun to decrease sharply in recent years."
+              },
+              {
+                "l": "C",
+                "t": "Their big populations are causing worldwide concerns."
+              },
+              {
+                "l": "D",
+                "t": "Their food self-sufficiency has been taken for granted."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What does the new study by the two universities say about recent crop improvement efforts?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They fail to produce the same remarkable results as before the 1980s."
+              },
+              {
+                "l": "B",
+                "t": "They contribute a lot to the improvement of human food production."
+              },
+              {
+                "l": "C",
+                "t": "They play a major role in guaranteeing the food security of the world."
+              },
+              {
+                "l": "D",
+                "t": "They focus more on the increase of animal feed than human food grains."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What does the Food and Agriculture Organisation say about world food production in the coming decades?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The growing population will greatly increase the pressure on world food supplies."
+              },
+              {
+                "l": "B",
+                "t": "The optimistic prediction about food production should be viewed with caution."
+              },
+              {
+                "l": "C",
+                "t": "The slowdown of the growth in yields of major food crops will be reversed."
+              },
+              {
+                "l": "D",
+                "t": "The world will be able to feed its population without increasing farmland."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "How does the author view the argument of the Food and Agriculture Organisation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is built on the findings of a new study."
+              },
+              {
+                "l": "B",
+                "t": "It is based on a doubtful assumption."
+              },
+              {
+                "l": "C",
+                "t": "It is backed by strong evidence."
+              },
+              {
+                "l": "D",
+                "t": "It is open to further discussion."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The endless debate about \"work-life balance\" often contains a hopeful footnote about stay-at-home dads. If American society and business won't make it easier on future female leaders who choose to have children, there is still the ray of hope that increasing numbers of full-time fathers will. But based on today's socioeconomic trends, this hope is, unfortunately, misguided. It's true that the number of men who have left work to do their thing as full-time parents has doubled in a decade, but it's still very small: only 0.8% of married couples where the stay-at-home father was out of the labor force for a year. Even that percentage is likely inflated by men thrust into their caretaker role by a downsizing. This is simply not a large enough group to reduce the social stigma(污名) and force other adjustments necessary to supporting men in this decision, even if only for a relatively short time. Even shorter times away from work for working fathers are already difficult. A study found that 85% of new fathers take some time off after the birth of a child—but for all but a few, it's a week or two at most. Meanwhile, the average for women who take leave is more than 10 weeks. Such choices impact who moves up in the organization. While you're away, someone else is doing your work, making your sales, taking care of your customers. That can't help you at work. It can only hurt you. Women, of course, face the same issues of returning after a long absence. But with many more women than men choosing to leave the workforce entirely to raise families, returning from an extended parental leave doesn't raise as many eyebrows as it does for men. Women would make more if they didn't break their earning trajectory(轨迹) by leaving the workforce, or if higher-paying professions were more family-friendly. In the foreseeable future, stay-at-home fathers may make all the difference for individual families, but their presence won't reduce the numbers of high-potential women who are forced to choose between family and career.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What gives women a ray of hope to achieve work-life balance?",
+            "o": [
+              {
+                "l": "A",
+                "t": "More men taking an extended parental leave."
+              },
+              {
+                "l": "B",
+                "t": "People's changing attitudes towards family."
+              },
+              {
+                "l": "C",
+                "t": "More women entering business management."
+              },
+              {
+                "l": "D",
+                "t": "The improvement of their socioeconomic status."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "Why does the author say the hope for more full-time fathers is misguided?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Women are better at taking care of children."
+              },
+              {
+                "l": "B",
+                "t": "Many men value work more than their family."
+              },
+              {
+                "l": "C",
+                "t": "Their number is too small to make a difference."
+              },
+              {
+                "l": "D",
+                "t": "Not many men have the chance to stay at home."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "Why do few men take a long parental leave?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A long leave will have a negative impact on their career."
+              },
+              {
+                "l": "B",
+                "t": "They just have too many responsibilities to fulfill at work."
+              },
+              {
+                "l": "C",
+                "t": "The economic loss will be too much for their family to bear."
+              },
+              {
+                "l": "D",
+                "t": "They are likely to get fired if absent from work for too long."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What is the most likely reaction to men returning from an extended parental leave?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Jealousy."
+              },
+              {
+                "l": "B",
+                "t": "Surprise."
+              },
+              {
+                "l": "C",
+                "t": "Admiration."
+              },
+              {
+                "l": "D",
+                "t": "Sympathy."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What does the author say about high-potential women in the not-too-distant future?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They will benefit from the trend of more fathers staying at home."
+              },
+              {
+                "l": "B",
+                "t": "They will find high-paying professions a bit more family-friendly."
+              },
+              {
+                "l": "C",
+                "t": "They are unlikely to break their career trajectory to raise a family."
+              },
+              {
+                "l": "D",
+                "t": "They will still face the difficult choice between career and children."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国是世界上最古老的文明之一。构成现代世界基础的许多元素都起源于中国。 中国现在拥有世界上发 展最快的经济,并经历着一次新的工业革命。中国还启动了雄心勃勃的太空探索计划,其中包括到 2020 年建成 一个太空站。目前，中国是世界最大的出口国之一,并正在吸引大量外国投资。同时，它也在海外投资数十亿 美元。2011 年，中国超越日本成为世界第二大经济体。",
+    "reference": "China is one of the oldest civilizations in the world. Many of the elements that form the basis of the modern world originated in China. China now has the fastest-growing economy in the world and is experiencing a new industrial revolution. China has also launched an ambitious space exploration program, which includes building a space station by 2020. Currently, China is one of the largest exporters in the world, and it is attracting a large amount of foreign investment. Meanwhile, it also invests billions of dollars overseas. In 2011, China overtook Japan to become the second largest economy in the world."
+  }
+}

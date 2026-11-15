@@ -1,0 +1,1392 @@
+{
+  "id": "cet4-2025-12-2",
+  "level": "cet4",
+  "year": 2025,
+  "month": 12,
+  "set": 2,
+  "title": "2025年12月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose it is proposed that all university students should be required to learn academic writing. You are now to write a response by stating what you think of the proposal. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "sample": "It has recently been proposed that all university students should be required to learn academic writing. In my view, this proposal deserves our full support, for such a skill is far more than an optional refinement.For one thing, academic writing trains students to organize ideas logically and cite sources honestly. When I wrote my first term paper, I struggled to structure arguments and nearly copied online material by mistake; a writing course would have taught me both clear reasoning and academic integrity. For another, this ability pays off well beyond campus. Whether a graduate applies for a research position or drafts a report at work, the capacity to express thoughts precisely on paper often determines success.Admittedly, mastering academic writing takes time and effort. Nevertheless, the long-term rewards clearly outweigh the cost. Therefore, I strongly believe universities should make this course compulsory, ideally starting from the first year so that students benefit throughout their studies."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has gone up sharply."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has been fluctuating."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has risen because of bird flu."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has been consumers' concern."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They don't want to abandon their eggs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They don't know they will be heavily fined."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They don't know they are forbidden to bring eggs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They don't declare their eggs during the inspection.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Customs and Border Protection officials are seeing a rise in people illegally bringing eggs from Mexico into border states, such as Texas.",
+                "zh": "美国海关与边境保护局官员发现,从墨西哥非法携带鸡蛋进入得克萨斯州等边境州的人数正在增加。"
+              },
+              {
+                "en": "The U.S. average price for a dozen large eggs last month hit $4.25. That's more than double their $1.78 price in December, 2023. Meanwhile, 30 eggs in Mexico sell for just $3.4.",
+                "zh": "上个月美国一打大号鸡蛋的平均价格达到4.25美元。这是2023年12月1.78美元价格的两倍多。与此同时,墨西哥30个鸡蛋的售价仅为3.4美元。"
+              },
+              {
+                "en": "Those bringing eggs into the U.S. risk fines of up to $10,000. But officials say they usually seize and destroy the eggs. They also impose a $300 penalty. The Department of Agriculture banned eggs from Mexico in 2012. This was due to the risk of bird flu. Officials said most people arriving at international borders with eggs are truthful about their purchases. They simply don't know bringing eggs is not allowed.",
+                "zh": "将鸡蛋带入美国的人面临最高1万美元的罚款。但官员表示,他们通常会没收并销毁鸡蛋。他们还会处以300美元的罚金。农业部于2012年禁止从墨西哥进口鸡蛋。这是由于禽流感的风险。官员表示,大多数携带鸡蛋抵达国际边境的人对其购买行为如实申报。他们只是不知道携带鸡蛋是不被允许的。"
+              },
+              {
+                "en": "\"Generally, the items are declared during the first inspection. Then the person can abandon the eggs without consequence,\" a Customs and Border Protection spokesperson said.",
+                "zh": "美国海关与边境保护局发言人表示:\"通常情况下,这些物品在首次检查时就会申报。然后当事人可以放弃这些鸡蛋而不会产生后果。\""
+              },
+              {
+                "en": "Even so, there have been a very small number of cases recently when authorities discovered eggs during further inspections.",
+                "zh": "即便如此,最近仍有极少数情况是当局在进一步检查时发现了鸡蛋。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is no longer critical of younger customers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has banned kids under 10 from dining there."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is no longer as noisy and crowded as before."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has implemented a decision to expand business."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is fully aware of frequent customers' feelings."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It caters to the tastes of different customers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is entitled to adopt any rules it wants."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It should announce its decisions online.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Nettie's House, a restaurant in America, has been hit with criticism after announcing on the website that children under the age of 10 are no longer welcome.",
+                "zh": "美国一家名为Nettie's House的餐厅在其网站上宣布不再欢迎10岁以下儿童后遭到批评。"
+              },
+              {
+                "en": "Among the reasons given for the decision, the restaurant cited \"noise levels, lack of space for high chairs, cleaning up crazy messes, and the liability of kids running around the restaurant\". They decided that it was time to take control. The decision wasn't made lightly, but some recent events pushed them to implement this new policy.",
+                "zh": "餐厅给出的决定理由包括\"噪音水平、高脚椅空间不足、清理混乱不堪的场面以及孩子在餐厅跑来跑去的责任问题\"。他们决定是时候采取管控措施了。这个决定并非轻率做出,但最近发生的一些事件促使他们实施这项新政策。"
+              },
+              {
+                "en": "Responding to the post, one person commented that \"It is messed up beyond another level. Children are children. Mums are tired and don't have time to cook. Not welcoming children under 10 is a complete slap in the face to families.\" He felt so disappointed in the establishment.",
+                "zh": "针对这篇帖子,有人评论说\"这简直乱得不成样子。孩子就是孩子。妈妈们很累,没有时间做饭。不欢迎10岁以下儿童完全是对家庭的一记耳光。\"他对这家餐厅感到非常失望。"
+              },
+              {
+                "en": "There are others, however, who showed support for the restaurant's decision. They said it has the right to implement any rules it wants.",
+                "zh": "然而,也有其他人对餐厅的决定表示支持。他们说餐厅有权实施任何它想要的规定。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A missing pet."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A grown-up snake."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A huge animal skin."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A snake specialist."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In a government office."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In a deserted house."
+                  },
+                  {
+                    "l": "C",
+                    "t": "At a local zoo."
+                  },
+                  {
+                    "l": "D",
+                    "t": "At a construction site."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Figuring out where it came from."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Curing it of any possible diseases."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Protecting its babies against harm."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Determining how to catch it safely."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Security officers were searching a suburb in Australia where an adult snake was believed to be wandering after the discovery of a huge, \"freshly shed\" snake skin.",
+                "zh": "在澳大利亚一个郊区发现了一张巨大的\"新脱落\"蛇皮后,安全官员正在搜寻该地区,据信有一条成年蛇在游荡。"
+              },
+              {
+                "en": "The skin was found at a construction site, and the government wrote to residents to warn them. They were told to observe and, if possible, photograph the animal. If it was moving, watch where it went. It was recommended not to make contact with the animal.",
+                "zh": "这张蛇皮是在一处建筑工地发现的,政府向居民发出书面警告。他们被告知要观察这条蛇,如有可能对其拍照。如果它在移动,要观察它去了哪里。建议不要与该动物接触。"
+              },
+              {
+                "en": "The type of snake was determined to be one of the world's largest snake species. It is not poisonous, but can still attack and kill its victims. This type of snake is classified as a threat to humans, especially small children, as well as pets. They may carry viruses that are fatal to native snakes, which do not have resistance.",
+                "zh": "经确定,这种蛇是世界上最大的蛇类物种之一。它没有毒性,但仍然可以攻击并杀死猎物。这种蛇被归类为对人类构成威胁,特别是对幼儿以及宠物。它们可能携带对本地蛇类致命的病毒,而本地蛇类对这些病毒没有抵抗力。"
+              },
+              {
+                "en": "If officers found the snake, they would employ a licensed snake catcher to catch it and transport it to a specialist animal doctor, the government said. If caught, the snake would be examined to determine where it came from, how long it had been in the area, what it had been eating, whether it was carrying any diseases of concern and whether it had produced babies.",
+                "zh": "政府表示,如果官员找到这条蛇,他们将雇用有执照的捕蛇人将其捕获并运送到专业动物医生处。如果被捕获,将对这条蛇进行检查,以确定它来自哪里、在该地区待了多长时间、吃了什么、是否携带任何令人担忧的疾病以及是否产下了幼蛇。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The man doesn't agree Hannah is poor."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The man doesn't believe what she says."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The man doesn't think she can be a millionaire."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The man doesn't consider her to be trustworthy."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She no longer has any money left."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She has been betrayed by her family."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She can no longer hold on to her job."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She has been robbed of 5 million Euros."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Fortune."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Family."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Harmony."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Happiness."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Divorce her."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Leave home."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Buy her a more expensive model."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Let the best thing happen to them.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Poor Hannah!",
+                "zh": "W: 可怜的Hannah!"
+              },
+              {
+                "en": "M: Why? What happened?",
+                "zh": "M: 怎么了?发生什么事了?"
+              },
+              {
+                "en": "W: Didn't you hear? She won a TV competition and became a millionaire overnight.",
+                "zh": "W: 你没听说吗?她赢了一个电视竞赛,一夜之间成了百万富翁。"
+              },
+              {
+                "en": "M: No way. That's incredible. Are you kidding?",
+                "zh": "M: 不会吧。太不可思议了。你在开玩笑吗?"
+              },
+              {
+                "en": "W: No, I'm serious. I swear it. She went on a TV show where they quiz on general knowledge, and she won first prize.",
+                "zh": "W: 没有,我是认真的。我发誓。她参加了一个电视节目,那种考常识问答的,然后她赢得了头奖。"
+              },
+              {
+                "en": "M: Wow. That's so lucky of her. How much did she win?",
+                "zh": "M: 哇。她太幸运了。她赢了多少钱?"
+              },
+              {
+                "en": "W: I'm not sure of the exact figure, but it's a few million Euros, maybe five million Euros after tax.",
+                "zh": "W: 我不确定具体数字,但有几百万欧元,税后大概五百万欧元。"
+              },
+              {
+                "en": "M: I can't believe it. You're really not joking, are you?",
+                "zh": "M: 我真不敢相信。你真的不是在开玩笑,对吧?"
+              },
+              {
+                "en": "W: Honestly, look at my face. Our friend Hannah won a ton of money.",
+                "zh": "W: 真的,你看我的表情。咱们的朋友Hannah赢了一大笔钱。"
+              },
+              {
+                "en": "M: Unbelievable. Then why were you saying \"poor Hannah\"?",
+                "zh": "M: 难以置信。那你为什么说\"可怜的Hannah\"?"
+              },
+              {
+                "en": "W: Well, it turns out that she's spent it all already.",
+                "zh": "W: 嗯,结果她已经把钱全花光了。"
+              },
+              {
+                "en": "M: Five million Euros? How is that even possible?",
+                "zh": "M: 五百万欧元?这怎么可能?"
+              },
+              {
+                "en": "W: She bought a house for herself and her husband, a house for her parents, and then a house for each of her four brothers and sisters. And then she bought her husband a ridiculously expensive sports car.",
+                "zh": "W: 她给自己和丈夫买了一套房子,给她父母买了一套房子,然后又给她四个兄弟姐妹每人买了一套房子。之后她又给她丈夫买了一辆贵得离谱的跑车。"
+              },
+              {
+                "en": "M: Wow. Are they all happy? Because that's what matters, isn't it?",
+                "zh": "M: 哇。他们都开心吗?因为这才是最重要的,不是吗?"
+              },
+              {
+                "en": "W: I know for a fact Hannah isn't. You see, she was planning to quit the job she hates and retire early. But now that she ran out of money, she can't. Basically, she miscalculated how fast she was burning through the money, and she's now full of regret.",
+                "zh": "W: 我确定Hannah不开心。你看,她本来计划辞掉她讨厌的工作,提前退休。但现在她钱花光了,做不到了。基本上,她错误估计了花钱的速度,现在她满心懊悔。"
+              },
+              {
+                "en": "M: Why don't they sell that flashy new car?",
+                "zh": "M: 他们为什么不把那辆炫酷的新车卖掉?"
+              },
+              {
+                "en": "W: She wants to, but her husband refuses to get rid of it. He says the car is the best thing that has ever happened to him, and if she sells it, he will divorce her.",
+                "zh": "W: 她想卖,但她丈夫拒绝放弃那辆车。他说那辆车是他这辈子遇到的最好的东西,如果她把它卖了,他就跟她离婚。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is not outstanding in Science and Math."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He does not have a strong academic record."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is not yet mature enough to live on his own."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He does not like Westwood Elementary School."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is too far away."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is newly opened."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It lacks outdoor sports facilities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has too few first-class teachers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has a beautiful campus."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is within walking distance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has a wonderful arts program."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is helpful to Jake's breathing problems."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Asking Jake which school he himself prefers to enroll in."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Thinking twice about what is best for Jake's education next year."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Consulting her mother about which school Jake is to attend."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Sending Jake to the school near the home of the man's mother."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: If you have time right now, I think we need to sit down and discuss what exactly we are going to do for Jake's education next year. I've been thinking it over, and I'd like to send him to Westwood Elementary.",
+                "zh": "W: 如果你现在有时间的话,我觉得我们需要坐下来讨论一下明年Jake的教育问题。我一直在考虑这件事,我想把他送到Westwood小学。"
+              },
+              {
+                "en": "M: You mean that boarding school? I thought we agreed that we would not be sending him away at such a young age. I admit that their academic record is very strong with many outstanding awards for achievements in Science and Math, but he is just not mature enough to live on his own at this point. What about enrolling him in Lakeview School?",
+                "zh": "M: 你是说那所寄宿学校?我以为我们说好了不会在他这么小的年纪就把他送走。我承认他们的学术成绩非常优秀,在科学和数学方面获得了许多杰出的奖项,但他现在还不够成熟,不能独自生活。把他送到Lakeview学校怎么样?"
+              },
+              {
+                "en": "W: They do have a great outdoor campus where he could finally learn all those outdoor sports you have been wanting him to try. With so much greenery and fresh air, I think his current breathing problems would probably disappear. They did just open, though, so I don't think I feel comfortable having our son in the first class of a brand-new school.",
+                "zh": "W: 他们确实有一个很棒的户外校园,在那里他终于可以学习你一直想让他尝试的那些户外运动了。有这么多的绿化和新鲜空气,我想他目前的呼吸问题可能会消失。不过他们刚开办,所以我不太放心让我们的儿子成为一所全新学校的第一届学生。"
+              },
+              {
+                "en": "M: Yeah, the classrooms would probably smell like paint, making the air in the school all stuffy. What about our local school then? They have a wonderful arts program that would really challenge Jake in terms of creativity and imagination. Being practically next door, one of us could take him to school every day before going to work.",
+                "zh": "M: 是啊,教室里可能还有油漆味,让学校里的空气都很闷。那我们本地的学校呢?他们有一个很棒的艺术课程,能真正在创造力和想象力方面挑战Jake。就在家门口,我们其中一个人每天上班前都可以送他去学校。"
+              },
+              {
+                "en": "W: I don't know. They have a reputation of being overly strict with the students, not to mention the overwhelming amount of homework they assign, which would lead to a lot of pressure for Jake and me. What if we send him to the place near your mother's house?",
+                "zh": "W: 我不知道。他们以对学生过于严格而闻名,更不用说布置的作业量大得惊人,这会给Jake和我带来很大压力。要不我们把他送到你妈妈家附近的那所学校?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is time consuming."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is unfit for crucial issues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It relies too much on solid data."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It dulls a leader's sense of urgency."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Depend on digital technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make assumptions and guesses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Ignore others' thoughts and ideas."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Lay emphasis on thinking flexibly."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Maximizing the advantage of available resources."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Minimizing the possibility of a wrong decision."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Discovering new potential markets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Perfecting promotional strategies.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Analytical decision-making is a decision-making approach where a manager makes important business decisions only with solid data. This style contrasts with more instinctive leadership styles where managers make many decisions using instinct or opinion. While analytical decision-makers benefit from a deliberate, thoughtful approach, this style also has some shortcomings.",
+                "zh": "分析型决策是一种决策方法,管理者仅凭可靠数据做出重要商业决策。这种风格与更依赖直觉的领导风格形成对比,后者的管理者运用本能或观点做出许多决策。虽然分析型决策者受益于审慎、深思的方法,但这种风格也存在一些缺陷。"
+              },
+              {
+                "en": "A key flaw with analytical decision-making is that it takes time. While this approach is beneficial when you have the time and the decision is important, it is problematic when time is crucial. Analytical decision-makers struggle with deadlines and a sense of urgency with decisions. In situations where you need more timely action, decisions based on some information and instinct may work better.",
+                "zh": "分析型决策的一个关键缺陷是耗费时间。虽然当你有时间且决策重要时这种方法是有益的,但当时间紧迫时就会产生问题。分析型决策者难以应对截止日期和决策的紧迫感。在需要更及时行动的情况下,基于部分信息和直觉的决策可能效果更好。"
+              },
+              {
+                "en": "The desire to be right is a major driver of analytical decision-making. Leaders who use this style don't want to make mistakes. This commitment, one right way of thinking or doing things, hinders the manager's flexibility. Inflexibility causes you to ignore or avoid listening to the thoughts and ideas of others. You only want to utilize hard data or facts.",
+                "zh": "追求正确是分析型决策的主要驱动力。采用这种风格的领导者不想犯错。这种对唯一正确思维或做事方式的执着,妨碍了管理者的灵活性。缺乏灵活性导致你忽视或避免倾听他人的想法和观点。你只想利用硬数据或事实。"
+              },
+              {
+                "en": "Despite its restrictions, analytical decision-making does have several key strengths. By relying on facts and data, you minimize your potential for a wrong decision. You also get away from the habit of making guesses or following instincts. Database technology enables business leaders to look to hard evidence in analyzing target markets and promotional strategies, rather than making assumptions or guesses on what works.",
+                "zh": "尽管存在局限性,分析型决策确实具有几个关键优势。通过依赖事实和数据,你将做出错误决策的可能性降至最低。你也摆脱了猜测或遵循直觉的习惯。数据库技术使商业领导者能够依靠确凿证据来分析目标市场和促销策略,而不是对有效方法进行假设或猜测。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is one of the world's best-known pianists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She celebrated her 110th birthday this April."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She moved to the U.S. at a young age."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is the world's oldest individual."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Being always active on social media."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Doing regular and vigorous exercise."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Playing the piano from a young age."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Following a specific diet every day."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Eating as little as one can possibly manage."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having the ability to forget things selectively."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Figuring out the positive properties of each food item."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Knowing how to remember major events in one's life.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "What is the secret to living past 100? Playing the piano is among the things the world's oldest person believes has contributed to her long life. Branyas Morera is now 115 years and 320 days old. That means she's been alive longer than any other living individual.",
+                "zh": "活过100岁的秘诀是什么?弹钢琴是世界上最长寿的人认为有助于她长寿的事情之一。Branyas Morera现在已经115岁零320天了。这意味着她比任何其他在世的人活得都久。"
+              },
+              {
+                "en": "Branyas was born in the United States on April 4th, 1907. But her family moved to Spain, where they were originally from, when she was a young child. She has lived there ever since.",
+                "zh": "Branyas于1907年4月4日出生在美国。但她的家人在她还是小孩时搬回了他们原来所在的西班牙。从那以后她就一直住在那里。"
+              },
+              {
+                "en": "The 115-year-old is active on social media, regularly sharing aspects of her life. She also shares some of her secrets to living so long. These include playing the piano from a young age. Unfortunately, she had to give up the practice seven years ago at 108.",
+                "zh": "这位115岁的老人活跃在社交媒体上,经常分享她生活的方方面面。她还分享了一些长寿的秘诀。其中包括从小弹钢琴。不幸的是,她在七年前108岁时不得不放弃了这个练习。"
+              },
+              {
+                "en": "Her other secrets for living a long life? She led an active lifestyle until her later years, but has never followed a specific diet. \"Many people ask me what diet I follow to live so many years,\" Branyas wrote. \"I have always eaten little, but everything, and I have never followed any plan.\" But she does eat yogurt every day, which she said has \"an infinite number of positive properties\" for the body. She has also said that the secret to a long life is \"knowing how to choose\" what to forget.",
+                "zh": "她长寿的其他秘诀?她在晚年之前保持着积极的生活方式,但从未遵循过特定的饮食。\"很多人问我遵循什么饮食才能活这么多年,\"Branyas写道。\"我一直吃得很少,但什么都吃,从未遵循过任何计划。\"但她确实每天吃酸奶,她说酸奶对身体有\"无数积极的作用\"。她还说过长寿的秘诀是\"知道如何选择\"要忘记什么。"
+              },
+              {
+                "en": "\"Life would be impossible if we remembered everything,\" she said.",
+                "zh": "\"如果我们记住一切,生活将是不可能的,\"她说。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The ability to learn."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The first day of school."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How teachers perceive them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Where they sit in the classroom."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They often received close attention from the instructors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They obtained the highest grade average in their class."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They actually wanted a clear vision of the blackboard."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They scored higher than students sitting behind them."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A higher grade average among all students of a class."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A better connection between instructors and students."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A stronger support for a student-centered teaching approach."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A more favorable atmosphere for effective classroom learning."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They may experience some unwanted stress."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They may try hard to show their preparedness."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may receive extra attention from the instructor."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They may feel helpless when called on by the instructor."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It's the first day of school, and your teacher tells you to find a seat in the classroom. Where do you sit? Does it matter? Yes. It does matter where you sit in your classroom, so choose and choose carefully. Studies report that where you sit in the classroom can impact your ability to learn and the way your teacher perceives you. Guess what else? Your grade.",
+                "zh": "这是开学第一天,老师让你在教室里找个座位。你会坐在哪里?这重要吗?是的。你坐在教室的哪个位置确实很重要,所以要慎重选择。研究表明,你在教室里的座位会影响你的学习能力以及老师对你的看法。你猜还有什么?你的成绩。"
+              },
+              {
+                "en": "Then what is the best seat in the classroom?",
+                "zh": "那么教室里最好的座位是哪里呢?"
+              },
+              {
+                "en": "In one study, students who sat in the front and center of the classroom received a higher grade average and scored higher on tests than those sitting towards the back of the classroom. Get this. Students sitting in the middle of the classroom also outscored students sitting behind them. This study gathered that students had a clearer vision of the blackboard and were able to focus more attention on the instructor. By sitting front and center, students were able to hear better too.",
+                "zh": "在一项研究中,坐在教室前排和中间位置的学生比坐在教室后排的学生获得了更高的平均成绩,考试分数也更高。还有一点。坐在教室中间的学生的成绩也超过了坐在他们后面的学生。这项研究发现,学生们对黑板有更清晰的视野,能够将更多注意力集中在授课教师身上。坐在前排和中间位置,学生们也能听得更清楚。"
+              },
+              {
+                "en": "The instructors said that they also formed a better connection with the students who sat in front. Perhaps the connection is made because of eye contact and visibility and more interaction. But when you sit in the front row, you may be called on more by your teacher, mainly due to the fact that you are easier to see. So for students who are not prepared and for those who are extremely shy, the attention could cause some unwanted stress.",
+                "zh": "授课教师表示,他们与坐在前排的学生建立了更好的联系。也许这种联系是由于眼神交流、可见度以及更多互动而形成的。但是当你坐在前排时,你可能会更多地被老师提问,主要是因为老师更容易看到你。所以对于没有准备好的学生以及极度害羞的学生来说,这种关注可能会带来一些不必要的压力。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Some music inspires you to move your feet, some inspires you to get out there and change the world. In any case, it's"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to say that music moves people in special ways. If you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "to you like a sting in your brain. It turns out that ASMR is pretty special. According to a"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's. Alzheimer's"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "to put people into layers of confusion, and the study confirms that music can sometimes"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while. ASMR is powerful stuff! This phenomenon has been"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "several times but rarely studied properly. One of the most famous examples of this is the story of 92-year-old Henry Dryer, who comes out of dementia(痴呆) while listening to songs from his youth. Jeff Anderson, associate professor in Radiology at the University of Utah and"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "author on the study, says \"In our society, the diagnoses of dementia are"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "resources to the maximum. No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ", decrease the cost of care and improve a patient's"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "of life.\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "actually"
+        },
+        {
+          "l": "B",
+          "w": "consequently"
+        },
+        {
+          "l": "C",
+          "w": "contributing"
+        },
+        {
+          "l": "D",
+          "w": "fair"
+        },
+        {
+          "l": "E",
+          "w": "feels"
+        },
+        {
+          "l": "F",
+          "w": "manageable"
+        },
+        {
+          "l": "G",
+          "w": "mends"
+        },
+        {
+          "l": "H",
+          "w": "observed"
+        },
+        {
+          "l": "I",
+          "w": "phase"
+        },
+        {
+          "l": "J",
+          "w": "plotting"
+        },
+        {
+          "l": "K",
+          "w": "quality"
+        },
+        {
+          "l": "L",
+          "w": "recently"
+        },
+        {
+          "l": "M",
+          "w": "taxing"
+        },
+        {
+          "l": "N",
+          "w": "tends"
+        },
+        {
+          "l": "O",
+          "w": "yielded"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "D"
+        },
+        {
+          "n": 27,
+          "a": "E"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "N"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "H"
+        },
+        {
+          "n": 32,
+          "a": "C"
+        },
+        {
+          "n": 33,
+          "a": "M"
+        },
+        {
+          "n": 34,
+          "a": "F"
+        },
+        {
+          "n": 35,
+          "a": "K"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Can playing video games help you get a better job?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé. But why not? Businesses are waking up to the skills gamers can bring to the workplace."
+        },
+        {
+          "l": "B",
+          "t": "One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations. And Game Academy reckons its belief is backed up by hard data. Do you enjoy unusual puzzle games like Portal, or tower defence games like Defense Grid? The team has found that IT workers play those more than average. But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers."
+        },
+        {
+          "l": "C",
+          "t": "Game Academy's idea is simple: analyse gamers' habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes — skills they can practise and refine in-game. And there is already a growing acceptance that gaming skills are transferable."
+        },
+        {
+          "l": "D",
+          "t": "Even the military is hiring gamers. \"The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,\" according to a Royal Air Force spokesperson. Those skills are part of what the Royal Air Force is looking for \"in a variety of roles\". \"Skills acquired through gaming can be very relevant to certain areas.\""
+        },
+        {
+          "l": "E",
+          "t": "\"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment. But does that really mean your top 100 ranking in Overwatch should go down in your résumé? \"It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,\" Mr Gardner says."
+        },
+        {
+          "l": "F",
+          "t": "Two years ago, a Glasgow University study made headlines for suggesting gaming could make students more successful. But \"the research hasn't really changed minds, at least not yet,\" says one of the authors of the study, Dr Matthew Barr. He's now writing a book on the topic. \"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job. But if someone can explain how they've led a team in an online game, for example, they may be able to persuade an employer that this is useful,\" says Dr Barr."
+        },
+        {
+          "l": "G",
+          "t": "Playing games casually is unlikely to help your career prospects. But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills. \"We see gameplay as a resource of talent,\" says co-founder David Barrie. \"Why can't we put in our résumé our gaming victories and achievements?\" he asks. \"If they say they want leadership — why can't I point to my years of leading World of Warcraft raids?\""
+        },
+        {
+          "l": "H",
+          "t": "There are already plenty of gamers out there who know that their hobby has made them who they are. Earlier this year, Matthew Ricci told gaming site Kotaku: \"If you're playing EVE Online you basically already have an MBA.\" Often made fun of in gaming circles as a \"spreadsheet simulator(电子表格模拟)\", the economy of the fictional EVE universe is driven by real market principles. If you want to build a new spaceship, the raw material has to be mined by another player. Manufacturing costs come into effect, and commodities fluctuate in price based on demand and the distance to haul the commodity."
+        },
+        {
+          "l": "I",
+          "t": "Mr Ricci, who had always dreamed of being the boss of his own company, ran an in-game corporation comprising hundreds of players. Eventually, he realised he could transfer his skills to real-life business — instead of doing it for free. He restructured Zentech, once a taxation vehicle for his father's business, and it is now in its fourth year helping international brands enter the Canadian market. EVE teaches skills like creativity, leadership, organisation, and conflict resolution, he maintains. He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\"."
+        },
+        {
+          "l": "J",
+          "t": "Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says. \"It also helps with meta-skills — learning how to learn, experimentation, and creative thinking.\""
+        },
+        {
+          "l": "K",
+          "t": "Twelve years into his career, Mark Long, a radiotherapy physicist with the NHS in Surrey, doesn't get as much gaming time as he used to. \"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old- school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. Gaming also encouraged a competitive spirit — and that, he believes, translates. \"When creating treatment plans, the aim is to optimise the radiation dose to the tumour and restrict it as much as possible to healthy surrounding tissues and organs,\" he says. It's about \"repeating the process, but each time doing something slightly different to improve the result\". Not unlike achieving a high score or a perfect run. \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\""
+        },
+        {
+          "l": "L",
+          "t": "\"Over at Game Academy, Mr Barrie is aware they still have a mountain to climb. The employer community will need the science,\" he says, but confesses he only became a true believer when he started asking players about their biggest in-game achievements. \"The scale and scope of their answers were amazing,\" he says. \"But ask them the same about their work, and they don't know.\" \"The engagement and powerful skills that people get playing a game — why can't work be like that?\" he asks."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Certain gaming skills meet the requirements of the armed forces in Britain.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "One veteran player has applied his gaming skills to his real-world business and owes his success partly to a game company.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "According to a researcher, bad reputation about games will probably limit a gamer's chances of landing a job.",
+          "a": "F"
+        },
+        {
+          "n": 39,
+          "s": "Businesses are beginning to realise gaming skills are applicable to their employees' work.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "A physicist admits gaming has contributed to his computer knowledge and skills of solving problems.",
+          "a": "K"
+        },
+        {
+          "n": 41,
+          "s": "Game Academy proposes to help gamers develop their skills using critical thinking.",
+          "a": "G"
+        },
+        {
+          "n": 42,
+          "s": "One who enjoys playing games that require management skills to win might possess more qualities of a manager.",
+          "a": "B"
+        },
+        {
+          "n": 43,
+          "s": "In more conventional views, gaming is a time-wasting activity pursued by young boys.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "It is suggested that gaming skills be included in a résumé if they enhance a job applicant's appeal.",
+          "a": "E"
+        },
+        {
+          "n": 45,
+          "s": "Many gamers know their passion for playing games has shaped their identity.",
+          "a": "H"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Junk food is now a staple of many Americans' diets. Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise. But recent studies show a lack of exercise is not to blame for rising obesity rates. Bad diets are. Interventions( 干预) to help reduce junk food consumption are especially important for children and teenagers. Prevention is better than cure because obesity is so difficult to treat. Unfortunately, while health education has shown some success among young children, teens have been harder to reach. Now a large-scale study has tried an innovative approach to change teenagers' attitudes towards healthy eating, and the results are promising. The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers. In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice. To do this, researchers had students read an article on the food industry. It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy. The article also explained how advertising campaigns specifically target very young and poor people, causing harm for these vulnerable groups. Afterwards, the participants read a fictional survey of teens who wanted to \"fight back against the companies by buying and eating less processed food\" After the intervention, participants associated healthy eating with autonomy and social justice. The teenagers also rated healthy eating as being more appealing. Importantly, there were also some promising effects of the new intervention on actual behavior. A day later the students were offered a choice of snacks and drinks in a seemingly unrelated context. The teens chose healthy snacks and drinks (such as fruit or water) more often over unhealthy options (like biscuits and soda). Apparently associating a healthy diet with teenagers' own values seems to be a promising avenue to prevent obesity.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn about advertising campaigns from the snack food companies?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They convey the idea that their products are ok if consumers exercise more."
+              },
+              {
+                "l": "B",
+                "t": "They send the message that bad diets are responsible for Americans' obesity."
+              },
+              {
+                "l": "C",
+                "t": "They usually feature sports stars to emphasize the benefits of their snack foods."
+              },
+              {
+                "l": "D",
+                "t": "They claim that lack of exercise is to blame for the increasing obesity rates."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the passage say about health education?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has shed light on teens' instinct for rebellion and autonomy."
+              },
+              {
+                "l": "B",
+                "t": "It has placed much more emphasis on cure than on prevention."
+              },
+              {
+                "l": "C",
+                "t": "It has contributed little to the campaigns against obesity."
+              },
+              {
+                "l": "D",
+                "t": "It has largely failed to turn teens away from junk food."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What is a major flaw in previous interventions to help reduce junk food consumption?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They motivated teens to stay away from junk food only temporarily."
+              },
+              {
+                "l": "B",
+                "t": "They focused on the benefits young people would reap in the future."
+              },
+              {
+                "l": "C",
+                "t": "They were based on the assumption that motivation was the only key."
+              },
+              {
+                "l": "D",
+                "t": "They were incapable of appealing to teens' instinct for rebelliousness."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "In what way is the new intervention innovative?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It emphasizes people's sense of social responsibility."
+              },
+              {
+                "l": "B",
+                "t": "It cleverly exploits teenagers' personal weaknesses."
+              },
+              {
+                "l": "C",
+                "t": "It takes advantage of teenagers' natural inclination."
+              },
+              {
+                "l": "D",
+                "t": "It promises immediate rather than future benefits."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What conclusion can be drawn from the new research?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A totally different approach could be adopted to combat advertising campaigns for snack food."
+              },
+              {
+                "l": "B",
+                "t": "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle."
+              },
+              {
+                "l": "C",
+                "t": "Obesity can be hopefully prevented by building links between teenagers' values and healthy eating."
+              },
+              {
+                "l": "D",
+                "t": "An innovative way to beat obesity is to expose food companies' manipulative and deceptive practices."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams. But scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages. Since your baby doesn't dream at this stage of brain development, it's safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life. Are you wondering, what do babies dream about? Good question, but the answer is nothing! So, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall. Foulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too. Dreams of very small kids are usually just snapshots(快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes, \"Children's dream life…seems to be similar to their waking imagination and narration.\" Kids ages 5 – 9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9. So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do scientists think of REM?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is a sign of dreaming in adults and infants alike."
+              },
+              {
+                "l": "B",
+                "t": "It is essential to human beings' language learning."
+              },
+              {
+                "l": "C",
+                "t": "It determines the formation of connections in the brain."
+              },
+              {
+                "l": "D",
+                "t": "It performs a different function in babies than in adults."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What can we infer about nightmares from the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They occur often in people with an active imagination."
+              },
+              {
+                "l": "B",
+                "t": "They occur in people suffering from emotional stress."
+              },
+              {
+                "l": "C",
+                "t": "They vary in different stages of brain development."
+              },
+              {
+                "l": "D",
+                "t": "They appear in the sleep of both adults and infants."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What is the aim of psychologist David Foulkes' study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To reveal the secrets of children's dreams."
+              },
+              {
+                "l": "B",
+                "t": "To see if children start dreaming at age two."
+              },
+              {
+                "l": "C",
+                "t": "To solve the mystery of dreaming and brain growth."
+              },
+              {
+                "l": "D",
+                "t": "To confirm the general consensus on when kids dream."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What are Foulkes' findings about kids' dreams?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They feature strange animals."
+              },
+              {
+                "l": "B",
+                "t": "They are unsurprising to adults."
+              },
+              {
+                "l": "C",
+                "t": "They grow and evolve with age."
+              },
+              {
+                "l": "D",
+                "t": "They reflect kids' waking life."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What can we assume about babies who appear upset upon waking?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have been roused against their will."
+              },
+              {
+                "l": "B",
+                "t": "They have been disturbed by a nightmare."
+              },
+              {
+                "l": "C",
+                "t": "They have trouble recollecting the images of their dreams."
+              },
+              {
+                "l": "D",
+                "t": "They have been affected by something other than dreaming."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "近年来，\"城市漫步(city walk)\"在中国的年轻人中悄然兴起，已成为一种旅游新潮流。与传统旅游不同， 城市漫步不追求在短时间内游览尽可能多的景点。而是随意行走或按照主题路线漫步在城市的大街小巷。漫步 者品尝地道小吃，欣赏特色建筑，了解当地生活方式。他们还用相机或手机记录城市的风景和人物。这种旅游 方式能让城市漫步者更深入了解城市的历史与文化。",
+    "reference": "In recent years, city walk has quietly emerged among young people in China and has become a new travel trend. Unlike traditional travel, city walk does not seek to visit as many attractions as possible in a short time. Instead, city walkers wander randomly or stroll along themed routes through the streets and alleys of the city. They taste authentic snacks, admire distinctive buildings, and learn about local ways of life. They also record the city's scenery and people with cameras or mobile phones. This travel style enables city walkers to gain a deeper understanding of the city's history and culture."
+  }
+}

@@ -1,0 +1,1369 @@
+{
+  "id": "cet6-2026-6-1",
+  "level": "cet6",
+  "year": 2026,
+  "month": 6,
+  "set": 1,
+  "title": "2026年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"With the trend of Urbanization, it is vitally important for city residents to develop a stronger love for Nature.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+    "sample": "With the trend of Urbanization, it is vitally important for city residents to develop a stronger love for Nature. As concrete forests expand, many urban dwellers rarely feel the breeze, hear birds, or touch soil. A stronger bond with nature is not a luxury; it is essential for mental and physical well-being in an increasingly artificial environment.One practical way to cultivate this love is to make nature part of daily routines. For example, residents can walk in nearby parks, grow plants on balconies, or join community gardening projects. These activities reconnect people with the living world. Last year, I started visiting a small riverbank park every weekend. Watching seasons change there reduced my stress and made me more aware of environmental protection.Therefore, city governments and individuals should work together to create more green spaces and spend time in them. Only by integrating nature into urban life can residents truly develop a stronger love for it and build healthier cities for future generations."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How to run one's business successfully."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How to make progress in one's career."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Why few people can fully display their capabilities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Why young people seldom get the expected promotion."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To mix and interact with peers within the organization."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To restrict their connections exclusively to colleagues."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To limit communication only to their superiors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To underestimate their role in the company."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Put in quality time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Connect with managers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Make greater efforts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Demonstrate final results."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To show their genius."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To gain due respect."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To guard against humiliation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To avoid appearing arrogant.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Welcome to \"Business Matters\". Today we have invited career development consultant Lucy Williams to talk about how to get ahead at work. Hi, Lucy. Many of us never seem to get promoted. Why is that? And what can we do about it?",
+                "zh": "M: 欢迎收听《商业纵横》。今天我们邀请了职业发展顾问露西·威廉姆斯，来谈谈如何在职场上取得成功。你好，露西。我们很多人似乎一直得不到晋升，这是为什么？我们又能做些什么呢？"
+              },
+              {
+                "en": "W: One mistake people make is to limit communication only to their bosses. It's important to expand your network and include your co-workers.",
+                "zh": "W: 人们常犯的一个错误，是把沟通对象局限在自己的上司。拓展人际网络很重要，也要把同事纳入其中。"
+              },
+              {
+                "en": "M: But some of our co-workers are less senior to us. Is it really necessary to connect with them?",
+                "zh": "M: 但我们有些同事的职位比我们低。真的有必要和他们建立联系吗？"
+              },
+              {
+                "en": "W: It's important not to underestimate your colleagues. Sometimes a job title might not clearly demonstrate the influence they may have.",
+                "zh": "W: 重要的是不要低估你的同事。有时候，职位名称并不能清楚地体现他们可能拥有的影响力。"
+              },
+              {
+                "en": "M: Now many of us think that working hard creates a good impression, but this isn't always true, is it?",
+                "zh": "M: 现在我们很多人都认为努力工作会给别人留下好印象，但事实并不总是如此，对吧？"
+              },
+              {
+                "en": "W: That's right. We should avoid trying to take on too much work and constantly staying late, just to show that you are committed.",
+                "zh": "W: 没错。我们应该避免为了表现出自己的投入，就试图承担过多的工作，还总是加班到很晚。"
+              },
+              {
+                "en": "M: I see. So setting expectations too high at the beginning can make us look bad if we don't maintain them.",
+                "zh": "M: 我明白了。所以，一开始就把别人对我们的期待设得太高，如果后来无法保持，就可能让我们看起来很糟糕。"
+              },
+              {
+                "en": "W: Yeah, it's better to make sure you are putting in quality time instead of just a large quantity of time. And these efforts can easily be demonstrated by the results we achieve.",
+                "zh": "W: 是的，最好确保自己投入的是高质量的时间，而不只是大量的时间。而且，我们取得的成果很容易证明这些努力。"
+              },
+              {
+                "en": "M: What about helping others at work? Should you try and go beyond your normal responsibilities and offer to help people with their projects?",
+                "zh": "M: 那么，在工作中帮助别人呢？你是否应该尽力超越自己的日常职责，主动提出帮助别人完成项目？"
+              },
+              {
+                "en": "W: Extend your assistance to those who need it, but only as long as your own work will not go unattended. If someone can benefit from your assistance or advice, help them out to gain their respect and trust.",
+                "zh": "W: 向那些需要帮助的人提供援助，但前提是不能让自己的工作无人处理。如果有人能从你的帮助或建议中获益，就帮他们一把，以赢得他们的尊重和信任。"
+              },
+              {
+                "en": "M: But it goes without saying that you shouldn't act like a know-it-all, otherwise you'll appear arrogant.",
+                "zh": "M: 不过，显而易见，你不应该表现得像个无所不知的人，否则会显得傲慢。"
+              },
+              {
+                "en": "W: Absolutely. Be humble, and you'll get a lot of time later on to show your genius.",
+                "zh": "W: 当然。保持谦逊，之后你会有很多时间展现自己的才华。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Decide how to divide up the presentation tasks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Investigate the available background research."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Complete the project design together."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Find a suitable topic for their article."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He wants to devote his time to other portions."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He believes the woman is better able to handle it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He claims to have done most of the work already."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He finds the woman more meticulous about details."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Questioning."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Complaining."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Arguing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Worrying."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To avoid sounding monotonous to the listeners."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To make the division of labor more reasonable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To keep himself from being overburdened."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To bring their capabilities fully into play."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: I think we first need to decide how to divide up the presentation responsibilities. From what I recall, the presentation consists of five parts, not including the introduction and conclusion. That would mean altogether, we need to allocate seven parts between the two of us.",
+                "zh": "W: 我觉得我们首先需要决定如何分配演示的任务。据我所记得，这次演示由五个部分组成，不包括开头和结尾。也就是说，我们总共需要在我们两个人之间分配七个部分。"
+              },
+              {
+                "en": "M: So, we have the abstract, background research, the project design, the results and the discussion portions. As the abstract section only applies to the article, we needn't include it in the presentation. How would you suggest we dole out the rest?",
+                "zh": "M: 所以，我们有摘要、背景研究、项目设计、结果和讨论这几个部分。由于摘要部分只适用于文章，我们不必把它包括在演示中。你建议我们如何分配剩下的部分？"
+              },
+              {
+                "en": "W: How do you feel about handling the background bit? In this way, we can both discuss the part of the project that we devoted most of our time to.",
+                "zh": "W: 你觉得由你来负责背景研究部分怎么样？这样一来，我们就都可以讲述自己投入最多时间的项目部分了。"
+              },
+              {
+                "en": "M: Hold on a minute. You want me, the one who did the bulk of the task, to also do the majority of the presentation? The background research which was so meticulous took more than a month.",
+                "zh": "M: 等一下。你是想让我这个承担了大部分任务的人，再负责演示的大部分内容？那份一丝不苟的背景研究花了一个多月的时间。"
+              },
+              {
+                "en": "W: OK. OK. I get it. Quit your moaning. I appreciate the rigorous work ethic you applied to the research, but not the sarcasm that comes up every time I mention it. What do you think would be a fair arrangement?",
+                "zh": "W: 好了，好了。我明白了。别再抱怨了。我认可你在研究中所表现出的严谨工作态度，但不欣赏每次我提到这件事时你表现出的讽刺。你觉得怎样分配才公平？"
+              },
+              {
+                "en": "M: I think the best arrangement would be to split the research into two parts: before-1980 and afterward. I would take the before-portion and you would be assigned the after-1980, leaving the project and results. I volunteer to describe the project. But as I struggled a bit with the statistics in the results section, how about you handling that?",
+                "zh": "M: 我觉得最好的安排是把研究分成两部分：1980年以前和之后。我负责1980年以前的部分，你负责1980年以后的部分，项目设计和结果部分则另行分配。我自愿介绍项目设计。不过，我在结果部分的统计数据方面有些吃力，你来负责那一部分怎么样？"
+              },
+              {
+                "en": "W: That's agreeable to me. I propose we both handle the discussion section in parts along with the question and answer afterward, leaving only the introduction and conclusion.",
+                "zh": "W: 我觉得这样可以。我提议我们分段负责讨论部分，之后的问答环节也由我们共同完成，这样就只剩下开头和结尾了。"
+              },
+              {
+                "en": "M: I will take responsibility for the conclusion and put you in charge of the introduction. This will make it so that we alternate presenting, so as to avoid sounding monotonous to the audience.",
+                "zh": "M: 我来负责结尾，你来负责开头。这样我们就可以交替进行演示，避免让听众觉得单调。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Alter others' perceptions of the wearer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Win others' admiration for the wearer."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enhance the wearer's confidence."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Change the wearer's appearance."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "As being a greater threat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "As being of higher prestige."
+                  },
+                  {
+                    "l": "C",
+                    "t": "As being more dominant."
+                  },
+                  {
+                    "l": "D",
+                    "t": "As being more attractive."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It might influence her way of introducing herself."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It might impact her dressing style for the occasion."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It might affect her decision on applying cosmetics."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It might sway her view on the interviewers' questions.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Makeup can do more than just change your appearance—it can also alter others' perceptions of you, for better or for worse. According to new research from the University of Stirling in Scotland, although both men and women perceive women who wear makeup as being of a higher status, men associate makeup with prestigious, positive qualities, while women view other women wearing makeup as being dominant and a potential threat.",
+                "zh": "化妆不仅能改变你的外表，还能改变他人对你的看法，结果可能更好，也可能更糟。根据苏格兰斯特灵大学的一项新研究，虽然男性和女性都认为化妆的女性地位更高，但男性会将化妆与有声望、积极的品质联系起来，而女性则认为化妆的其他女性更具支配性，并可能构成威胁。"
+              },
+              {
+                "en": "The research showed that men and women both rated the faces with cosmetics as being more attractive, but only women rated made-up faces as being more dominant, while only men rated made-up faces as being higher in prestige.",
+                "zh": "研究表明，男性和女性都认为化妆后的面孔更具吸引力，但只有女性认为化妆后的面孔更具支配性，只有男性认为化妆后的面孔具有更高的声望。"
+              },
+              {
+                "en": "A follow-up study investigated the root cause behind these differences in perception, and found that female-on-female jealousy seemed to be the main cause of the differences in perception. Women rating women with makeup said they would be more jealous of them and thought they would be more attractive to men than their non-makeup wearing counterparts.",
+                "zh": "一项后续研究探究了这些认知差异背后的根本原因，发现女性之间的嫉妒似乎是造成这种认知差异的主要原因。对化妆女性进行评价的女性表示，她们会更嫉妒这些女性，并认为相比不化妆的女性，她们对男性更具吸引力。"
+              },
+              {
+                "en": "Cosmetic products are good for more than just giving you a pretty face. It can be particularly useful for women to understand how wearing makeup alters others' perceptions of them in situations where they are trying to gain others' trust and admiration. At a job interview, knowing whether the hiring committee will consist of men or women might influence a female candidate's decision about wearing makeup. Whether the interviewers will view her as attractive, dominant and prestigious can affect the interviewers' actions and perhaps the outcome of the interview itself.",
+                "zh": "化妆品的作用不只是让你拥有一张漂亮的脸。对于女性而言，了解化妆如何改变他人对自己的看法，尤其是在试图赢得他人的信任和钦佩时，可能非常有用。在求职面试中，了解招聘委员会由男性还是女性组成，可能会影响女性求职者是否化妆的决定。面试官是否会认为她具有吸引力、支配性和声望，可能会影响面试官的行为，甚至可能影响面试本身的结果。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those involving no self-recognition."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those forcing us to clench our teeth."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those resisting various temptations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those requiring no willpower at all."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Regulating one's actions for the sake of good health."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Controlling one's actions with a motivating thought."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Using practical examples to guide one's behavior."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Denying oneself any comfort to prevent diseases."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It equips us with an expert skill."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It exerts an enduring force on us."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It leads to a burning goal."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It begins with a bright idea."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Any cherished goal."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Any positive mindset."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Any personal instinct."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Any valued role model."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "You may have seen advertisements trumpeting methods of changing a habit that require absolutely no willpower whatsoever. But can you really change a bad habit or create a good one without willpower? To answer this question, we first have to ask: \"What is willpower?\" Most people, sadly, think of it only as the ability to clench their teeth and resist attractive temptations. In this view, willpower means self-denial and no fun. No wonder people hope to make changes without it.",
+                "zh": "你可能见过一些广告大肆宣扬无需任何意志力就能改变习惯的方法。但你真的能够在没有意志力的情况下改掉坏习惯或养成好习惯吗？要回答这个问题，我们首先必须问：“什么是意志力？”遗憾的是，大多数人只把它看作咬紧牙关、抵制诱人诱惑的能力。在这种看法中，意志力意味着自我克制和毫无乐趣。难怪人们希望不借助意志力就能做出改变。"
+              },
+              {
+                "en": "I define willpower as \"using only the thought of your motivators to control your actions.\" Let's say your motivators are \"prevent diabetes\" and \"reach a healthy weight\". So if you are at the all-you-can-eat buffet, you think about your motivator—avoid diabetes through weight loss—and you take small portions and avoid the dessert table.",
+                "zh": "我把意志力定义为“仅凭想到自己的动机来控制行为”。假设你的动机是“预防糖尿病”和“达到健康体重”。那么，当你在自助餐厅面对不限量供应的食物时，你会想到自己的动机——通过减重来避免糖尿病——于是少量取食，并避开甜点区。"
+              },
+              {
+                "en": "So, amazingly enough, willpower begins with a thought—a bright idea—some way to improve your life or contribute to others. This bright idea is your motivator.",
+                "zh": "所以，令人惊讶的是，意志力始于一个想法——一个改善生活或为他人做出贡献的好主意。这个好主意就是你的动机。"
+              },
+              {
+                "en": "Doctor Walter Mischel, an expert on willpower skills, uses the expressive term \"a burning goal\". Whether you call it a motivator, a burning goal, or a bright idea, this idea is the force behind your willpower.",
+                "zh": "意志力技能专家沃尔特·米歇尔博士使用了“一个燃烧的目标”这一生动的说法。无论你把它称为动机、燃烧的目标，还是好主意，这个想法都是意志力背后的力量。"
+              },
+              {
+                "en": "What sort of bright ideas—motivators—make for effective willpower? In fact, any goal that you value strongly counts. The list may include good health, self-respect, a better future for your family, a personal mission and being a role model for your child. All these can certainly drive a positive change.",
+                "zh": "什么样的好主意——也就是动机——能够产生有效的意志力？事实上，任何一个你高度重视的目标都算在内。这个清单可能包括良好的健康状况、自尊、为家人创造更美好的未来、个人使命，以及成为孩子的榜样。所有这些都确实能够推动积极的改变。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has long been criticized as unclear."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has long been ignored by the public."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has caused much panic among women."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has resulted in different understandings."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It warned consumers not to eat fish from the Gulf of Mexico."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It called on expectant mothers to pay attention to food safety."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It issued an update to the advice on seafood consumption."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It listed more than sixty species of fish as \"choices to avoid\"."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The impact of the FDA's analysis."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Multiple factors including mercury."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Critics' conclusions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The prices of seafood.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "For many pregnant women, understanding what seafood is safe and healthy and what should be avoided because of mercury concerns comes with a lot of worrying. In part, that's because the federal government's advice on the matter, first issued in 2004, has long been criticized as vague. That guidance has included advice on how much seafood to eat, and which species pregnant and breastfeeding women should avoid over concerns about mercury contamination. But critics say the government advisory has done more harm than good, scaring many pregnant and breastfeeding women away from eating seafood altogether.",
+                "zh": "对许多孕妇来说，了解哪些海产品安全且有益健康，以及哪些海产品因担心汞而应当避免，会带来许多忧虑。部分原因在于，联邦政府首次于2004年发布的相关建议长期以来一直被批评含糊不清。该指导意见包括关于应食用多少海产品，以及孕妇和哺乳期女性因担心汞污染而应避免哪些种类的建议。但批评者表示，政府的这份指导意见弊大于利，使许多孕妇和哺乳期女性彻底不敢食用海产品。"
+              },
+              {
+                "en": "The problem is real. According to a spokesman for the Food and Drug Administration, or FDA for short, the agency analyzed fish consumption data from more than 1,000 pregnant women in the US and found that 21 per cent of them ate no fish whatsoever in the previous month. And those who did eat fish consumed far less than recommended by the dietary guidelines. Some 50 per cent ate less than two ounces a week and 75 per cent ate less than four ounces.",
+                "zh": "这个问题确实存在。据美国食品药品监督管理局（简称FDA）一位发言人介绍，该机构分析了美国一千多名孕妇的鱼类食用数据，发现其中21%在前一个月完全没有吃鱼。而那些吃鱼的人，摄入量也远低于膳食指南的建议。约50%的人每周摄入量少于两盎司，75%的人少于四盎司。"
+              },
+              {
+                "en": "This week the FDA issued an update to the advice, listing more than sixty species in a chart that ranks fish as A Best Choice, Good Choice and Choices to Avoid. The goal is to make it easier for mothers-to-be to feel confident about the type of seafood they include in their diets. The new advice recommends consumers choose a variety of fish to eat, and it comes with an easy-to-understand illustration of what an appropriate portion size should be—four ounces for an adult and two ounces for children aged four to seven.",
+                "zh": "本周，FDA更新了相关建议，在一张图表中列出六十多种鱼类，并将其分为“最佳选择”“不错的选择”和“应避免的选择”。此举旨在让准妈妈更容易对自己饮食中所摄入的海产品种类感到放心。新建议推荐消费者食用多种鱼类，并配有一幅易于理解的图示，说明适当的食用分量应为多少：成年人四盎司，四至七岁的儿童两盎司。"
+              },
+              {
+                "en": "And while expectant mothers have long been warned to stay away from shark and four other particular types of fish from the Gulf of Mexico, now there are three new species on the list of what to avoid. But not everyone is thrilled with the new advice. Critics say the new advice doesn't always agree with the agency's own scientific findings. While mercury is of great concern when people are talking about pregnant women and seafood, it's not the only factor contributing to anxiety.",
+                "zh": "长期以来，准妈妈一直被告诫要避开鲨鱼以及另外四种来自墨西哥湾的特定鱼类，而现在，又有三种鱼类被列入应避免食用的名单。但并非所有人都对这份新建议感到满意。批评者表示，新建议并不总是与该机构自己的科学研究结果一致。人们谈论孕妇和海产品时，汞确实是非常令人担忧的因素，但它并不是导致焦虑的唯一因素。"
+              },
+              {
+                "en": "The FDA maintains that its final consumption recommendations were based on thorough scientific analysis. Agency spokesman Cassell says the FDA believes their recommendations will increase confidence, not uncertainty. But critics disagree. They think the FDA's advice is not based on the evidence in its own detailed report, and so it confuses everyone.",
+                "zh": "FDA坚持认为，其最终的食用建议是基于全面的科学分析制定的。该机构发言人Cassell表示，FDA相信这些建议将增强信心，而不是增加不确定性。但批评者对此并不认同。他们认为，FDA的建议并没有以其自身那份详细报告中的证据为依据，因此让所有人都感到困惑。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will suffer a breakdown soon."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will be losing both joy and life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will be putting themselves and family at risk."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will make things worse for people around them."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Spend 14 days for vacation every year."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Aim for three separate vacations yearly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Space out their vacations evenly instead of taking one long vacation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Use all their days off for a long summer break to achieve full-on calm."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Expecting to have more vacations in a year will boost one's work efficiency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Anticipating more vacations would reduce one's feelings of despair at work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Taking more than three vacations yearly would prolong one's excitement."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Planning multiple breaks throughout the year will add to one's happiness.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I know you're busy with work, but you also need to take some time off to recharge those batteries. So, should you plan one big vacation for the year, or should you take multiple short vacations throughout? Quantity can sometimes beat quality. First and foremost, regardless of how you use your vacation days, you need to be using them, and soon. The longer you put off your time off, the worse you're making things for yourself.",
+                "zh": "我知道你忙于工作，但你也需要抽出一些时间休息，让自己的精力得到恢复。那么，你应该为这一年安排一次长假，还是应该在全年安排多次短假？数量有时胜过质量。首先，无论你如何使用假期，都需要真正使用它们，而且要尽快使用。你越是推迟休假，就越是在让自己的处境变得糟糕。"
+              },
+              {
+                "en": "One 9-year-long study published in Psychosomatic Medicine suggests not taking at least one vacation a year may increase your risk of mortality due to heart disease. So, not only are you killing your joy, you're possibly killing yourself. Give yourself a break, folks.",
+                "zh": "《心身医学》发表的一项为期9年的研究表明，每年至少不休一次假，可能会增加因心脏病死亡的风险。所以，你不仅是在扼杀自己的快乐，也可能是在置自己于死地。各位，给自己放个假吧。"
+              },
+              {
+                "en": "When you should take those breaks, however, depends on a few factors: how many days you have available to use, what activities bring you joy, whether you have a family or not, and other variables come into play. Because of that, there's no perfect formula that works for everyone, but there are still a few things everyone can try to shoot for. We know that in terms of maximizing relaxation, you should aim for vacations that range somewhere between 7 and 11 days long. That gives you enough time to let go of your stress at work, completely loosen up, and achieve full-on calm.",
+                "zh": "不过，你应该在什么时候休假，取决于几个因素：你有多少天可用假期、哪些活动能给你带来快乐、你是否有家庭，以及其他会产生影响的变量。正因为如此，并不存在适用于所有人的完美公式，但还是有几件事是每个人都可以努力做到的。我们知道，就最大限度地放松而言，你应该争取安排7到11天的假期。这样你就有足够的时间摆脱工作压力，彻底放松下来，达到完全平静的状态。"
+              },
+              {
+                "en": "That above-mentioned study also recommends you space out your vacations evenly instead of using up all of your days at once. Eight days might sound like a lot for someone who only gets 10 days of vacation a year. But if you frame them with weekends, you can manage two evenly spaced 8-day vacations a year. If you have 14 days of paid leave, that's almost three separate 8-day vacations you can use to split your year into thirds.",
+                "zh": "上述研究还建议你把假期均匀地分散开来，而不是一次性用完所有假期。对于一年只有10天假期的人来说，8天听起来可能很多。但如果把周末安排在假期前后，你一年就可以安排两次间隔均匀的8天假期。如果你有14天带薪休假，那几乎可以安排三次分别为8天的假期，用来把一年分成三个阶段。"
+              },
+              {
+                "en": "As tempting as it might be to use all your days to take one long summer break, your overall goal should be to achieve the perfect balance between length plus joy and frequency. Vacation frequency is important because planning multiple breaks throughout the year means you always have something to look forward to. Planning things and the anticipation that comes with it tend to make us happier. If you only take one long vacation every year, the excitement builds much more slowly and seems so far off that it can actually lead to feelings of despair.",
+                "zh": "尽管把所有假期都用来享受一次漫长的暑假可能很有吸引力，但你的总体目标应该是在假期长度、愉悦感和休假频率之间取得完美平衡。休假频率很重要，因为在全年安排多次休息意味着你总有值得期待的事情。筹划事情以及随之而来的期待往往会让我们更加快乐。如果你每年只休一次长假，兴奋感会积累得慢得多，而且由于假期看起来遥不可及，实际上可能会让人产生绝望感。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Surveying when drivers are caught in the heat of arguments."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Designing devices to prevent drivers from being distracted."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Testing models for monitoring drivers easily getting tired."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Developing sensor-based systems for autonomous vehicles."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Make sure the autonomous vehicle operates in the simplest manner."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ensure the transition from the driver to the vehicle is safely made."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Alleviate the driver's pressure as much as possible."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Record the driver's state as accurately as possible."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Driver fatigue."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Dreadful traffic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Drunk driving."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Driving time."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "There has been a strong debate on the feasibility of Level 3 cars."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There have been few remarkable advances in auto technology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There has been a rise in attention-grabbing accidents recently."
+                  },
+                  {
+                    "l": "D",
+                    "t": "There have been few feasible ways to shift public sentiment."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Autonomous cars that can take over from drivers if they are tired or caught in the heat of an argument are being developed in Sweden. Researchers working as part of the European Union's €77 billion research program are developing sensor-based systems that monitor whether a driver is distracted, anxious or tired. If a driver is not in a fit state to be on the road, the car automatically takes control of the wheel to prevent accidents. Doctor Anna Anund from the Swedish National Road and Transport Research Institute, who is leading the project, said a driver's state can be measured using a number of sensors, including heart rate monitors and eye sensors, which track where a driver's gaze is. She said the aim was to really make sure that the transition from the driver to the vehicle is done in a safe way, so we can take into consideration the driver's state, and so we do not give control to a driver who is under pressure of fatigue, stress, anxiety, and so on.",
+                "zh": "在瑞典，人们正在研发能够在驾驶员疲劳或陷入激烈争论时接替其驾驶的自动驾驶汽车。作为欧盟770亿欧元研究计划一部分开展工作的研究人员，正在开发基于传感器的系统，用于监测驾驶员是否分心、焦虑或疲劳。如果驾驶员的状态不适合上路，汽车会自动接管方向盘，以防止发生事故。负责该项目的瑞典国家道路与运输研究所安娜·阿农博士表示，可以利用多种传感器测量驾驶员的状态，包括心率监测器和眼部传感器，后者可以追踪驾驶员的视线方向。她说，目标是真正确保从驾驶员到车辆的控制权转换以安全的方式完成，这样我们就能考虑到驾驶员的状态，也不会把控制权交给正承受疲劳、压力、焦虑等影响的驾驶员。"
+              },
+              {
+                "en": "According to data from the European Commission, Sweden has the safest roads in the EU, with the UK a close second. However, the number of road accidents in both has largely levelled out since 2010. Driver fatigue is thought to be responsible for as many as a fifth of road crashes across the EU, although there are certain times of the day when more accidents happen. At 6:00 a.m., for example, drivers are said to be 20 times more likely to have an accident than at 10:00 a.m. While most experts agree driverless technology should help bring down accident numbers in the long term, some have questioned whether it is safe.",
+                "zh": "根据欧盟委员会的数据，瑞典拥有欧盟最安全的道路，英国紧随其后。不过，自2010年以来，两国的道路事故数量基本趋于平稳。据认为，驾驶员疲劳要对欧盟范围内多达五分之一的道路事故负责，尽管一天中某些时段发生的事故更多。例如，据称驾驶员在早上6点发生事故的可能性是在上午10点时的20倍。尽管大多数专家都认为，从长远来看，无人驾驶技术应有助于降低事故数量，但一些人质疑其是否安全。"
+              },
+              {
+                "en": "The researchers have said the technology they are developing is seeking to bridge the gap between Level 3 on the autonomy scale, in which drivers have to be ready to take control of the car at any point, and Level 4, in which driving is automated.",
+                "zh": "研究人员表示，他们正在开发的技术旨在弥合自动驾驶等级体系中第3级与第4级之间的差距：在第3级，驾驶员必须随时准备接管汽车；而在第4级，驾驶过程实现自动化。"
+              },
+              {
+                "en": "Daniel Ruiz, the chief executive of the UK's connected and autonomous vehicle programme Meridian, said: \"there is a strong debate going on about how it is possible to make a Level 3 car completely safe.\" Despite advances in technology, we still have some way to go in shifting public sentiment. With an increase in attention-grabbing accidents recently, drivers now view self-driving cars as less safe than they used to.",
+                "zh": "英国互联与自动驾驶汽车项目Meridian的首席执行官丹尼尔·鲁伊斯说：“关于如何让第3级汽车完全安全，目前正在展开激烈的讨论。”尽管技术取得了进步，但要改变公众的看法，我们仍有一段路要走。随着近期引人关注的事故增多，如今驾驶员认为自动驾驶汽车不如过去安全。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Two proposals are before the state legislature that look to put some limits on ever-increasing rent prices, which some lawmakers say are contributing to rising homelessness rates. The proposals"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "caps on rent increases, preventing landlords in the state from raising rent more than the rate of inflation in most cases. There are exceptions for buildings less than 10 years old, public housing, improvements beyond maintenance, and a hardship"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". In a 2020 study, researchers at the U.S. Government Accountability Office estimated that every $100 in rent increase is"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "to a 9% rise in homelessness. Rent increases have an even more detrimental effect on some demographic groups, such as racial minorities. Representative Alex Ramel explained why he thought that this kind of legislation was so important, telling the story of a"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "struggling to live in the community. Ramel pointed out the"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "effect of double-digit rent increases, saying that he made the decision to introduce the legislation while talking to a young man in Bellingham. \"He's a recent graduate from Western Washington University and just got a new job,\" Ramel said. \"He was leaving our community because his landlord"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "him that his rent was going to go up by $600 a month.\" The Rental Housing Association of Washington opposes the legislation. The association"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "that the policy won't actually solve the problem of rental prices. Instead, it will punish small landlords and allow wealthy renters easy access to cheap housing. \"The rent control policy has failed everywhere it has been"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "in this county. It has not fixed one housing problem"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ". It also does not distinguish between rich and poor when"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "who gets the benefits of rent control,\" said Chester Baldwin with the Rental Housing Coalition."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "anywhere"
+        },
+        {
+          "l": "B",
+          "w": "asserts"
+        },
+        {
+          "l": "C",
+          "w": "constituent"
+        },
+        {
+          "l": "D",
+          "w": "correlated"
+        },
+        {
+          "l": "E",
+          "w": "determining"
+        },
+        {
+          "l": "F",
+          "w": "devastating"
+        },
+        {
+          "l": "G",
+          "w": "enacted"
+        },
+        {
+          "l": "H",
+          "w": "entails"
+        },
+        {
+          "l": "I",
+          "w": "exemption"
+        },
+        {
+          "l": "J",
+          "w": "impose"
+        },
+        {
+          "l": "K",
+          "w": "notified"
+        },
+        {
+          "l": "L",
+          "w": "notwithstanding"
+        },
+        {
+          "l": "M",
+          "w": "presume"
+        },
+        {
+          "l": "N",
+          "w": "rehabilitation"
+        },
+        {
+          "l": "O",
+          "w": "reproaching"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "J"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "D"
+        },
+        {
+          "n": 29,
+          "a": "C"
+        },
+        {
+          "n": 30,
+          "a": "F"
+        },
+        {
+          "n": 31,
+          "a": "K"
+        },
+        {
+          "n": 32,
+          "a": "B"
+        },
+        {
+          "n": 33,
+          "a": "G"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "E"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Meet the \"digital nomads\" who travel the world in search of fast Wi-Fi",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "For those \"citizens of the world\", the office can be anything from a beach hut in Brisbane to a Starbucks in Seattle, thanks to the growing prevalence of remote-based work. But roaming the globe from café to café is not without its challenges."
+        },
+        {
+          "l": "B",
+          "t": "When the average traveller lands in a city like Bangkok, Berlin, or Buenos Aires, their first step might be to drop their bags at their hotel and to log on to TripAdvisor to find out the hours of a popular tourist attraction or the best rooftop bar for happy hour."
+        },
+        {
+          "l": "C",
+          "t": "But people like Pieter Levels are not your average traveller. A Dutch website developer, Levels has been living and working nomadically(像游牧民那样) in places like Singapore, Hong Kong, Tokyo and Manila for two years. With just a carry-on backpack, he chooses his location at will, based on a variety of factors—Wi- Fi speed, average temperature, exotic food and cost of living—that have little bearing on the work he actually does."
+        },
+        {
+          "l": "D",
+          "t": "Somewhere in his nomadic journey, Levels noticed that there was a growing need to create an online infrastructure for people like himself. That's when he created #nomads, a membership-based chat system which runs on the team communication platform known as Slack. The channel allows users to ask people in their current city the types of practical questions that a tourist would unlikely need to ask."
+        },
+        {
+          "l": "E",
+          "t": "Members of the geographically dispersed subculture that Levels is a part of call themselves \"digital nomads\". They are borderless, mostly self-employed remote workers who interact with cities in a way that's entirely different from a tourist, but still doesn't quite reach the status of resident. A relatively new phenomenon, there are no hard statistics on the prevalence of digital nomads or location independent workers. But thanks to the growing prevalence of freelance(自由职业的) livelihoods, a global sharing economy and numerous digital tools, the number of people who are able to live this life is growing quickly. And in a rapidly urbanising world, where a major city in Asia increasingly offers the same comforts as one in Europe, many people are reaching the realisation they don't need to stay in one place."
+        },
+        {
+          "l": "F",
+          "t": "So how does a nomad differ from a tourist or resident? In many ways, Levels says, you can think of a digital nomad like a \"short-term independent expat(移居国外的人)\". Unlike a resident expat, they don't work for a large multinational company in an air conditioned office building and they generally enter a country on a tourist visa, simply renewing or moving on when it expires. But unlike a tourist, they don't arrive in a foreign city without any responsibilities. Travel isn't necessarily required for them to do their jobs, but neither is staying in one place."
+        },
+        {
+          "l": "G",
+          "t": "Janet Brent is an independent ebook designer. She says many people she knows assume she travels for work, but in reality her international destinations are largely up to her, and driven by cost. \"Contrary to what some people might think, I don't get paid to travel—I simply choose the lifestyle. Rather than rent in one given city, I choose to travel and do short-term, temporary stays around the world, and my travel decisions are literally based on what makes the most sense financially for me,\" Brent said. \"It's completely different from vacationing—you really sink into the city life and get your feet wet in the communities.\""
+        },
+        {
+          "l": "H",
+          "t": "Bryce Adams is another such nomad. He works as a developer for a South African company WooThemes, which has a workforce that's more than 80% remote-based. Though Adams frequently posts pictures on Instagram of his enviable cooking adventures from Seoul to Bangkok, he says nomad life in foreign cities has its downsides, including finding adequate Wi-Fi for the bandwidth-hungry work his livelihood depends on. Contrary to the perception that he works under a mango tree in a tropical haven, Adams says the reality of this life means that he often ends up staying in more western style places in globalised cities—ones that are sure to have air conditioning and a decent connection—rather than exotic beachfront cafés."
+        },
+        {
+          "l": "I",
+          "t": "\"A fellow nomad posted quite a funny but honest message on Twitter a few days ago that stuck with me: 'It's funny that digital nomads spend 16 hours to fly to the other side of the world to sit in Starbucks,' and it's completely true,\" Adams said. \"When you're a digital nomad, you don't actually have as much freedom as most people think you do. We have deadlines, we all have people relying on us and a mouth (or two) that needs to be fed. It's nice to be able to work anywhere in the world but it's not without its challenges.\""
+        },
+        {
+          "l": "J",
+          "t": "But these challenges can often provide an opportunity for nomads to see a side of a city they may not have if they were staying in a luxury hotel for a long weekend. However inconvenient, a trip to a local doctor, immigration office or laundry—or a conflict with a local Airbnb host (the accommodation style of choice for most nomads)—can be far more culturally instructive than a trip to the national museum. And because nomads often have to stay where the strongest internet connection is, they tend to spend more time in developing cities compared to the average tourist, who often flees to more touristy destinations soon after landing at the airport."
+        },
+        {
+          "l": "K",
+          "t": "The nomad life is, by all accounts, one built out of privilege. You not only need a relatively powerful passport that makes tourist visas easy to attain, but also a knowledge economy job and access to the technology and devices that make remote working possible. But nomads like Adams say that while they are aware of this privilege, they believe living this way elevates what they're able to offer, by giving them a broader perspective on what they're building, writing, or designing and expanding their world view."
+        },
+        {
+          "l": "L",
+          "t": "\"Being able to travel and get around makes it easy to stay inspired,\" he added. \"I truly believe that it makes me a more sensible human being, as I tend to see and appreciate the creative solutions people come up with in other parts of the world, even though many tend to have far more constraints than we have at home.\""
+        },
+        {
+          "l": "M",
+          "t": "So when you're constantly on the road and don't own any property or have a fixed address, which city do you call home? It's no surprise that many nomads are dual citizens or \"third culture kids,\" who have grown up with a notion of identity that's not tied to nationalism or staying in one place. Levels says that the nomad life has not only changed his notions of citizenship, but the people he chooses to spend time with as well. \"Saying you're a 'citizen of the world' is a super cliché, right? But it's becoming quite true,\" Levels said. \"This global awareness has been the reason I started Nomad List and it's affected who my friends are. It's normal to have dinner now and sit with a Korean girl, a British-Singaporean guy, a Mexican girl and a Nigerian guy. As much as that sounds like a politically correct TV advertisement, it's great that that's the time we're in now.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Pieter Levels created a chat system to satisfy the need of digital nomads for information tourists normally don't seek.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "It is said that digital nomads do not enjoy as much freedom as most people suppose.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "Different from tourists, digital nomads travel to foreign places with work to do.",
+          "a": "F"
+        },
+        {
+          "n": 39,
+          "s": "Digital nomads believe their lifestyle enables them to broaden their vision and do a better job.",
+          "a": "K"
+        },
+        {
+          "n": 40,
+          "s": "The first thing a typical traveller possibly does after arriving at a city is search for information online about its popular tourist attractions.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "One digital nomad thinks their life in foreign cities has its disadvantages.",
+          "a": "H"
+        },
+        {
+          "n": 42,
+          "s": "Travelling around helps to keep digital nomads inspired.",
+          "a": "L"
+        },
+        {
+          "n": 43,
+          "s": "The number of self-employed remote workers living a digital nomad's life is fast increasing.",
+          "a": "E"
+        },
+        {
+          "n": 44,
+          "s": "Pieter Levels says his life as a nomad has transformed not only his idea of citizenship, but his choice of companions.",
+          "a": "M"
+        },
+        {
+          "n": 45,
+          "s": "Interactions with local people and institutions provide nomads with far more cultural information than a visit to the national museum.",
+          "a": "J"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Children's use of social media is a problem. That doesn't mean it should be stopped. While younger children should not be on platforms where 13 is the minimum age, it is neither practical nor desirable to imagine a world in which teenagers are prevented from accessing the platforms and messaging systems that the adults around them use to organise their lives. But the pleasure and stimulation that people of all ages find on their screens and smartphones must not blind us to the harm that spending time in this way can cause. The finding that the alarmingly high rate of depression in British teenage girls is closely correlated to time spent on social media is extremely concerning. Research found that two in five girls are on social media for at least three hours a day—with half as many boys engaged to the same extent. More than a third of depressed girls have experienced online harassment. About half of affected girls suffered disrupted sleep, compared with 20% of depressed boys. Although the research does not prove that social media causes depression, the importance of the finding that there is a connection should not be underestimated. Schools have done important work in communicating key messages about the risks of online abuse. But when it comes to broader questions about \"screen time\", many professionals as well as parents are confused and uncertain. The health secretary, Matt Hancock, wants official guidelines on time and age limits. This idea has the virtue of simplicity, though some experts question its effects and call for a greater degree of differentiation, arguing that time online by itself is not a bad thing and it all depends on what you are doing. Also due this year is information commissioner Elizabeth Denham's Age Appropriate Design Code, covering the use of children's personal data. Both initiatives are welcome. But the government is playing catch-up. Statutory regulation of the digital media giants is long overdue. The failure to protect children from data harvesting and targeted advertising thus far is as shocking as the lack of concern shown by the companies themselves with regard to children's psychological health. Of course, social media companies are not the source of all our ills, and can offer a too-easy target for politicians keen to divert attention from inadequately resourced schools and health services. There are other reasons for the rising incidence of depression in young people, with increasing pressure to succeed in education and in life more broadly—to be famous, beautiful, rich—often cited as a source of unhappiness or anxiety which can, if aggravated by other factors and not managed, tip into ill health. Safeguarding means more than the avoidance of physical threat.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the author believe regarding social media?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To stop children using it is unrealistic and inadvisable."
+              },
+              {
+                "l": "B",
+                "t": "It helps both adults and children to organise their lives."
+              },
+              {
+                "l": "C",
+                "t": "It poses problems to both parents and children."
+              },
+              {
+                "l": "D",
+                "t": "A world without it is really hard to imagine."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What do we learn from the passage about British teenage girls?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The more frequently they interact on social media, the more they experience harassment."
+              },
+              {
+                "l": "B",
+                "t": "The more time they spend on social media, the more likely they suffer from depression."
+              },
+              {
+                "l": "C",
+                "t": "Most of them are engaged on social media for at least three hours a day."
+              },
+              {
+                "l": "D",
+                "t": "They spend half as many hours on social media as British teenage boys."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What is the author's view on the research finding about British teenage girls?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its implications about online abuse are obvious."
+              },
+              {
+                "l": "B",
+                "t": "Its key message calls for immediate attention."
+              },
+              {
+                "l": "C",
+                "t": "Its importance should not be undervalued."
+              },
+              {
+                "l": "D",
+                "t": "Its uncertainty should not go unnoticed."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What do experts think of health secretary Matt Hancock's idea?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its implementation requires prompt action."
+              },
+              {
+                "l": "B",
+                "t": "It is a welcome initiative but is long overdue."
+              },
+              {
+                "l": "C",
+                "t": "Its success depends on how it is implemented."
+              },
+              {
+                "l": "D",
+                "t": "It is too simplistic to produce the desired effect."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "Besides social media companies, what factors contribute to young people's psychological health problems?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Poorly financed schools and health services."
+              },
+              {
+                "l": "B",
+                "t": "Politicians' eagerness to divert public attention."
+              },
+              {
+                "l": "C",
+                "t": "Bad statutory regulation of digital media giants."
+              },
+              {
+                "l": "D",
+                "t": "Their parents' educational background and life."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "About a decade ago, the G-20, a forum of the world's biggest economies, agreed to crack down on multinational corporations' abusive use of tax havens. This resulted in a plan that aimed to curb practices that shielded a large chunk of corporate profits from tax authorities. But, instead of reining in the use of tax havens—countries such as the Bahamas and Cayman Islands with very low or no effective tax rates—the problem has only gotten worse. In a new study, we measured the excessive profits reported in tax havens that cannot be explained by ordinary economic activity such as employees, factories and research in that country. Our findings show a striking pattern of artificial shifting of paper profits to tax havens by corporations, which has been relentless since the 1980s. We found that the world's biggest multinational businesses shifted 37% of the profits—$969 billion—they earned in other countries to tax havens in 2019. The figure was less than 2% in the 1970s. The main reasons for the large increase were the growth of the tax avoidance industry in the 1980s and U.S. policies that made it easier to shift profits from high-tax countries to tax havens. We estimate that the amount of corporate taxes lost as a result reached 10% of total corporate revenue in 2019, up from less than 0.1% in the 1970s. In 2019, the total government tax loss globally was $250 billion. U.S. multinational corporations alone accounted for about half of that, followed by the U.K. and Germany. How do policymakers fix this? So far, the world as a whole has been trying to solve this problem by cutting or scrapping corporate taxes in a very gradual way. In the past 40 years, the global effective corporate tax rate has fallen from 23% to 17%. At the same time, governments have relied more heavily on consumption taxes. But the root cause of profit-shifting is the incentives involved, such as generous or lenient corporate tax rates in other countries. If countries could agree on a global minimum corporate tax rate of, say, 20%, the problem of profit-shifting would largely disappear, as tax havens would simply cease to exist. This type of mechanism is exactly what more than 130 countries signed onto in 2021, with implementation of a 15% minimum tax set to begin soon in the EU, U.K., Japan, Indonesia and many other countries. The U.S. has notably not been able to pass this legislation. Our research suggests implementing this type of tax reform is necessary in reversing the shift of ever-greater amounts of corporate profits to tax havens—instead of being taxed by the governments where they operate and create value.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn about the G-20's agreement on curbing the use of tax havens?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has aggravated the problem in non-G-20 countries."
+              },
+              {
+                "l": "B",
+                "t": "It has taken a toll on countries such as Cayman Islands."
+              },
+              {
+                "l": "C",
+                "t": "It has failed to achieve the expected outcome."
+              },
+              {
+                "l": "D",
+                "t": "It has failed to result in any long-term plan."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What mainly accounted for the large increase in the world's biggest multinational corporations' shift of profits\n to tax havens?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Fluctuating tax rates globally."
+              },
+              {
+                "l": "B",
+                "t": "Lenient policies of the U.S."
+              },
+              {
+                "l": "C",
+                "t": "Heavy taxes imposed on them."
+              },
+              {
+                "l": "D",
+                "t": "Rapid growth of their business."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What have policymakers been doing to prevent government tax loss?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Reducing corporate taxes step by step."
+              },
+              {
+                "l": "B",
+                "t": "Scrapping consumption taxes gradually."
+              },
+              {
+                "l": "C",
+                "t": "Making joint efforts to levy corporate taxes."
+              },
+              {
+                "l": "D",
+                "t": "Adjusting global effective corporate tax rates."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What does the author say would bring tax havens to an end?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The alignment of corporate taxes with consumption taxes."
+              },
+              {
+                "l": "B",
+                "t": "The implementation of generous tax rates in all countries."
+              },
+              {
+                "l": "C",
+                "t": "The agreement on the root cause of global profit-shifting."
+              },
+              {
+                "l": "D",
+                "t": "The imposition of a global minimum corporate tax rate."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What could be expected of the global problem of profit-shifting in the near future?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It would be solved with more countries cutting tax rates."
+              },
+              {
+                "l": "B",
+                "t": "It would end with governments' awareness of its severity."
+              },
+              {
+                "l": "C",
+                "t": "It would cease to exist with worldwide corporate support."
+              },
+              {
+                "l": "D",
+                "t": "It would continue because of noncooperation from the U.S."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "科技进步使中国的医疗事业得到快速发展。近年来，远程医疗使优质医疗资源惠及更多患者。医学专家可 以通过视频为偏远地区患者提供咨询，指导当地医生制定并实施治疗方案。人工智能辅助诊 断系统帮助医生 识别患者的早期症状，提高诊断准确率。电子健康档案的普及让医生能够快速了解患 者病史，避免重复检 查。线上医疗咨询平台极大地方便了患者就诊。科技与医疗的深度融合更好地满足了人民的健康需求。",
+    "reference": "Advances in science and technology have brought about the rapid development of China's medical services. In recent years, telemedicine has made high-quality medical resources accessible to more patients. Through video links, medical experts can provide consultations for patients in remote areas, guiding local doctors in developing and implementing treatment plans. AI-assisted diagnosis systems help doctors identify patients' early symptoms, thereby improving the accuracy of diagnosis. The widespread adoption of electronic health records enables doctors to quickly review patients' medical histories, thus avoiding repeated examinations. Online medical consultation platforms have greatly facilitated patients' access to medical care. The deep integration of technology and healthcare has better met people's health needs."
+  }
+}

@@ -1,0 +1,1345 @@
+{
+  "id": "cet6-2020-12-2",
+  "level": "cet6",
+  "year": 2020,
+  "month": 12,
+  "set": 2,
+  "title": "2020年12月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on why students should be encouraged to effective communication skills. You should write at least 150 words but no more than 200 words.",
+    "sample": "Effective communication is far more than a soft skill; it is a core competence that shapes a student's academic success and professional future. For this reason, schools and teachers should actively encourage students to develop this valuable ability from an early stage.There are several compelling reasons for this. First, strong communication skills facilitate learning. When students can clearly express doubts and exchange ideas in group projects, knowledge is absorbed far more efficiently. Moreover, these skills sharpen employability. In job interviews, an applicant who articulates thoughts logically leaves a stronger impression than one who merely lists qualifications. In addition, good communication enriches personal relationships, helping students voice their emotions and resolve conflicts with empathy. Such emotional connection is essential for a healthy campus life.In conclusion, effective communication benefits students in study, career and daily life alike. Schools should therefore create more opportunities—debates, presentations and teamwork—so that every student can grow into a confident and articulate communicator."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A driving test."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A video game."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Traffic routes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cargo logistics."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He found it instructive and realistic."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He bought it when touring Europe."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was really drawn to its other versions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He introduced it to his brother last year."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Traveling all over the country."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Driving from one city to another."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The details in the driving simulator."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The key role of the logistics industry."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Clearer road signs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More people driving safely."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Stricter traffic rules."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More self-driving trucks on the road.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: This is unbelievable. Unlike any video game I've ever played before, it's so boring, yet so relaxing at the same time. How did you hear about this driving simulator?",
+                "zh": "W：这真是难以置信。它和我以前玩过的任何电子游戏都不一样，既无聊，却又让人感到放松。你是怎么听说这个驾驶模拟器的？"
+              },
+              {
+                "en": "M: My brother introduced it to me last year. I was surprised to find how educational and realistic it was. It's called Euro Truck Simulator, but they have other versions as well for America and so on. I was really drawn to the scenery. The routes go through parts of the country you don't normally see as a tourist.",
+                "zh": "M：我哥哥去年介绍给我的。我很惊讶地发现它既有教育意义，又非常逼真。它叫《欧洲卡车模拟》，不过他们也有美国版之类的其他版本。我真的很喜欢里面的风景。路线会经过一些游客通常不会去的地方。"
+              },
+              {
+                "en": "W: Yeah, I can see that. It seems so simple, just transporting cargo from point A to point B, driving from one city to another. But I really appreciate all the details that go into the game. It's even given me a new appreciation for the logistics industry and traffic on the road.",
+                "zh": "W：是啊，我能看出来。它看起来很简单，就是把货物从A点运到B点，从一个城市开到另一个城市。但我真的很欣赏这款游戏中的各种细节。它甚至让我开始更加了解物流行业以及道路上的交通状况。"
+              },
+              {
+                "en": "M: I completely agree. My brother also introduced me to some videos of someone that streams their game online. It was fascinating to watch, really. This guy drove very carefully, obeyed all the road signs and traffic rules—such a contrast to most violent games.",
+                "zh": "M：我完全同意。我哥哥还给我介绍了一些视频，视频里有人在网上直播玩这个游戏。看起来真的很有意思。那个人开车非常小心，遵守所有道路标志和交通规则，这和大多数暴力游戏形成了鲜明对比。"
+              },
+              {
+                "en": "W: Honestly, playing has inspired me to look into the industry more. I've read articles about how self-driving trucks may soon be available and could greatly impact cargo logistics. Considering all that goes into driving these larger vehicles, it's amazing that we could soon have that kind of technology.",
+                "zh": "W：说实话，玩这个游戏让我产生了进一步了解这个行业的想法。我读过一些文章，说自动驾驶卡车可能很快就会投入使用，并可能对货物运输产生重大影响。考虑到驾驶这些大型车辆需要处理的各种情况，我们很快就能拥有那样的技术，真是令人惊叹。"
+              },
+              {
+                "en": "M: Ha. I've got one step further. I registered to take a safe driving course to improve my real-life driving skills. In a way, I feel like I have a head start compared to other students in the class. Playing this video game has given me some maneuvering practices already.",
+                "zh": "M：哈，我还更进一步。我报名参加了安全驾驶课程，想提高自己在现实生活中的驾驶技能。在某种程度上，我觉得与班上的其他学员相比，自己已经领先了一步。玩这款电子游戏已经让我练习了一些操控技巧。"
+              },
+              {
+                "en": "W: I'm not sure how accurate the video game is compared to real-life situations. But if it results in more drivers looking both ways before entering an intersection, I'd say that's a positive outcome.",
+                "zh": "W：我不确定这款电子游戏与现实情况相比有多准确。但如果它能让更多司机在驶入十字路口前先左右观察，我会说这是一种积极的结果。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It isn't so enjoyable as he expected."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It isn't so motivating as he believed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It doesn't enable him to earn as much money as he used to."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It doesn't seem to offer as much freedom as he anticipated."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Not all of them care about their employees' behaviors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Few of them are aware of their employees' feelings."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Few of them offer praise and reward to their employees."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Not all of them know how to motivate their employees."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Job satisfaction."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Self-awareness."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Autonomy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Money."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The importance of cultivating close relationships with clients."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The need for getting recommendations from their managers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The advantages of permanent full-time employment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The way to explore employees' interests and talents."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: How do you like being self-employed?",
+                "zh": "W: 你喜欢做个体经营者吗？"
+              },
+              {
+                "en": "M: There are obvious benefits, though I don't seem to have the freedom I anticipated as I just don't seem able to decline work offers. And working alone, there have been times when I've found that money alone provides insufficient motivation. Have you experienced the same since you began working for yourself?",
+                "zh": "M: 这当然有明显的好处，不过我好像没有获得原本预想的自由，因为我似乎根本没法拒绝工作机会。而且一个人工作时，我有时会发现，光靠钱并不足以提供动力。自从你开始为自己工作以来，你也有过同样的经历吗？"
+              },
+              {
+                "en": "W: Sometimes, yes. Unlike the rest of the workforce who have managers to prompt motivation whenever they're feeling lazy or bored, we self-employed workers perform our jobs without a manager to lift our spirits. There's no one around to offer praise or initiate collaboration, no one to make greater use of our interests and talents.",
+                "zh": "W: 有时候，是的。其他劳动者懒散或感到无聊时，会有经理来督促他们、激发他们的动力；而我们这些个体经营者没有经理来鼓舞士气，只能独自完成工作。身边没有人给予表扬或发起合作，也没有人更充分地利用我们的兴趣和才能。"
+              },
+              {
+                "en": "M: That's a fact. Not every manager behaves with such awareness and care, of course. And certainly not all managers have a clue how to motivate people. Still, having a manager nearby at least indicates there's an opportunity they'll be decent enough to look out for you when your energy and focus begin to deplete.",
+                "zh": "M: 确实如此。当然，并不是每个经理都能如此体察下属、如此体贴。而且，肯定也不是所有经理都知道该如何激励员工。不过，身边有个经理，至少说明当你的精力和注意力开始消耗殆尽时，对方有可能足够体面，愿意照顾你。"
+              },
+              {
+                "en": "W: The motivator I value most is autonomy. I've learned not to sacrifice my prized autonomy by working all hours of the day and by saying yes to every client request.",
+                "zh": "W: 我最看重的激励因素是自主性。我已经学会了不为了整天工作、也不为了答应客户的每一个要求，而牺牲自己珍视的自主权。"
+              },
+              {
+                "en": "M: Yes. I need to remind myself that I selected this lifestyle for the independence. I don't miss aspects of permanent full-time employment I disliked, such as the office politics, job insecurity, inflexible hours and so on. I wouldn't mind a bit more in the form of praise though, praise which is on the record.",
+                "zh": "M: 是的。我需要提醒自己，我选择这种生活方式就是为了独立。我并不怀念那些我不喜欢的全职长期雇佣工作的方面，比如办公室政治、工作不稳定、工作时间不灵活等等。不过，如果能多得到一些表扬，我倒不会介意，尤其是正式记录在案的表扬。"
+              },
+              {
+                "en": "W: That'll come with time. Relatedness is inevitably cultivated via human interaction. Engaging with clients, getting written testimony and recommendations, staying in contact with clients afterwards, these are things you'll find will come in due course and provide you with motivation.",
+                "zh": "W: 这会随着时间而来。人与人之间的互动必然会培养关系联结感。与客户交流、获得书面证明和推荐、之后继续与客户保持联系，这些事情你会发现都会逐渐出现，并为你提供动力。"
+              },
+              {
+                "en": "M: You're right. That's an area I do need to put some more effort into—building closer relationships with those who engage my services and skills.",
+                "zh": "M: 你说得对。这方面我确实需要多下些功夫，也就是和那些聘用我的服务和技能的人建立更亲密的关系。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Consumers visualize their activities in different weather."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Good weather triggers consumers' desire to go shopping."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Weather conditions influence consumers' buying behavior."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Consumers' mental states change with the prices of goods."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Active consumption."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Direct correlation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Individual association."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Mental visualization."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Enabling them to simplify their mathematical formulas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Helping them determine what to sell and at what price."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enabling them to sell their products at a higher price."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Helping them advertise a greater variety of products.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Weather is a constant force in our lives, but there is little marketing research on how it affects businesses. Now, a new study reveals how sunny and snowy conditions influence consumer behavior.",
+                "zh": "天气是我们生活中持续存在的一股力量，但关于天气如何影响企业的营销研究却很少。如今，一项新研究揭示了晴朗和下雪的天气状况如何影响消费者行为。"
+              },
+              {
+                "en": "Those weather conditions trigger consumers to mentally visualize using products associated with the respective weather. This leads to consumers placing a higher value on those products. That is, they're willing to pay more money for them. But the correlation is only found with products related to being outside.",
+                "zh": "这些天气状况会促使消费者在脑海中想象使用与相应天气相关的产品。这会使消费者更加看重这些产品。也就是说，他们愿意为这些产品支付更多的钱。但这种相关性仅存在于与户外活动有关的产品中。"
+              },
+              {
+                "en": "How does this work? Researchers give the example of a beach towel. On a sunny day, consumers who see that product are not just looking at the towel itself, they are likely imagining themselves lying on the towel in the sun. This mental picture of using the towel increases the value of the product in the consumers' mind.",
+                "zh": "这是如何起作用的呢？研究人员以沙滩巾为例。在晴天，看到这件产品的消费者不只是看着沙滩巾本身，他们很可能会想象自己躺在阳光下的沙滩巾上。这样一幅使用沙滩巾的心理画面，会提高消费者心目中这件产品的价值。"
+              },
+              {
+                "en": "Researchers put forward the following hypothesis to explain their findings. They think the mental picture works in sunshine and snow because these weather conditions have a positive association with outside activities. The effect is not seen with rainy weather. Researchers assert this is because there aren't many activities that are enabled by rain. Most products associated with rain, like umbrellas, are only used for protection from the weather, and not for any activities.",
+                "zh": "研究人员提出了以下假设来解释他们的发现。他们认为，阳光和雪天之所以会产生这种心理画面，是因为这些天气状况与户外活动之间存在积极联系。下雨天气则不会产生这种影响。研究人员认为，这是因为雨天能开展的活动并不多。大多数与下雨有关的产品，如雨伞，都只是用来抵御天气影响，而不是用于进行任何活动。"
+              },
+              {
+                "en": "Researchers believe that companies that sell a wide array of products online can benefit most from the insights this study provides. Online sellers often use complex mathematical formulas to determine what products to feature and how to price these products. Incorporating more data about weather would allow them to make better decisions. This could bolster sales.",
+                "zh": "研究人员认为，在线销售种类繁多产品的公司最能从这项研究提供的洞见中受益。在线卖家通常会使用复杂的数学公式来确定重点展示哪些产品以及如何为这些产品定价。纳入更多有关天气的数据，将使他们能够作出更好的决策。这可能会促进销售。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A naturally ventilated office is more comfortable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A cool office will boost employees' productivity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Office air-conditioning should follow guidebooks."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Air-conditioning improves ventilation in the office."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People in their comfort zone of temperature are more satisfied with their productivity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People in different countries vary in their tolerance to uncomfortable temperatures."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Twenty-two degrees is the optimal temperature for office workers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "There is a range of temperatures for people to feel comfortable."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It will have no negative impact on work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will be immediately noticeable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It will sharply decrease work efficiency."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It will cause a lot of discomfort."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They tend to favor lower temperatures."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They suffer from rapid temperature changes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are not bothered by temperature extremes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They become less sensitive to high temperatures."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Setting the office air-conditioning at about 22℃ has become standard practice across the world. Numerous guidebooks across the world on heating, ventilation and air-conditioning claim office performance peaks at 22 degrees. Many people indeed find relief from soaring summer temperatures in air-conditioned offices. But recent studies have challenged the accepted wisdom that a cool office is more productive.",
+                "zh": "将办公室空调设定在约22摄氏度，已成为世界各地的惯例。世界各地众多有关供暖、通风和空调的指南都声称，办公室工作效率在22摄氏度时达到最高。事实上，许多人确实能在装有空调的办公室里缓解夏季高温带来的不适。然而，近期研究对“凉爽的办公室能提高工作效率”这一公认观点提出了质疑。"
+              },
+              {
+                "en": "The reality is more complex. Researchers conducted a review of all studies relating to air-conditioning and productivity. They found that 22 degrees was probably a little chilly, even at the height of summer. For a person dressed in typical summer clothing, an optimal range would be between 23 and 26 degrees. And people can even tolerate temperatures beyond this comfort zone as long as they can adjust their clothing and expectations. In fact, even on very hot days, it makes sense to turn the air-conditioning up. People often chase just one optimum temperature, and this is understandable when people feel hot. But there is a range of at least three to four degrees which does not have any adverse impact.",
+                "zh": "实际情况更加复杂。研究人员对所有涉及空调与工作效率的研究进行了综述。他们发现，即使在盛夏，22摄氏度可能也有些凉。对于穿着典型夏装的人来说，最佳温度范围应在23至26摄氏度之间。只要人们能够调整衣着和心理预期，他们甚至可以忍受超过这一舒适区的温度。事实上，即使在非常炎热的日子里，把空调温度调高也是合理的。人们往往只追求一个最佳温度，当人感到炎热时，这种做法是可以理解的。但实际上，存在一个至少三到四摄氏度的温度范围，在这个范围内，工作效率不会受到任何不利影响。"
+              },
+              {
+                "en": "Another issue related to this is that people can become psychologically dependent on air conditioning. If they're used to the environment which is air-conditioned, they tend to prefer lower temperatures. But the studies found that almost all humans became accustomed to the new temperature. It was only at the extreme ends of the temperature range where people's productivity suffered. This range was above 26 degrees and below 19 degrees.",
+                "zh": "与此相关的另一个问题是，人们可能会在心理上依赖空调。如果人们习惯了有空调的环境，就会倾向于偏好较低的温度。但研究发现，几乎所有人都能适应新的温度。只有在温度范围的两端，也就是高于26摄氏度或低于19摄氏度时，人们的工作效率才会受到影响。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It overlooked the possibility that emotions may be controlled."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It ignored the fact that emotions are personal and subjective."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It classified emotions simply as either positive or negative."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It measured positive and negative emotions independently."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Sitting alone without doing anything seemed really distressing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Solitude adversely affected the participants' mental well-being."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Sitting alone for 15 minutes made the participants restless."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Solitude had a reductive effect on high-arousal emotions."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It proved hard to depict objectively."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It went hand in hand with sadness."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It helped increase low-arousal emotions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It tended to intensify negative emotions.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Psychology research has tended to portray solitude as a negative experience. Studies conducted in the 1970s and 1990s suggested that people felt less happy when alone as compared to being with others. However, a new paper shows an alternative view of solitude, one in which solitude can be positive.",
+                "zh": "心理学研究往往将独处描绘成一种负面体验。20世纪70年代和90年代开展的研究表明，与和他人在一起相比，人们独处时感到不那么快乐。然而，一篇新的论文展现了关于独处的另一种观点，认为独处也可以是积极的。"
+              },
+              {
+                "en": "Let's start by looking at the earlier research. It had a couple of shortcomings. First, it measured emotion on a scale from positive to negative, overlooking the possibility that our positive and negative emotions can fluctuate independently. Also, it categorized emotions as simply positive or negative. It didn't consider that emotions arouse us to different degrees, and that both positive and negative emotions can arouse us a lot or a little. That is, whether positive or negative, emotions can be either high-arousal or low-arousal. High-arousal emotions include excitement on the positive side or anger on the negative side, while low-arousal ones include feeling calm on the positive side or lonely on the negative.",
+                "zh": "我们先来看看早期的研究。这些研究存在几个缺陷。首先，它们用从积极到消极的尺度来衡量情绪，忽视了积极情绪和消极情绪可能各自独立波动的可能性。此外，它们只是将情绪归类为积极或消极，没有考虑到情绪会以不同程度唤起我们，而且积极情绪和消极情绪都可能具有较高或较低的唤起程度。也就是说，无论是积极情绪还是消极情绪，都可能属于高唤起或低唤起情绪。高唤起情绪包括积极方面的兴奋，也包括消极方面的愤怒；低唤起情绪则包括积极方面的平静感，也包括消极方面的孤独感。"
+              },
+              {
+                "en": "This new research attempted to overcome these shortcomings. Researchers began with a simple study. They asked participants to spend 15 minutes sitting alone without engaging in any activity, and measured how this solitude influences their emotional state. This experiment specifically aimed to determine the effect of solitude on high-arousal emotions. It looked at positive emotions such as being excited or interested, and negative emotions including being scared or distressed. The results were clear. After 15 minutes of solitude, the participants showed reductions in both types of emotion.",
+                "zh": "这项新研究试图克服这些缺陷。研究人员首先进行了一项简单的研究。他们要求参与者独自坐着15分钟，不从事任何活动，并测量独处如何影响他们的情绪状态。这项实验旨在确定独处对高唤起情绪的影响。研究考察了兴奋或感兴趣等积极情绪，也考察了害怕或痛苦等消极情绪。结果很明确。独处15分钟后，参与者的这两类情绪都有所减弱。"
+              },
+              {
+                "en": "A second study measured the effects of solitude on low-arousal emotions. These included both positive and negative emotions, such as feeling calm, relaxed, sad or lonely. That experiment found that all of these emotions were increased by time alone. Thus it seems past depictions of solitude were wrong. It doesn't have a simple emotional effect that can be characterized as good or bad. Rather, it changes the intensity of our inner experience. It amplifies quieter emotions, but it diminishes the intensity of stronger feelings.",
+                "zh": "第二项研究测量了独处对低唤起情绪的影响。这些情绪既包括积极情绪，也包括消极情绪，例如平静、放松、悲伤或孤独感。实验发现，独处时间的增加使所有这些情绪都增强了。因此，过去对独处的描述似乎是错误的。独处并不会产生一种可以简单归为好或坏的情绪影响。相反，它会改变我们内在体验的强度。它会放大较为微弱的情绪，却会减弱较强烈感受的强度。"
+              },
+              {
+                "en": "It's worth clarifying that these findings relate to relatively brief periods of solitude. This is distinct from prolonged loneliness. Research has demonstrated that the latter is correlated with an assortment of negative physical and psychological effects. How can people benefit from being alone? The findings here suggest that people can use solitude to regulate their emotions. Solitude can help us become quiet after excitement, calm after an angry episode, or simply feel at peace.",
+                "zh": "需要明确的是，这些发现与相对较短时间的独处有关。这不同于长期的孤独。研究表明，后者与一系列负面的生理和心理影响相关。人们如何从独处中受益？这里的研究结果表明，人们可以利用独处来调节情绪。独处可以帮助我们在兴奋之后安静下来，在愤怒发作之后平静下来，或者仅仅让我们感到内心平和。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It uses up much less energy than it does in deep thinking."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It remains inactive without burning calories noticeably."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It continues to burn up calories to help us stay in shape."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It consumes almost a quarter of the body's total energy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Much of the consumption has nothing to do with conscious activities."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has something to do with the difficulty of the activities in question."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Energy usage devoted to active learning accounts for a big part of it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A significant amount of it is for performing difficult cognitive tasks."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is believed to remain basically constant."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a prerequisite for any mental activity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is conducive to relieving mental exhaustion."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is thought to be related to food consumption.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In 1984, the World Chess Championship was called off abruptly, due to the withered frame of a player who was competing for the title. He wasn't alone in experiencing the extreme physical effects of the game. Elite players can reportedly burn up to an absurd 6,000 calories in one day. Does that mean that thinking harder is a simple route to losing weight?",
+                "zh": "1984年，世界国际象棋锦标赛因一名争夺冠军的棋手身体日渐消瘦而被突然叫停。他并不是唯一一个在这项运动中经历极端身体影响的人。据报道，顶尖棋手一天最多可以燃烧多达荒谬的6000卡路里。这是否意味着，更加努力地思考就是一条简单的减肥途径？"
+              },
+              {
+                "en": "Well, when the body is at rest, we know that the brain uses up a startling 20% to 25% of the body's overall energy. This level of utilization actually makes the brain the most energy-expensive organ in the body, and yet it makes up only 2% of the body's weight overall.",
+                "zh": "那么，当身体处于静息状态时，我们知道大脑会消耗全身总能量的惊人20%至25%。这种程度的能量利用实际上使大脑成为人体中能量消耗最高的器官，然而它的重量却只占人体总重量的2%。"
+              },
+              {
+                "en": "So the more we put this organ to work, the more calories we'll burn? Technically, the answer is yes, for cognitively difficult tasks. What counts as a \"difficult\" mental task varies between individuals. But generally, it could be described as something that the brain cannot solve easily using previously learned routines, or tasks that change the conditions continuously.",
+                "zh": "所以，我们越让这个器官运转，就会燃烧越多卡路里吗？严格来说，对于认知难度较高的任务，答案是肯定的。对不同的人而言，什么算是“困难”的脑力任务各不相同。但通常可以将其描述为：大脑无法利用此前学会的惯常方法轻易解决的事情，或者条件持续发生变化的任务。"
+              },
+              {
+                "en": "However, deep thinking will not burn off the calories gained from eating a sugary snack. Because in relation to the brain's huge overall energy usage, which is devoted to a multitude of tasks, the energy required just to think harder is actually comparatively tiny. We're unconscious of most of what uses up the brain's energy. A lot of that activity is unrelated to conscious activities like learning how to sing or play the guitar.",
+                "zh": "然而，深度思考并不能消耗掉吃甜食所摄入的卡路里。因为相对于大脑用于完成大量任务的巨大总体能量消耗而言，仅仅为了更加努力地思考所需的能量实际上微乎其微。我们没有意识到大脑的大部分能量究竟消耗在了什么地方。其中许多活动都与学习唱歌或弹吉他这类有意识的活动无关。"
+              },
+              {
+                "en": "The brain is able to allocate blood (and thus energy) to particular regions that are being active at that point. But the overall energy availability in the brain is thought to be constant. So, while there might be significant increases in energy use at localized regions of the brain when we perform difficult cognitive tasks, when it comes to the whole brain's energy budget overall, these activities don't significantly alter it.",
+                "zh": "大脑能够将血液（因而也包括能量）分配到当时正在活动的特定区域。不过，人们认为大脑整体可利用的能量是恒定的。因此，当我们执行困难的认知任务时，大脑局部区域的能量使用量可能会显著增加，但就整个大脑的总体能量预算而言，这些活动并不会对其产生显著影响。"
+              },
+              {
+                "en": "So, why did the chess champion grow too skinny to compete in his chess competition? The general consensus is that it mostly comes down to stress and reduced food consumption, not mental exhaustion. Keeping your body pumped up for action for long periods of time is very energy demanding. If you can't eat as often or as much as you can or would normally—then you might lose weight.",
+                "zh": "那么，为什么那位国际象棋冠军会瘦到无法参加他的国际象棋比赛呢？普遍的共识是，这主要归因于压力和食物摄入量减少，而不是精神疲劳。长时间让身体保持随时行动的状态会消耗大量能量。如果你无法像平时那样频繁进食，或者无法吃下平时那么多食物，那么你可能会体重下降。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Job candidates rarely take it seriously."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Job seekers tend to have a ready answer."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Job seekers often feel at a loss where to start in answering it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Job candidates can respond freely due to its open-ended nature."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Follow their career coaches' guidelines."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Strive to take control of their narrative."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Do their best to impress the interviewer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Repeat the information on their resume."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To reflect on their past achievements as well as failures."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To produce examples for different interview questions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To discuss important details they are going to present."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To identify a broad general strength to elaborate on."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Getting acquainted with the human resources personnel."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Finding out why the company provides the job opening."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Figuring out what benefits the company is able to offer them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Tailoring their expectations to the company's long-term goal."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "\"Tell me about yourself\" may seem like an easy job interview question, but the open-ended nature of this question often leaves job seekers at a loss where to start. This common question is actually a critical test of a job candidate's communication skills, so it's important not to give an unprepared response or mess it up. \"Tell me about yourself\" is often the first question professional career coaches prepare people for when they give interview guidance. It's the opportunity for the candidate to take control of the narrative and tell their story in a way that really matters to their audience. It takes hard work and extensive preparation to answer this question well.",
+                "zh": "“介绍一下你自己”似乎是一个简单的面试问题，但这个问题的开放性往往让求职者不知从何说起。这个常见问题实际上是对求职者沟通能力的一项重要考验，因此不要毫无准备地作答或把事情搞砸，这一点很重要。“介绍一下你自己”通常是专业职业教练在提供面试指导时，首先帮助人们准备的问题。这是求职者掌控叙述、以一种真正对听众有意义的方式讲述自己经历的机会。要很好地回答这个问题，需要付出艰苦努力并进行充分准备。"
+              },
+              {
+                "en": "When a person goes to a job interview, their interviewer has presumably read their résumé, so they don't need to repeat the information. But that's what most people will do, as it's their instinct to recite things that are already on their résumé. It's important for job seekers to do their homework on two crucial aspects.",
+                "zh": "一个人去参加求职面试时，面试官大概已经读过他的简历，因此他不需要重复其中的信息。但大多数人都会这样做，因为他们本能地会复述简历上已经写有的内容。求职者有必要在两个关键方面做好准备。"
+              },
+              {
+                "en": "First, they are not just telling someone a fact about themselves. They're telling a story, and stories take work to create. Coming up with a good story means getting reflective about what made their career accomplishments something they're proud of and what strengths those accomplishments highlight. Candidates shouldn't pick a broad general strength to elaborate on, such as \"I'm smart, I work hard and I get things done.\" To come up with multiple career accomplishments or examples for different interview questions, job seekers should talk with others, especially people who know them, partners, friends or co-workers who will bring up different stories than the ones they remember.",
+                "zh": "首先，他们并不只是在告诉别人一个关于自己的事实，而是在讲述一个故事，而故事需要花费心力来构思。想出一个好故事，意味着要反思：是什么让他们的职业成就成为令自己感到自豪的事情，以及这些成就凸显了哪些优势。求职者不应挑选一个宽泛的、笼统的优势来展开，例如“我很聪明，我工作努力，而且我能把事情办成”。为了针对不同的面试问题想出多个职业成就或事例，求职者应该与他人交谈，尤其是那些了解自己的人、伴侣、朋友或同事，因为他们会提起一些与求职者记得的不同的故事。"
+              },
+              {
+                "en": "Secondly, candidates should know what's at stake for the company with this job opening. What they really are asking you is \"Tell me why you are going to help me.\" If the person is a prepared candidate, they should have already figured out those things. They've read the job description and researched the company on the Internet. What job applicants ought to be looking for is what the company is up to, what they are trying to accomplish and what is preventing them from accomplishing those things.",
+                "zh": "其次，求职者应该了解公司在招聘这个职位时所面临的利害关系。公司真正想问的是：“告诉我，你为什么能帮助我。”如果求职者准备充分，就应该已经弄清楚这些问题。他们读过职位描述，也在互联网上研究过这家公司。求职者应该关注的是：公司正在做什么、试图实现什么，以及是什么阻碍了他们实现这些目标。"
+              },
+              {
+                "en": "How long should it take to answer? Around a minute. That's about right for most people's attention spans. Under a minute could seem rushed, while over two minutes will start to feel more like a speech. But the length of the answer is not an exact science, and candidates need to keep their career story focused and tailored to their audience.",
+                "zh": "回答需要多长时间？大约一分钟。对于大多数人的注意力持续时间来说，这个时长比较合适。不到一分钟可能会显得过于仓促，而超过两分钟就会开始更像是在演讲。但答案的长度并没有绝对标准，求职者需要让自己的职业经历叙述保持重点突出，并根据听众进行调整。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Virtually every activity that entails or facilitates in-person human interaction seems to be in the midst of a total meltdown as the coronavirus(冠状病毒) outbreak erases Americans' desire to travel. Amtrak says bookings are down 50 percent and cancelations are up 300 percent. Hotels in San Francisco are experiencing"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "rates between 70 and 80 percent. Broadway goes dark on Thursday night. Universities, now emptying their campuses, have never tried online learning on this"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". White-collar companies like Amazon, Apple, and the New York Times are asking employees to work from home for the"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "future. But what happens after the coronavirus? In some ways, the answer is: All the old normal stuff. The pandemic(大流行病) will take lives,"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "economies and destroy routines, but it will pass. Americans will never stop going to basketball games. They won't stop going on vacation. They'll meet to do business. No decentralizing technology so far—not telephones, not television, and not the internet—has dented that human desire to shake hands, despite technologists'"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "to the contrary. Yet there are real reasons to think that things will not return to the way they were last week. Small"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "create small societal shifts; big ones change things for good. The New York transit strike of 1980 is"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "with prompting several long-term changes in the city, including bus and bike lanes, and women wearing sports shoes to work. The Spanish flu pandemic of 1918 prompted the development of national health care in Europe. Here and now, this might not even be a question of"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ". It's not clear that the cruise industry will"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ". Or that public transit won't go broke without"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "assistance. The infrastructure might not even be in place to do what we were doing in 2019."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "credentials"
+        },
+        {
+          "l": "B",
+          "w": "credited"
+        },
+        {
+          "l": "C",
+          "w": "cumulative"
+        },
+        {
+          "l": "D",
+          "w": "disruptions"
+        },
+        {
+          "l": "E",
+          "w": "federal"
+        },
+        {
+          "l": "F",
+          "w": "foreseeable"
+        },
+        {
+          "l": "G",
+          "w": "predictions"
+        },
+        {
+          "l": "H",
+          "w": "preference"
+        },
+        {
+          "l": "I",
+          "w": "scale"
+        },
+        {
+          "l": "J",
+          "w": "strangle"
+        },
+        {
+          "l": "K",
+          "w": "subtle"
+        },
+        {
+          "l": "L",
+          "w": "summoned"
+        },
+        {
+          "l": "M",
+          "w": "survive"
+        },
+        {
+          "l": "N",
+          "w": "vacancy"
+        },
+        {
+          "l": "O",
+          "w": "wedge"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "N"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "J"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "D"
+        },
+        {
+          "n": 32,
+          "a": "B"
+        },
+        {
+          "n": 33,
+          "a": "H"
+        },
+        {
+          "n": 34,
+          "a": "M"
+        },
+        {
+          "n": 35,
+          "a": "E"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Slow Hope",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Our world is full of—mostly untold—stories of slow hope, driven by the idea that change is possible. They are 'slow' in their unfolding, and they are slow because they come with setbacks."
+        },
+        {
+          "l": "B",
+          "t": "At the beginning of time—so goes the myth—humans suffered, shivering in the cold and dark until the titan(巨人) Prometheus stole fire from the gods. Just as in the myth, technology—first fire and stone tools, and later farming, the steam engine and industry, fossil fuels, chemicals and nuclear power—has allowed us to alter and control the natural world. The myth also reminds us that these advances have come at a price: as a punishment for Prometheus' crime, the gods created Pandora, and they gave her a box filled with evils and curses. When Pandora's box was opened, it unleashed swarms of diseases and disasters upon humankind."
+        },
+        {
+          "l": "C",
+          "t": "Today we can no longer ignore the ecological curses that we have released in our search for warmth and comfort. In engineering and exploiting and transforming our habitat, we have opened tens of thousands of Pandora's boxes. In recent decades, environmental threats have expanded beyond regional boundaries to have global reach and, most hauntingly, are multiplying at a dizzying rate. On a regular basis, we are reminded that we are running out of time. Year after year, faster and faster, consumption outpaces the biological capacity of our planet. Stories of accelerated catastrophe multiply. We fear the breakdown of the electric grid, the end of non-renewable resources, the expansion of deserts, the loss of islands, and the pollution of our air and water."
+        },
+        {
+          "l": "D",
+          "t": "Acceleration is the signature of our time. Populations and economic activity grew slowly for much of human history. For thousands of years and well into early modern times, world economies saw no growth at all, but from around the mid-19th century and again, in particular, since the mid-20th, the real GDP has increased at an enormous speed, and so has human consumption. In the Middle Ages, households in Central Europe might have owned fewer than 30 objects on average; in 1900, this number had increased to 400, and in 2020 to 15,000. The acceleration of human production, consumption and travel has changed the animate and inanimate spheres. It has echoed through natural processes on which humans depend. Species extinction, deforestation, damming of rivers, occurrence of floods, the depletion of ozone, the degradation of ocean systems and many other areas are all experiencing acceleration. If represented graphically, the curve for all these changes looks rather like that well-known hockey stick: with little change over millennia(数千年) and a dramatic upswing over the past decades."
+        },
+        {
+          "l": "E",
+          "t": "Some of today's narratives about the future seem to suggest that we too, like Prometheus, will be saved by a new Hercules, a divine engineer, someone who will mastermind, manoeuvre and manipulate our planet. They suggest that geoengineering, cold fusion or faster-than-light spaceships might transcend once and for all the terrestrial constraints of rising temperatures, lack of energy, scarcity of food, lack of space, mountains of waste, polluted water—you name it."
+        },
+        {
+          "l": "F",
+          "t": "Yet, if we envisage our salvation to come from a deus ex machina(解围之神), from a divine engineer or a tech solutionist who will miraculously conjure up a new source of energy or another cure-all with revolutionary potency, we might be looking in the wrong place. The fact that we now imagine our planet as a whole does not mean that the 'rescue' of our planet will come with one big global stroke of genius and technology. It will more likely come by many small acts. Global heating and environmental degradation are not technological problems. They are highly political issues that are informed by powerful interests. Moreover, if history is a guide, then we can assume that any major transformations will once again be followed by a huge set of unintended consequences. So what do we do?"
+        },
+        {
+          "l": "G",
+          "t": "This much is clear: we need to find ways that help us flatten the hockey-stick curves that reflect our ever- faster pace of ecological destruction and social acceleration. If we acknowledge that human manipulation of the Earth has been a destructive force, we can also imagine that human endeavours can help us build a less destructive world in the centuries to come. We might keep making mistakes. But we will also keep learning from our mistakes."
+        },
+        {
+          "l": "H",
+          "t": "To counter the fears of disaster, we need to identify stories, visions and actions that work quietly towards a more hopeful future. Instead of one big narrative, a story of unexpected rescue by a larger-than-life hero, we need multiple stories: we need stories, not only of what Rob Nixon of Princeton University has called the 'slow violence' of environmental degradation (that is, the damage that is often invisible at first and develops slowly and gradually), but also stories of what I call 'slow hope'."
+        },
+        {
+          "l": "I",
+          "t": "We need an acknowledgement of our present ecological plight but also a language of positive change, visions of a better future. In The Principle of Hope (1954-1959), Ernst Bloch, one of the leading philosophers of the future, wrote that 'the most tragic form of loss…is the loss of the capacity to imagine that things could be different'. We need to identify visions and paths that will help us imagine a different, more just and more ecological world. Hope, for Bloch, has its starting point in fear, in uncertainty, and in crisis: it is a creative force that goes hand in hand with utopian(乌托邦的) 'wishful images'. It can be found in cultural products of the past—in fairy tales, in fiction, in architecture, in music, in the movies—in products of the human mind that contain 'the outlines of a better world'. What makes us 'authentic' as humans are visions of our 'potential'. In other words: living in hope makes us human."
+        },
+        {
+          "l": "J",
+          "t": "The power of small, grassroots movements to make changes that spread beyond their place of origin can be seen with the Slow Food movement, which began in Italy in the 1980s. The rise of fast-food restaurants after the Second World War produced a society full of cheap, industrially made foodstuffs. Under the leadership of Carlo Petrini, the Slow Food movement began in Piedmont, a region of Italy with a long history of poverty, violence and resistance to oppression. The movement transformed it into a region hospitable to traditional food cultures—based on native plants and breeds of animals. Today, Slow Food operates in more than 160 countries, poor and rich. It has given rise to thousands of projects around the globe, representing democratic politics, food sovereignty, biodiversity and sustainable agriculture."
+        },
+        {
+          "l": "K",
+          "t": "The unscrupulous(无所顾忌的) commodification of food and the destruction of foodstuffs will continue to devastate soils, livelihoods and ecologies. Slow Food cannot undo the irresistible developments of the global food economy, but it can upset its theorists, it can 'speak differently', and it can allow people and their local food traditions and environments to flourish. Even in the United States—the fast-food nation—small farms and urban gardens are on the rise. The US Department of Agriculture provides an Urban Agriculture Toolkit and, according to a recent report, American millennials(千禧一代) are changing their diets. In 2017, 6 per cent of US consumers claimed to be strictly vegetarian, up from 1 per cent in 2014. As more people realise that 'eating is an agricultural act', as the US poet and environmental activist Wendell Berry put it in 1989, slow hope advances."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It seems some people today dream that a cutting-edge new technology might save them from the present ecological disaster.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "According to one great thinker, it is most unfortunate if we lose the ability to think differently.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "Urgent attention should be paid to the ecological problems we have created in our pursuit of a comfortable life.",
+          "a": "C"
+        },
+        {
+          "n": 39,
+          "s": "Even in the fast-food nation America, the number of vegetarians is on the rise.",
+          "a": "K"
+        },
+        {
+          "n": 40,
+          "s": "The deterioration of the ecological system is accelerating because of the dramatic increase of human production and consumption.",
+          "a": "D"
+        },
+        {
+          "n": 41,
+          "s": "It is obvious that solutions must be found to curb the fast worsening environment and social acceleration.",
+          "a": "G"
+        },
+        {
+          "n": 42,
+          "s": "Many people believe changing the world is possible, though it may take time and involve setbacks.",
+          "a": "A"
+        },
+        {
+          "n": 43,
+          "s": "It might be wrong to expect that our world would be saved at one stroke with some miraculous technology.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "It is human nature to cherish hopes for a better world.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "Technology has given us humans the power to change the natural world, but we have paid a price for the change.",
+          "a": "B"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Vegetarians would prefer not to be compelled to eat meat. Yet the reverse compulsion(强迫) is hidden in the proposals for a new plant-based \"planetary diet.\" Nowhere is this more visible than in India. Earlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for \"substantially reducing consumption of animal source foods.\" In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations. The EAT report presumes that \"traditional diets\" in countries like India include little red meat, which might be consumed only on special occasions or as minor ingredients in mixed dishes. In India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, religion, culture, cost, geography, etc. Policymakers in India have traditionally pushed for a cereal-heavy \"vegetarian diet\" on a meat-eating population as a way of providing the cheapest sources of food. Currently, under an aggressive Hindu nationalist government, Muslims, Christians, disadvantaged classes and indigenous communities are being compelled to give up their traditional foods. None of these concerns seem to have been appreciated by the EAT-Lancet Commission's representative, Brent Loken, who said \"India has got such a great example\" in sourcing protein from plants. But how much of a model for the world is India's vegetarianism? In the Global Hunger Index 2019, the country ranks 102nd out of 117. Data from the National Family Health Survey indicate that only 10 percent of infants of 6 to 23 months are adequately fed. Which is why calls for a plant-based diet modeled on India risk offering another whip with which to beat already vulnerable communities in developing countries. A diet directed at the affluent West fails to recognize that in low-income countries undernourished children are known to benefit from the consumption of milk and other animal source foods, improving cognitive functions, while reducing the prevalence of nutritional deficiencies as well as mortality. EAT-Lancet claimed its intention was to \"spark conversations\" among all Indian stakeholders. Yet vocal critics of the food processing industry and food fortification strategies have been left out of the debate. But the most conspicuous omission may well be the absence of India's farmers. The government, however, seems to have given the report a thumbs-up. Rather than addressing chronic hunger and malnutrition through an improved access to wholesome and nutrient-dense foods, the government is opening the door for company-dependent solutions, ignoring the environmental and economic cost, which will destroy local food systems. It's a model full of danger for future generations.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What is more visible in India than anywhere else according to the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People's positive views on the proposals for a \"planetary diet\"."
+              },
+              {
+                "l": "B",
+                "t": "People's reluctance to be compelled to eat plant-based food."
+              },
+              {
+                "l": "C",
+                "t": "People's preferences for the kind of food they consume."
+              },
+              {
+                "l": "D",
+                "t": "People's unwillingness to give up their eating habits."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What would the EAT-Lancet Commission's report do to many people in countries like India?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Radically change their dietary habits."
+              },
+              {
+                "l": "B",
+                "t": "Keep them further away from politics."
+              },
+              {
+                "l": "C",
+                "t": "Make them even more undernourished."
+              },
+              {
+                "l": "D",
+                "t": "Substantially reduce their food choices."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What do we learn from the passage about food consumption in India?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People's diet will not change due to the EAT-Lancet report."
+              },
+              {
+                "l": "B",
+                "t": "Many people simply do not have access to foods they prefer."
+              },
+              {
+                "l": "C",
+                "t": "There is a growing popularity of a cereal-heavy vegetarian diet."
+              },
+              {
+                "l": "D",
+                "t": "Policymakers help remove the barriers to people's choice of food."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What does the passage say about a plant-based diet modeled on India?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may benefit populations whose traditional diet is meat-based."
+              },
+              {
+                "l": "B",
+                "t": "It may be another blow to the economy in developing countries."
+              },
+              {
+                "l": "C",
+                "t": "It may help narrow the gap between the rich and poor countries."
+              },
+              {
+                "l": "D",
+                "t": "It may worsen the nourishment problem in low-income countries."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "How does the Indian government respond to the EAT-Lancet Commission's proposals?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It accepts them at the expense of the long-term interests of its people."
+              },
+              {
+                "l": "B",
+                "t": "It intends them to spark conversations among all Indian stakeholders."
+              },
+              {
+                "l": "C",
+                "t": "It gives them approval regardless of opposition from nutrition experts."
+              },
+              {
+                "l": "D",
+                "t": "It welcomes them as a tool to address chronic hunger and malnutrition."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Back in 1964, in his book Games People Play, psychiatrist Eric Berne described a pattern of conversation he called \"Why Don't You—Yes But\", which remains one of the most irritating aspects of everyday social life. The person adopting the strategy is usually a chronic complainer. Something is terrible about their relationship, job, or other situation, and they moan about it ceaselessly, but find some excuse to dismiss any solution that's proposed. The reason, of course, is that on some level they don't want a solution; they want to be validated in their position that the world is out to get them. If they can \"win\" the game—dismissing every suggestion until their interlocutor( 对话者) gives up in annoyance—they get to feel pleasurably righteous( 正当的) in their resentments and excused from any obligation to change. Part of the trouble here is the so-called responsibility/fault fallacy(谬误). When you're feeling hard done by —taken for granted by your partner, say, or obliged to work for a half-witted boss—it's easy to become attached to the position that it's not your job to address the matter, and that doing so would be an admission of fault. But there's a confusion here. For example, if I were to discover a newborn at my front door, it wouldn't be my fault, but it most certainly would be my responsibility. There would be choices to make, and no possibility of avoiding them, since trying to ignore the matter would be a choice. The point is that what goes for the baby on the doorstep is true in all cases: even if the other person is 100% in the wrong, there's nothing to be gained, long- term, from using this as a justification to evade responsibility. Should you find yourself on the receiving end of this kind of complaining, there's an ingenious way to shut it down—which is to agree with it, ardently. Psychotherapist Lori Gottlieb describes this as \"over-validation\". For one thing, you'll be spared further moaning, since the other person's motivation was to confirm her beliefs, and now you're confirming them. But for another, as Gottlieb notes, people confronted with over-validation often hear their complaints afresh and start arguing back. The notion that they're utterly powerless suddenly seems unrealistic—not to mention rather annoying—so they're prompted instead to generate ideas about how they might change things. \"And then, sometimes, something magical might happen,\" Gottlieb writes. The other person \"might realise she's not as trapped as you are saying she is, or as she feels.\" Which illustrates the irony of the responsibility/fault fallacy: evading responsibility feels comfortable, but turns out to be a prison; whereas assuming responsibility feels unpleasant, but ends up being freeing.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is characteristic of a chronic complainer, according to psychiatrist Eric Berne?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They only feel angry about their ill treatment and resent whoever tries to help."
+              },
+              {
+                "l": "B",
+                "t": "They are chronically unhappy and ceaselessly find fault with people around them."
+              },
+              {
+                "l": "C",
+                "t": "They constantly dismiss others' proposals while taking no responsibility for tackling the problem."
+              },
+              {
+                "l": "D",
+                "t": "They lack the knowledge and basic skills required for successful conversations with their interlocutors."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What does the author try to illustrate with the example of the newborn on one's doorstep?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People tend to think that one should not be held responsible for others' mistakes."
+              },
+              {
+                "l": "B",
+                "t": "It is easy to become attached to the position of overlooking one's own fault."
+              },
+              {
+                "l": "C",
+                "t": "People are often at a loss when confronted with a number of choices."
+              },
+              {
+                "l": "D",
+                "t": "A distinction should be drawn between responsibility and fault."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What does the author advise people to do to chronic complainers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Stop them from going further by agreeing with them."
+              },
+              {
+                "l": "B",
+                "t": "Listen to their complaints ardently and sympathetically."
+              },
+              {
+                "l": "C",
+                "t": "Ask them to validate their beliefs with further evidence."
+              },
+              {
+                "l": "D",
+                "t": "Persuade them to clarify the confusion they have caused."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What happens when chronic complainers receive over-validation?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are motivated to find ingenious ways to persuade their interlocutor."
+              },
+              {
+                "l": "B",
+                "t": "They are prompted to come up with ideas for making possible changes."
+              },
+              {
+                "l": "C",
+                "t": "They are stimulated to make more complaints."
+              },
+              {
+                "l": "D",
+                "t": "They are encouraged to start arguing back."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "How can one stop being a chronic complainer according to the author?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Analysing the so-called responsibility/fault fallacy."
+              },
+              {
+                "l": "B",
+                "t": "Avoiding hazardous traps in everyday social life."
+              },
+              {
+                "l": "C",
+                "t": "Assuming responsibility to free oneself."
+              },
+              {
+                "l": "D",
+                "t": "Awaiting something magical to happen."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "港珠澳大桥(Hong Kong-Zhuhai-Macau Bridge)全长55公里，是我国一项不同寻常的工程壮举。大桥将三个 城市连接起来，是世界上最长的跨海桥梁和隧道系统。大桥将三个城市之间的旅行时间从3小时缩短到30分 钟。这座跨度巨大的钢筋混凝土大桥充分证明中国有能力建造创纪录的巨型建筑。它将助推区域一体化，促进 经济增长。大桥是中国发展自己的大湾区总体规划的关键。中国希望将大湾区建成在技术创新和经济繁荣上能 与旧金山、纽约和东京的湾区相媲美的地区。",
+    "reference": "The Hong Kong-Zhuhai-Macau Bridge, with a total length of 55 kilometers, is an extraordinary engineering feat in China. It is the longest sea-crossing bridge-and-tunnel system in the world, connecting the three cities. It cuts the travel time between the three cities from three hours to 30 minutes. This massive reinforced concrete bridge fully proves that China is capable of building record-breaking mega-structures. It will boost regional integration and promote economic growth. The bridge is key to China’s master plan to develop its own Greater Bay Area. China hopes to turn the Greater Bay Area into a region that rivals the bay areas of San Francisco, New York and Tokyo in technological innovation and economic prosperity."
+  }
+}

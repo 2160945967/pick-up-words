@@ -1,0 +1,1378 @@
+{
+  "id": "cet6-2025-12-3",
+  "level": "cet6",
+  "year": 2025,
+  "month": 12,
+  "set": 3,
+  "title": "2025年12月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+    "sample": "Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges. This preparation is no longer optional but essential, for those who wait passively will inevitably be left behind.To begin with, students ought to equip themselves with solid knowledge and practical skills rather than merely chasing high marks. For instance, in today's fierce job market, employers value candidates who can communicate, cooperate and solve real problems. What is more, developing a resilient mindset matters just as much. I still remember failing my first internship interview; instead of giving up, I reflected on my weaknesses, practised repeatedly, and finally secured a position the next semester. That experience taught me that challenges are conquered by those who keep improving.Therefore, it is high time that college students stopped drifting and started planning ahead. By strengthening both our abilities and our willpower, we can turn the pressure of competition into a driving force and stride confidently into the future."
+  },
+  "listening": {
+    "audio": "cet6-2025-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has distinguished himself in foreign service."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is his country's ambassador to Winopia."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is currently an electrical engineer."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He craves attention from the media."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A government reshuffle."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A fundamental reform."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some sort of political reorientation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some sort of crisis of legitimacy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All diplomats have more or less similar stories to tell."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a prerequisite to get some practice in diplomacy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Different people can take different paths."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a must to first obtain a law degree."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Key skills required of a diplomat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The making of an expert diplomat."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Diplomatic discourse and rhetoric."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Contributions by diplomatic envoys.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats. Welcome!",
+                "zh": "W: 今天的特别嘉宾是布莱克威尔勋爵，他是我国最具经验、最杰出的职业外交官之一。欢迎您！"
+              },
+              {
+                "en": "M: It's my pleasure.",
+                "zh": "M: 我很荣幸。"
+              },
+              {
+                "en": "W: Our audience will be most interested in learning about a career in the foreign service. However, before we talk about that, I'd like to ask you about the current developments hitting the news today regarding the Republic of Winopia. What can you tell us?",
+                "zh": "W: 我们的听众一定会非常想了解外交部门的职业生涯。不过，在谈这个之前，我想问问您今天新闻中有关Winopia共和国的最新事态发展。您能告诉我们些什么吗？"
+              },
+              {
+                "en": "M: I'm afraid I don't know much beyond what we've all seen on the news. It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy, and an interim administration has been transitionally established until a head of state is agreed on. But my career work has mostly focused around the continental spheres of Europe and the Americas, and thus I've never been involved with Winopian relations. It's for this reason that I don't know anything on this matter beyond what we can all read in the newspapers.",
+                "zh": "M: 恐怕除了我们都在新闻中看到的内容之外，我也不太了解。看起来，Winopia政府似乎正经历某种合法性危机，目前已经临时成立了一个过渡政府，直到各方就国家元首人选达成一致。不过，我的职业生涯主要集中在欧洲和美洲大陆地区，因此从未参与过与Winopia有关的外交事务。正因为如此，关于这件事，除了我们都能在报纸上读到的内容之外，我一无所知。"
+              },
+              {
+                "en": "W: Oh, I see.",
+                "zh": "W: 哦，我明白了。"
+              },
+              {
+                "en": "M: Nevertheless, be rest assured that our expert envoys at our consulate there will be closely monitoring the situation, and I expect our bilateral relations with that country will not be affected.",
+                "zh": "M: 不过请放心，我们驻那里的领事馆中的专家特使会密切关注事态发展，我预计我们与该国的双边关系不会受到影响。"
+              },
+              {
+                "en": "W: So how does one get a career in foreign relations?",
+                "zh": "W: 那么，一个人要怎样才能从事外交事务呢？"
+              },
+              {
+                "en": "M: There are many different paths one can take. All diplomats have their own story. But in my case, I got a degree in electrical engineering followed by six years' service in the air force. Then I went to law school, and upon obtaining a degree in international law, I joined the diplomatic corps where I have been for 22 years.",
+                "zh": "M: 可以选择的道路有很多。每位外交官都有自己的经历。不过就我而言，我先取得了电气工程学位，随后在空军服役了六年。之后我进入法学院学习，取得国际法学位后加入了外交使团，到现在已经22年了。"
+              },
+              {
+                "en": "W: What would you say are the key skills one needs for the job?",
+                "zh": "W: 您认为从事这份工作需要哪些关键技能？"
+              },
+              {
+                "en": "M: There are so many. Being a hard worker and a good student is important. You never stop learning. In addition, a diplomat needs to be very articulate in their discourse and rhetoric. Whether it is defusing attention or enacting policy, people and communication skills are vital.",
+                "zh": "M: 需要的技能很多。勤奋工作、成绩优秀都很重要。学习永无止境。此外，外交官在表达和修辞方面必须非常清晰、善于表达。无论是化解紧张局势还是落实政策，人际交往能力和沟通能力都至关重要。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have got their work done."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They both look tired"
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can meet again tomorrow anyway."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are both anxious to go home."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The board members' insufficient support."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Two months devoted to the same contract."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Working two months without any progress."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The man's long concentration on the project."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Unprofessional."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Inspirational."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Exceptional."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Delusional."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Fewer rectifications of the contract."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More support from the board members."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The early implementation of the project."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The alignment of all sections of the contract."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: It's getting late and we're both displaying signs of weariness. I think we should call it a day and meet again tomorrow morning.",
+                "zh": "M：天不早了，而且我们俩都显出疲态了。我觉得我们今天就到这里，明天早上再见吧。"
+              },
+              {
+                "en": "W: Oh, come on, Jeff. We are so close! Don't you think we are almost done? Let's do two more hours, please.",
+                "zh": "W：哦，别这样，Jeff。我们就快完成了！你不觉得我们已经接近尾声了吗？再做两个小时吧，求你了。"
+              },
+              {
+                "en": "M: One hour, then I'm going home.",
+                "zh": "M：那就一小时，之后我就回家。"
+              },
+              {
+                "en": "W: OK, fine. I think we are making good progress, and that with a few more amendments, we will be all done.",
+                "zh": "W：好吧，行。我觉得我们进展不错，再修改几处就全部完成了。"
+              },
+              {
+                "en": "M: I'm sure looking forward to it. I'm so tired of this project. Don't get me wrong. It's a great professional opportunity for me and a milestone for the company, but it's just been so long.",
+                "zh": "M：我真盼着那一刻。我已经厌倦这个项目了。别误会，这对我来说是一次很好的职业机会，对公司来说也是一个里程碑，但这项目实在拖得太久了。"
+              },
+              {
+                "en": "W: Yeah. Two months working on nothing but the same contract is a little tough. Nevertheless, I think that with a bit of luck, we'll be done by next week.",
+                "zh": "W：是啊。连续两个月只处理同一份合同，确实有点难熬。不过，我觉得如果运气好，我们下周就能完成。"
+              },
+              {
+                "en": "M: Ha, you must be delusional.",
+                "zh": "M：哈，你一定是妄想了。"
+              },
+              {
+                "en": "W: You don't think so?",
+                "zh": "W：你不这么认为吗？"
+              },
+              {
+                "en": "M: No chance. Sections 4, 5, 8 and 9 still have to be aligned to the new framework. Then we need to proofread the whole thing and make sure all selling points are watertight.",
+                "zh": "M：没可能。第4、5、8和9部分还得按照新的框架进行统一调整。然后我们还要通读全文，确保所有卖点都无懈可击。"
+              },
+              {
+                "en": "W: But that will all take no more than a couple of days.",
+                "zh": "W：但这些加起来最多也就需要几天。"
+              },
+              {
+                "en": "M: I wasn't finished. When we are done with it and send it upstairs, what do you think will happen?",
+                "zh": "M：我还没说完。等我们完成后把它提交上去，你觉得会发生什么？"
+              },
+              {
+                "en": "W: What?",
+                "zh": "W：什么？"
+              },
+              {
+                "en": "M: They'll argue about it for like a month. There's always going to be the odd board member who intervenes and demands rectifications be made. They might think they're being helpful, but in reality they're being obstructive and hampering progress.",
+                "zh": "M：他们会为这事争论大概一个月。总会有个别董事插手，要求进行修改。他们可能以为自己是在帮忙，但实际上他们是在阻挠，拖慢进度。"
+              },
+              {
+                "en": "W: Oh, Jeff, you're too preoccupied and cynical. It won't be anywhere as bad as that. You'll see, the entire managerial hierarchy wants to see this project implemented as soon as possible, and the board, too, is virtually unanimous in its support. Go on then, let's stop there and meet up again same time tomorrow.",
+                "zh": "W：哦，Jeff，你太忧心忡忡，也太愤世嫉俗了。事情不会糟到那个地步的。你等着看吧，整个管理层都希望这个项目尽快实施，董事会也几乎一致支持。那就这样吧，我们今天先到这里，明天同一时间再见。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When two employees propose contrary solutions to their dispute."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When two employees are directed by their respective manager."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When two people behave in an apparently clashing manner."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When two people tell different stories of the same event."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How it got resolved."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How it happened."
+                  },
+                  {
+                    "l": "C",
+                    "t": "What it was about."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When it was settled."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They intervened promptly lest their dispute escalate."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tried to ascertain the actual facts of the matter."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They assumed the best about them and moved on."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They persuaded them to put their conflict aside.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "One thing I've learned in a quarter-century of management is that there are ample gray areas in human behavior, and that there may not always be clear right-or-wrong solutions to employee disputes. When two people have different versions of the same event, it can be hard to know whom to believe. One such circumstance always comes back to me. It happened years ago, and it's a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution. Two talented young executives, one of whom I was managing, had vastly different accounts of the same event, and it seemed likely we'd never get to the truth. We reached the deadlock, and the manager of the other individual said, \"Here's something I learned from an excellent manager I once worked for. He used to say, 'When in doubt, assume positive intent.'\" And just like that, we had a path forward. My counterpart and I agreed we might never ascertain the actual facts of the matter; quite likely there were elements of truth in both employees' stories. We agreed to monitor their actions and relationship going forward, but to intervene no further. We assumed the best about both of them and moved on. The result was that we were able to put the conflict behind us. In fact, their problems didn't recur. Over the years, this general approach has proved useful. Whenever the truth is obscure, assuming positive intent and agreeing to move on can be a constructive decision.",
+                "zh": "我在四分之一世纪的管理工作中学到的一点是，人类行为中存在大量灰色地带，对于员工之间的纠纷，未必总能找到明确的是非对错解决方案。当两个人对同一事件有不同说法时，很难知道该相信谁。有一种类似情况我始终记得。事情发生在多年前，而这场冲突本身容易被遗忘，以至于我如今甚至想不起争议究竟是关于什么的，但我清楚地记得最后是如何解决的。两位才华横溢的年轻高管，其中一位由我负责管理，对同一事件的叙述大相径庭，我们似乎很可能永远无法查明真相。我们陷入了僵局，另一位员工的经理说：“我曾经跟随一位出色的经理工作，从他那里学到了一件事。他过去常说：‘当你无法确定时，就假定对方的动机是善意的。’”就这样，我们找到了前进的方向。我和那位同事一致认为，我们也许永远无法查明事情的实际情况；很可能两位员工的说法中都包含部分事实。我们同意继续观察他们今后的行为和关系，但不再进一步介入。我们对他们两人都作最好的设想，然后继续向前。结果是，我们得以把这场冲突抛在身后。事实上，他们的问题再也没有发生。多年来，这种总体处理方式一直很有用。每当真相模糊不清时，假定对方的动机是善意的，并同意继续向前，可能是一项具有建设性的决定。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Dine out daily."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Budget sensibly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Enjoy cooking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Shop at groceries."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Shopping."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Sewing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Entertaining oneself."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Fashion designing."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Satisfy their taste."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Cut down expenses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Eat more healthily."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cultivate new hobbies."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "People's intense focus on convenience."
+                  },
+                  {
+                    "l": "B",
+                    "t": "People's deteriorating family finances."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People's strong aversion to junk foods."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People's increasing dislike of cooking."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "For some Americans, going out to dinner is a treat, planned and budgeted for. For others, it's just a daily occurrence. And that second group of people is becoming the majority as the number of Americans who enjoy cooking is declining. In the early 2000s, researcher Eddie Yoon conducted a survey to ascertain Americans' attitudes to cooking. The survey found that 15% of Americans loved to cook, 50% said they hated to cook and 35% reported mixed feelings. When Yoon conducted the same survey 15 years later, only 10% of respondents reported a love of cooking, 45% said they hated it and 45% had mixed feelings. Yoon asserts cooking is akin to sewing. As recently as the early 20th century, many Americans sewed their own clothing. Today, the vast majority of Americans buy clothing; only a tiny minority still sew, and they do it mainly as a hobby. Yoon believes the number of home cooks will diminish in a similar fashion. Currently, the average American household spends over $3,000 per year on dining out. However, what people save in convenience, they lose in cash. Take buying lunch on workdays for example. People spend, on average, $10 per meal when they buy lunch. Making your own lunch, meanwhile, will cost less. One survey found people only spend on average $6.30 when they bring lunch prepared at home. Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry. It's likely to detrimentally impact family finances as well.",
+                "zh": "对一些美国人来说，外出就餐是一种经过计划并纳入预算的享受。对另一些人来说，这只是每天都会发生的事情。随着喜欢烹饪的美国人数量不断减少，第二类人正在成为多数。21世纪初，研究人员埃迪·尹开展了一项调查，以了解美国人对烹饪的态度。调查发现，15%的美国人喜欢烹饪，50%的人表示讨厌烹饪，35%的人表示感受复杂。15年后，尹再次进行同样的调查，只有10%的受访者表示喜欢烹饪，45%的人表示讨厌烹饪，另有45%的人感受复杂。尹认为，烹饪类似于缝纫。就在20世纪初，许多美国人还会自己缝制衣服。如今，绝大多数美国人购买衣服，仍然缝纫的只是极少数人，而且他们主要是把缝纫当作一种爱好。尹认为，家庭厨师的数量也会以类似的方式减少。目前，美国普通家庭每年在外出就餐上的花费超过3,000美元。然而，人们在便利性上节省下来的，却会在现金支出上付出代价。以工作日购买午餐为例，人们购买午餐时平均每顿要花10美元。与此同时，自己准备午餐的成本会更低。一项调查发现，人们自带在家准备的午餐时，平均每顿只花费6.30美元。美国人日益不愿意花时间待在厨房里，这对食品杂货行业意味着一系列挑战。这种趋势也很可能会对家庭财务造成不利影响。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its owner's flight is delayed because of bad weather."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Airlines cannot find its owner without an ID tag on it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Airline staff have not correctly coded its destination tag."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Its owner has forgot to pick it up from the baggage claim."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Its tag may get torn off on the conveyor belt."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Its tag may get stuck in the sorting machine."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It may be sent to a wrong destination."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It may be picked up by someone else."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Purchase irretrievably lost things at auction."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Contact the airport staff to find our missing bag."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Get the airline agent's phone number before boarding."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Avoid packing valuable items in our checked baggage.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Every year, of the more than 2.5 billion bags checked onto flights worldwide, 26 million go missing — and of that 26 million, 1 million never make it back to their original owner. Bad weather and flight delays, miscoded destination tags and some people simply forgetting to pick up one of their bags are a few of the reasons. But the number-one reason a bag ends up lost is that it has no ID tag, and airlines don't know to whom it belongs.",
+                "zh": "每年，在全球航班上办理托运的超过25亿件行李中，有2600万件会丢失；而在这2600万件中，有100万件永远无法回到原主人的手中。恶劣天气和航班延误、目的地标签编码错误，以及有人单纯忘记取走自己的某件行李，都是造成这种情况的部分原因。但行李最终丢失的首要原因是没有身份标签，航空公司不知道它属于谁。"
+              },
+              {
+                "en": "Transferring baggage from check-in to departure gates to arrival gates to baggage claim is a delicate piece of timing. If the system moves too slowly, the bags won't make connecting flights. If it's too fast, the bags may make the connection but the passengers might miss the flight. Each airport has its own way of allotting how much time a bag needs to move in transit. Some airports have sophisticated automated systems, including scanners that read baggage labels, destination-coded vehicles that load and unload the bags without stopping, and sorting machines that route baggage to the appropriate gate. Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name.",
+                "zh": "将行李从值机柜台转运到出发登机口，再转运到到达登机口，最后送至行李提取处，需要精确掌握时间。如果整个系统运行得太慢，行李就赶不上联程航班；如果运行得太快，行李可能赶上了联程航班，但乘客却可能误机。每座机场都有自己的方式来分配行李在转运过程中所需的时间。有些机场拥有先进的自动化系统，包括能够读取行李标签的扫描仪、无需停下就能装卸行李的目的地编码车辆，以及将行李分拣至相应登机口的分拣机。即便如此，所有这些技术也未必能防止你的行李标签在传送带上被撕掉，使你成为一件无名行李的主人。"
+              },
+              {
+                "en": "Once a bag goes missing and the passenger files a claim, the bag is declared \"mishandled\" by the carrier. Mishandled refers to bags that have been delayed, lost, stolen or damaged. Most delayed bags are only one flight behind their owners and can be delivered within 24 hours. The other bags are examined by airline employees for clues to their ownership and destination. If the mystery is solved, those bags are returned to their owners within four or five days. Bags with no destination code or identification tag are shipped to a central warehouse, and undergo a comprehensive baggage tracing process over the next 90 days.",
+                "zh": "行李一旦丢失，乘客提交索赔后，承运方就会将其认定为“处置不当”。“处置不当”是指行李延误、丢失、被盗或受损。大多数延误的行李只比主人晚一个航班，能够在24小时内送达。其他行李则由航空公司员工检查，以寻找有关其所有者和目的地的线索。如果谜团得以解开，这些行李会在四五天内归还给主人。没有目的地编码或身份标签的行李会被运往一个中央仓库，并在接下来的90天内接受全面的行李追踪调查。"
+              },
+              {
+                "en": "Airlines inventory their mishandled baggage, and many use a database to match the contents with owners' descriptions. It takes about three months to go from \"missing in action\" to \"irretrievably lost\". Once that happens, the bags are donated to charity, sold at auction, or purchased by a company which sells them to the public.",
+                "zh": "航空公司会对处置不当的行李进行登记，许多航空公司还会使用数据库，将行李内容与所有者的描述进行匹配。从“失联”到“无法追回的遗失”，大约需要三个月。一旦被认定为无法追回，这些行李就会捐给慈善机构、被拍卖，或由一家将其出售给公众的公司买走。"
+              },
+              {
+                "en": "So never pack anything of real value in your checked baggage. And make sure your name is on the bag, along with your phone number, so an agent can contact you.",
+                "zh": "所以，千万不要把任何真正有价值的东西放在托运行李中。同时要确保行李上写有你的姓名和电话号码，这样工作人员就能联系到你。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can be behaviorally hazardous."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can be especially disappointing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can be socially harmful."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can be really embarrassing."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They considered it inevitable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They held a negative view towards it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were concerned with its effects."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They saw it as a sign of social evolution."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Elaborate forms of social contact."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ill effects on one's sense of pride."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Poor relationships with others."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Vicious cycles of detachment.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "You've probably been with someone who ignored you while interacting with his or her smartphone. And you've probably engaged in this behavior yourself. In a recent survey, nine out of ten respondents said they'd used their smartphone during their most recent social activity. There's also evidence that this behavior is socially harmful. It can leave people less satisfied with their face-to-face interactions. And it can generate feelings of resentment and jealousy. Now, the Journal of Applied Social Psychology has published a new study exploring the reasons for these effects.",
+                "zh": "你可能曾和这样的人在一起：他或她在与你互动时却忽视你，只顾摆弄智能手机。你自己可能也有过这种行为。最近的一项调查显示，十名受访者中有九人表示，他们在最近一次社交活动中使用过智能手机。也有证据表明，这种行为会损害社交关系。它可能使人们对面对面的互动感到不那么满意，还可能引发怨恨和嫉妒情绪。如今，《应用社会心理学杂志》发表了一项新研究，探讨了这些影响产生的原因。"
+              },
+              {
+                "en": "The study included 128 mostly female student participants. The participants watched a three-minute animation in which two cartoon figures interacted and engaged in a conversation. The conversation couldn't be heard but could be detected through mouth movements. Participants had to imagine themselves as the closest figure in the video and then make judgments about the conversations and how they felt about their conversation partners.",
+                "zh": "这项研究包括128名学生参与者，其中大多数为女性。参与者观看了一段三分钟的动画，动画中两个卡通人物进行互动并交谈。对话内容听不见，但可以通过嘴部动作辨别出来。参与者必须设想自己就是视频中距离观众较近的那个人物，然后对对话作出判断，并评价自己对交谈对象的感受。"
+              },
+              {
+                "en": "In one version of the experiment, the phone of the participants' conversation partner remained unused on the table throughout the conversation. In another version, their partner's attention was quickly drawn to something on their phone and they spent the rest of the time interacting with their phone. A third version involved the participants' partner alternating between periods of interaction with their phone and periods where they ignored their phone. If you've experienced a similar situation, you probably won't be surprised by the results of the experiments.",
+                "zh": "在实验的一种情境中，参与者的交谈对象始终没有使用放在桌上的手机。另一种情境中，交谈对象很快被手机上的某件事吸引，剩下的时间一直与手机互动。第三种情境中，参与者的交谈对象在使用手机互动和不理会手机之间交替进行。如果你曾经历过类似情况，实验结果大概不会让你感到意外。"
+              },
+              {
+                "en": "The participants had a negative view of phone use during social interactions. The more it was present, the worse they considered both the quality of the interaction and the quality of the relationship.",
+                "zh": "参与者对社交互动中的手机使用持负面看法。手机使用出现得越多，他们认为互动质量和关系质量就越差。"
+              },
+              {
+                "en": "The researchers believed that focusing on one's phone instead of the person one is with has this effect because it's seen as a form of social exclusion. They assert that the behavior is analogous to when people have no choice but to eat alone in the school cafeteria. The twist is that this exclusion occurs while sharing a physical encounter and having a conversation. Researchers found that the behavior had adverse effects on participants' sense of belonging, need for meaning and self-esteem.",
+                "zh": "研究人员认为，把注意力放在手机上而不是身边的人身上之所以会产生这种影响，是因为这种行为被视为一种社会排斥形式。他们断言，这种行为类似于人们别无选择、只能独自在学校食堂吃饭的情形。不同之处在于，这种排斥发生在双方共享同一场面对面接触并进行交谈的过程中。研究人员发现，这种行为对参与者的归属感、意义需求和自尊都产生了不利影响。"
+              },
+              {
+                "en": "These negative effects are similar to those caused by traditional forms of social exclusion. The new findings are important because they elaborate our understanding of a subtle but common aspect of our daily experience. This common behavior can create vicious cycles of detachment even as we try to connect with others.",
+                "zh": "这些负面影响与传统社会排斥形式所造成的影响相似。这些新发现十分重要，因为它们加深了我们对日常体验中一种微妙却普遍存在的现象的理解。即使我们努力与他人建立联系，这种常见行为也可能造成疏离感不断加剧的恶性循环。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The ill treatment they get as tourists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The nonprofessional business they see."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The impersonal accommodations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The many adventures on their way."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have been the classic way to visit Europe."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They attract tourists with location and decoration."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have long been competing with chain hotels."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are in fact a completely new idea in America."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Your financial status."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Your family's consent."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Your property."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Your personality."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Costs for starting the business."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The number of guests to receive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The facilities to provide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Opportunities for income."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "More and more people travel for a variety of reasons. Many are tourists, but many venture forth on personal or professional business. Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find. After spending five consecutive nights in five similar hotels, the business traveler may find it difficult to remember what happened from day to day, or even what towns were visited, and the tourist may get the mistaken impression that all cities are pretty much the same, at least as far as decoration, food and service are concerned.",
+                "zh": "越来越多的人出于各种原因旅行。许多人是游客，但也有许多人因个人事务或公务外出。不论出于何种旅行原因，旅行者普遍抱怨的一点是，他们所住的住宿场所缺乏个性。商务旅行者连续五晚住在五家相似的酒店后，可能会难以记清每天发生了什么，甚至记不住去过哪些城镇；而游客则可能产生一种错误印象，认为所有城市都大同小异，至少在装潢、食物和服务方面是如此。"
+              },
+              {
+                "en": "To combat this sense of impersonal sameness, travelers are taking advantage of in-home hospitality or Bed and Breakfast arrangements. B&Bs, I mean, Bed and Breakfast arrangements are private homes which offer lodging and breakfast in a very personalized, friendly setting. For decades, B&Bs have been the classic way to visit Europe, especially the British Isles. And in fact, they are not really a new idea in America. The tradition dates back to colonial times when inns were few and far between, and the weary traveler had to depend on the kindness of strangers for a meal and a bed. But the revival of B&Bs as desirable accommodations is a fairly recent phenomenon.",
+                "zh": "为了消除这种千篇一律、缺乏个性的感受，旅行者开始利用家庭式接待或提供住宿加早餐的安排。我所说的B&B，就是住宿加早餐安排，指的是私人住宅在十分个性化且友好的环境中提供住宿和早餐。几十年来，B&B一直是游览欧洲，尤其是英伦群岛的经典方式。事实上，这在美国也并不是什么新鲜事。这一传统可以追溯到殖民时期，那时旅店十分稀少，疲惫的旅行者不得不依靠陌生人的善意来获得一顿饭和一张床。不过，B&B作为理想住宿方式的复兴，是相当近期的现象。"
+              },
+              {
+                "en": "If the idea of operating a B&B arouses your interest, there are several factors to consider before plunging into this business. The first consideration is your property, not only the building itself, but the location. If you live near a famous historical site or in a popular destination, such as New York City or Washington, D.C., your home can be fairly simple, yet still do well as a B&B. On the other hand, if your home is architecturally unique or has facilities for the traveler, such as a private entrance, private bath or swimming pool, people may be willing to go some distance to reach you. Another important factor is the lifestyle of you and your family. You must take into account whether all members of the family truly enjoy visitors, want to repeatedly discuss local sites and activities, and have the time and energy to handle the additional cooking, cleaning, laundry and the bookkeeping involved. The final consideration is a financial one, potential B&B hosts must be realistic about opportunities for income. While B&Bs usually have low initial costs, experts estimate it would take at least five rooms rented regularly for the host to earn a living from B&B.",
+                "zh": "如果经营B&B的想法引起了你的兴趣，那么在贸然投入这项业务之前，有几个因素需要考虑。首先要考虑的是你的房产，不仅包括建筑物本身，还包括其位置。如果你住在著名历史遗址附近，或住在纽约市、华盛顿特区等热门目的地，你的房子即使相当普通，也仍然可以很好地经营成B&B。另一方面，如果你的房屋在建筑风格上独具特色，或拥有方便旅行者使用的设施，例如私人入口、私人浴室或游泳池，人们可能愿意走相当远的路来投宿。另一个重要因素是你和家人的生活方式。你必须考虑家庭的每一位成员是否真的喜欢接待客人，是否愿意反复谈论当地的景点和活动，以及是否有时间和精力承担由此增加的烹饪、清洁、洗衣和记账工作。最后还要考虑财务因素。潜在的B&B经营者必须现实地看待收入机会。虽然B&B通常前期成本较低，但专家估计，经营者至少需要定期出租五间客房，才能靠B&B维持生计。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2025-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "It's best to think of an accent as a distinct, systematic and rule-governed way of speaking. Accent is not a"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "for dialect, but it's related. Dialect is an umbrella term for the way a community pronounces words, creates words, and orders words; accent refers to that first part only. Many"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": ". In other words, no one speaks \"standard English\"; rather, it is an imagined way of using language that exists only in grammar and style books. One reason linguists agree there is no one true standard is that, through the years, there have been"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "supposed standards, depending on time and place. The standard for English in British newsreels(新闻片) from the 1950s, for example, differs greatly from the standard found on American national news broadcasts today. In fact, there has never been a single standard that's been fully agreed upon — and broadcast outlets across the"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "have never consistently held to those standards anyway. Even so, this idea of a standard accent is"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "and many workplace and educational environments perpetuate the idea that accents that"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "from the current standard are less appropriate, or even inappropriate. Scholars have found that southern US accent features are more accepted in"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "such as government, law and service-oriented workplaces, but less accepted in the technology sector. The acceptability of nonstandard accents may"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "affix"
+        },
+        {
+          "l": "B",
+          "w": "correlate"
+        },
+        {
+          "l": "C",
+          "w": "deviate"
+        },
+        {
+          "l": "D",
+          "w": "domains"
+        },
+        {
+          "l": "E",
+          "w": "influential"
+        },
+        {
+          "l": "F",
+          "w": "inherently"
+        },
+        {
+          "l": "G",
+          "w": "laymen"
+        },
+        {
+          "l": "H",
+          "w": "multiple"
+        },
+        {
+          "l": "I",
+          "w": "properties"
+        },
+        {
+          "l": "J",
+          "w": "reality"
+        },
+        {
+          "l": "K",
+          "w": "reciprocally"
+        },
+        {
+          "l": "L",
+          "w": "specimen"
+        },
+        {
+          "l": "M",
+          "w": "spectrum"
+        },
+        {
+          "l": "N",
+          "w": "synonym"
+        },
+        {
+          "l": "O",
+          "w": "unanimous"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "N"
+        },
+        {
+          "n": 27,
+          "a": "G"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "J"
+        },
+        {
+          "n": 30,
+          "a": "H"
+        },
+        {
+          "n": 31,
+          "a": "M"
+        },
+        {
+          "n": 32,
+          "a": "E"
+        },
+        {
+          "n": 33,
+          "a": "C"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "B"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The History and Meaning of Colored Traffic Lights",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Timed traffic lights are set according to schedules that are supposed to coordinate with peak traffic hours. Cities need to monitor and update signal light time schedules at least every two years to keep these systems effective. In Los Angeles, California, an ambitious project to go a step further and synchronize(使同步) every red light in Los Angeles cost over 400 million dollars. Ask a resident of the city and they are likely to agree that saving time on the road is well worth it. If implemented nationwide, synchronization could shave 10% off traffic congestion(堵塞) and 20% off air pollution. Congestion costs time, money, and lives. Big data can help improve how millions of people safely share the road. However, none of this would be possible without the traffic light!"
+        },
+        {
+          "l": "B",
+          "t": "The first traffic light was invented in London in the 1860's, but it was hardly recognizable — or effective. It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868. The railroads used red gas lights at night to signal stops and green gas lights during the daytime. Knight installed a similar gas light, semaphore(臂板信号) system near London's Westminster Bridge in December of 1868."
+        },
+        {
+          "l": "C",
+          "t": "The life of the first traffic light signal was short-lived. A gas leak caused one of the signal lights to explode on its police officer operator within a month of being installed."
+        },
+        {
+          "l": "D",
+          "t": "Automating traffic signals stalled after the London incident. Forty years passed before cars crowding city streets urged the development of traffic lights in the United States. London would not see another traffic light until 1929."
+        },
+        {
+          "l": "E",
+          "t": "The United States is a car culture like no other country. Unlike most European cities that started urban planning when horses were high-tech, many cities in the United States were designed around urban sprawl, suburban tracts, and motor cars."
+        },
+        {
+          "l": "F",
+          "t": "As traffic and cities grew, so did the race to solve growing traffic problems. The first traffic signals were semaphores. Semaphores are towers with moving arms signaling for traffic to stop or go. They could be manual or automatic. There was no consistent design. Various models were invented and put into place in cities as the need arose."
+        },
+        {
+          "l": "G",
+          "t": "In 1912, Lester Wire was a police officer exhausted by traffic at Main Street and 200 South. He developed a manually switched stop light. The four-sided box, raised on a ten-foot pole, looked like a birdhouse and was operated manually by an officer. The officer would flip a switch to change between the dipped red and green lights."
+        },
+        {
+          "l": "H",
+          "t": "Like the 1910 semaphore, the first electric signal used words. However, the words were no longer written on arms that raised and fell. The words \"stop\" or \"move\" were on lights. The posts lit up on each of four corner-posts around an intersection(十字路口). It was not automated, though. A booth with an operator was required to flip the switches."
+        },
+        {
+          "l": "I",
+          "t": "The system allowed police officers to move from the middle of the street to a corner. From that vantage(有利 地位), an officer could oversee the crowd. If an emergency vehicle came, the officer could flip a switch and clear the intersection by triggering all red lights. The emergency vehicle could now pass effortlessly. Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917."
+        },
+        {
+          "l": "J",
+          "t": "In 1920, the first three-color light system was introduced in Detroit — also known as Motor City, USA. The evolution of traffic light signals could not have a more appropriate context than Motor City. Ford Motor Company was founded in Detroit in 1903 (and other motor companies followed). Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production."
+        },
+        {
+          "l": "K",
+          "t": "Stop and go were insufficient for the new volumes of cars zooming through intersections. Streets were full of new numbers of cars in addition to delivery wagons, bustling crowds, bicycles, horse-drawn carriages, and street cars. The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights."
+        },
+        {
+          "l": "L",
+          "t": "Stop lights were incredibly important in chaotic city streets. Crosswalks weren't even introduced until 1951. The first pedestrian fatality in the United States was in 1899."
+        },
+        {
+          "l": "M",
+          "t": "The development of the modern traffic light may have started in London, but it grew up in the United States. In Cleveland, an African-American inventor named Garrett Morgan came up with an affordable, patented traffic signal. The yellow light made intersections safer than the old stop and go system. The new design was inexpensive enough that it allowed the installation of a lot more lights."
+        },
+        {
+          "l": "N",
+          "t": "Morgan sold the patent to General Electric — and the spread of the traffic light was green lighted. Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light. Yellow means slow down and prepare to stop. It does not mean full- throttle(全速) ahead. While you may get away with gunning it into the intersection, running a yellow can lead to tickets and dangerous accidents. Red lights are a clear and consistent warning to stop. Even where right turns are allowed on red lights, you must come to a complete stop before turning right. You must also yield to any through traffic, which has the right of way. In most states and cities, you can take a right on red unless otherwise indicated. New York City does not allow a right on red."
+        },
+        {
+          "l": "O",
+          "t": "Red arrows mean you cannot turn right on a red in most states. The green arrow, in these cases, is the only time you can make the turn. However, you can take a right on a red arrow after a full stop in the states of Illinois, Kansas, Louisiana, Maryland, Michigan, New Hampshire, North Dakota, Oregon, South Carolina, Utah, Washington State and Wyoming."
+        },
+        {
+          "l": "P",
+          "t": "Flashing Red is the same as a stop sign, generally used at four-way intersections where there is minimal traffic. When arriving at a flashing red light, make a full and complete stop. Flashing Red Arrows similarly mean to stop and then proceed to take the turn. Flashing Yellow lights mean yield or signal caution, like outside of a fire station. There are no all-direction flashing yellow lights, since it is prohibited in the United States. If you have a flashing yellow light, you are to yield to oncoming traffic."
+        },
+        {
+          "l": "Q",
+          "t": "Flashing Yellow Arrows are part of a four-signal traffic light. These are used in some states after a protected green turn signal, or arrow, but before a steady yellow arrow. When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic. Steady Yellow Arrows maintain the normal yellow light caution in three-light signals, meaning to stop or prepare to stop. In a four-signal system that has a flashing yellow arrow, the steady yellow arrow is a signal that the yield period is ending. The red arrow is about to start. Vehicles should stop if safely possible. Traffic tickets are possible for running a steady yellow arrow."
+        },
+        {
+          "l": "R",
+          "t": "Traffic light meaning is fairly consistent across the board with various deviations. Green means it's safe to proceed (though you should still exercise caution). Yellow means caution and yield. Red means danger and stop. Always drive defensively and obey traffic signals."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Upon seeing a flashing yellow arrow, a driver should let pedestrians and traffic pass first before taking the turn.",
+          "a": "Q"
+        },
+        {
+          "n": 37,
+          "s": "The red and green automatic traffic light system originated in an American city.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "Residents of an American city tend to share the opinion that time saved on the road justifies the cost of upgrading its traffic light system.",
+          "a": "A"
+        },
+        {
+          "n": 39,
+          "s": "Mass production of cars made it possible for ordinary people to buy them.",
+          "a": "J"
+        },
+        {
+          "n": 40,
+          "s": "What a traffic light means is almost the same everywhere despite some variations.",
+          "a": "R"
+        },
+        {
+          "n": 41,
+          "s": "Pedestrian crossings came into being only in the mid-twentieth century.",
+          "a": "L"
+        },
+        {
+          "n": 42,
+          "s": "People raced to address increasing traffic problems along with the expansion of cities and traffic.",
+          "a": "F"
+        },
+        {
+          "n": 43,
+          "s": "When the warning yellow light was introduced, driving became safer and traffic accidents reduced.",
+          "a": "K"
+        },
+        {
+          "n": 44,
+          "s": "The signal system on the railroad served as the basis for the first traffic light.",
+          "a": "B"
+        },
+        {
+          "n": 45,
+          "s": "Even though a green light signals \"go\", attention should be paid to traffic on either side in case some driver is being careless or ignoring a red light.",
+          "a": "N"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Mindfulness has been shown to have a number of meaningful health benefits — it can help reduce anxiety and promote healing in those suffering from chronic illness. The practice is based on an insight first described in ancient Buddhist texts that human beings have the capacity to observe experience without being caught up in it. This means simply that it is possible to observe ourselves having a craving, or a happy thought, or even a scary emotion, without reacting in the moment in a way that amplifies the feeling or sends the mind spiraling off into thinking about old memories or anticipating events. This practice of mindfulness can help calm the mind and the body as we learn not to react to experience with likes and dislikes or judgments of good and bad. It does not make us cold or indifferent but more fully present. One of the challenges of practicing mindfulness in our contemporary world is that there has been a profound transformation in human attention. The artist Jenny Odell argues that in our \"attention economy\" human attention has been transformed into a commodity that big corporations buy and sell. This economy rests on a technological revolution of mobile phones and social media that makes it possible for corporations to target our attention with their content at every moment. The devices most people use are a perpetual diversion from the present moment. The result is that it can feel as though our ability to focus, and be fully present, has been stolen. But mindfulness can help us resist the attention economy and relish the things that make life special, like being together with those we love. Most mindfulness research focuses on the individual benefits of the practice, but some scholars assert that we can not only practice mindfulness for ourselves but also practice it for others. It can help us build stronger, healthier relationships. The sad truth is that living in the attention economy, most of us have become bad listeners. However, just as it is possible to watch ourselves having an experience without reacting, it's possible to watch another person have an experience without getting tied up in reactivity and judgment. The gift of mindfulness is a practice of listening with compassion to others describe their experiences. To give this gift means putting away your phone, turning off social media, and setting aside other common distractions. It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you. If we judge the value of gifts based on their price, this gift may seem worthless, but in a distracted world, it is a precious one.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from the passage about practicing mindfulness?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It triggers our mind to reflect on past experiences or anticipate future events."
+              },
+              {
+                "l": "B",
+                "t": "It focuses our attention on the present moment without making judgments."
+              },
+              {
+                "l": "C",
+                "t": "It concentrates our mind on our personal feelings, happy or scary."
+              },
+              {
+                "l": "D",
+                "t": "It helps our mind to stay calm when facing judgments from others."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What do we see in today's \"attention economy\" according to Jenny Odell?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Focus on technological advances continuously updates products and services."
+              },
+              {
+                "l": "B",
+                "t": "People's attention is turned into something that can be bought and sold."
+              },
+              {
+                "l": "C",
+                "t": "Businesses profit from selling mobile phones and revolutionizing social media."
+              },
+              {
+                "l": "D",
+                "t": "People tend to purchase products and services without careful thinking."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What happens with the prevalent use of mobile phones or social media?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They keep distracting users from the here and now."
+              },
+              {
+                "l": "B",
+                "t": "They render users incapable of resisting temptation."
+              },
+              {
+                "l": "C",
+                "t": "They rob users of their ability to observe experience."
+              },
+              {
+                "l": "D",
+                "t": "They tempt users to endorse the attention economy."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What benefit can practicing mindfulness bring to us according to some scholars?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It prevents us from making arbitrary judgments about others."
+              },
+              {
+                "l": "B",
+                "t": "It shifts our attention from material things to spiritual pursuits."
+              },
+              {
+                "l": "C",
+                "t": "It is conducive to our forging better interpersonal relationships."
+              },
+              {
+                "l": "D",
+                "t": "It is helpful in regaining our ability to enjoy what we have in life."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What does the author suggest we do in another person's presence?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Share each other's experience frankly and compassionately."
+              },
+              {
+                "l": "B",
+                "t": "Pay full attention to establishing close relationships with them."
+              },
+              {
+                "l": "C",
+                "t": "Be attentive listeners while refraining from making judgments."
+              },
+              {
+                "l": "D",
+                "t": "Remind them of the distraction from mobile phones and social media."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The other day I had to log into a service I hadn't used before. Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine. I was presented with an image of a roadside scene over which was laid a grid. My \"challenge\" was to click on each cell in the grid that contained a traffic sign. I did so, a bit irritated. Then I was presented with another image and another grid — also with a request to identify road signs. Like a lamb, I complied, after which the website accepted my input. And then I realised what I had been doing was adding to a dataset for training the machine-learning software that guides self-driving cars. So, to gain access to an automated service that will benefit financially from my input, I first have to do some unpaid labor to help improve the performance of autonomous vehicles. Neat, eh? But note also the delicious additional irony that the Captcha is described as an \"automated Turing test\". The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot. So we have wandered into a world in which machines make us do tricks to prove that we are humans! The strangest aspect of this unparalleled shift is how under-discussed it has been. The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don't see what's been happening to us? Have we been conditioned to accept a world governed by \"smart\" tech, trading convenience to the point where we become a bit like machines ourselves? In a recent startling and thoughtful book, two scholars — Brett Frischmann, a law professor, and Evan Selinger, a philosopher — argue that the answer to that question is \"yes\". And they're right. There's nothing technophobic(技术恐惧的) about that. We shape our tools and then our tools shape us. Technology is supposed to provide tools that serve human ends. But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours. In the process, they reduce us to the status of cheery rats running on treadmills(踏车) designed by people who do not have our interests at heart. So back to the frog metaphor. Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "How did the author respond to the Captcha test?",
+            "o": [
+              {
+                "l": "A",
+                "t": "He clicked on the cells randomly."
+              },
+              {
+                "l": "B",
+                "t": "He accepted the challenge readily."
+              },
+              {
+                "l": "C",
+                "t": "He completed it confidently."
+              },
+              {
+                "l": "D",
+                "t": "He worked on it submissively."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What is ironic about the Captcha test?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A machine can respond to the test as well as humans do."
+              },
+              {
+                "l": "B",
+                "t": "A machine can outperform humans in object identification."
+              },
+              {
+                "l": "C",
+                "t": "A test designed to test machines is now used by machines to test humans."
+              },
+              {
+                "l": "D",
+                "t": "A test conceived to tell a human from a robot can now do tricks humans can't."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "Why does the author use the metaphor of the boiling frog?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To show that humans are unwilling to trade convenience for control by smart tech."
+              },
+              {
+                "l": "B",
+                "t": "To show that humans are unaware of the potential danger brought by smart tech."
+              },
+              {
+                "l": "C",
+                "t": "To question whether humans are conditioned to accept digital tech."
+              },
+              {
+                "l": "D",
+                "t": "To question whether humans are as vulnerable as the boiling frog."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "Why does the author think that Brett Frischmann and Evan Selinger are right?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A large part of digital tech is now making use of humans to meet its own ends."
+              },
+              {
+                "l": "B",
+                "t": "Humans are now fast locked in a race against digital tech to control the world."
+              },
+              {
+                "l": "C",
+                "t": "Digital tech can serve human needs in ways previously thought impossible."
+              },
+              {
+                "l": "D",
+                "t": "Digital tech is now doing thinking while humans are doing repetitive work."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does the author imply by asking \"Are we smart enough to jump out before it's too late?\" at the end of\n the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is not sensible to expect digital tech to take humans' interest to heart."
+              },
+              {
+                "l": "B",
+                "t": "It is hard to say whether technology or humans will get the upper hand."
+              },
+              {
+                "l": "C",
+                "t": "We may have to search the web to get the answer to the question."
+              },
+              {
+                "l": "D",
+                "t": "We may not awake in time to the danger digital tech poses to us."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "节俭 (frugality) 是中华民族的传统美德。在中国古代，生产力低下，先人们深知劳动成果来之不易，因而 秉持节俭的理念。到了物质极大丰富的今天，中国人民依然坚持节俭的生活方式，体现了理性消费的生活理念 和对劳动的尊重。近年来，中国政府持续加强节约型社会的建设，倡导\"光盘行动\"，减少食物浪费，提倡简约 低碳的生活方式，推进资源循环利用，反对过度消费。节约型社会的建设有力地推动了中国经济的高质量发 展。",
+    "reference": "Frugality is a traditional virtue of the Chinese nation. In ancient China, productivity was low, and our ancestors knew well that the fruits of labor did not come easily, so they upheld the idea of frugality. Today, when material wealth is abundant, the Chinese people still maintain a frugal lifestyle, reflecting their concept of rational consumption and their respect for labor. In recent years, the Chinese government has been strengthening the building of a resource-conserving society by advocating the \"Clear Your Plate\" campaign to reduce food waste, promoting a simple and low-carbon lifestyle, advancing the recycling of resources, and opposing excessive consumption. The building of a resource-conserving society has strongly promoted the high-quality development of China's economy."
+  }
+}

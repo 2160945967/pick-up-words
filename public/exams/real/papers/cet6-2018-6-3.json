@@ -1,0 +1,1394 @@
+{
+  "id": "cet6-2018-6-3",
+  "level": "cet6",
+  "year": 2018,
+  "month": 6,
+  "set": 3,
+  "title": "2018年6月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of building trust between businesses and consumers. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+    "sample": "Trust lies at the very heart of every healthy relationship between businesses and consumers. In an age flooded with choices and advertisements, I firmly believe that mutual trust, rather than clever marketing, ultimately determines whether a company can survive and prosper.The value of trust can be clearly seen through everyday examples. When a restaurant insists on fresh ingredients and honest pricing, satisfied diners return again and again and gladly recommend it to friends, so the business grows steadily. In sharp contrast, once a well-known brand is exposed for false advertising or hidden defects, angry consumers desert it overnight, and years of hard-won reputation collapse in a single day. Clearly, trust is not an empty word but a real asset that either multiplies profits or, once broken, brings ruin.Therefore, building trust is never a burden but a wise investment for both sides. Only when businesses treat honesty as a bottom line and consumers respond with loyalty can a genuine win-win situation be achieved."
+  },
+  "listening": {
+    "audio": "cet6-2018-6-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a typical salad."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a Spanish soup."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a weird vegetable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a kind of spicy food."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To make it thicker."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To make it more nutritious."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To add to its appeal."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To replace an ingredient."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It contains very little fat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It uses olive oil in cooking."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It uses no artificial additives."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is mainly made of vegetables."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It does not go stale for two years."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It takes no special skill to prepare."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It comes from a special kind of pig."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a delicacy blended with bread.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: What's all that? Are you going to make a salad?",
+                "zh": "M：那都是些什么？你要做沙拉吗？"
+              },
+              {
+                "en": "W: No, I'm going to make a gazpacho.",
+                "zh": "W：不，我要做西班牙冷汤。"
+              },
+              {
+                "en": "M: What's that?",
+                "zh": "M：那是什么？"
+              },
+              {
+                "en": "W: Gazpacho is a cold soup from Spain. It's mostly vegetables. I guess you could call it a liquid salad.",
+                "zh": "W：西班牙冷汤是一种来自西班牙的冷汤，主要由蔬菜制成。我想你也可以把它叫作液体沙拉。"
+              },
+              {
+                "en": "M: Cold soup? Sounds weird.",
+                "zh": "M：冷汤？听起来真奇怪。"
+              },
+              {
+                "en": "W: It's delicious. Trust me. I tried it for the first time during my summer vacation in Spain. You see, in the south of Spain, it gets very hot in the summer, up to 40 degrees Celsius. So a cold gazpacho is very refreshing. The main ingredients are tomato, cucumber, bell peppers, olive oil and stale bread.",
+                "zh": "W：很好喝的，相信我。我第一次尝到它是在西班牙度暑假的时候。你知道，西班牙南部夏天非常炎热，最高可达40摄氏度。所以喝一碗冰凉的西班牙冷汤会让人感觉非常清爽。主要食材有西红柿、黄瓜、甜椒、橄榄油和不新鲜的面包。"
+              },
+              {
+                "en": "M: Stale bread? Surely you mean bread for dipping into the soup?",
+                "zh": "M：不新鲜的面包？你说的应该是蘸汤吃的面包吧？"
+              },
+              {
+                "en": "W: No. Bread is crushed and blended in like everything else. It adds texture and thickness to the soup.",
+                "zh": "W：不是。面包会和其他所有食材一样被碾碎并搅拌进去。它能增加汤的口感和浓稠度。"
+              },
+              {
+                "en": "M: Mm. And is it healthy?",
+                "zh": "M：嗯。那它健康吗？"
+              },
+              {
+                "en": "W: Sure. As I said earlier, it's mostly vegetables. You can also add different things if you like, such as hard-boiled egg or cured ham.",
+                "zh": "W：当然健康。正如我刚才说的，它主要是由蔬菜制成的。你也可以根据喜好加入不同的东西，比如水煮蛋或风干火腿。"
+              },
+              {
+                "en": "M: Cured ham? What's that?",
+                "zh": "M：风干火腿？那是什么？"
+              },
+              {
+                "en": "W: That's another Spanish delicacy. Have you never heard of it? It's quite famous.",
+                "zh": "W：那是另一种西班牙美食。你从来没听说过吗？它相当有名。"
+              },
+              {
+                "en": "M: No. Is it good too?",
+                "zh": "M：没有。它也很好吃吗？"
+              },
+              {
+                "en": "W: Oh, yeah, definitely. It's amazing. It's a little dry and salty, and it's very expensive because it comes from a special type of pig that only eats a special type of food. The ham is covered in salt to dry and preserve it, and left to hang for up to two years. It has a very distinct flavor.",
+                "zh": "W：哦，当然，绝对好吃。味道非常棒。它有一点干，也有点咸，而且非常贵，因为它来自一种只吃特定食物的特殊猪种。火腿上会裹满盐，以便脱水和保存，然后悬挂起来，最长可达两年。它有一种非常独特的味道。"
+              },
+              {
+                "en": "M: Mm. Sounds interesting. Where can I find some?",
+                "zh": "M：嗯。听起来很有意思。我在哪里能买到一些？"
+              },
+              {
+                "en": "W: It used to be difficult to get Spanish produce here. But it's now a lot more common. Most large supermarket chains have cured ham in little packets, but in Spain you can buy a whole leg.",
+                "zh": "W：以前在这里很难买到西班牙食品。不过现在已经常见多了。大多数大型连锁超市都有小包装的风干火腿，但在西班牙，你可以买到整条猪腿。"
+              },
+              {
+                "en": "M: A whole pig leg? Why would anybody want so much ham?",
+                "zh": "M：整条猪腿？为什么会有人想要这么多火腿？"
+              },
+              {
+                "en": "W: In Spain, many people buy a whole leg for special group events such as Christmas. They cut it themselves into very thin slices with a long flat knife.",
+                "zh": "W：在西班牙，很多人会为圣诞节之类的特殊集体活动买一整条猪腿。他们自己用一把又长又平的刀，把火腿切成非常薄的片。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They come in a great variety."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They do not make decent gifts."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They do not vary much in price."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They go well with Italian food."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "$30-$40."
+                  },
+                  {
+                    "l": "B",
+                    "t": "$40-$50."
+                  },
+                  {
+                    "l": "C",
+                    "t": "$50-$60."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Around $150."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are a healthy choice for elderly people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are especially popular among Italians."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They symbolize good health and longevity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They go well with different kinds of food."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a wine imported from California."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is less spicy than all other red wines."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is far more expensive than he expected."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is Italy's most famous type of red wine."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hello, I wish to buy a bottle of wine.",
+                "zh": "M: 你好，我想买一瓶葡萄酒。"
+              },
+              {
+                "en": "W: Hi, yes. What kind of wine would you like?",
+                "zh": "W: 你好，可以。您想要什么类型的葡萄酒？"
+              },
+              {
+                "en": "M: I don't know. Sorry, I don't know much about wine.",
+                "zh": "M: 我不知道。不好意思，我不太了解葡萄酒。"
+              },
+              {
+                "en": "W: That's no problem at all. What's the occasion and how much would you like to spend?",
+                "zh": "W: 完全没问题。是什么场合？您想花多少钱？"
+              },
+              {
+                "en": "M: It's for my boss. It's his birthday. I know he likes wine, but I don't know what type. I also do not want anything too expensive, maybe mid-range. How much would you say is a mid-range bottle of wine approximately?",
+                "zh": "M: 是送给我老板的，今天是他的生日。我知道他喜欢葡萄酒，但不知道他喜欢什么类型的。我也不想买太贵的，可能中档的就行。您觉得一瓶中档葡萄酒大概多少钱？"
+              },
+              {
+                "en": "W: Well, it varies greatly. Our lowest prices are around $6 a bottle, but those are table wines. They are not very special. And I would not suggest them as a gift. On the other end, our most expensive bottles are over $150. If you are looking for something priced in the middle, I would say anything between $30 and $60 would make a decent gift. How does that sound?",
+                "zh": "W: 这个差别很大。我们最便宜的酒大约每瓶6美元，不过那些是佐餐酒，没什么特别的。我不建议把它们当作礼物。另一方面，我们最贵的酒每瓶超过150美元。如果您想找价格居中的，我觉得30到60美元之间的都可以作为一份不错的礼物。您觉得怎么样？"
+              },
+              {
+                "en": "M: Mm, yeah. I guess something in the vicinity of 30 or 40 would be good. Which type would you recommend?",
+                "zh": "M: 嗯，好吧。我想30或40美元左右的应该不错。您推荐哪种类型？"
+              },
+              {
+                "en": "W: I would say the safest option is always a red wine. They are generally more popular than whites, and can usually be paired with food more easily. Our specialty here is Italian wines, and these tend to be fruity with medium acidity. This one here is a Chianti, which is perhaps Italy's most famous type of red wine. Alternatively, you may wish to try and surprise your boss with something less common, such as this Zinfandel. The grapes are originally native to Croatia but this winery is in eastern Italy and it has a more spicy and peppery flavor. So to summarize, the Chianti is more classical and the Zinfandel more exciting. Both are similarly priced at just under $40.",
+                "zh": "W: 我觉得最稳妥的选择总是红葡萄酒。红葡萄酒通常比白葡萄酒更受欢迎，也通常更容易搭配食物。我们这里的特色是意大利葡萄酒，这类酒往往果香浓郁，酸度适中。这一款是基安蒂，也许是意大利最著名的红葡萄酒类型。或者，您也可以尝试用一些不太常见的酒给您的老板一个惊喜，比如这款仙粉黛。这种葡萄原产于克罗地亚，不过这家酒庄位于意大利东部，因此这款酒的味道更加辛辣，带有胡椒味。总结一下，基安蒂更经典，而仙粉黛更令人兴奋。两款酒的价格相近，都略低于40美元。"
+              },
+              {
+                "en": "M: I will go with Chianti then. Thanks.",
+                "zh": "M: 那我就选基安蒂吧。谢谢。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Learning others' secrets."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Searching for information."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Decoding secret messages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Spreading sensational news."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They helped the U.S. army in World War Ⅱ."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They could write down spoken codes promptly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were assigned to decode enemy messages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were good at breaking enemy secret codes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Important battles fought in the Pacific War."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Decoding of secret messages in war times."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A military code that was never broken."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Navajo Indians' contribution to code breaking.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Many people enjoy secret codes. The harder the code, the more some people will try to figure it out. In wartime, codes are especially important. They help the army send news about battles and the size of enemy forces. Neither side wants its code broken by the other.",
+                "zh": "许多人喜欢秘密代码。代码越复杂，就越会有人努力破解它。在战争时期，代码尤其重要。它们帮助军队传递有关战斗情况和敌军规模的消息。任何一方都不希望自己的代码被对方破解。"
+              },
+              {
+                "en": "One very important code was never broken. It was used during World War II by the Americans. It was a spoken code never written down. And it was developed and used by Navajo Indians. They were called \"the Navajo code talkers\". The Navajos created the code in their own language. Navajo is hard to learn and only a few people know it. So it was pretty certain that the enemy would not be able to understand the code talkers. In addition, the talkers used code words. They called a submarine an iron fish and a small bomb thrown by hand a potato. If they wanted to spell something, they used code words for letters of the alphabet. For instance, the letter A was ant or apple or ax.",
+                "zh": "有一种非常重要的代码始终未被破解。第二次世界大战期间，美国人使用了这种代码。这是一种只通过口头传递、从未记录下来的代码。它由纳瓦霍人开发并使用，他们被称为“纳瓦霍密码传话员”。纳瓦霍人用自己的语言创造了这种代码。纳瓦霍语很难学，只有少数人懂这种语言。因此，敌人几乎肯定无法听懂密码传话员的话。此外，传话员还使用代码词。他们把潜艇称为“铁鱼”，把用手投掷的小型炸弹称为“土豆”。如果需要拼写某个词，他们就使用代表字母表中各个字母的代码词。例如，字母 A 的代码词是蚂蚁、苹果或斧头。"
+              },
+              {
+                "en": "The code talkers worked mostly in the islands in the Pacific. One or two would be assigned to a group of soldiers. They would send messages by field telephone to the code talker in the next group. And he would relay the information to his commander. The code talkers played an important part in several battles. They helped troops coordinate their movements and attacks. After the war, the U.S. government honored them for what they had accomplished. Theirs was the most successful wartime code ever used.",
+                "zh": "密码传话员主要在太平洋的岛屿上工作。每个小组士兵中会分配一两名密码传话员。他们通过野战电话把消息传给下一个小组的密码传话员，然后由后者将信息转达给自己的指挥官。密码传话员在几场战斗中发挥了重要作用。他们帮助部队协调行动和进攻。战争结束后，美国政府因他们所取得的成就而对他们进行了表彰。他们使用的密码是战争期间使用过的最成功的密码。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All services will be personalized."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A lot of knowledge-intensive jobs will be replaced."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Technology will revolutionize all sectors of industry."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More information will be available."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In the robotics industry."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In the information service."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In the personal care sector."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In high-end manufacturing."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They charge high prices."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They need lots of training."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They cater to the needs of young people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They focus on customers' specific needs."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The rising demand in education and healthcare in the next 20 years."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The disruption caused by technology in traditionally well-paid jobs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The tremendous changes new technology will bring to people's lives."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The amazing amount of personal attention people would like to have."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If you are young and thinking about your career, you'll want to know where you can make a living.",
+                "zh": "如果你还年轻，正在考虑自己的职业生涯，那么你会想知道自己在哪里能够谋生。"
+              },
+              {
+                "en": "Well, there's going to be a technological replacement of a lot of knowledge-intensive jobs in the next 20 years, particularly in the two largest sectors of the labor force with professional skills. One is teaching and the other, healthcare. You have so many applications and software and platforms that are going to come in and provide information and service in these two fields, which means a lot of healthcare and education sectors will be radically changed and a lot of jobs will be lost.",
+                "zh": "未来20年，许多知识密集型工作将被技术取代，尤其是劳动力中两个最大的专业技能领域：一个是教育，另一个是医疗保健。大量应用程序、软件和平台将进入这两个领域，提供信息和服务，这意味着医疗保健和教育行业中的许多方面都将发生根本性变化，大量工作岗位也将消失。"
+              },
+              {
+                "en": "Now, where will the new jobs be found? Well, the one sector of the economy that can't be easily duplicated by even smart technologies is the caring sector—the personal care sector. That is, you can't really get a robot to do a great massage or physical therapy, or you can't get the kind of personal attention you need with regard to therapy or any other personal service. There could be very high-end personal services. Therapists do charge a lot of money. I think there's no limit to the amount of personal attention and personal care people would like if they could afford it.",
+                "zh": "那么，新的工作岗位将在哪里出现呢？经济中有一个领域，即使是智能技术也难以轻易复制，那就是照护领域，也就是个人护理领域。换句话说，你很难让机器人完成高质量的按摩或物理治疗，也无法让机器人提供治疗或其他个人服务所需要的那种私人关注。高端个人服务可能会发展起来。治疗师的收费确实很高。我认为，只要人们负担得起，他们对私人关注和个人护理的需求是没有上限的。"
+              },
+              {
+                "en": "But the real question in the future is how come people afford these things if they don't have money, because they can't get a job that pays enough. That's why I wrote this book which is about how to reorganize the economy for the future when technology brings about destructive changes to what we used to consider high income work.",
+                "zh": "但未来真正的问题是，如果人们找不到薪酬足够高的工作、没有钱，他们怎么负担得起这些服务？这就是我写这本书的原因：当技术给我们过去认为的高收入工作带来破坏性变化时，如何为未来重新组织经济。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was the longest road in ancient Egypt."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was constructed some 500 years ago."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It lay 8 miles from the monument sites."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It linked a stone pit to some waterways."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Saws used for cutting stone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Traces left by early explorers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "An ancient geographical map."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some stone tool segments."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To transport stones to block floods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To provide services for the stone pit."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To link the various monument sites."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To connect the villages along the Nile.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "American researchers have discovered the world's oldest paved road, a 4,600-year-old highway. It linked a stone pit in the Egyptian desert to waterways that carried blocks to monument sites along the Nile. The 8-mile road is at least 500 years older than any previously discovered road. It is the only paved road discovered in ancient Egypt, said geologist Thomas Bown of the United States Geological Survey. He reported the discovery on Friday. \"The road probably doesn't rank with the pyramids as a construction feat, but it is a major engineering achievement,\" said his colleague, geologist James Harrell of the University of Toledo. \"Not only is the road earlier than we thought possible, we didn't even think they built roads.\" The researchers also made a discovery in the stone pit at the northern end of the road: the first evidence that the Egyptians used rock saws. \"This is the oldest example of saws being used for cutting stone,\" said Bown's colleague James Hoffmeier of Wheaton College in Illinois.",
+                "zh": "美国研究人员发现了世界上最古老的铺砌道路，这是一条有4600年历史的公路。它连接着埃及沙漠中的一处采石场和水道，水道将石块运往尼罗河沿岸的纪念性建筑遗址。这条长约8英里的道路至少比此前发现的任何道路早500年。美国地质调查局地质学家托马斯·鲍恩说，这是在古埃及发现的唯一一条铺砌道路。他于周五报告了这一发现。“这条道路的建造成就或许无法与金字塔相提并论，但它是一项重大的工程成就，”他的同事、托莱多大学地质学家詹姆斯·哈勒尔说。“这条道路不仅比我们原先认为可能的年代还要早，我们甚至从未认为他们修建过道路。”研究人员还在道路北端的采石场中有了另一项发现：埃及人使用石锯的首个证据。“这是目前发现的使用锯切割石材的最早实例，”鲍恩的同事、伊利诺伊州惠顿学院的詹姆斯·霍夫迈尔说。"
+              },
+              {
+                "en": "\"That's two technologies we didn't know they had,\" Harrell said. \"And we don't know why they were both abandoned.\" The road was discovered in the Faiyum Depression, about 45 miles southwest of Cairo. Short segments of the road had been observed by earlier explorers, Bown said, but they failed to realize its significance or follow up on their observations. Bown and his colleagues stumbled across it while they were doing geological mapping in the region. The road was clearly built to provide services for the newly discovered stone pit. Bown and Harrell have found the camp that housed workers at the stone pit. The road appears today to go nowhere, ending in the middle of the desert. When it was built, its terminal was a dock on the shore of Lake Moeris, which had an elevation of about 66 feet above sea level, the same as the dock. Lake Moeris received its water from the annual floods of the Nile. At the time of the floods, the river and lake were at the same level and connected through a gap in the hills near the modern villages of el-Lahun and Hawara. Harrell and Bown believe that blocks were loaded onto barges during the dry season, then floated over to the Nile during the floods to be shipped off to the monument sites at Giza and Saqqara.",
+                "zh": "“这是我们此前不知道他们掌握的两项技术，”哈勒尔说。“而且我们不知道为什么这两项技术后来都被弃用了。”这条道路是在法尤姆洼地发现的，位于开罗西南约45英里处。鲍恩说，早期的探险者曾看到过这条道路的几小段，但他们没有意识到其重要性，也没有继续调查。鲍恩和他的同事在该地区进行地质测绘时偶然发现了它。这条道路显然是为新发现的采石场提供服务而修建的。鲍恩和哈勒尔已经找到了容纳采石场工人的营地。如今，这条道路看上去通向一个虚无之处，终止在沙漠中央。它建成时，道路的终点是莫里斯湖岸边的一座码头；湖面海拔约66英尺，码头也处于同一高度。莫里斯湖的水来自尼罗河每年的洪水。洪水期间，河流和湖泊处于同一水位，并通过现代埃尔拉洪村和哈瓦拉村附近山丘间的一道缺口相连。哈勒尔和鲍恩认为，石块会在旱季装上驳船，随后在洪水期间漂运到尼罗河，再运往吉萨和萨卡拉的纪念性建筑遗址。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Dr. Gong didn't give him any conventional tests."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Dr. Gong marked his office with a hand-painted sign."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Dr. Gong didn't ask him any questions about his pain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Dr. Gong slipped in needles where he felt no pain."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He had heard of the wonders acupuncture could work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Dr. Gong was very famous in New York's Chinatown."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Previous medical treatments failed to relieve his pain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He found the expensive medical tests unaffordable."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More and more patients ask for the treatment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Acupuncture techniques have been perfected."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It doesn't need the conventional medical tests."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It does not have any negative side effects.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The thin, extremely sharp needles didn't hurt at all going in. Dr. Gong pierced them into my left arm, around the elbow that had been bothering me. Other needles were slipped into my left wrist and, strangely, into my right arm, and then into both my closed eyelids.",
+                "zh": "那些纤细而极其锋利的针刺入时一点也不疼。龚医生将它们刺入我的左臂，位置在一直困扰我的肘部周围。还有一些针被刺入我的左手腕，奇怪的是，还刺入了我的右臂，随后又刺入我紧闭的双眼皮。"
+              },
+              {
+                "en": "There wasn't any discomfort, just a mild warming sensation. However, I did begin to wonder what had driven me here, to the office of Dr. James Gong in New York's Chinatown. Then I remembered—the torturing pain in that left elbow. Several trips to a hospital and two expensive, uncomfortable medical tests had failed to produce even a diagnosis. \"Maybe you lean on your left arm too much,\" the doctor concluded, suggesting I see a bone doctor. During the hours spent waiting in vain to see a bone doctor, I decided to take another track and try acupuncture. A Chinese-American friend recommended Dr. Gong. I took the subway to Gong's second-floor office, marked with a hand-painted sign.",
+                "zh": "没有任何不适，只有轻微的温热感。然而，我开始思考究竟是什么促使我来到纽约唐人街的James Gong医生诊所。然后我想起来了——左肘那折磨人的疼痛。我去过几次医院，做过两项昂贵而令人不适的医学检查，却始终连诊断结果都没有得到。“也许你太经常倚靠左臂了，”医生下结论说，并建议我去看骨科医生。在等待骨科医生、却迟迟见不到他的几个小时里，我决定换一条路，试试针灸。一位华裔美国朋友向我推荐了龚医生。我乘地铁来到龚医生的诊所。诊所在二楼，门口挂着一块手绘招牌。"
+              },
+              {
+                "en": "Dr. Gong speaks English, but not often. Most of my questions to him were greeted with a friendly laugh, but I managed to let him know where my arm hurt. He asked me to go into a room, had me lie down on a bed, and went to work. In the next room, I learned, a woman dancer was also getting a treatment. As I lay there a while, I drifted into a dream-like state and fantasized about what she looked like.",
+                "zh": "龚医生会说英语，但并不常说。我问他的大多数问题都只得到他友善的笑声回应，不过我还是设法让他知道我的手臂哪里疼。他让我走进一个房间，叫我躺到床上，然后开始施治。我得知，隔壁房间里还有一位女舞蹈演员也在接受治疗。我在那里躺了一会儿，渐渐进入梦幻般的状态，并幻想着她长什么样。"
+              },
+              {
+                "en": "Acupuncturists today are as likely to be found on Park Avenue as on Mott Street. In all, there are an estimated 10,000 acupuncturists in the country. Nowadays, a lot of medical doctors have learned acupuncture techniques; so have a number of dentists. Reason? Patient demand. Few, though, can adequately explain how acupuncture works. Acupuncturists may say that the body has more than 800 acupuncture points. A life force called qi circulates through the body. Points on the skin are energetically connected to specific organs, body structures and systems. Acupuncture points are stimulated to balance the circulation of qi. \"The truth is, though acupuncture is at least 2,200 years old, nobody really knows what's happening,\" says Paul Zmiewski, a Ph.D. in Chinese studies who practices acupuncture in Philadelphia.",
+                "zh": "如今，在公园大道上和莫特街上一样，都有可能找到针灸师。据估计，全国共有一万名针灸师。如今，许多西医医生已经学会了针灸技术；一些牙医也学会了。原因是什么？患者的需求。不过，很少有人能够充分解释针灸是如何起作用的。针灸师可能会说，人体有八百多个针灸穴位。一种称为“气”的生命力在体内循环。皮肤上的穴位在能量上与特定的器官、身体结构和系统相连。通过刺激穴位，可以平衡气的流动。 “然而，事实是，尽管针灸至少已有2200年的历史，但没有人真正知道究竟发生了什么，”在费城行医的中国研究博士Paul Zmiewski说。"
+              },
+              {
+                "en": "After five treatments, there has been dramatic improvement in my arm, and the pain is a fraction of what it was. The mainly silent Dr. Gong finally even offered a diagnosis for what troubled me. \"Pinched nerve,\" he said.",
+                "zh": "经过五次治疗，我的手臂有了显著好转，疼痛只剩下原来的很小一部分。一直沉默寡言的龚医生最终甚至为困扰我的病痛作出了诊断。“神经受压，”他说。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were on the verge of breaking up."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were compatible despite differences."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They quarreled a lot and never resolved their arguments."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They argued persistently about whether to have children."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Neither of them has any brothers or sisters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Neither of them won their parents' favor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They weren't spoiled in their childhood."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They didn't like to be the apple of their parents' eyes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are usually good at making friends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to be adventurous and creative."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are often content with what they have."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They tend to be self-assured and responsible."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They enjoy making friends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to be well adjusted."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are least likely to take initiative."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They usually have successful marriages."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Ronald and Lois, married for two decades, consider themselves a happy couple. But in the early years of their marriage, both were disturbed by persistent arguments that seem to fade away without ever being truly resolved. They uncovered clues to what was going wrong by researching a fascinating subject: how birth order affects not only your personality, but also how compatible you are with your mate!",
+                "zh": "罗纳德和洛伊丝结婚已有二十年，他们认为自己是一对幸福的夫妻。然而，在婚姻初期，双方都曾因持续不断的争吵而感到困扰，而这些争吵似乎总是在没有真正得到解决的情况下逐渐平息。他们通过研究一个引人入胜的课题，发现了问题所在的一些线索：出生顺序不仅会影响一个人的性格，还会影响他与配偶的契合程度！"
+              },
+              {
+                "en": "Ronald and Lois are only children, and \"onlies\" grow up accustomed to being the apple of their parents' eyes. Match two \"onlies\" and you have partners who subconsciously expect each other to continue fulfilling this expectation, while neither has much experience in the \"giving\" end.",
+                "zh": "罗纳德和洛伊丝都是独生子女，而独生子女从小就习惯成为父母的掌上明珠。两个独生子女结合在一起后，双方都会在潜意识中期望对方继续满足这一期待，但两人在“付出”方面都没有多少经验。"
+              },
+              {
+                "en": "Here's a list of common birth-order characteristics—and some thoughts on the best and worst marital matches for each.",
+                "zh": "下面列出了一些常见的出生顺序特征，以及关于每种类型最适合和最不适合的婚姻组合的一些看法。"
+              },
+              {
+                "en": "The oldest tends to be self-assured, responsible, a high achiever and relatively serious and reserved. He may be slow to make friends, perhaps content with only one companion. The best matches are with a youngest, an \"only,\" or a mate raised in a large family. The worst match is with another oldest child, since the two will be too sovereign to share a household comfortably.",
+                "zh": "长子通常自信、负责、成就突出，而且相对严肃、内向。他可能交友较慢，也许满足于只有一个伴侣。最适合他的对象是最小的孩子、独生子女，或是在大家庭中长大的人。最不适合的对象是另一个长子，因为两人都会过于独断，难以舒适地共同生活。"
+              },
+              {
+                "en": "The youngest child of the family thrives on attention and tends to be outgoing, adventurous, optimistic, creative and less ambitious than others in the family. He may lack self-discipline and have difficulty making decisions on his own. A youngest brother of brothers, often unpredictable and romantic, will match best with an oldest sister of brothers. The youngest sister of brothers is best matched with an oldest brother of sisters, who will happily indulge these traits.",
+                "zh": "家中最小的孩子在关注中茁壮成长，往往外向、喜欢冒险、乐观、有创造力，而且不像家中其他人那样有抱负。他可能缺乏自律，也难以独自做出决定。兄弟中的幼弟通常难以预测且富有浪漫情怀，与兄弟中的长姐最为般配。兄弟中的幼妹最适合与姐妹中的长兄结合，而后者会乐于迁就她的这些特点。"
+              },
+              {
+                "en": "The middle child is influenced by many variables; however, middles are less likely to take initiative and more anxious and self-critical than others. Middles often successfully marry other middles, since both are strong on tact, not so strong on aggressiveness and tend to crave affection.",
+                "zh": "中间出生的孩子会受到许多因素的影响；不过，中间出生的孩子较少主动采取行动，而且比其他人更加焦虑、自我苛责。中间出生的孩子常常能与另一个中间出生的孩子成功结婚，因为双方都很讲究 tact，却不太好强，并且往往渴望得到关爱。"
+              },
+              {
+                "en": "The only child is often most comfortable when alone. But since an \"only,\" tends to be a well-adjusted individual, she'll eventually learn to relate to any chosen spouse. The male only child expects his wife to make life easier without getting much in return. He is sometimes best matched with a younger sister of brothers. The female only child, who tends to be slightly more flexible, is well matched with an older man, who will indulge her tendency to test his love. Her worst match? Another \"only,\" of course.",
+                "zh": "独生子女通常在独处时最为自在。不过，由于独生子女往往是适应良好的人，她最终会学会与自己选择的任何配偶相处。男性独生子女希望妻子让生活变得轻松，却不愿给予太多回报。他有时与兄弟中的妹妹最为般配。女性独生子女往往更加灵活，适合与年长的男性结合，而后者会迁就她考验自己对他的爱这一倾向。她最不适合的对象呢？当然是另一个独生子女。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2018-6-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "When Elon Musk says that his new priority is using artificial intelligence to build domestic robots, we should look forward to the day in admiration. Mr. Musk is a guy who gets things done. The founder of two tech companies, Tesla Motors and SpaceX, is bringing electric vehicles to mass market and"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "humans to live on other planets. This sounds like so much hot air, but the near $13 billion fortune this entrepreneur has"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "comes from practical achievements rather than hypothetical ones. A lot of clever people are"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "about artificial intelligence, fearing that robots will one day become so"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "that they'll murder all of us. These fears are mostly"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ": as with hysteria about genetic modification, we humans are generally wise enough to manage these problems with speed and care. And just think of how wonderful it would be if you had a live-in robot. It could,"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ", be like having a babysitter and a nurse rolled into one—or, if that required"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "intelligence beyond the power of Mr. Musk's imagined machine, at least someone to chop the carrots, wash the car and mow the lawn. Once purchased and trained, this would allow the"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "user to save money and time, freeing up"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "space in our busy lives to read a good book. That is why we welcome Mr. Musk's latest"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": ", and wish him well. As long as robots add to the sum of human happiness, reduce suffering, and create time to read world-class journalism, we should be their fans. Especially since journalism is one job robots will never do."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "amassed"
+        },
+        {
+          "l": "B",
+          "w": "casual"
+        },
+        {
+          "l": "C",
+          "w": "emotional"
+        },
+        {
+          "l": "D",
+          "w": "enabling"
+        },
+        {
+          "l": "E",
+          "w": "eventually"
+        },
+        {
+          "l": "F",
+          "w": "exaggerated"
+        },
+        {
+          "l": "G",
+          "w": "extravagant"
+        },
+        {
+          "l": "H",
+          "w": "generously"
+        },
+        {
+          "l": "I",
+          "w": "misleading"
+        },
+        {
+          "l": "J",
+          "w": "precious"
+        },
+        {
+          "l": "K",
+          "w": "reward"
+        },
+        {
+          "l": "L",
+          "w": "smart"
+        },
+        {
+          "l": "M",
+          "w": "sphere"
+        },
+        {
+          "l": "N",
+          "w": "terrified"
+        },
+        {
+          "l": "O",
+          "w": "venture"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "D"
+        },
+        {
+          "n": 27,
+          "a": "A"
+        },
+        {
+          "n": 28,
+          "a": "N"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "F"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "C"
+        },
+        {
+          "n": 33,
+          "a": "B"
+        },
+        {
+          "n": 34,
+          "a": "J"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "In the real world, nobody cares that you went to an Ivy League school",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "As a high school junior, everything in my life revolved around getting into the right college. I diligently attended my SAT, ACT, and Advanced Placement test preparation courses. I juggled(尽力应付) cross-country and track schedules, newspaper staff, and my church's youth group and drama team. I didn't drink, party, or even do much dating. The right college, I thought, was one with prestige, one with a name. It didn't have to be the Ivy League, but it needed to be a \"top school.\""
+        },
+        {
+          "l": "B",
+          "t": "Looking back now, nine years later, I can't remember exactly what it was about these universities that made them seem so much better. Was it a curriculum that appeared more rigorous, perhaps? Or an alumni network that I hoped would open doors down the line? Maybe. \"I do think there are advantages to schools with more recognition,\" notes Marybeth Gasman, a professor of higher education at the University of Pennsylvania. \"I don't necessarily think that's a reason to go to one.\""
+        },
+        {
+          "l": "C",
+          "t": "In reflection, my firm belief in the power of the brand was naive, not to mention a bit snobby. I quickly passed over state schools and southern schools, believing their curriculums to be automatically inferior to northeastern or western counterparts. Instead, I dreamed of living in New York City and my parents obliged me with a visit to New York University's (NYU) campus. During the tour, tuition fees were discussed. (NYU is consistently ranked one of the country's most expensive schools, with room and board costs totaling upwards of $64,000 a year.) Up until then, I hadn't truly realized just how expensive an education can be. Over the next few months, I realized not only could I not afford my dream school, I couldn't even afford the ones where I'd been accepted. City University of New York (CUNY), Rutgers University, and Indiana University were out of reach as were Mississippi State and the University of Alabama, where I would have to pay out-of-state fees. Further complicating my college search was a flourishing track career—I wanted to keep running but my times weren't quite fast enough to secure a scholarship."
+        },
+        {
+          "l": "D",
+          "t": "And so, at 11 pm on the night of Georgia State University's (GSU) midnight deadline, I applied online. Rated No. 466 overall on Forbes' Lists Top Colleges, No. 183 in Research Universities, and No. 108 in the South, I can't say it was my top choice. Still, the track coach had offered me a walk-on spot, and I actually found the urban Atlanta campus a decent consolation prize after New York City."
+        },
+        {
+          "l": "E",
+          "t": "While it may have been practical, it wasn't prestigious. But here's the thing: I loved my \"lower-tier\"(低层次 的) university. (I use the term \"low-tier\" cautiously, because GSU is a well-regarded research institution that attracts high quality professors and faculty from all over the country.) We are taught to believe that only by going to the best schools and getting the best grades can we escape the rat race and build a better future. But what if lower-tier colleges and universities were the ticket to escaping the rat race? After all, where else can you leave school with a decent degree—but without a lifetime of debt?"
+        },
+        {
+          "l": "F",
+          "t": "My school didn't come prepackaged like the more popular options, so we were left to take care of ourselves, figuring out city life and trying to complete degree programs that no one was championing for us to succeed in. What I'm saying is, I loved my university because it taught us all to be resourceful and we could make what we wanted out of it."
+        },
+        {
+          "l": "G",
+          "t": "I was lucky enough to have my tuition covered by a lottery-funded scholarship called HOPE (Helping Outstanding Pupils Educationally). When I started college, the HOPE scholarship was funded by the state of Georgia and offered to graduating high school seniors with a GPA of 3.0 or higher. Living costs and books I paid for with money earned during high school, supplemented by a small college fund my deceased grandfather left for me and a modest savings account my parents created when I was born."
+        },
+        {
+          "l": "H",
+          "t": "So what about all that name recognition? Sure, many of my colleagues and competitors have more glamorous alma maters(母校) than I do. As a journalist, I have competed against NYU, Columbia, and Northeastern graduates for jobs. And yet, not a single interviewer has ever asked me about my educational background. In fact, almost every interview I've ever had was due to a connection—one that I've gained through pure determination, not a school brand."
+        },
+        {
+          "l": "I",
+          "t": "According to The Boston Globe, students who earned their bachelor's in 2012 have an average monthly loan payment of $312, which is one-third more than those who graduated in 2004. Ultimately, that's the thing universities don't want to admit. Private universities are money-making institutions. If you can afford to buy prestige, that's your choice. For the rest of us, however, our hearty lower-tiered universities are just fine, thank you."
+        },
+        {
+          "l": "J",
+          "t": "Wealthy universities talk up the benefits their name will give graduates: namely, strong alumni networks, star faculty, and a résumé boost. But you needn't attend an Ivy League school to reap those rewards. Ludacris and the former CEO of Bank of America Ken Lewis are alumni of my college, as well as VICE's first female editor-in-chief, Ellis Jones. Successful people tend to be successful no matter where they go to school, and lower-tier schools can have alumni networks just as strong as their big name counterparts. In fact, lower-tier school alumni networks are arguably stronger, because fellow alumni recognize that you didn't necessarily have an easy path to follow. They might be more willing to offer career help, because your less famous school denotes that, like them, you are also full of energy and perseverance."
+        },
+        {
+          "l": "K",
+          "t": "The Washington Post reported on a recent study by Princeton economists, in which college graduates who applied to the most selective schools in the 12th grade were compared to those who applied to slightly less selective schools. They found that students with more potential earned more as adults, and the reverse held true as well, no matter where they went to school."
+        },
+        {
+          "l": "L",
+          "t": "Likewise, star faculty are not always found where you'd expect. Big name schools are not necessarily the best places for professors; plus, many professors split teaching time between multiple colleges and/or universities. This means, for instance, a CUNY student could reasonably expect to receive the same quality of instruction from a prestigious professor as they would if they were enrolled in the same class at NYU."
+        },
+        {
+          "l": "M",
+          "t": "It's possible that some hiring managers may be drawn to candidates with a particular educational résumé, but it's no guarantee. According to a 2012 survey described in The Atlantic, college reputation ranked lowest in relative importance of attributes in evaluating graduates for hire, beaten out by top factors like internships, employment during college, college major, volunteer experience, and extracurriculars."
+        },
+        {
+          "l": "N",
+          "t": "Maybe students who choose less prestigious universities are bound to succeed because they are determined to. I tend to think so. In any case, if I could do it again, I'd still make the same choice. Today I'm debt-free, resourceful—and I understand that even the shiniest packaging can't predict what you'll find on the inside."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Modest institutions can also have successful graduates and strong alumni networks.",
+          "a": "J"
+        },
+        {
+          "n": 37,
+          "s": "The money the author made in high school helped pay for her living expenses and books at college.",
+          "a": "G"
+        },
+        {
+          "n": 38,
+          "s": "The author came to see how costly college education could be when she was trying to choose a university to attend.",
+          "a": "C"
+        },
+        {
+          "n": 39,
+          "s": "A recent study found that a graduate's salary is determined by their potential, not the university they attended.",
+          "a": "K"
+        },
+        {
+          "n": 40,
+          "s": "The author cannot recall for sure what made certain top universities appear a lot better.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "None of the author's job interviewers cared which college she went to.",
+          "a": "H"
+        },
+        {
+          "n": 42,
+          "s": "The author thinks she did the right thing in choosing a less prestigious university.",
+          "a": "N"
+        },
+        {
+          "n": 43,
+          "s": "In order to be admitted to a prestigious university, the author took part in various extracurricular activities and attended test preparation courses.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "The author liked her university which was not prestigious but less expensive.",
+          "a": "E"
+        },
+        {
+          "n": 45,
+          "s": "Colleges are reluctant to admit that graduates today are in heavier debt.",
+          "a": "I"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Economically speaking, are we better off than we were ten years ago? Twenty years ago? In their thirst for evidence on this issue, commentators seized on the recent report by the Census Bureau, which found that average household income rose by 5.2% in 2015. Unfortunately, that conclusion puts too much weight on a useful, but flawed and incomplete, statistic. Among the more significant problems with the Census's measure are that: 1) it excludes taxes, transfers, and compensation like employer-provided health insurance; and 2) it is based on surveys rather than data. Even if precisely measured, income data exclude important determinants of economic well-being, such as the hours of work needed to earn that income. While thinking about the question, we came across a recently published article by Charles Jones and Peter Klenow, which proposes an interesting new measure of economic welfare. While by no means perfect, it is considerably more comprehensive than average income, taking into account not only growth in consumption per person but also changes in working time, life expectancy, and inequality. Moreover, it can be used to assess economic performance both across countries and over time. The Jones-Klenow method can be illustrated by a cross-country example. Suppose we want to compare the economic welfare of citizens of the U.S. and France in 2005. In 2005, as the authors observe: real consumption per person in France was only 60% as high as the U.S., making it appear that Americans were economically much better off than the French on average. However, that comparison omits other relevant factors: leisure time, life expectancy, and economic inequality. The French take longer vacations and retire earlier, so typically work fewer hours; they enjoy a higher life expectancy, presumably reflecting advantages with respect to health care, diet, lifestyle, and the like; and income and consumption are somewhat more equally distributed there than in the U.S. Because of these differences, comparing France's consumption with the U.S.'s overstates the gap in economic welfare. Similar calculations can be used to compare the U.S. and other countries. For example, this calculation puts economic welfare in the United Kingdom at 97% of U.S. levels, but estimates Mexican well-being at 22%. The Jones-Klenow measure can also assess an economy's performance over time. According to this measure, as of the early-to-mid-2000s, the U.S. had the highest economic welfare of any large country. Since 2007, economic welfare in the U.S. has continued to improve. However, the pace of improvement has slowed markedly. Methodologically, the lesson from the Jones-Klenow research is that economic welfare is multi-dimensional. Their approach is flexible enough that in principle other important quality-of-life changes could be incorporated- for example, decreases in total emissions of pollutants and declines in crime rates.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does the author think of the 2015 report by the Census Bureau?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is based on questionable statistics."
+              },
+              {
+                "l": "B",
+                "t": "It reflects the economic changes."
+              },
+              {
+                "l": "C",
+                "t": "It evidences the improved welfare."
+              },
+              {
+                "l": "D",
+                "t": "It provides much food for thought."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the author say about the Jones-Klenow method?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is widely used to compare the economic growth across countries."
+              },
+              {
+                "l": "B",
+                "t": "It revolutionizes the way of measuring ordinary people's livelihood."
+              },
+              {
+                "l": "C",
+                "t": "It focuses on people's consumption rather than their average income."
+              },
+              {
+                "l": "D",
+                "t": "It is a more comprehensive measure of people's economic well-being."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What do Jones and Klenow think of the comparison between France and the U. S. in terms of real\n consumption per person?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It reflected the existing big gap between the two economies."
+              },
+              {
+                "l": "B",
+                "t": "It neglected many important indicators of people's welfare."
+              },
+              {
+                "l": "C",
+                "t": "It covered up the differences between individual citizens."
+              },
+              {
+                "l": "D",
+                "t": "It failed to count in their difference in natural resources."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What is an advantage of the Jones-Klenow method?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It can accurately pinpoint a country's current economic problems."
+              },
+              {
+                "l": "B",
+                "t": "It can help to raise people's awareness of their economic well-being."
+              },
+              {
+                "l": "C",
+                "t": "It can diagnose the causes of a country's slowing pace of economic improvement."
+              },
+              {
+                "l": "D",
+                "t": "It can compare a country's economic conditions between different periods of time."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What can we infer from the passage about American people's economic well-being?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is much better than that of their European counterparts."
+              },
+              {
+                "l": "B",
+                "t": "It has been on the decline ever since the turn of the century."
+              },
+              {
+                "l": "C",
+                "t": "It has not improved as much as reported by the Census Bureau."
+              },
+              {
+                "l": "D",
+                "t": "It has not been accurately assessed and reported since mid-2000s."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "If you've ever started a sentence with, \"If I were you…\" or found yourself scratching your head at a colleague's agony over a decision when the answer is crystal-clear, there's a scientific reason behind it. Our own decision-making abilities can become depleted over the course of the day causing indecision or poor choices, but choosing on behalf of someone else is an enjoyable task that doesn't suffer the same pitfalls. The problem is \"decision fatigue,\" a psychological phenomenon that takes a toll on the quality of your choices after a long day of decision making, says Evan Polman, a leading psychologist. Physicians who have been on the job for several hours, for example, are more likely to prescribe antibiotics to patients when it's unwise to do so. \"Presumably it's because it's simple and easy to write a prescription and consider a patient case closed rather than investigate further,\" Polman says. But decision fatigue goes away when you are making the decision for someone else. When people imagine themselves as advisers and imagine their own choices as belonging to someone else, they feel less tired and rely less on decision shortcuts to make those choices. \"By taking upon the role of adviser rather than decision maker, one does not suffer the consequences of decision fatigue,\" he says. \"It's as if there's something fun and liberating about making someone else's choice.\" Getting input from others not only offers a fresh perspective and thought process; it often also includes riskier choices. While this sounds undesirable, it can be quite good, says Polman. \"When people experience decision fatigue—when they are tired of making choices—they have a tendency to choose to go with the status quo( 现状),\" he says. \"But the status quo can be problematic, since a change in the course of action can sometimes be important and lead to a positive outcome.\" In order to achieve a successful outcome or reward, some level of risk is almost always essential. \"People who are susceptible to decision fatigue will likely choose to do nothing over something,\" he says, \"That's not to say that risk is always good, but it is related to taking action whereas decision fatigue assuredly leads to inaction and the possible chagrin(懊恼) of a decision maker who might otherwise prefer a new course but is unfortunately hindered.\" Just because you can make good choices for others doesn't mean you'll do the same for yourself, Polman cautions. \"Research has found that women negotiate higher salaries for others than they do for themselves,\" he says, adding that people slip in and out of decision roles.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about people making decisions?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may become exhausted by making too many decisions for themselves."
+              },
+              {
+                "l": "B",
+                "t": "They are more cautious in making decisions for others than for themselves."
+              },
+              {
+                "l": "C",
+                "t": "They tend to make decisions the way they think advantageous to them."
+              },
+              {
+                "l": "D",
+                "t": "They show considerable differences in their decision-making abilities."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What does the example about the physicians illustrate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Patients seldom receive due care towards the end of the day."
+              },
+              {
+                "l": "B",
+                "t": "Prescription of antibiotics can be harmful to patients' health."
+              },
+              {
+                "l": "C",
+                "t": "Decision fatigue may prevent people making wise decisions."
+              },
+              {
+                "l": "D",
+                "t": "Medical doctors are especially susceptible to decision fatigue."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "When do people feel less decision fatigue?",
+            "o": [
+              {
+                "l": "A",
+                "t": "When they take decision shortcuts."
+              },
+              {
+                "l": "B",
+                "t": "When they help others to make decisions."
+              },
+              {
+                "l": "C",
+                "t": "When they have major decisions to make."
+              },
+              {
+                "l": "D",
+                "t": "When they have advisers to turn to."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What are people likely to do when decision fatigue sets in?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They turn to physicians for advice."
+              },
+              {
+                "l": "B",
+                "t": "They tend to make risky decisions."
+              },
+              {
+                "l": "C",
+                "t": "They adopt a totally new perspective."
+              },
+              {
+                "l": "D",
+                "t": "They refrain from trying anything new."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does the passage say about taking some risk in decision making?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is vital for one to reach the goal desired."
+              },
+              {
+                "l": "B",
+                "t": "It is likely to entail serious consequences."
+              },
+              {
+                "l": "C",
+                "t": "It will enable people to be more creative."
+              },
+              {
+                "l": "D",
+                "t": "It will more often than not end in regret."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "自行车曾经是中国城乡最主要的交通工具，中国一度被称为\"自行车王国\"。如今，随着城市交通拥堵和空 气污染日益严重，骑自行车又开始流行起来。近来，中国企业家将移动互联网技术与传统自行车结合在一起， 发明了一种称为共享单车(shared bikes)的商业模式。共享单车的出现使骑车出行更加方便，人们仅需一部手机 就可以随时使用共享单车。为了鼓励人们骑车出行，很多城市修建了自行车道。现在，越来越多的中国人也喜 欢通过骑车健身。",
+    "reference": "Bicycles were once the most important means of transportation in both China's cities and the countryside, and China was once called the \"Kingdom of Bicycles\". Nowadays, as traffic congestion and air pollution in cities are becoming increasingly serious, cycling is becoming popular again. Recently, Chinese entrepreneurs have invented a business model called shared bikes by combining mobile Internet technology with traditional bicycles. The emergence of shared bikes makes cycling more convenient, and people only need a mobile phone to use shared bikes at any time. To encourage people to travel by bike, many cities have built bike lanes. Nowadays, more and more Chinese people also enjoy keeping fit by cycling."
+  }
+}

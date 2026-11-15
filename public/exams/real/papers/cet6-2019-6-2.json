@@ -1,0 +1,1457 @@
+{
+  "id": "cet6-2019-6-2",
+  "level": "cet6",
+  "year": 2019,
+  "month": 6,
+  "set": 2,
+  "title": "2019年6月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of mutual understanding and respect in interpersonal relationships. You should write at least 150 words but no more than 200 words.",
+    "sample": "In our daily interactions, we inevitably encounter people whose habits, values and opinions differ from our own. In my view, mutual understanding and respect form the very foundation of any healthy interpersonal relationship, and their importance can hardly be overstated.The most compelling reason is that understanding and respect help us resolve conflicts and build lasting trust. When we make an effort to see things from another person's perspective, misunderstandings that might otherwise escalate into quarrels can be smoothly settled. I once witnessed two roommates fall into a bitter dispute over daily routines; instead of blaming each other, they sat down, listened patiently, and reached a compromise. That single conversation, rooted in mutual respect, transformed their tense coexistence into a warm friendship.Therefore, it is safe to conclude that mutual understanding and respect are indispensable to harmonious relationships. Once we learn to treat others with genuine empathy, we will find our connections far more rewarding. Let us cherish this principle in every relationship we build."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Why Roman Holiday was more famous than Breakfast at Tiffany's."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Why Audrey Hepburn had more female fans than male ones."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Why the woman wanted to be like Audrey Hepburn."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Why so many girls adored Audrey Hepburn."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Her unique personality."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her physical condition."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Her shift of interest to performing arts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her family's suspension of financial aid."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She was not an outgoing person."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She was modest and hardworking."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She was easy-going on the whole."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She was usually not very optimistic."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She was influenced by the roles she played in the films."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her parents taught her to sympathize with the needy."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She learned to volunteer when she was a child."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her family benefited from other people's help.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Wow, I would give anything to be more like Audrey Hepburn.",
+                "zh": "W: 哇，我愿意付出任何代价，只希望自己能更像奥黛丽·赫本。"
+              },
+              {
+                "en": "M: I never really understood why so many girls were such big fans of her. I mean, I've seen the famous films, Roman Holiday, Breakfast at Tiffany's and a few others, but I still don't fully get it. Was she that great of an actress?",
+                "zh": "M: 我一直不太明白，为什么那么多女孩会如此喜欢她。我的意思是，我看过《罗马假日》《蒂凡尼的早餐》和其他几部著名电影，但我还是不完全明白。她的演技真的有那么好吗？"
+              },
+              {
+                "en": "W: Well, for me, my adoration goes beyond her movies. She had such a classic elegance about her. She was always so poised, in part because she spent years training as a ballet dancer before becoming an actress.",
+                "zh": "W: 对我来说，我对她的喜爱超越了她的电影。她身上有一种非常经典的优雅气质。她总是显得那么沉着端庄，部分原因是她在成为演员之前，曾花了多年时间训练芭蕾舞。"
+              },
+              {
+                "en": "M: Why didn't she stick to dancing as a career?",
+                "zh": "M: 她为什么没有把跳舞作为自己的职业？"
+              },
+              {
+                "en": "W: It seems it was fate. She suffered from inadequate nutrition during the war, and therefore, a career as a professional dancer would have been too demanding on her body. So she focused on acting instead. Roman Holiday was her first big break which made her a star.",
+                "zh": "W: 看来这似乎是命运的安排。战争期间，她营养不良，因此，成为一名职业舞者对她的身体来说会太过勉强。所以她转而专注于表演。《罗马假日》是她第一次获得重大突破的作品，也让她成为了明星。"
+              },
+              {
+                "en": "M: Was that the film that opened with her shopping for jewelry in New York City? You know, in the scene, she was wearing a black dress and dark sunglasses with a pearl necklace and long black gloves. I see the photo of her in that costume everywhere.",
+                "zh": "M: 是不是那部以她在纽约市购买珠宝开始的电影？你知道，在那个场景里，她穿着一条黑裙子，戴着深色太阳镜、珍珠项链和长长的黑手套。我到处都能看到她穿着那身装扮的照片。"
+              },
+              {
+                "en": "W: No, that one is Breakfast At Tiffany's. That costume is often referred to as the most famous little black dress of all time. Her character in that film is very outgoing and charming, even though in real life, Audrey always described herself as shy and quiet.",
+                "zh": "W: 不，那部是《蒂凡尼的早餐》。那套装扮常被称为有史以来最著名的小黑裙。她在那部电影中饰演的角色非常外向迷人，尽管在现实生活中，奥黛丽总是形容自己腼腆而安静。"
+              },
+              {
+                "en": "M: So what did she do after her acting career?",
+                "zh": "M: 那么她息影之后做了什么？"
+              },
+              {
+                "en": "W: She dedicated much of her life to helping children in need. Her family received international aid during the war when she was growing up. I think that left a big impression on her. That's where I got the idea to volunteer for children's charity next weekend.",
+                "zh": "W: 她把人生的大部分时间都 devoted to 帮助有需要的儿童。她小时候，家人在战争期间接受过国际援助。我想那给她留下了深刻的印象。这就是我想到下个周末去儿童慈善机构做志愿者的原因。"
+              },
+              {
+                "en": "M: I'll join you. I may not be as charming as Audrey Hepburn, but I'm all for supporting a good cause.",
+                "zh": "M: 我会和你一起去。我可能没有奥黛丽·赫本那么迷人，但我非常支持帮助有意义的事业。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Give a presentation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Raise some questions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Start a new company."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Attend a board meeting."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It will cut production costs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It will raise productivity."
+                  },
+                  {
+                    "l": "C",
+                    "t": "No staff will be dismissed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "No new staff will be hired."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The timeline of restructuring."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The reasons for restructuring."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The communication channels."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The company's new missions."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By consulting their own department managers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By emailing questions to the man or the woman."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By exploring various channels of communication."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By visiting the company's own computer network."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: So, how is our presentation about the restructuring of the company coming along?",
+                "zh": "W: 那么，我们关于公司重组的演示准备得怎么样了？"
+              },
+              {
+                "en": "M: Fine. I'm putting the finishing touches to it now.",
+                "zh": "M: 挺好的。我现在正在做最后的润色。"
+              },
+              {
+                "en": "M: …But we'll have to be prepared for questions.",
+                "zh": "M: ……不过，我们得做好回答问题的准备。"
+              },
+              {
+                "en": "W: Yes, there's already a feeling that this is a top down change. We really need to get everyone on board.",
+                "zh": "W: 是的，已经有人觉得这是一次自上而下的变革。我们确实需要让大家都支持这项工作。"
+              },
+              {
+                "en": "M: Well, there's been an extensive consultation period.",
+                "zh": "M: 嗯，我们已经进行了广泛的咨询。"
+              },
+              {
+                "en": "W: I know, but there's always the feeling that if it isn't broke, don't fix it.",
+                "zh": "W: 我知道，但人们总是会觉得，没坏的东西就不要修。"
+              },
+              {
+                "en": "M: People are worried about their jobs, too. I think we need to stress that while there will be some job changes, there won't be anyone getting dismissed. In fact, we're looking to take on more staff.",
+                "zh": "M: 大家也担心自己的工作。我认为我们需要强调，虽然岗位会有所调整，但不会有人被解雇。事实上，我们还打算招聘更多员工。"
+              },
+              {
+                "en": "W: Agreed. You can hardly blame people for worrying though. We need to make it clear that it's not just change for change's sake. In other words, we really must make the case for why we are doing it.",
+                "zh": "W: 同意。不过，也很难怪大家会担心。我们需要说清楚，这不是为了改变而改变。换句话说，我们确实必须说明为什么要这么做。"
+              },
+              {
+                "en": "W: …So what's the outline of the presentation?",
+                "zh": "W: ……那么，演示的框架是什么？"
+              },
+              {
+                "en": "M: I'll start with a brief review of the reasons for the change that we really need to make a clean break to restart growth. After that I'll outline the new company's structures and who's going where. Then I'll hand it over to you to discuss the timeline and summarize and we'll take questions together at the end. Anything else?",
+                "zh": "M: 我会先简要回顾一下变革的原因，说明我们确实需要彻底改变现状，以重新启动增长。之后，我会介绍新公司的架构以及各人将调往何处。然后我把时间安排和总结部分交给你，最后我们一起回答问题。还有别的吗？"
+              },
+              {
+                "en": "W: Oh, yeah, we should let the staff know the channels of communication, you know, who they can contact or direct questions to about these changes?",
+                "zh": "W: 哦，对了，我们应该让员工知道沟通渠道，也就是他们可以联系谁，或者把关于这些变革的问题向谁提出，对吧？"
+              },
+              {
+                "en": "M: Yes, and we can collect some frequently asked questions and present some general answers.",
+                "zh": "M: 是的，我们还可以收集一些常见问题，并给出一些概括性的回答。"
+              },
+              {
+                "en": "W: Um, and we'll make the presentation and the questions available via the company's own computer network, right?",
+                "zh": "W: 嗯，我们会通过公司的内部计算机网络提供演示和问题，对吧？"
+              },
+              {
+                "en": "M: Yes, we'll make a page on the network where staff can download all the details.",
+                "zh": "M: 是的，我们会在网络上建立一个页面，员工可以在那里下载所有详细资料。"
+              },
+              {
+                "en": "W: All right. Perhaps we should do a practice round of the presentation first.",
+                "zh": "W: 好的。也许我们应该先把演示练习一遍。"
+              },
+              {
+                "en": "M: You bet.",
+                "zh": "M: 当然。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It helps passengers to take care of their pet animals."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has animals to help passengers carry their language."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It uses therapy animals to soothe nervous passengers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It allows passengers to have animals travels with them."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Avoiding possible dangers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Finding their way around."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Identifying drug smugglers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Looking after sick passengers."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Schedule their flights around the animal visits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Photograph the therapy animals at the airport."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Keep some animals for therapeutic purposes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Bring their animals on board their plane.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Airline passengers have to deal with a lot these days, getting bumped from flights and losing luggage on top of the general anxiety that nervous passengers always feel.",
+                "zh": "如今，航空旅客不得不应对许多问题：除了紧张旅客一贯感受到的普遍焦虑之外，还可能被拒绝登机或丢失行李。"
+              },
+              {
+                "en": "At the Cincinnati/Northern Kentucky International Airport, miniature horses deliver a calming force two times a month. Denver and Ruby are two of the 34 therapy horses brought in from a local farm. They can usually be found in the ticket counter area interacting with travelers.",
+                "zh": "在辛辛那提/北肯塔基国际机场，迷你马每月两次为人们带来安抚作用。丹佛和鲁比是从当地一家农场带来的34匹治疗马中的两匹。它们通常会出现在值机柜台区域，与旅客互动。"
+              },
+              {
+                "en": "More than 30 airports across the country now have therapy dogs. San Francisco has a therapy pig. San Jose, California, began a dog program after the terrorist attacks of September 11. Since its beginning, the program has now grown and has 21 therapy dogs and a therapy cat.",
+                "zh": "如今，全国有30多座机场拥有治疗犬。旧金山有一头治疗猪。加利福尼亚州圣何塞在“9·11”恐怖袭击后启动了治疗犬项目。该项目启动以来不断发展壮大，目前拥有21只治疗犬和一只治疗猫。"
+              },
+              {
+                "en": "The animals don't get startled. They have had hundreds of hours of airport training, so they are used to having luggage and people crowding around them. These professional animals are probably better at finding their way in the airports than the most frequent of travelers.",
+                "zh": "这些动物不会受到惊吓。它们接受过数百小时的机场训练，因此已经习惯了行李和人群在周围拥挤的情形。这些专业动物在机场寻找方向的能力，可能比最常来机场的旅客还要强。"
+              },
+              {
+                "en": "The passengers often say that seeing animals makes them feel much better and helps them to calm down before a flight. This little bit of support can sometimes make a big difference. Some passengers enjoy the animals so much that they call the airport to schedule flights around their visits.",
+                "zh": "旅客常说，看到这些动物让他们感觉好得多，也帮助他们在航班起飞前平静下来。这一点小小的支持有时会带来很大的不同。有些旅客非常喜欢这些动物，甚至会打电话给机场，安排航班时间以配合它们到访的时段。"
+              },
+              {
+                "en": "Visits to nursing homes and schools are also a regular part of the horses' schedule. Their owner is already working on a new idea for a therapy animal—donkeys.",
+                "zh": "去养老院和学校探访也是这些马日程中的固定安排。它们的主人已经在筹划一种新的治疗动物：驴。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Beside a beautifully painted wall in Arles."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Beside the gate of an ancient Roman city."
+                  },
+                  {
+                    "l": "C",
+                    "t": "At the site of an ancient Roman mansion."
+                  },
+                  {
+                    "l": "D",
+                    "t": "At the entrance to a reception hall in Rome."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A number of different images."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A number of mythological heroes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Various musical instruments."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Paintings by famous French artists."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The originality and expertise shown."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The worldly sophistication displayed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The stunning images vividly depicted."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The impressive skills and costly dyes."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His artistic taste is superb."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His identity remains unclear."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was a collector of antiques."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He was a rich Italian merchant."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Hello, viewers. Today I'm standing at the 2000-year-old Roman-era site. Here the brightly-colored scenes that once decorated a mansion are being dug up. These scenes are turning up in the southern French city of Arles, surprising the historians who have been working here since 2014.",
+                "zh": "各位观众，大家好。今天我站在这处有着两千年历史的罗马时代遗址上。这里，一座宅邸曾经用来装饰的色彩鲜艳的场景正在被挖掘出来。这些场景出现在法国南部城市阿尔勒，令自2014年以来一直在此工作的历史学家们大为惊讶。"
+              },
+              {
+                "en": "Patches of paint still cling to the stone walls of the bedroom and reception hall. Some of these painted walls are preserved in places to a height of one meter. In addition, thousands of fragments that fell off the walls have been recovered.",
+                "zh": "卧室和接待大厅的石墙上仍附着着斑驳的颜料。在一些地方，这些彩绘墙壁保存至一米高。此外，人们还找回了数以千计从墙上脱落的碎片。"
+              },
+              {
+                "en": "These pieces have been put back together with great care and display a variety of images. Some of these images include figures never seen before in France, such as a woman playing a stringed instrument, possibly a character from mythology.",
+                "zh": "这些碎片经过非常细致的拼接，展现出各种各样的图像。其中一些图像描绘了在法国从未见过的人物，例如一名正在演奏弦乐器的女子，她可能是神话中的人物。"
+              },
+              {
+                "en": "The paintings were done with such skill and with such expensive dyes that experts believe the artists originally came from Italy. They were likely hired by one of the city's elite.",
+                "zh": "这些画作技艺如此精湛，所使用的染料又如此昂贵，以至于专家认为艺术家们最初来自意大利。他们很可能是由城中的一位精英雇用的。"
+              },
+              {
+                "en": "Perhaps a Roman official wanted Pompeii-like interior to remind him of home. He was probably stationed in this provincial trading port founded in 46 B.C. as a colony for veterans of the Roman army. Or maybe a wealthy local wanted to show off his worldly sophistication.",
+                "zh": "也许是一名罗马官员想要一处庞贝式的室内装饰，以此提醒自己故乡的样子。他当时可能驻扎在这座行省贸易港口，这座港口于公元前46年建立，是罗马军队退伍老兵的殖民地。又或者，一名富有的当地人想要炫耀自己见多识广的品位。"
+              },
+              {
+                "en": "The paintings may yield even more stunning surprises as additional sections are put together, like pieces of a puzzle. Whoever it was that created such magnificent pieces of art, they surely had no idea that their work would still be around thousands of years later.",
+                "zh": "随着更多部分像拼图碎片一样被拼接起来，这些画作或许还会带来更加惊人的惊喜。无论是谁创作了这些 magnificent 的艺术品，他们肯定没有想到自己的作品数千年后仍然会保存至今。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They encourage international cooperation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They lay stress on basic scientific research."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They place great emphasis on empirical studies."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They favour scientists from its member countries."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many of them wish to win international recognition."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They believe that more hands will make light work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They want to follow closely the international trend."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many of their projects have become complicated."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It requires mathematicians to work independently."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is faced with many unprecedented challenges."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It lags behind other disciplines in collaboration."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It calls for more research funding to catch up.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Good afternoon, class. Today I want to discuss with you a new approach to empirical research.",
+                "zh": "下午好，同学们。今天我想和大家讨论一种经验研究的新方法。"
+              },
+              {
+                "en": "In the past, scientists often worked alone. They were confined to the university or research center where they worked.",
+                "zh": "过去，科学家们往往独自工作。他们被局限在自己任职的大学或研究中心内。"
+              },
+              {
+                "en": "Today, though, we are seeing mergers of some of the greatest scientific minds, regardless of their location. There has never been a better time for collaborations with foreign scientists.",
+                "zh": "然而，今天我们看到，无论身处何地，一些最杰出的科学家正在进行合作。与外国科学家开展合作从来没有像现在这样合适的时机。"
+              },
+              {
+                "en": "In fact, the European Union is taking the lead. Spurred on by funding policies, half of European research articles had international co-authors in 2007. This is more than twice the level of two decades ago. The European Union's level of international co-authorship is about twice that of the United States, Japan and India.",
+                "zh": "事实上，欧盟正在发挥引领作用。在资助政策的推动下，2007年欧洲有一半的研究论文拥有国际合作者。这一比例是二十年前的两倍多。欧盟的国际合作署名比例大约是美国、日本和印度的两倍。"
+              },
+              {
+                "en": "Even so, the levels in these countries are also rising. This is a sign of the continued allure of creating scientific coalitions across borders.",
+                "zh": "即便如此，这些国家的相关比例也在上升。这表明跨国组建科学联盟仍然具有持续的吸引力。"
+              },
+              {
+                "en": "Andrew Schubert, a researcher at the Institute for Science Policy Research, says that the rising collaboration is partly out of necessity. This necessity comes with the rise of big science. Many scientific endeavors have become more complicated. These new complications require the money and labor of many nations.",
+                "zh": "科学政策研究所的研究人员安德鲁·舒伯特说，合作的增加部分是出于必要性。随着大科学的兴起，这种必要性也随之而来。许多科学研究项目变得更加复杂。这些新的复杂性需要许多国家投入资金和人力。"
+              },
+              {
+                "en": "But he says collaborations have also emerged because of increased possibilities. The Internet allows like-minded scientists to find each other. Simultaneously, dramatic drops in communication costs ease long-distance interactions.",
+                "zh": "但他表示，合作的出现也是因为可能性增加了。互联网让志趣相投的科学家能够找到彼此。与此同时，通信成本的大幅下降也使远距离交流变得更加容易。"
+              },
+              {
+                "en": "And there is a reward. Studies of citation counts show that internationally co-authored papers have better visibility. Schubert says international collaboration is a way to spread ideas in wider and wider circles.",
+                "zh": "而且，合作还会带来回报。对论文被引用次数的研究表明，由国际作者共同署名的论文具有更高的可见度。舒伯特说，国际合作是让思想在越来越广泛的圈层中传播的一种方式。"
+              },
+              {
+                "en": "Caroline Wagner, a research scientist at George Washington University, notes that international collaborations offer additional flexibility. Whereas local collaborations sometimes persist past the point of usefulness because of social or academic obligations, international ones can be cultivated and dropped more freely.",
+                "zh": "乔治·华盛顿大学的研究科学家卡罗琳·瓦格纳指出，国际合作提供了额外的灵活性。由于社会或学术上的义务，地方性合作有时会在失去实用价值后仍然持续，而国际合作则可以更自由地建立和终止。"
+              },
+              {
+                "en": "The collaborative trend is true across scientific disciplines. Some fields, though, have a greater tendency for it.",
+                "zh": "这一合作趋势存在于各个科学学科之中。不过，有些领域表现出更强的合作倾向。"
+              },
+              {
+                "en": "Particle physicists and astronomers collaborate often. This is because they must share expensive facilities. Mathematicians, by contrast, tend historically towards solitude. As a consequence, they lag behind other disciplines. However, Wagner says partnerships are rising there, too.",
+                "zh": "粒子物理学家和天文学家经常开展合作。这是因为他们必须共享昂贵的设施。相比之下，数学家历来倾向于独自工作。因此，他们落后于其他学科。不过，瓦格纳说，数学领域的合作伙伴关系也在增加。"
+              },
+              {
+                "en": "The level of collaboration also varies from country to country. There are historical and political reasons as to why collaborations emerge, says Wagner. This rise is also apparently boosted by policies embedded in European framework funding schemes. These policies underlie funding requirements that often require teamwork.",
+                "zh": "合作程度也因国家而异。瓦格纳说，合作之所以出现，既有历史原因，也有政治原因。这一增长显然还受到欧洲框架计划资助机制中相关政策的推动。这些政策构成了资助要求，而资助要求往往要求开展团队合作。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Scientists tried to send a balloon to Venus."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Scientists discovered water on Venus."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Scientists found Venus had atmosphere."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Scientists observed Venus from a space vehicle."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It resembles Earth in many aspects."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is the same as fiction has portrayed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a paradise of romance for alien life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It undergoes geological changes like Earth."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It might have been hotter than it is today."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It might have been a cozy habitat for life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It used to have more water than Earth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It used to be covered with rainforests.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Good evening. In 1959, on the day that I was born, a headline in Life magazine proclaimed \"Target Venus: There May be Life There!\" It told of how scientists rode a balloon to an altitude of 80,000 feet to make telescope observations of Venus's atmosphere, and how their discovery of water raised hopes that there could be living things there.",
+                "zh": "晚上好。1959年，在我出生的那天，《生活》杂志的一则标题宣称：“目标：金星——那里可能有生命！”报道讲述了科学家们如何乘坐气球升至八万英尺的高度，对金星大气进行望远镜观测，以及他们发现水之后，如何由此燃起那里可能存在生物的希望。"
+              },
+              {
+                "en": "As a kid, I thrilled to tales of adventure and Isaac Asimov's juvenile science-fiction novel Lucky Starr and the Oceans of Venus. For many of my peers, though, Venus quickly lost its romance.",
+                "zh": "小时候，我对冒险故事以及艾萨克·阿西莫夫的青少年科幻小说《幸运星与金星海洋》深深着迷。不过，对我的许多同龄人来说，金星很快就失去了浪漫色彩。"
+              },
+              {
+                "en": "The very first thing that scientists discovered with the mission to another planet was that Venus was not at all the Earthly paradise that fiction had portrayed. It is nearly identical to our own planet in bulk properties such as mass, density, and size. But its surface has been cooked and dried by an ocean of carbon dioxide.",
+                "zh": "科学家通过前往另一颗行星的探测任务发现的第一件事，就是金星完全不是文学作品所描绘的那个地球天堂。就质量、密度和大小等整体性质而言，它与我们自己的行星几乎完全相同。但它的表面已经被二氧化碳海洋炙烤并烘干。"
+              },
+              {
+                "en": "Trapped in the burning death-grip of a runaway greenhouse effect, Venus has long been held up as a cautionary tale for everything that could go wrong on a planet like Earth. As a possible home for alien life, it has been voted the planet least likely to succeed.",
+                "zh": "金星被困在失控温室效应灼热而致命的钳制之中，长期以来一直被当作一则警示故事，用来说明像地球这样的行星可能出现的一切问题。作为外星生命可能的家园，它被评为最不可能成功的行星。"
+              },
+              {
+                "en": "But I have refused to give up on Venus, and over the years my stubborn loyalty has been justified. The rocky views glimpsed by Venera, and other Russian landers suggested a tortured volcanic history. That was confirmed in the early 1990s by the American Magellan orbiter, which used radar to peer through the planet's thick clouds and map out a rich, varied, and dynamic surface. The surface formed mostly in the last billion years, which makes it fresher and more recently active than any rocky planet other than Earth.",
+                "zh": "但我拒绝放弃金星，而多年来，我顽固的忠诚也得到了证明。维涅拉号以及其他俄罗斯着陆器所窥见的岩石景观，显示出一段饱受摧残的火山历史。20世纪90年代初，美国的麦哲伦号轨道器证实了这一点；它利用雷达穿透金星厚重的云层，绘制出一片丰富、多样且充满活力的表面。金星表面大部分形成于最近十亿年之内，因此，与除地球以外的任何岩质行星相比，它都更加新鲜，也是在更近的时期仍然活跃的。"
+              },
+              {
+                "en": "Russian and American spacecraft also found hints that its ancient climate might have been wetter, cooler, and possibly even friendly to life. Measurements of density and composition imply that Venus originally formed out of basically the same stuff as Earth. That presumably included much more water than the tiny trace we find blowing in the thick air today.",
+                "zh": "俄罗斯和美国的航天器还发现了一些迹象，表明金星远古时期的气候可能更加湿润、凉爽，甚至可能适宜生命存在。对其密度和成分的测量表明，金星最初形成时，基本上由与地球相同的物质构成。这些物质中想必包括远多于如今在其厚重大气中飘荡的微量水分的水。"
+              },
+              {
+                "en": "Thus, our picture of Venus at around the time life was getting started on Earth is one of warm oceans, probably rich with organic molecules, splashing around rocky shores and volcanic vents. The sun was considerably less bright back then. So, Venus was arguably a cozier habitat for life than Earth.",
+                "zh": "因此，我们对地球生命刚刚开始形成时金星面貌的描绘是：温暖的海洋——其中可能富含有机分子——在岩石海岸和火山喷口周围拍打。当时的太阳亮度要低得多。所以，金星可以说是比地球更舒适的生命栖息地。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Causes of sleeplessness."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Cross-cultural communication."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Cultural psychology."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Motivation and positive feelings."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They attach great importance to sleep."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They often have trouble falling asleep."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They pay more attention to sleep efficiency."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They generally sleep longer than East Asians."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By asking people to report their sleep habits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By observing people's sleep patterns in labs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By having people wear motion-detecting watches."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By videotaping people's daily sleeping processes."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has made remarkable progress in the past few decades."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has not yet explored the cross-cultural aspect of sleep."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has not yet produced anything conclusive."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has attached attention all over the world."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I'm a psychology professor at the University of British Columbia. I specialize in Cultural Psychology, examining similarities and differences between East Asians and North Americans.",
+                "zh": "我是英属哥伦比亚大学的心理学教授，专攻文化心理学，研究东亚人与北美人之间的相似之处和差异。"
+              },
+              {
+                "en": "Our research team has been looking at cultural differences in self-enhancing motivations, how people have positive feelings towards not only themselves, but things connected to themselves. For example, when you own something, you view it as more valuable than when you don't own it. It's called the \"endowment effect\". The strength of that effect is stronger in Western cultures than in Eastern cultures. So we've been looking at other ways of seeing whether this motivation to view oneself positively is shaped by cultural experiences.",
+                "zh": "我们的研究团队一直在考察自我提升动机方面的文化差异，即人们不仅会对自己产生积极感受，也会对与自己相关的事物产生积极感受。例如，当你拥有某件东西时，你会认为它比自己没有拥有时更有价值。这被称为“禀赋效应”。这种效应在西方文化中比在东方文化中更强。因此，我们一直在研究其他方式，以了解这种积极看待自我的动机是否受到文化经历的影响。"
+              },
+              {
+                "en": "We've also started to look at how culture shapes sleep. We are still in the exploratory stages of this project, although what's noteworthy is that East Asians on average sleep about an hour and a half less each night than North Americans do. And it's not a more efficient sleep, not like they're compressing relatively more value out of their hours. Other studies have found that even infants in East Asia sleep about an hour less than European infants. So we're trying to figure out how culture shapes the way you sleep.",
+                "zh": "我们也开始研究文化如何影响睡眠。这个项目目前仍处于探索阶段，不过值得注意的是，东亚人平均每晚比北美人少睡大约一个半小时。而且，这并不是因为他们的睡眠效率更高，并不是说他们能从这些睡眠时间中压缩出相对更多的价值。其他研究发现，即使是东亚的婴儿，平均每晚也比欧洲婴儿少睡大约一小时。因此，我们正试图弄清楚文化如何影响人的睡眠方式。"
+              },
+              {
+                "en": "Our experiment does not take place in a sleep lab. Instead, we lend people motion-detecting watches, and they wear them for a week at a time. Whenever they are not having a shower or swimming, they keep it on. These kinds of watches are used in sleep studies as a way of measuring how long people are sleeping, how efficient their sleep is, and whether they are waking up in the night.",
+                "zh": "我们的实验并不在睡眠实验室进行。相反，我们借给参与者能够检测运动的手表，让他们每次佩戴一周。除非洗澡或游泳，否则他们都会一直戴着。这类手表被用于睡眠研究，可以测量人们睡了多长时间、睡眠效率如何，以及他们是否会在夜间醒来。"
+              },
+              {
+                "en": "Ideally, I'd like to take this into a controlled lab environment. We'll see where the research points us. We usually start off with the more affordable methods and if everything looks promising, then it will justify trying to build a sleep lab and study sleep across cultures that way.",
+                "zh": "理想情况下，我希望把这项研究带入受控的实验室环境。我们会根据研究结果决定下一步方向。我们通常先从成本较低的方法开始，如果一切看起来都有希望，那么这将为建设睡眠实验室并以这种方式研究不同文化中的睡眠提供充分理由。"
+              },
+              {
+                "en": "Why do we study sleep? Sleep is something that has really been an unexplored topic cross-culturally. I'm attracted to it because culture isn't something that only shapes the way our minds operate; it shapes the way our bodies operate too, and sleep is at the intersection of those.",
+                "zh": "我们为什么要研究睡眠？睡眠一直是跨文化研究中一个真正未被探索的主题。我之所以对它感兴趣，是因为文化并不只是塑造我们的思维运作方式；它也塑造我们的身体运作方式，而睡眠正处于这两者的交汇处。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The dream of personalised flight is still vivid in the minds of many inventors, some developing cycle- powered craft, others"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "money into jetpacks( 喷气飞行背包). However, the flying car has always remained the"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "symbol of personal transport freedom. Several companies around the world have produced"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "that can drive on roads and fly. Airbus has a futuristic modular(组件式的) concept involving a passenger capsule that can be"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "from the road-going chassis(底盘) and picked up by a helicopter-type machine. But all these concepts are massively expensive, require safety certification standards for road and air, need"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "controls, involve complex folding wings and propellers, and have to be flown from air-strips. So they are likely to remain rich people's playthings rather than practical transport solutions for the masses. \"A car that takes off from some London street and lands in another"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "street is unlikely to happen,\" says Prof. Gray, a leading aeronautical engineer. \"Sky taxis are much more likely.\" But that won't stop inventors from dreaming up new ways to fly and trying to persuade investors to back their sometimes"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "schemes. Civilian aviation is being disrupted, not by the age-old desires for speed, romanticism and"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ", but by the pressing need to respond to a changing climate. New electric engines coupled with artificial intelligence and"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "systems will contribute to a more efficient, integrated transport system that is less polluting and less noisy. That may sound simple, but as Prof. Gray says, \"When I travel somewhere I like this notion that when I finish my journey I feel better than when I started it. That's completely at"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "with how I feel today.\" Now that would be progress."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "autonomous"
+        },
+        {
+          "l": "B",
+          "w": "detached"
+        },
+        {
+          "l": "C",
+          "w": "dual"
+        },
+        {
+          "l": "D",
+          "w": "glamour"
+        },
+        {
+          "l": "E",
+          "w": "imminent"
+        },
+        {
+          "l": "F",
+          "w": "odds"
+        },
+        {
+          "l": "G",
+          "w": "opposites"
+        },
+        {
+          "l": "H",
+          "w": "outrageous"
+        },
+        {
+          "l": "I",
+          "w": "pouring"
+        },
+        {
+          "l": "J",
+          "w": "prototypes"
+        },
+        {
+          "l": "K",
+          "w": "random"
+        },
+        {
+          "l": "L",
+          "w": "repressing"
+        },
+        {
+          "l": "M",
+          "w": "segmented"
+        },
+        {
+          "l": "N",
+          "w": "spectrum"
+        },
+        {
+          "l": "O",
+          "w": "ultimate"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "I"
+        },
+        {
+          "n": 27,
+          "a": "O"
+        },
+        {
+          "n": 28,
+          "a": "J"
+        },
+        {
+          "n": 29,
+          "a": "B"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "K"
+        },
+        {
+          "n": 32,
+          "a": "H"
+        },
+        {
+          "n": 33,
+          "a": "D"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "F"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Companies Are Working with Consumers to Reduce Waste",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "As consumers, we are very wasteful. Annually, the world generates 1.3 billion tons of solid waste. This is expected to go up to 2.2 billion by 2025. The developed countries are responsible for 44% of waste, and in the U.S. alone, the average person throws away their body weight in rubbish every month."
+        },
+        {
+          "l": "B",
+          "t": "Conventional wisdom would seem to suggest that companies have no incentive to lengthen the life cycle of their products and reduce the revenue they would get from selling new goods. Yet, more and more businesses are thinking about how to reduce consumer waste. This is partly driven by the rising price of raw materials and metals. It is also partly due to both consumers and companies becoming more aware of the need to protect our environment."
+        },
+        {
+          "l": "C",
+          "t": "When choosing what products to buy and which brands to buy from, more and more consumers are looking into sustainability. This is opposed to just price and performance they were concerned about in the past. In a survey of 54 of the world's leading brands, almost all of them reported that consumers are showing increasing care about sustainable lifestyles. At the same time, surveys on consumers in the U.S. and the U.K. show that they also care about minimizing energy use and reducing waste."
+        },
+        {
+          "l": "D",
+          "t": "For the most part, consumers control what happens to a product. But some companies are realizing that placing the burden of recycling entirely on the consumer is not an effective strategy, especially when tossing something away seems like the easiest and most convenient option."
+        },
+        {
+          "l": "E",
+          "t": "Some retailers and manufacturers in the clothing, footwear, and electronics industries have launched environmental programs. They want to make their customers interested in preserving their products and preventing things that still have value from going to the garbage dump. By offering services to help expand the longevity of their products, they're promising quality and durability to consumers, and receiving the reputational gains for being environmentally friendly."
+        },
+        {
+          "l": "F",
+          "t": "For example, the Swedish jeans company Nudie Jeans offers free repair at twenty of their shops. Instead of discarding their old worn-out jeans, customers bring them in to be renewed. The company even provides mail-order repair kits and online videos, so that customers can learn how to fix a pair of jeans at home. Their philosophy is that extending the life of a pair of jeans is not only great for the environment, but allows the consumer to get more value out of their product. When customers do want to toss their pair, they can give them back to the store, which will repurpose and resell them. Another clothing company, Patagonia, a high-end outdoor clothing store, follows the same principle. It has partnered with DIY website iFixit to teach consumers how to repair their clothing, such as waterproof outerwear, at home. The company also offers a repair program for their customers for a modest fee. Currently, Patagonia repairs about 40,000 garments a year in their Reno, Nevada, service center. According to the company's CEO, Rose Marcario, this is about building a company that cares about the environment. At the same time, offering repair supports the perceived quality of its products."
+        },
+        {
+          "l": "G",
+          "t": "In Brazil, the multinational corporation Adidas has been running a shoe-recycling program called \"Sustainable Footprint\" since 2012. Customers can bring shoes of any brand into an Adidas store to be shredded and turned into alternative fuels for energy creation instead of being burned as trash. They are used to fuel cement ovens. To motivate visitors to bring in more old shoes, Adidas Brazil promotes the program in stores by showing videos to educate customers, and it even offers a discount each time a customer brings in an old pair of shoes. This boosts the reputation and image of Adidas by making people more aware of the company's values."
+        },
+        {
+          "l": "H",
+          "t": "Enormous opportunities also lie with e-waste. It is estimated that in 2014 the world produced some 42 million metric tons of e-waste (discarded electrical and electronic equipment and its parts) with North America and Europe accounting for 8 and 12 million metric tons respectively. The materials from e-waste include iron, copper, gold, silver, and aluminum materials that could be reused, resold, salvaged, or recycled. Together, the value of these metals is estimated to be about $52 billion. Electronics giants like Best Buy and Samsung have provided e-waste take-back programs over the past few years, which aim to refurbish(翻新) old electronic components and parts into new products."
+        },
+        {
+          "l": "I",
+          "t": "For other companies interested in reducing waste, helping the environment, and providing the sustainable lifestyles that consumers seek, here are some first steps for building a relationship with customers that focuses on recycling and restoring value to products."
+        },
+        {
+          "l": "J",
+          "t": "Find partners. If you are a manufacturer who relies on outside distributors, then retailers are the ideal partner for collecting old products. Power tool maker DeWalt partners with companies, such as Lowes and Napa Auto Parts, to collect old tools at their stores for recycling. The partnership benefits both sides by allowing unconventional partners (for example, two companies from two different industries) to work together on a specific aspect of the value chain, like, in this example, an engine firm with an accessory one."
+        },
+        {
+          "l": "K",
+          "t": "Create incentives. Environmental conscientiousness isn't always enough to make customers recycle old goods. For instance, DeWalt discovered that many contractors were holding on to their old tools, even if they no longer worked, because they were expensive purchases and it was hard to justify bringing them in to recycle. By offering instant discounts worth as much as $100, DeWalt launched a trade-in program to encourage people to bring back tools. As a result, DeWalt now reuses those materials to create new products."
+        },
+        {
+          "l": "L",
+          "t": "Start with a trial program, and expect to change the details as you go. Any take-back program will likely change over time, depending on what works for your customers and company goals. Maybe you see low customer participation at first, or conversely, so much success that the cost of recycling becomes too high. Best Buy, for instance, has been bearing the lion's share of e-waste volume since two of its largest competitors, Amazon and Wal-mart, do not have their own recycling programs. Since the launch of its program, Best Buy changed its policy to add a $25 fee for recycling old televisions in order to keep the program going."
+        },
+        {
+          "l": "M",
+          "t": "Build a culture of collective values with customers. A stronger relationship between the retailer/producer and the consumer isn't just about financial incentives. By creating more awareness around your efforts to reduce waste, and by developing a culture of responsibility, repair, and reuse, you can build customer loyalty based on shared values and responsibilities."
+        },
+        {
+          "l": "N",
+          "t": "These examples are just the tip of the iceberg, but they demonstrate how helping customers get more use of their materials can transform value chains and operations. Reducing waste by incorporating used materials into production can cut costs and decrease the price of procurement(采购): less to be procured from the outside and more to be re-utilized from the inside."
+        },
+        {
+          "l": "O",
+          "t": "Companies play a big role in creating a circular economy, in which value is generating less from extracting new resources and more from getting better use out of the resources we already have—but they must also get customers engaged in the process."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Some companies believe that products' prolonged lifespan benefits both the environment and customers.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "A survey shows shoppers today are getting more concerned about energy conservation and environmental protection when deciding what to buy.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "Companies can build customer loyalty by creating a positive culture of environmental awareness.",
+          "a": "M"
+        },
+        {
+          "n": 39,
+          "s": "When companies launch environmental programs, they will have their brand reputation enhanced.",
+          "a": "E"
+        },
+        {
+          "n": 40,
+          "s": "One multinational company offers discounts to customers who bring in old footwear to be used as fuel.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "Recycling used products can help manufacturers reduce production costs.",
+          "a": "N"
+        },
+        {
+          "n": 42,
+          "s": "Electronic products contain valuable metals that could be recovered.",
+          "a": "H"
+        },
+        {
+          "n": 43,
+          "s": "It seems commonly believed that companies are not motivated to prolong their products' lifespan.",
+          "a": "B"
+        },
+        {
+          "n": 44,
+          "s": "It is advisable for companies to partner with each other in product recycling.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "Some businesses have begun to realize it may not be effective to let consumers take full responsibility for recycling.",
+          "a": "D"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Effective Friday, Screen Actors Guild-American Federation of Television and Radio Artists (SAG-AFTRA) has declared a strike against 11 video game publishers over games that went into production after Feb. 17, 2015. The companies include some of the heavyweights of the industry, like Electronic Arts Productions, Insomniac Games, Activision and Disney. The strike comes in light of an unsuccessful 19 months of negotiations after the existing labor contract known as the Interactive Media Agreement expired in late 2014. Overall, the strike is an effort to provide more secondary compensation along with other concerns, such as transparency upon hiring talent and on-set(制作中) safety precautions. The video gaming industry has ballooned in recent years. The Los Angeles Times reports that the industry is in the midst of an intense increase in cash flow. In 2015, gaming produced $23.5 billion in domestic revenue. But SAG-AFTRA says voice actors don't receive residuals(追加酬金) for their gaming work. Instead, they receive a fixed rate, which is typically about $825 for a standard four-hour vocal session. So the voice actors are pushing for the idea of secondary compensation—a performance bonus every time a game sells 2 million copies or downloads, or reaches 2 million subscribers, with a cap at 8 million. \"It's a very small number of games that would trigger this secondary compensation issue,\" said voice actor Crispin Freeman, who's a member of the union's negotiating committee. \"This is an important aspect of what it means to be a freelance(从事自由职业的) performer, who isn't regularly employed every single day working on projects.\" Another major complaint from the actors is the secrecy of the industry. \"I can't imagine if there's any other acting job in the world where you don't know what show you're in, when you're hired,\" says voice actor Keythe Farley, who chairs the SAG-AFTRA negotiating committee. \"And yet that happens every day in the video game world,\" Farley told reporters during a press conference Friday. \"I was a main character in Fallout 4, a character by the name of Kellogg, and I never knew that I was doing vocal recording for that game throughout the year and a half.\" Scott Witlin, the lawyer representing the video game companies, says voice actors \"represent less than one tenth of 1 percent of the work that goes into making a video game.\" So \"even though they're the top craftsmen in their field,\" Witlin says, \"if we pay them under a vastly different system than the people who do the 99.9 percent of the work, that's going to create far more problems for the video game companies.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "Why did SAG-AFTRA declare a strike against some video game publishers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The labor contract between them had been violated."
+              },
+              {
+                "l": "B",
+                "t": "Its appeal to renegotiate the contract had been rejected."
+              },
+              {
+                "l": "C",
+                "t": "It had been cheated repeatedly in the 19 months of talks."
+              },
+              {
+                "l": "D",
+                "t": "The negotiations between them had broken down."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What do we learn from the passage about the video gaming industry?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has reaped huge profits in recent years."
+              },
+              {
+                "l": "B",
+                "t": "It has become more open and transparent."
+              },
+              {
+                "l": "C",
+                "t": "It has attracted many famous voice actors."
+              },
+              {
+                "l": "D",
+                "t": "It has invested a lot in its domestic market."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What are the voice actors demanding?",
+            "o": [
+              {
+                "l": "A",
+                "t": "More regular employment."
+              },
+              {
+                "l": "B",
+                "t": "A non-discriminatory contract."
+              },
+              {
+                "l": "C",
+                "t": "Extra pay based on sales revenues."
+              },
+              {
+                "l": "D",
+                "t": "A limit on the maximum work hours."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What does Keythe Farley say about voice actors?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are kept in the dark about many details of their job."
+              },
+              {
+                "l": "B",
+                "t": "They are discriminated against in the gaming industry."
+              },
+              {
+                "l": "C",
+                "t": "They are not paid on a regular basis."
+              },
+              {
+                "l": "D",
+                "t": "They are not employed full-time."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What is the argument of lawyer Scott Witlin?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Voice actors should have a pay raise if they prove to be top craftsmen."
+              },
+              {
+                "l": "B",
+                "t": "Changing the pay system would cause the industry more problems."
+              },
+              {
+                "l": "C",
+                "t": "Voice actors are mere craftsmen, not professional performers."
+              },
+              {
+                "l": "D",
+                "t": "Paying voice actors on an hourly basis is in line with the law."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Officials at the White House announced a new space policy focused on managing the increasing number of satellites that companies and governments are launching into space. Space Policy Directive-3 lays out general guidelines for the United States to mitigate(缓解) the effects of space debris and track and manage traffic in space. This policy sets the stage for the Department of Commerce to take over the management of traffic in space. The department will make sure that newly launched satellites don't use radio frequencies that would interfere with existing satellites, and schedule when such new satellites can be launched. This only applies to American space activities, but the hope is that it will help standardize a set of norms in the dawning commercial spaceflight industry throughout the world. Space, especially the space directly around our planet, is getting more crowded as more governments and companies launch satellites. One impetus for the policy is that companies are already starting to build massive constellations(星座), comprising hundreds or thousands of satellites with many moving parts among them. With so much stuff in space, and a limited area around our planet, the government wants to reduce the chances of a collision. Two or more satellites slamming into each other could create many more out-of-control bits that would pose even more hazards to the growing collection of satellites in space. And it's not like this hasn't happened before. In 2009 an old Russian craft slammed into a communications satellite, creating a cloud of hundreds of pieces of debris and putting other hardware at risk. Journalist Sarah Scoles reports that NASA currently tracks about 24,000 objects in space, and in 2016 the Air Force had to issue 3,995,874 warnings to satellite owners alerting them to a potential nearby threat from another satellite or bit of debris. That's why this new policy also includes directions to update the current U.S. Government Orbital Debris Mitigation Standard Practices, which already require any entity that launches a satellite or spacecraft to vigorously analyze the likelihood that any of their actions, from an unexpected failure or normal operations, will create more space debris. It includes accounting for any piece of debris they plan to release over 5mm that might stay in orbit for 25 years or more. It might seem surprising to think about an item staying in space for that long, but the oldest satellite still in orbit—Vanguard 1—turned 60 in 2018. Agencies and companies throughout the world are working on developing technology that would dispose of or capture space debris before it causes serious damage. But for now, the U.S. government is more focused on preventing new debris from forming than taking the trash out of orbit.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is the purpose of the new U.S. space policy?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To lay out general guidelines for space exploration."
+              },
+              {
+                "l": "B",
+                "t": "To encourage companies to join in space programs."
+              },
+              {
+                "l": "C",
+                "t": "To make the best use of satellites in space."
+              },
+              {
+                "l": "D",
+                "t": "To improve traffic conditions in space."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What is the Department of Commerce expected to do under the new policy?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Reduce debris in space."
+              },
+              {
+                "l": "B",
+                "t": "Monitor satellite operations."
+              },
+              {
+                "l": "C",
+                "t": "Regulate the launching of new satellites."
+              },
+              {
+                "l": "D",
+                "t": "Update satellite communications technology."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What does the U.S. government hope to do with the new space policy?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Set international standards for the space flight industry."
+              },
+              {
+                "l": "B",
+                "t": "Monopolize space industry by developing a set of norms."
+              },
+              {
+                "l": "C",
+                "t": "Facilitate commercial space flights throughout the world."
+              },
+              {
+                "l": "D",
+                "t": "Promote international collaboration in space exploration."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What is a space vehicle launching entity required to do according to the current U.S. Government Orbital\n Debris Mitigation Standard Practices?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Give an estimate of how long its debris will stay in space."
+              },
+              {
+                "l": "B",
+                "t": "Account for the debris it has released into space at any time."
+              },
+              {
+                "l": "C",
+                "t": "Provide a detailed plan for managing the space debris it creates."
+              },
+              {
+                "l": "D",
+                "t": "Make a thorough analysis of any possible addition to space debris."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What are space agencies and companies aiming to do at present?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Recycle used space vehicles before they turn into debris."
+              },
+              {
+                "l": "B",
+                "t": "Develop technology to address the space debris problem."
+              },
+              {
+                "l": "C",
+                "t": "Limit the amount of debris entering space."
+              },
+              {
+                "l": "D",
+                "t": "Cooperate closely to retrieve space debris."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国幅员辽阔，人口众多，很多地方人们都说自己的方言。方言在发音上差别很大，词汇和语法差别较 小。有些方言，特别是北方和南方的方言，差异很大，以致于说不同方言的人常常很难听懂彼此的讲话。方言 被认为是当地文化的一个组成部分，但近年来能说方言的人数不断减少。为了鼓励人们更多说本地语言，一些 地方政府已经采取措施，如在学校开设方言课，在广播和电视上播放方言节目，以期保存本地的文化遗产。",
+    "reference": "China is a vast country with a large population, and in many places people speak their own dialects. Dialects differ greatly in pronunciation, but they differ little in vocabulary and grammar. Some dialects, especially those in the north and the south, differ so greatly that people who speak different dialects often find it difficult to understand each other. Dialects are considered a part of local culture, but in recent years the number of people who can speak them has been decreasing. To encourage people to speak local dialects more, some local governments have taken measures, such as offering dialect courses in schools and broadcasting dialect programs on radio and television, in the hope of preserving the local cultural heritage."
+  }
+}

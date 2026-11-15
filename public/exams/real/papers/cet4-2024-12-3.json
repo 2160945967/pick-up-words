@@ -1,0 +1,1333 @@
+{
+  "id": "cet4-2024-12-3",
+  "level": "cet4",
+  "year": 2024,
+  "month": 12,
+  "set": 3,
+  "title": "2024年12月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on how the students can contribute to a green campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+    "sample": "A green campus is no longer a slogan but a shared responsibility, and students play a key role in making it real. As members of the campus, we can turn small daily habits into real changes.There are several practical things we can do. First, we should sort our rubbish and recycle paper, bottles and cans, which cuts waste and saves resources. Second, saving water and switching off lights and computers when they are not in use can greatly reduce the energy our campus consumes. Moreover, choosing to walk, cycle or share bikes for short trips lowers carbon emissions, and passing used textbooks on to younger students gives them a second life instead of being thrown away.In short, a green campus grows out of these everyday actions rather than empty talk. If every student takes one small step, our campus will surely become cleaner, greener and more livable for us all."
+  },
+  "listening": {
+    "audio": "cet4-2024-12-2",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will see a 27% higher price to buy natural gas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will have insufficient heating oil to keep warm."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will have a costly bill to pay to heat their homes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will experience the coldest winter in four decades."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Provided additional funding to Low Income Home Energy Assistance Program."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Assured U.S. citizens of an increase in energy supplies by the end of this year."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Predicted a 10% jump in heating bills for most U.S. households this winter."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Decided on this year's energy assistance package of $8 billion in total.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "U.S. families are looking to the winter with fear as energy costs soar. A number of factors are creating a bad situation: Global energy consumption is up, but supplies have been reduced. The Energy Department projects heating bills will jump 28% this winter for those who rely on natural gas. Natural gas is used by nearly half of U.S. households for heat. Heating oil is projected to be 27% higher and electricity 10% higher. That comes against inflation rates that accelerated last month with consumer prices growing 6.6%. That's the fastest pace in four decades.",
+                "zh": "随着能源成本飙升,美国家庭正怀着恐惧展望这个冬天。多种因素正在造成糟糕的局面:全球能源消费增加,但供应却减少了。能源部预测,依赖天然气供暖的家庭今年冬天的取暖费用将跃升28%。近一半的美国家庭使用天然气供暖。取暖用油预计将上涨27%,电费将上涨10%。这是在通胀率加速的背景下发生的,上个月消费者价格上涨了6.6%。这是四十年来最快的增速。"
+              },
+              {
+                "en": "The pain will be especially acute in parts of the country that heavily rely on heating oil to keep homes warm. It's projected to cost more than $2,300 to heat a typical home with heating oil this winter. Last month, the federal government added $1 billion in funding to Low Income Home Energy Assistance Program, bringing the total to $4.8 billion. But that represents a reduction from last year's energy assistance package of over $8 billion.",
+                "zh": "在严重依赖取暖用油保持家庭温暖的地区,这种痛苦将尤为剧烈。预计今年冬天用取暖用油为一个典型家庭供暖将花费超过2300美元。上个月,联邦政府向低收入家庭能源援助计划增加了10亿美元资金,使总额达到48亿美元。但这比去年超过80亿美元的能源援助计划有所减少。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They care less about their diet now than before."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They may lack adequate knowledge of healthy food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may hold too optimistic a view about their diet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They pay insufficient attention to their choice of food."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Those who finished 24-hour food questionnaires."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those who fully understood the rating scale."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those who cared about food quality."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Those who rated their diet as poor.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Many Americans think they make healthy food choices, but they may be viewing their diet too optimistically. That's the main finding of a new study by researchers at the U.S. Department of Agriculture in Stoneville, Mississippi.",
+                "zh": "许多美国人认为自己做出了健康的食物选择，但他们可能对自己的饮食过于乐观了。这是美国农业部位于密西西比州Stoneville的研究人员一项新研究的主要发现。"
+              },
+              {
+                "en": "The study aimed to identify disconnects between how healthily Americans think they eat and how they actually do. For the study, the researchers asked participants to rate their diet as excellent, very good, good, fair or poor. Folks also completed 24-hour food questionnaires. Then, the researchers compared answers to see how well responses to the two exercises matched up.",
+                "zh": "该研究旨在找出美国人认为自己吃得有多健康与实际情况之间的差距。在研究中，研究人员要求参与者将自己的饮食评为优秀、非常好、好、一般或差。参与者还完成了24小时食物问卷。然后，研究人员比较了答案，看两项调查的回答匹配程度如何。"
+              },
+              {
+                "en": "Of more than 9,700 people, roughly 85 percent were off base when asked to rate the quality of their diet, and almost all overestimated how healthy it was. Those who rated their diet as poor tended to be far more accurate. Their rating matched that of the researchers more than nine times out of ten.",
+                "zh": "在9700多人中，大约85%的人在被要求评价自己的饮食质量时偏离了实际情况，而且几乎所有人都高估了饮食的健康程度。那些将自己的饮食评为差的人往往准确得多。他们的评价在十次中有九次以上与研究人员的评价相符。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They experienced a heartbreaking moment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They gathered together to rescue an elephant."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They heard a noise from the bottom of a well."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They found an elephant wandering around a well."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To borrow their crane."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To ask them for help."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To report the strange noise."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To get food for the elephant."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The elephant was able to return to the jungle."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The army officers were examined for injuries."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The army officers were rewarded for their rescue efforts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The elephant was given medical treatment for many days."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "It was a heartwarming moment that dozens of Indian rescuers rallied together to use a crane in order to save an elephant trapped at the bottom of a 20-foot well. The massive rescue effort took place last week close to an army camp. The elephant wandered out of the jungle and fell into the well. The army officers heard a noise coming from the well and realized an elephant was trapped deep inside. The officers then threw in some food for the creature and called the local forest department for help. Video of the rescue operation shows how the team used a crane to lift up the huge animal out of the well and onto the back of a truck. It was then taken to an examining room for evaluation of any injuries. The elephant was kept under close supervision for a few days before it was successfully released back into the wild.",
+                "zh": "这是一个温馨的时刻，数十名印度救援人员齐心协力使用起重机营救一头困在20英尺深井底的大象。这次大规模救援行动上周在一个军营附近进行。这头大象从丛林中走出来后掉进了井里。军官们听到井里传来声音，发现有一头大象被困在深处。随后军官们向井里投放了一些食物，并向当地林业部门求助。救援行动的视频显示，救援队如何使用起重机将这头巨大的动物从井里吊起并放到卡车后部。随后大象被送往检查室评估是否有任何伤情。这头大象在密切监护下待了几天后被成功放归野外。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He found it had caused him much inconvenience."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It led him to spend more money than necessary."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was much less secure than paying with cash."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He wanted to be less dependent on his phone."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Living beyond her means."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Lack of budgeting strategies."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fashion addiction."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Impulse purchasing."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Eat healthier food with less money."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Order food like burgers and chips."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Avoid getting addicted to junk food"
+                  },
+                  {
+                    "l": "D",
+                    "t": "Pay either in cash or with his phone."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Making a shopping list."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Sticking to his budget."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Withdrawing cash only once a month."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Thinking twice before buying something.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I need to stop at the bank to withdraw some cash.",
+                "zh": "M: 我得去银行取点现金。"
+              },
+              {
+                "en": "W: Why not just pay with your phone?",
+                "zh": "W: 为什么不直接用手机支付呢？"
+              },
+              {
+                "en": "M: Well, actually, I've stopped using online payments for the past three months now.",
+                "zh": "M: 嗯，实际上，我已经三个月没用线上支付了。"
+              },
+              {
+                "en": "W: Stopped paying online? Oh, you must be worried that online payments aren't secure.",
+                "zh": "W: 不用线上支付了？哦，你一定是担心线上支付不安全吧。"
+              },
+              {
+                "en": "M: No, they are safe. But paying online is too convenient and I spent too much money on things I didn't need.",
+                "zh": "M: 不，它们是安全的。但线上支付太方便了，我在不需要的东西上花了太多钱。"
+              },
+              {
+                "en": "W: Oh, impulse purchases can be an issue for me, too. I've definitely bought clothes and shoes I didn't need because they were on sale, and paying with my phone was so easy. But I've found that if I review my spending every night, that keeps me from spending too much.",
+                "zh": "W: 哦，冲动消费对我来说也是个问题。我确实买过不需要的衣服和鞋子，因为它们在打折，而且用手机支付太容易了。但我发现如果每晚检查一下我的开支，就能控制住不花太多钱。"
+              },
+              {
+                "en": "M: I tried that strategy, but it just didn't work, because I'd be busy studying all day. Then, when I was tired and hungry, I'd use my phone to order food, like burgers and other junk, instead of going to the canteen, where I could get a healthier meal for half the price.",
+                "zh": "M: 我试过那个办法，但没用，因为我一整天都在忙着学习。然后，当我又累又饿的时候，我就会用手机点外卖，比如汉堡和其他垃圾食品，而不是去食堂，在那里我可以花一半的价钱吃到更健康的饭菜。"
+              },
+              {
+                "en": "W: Well, what do you do now then? It seems like you'd have the same problems with cash.",
+                "zh": "W: 那你现在怎么办呢？感觉你用现金也会有同样的问题啊。"
+              },
+              {
+                "en": "M: I go to the bank once a week, and the rest of the time I keep my bank card at home, so I can't get more cash out. And I also have a notebook where I record my expenses.",
+                "zh": "M: 我每周去一次银行，其余时间把银行卡放在家里，这样我就取不到更多现金了。而且我还有个笔记本记录我的开支。"
+              },
+              {
+                "en": "W: But what prevents you from just going to the bank and getting more money, if you want to buy something?",
+                "zh": "W: 但如果你想买东西，有什么能阻止你直接去银行取更多钱呢？"
+              },
+              {
+                "en": "M: The first month I did withdraw extra cash twice, but I felt guilty about it. And after that I refused to spend more than what I had budgeted, and by now it's just a habit.",
+                "zh": "M: 第一个月我确实又取了两次额外的现金，但我为此感到内疚。之后我就拒绝花超出预算的钱，到现在这已经成了习惯。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He does not enjoy any ball games."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has to prepare for the future."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has breathing problems."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is not up to anything challenging."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Soccer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Badminton."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Volleyball."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Basketball."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The possibilities of joining the school sports team."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The opportunities of winning some championships."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The chances of getting an athletic scholarship later on."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The odds of becoming a professional sportsman someday."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It differs entirely from indoor volleyball."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It appeals to both schoolgirls and schoolboys."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is less popular than indoor sports in the country."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is completely different from other outdoor games."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Please hear me out. I don't want our son to spend his afternoons doing something he hates, even if it might prepare him for the future. What about getting him to join a sport, like soccer? From all the running and training, he could become quite athletic. Not to mention the great physical benefits from exercising outside every day.",
+                "zh": "M: 请听我说完。我不想让我们的儿子把下午时间花在他讨厌的事情上,即使这可能为他的未来做准备。让他参加一项运动怎么样,比如足球?通过所有的跑步和训练,他可以变得很健壮。更不用说每天在户外锻炼带来的巨大身体益处了。"
+              },
+              {
+                "en": "W: Um, I don't think he should be doing something so challenging with all his breathing issues. What about playing an indoor sport, like badminton? The environment is easier to control, and he can still get a good workout, in addition to improving his hand-eye coordination. Besides, I could teach him some of the basics from my time as a badminton player.",
+                "zh": "W: 嗯,我觉得他不应该做这么有挑战性的事情,他有那么多呼吸问题。室内运动怎么样,比如羽毛球?环境更容易控制,他仍然可以得到很好的锻炼,还能提高手眼协调能力。而且,我可以教他一些基础知识,我以前是打羽毛球的。"
+              },
+              {
+                "en": "M: Um, I'm thinking team sports should be the way to go. There's nothing like playing as part of a unit to accomplish a goal like winning a game or even a championship. He could try basketball since many of the courts are indoors now and it's a sport that could help him understand team spirit while cooperating with others. Maybe he could even join the school basketball team when he's ready.",
+                "zh": "M: 嗯,我觉得应该选团队运动。没有什么比作为团队的一员去完成一个目标更好的了,比如赢得一场比赛甚至一个冠军。他可以试试篮球,因为现在很多球场都在室内,这项运动可以帮助他在与他人合作的同时理解团队精神。也许等他准备好了,他甚至可以加入学校篮球队。"
+              },
+              {
+                "en": "W: Oh, oh, what about volleyball? It's a team sport and they often have mixed-gender teams so he could socialize with both girls and boys. It's not as popular as some sports, which means he has better odds of possibly getting an athletic scholarship in the future. I also believe you were a beach volleyball athlete yourself not so long ago.",
+                "zh": "W: 哦,哦,排球怎么样?这是一项团队运动,他们经常有男女混合队,所以他可以和女孩和男孩都社交。它不像有些运动那么受欢迎,这意味着他将来获得体育奖学金的机会更大。我还记得你不久前自己就是沙滩排球运动员。"
+              },
+              {
+                "en": "M: As I've said many times before, beach volleyball and indoor volleyball are completely different.",
+                "zh": "M: 正如我之前说过很多次的,沙滩排球和室内排球是完全不同的。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It usually requires years of preparations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It does a lot of harm to the environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It often burns over three hundred tonnes of refined fuel."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It proves to be the most complicated stage of space missions."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are burnt up in outer space."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are guided back to Earth."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are reused up to 100 times."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are treated as expendable."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "New technologies for bringing back space vehicles for recycling."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The technology for meeting the needs of commercial space travel."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many of the technologies to limit the impact of space travel on Earth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The technology for effectively protecting ozone from being destroyed.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Lift-off is usually the most environmentally harmful stage of any space mission, with vast quantities of fuel burnt up in a matter of minutes. For instance, SpaceX's Falcon 9 gets through 112 tonnes of refined fuel, emitting about 336 tonnes of CO₂. This is the equivalent produced by your average car driving almost 70 times around the world. As well as greenhouse gases, rocket engines emit particles that destroy ozone. These issues are growing more pressing with the emergence of commercial spaceflight. There were 114 space launches in 2020, but there may be up to 1,000 per year in future.",
+                "zh": "发射通常是任何太空任务中对环境危害最大的阶段,在短短几分钟内燃烧掉大量燃料。例如,SpaceX的猎鹰9号消耗112吨精炼燃料,排放约336吨二氧化碳。这相当于普通汽车绕地球行驶近70圈所产生的排放量。除了温室气体,火箭发动机还排放破坏臭氧的颗粒物。随着商业太空飞行的兴起,这些问题变得越来越紧迫。2020年有114次太空发射,但未来每年可能多达1000次。"
+              },
+              {
+                "en": "Sustainable fuels are the top priority to enable greener space travel. Current spacecraft use a variety of fuels, but most are based on fossil fuels. One potentially greener option is liquid hydrogen and oxygen. Hydrogen can be obtained sustainably by using solar power to break water down into oxygen and hydrogen.",
+                "zh": "可持续燃料是实现更环保太空旅行的首要任务。目前的航天器使用多种燃料,但大多数基于化石燃料。一种潜在的更环保选择是液氢和液氧。氢可以通过利用太阳能将水分解成氧和氢来可持续地获得。"
+              },
+              {
+                "en": "Reusable rockets can cut down on some of the waste associated with spaceflight. Traditionally, boosters, fuel tanks and other components are treated as expendable. But guiding them back to Earth in a controlled manner opens new possibilities — most components from the Falcon 9 can be reused up to 100 times.",
+                "zh": "可重复使用的火箭可以减少与太空飞行相关的一些浪费。传统上,助推器、燃料箱和其他部件被视为一次性消耗品。但以受控方式引导它们返回地球开辟了新的可能性——猎鹰9号的大部分部件可以重复使用多达100次。"
+              },
+              {
+                "en": "Truly environmentally friendly space travel is still some way off. But we already have many of the technologies needed to start limiting its impact on our planet.",
+                "zh": "真正环保的太空旅行仍有一段路要走。但我们已经拥有许多开始限制其对地球影响所需的技术。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can help unskilled readers feel more secure."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can encourage reluctant readers to read aloud."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can strengthen children's confidence in others."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can boost children's interest in communication."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By motivating children to find out about their favourite pets."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By taking children to the library to borrow books on animals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By allowing children to surf the internet about pets by themselves."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By showing children how to acquire knowledge about healthy pets."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By learning that raising pets can do much good."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By watching how healthy pets are brought up."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By hearing about their peers' passion for pets."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By visiting friends who have household pets.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Helping to look after a pet can facilitate numerous aspects of a child's emotional development. Research shows that reading to a loyal and nonjudgmental companion, such as a dog or cat, can encourage reluctant readers to read aloud, which will in turn boost their self-confidence. Having a companion to talk to about their feelings can also help children feel secure and develop communication skills.",
+                "zh": "帮助照顾宠物可以促进儿童情感发展的诸多方面。研究表明,向忠诚且不评判的伙伴(如狗或猫)朗读可以鼓励不愿意读书的孩子大声朗读,这反过来会增强他们的自信心。有一个可以倾诉感受的伙伴也能帮助儿童感到安全并发展沟通技能。"
+              },
+              {
+                "en": "A household pet can also cultivate a child's sense of responsibility as their parent explains the necessary processes of keeping their pet happy and healthy. As a child matures, they can then take on more of the daily responsibilities, boosting their sense of independence.",
+                "zh": "家庭宠物还可以培养儿童的责任感,因为家长会向他们解释保持宠物快乐和健康的必要过程。随着儿童的成长,他们可以承担更多日常责任,增强独立感。"
+              },
+              {
+                "en": "Pets also provide a fantastic subject for research and learning. Parents can encourage their child to research their favourite pets at the library or during a supervised internet search. Taking children along to the pet shop to buy food and supplies will support their cognitive development as their passion for learning flourishes.",
+                "zh": "宠物还为研究和学习提供了绝佳的主题。家长可以鼓励孩子在图书馆或在监督下的网络搜索中研究他们喜爱的宠物。带孩子去宠物店购买食物和用品将有助于他们的认知发展,因为他们对学习的热情会蓬勃发展。"
+              },
+              {
+                "en": "A child's physical development can benefit greatly from taking pets for walks in the fresh air. Even their fine-motor skills can be utilised in taking care of a beloved animal.",
+                "zh": "带宠物在新鲜空气中散步可以极大地促进儿童的身体发育。甚至他们的精细运动技能也可以在照顾心爱的动物时得到运用。"
+              },
+              {
+                "en": "When responsibilities are well paced and communicated, a child can benefit greatly from involvement in bringing up a happy and healthy pet. And of course, if a child doesn't have a pet in their own household, they can still benefit from all of the above when visiting a friend who does.",
+                "zh": "当责任节奏得当且沟通良好时,儿童可以从参与养育一只快乐健康的宠物中受益匪浅。当然,如果孩子自己家里没有宠物,他们在拜访有宠物的朋友时仍然可以从上述所有方面受益。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Send would-be students a packet of information."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Update regularly all information on their websites."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Inform prospective students of their yearly enrollment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Answer questions raised by applicants and their parents."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Oversee private institutions directly."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Follow other states' example."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Supervise all schools consistently."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Regulate public institutions by law."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are resourceful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are competitive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They provide the best opportunity to realize one's dream."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They appeal most to students from other states in the U.S."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Some students waste much time surfing the net."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Students may need to visit too many websites."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Students have to search for the information."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some students may lack adequate access."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A new bill in the Ohio legislature would require state public colleges and universities to send prospective students a packet of information. This would include costs of college, grants and scholarships. It would also include expected monthly loan payments and projected salary after college.",
+                "zh": "俄亥俄州立法机构的一项新法案将要求州立公立大学和学院向潜在学生发送一份信息包。其中将包括大学费用、助学金和奖学金。还将包括预期的月贷款还款额以及大学毕业后的预期薪资。"
+              },
+              {
+                "en": "State Representative Adam Mathews is one of the two legislators who proposed the bill. He said it would give prospective students more information about what to expect once they graduate. \"Putting that information in front of them will give them the best opportunity to match their skills and their dreams to what our schools can provide,\" said Mathews. He notes that the state can only regulate public institutions in this way, but he hopes private institutions in Ohio follow the lead of the state and post similar information. He believes giving out this information will help Ohio's colleges and universities to be more competitive. The information will highlight what a great value they have for their very reasonable cost.",
+                "zh": "州众议员Adam Mathews是提出该法案的两位立法者之一。他表示，这将为潜在学生提供更多关于毕业后预期情况的信息。Mathews说：\"将这些信息呈现在他们面前，将使他们有最好的机会将自己的技能和梦想与我们学校所能提供的相匹配。\"他指出，州只能以这种方式监管公立机构，但他希望俄亥俄州的私立机构效仿州的做法并发布类似信息。他相信，提供这些信息将有助于俄亥俄州的大学和学院提高竞争力。这些信息将突显出它们以非常合理的成本提供了巨大的价值。"
+              },
+              {
+                "en": "Ohio's schools are already competitive. The state attracts more undergraduate students than it sends to colleges out of state. Many colleges and universities currently provide similar information on their websites. This includes tuition, fees, graduation rates and more. But students need to search for the information. This bill would require the universities and colleges to send a packet directly to students.",
+                "zh": "俄亥俄州的学校已经很有竞争力。该州吸引的本科生数量超过了流失到州外大学的数量。许多大学和学院目前在其网站上提供类似信息。这包括学费、费用、毕业率等。但学生需要主动搜索这些信息。该法案将要求大学和学院直接向学生发送信息包。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2024-12-2"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Super realistic masks are made from flexible materials such as silicone and are designed to imitate real human face—down to every last detail. In a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "face and which showed a person wearing a mask. Surprisingly, participants made the wrong call in one-in-five cases. The 20% error rate"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "in the study likely underestimates the extent to which people would struggle to tell an"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "face from the real thing outside of the lab. The researchers collected data from participants from both the UK and Japan to"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "any differences according to race. When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ". There are now dozens of criminal cases in which offenders have"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "themselves off as people of a different age, race or gender, sending police investigations down the wrong path. In one recent case, an international gang used an"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "realistic mask to pose as a French minister,"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "business executives out of millions of pounds. Dr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "the key characteristics of a person's appearance to be"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "identified.\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "accurate"
+        },
+        {
+          "l": "B",
+          "w": "allow"
+        },
+        {
+          "l": "C",
+          "w": "artificial"
+        },
+        {
+          "l": "D",
+          "w": "cheating"
+        },
+        {
+          "l": "E",
+          "w": "deserted"
+        },
+        {
+          "l": "F",
+          "w": "establish"
+        },
+        {
+          "l": "G",
+          "w": "extremely"
+        },
+        {
+          "l": "H",
+          "w": "immediately"
+        },
+        {
+          "l": "I",
+          "w": "incorrectly"
+        },
+        {
+          "l": "J",
+          "w": "normal"
+        },
+        {
+          "l": "K",
+          "w": "observed"
+        },
+        {
+          "l": "L",
+          "w": "passed"
+        },
+        {
+          "l": "M",
+          "w": "reminding"
+        },
+        {
+          "l": "N",
+          "w": "reparable"
+        },
+        {
+          "l": "O",
+          "w": "resolve"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "J"
+        },
+        {
+          "n": 27,
+          "a": "K"
+        },
+        {
+          "n": 28,
+          "a": "C"
+        },
+        {
+          "n": 29,
+          "a": "F"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "L"
+        },
+        {
+          "n": 32,
+          "a": "G"
+        },
+        {
+          "n": 33,
+          "a": "D"
+        },
+        {
+          "n": 34,
+          "a": "B"
+        },
+        {
+          "n": 35,
+          "a": "I"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Stop thinking and start doing",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Most people have a dream in life, a vision of who or what they'd like to be in the future. At a minimum, everyone has interests and values that determine what they want out of their lives. Even so, trying to set achievable goals that you'll work for over the course of many years can be extremely challenging. It can be hard to know where to even begin, and the things you hope to achieve may seem impossible. But, if you're well prepared you may be able to set goals for your life that are just as fulfilling to work toward as to achieve."
+        },
+        {
+          "l": "B",
+          "t": "We all have goals that we want to achieve in our lives. These goals may include learning a new language, eating healthier and losing weight, becoming a better parent, saving more money, and so on. It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge. This is why we buy courses on how to start a business or how to lose weight fast or how to learn a new language in three months. We assume that if we knew about a better strategy, then we would get better results. We believe that a new result requires new knowledge."
+        },
+        {
+          "l": "C",
+          "t": "What I'm starting to realize, however, is that new knowledge does not necessarily drive new results. In fact, learning something new can actually be a waste of time if your goal is to make progress and not simply gain additional knowledge."
+        },
+        {
+          "l": "D",
+          "t": "It all comes down to the difference between learning and practicing. Thomas Sterner, in his book *The Practicing Mind*, explains the key difference between practicing and learning. He says: \"When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.\" Here the words \"deliberate\" and \"intention\" are key, because they define the difference between actively practicing something and passively learning it."
+        },
+        {
+          "l": "E",
+          "t": "Learning something new and practicing something new may seem very similar, but these two methods can have profoundly different results. Here are some additional ways to think about the difference. Let's say your goal is to get stronger and more fit. You can research the best instructions on weight lifting technique, but the only way to build strength is to practice lifting weights. Let's say your goal is to grow your startup. You can learn about the best way to make a sales pitch, but the only way to actually land customers is to practice making sales calls. Let's say your goal is to write a book. You can talk to a best-selling author about writing, but the only way to become a better writer is to practice publishing consistently."
+        },
+        {
+          "l": "F",
+          "t": "Passive learning creates knowledge. Active practice creates skill. Let's consider a couple more reasons to prioritize active practice over passive learning. First, passive learning can be a stick that supports inaction. In many cases, learning is actually a way to avoid taking action on the goals and interests that we say are important to us. For example, let's say you want to learn a foreign language. Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\"). Of course, you're not actually practicing the action that would deliver your desired outcome (speaking the foreign language)."
+        },
+        {
+          "l": "G",
+          "t": "In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels. We make the mistake of being in motion rather than taking action. Learning is valuable until it becomes a form of procrastination(拖延)."
+        },
+        {
+          "l": "H",
+          "t": "Another point to consider is that practice is learning, but learning is not practice. Passive learning is not a form of practice because although you gain new knowledge, you are not discovering how to apply that knowledge. Active practice, meanwhile, is one of the greatest forms of learning because the mistakes you make while practicing reveal important insights."
+        },
+        {
+          "l": "I",
+          "t": "Even more importantly, practice is the only way to make a meaningful contribution with your knowledge. You can watch an online course about how to build a business or read an article about a terrible disaster in a developing nation, but that knowledge is unproductive unless you actually launch your business or donate to those in need. Learning by itself can be valuable for you, but if you want to be valuable to others, then you have to express your knowledge in some way."
+        },
+        {
+          "l": "J",
+          "t": "The last important point to consider is that practice focuses your energy on the process. Thomas Sterner once said, \"Progress is a natural result of staying focused on the process of doing anything.\" The state of your life right now is a result of the habits and beliefs that you have been practicing each day. When you realize this and begin to direct your focus toward practicing better habits day-in and day-out, continual progress will be the logical outcome. It is not the things we learn nor the dreams we visualize that determine our results, but rather the habits that we practice each day. Fall in love with boredom and focus your energy on the process, not the product."
+        },
+        {
+          "l": "K",
+          "t": "What does this all mean? Is passive learning useless? Of course not. In many cases, learning for the sake of learning can be a beautiful thing. Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action. That said, the main point of this article is that learning by itself does not lead to progress. We often hide behind information and use learning as an excuse to delay the more difficult and more important choice of actually doing something. Spend less time passively learning and more time actively practicing. Stop thinking and start doing."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Acquisition of new knowledge may not guarantee the progress that you aim to make.",
+          "a": "C"
+        },
+        {
+          "n": 37,
+          "s": "Your current situation in life is built on the beliefs and habits you have been practicing daily.",
+          "a": "J"
+        },
+        {
+          "n": 38,
+          "s": "Knowing the best way to learn a foreign language will not enable you to speak it without actual practice.",
+          "a": "F"
+        },
+        {
+          "n": 39,
+          "s": "People may find it demanding to create a goal which will take a long time to achieve.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Learning and practicing seem to be very much alike, but the two processes can lead to quite different outcomes.",
+          "a": "E"
+        },
+        {
+          "n": 41,
+          "s": "Absorbing new information is helpful in making better decisions prior to action.",
+          "a": "K"
+        },
+        {
+          "n": 42,
+          "s": "Sometimes we may feel like we are making progress by doing some research or making preparations, but actually we are staying at the starting point.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "We are inclined to think that a lack of knowledge prevents us from advancing to a better future.",
+          "a": "B"
+        },
+        {
+          "n": 44,
+          "s": "Learning can benefit you by itself, but only practice can turn what you learn into meaningful contributions.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "Practice involves repeating a process intentionally to attain a particular objective.",
+          "a": "D"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. Recent evidence points to drivers' limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately. One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms. The issue is that, unlike using a smartphone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware. \"Warning fatigue\" and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction. Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur. Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this considered, the road forward for self-driving cars is not going to be a smooth ride after all.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from research in human-vehicle interaction?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Automatic driving systems are by no means immune to errors."
+              },
+              {
+                "l": "B",
+                "t": "Driverless vehicles are likely to be misused by some people."
+              },
+              {
+                "l": "C",
+                "t": "Self-driving car manufacturers are not aware of the legal matters involved."
+              },
+              {
+                "l": "D",
+                "t": "There is a long way to go before humans can interact with driverless vehicles."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What is the problem with requiring buyers to sign end-user license agreements?",
+            "o": [
+              {
+                "l": "A",
+                "t": "End users, young and old alike, find the terms complex to interpret."
+              },
+              {
+                "l": "B",
+                "t": "Most end users sign them without bothering to read the terms."
+              },
+              {
+                "l": "C",
+                "t": "Many people are often confused by the wording of the terms."
+              },
+              {
+                "l": "D",
+                "t": "Most end users do not understand the terms after reading them through."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What would drivers do when they suffer from \"warning fatigue\"?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Waste no time keeping the car moving."
+              },
+              {
+                "l": "B",
+                "t": "Rest a while to avoid fatigue driving."
+              },
+              {
+                "l": "C",
+                "t": "Take no action despite repeated warnings."
+              },
+              {
+                "l": "D",
+                "t": "Take note of the message though fatigued."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What does the author think of continuing to ask buyers to sign end-user license agreements?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will probably not guarantee the safety of drivers in case of accidents."
+              },
+              {
+                "l": "B",
+                "t": "It likely won't ensure that the automatic driving system functions properly."
+              },
+              {
+                "l": "C",
+                "t": "It likely won't fully protect automakers against accusations of deliberate cheating."
+              },
+              {
+                "l": "D",
+                "t": "It will probably not provide manufacturers adequate protection from legal responsibilities."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What should be done to help drivers fully understand system capabilities and limitations?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Training them to be experts in vehicle automation."
+              },
+              {
+                "l": "B",
+                "t": "Familiarizing them with the systems through training."
+              },
+              {
+                "l": "C",
+                "t": "Broadening their knowledge of accident-prevention mechanisms."
+              },
+              {
+                "l": "D",
+                "t": "Facilitating their access to the information provided by the seller."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Do you ever blend up a protein drink for breakfast, or grab a protein bar following an afternoon workout? If so, you are likely among the millions of people in search of more protein-rich diets. Protein-enriched products are found everywhere. But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need. Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. Global retail sales of protein supplement products reached an astonishing US$18.9 billion in 2020. But are we really in need of more protein? Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein. In fact, Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level. For example, if you're a dedicated athlete you might need to consume higher quantities of protein. Generally, though, a 140-pound person should not exceed 120 grams of protein per day, particularly because a high protein diet can strain kidney and liver function and increase risks of developing heart disease and cancer. While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite. In the 1970s through the 1990s, protein products remained visible but moved back somewhat with the dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods and beverages following the publication of studies linking sugar and saturated(饱和的) fat consumption to heart disease. Later research in 2003, however, suggested high-protein diets could aid in weight loss, and protein quickly regained its former nutrient-superstar status. Now most people living in high-income nations are consuming enough protein. When we replace meals with a protein bar or drink, we also risk missing out on the rich sources of antioxidants(抗氧化剂), vitamins and many other benefits of real food.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn about publicity over protein in America?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has helped to create the myth of protein deficiency."
+              },
+              {
+                "l": "B",
+                "t": "It has helped Americans in search of protein-rich diets."
+              },
+              {
+                "l": "C",
+                "t": "It has raised a lot of health concerns among the public."
+              },
+              {
+                "l": "D",
+                "t": "It has been funded by food companies and health experts."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Americans can purchase many kinds of protein-rich foods everywhere."
+              },
+              {
+                "l": "B",
+                "t": "Americans can absorb the number of calories recommended by food experts."
+              },
+              {
+                "l": "C",
+                "t": "Americans can get sufficient protein just by eating adequate foods daily."
+              },
+              {
+                "l": "D",
+                "t": "Americans can rely on food supplements to prevent protein deficiency."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What should people take into consideration in deciding on the most preferable protein intake?",
+            "o": [
+              {
+                "l": "A",
+                "t": "How healthy they are and what food they eat."
+              },
+              {
+                "l": "B",
+                "t": "How old they are and what activities they do."
+              },
+              {
+                "l": "C",
+                "t": "How much protein they consume and what their body weight is."
+              },
+              {
+                "l": "D",
+                "t": "How serious their protein deficiency is and what remedies they use."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What foods have been largely out of favor for more than a century?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Sugar-free snacks."
+              },
+              {
+                "l": "B",
+                "t": "Protein-rich foods."
+              },
+              {
+                "l": "C",
+                "t": "Both red and white meats."
+              },
+              {
+                "l": "D",
+                "t": "Sugary and fatty foods."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does the author imply people in developed countries should do to keep healthy?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Enjoy natural food."
+              },
+              {
+                "l": "B",
+                "t": "Eat vegetarian diets."
+              },
+              {
+                "l": "C",
+                "t": "Consume enough protein daily."
+              },
+              {
+                "l": "D",
+                "t": "Replace meals with protein bars."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "敦煌莫高窟 (Mogao Grottoes) 数字展示中心于2014年开放启用, 是莫高窟保护利用工程的重要组成部分。 展示中心采用数字技术和多媒体展示手段, 使游客进入洞窟参观之前就能了解莫高窟的历史文化, 鉴赏莫高窟 的艺术经典。这将减少开放洞窟的数量, 缩短游客在洞窟内的逗留时间, 减轻参观对莫高窟造成的影响, 以使这 一世界文化遗产得到妥善保护、长久利用。",
+    "reference": "The Mogao Grottoes Digital Exhibition Center, which opened in 2014, is an important part of the project for the protection and utilization of the Mogao Grottoes. The center adopts digital technology and multimedia means, enabling visitors to learn about the history and culture of the Mogao Grottoes and appreciate its artistic classics before they enter the caves. This will reduce the number of open caves, shorten the time visitors stay inside, and lessen the impact of visits on the Mogao Grottoes, so that this World Cultural Heritage site can be properly protected and used over the long term."
+  }
+}

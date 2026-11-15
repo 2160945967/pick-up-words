@@ -1,0 +1,1477 @@
+{
+  "id": "cet6-2017-12-2",
+  "level": "cet6",
+  "year": 2017,
+  "month": 12,
+  "set": 2,
+  "title": "2017年12月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on the saying \"Seek to understand others,and you will be understood \". You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+    "sample": "The saying \"Seek to understand others, and you will be understood\" reveals a simple but profound truth about human relationships. I firmly agree with this view, because understanding is reciprocal: only when we make the effort to grasp another person's feelings and position will others be willing to open their hearts and understand us in return.Take the workplace as an example. A manager who bothers to listen to an employee's real difficulties, rather than rushing to give orders, earns that employee's trust and cooperation. The same holds true between parents and children. When a father sets aside his prejudices and truly listens to his teenage daughter, she no longer feels judged and gradually shares her honest thoughts. In both cases, the act of understanding others, by listening, putting oneself in their shoes and dropping assumptions, builds a bridge that lets understanding flow back.Therefore, being understood is not something we can demand; it is something we earn by giving understanding first. If each of us takes the initiative to step into others' shoes, mutual understanding will follow naturally, and our relationships will grow warmer and stronger."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Say a few words to thank the speaker."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Introduce the speaker to the audience."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Give a lecture on the history of the town."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Host a talk on how to give a good speech."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He was the founder of the local history society."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has worked with Miss Bligh for 20 years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He has published a book on public speaking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He joined the local history society when young."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She was obviously better at talking than writing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She had a good knowledge of the town's history."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Her speech was so funny as to amuse the audience."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her ancestors came to the town in the 18th century."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He read exactly what was written in his notes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He kept forgetting what he was going to say."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He made an embarrassing remark."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He was too nervous to speak up\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: You are going to give a short speech of thanks for the speaker this evening, aren't you, Bill?",
+                "zh": "W: 你今晚要为演讲者致一段简短的感谢词，对吧，比尔？"
+              },
+              {
+                "en": "M: Yes.",
+                "zh": "M: 对。"
+              },
+              {
+                "en": "W: You don't sound very enthusiastic. It's not that bad, is it?",
+                "zh": "W: 听起来你可不怎么热情。也没那么糟糕吧？"
+              },
+              {
+                "en": "M: No. I don't mind, really. But I can never forget the first speech of thanks I did.",
+                "zh": "M: 不是。我其实并不介意。不过，我永远忘不了我第一次致感谢词的经历。"
+              },
+              {
+                "en": "W: Why? What happened?",
+                "zh": "W: 为什么？发生了什么事？"
+              },
+              {
+                "en": "M: Well, I was in my early twenties. I joined the local history society.",
+                "zh": "M: 那时我才二十出头。我加入了当地历史学会。"
+              },
+              {
+                "en": "W: Yes…",
+                "zh": "W: 嗯……"
+              },
+              {
+                "en": "M: Anyway, I went along to a lecture by a Miss Bligh.",
+                "zh": "M: 总之，我去听了一位叫 Bligh 小姐的讲座。"
+              },
+              {
+                "en": "W: Oh. Do go on.",
+                "zh": "W: 哦。请继续说。"
+              },
+              {
+                "en": "M: She was going to talk with slides about our town in the mid-18th century. She'd just published a book on the subject which was reckoned to be quite good. So I went along. When I arrived, the secretary asked me if I could give the speech of thanks. Rather stupidly, I said yes.",
+                "zh": "M: 她准备用幻灯片讲讲我们镇在十八世纪中叶的情况。她刚刚出版了一本关于这个主题的书，据说写得相当不错。所以我就去了。我到那里时，秘书问我能不能致感谢词。我很不明智地答应了。"
+              },
+              {
+                "en": "W: We've all done it.",
+                "zh": "W: 我们都犯过这种错。"
+              },
+              {
+                "en": "M: Anyway, from that point on, I was scared. What should I say? I decided to make notes during the lecture, and refer to interesting parts and thank her on behalf of the society. In fact, by the time Miss Bligh stood up to talk, I was feeling much better. But she was so nervous that she kept forgetting what to say, and she spoke almost in a whisper. People at the back kept calling out \"We can't hear.\" It was embarrassing.",
+                "zh": "M: 总之，从那一刻起，我就害怕了。我该说些什么呢？我决定在讲座期间做笔记，提到一些有趣的内容，然后代表学会向她致谢。事实上，等到 Bligh 小姐站起来演讲时，我已经感觉好多了。但她紧张得不得了，总是忘记自己要说什么，而且几乎是在用耳语讲话。后排的人不断喊：“我们听不见。”真是尴尬。"
+              },
+              {
+                "en": "W: I can imagine it.",
+                "zh": "W: 我能想象得到。"
+              },
+              {
+                "en": "M: At least the slides were good, that is, until the bulb in the projector blew. And she had to finish her talk with no illustrations.",
+                "zh": "M: 至少幻灯片还不错，也就是说，直到投影仪的灯泡烧坏为止。她只好在没有任何图片的情况下结束演讲。"
+              },
+              {
+                "en": "W: So what did you say in your speech of thanks?",
+                "zh": "W: 那你在感谢词里说了些什么？"
+              },
+              {
+                "en": "M: What can you say? You have to be polite. I mentioned the interesting facts, referred to the excellent slides, and then finished up by saying \"We'd all like to thank Miss Bligh for blowing us her slides.\"",
+                "zh": "M: 还能说什么呢？总得客气一点。我提到了那些有趣的事实，称赞了那些精彩的幻灯片，最后说：“我们都想感谢 Bligh 小姐把她的幻灯片吹给我们看。”"
+              },
+              {
+                "en": "W: Oh, no.",
+                "zh": "W: 哦，不会吧。"
+              },
+              {
+                "en": "M: I felt terrible. I tried to apologize, not very successfully.",
+                "zh": "M: 我当时糟透了。我试着道歉，但道得不太成功。"
+              },
+              {
+                "en": "W: And the speech of thanks this evening?",
+                "zh": "W: 那今晚的感谢词呢？"
+              },
+              {
+                "en": "M: I'll write down exactly what I'm going to say and read it carefully.",
+                "zh": "M: 我会把自己要说的话一字不差地写下来，然后仔细照着念。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "What their retailers demand."
+                  },
+                  {
+                    "l": "B",
+                    "t": "What their rivals are doing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How they are going to beat their rivals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How dramatically the market is changing."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They should be taken seriously."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are rapidly catching up."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their business strategy is quite effective."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their potential has been underestimated."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She had given it to Tom."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It simply made her go frantic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She had not seen it yet."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was not much of a big concern."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Restructuring the whole company."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Employing more forwarding agents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Promoting cooperation with Jayal Motors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Exporting their motorbikes to Indonesia."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Another cup of tea, Paul?",
+                "zh": "W：再来一杯茶吗，保罗？"
+              },
+              {
+                "en": "M: No, thanks. Well, What's new, Laury?",
+                "zh": "M：不用了，谢谢。对了，最近怎么样，劳里？"
+              },
+              {
+                "en": "W: Nothing dramatic. But there is something you should know about.",
+                "zh": "W：没什么大事。不过，有件事你应该知道。"
+              },
+              {
+                "en": "M: What's that?",
+                "zh": "M：什么事？"
+              },
+              {
+                "en": "W: Well, our rivals are offering extended credit terms to some of the retailers in the area.",
+                "zh": "W：是这样，我们的竞争对手正在给这一带的一些零售商提供延长的赊账期限。"
+              },
+              {
+                "en": "M: Oh? Which rival is this? We only have two.",
+                "zh": "M：哦？是哪个竞争对手？我们只有两个。"
+              },
+              {
+                "en": "W: Barratts Company.",
+                "zh": "W：Barratts Company。"
+              },
+              {
+                "en": "M: Oh, them. Well, they are hardly a threat.",
+                "zh": "M：哦，是他们啊。他们根本算不上什么威胁。"
+              },
+              {
+                "en": "W: I know they are smaller than us, but we can't afford to ignore them.",
+                "zh": "W：我知道他们比我们规模小，但我们不能对他们置之不理。"
+              },
+              {
+                "en": "M: Yes, you are right, Laury. But I don't like extended credit. It ties up cash we could put to better use elsewhere. But, I'll look into it on Monday.",
+                "zh": "M：是的，你说得对，劳里。但我不喜欢延长赊账期限。那会占用本来可以用在其他更有价值的地方的现金。不过，我星期一会调查一下。"
+              },
+              {
+                "en": "W: Yes. And there is something else.",
+                "zh": "W：好。而且还有一件事。"
+              },
+              {
+                "en": "M: Don't tell me! The letter from the tax revenue office?",
+                "zh": "M：别告诉我！是税务局寄来的那封信？"
+              },
+              {
+                "en": "W: Right. How did you know?",
+                "zh": "W：没错。你怎么知道的？"
+              },
+              {
+                "en": "M: Tara told me. What's the problem?",
+                "zh": "M：塔拉告诉我的。有什么问题？"
+              },
+              {
+                "en": "W: Well. Tom got this letter late yesterday and then went frantic trying to find copies of last year's accounts.",
+                "zh": "W：是这样，汤姆昨天下午很晚才收到这封信，之后就发疯似的寻找去年的账目副本。"
+              },
+              {
+                "en": "M: Did he find them?",
+                "zh": "M：他找到了吗？"
+              },
+              {
+                "en": "W: No. And he was away before I could get hold of the letter.",
+                "zh": "W：没有。而且在我拿到那封信之前，他就离开了。"
+              },
+              {
+                "en": "M: How about a drive down to the office now? And we'll see if everything's all right. There's another reason why I wanted a chat with you before Monday.",
+                "zh": "M：现在开车去办公室怎么样？我们去看看是不是一切都没问题。我之所以想在星期一之前和你谈谈，还有另一个原因。"
+              },
+              {
+                "en": "W: I thought as much. Well, go on, surprise me.",
+                "zh": "W：我就猜到了。好吧，说来听听，给我个惊喜。"
+              },
+              {
+                "en": "M: How about selling that new motorcycle of yours in Indonesia?",
+                "zh": "M：把你们那款新摩托车卖到印度尼西亚，怎么样？"
+              },
+              {
+                "en": "W: What? You mean export? Paul, I think you've been away too long. This is Jayal Motors. We've never sold a bike abroad.",
+                "zh": "W：什么？你的意思是出口？保罗，我觉得你离开太久了。这是Jayal Motors。我们从来没把摩托车卖到国外。"
+              },
+              {
+                "en": "M: Don't worry, Laury. I'm not crazy. I've been studying the possibility and I think we should give it a go.",
+                "zh": "M：别担心，劳里。我没疯。我一直在研究这种可能性，我认为我们应该试一试。"
+              },
+              {
+                "en": "W: It's not as easy as that though, is it? We'd have to reorganize the whole company.",
+                "zh": "W：不过，事情没那么容易，不是吗？我们得重组整个公司。"
+              },
+              {
+                "en": "M: Don't be silly. I don't intend starting next week. We'll have to plan it properly. And of course, there will be a few problems…",
+                "zh": "M：别傻了。我没打算下星期就开始。我们得好好规划。当然，也会有一些问题……"
+              },
+              {
+                "en": "W: A few problems? I can see hundreds. For one thing, transport. I have enough trouble delivering bikes to shops only 40 miles away, never mind 5,000 miles!",
+                "zh": "W：一些问题？我看有几百个问题。比如说运输，我把摩托车送到仅仅40英里外的商店都已经够麻烦了，更别说5,000英里以外的地方了！"
+              },
+              {
+                "en": "M: That's what forwarding agents are for.",
+                "zh": "M：这就是货运代理的作用。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It makes claims in conflict with the existing research."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It focuses on the link between bedtime and nutrition."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It cautions against the overuse of coffee and alcohol."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It shows that \"night owls\" work much less efficiently."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They pay greater attention to food choice."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to achieve less than their peers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They run a higher risk of gaining weight."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They stand a greater chance to fall sick."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Get up late."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Sleep 8 hours a day."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Exercise more."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Go to bed earlier\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A report on sleep and nutrition released this month found that people who consistently went to bed earlier than 11 p.m. took in fewer calories and ate more healthy food. In contrast, \"night owls\" who go to bed between 11 p.m. and 3 a.m. tend to consume more coffee, alcohol, refined sugars and processed meats than early risers.",
+                "zh": "本月发布的一份关于睡眠与营养的报告发现，一贯在晚上11点之前上床睡觉的人摄入的热量更少，吃的健康食品更多。相比之下，晚上11点至凌晨3点之间上床睡觉的“夜猫子”往往比早起者摄入更多的咖啡、酒精、精制糖和加工肉类。"
+              },
+              {
+                "en": "This report corresponds with the existing scientific literature on bedtime and wellness. The relationship between getting more sleep and making better food choices is well-documented. A study published last year in The American Journal of Clinical Nutrition found that people who sleep more tend to eat less unhealthy food than their peers who don't get as much rest. And a 2015 study from the University of California, Berkeley found that teens who go to bed late are more likely to gain weight over a five-year period.",
+                "zh": "这份报告与现有关于就寝时间和健康状况的科学文献相一致。睡眠时间更长与作出更健康的食物选择之间的关系已有充分记录。《美国临床营养学杂志》去年发表的一项研究发现，睡眠时间更长的人比休息时间没有那么充足的同龄人少吃不健康食品。加利福尼亚大学伯克利分校2015年的一项研究发现，晚睡的青少年更有可能在五年内体重增加。"
+              },
+              {
+                "en": "As a group, \"night owl\" types tend to eat less healthy food and take in more calories overall than early risers. The later one goes to bed, the more calories one records the next day. It's as yet a challenge to explain the cause-and-effect relationship between sleep and nutrition. There may be a third factor that impacts both of them. Or the relationship could be reversed, that is, people who eat less fall asleep earlier. Still, if late sleepers want to lose a few pounds, they can go to bed earlier than they usually do, thereby reducing their chances of taking snacks before bedtime.",
+                "zh": "总体而言，“夜猫子”往往比早起者吃得不那么健康，而且摄入的总热量更多。一个人上床睡觉的时间越晚，第二天记录的热量就越多。目前，要解释睡眠与营养之间的因果关系仍然是一个难题。可能存在一个同时影响二者的第三因素。或者这种关系可能是反过来的，也就是说，吃得少的人会更早入睡。不过，如果晚睡者想减掉几斤体重，他们可以比平时更早上床睡觉，从而减少睡前吃零食的可能性。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All of the acting nominees are white."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has got too much publicity on TV."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is prejudiced against foreign films."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Only 7% of the nominees are female."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "22 percent of movie directors were people of color."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Half of the TV programs were ethnically balanced."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Only one-fifth of TV shows had black characters."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Only 3.4 percent of film directors were women."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Non-white males."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Program creators."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Females of color over 40."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Asian speaking characters."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They constitute 17% of Hollywood movie characters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are most underrepresented across TV and film."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They contribute little to the U. S. film industry."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They account for 8.5% of the U.S. population"
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Researchers have found not just a diversity problem in Hollywood but actually an inclusion crisis.",
+                "zh": "研究人员发现，好莱坞面临的不仅是多样性问题，实际上还存在包容性危机。"
+              },
+              {
+                "en": "With less than a week before an Oscars ceremony that has already been criticized for an all-white list of acting nominees, a study shows the film industry does worse than television. Just 3.4 percent of film directors were female, and only 7 percent of films had a cast whose balance of race and ethnicity reflected the country's diversity.",
+                "zh": "在一场因所有表演类提名者均为白人而受到批评的奥斯卡颁奖典礼举行前不到一周，一项研究显示，电影业的表现比电视业更差。电影导演中只有3.4%是女性，仅有7%的电影拥有种族和族裔构成能够反映美国多样性的演员阵容。"
+              },
+              {
+                "en": "When researchers looked at all TV shows, they also found that women of color over 40 were regarded as \"largely invisible\" and just 22 percent of TV series creators were female.",
+                "zh": "当研究人员考察所有电视节目时，他们还发现，40岁以上的有色人种女性被认为“基本上不可见”，而电视剧创作者中只有22%是女性。"
+              },
+              {
+                "en": "Overall, the study found half the films and TV shows had no Asian speaking characters and more than one-fifth of them had no black characters with dialogue. The film industry still functions as a straight, white, boy's club. When looking at how women are depicted, the study found female characters were four times more likely to be shown in sexy clothing and nearly four times as likely to be referred to as physically attractive. But their results also indicated films and TV shows with women or people of color in the important jobs behind the scenes—director, producer or writer—tended to have better diversity numbers.",
+                "zh": "总体而言，这项研究发现，一半的电影和电视节目中没有会说话的亚裔角色，超过五分之一的电影和电视节目中没有有台词的黑人角色。电影业仍然是一个由异性恋白人男性组成的圈子。在考察女性形象的呈现方式时，研究发现，女性角色被展示为穿着性感服装的可能性是男性角色的四倍，被描述为外貌迷人的可能性接近男性角色的四倍。不过，研究结果还表明，在幕后重要职位上有女性或有色人种任职的电影和电视节目——例如导演、制片人或编剧——往往具有更好的多样性数据。"
+              },
+              {
+                "en": "Across TV and film, the under-representation of non-white characters falls mostly on Hispanics. Among more than 10,000 characters, proportions of white, black and Asian characters came close to U.S. population figures. But Hispanics were just 5.8 percent of characters, despite being about 17 percent of the U.S. population.",
+                "zh": "在电视和电影领域，非白人角色代表不足的问题主要集中在西班牙裔群体身上。在超过1万个角色中，白人、黑人和亚裔角色所占比例接近美国人口数据。但西班牙裔角色仅占5.8%，尽管西班牙裔约占美国人口的17%。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "One that can provide for emergency needs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "One that can pay for their medical expenses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "One that covers their debts and burial expenses"
+                  },
+                  {
+                    "l": "D",
+                    "t": "One that ensures a healthy life for their later years."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Purchase insurance for their children."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Save sufficient money for a rainy day."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Buy a home with a small down payment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Add more insurance on the breadwinner."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When their children grow up and leave home."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When they have saved enough for retirement."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When their family moves to a different place."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When they have found better-paying jobs.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When purchasing life insurance, there are many important factors to consider. One should buy the policies that give the most protection at the least cost, insure the right family members, and consider the family's financial needs. It is important to buy the insurance from companies that are financially sound and that are represented by honest, well-trained agents. At various stages in a person's life, different kinds of life insurance are needed for particular situations.",
+                "zh": "购买人寿保险时，有许多重要因素需要考虑。人们应当购买以最低成本提供最大保障的保险，给适当的家庭成员投保，并考虑家庭的财务需求。重要的是，应当从财务状况稳健、且由诚实而训练有素的代理人代理的公司购买保险。在一个人一生的不同阶段，针对特定情况，需要购买不同种类的人寿保险。"
+              },
+              {
+                "en": "Jerry is single and has no dependents. Probably the only life insurance he needs is enough to cover his debts and burial expenses. Insurance can be purchased at a lower rate during the young years, but by buying while young, the premiums are paid in for a longer period of time. In the end, the amount paid for premiums is about the same. A person shouldn't buy insurance protection that really isn't necessary. Suppose that Jerry marries Jeannette, who is a college graduate and is working. Perhaps enough insurance should be needed to cover their debts and burial expenses. Now, Jeannette has quit work and their first child is on the way. They have purchased a home with a small down payment and a 30-year mortgage. The situation regarding life insurance takes on a different look. There are dependents who need financial protection. How much insurance is needed? As the family increases in size, it is essential to add more insurance on the breadwinner to protect the dependents. When the children are young and depend upon the family for financial needs, families with modest incomes have difficulty providing enough life insurance to protect the mother and the children. Families with modest incomes should insure the breadwinner or breadwinners first. When considering the amount of insurance for the mother with dependent children, substitute childcare is a need that should be planned for until the children can care for themselves. The death of a small child would have no effect upon the income of the family. Perhaps a policy to meet funeral expenses would be sufficient for the young child, although most people do not take out insurance on their young children. As the children become financially independent of the family, the emphasis on family financial security will shift from protection to saving for the retirement years. Every family situation is different, but it is important that each family give adequate thought to planning its financial future.",
+                "zh": "杰里是单身，没有需要抚养的家属。他可能唯一需要的人寿保险，就是足以支付债务和丧葬费用的保险。年轻时购买保险，费率可能较低，但由于年轻时购买后，缴纳保费的时间会更长，最终支付的保费总额大致相同。一个人不应购买实际上并不需要的保险保障。假设杰里与珍妮特结婚，珍妮特是大学毕业生，并且有工作。也许只需购买足以支付他们债务和丧葬费用的保险。现在，珍妮特辞去了工作，他们的第一个孩子即将出生。他们支付了一小笔首付款，购买了一套住房，并办理了期限为30年的抵押贷款。人寿保险方面的情况就完全不同了。他们有需要财务保障的家属。那么需要多少保险呢？随着家庭成员增加，必须为养家者增加更多保险，以保障家属。当孩子们年幼、依靠家庭满足经济需求时，收入不高的家庭很难提供足够的人寿保险来保障母亲和孩子。收入不高的家庭应当首先为养家者或养家者们投保。在考虑为有受抚养子女的母亲投保多少保险时，应当规划好替代性托儿服务的费用，直到孩子们能够照料自己。年幼孩子的死亡不会对家庭收入产生影响。也许为年幼孩子购买一份足以支付丧葬费用的保单就够了，尽管大多数人不会为年幼的孩子投保。随着孩子们在经济上不再依赖家庭，家庭财务保障的重点将从保障转向为退休生活储蓄。每个家庭的情况都不相同，但重要的是，每个家庭都应充分考虑如何规划自己的财务未来。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They do more harm than good."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have often been ignored."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They do not help build friendship."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They may not always be negative."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Biased sources of information."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Ignorance of cultural differences."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Misinterpretation of Shakespeare."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Tendency to jump to conclusions."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are hard to dismiss once attached to a certain group."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They may have a negative impact on people they apply to."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They persist even when circumstances have changed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are often applied to minorities and ethnic people."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They impact people more or less in the same way."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Some people are more sensitive to them than others."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A positive stereotype may help one achieve better results."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A negative stereotype sticks while a positive one does not\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "\"Stereotype\" may sound like a bad word, but there's nothing bad about it. For one thing, stereotypes are often accurate. When you ask people about their concept of stereotypes, they get it pretty much right.",
+                "zh": "“刻板印象”听起来可能像一个贬义词，但它本身并没有什么不好。首先，刻板印象往往是准确的。当你询问人们对刻板印象的理解时，他们通常都能大致理解正确。"
+              },
+              {
+                "en": "Also, stereotypes are often positive, particularly of groups that we ourselves belong to. Some of the statistical generalizations may be positive as some groups have reputations for being smart, for being loyal, for being brave, for all sorts of things that are not at all negative. And so there's nothing inherently wrong about stereotypes.",
+                "zh": "此外，刻板印象往往是积极的，尤其是对于我们自己所属的群体而言。有些统计概括可能是正面的，因为有些群体以聪明、忠诚、勇敢等特质著称，而这些特质完全不是负面的。因此，刻板印象本身并没有什么固有的问题。"
+              },
+              {
+                "en": "But there are problems with stereotypes. For one thing, they're reliable insofar as they're based on unbiased samples. But a lot of the information we get about human groups is through biased sources like how they're represented in the media. And if these sources don't give you an accurate depiction, your stereotype won't be accurate.",
+                "zh": "但刻板印象也存在问题。首先，只有当它们建立在无偏差的样本基础上时，才是可靠的。然而，我们获得的有关人类群体的大量信息都来自有偏差的来源，例如媒体对他们的呈现方式。如果这些来源没有给你提供准确的描述，你的刻板印象就不会准确。"
+              },
+              {
+                "en": "For example, many Jews have been troubled by Shakespeare's depiction of Shylock. If the only Jew you know is Shakespeare's Shylock, it's going to be a very bad impression. So one problem with stereotypes is while we are good at drawing conclusions from them, often our information isn't reliable.",
+                "zh": "例如，许多犹太人一直对莎士比亚笔下的夏洛克形象感到困扰。如果你所认识的唯一一个犹太人就是莎士比亚笔下的夏洛克，那会给你留下非常糟糕的印象。因此，刻板印象的一个问题在于，尽管我们很擅长从中得出结论，但我们的信息往往并不可靠。"
+              },
+              {
+                "en": "A second problem is that stereotypes, regardless of whether or not they're accurate, can have a negative effect on the people that they apply to. And this is what psychologist, Claude Steele, described as stereotype threat. He has a vivid example of this. Here's how to make African-Americans do worse on a math test. You have the test and you put on the test that they have to identify their race. The very act of acknowledging that they are African-American when given a test ignites in them thoughts of their own stereotype which is negative regarding academics and that makes them do worse. Want to know how to make a woman do worse on a math test? Same thing, get her to write down her sex.",
+                "zh": "第二个问题是，无论刻板印象是否准确，它们都可能对所涉及的人产生负面影响。这就是心理学家Claude Steele所描述的“刻板印象威胁”。他举了一个生动的例子。下面介绍如何让非裔美国人在数学考试中表现得更差：你准备好考试，并在试卷上要求他们填写自己的种族。参加考试时，仅仅是承认自己是非裔美国人这一行为，就会唤起他们对自身刻板印象的思考，而这种刻板印象涉及学业表现，是负面的，于是他们的表现就会变差。想知道如何让女性在数学考试中表现得更差吗？方法一样，让她写下自己的性别。"
+              },
+              {
+                "en": "One recent study found a sort of clever twist on this. When Asian-American women are given a test and they're asked to mark down their race, they do better than they would otherwise do. They're reminded of a positive stereotype that boosts their morale. You ask them, on the other hand, to mark down their sex, they do worse because they're reminded of a negative stereotype. That's an example of how stereotypes have a potentially damaging effect on people.",
+                "zh": "最近的一项研究发现了一个颇为巧妙的变化。当亚裔美国女性参加考试并被要求填写自己的种族时，她们的表现会比原本更好。她们会想起一种积极的刻板印象，从而士气得到提升。另一方面，如果你要求她们填写自己的性别，她们的表现就会变差，因为她们会想起一种负面的刻板印象。这就是刻板印象可能对人产生有害影响的一个例子。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Use some over-the-counter medicine instead."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Quit taking the medicine immediately."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Take some drug to relieve the side effect."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Ask your pharmacist to explain why it occurs."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It may help patients fall asleep."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It may lead to mental problems."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It may cause serious harm to one's liver."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It may increase the effect of certain drugs."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Tell their children to treat medicines with respect."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Keep medicines out of the reach of their children."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Make sure their children use quality medicines."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Ask their children to use legitimate medicines."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Sometimes when you take a common drug, you may have a side effect. That is, the drug may cause some effect other than its intended one. When these side effects occur, they are called adverse reactions. Whenever you have an adverse reaction, you should stop taking the drug right away. Ask your pharmacist whether he can suggest a drug that will relieve the symptoms but that will not cause the adverse reaction. If an adverse reaction to a drug is serious, consult your doctor for advice at once.",
+                "zh": "有时，服用一种常见药物可能会产生副作用，也就是说，这种药物可能会引起预期作用以外的某种作用。当这些副作用出现时，它们被称为不良反应。每当出现不良反应时，你都应立即停止服用该药物。询问药剂师是否可以推荐一种能够缓解症状、但不会引起这种不良反应的药物。如果药物引起的不良反应很严重，应立即向医生咨询。"
+              },
+              {
+                "en": "Drugs that are safe in the dosage stated on the label may be very dangerous in large doses. For example, aspirin is seldom thought of as dangerous, but there are many reports of accidental poisoning of young children who take too many aspirin pills as well as the possible development of Reye's syndrome in children with flu. In adults, excessive use of some painkilling drugs may cause severe kidney damage. Some drugs for relief of stomach upsets, when taken in excess, can perhaps cause serious digestive problems. You should never use any over-the-counter drug on a regular, continued basis, or in large quantities, except on your doctor's advice. You could be suffering from a serious illness that needs a doctor's care.",
+                "zh": "按照标签所注明的剂量服用是安全的药物，大剂量服用时可能会非常危险。例如，人们很少认为阿司匹林具有危险性，但有许多报道称，年幼儿童因误服过多阿司匹林片而中毒；流感患儿还可能患上雷耶氏综合征。在成年人中，过量使用某些止痛药可能会造成严重的肾损伤。某些用于缓解胃部不适的药物，过量服用时也可能引起严重的消化问题。除非遵照医生的建议，否则绝不应定期、持续或大量使用任何非处方药。你可能患有需要医生治疗的严重疾病。"
+              },
+              {
+                "en": "Each drug you take not only acts on the body but may also alter the effect of any other drug you are taking. Sometimes this can cause dangerous or even fatal reactions. For example, aspirin increases the blood-thinning effects of drugs given to patients with heart disease. Therefore, a patient who has been taking such a drug may risk bleeding if he or she uses aspirin for a headache. Before using several drugs together you should ask your doctor and follow his advice. Your pharmacist can tell you whether certain drugs can safely be taken together.",
+                "zh": "你服用的每一种药物不仅会对身体产生作用，还可能改变你正在服用的其他药物的作用。有时，这可能引起危险甚至致命的反应。例如，阿司匹林会增强给予心脏病患者的药物的抗凝血作用。因此，一直服用这类药物的患者如果因头痛服用阿司匹林，就可能有出血的风险。在同时使用几种药物之前，应询问医生并遵循医生的建议。药剂师可以告诉你某些药物能否安全地同时服用。"
+              },
+              {
+                "en": "Alcohol may increase the effect of a drug—sleeping pills combine with alcohol to produce a sleepy feeling. When taking any drug, you should ask your doctor whether drinking alcohol could be dangerous in combination with the medicine.",
+                "zh": "酒精可能会增强药物的作用——安眠药与酒精合用会产生困倦感。服用任何药物时，都应询问医生饮酒与该药物合用是否会有危险。"
+              },
+              {
+                "en": "Experts believe there is a relationship between adult abuse of legitimate medicines and the drug culture that has swept our country. You can do your share to reduce the chances that your children will become part of the drug culture by treating all medicines with respect. Always let your children know that medicines and drugs should not be used carelessly.",
+                "zh": "专家认为，成年人滥用合法药物与席卷全国的毒品文化之间存在联系。你可以通过认真对待所有药物，尽力减少孩子加入毒品文化的可能性。一定要让孩子知道，药品和毒品都不应被粗心地使用。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The Pacific island nation of Palau has become home to the sixth largest marine sanctuary in the world. The new marine reserve, now the largest in the Pacific, will"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "no fishing or mining. Palau also established the world's first shark sanctuary in 2009. The tiny island nation has set aside 500,000 square kilometres—80 percent—of its maritime"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ", for full protection. That's the highest percentage of an"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "economic zone devoted to marine conservation by any country in the world. The remaining 20 percent of the Palau seas will be reserved for local fishing by individuals and small-scale"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "fishing businesses with limited exports. \"Island"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "have been among the hardest hit by the threats facing the ocean,\" said President Tommy Remengesau Jr. in a statement. \"Creating this sanctuary is a bold move that the people of Palau recognise as"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "to our survival. We want to lead the way in restoring the health of the ocean for future generations.\" Palau has only been an"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "nation for twenty years and has a strong history of environmental protection. It is home to one of the world's finest marine ecosystems, with more than 1,300 species of fish and 700 species of coral. Senator Hokkons Baules, lead"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "of the Palau National Marine Sanctuary Act, said the sanctuary will \"help build a"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "future for the Palauan people by honoring the conservation traditions of our past\". These include the centuries-old custom of \"bul\", where leaders would call a temporary stop to fishing for key species in order to give fish"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "an opportunity to replenish(补充)."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "allocate"
+        },
+        {
+          "l": "B",
+          "w": "celebrities"
+        },
+        {
+          "l": "C",
+          "w": "commercial"
+        },
+        {
+          "l": "D",
+          "w": "communities"
+        },
+        {
+          "l": "E",
+          "w": "essential"
+        },
+        {
+          "l": "F",
+          "w": "exclusive"
+        },
+        {
+          "l": "G",
+          "w": "independent"
+        },
+        {
+          "l": "H",
+          "w": "indulge"
+        },
+        {
+          "l": "I",
+          "w": "permit"
+        },
+        {
+          "l": "J",
+          "w": "secure"
+        },
+        {
+          "l": "K",
+          "w": "solitary"
+        },
+        {
+          "l": "L",
+          "w": "spectacle"
+        },
+        {
+          "l": "M",
+          "w": "sponsor"
+        },
+        {
+          "l": "N",
+          "w": "stocks"
+        },
+        {
+          "l": "O",
+          "w": "territory"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "I"
+        },
+        {
+          "n": 27,
+          "a": "O"
+        },
+        {
+          "n": 28,
+          "a": "F"
+        },
+        {
+          "n": 29,
+          "a": "C"
+        },
+        {
+          "n": 30,
+          "a": "D"
+        },
+        {
+          "n": 31,
+          "a": "E"
+        },
+        {
+          "n": 32,
+          "a": "G"
+        },
+        {
+          "n": 33,
+          "a": "M"
+        },
+        {
+          "n": 34,
+          "a": "J"
+        },
+        {
+          "n": 35,
+          "a": "N"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Data sharing: An open mind on open data",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "It is a movement building steady momentum: a call to make research data, software code and experimental methods publicly available and transparent. A spirit of openness is gaining acceptance in the science community, and is the only way, say advocates, to address a 'crisis' in science whereby too few findings are successfully reproduced. Furthermore, they say, it is the best way for researchers to gather the range of observations that are necessary to speed up discoveries or to identify large-scale trends."
+        },
+        {
+          "l": "B",
+          "t": "The open-data shift poses a confusing problem for junior researchers. On the one hand, the drive to share is gathering official steam. Since 2013, global scientific bodies have begun to back policies that support increased public access to research. On the other hand, scientists disagree about how much and when they should share data, and they debate whether sharing it is more likely to accelerate science and make it more robust, or to introduce vulnerabilities and problems. As more journal and funders adopt data-sharing requirements, and as a growing number of enthusiasts call for more openness, junior researchers must find their place between adopters and those who continue to hold out, even as they strive to launch their own careers."
+        },
+        {
+          "l": "C",
+          "t": "One key challenge facing young scientists is how to be open without becoming scientifically vulnerable. They must determine the risk of jeopardizing a job offer or a collaboration proposal from those who are wary of— or unfamiliar with—open science. And they must learn how to capitalize on the movement's benefits, such as opportunities for more citations and a way to build a reputation without the need for conventional metrics, such as publication in high-impact journals."
+        },
+        {
+          "l": "D",
+          "t": "Some fields have embraced open data more than others. Researchers in psychology, a field rocked by findings of irreproducibility in the past few years, have been especially vocal supporters of the drive for more-open science. A few psychology journals have created incentives to increase interest in reproducible science—for example, by affixing an 'open-data' badge to articles that clearly state where data are available. According to social psychologist Brian Nosek, executive director of the Center for Open Science, the average data-sharing rate for the journal Psychological Science, which uses the badges, increased tenfold to 38% from 2013 to 2015."
+        },
+        {
+          "l": "E",
+          "t": "Funders, too, are increasingly adopting an open-data policy. Several strongly encourage, and some require, a data-management plan that makes data available. The US National Science Foundation is among these. Some philanthropic(慈善的) funders, including the Bill & Melinda Gates Foundation in Seattle, Washington, and the Wellcome Trust in London, also mandate open data from their grant recipients."
+        },
+        {
+          "l": "F",
+          "t": "But many young researchers, especially those who have not been mentored in open science, are uncertain about whether to share or to stay private. Graduate students and postdocs, who often are working on their lab head's grant, may have no choice if their supervisor or another senior colleague opposes sharing."
+        },
+        {
+          "l": "G",
+          "t": "Some fear that the potential impact of sharing is too high, especially at the early stages of a career. \"Everybody has a scary story about someone getting scooped(被抢先),\" says New York University astronomer David Hogg. Those fears may be a factor in a lingering hesitation to share data even when publishing in journals that mandate it."
+        },
+        {
+          "l": "H",
+          "t": "Researchers at small labs or at institutions focused on teaching arguably have the most to lose when sharing hard-won data. \"With my institution and teaching load, I don't have postdocs and grad students,\" says Terry McGlynn, a tropical biologist at California State University, Dominguez Hills. \"The stakes are higher to share data because it's a bigger fraction of what's happening in my lab.\""
+        },
+        {
+          "l": "I",
+          "t": "Researchers also point to the time sink that is involved in preparing data for others to view. Once the data and associated materials appear in a repository(存储库), answering questions and handling complaints can take many hours."
+        },
+        {
+          "l": "J",
+          "t": "The time investment can present other problems. In some cases, says data scientist Karthik Ram, it may be difficult for junior researchers to embrace openness when senior colleagues—many of whom head selection and promotion committees—might ridicule what they may view as misplaced energies. \"I've heard this recently—that embracing the idea of open data and code makes traditional academics uncomfortable,\" says Ram. \"The concern seems to be that open advocates don't spend their time being as productive as possible.\""
+        },
+        {
+          "l": "K",
+          "t": "An open-science stance can also add complexity to a collaboration. Kate Ratliff, who studies social attitudes at the University of Florida, Gainesville, says that it can seem as if there are two camps in a field—those who care about open science and those who don't. \"There's a new area to navigate—'Are you cool with the fact that I'll want to make the data open?'—when talking with somebody about an interesting research idea,\" she says."
+        },
+        {
+          "l": "L",
+          "t": "Despite complications and concerns, the upsides of sharing can be significant. For example, when information is uploaded to a repository, a digital object identifier (DOI) is assigned. Scientists can use a DOI to publish each step of the research life cycle, not just the final paper. In so doing, they can potentially get three citations—one each for the data and software, in addition to the paper itself. And although some say that citations for software or data have little currency in academia, they can have other benefits."
+        },
+        {
+          "l": "M",
+          "t": "Many advocates think that transparent data procedures with a data and time stamp will protect scientists from being scooped. \"This is the sweet spot between sharing and getting credit for it, while discouraging plagiarism(剽窃),\" says Ivo Grigorov, a project coordinator at the National Institute of Aquatic Resources Research Secretariat in Charlottenlund, Denmark. Hogg says that scooping is less of a problem than many think. \"The two cases I'm familiar with didn't involve open data or code,\" he says."
+        },
+        {
+          "l": "N",
+          "t": "Open science also offers junior researchers the chance to level the playing field by gaining better access to crucial data. Ross Mounce, a postdoc studying evolutionary biology at the University of Cambridge, UK, is a vocal champion of open science, partly because his fossil-based research depends on access to others' data. He says that more openness in science could help to discourage what some perceive as a common practice of shutting out early-career scientists' requests for data."
+        },
+        {
+          "l": "O",
+          "t": "Communication also helps for those who worry about jeopardizing a collaboration, he says. Concerns about open science should be discussed at the outset of a study. \"Whenever you start a project with someone, you have to establish a clear understanding of expectations for who owns the data, at what point they go public and who can do what with them,\" he says."
+        },
+        {
+          "l": "P",
+          "t": "In the end, sharing data, software and materials with colleagues can help an early-career researcher to gain recognition—a crucial component of success. \"The thing you are searching for is reputation,\" says Titus Brown, a genomics(基因组学) researcher at the University of California, Davis. \"To get grants and jobs, you have to be relevant and achieve some level of public recognition. Anything you do that advances your presence—especially in a larger sphere, outside the communities you know—is a net win.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Astronomer David Hogg doesn't think scooping is as serious a problem as generally thought.",
+          "a": "M"
+        },
+        {
+          "n": 37,
+          "s": "Some researchers are hesitant to make their data public for fear that others might publish something similar before them.",
+          "a": "G"
+        },
+        {
+          "n": 38,
+          "s": "Some psychology journals have offered incentives to encourage authors to share their data.",
+          "a": "D"
+        },
+        {
+          "n": 39,
+          "s": "There is a growing demand in the science community that research data be open to the public.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Sharing data offers early-career researchers the chance to build a certain level of reputation.",
+          "a": "P"
+        },
+        {
+          "n": 41,
+          "s": "Data sharing enables scientists to publish each step of their research work, thus leading to more citations.",
+          "a": "L"
+        },
+        {
+          "n": 42,
+          "s": "Scientists hold different opinions about the extent and timing of data sharing.",
+          "a": "B"
+        },
+        {
+          "n": 43,
+          "s": "Potential problems related to data sharing should be made known to and discussed by all participants at the beginning of a joint research project.",
+          "a": "O"
+        },
+        {
+          "n": 44,
+          "s": "Sharing data and handling data-related issues can be time-consuming.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "Junior researchers may have no say when it comes to sharing data.",
+          "a": "F"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "In the beginning of the movie I, Robot, a robot has to decide whom to save after two cars plunge into the water—Del Spooner or a child. Even though Spooner screams \"Save her! Save her!\" the robot rescues him because it calculates that he has a 45 percent chance of survival compared to Sarah's 11 percent. The robot's decision and its calculated approach raise an important question: would humans make the same choice? And which choice would we want our robotic counterparts to make? Isaac Asimov evaded the whole notion of morality in devising his three laws of robotics, which hold that 1. Robots cannot harm humans or allow humans to come to harm; 2. Robots must obey humans, except where the order would conflict with law 1; and 3. Robots must act in self-preservation, unless doing so conflicts with laws 1 or 2. These laws are programmed into Asimov's robots—they don't have to think, judge, or value. They don't have to like humans or believe that hurting them is wrong or bad. They simply don't do it. The robot who rescues Spooner's life in I, Robot follows Asimov's zeroth law: robots cannot harm humanity (as opposed to individual humans) or allow humanity to come to harm—an expansion of the first law that allows robots to determine what's in the greater good. Under the first law, a robot could not harm a dangerous gunman, but under the zeroth law, a robot could kill the gunman to save others. Whether it's possible to program a robot with safeguards such as Asimov's laws is debatable. A word such as \"harm\" is vague (what about emotional harm? Is replacing a human employee harm?), and abstract concepts present coding problems. The robots in Asimov's fiction expose complications and loopholes in the three laws, and even when the laws work, robots still have to assess situations. Assessing situations can be complicated. A robot has to identify the players, conditions, and possible outcomes for various scenarios. It's doubtful that a computer program can do that—at least, not without some undesirable results. A roboticist at the Bristol Robotics Laboratory programmed a robot to save human proxies(替 身) called \"H-bots\" from danger. When one H-bot headed for danger, the robot successfully pushed it out of the way. But when two H-bots became imperiled, the robot choked 42 percent of the time, unable to decide which to save and letting them both \"die.\" The experiment highlights the importance of morality: without it, how can a robot decide whom to save or what's best for humanity, especially if it can't calculate survival odds?",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What question does the example in the movie raise?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Whether robots can reach better decisions."
+              },
+              {
+                "l": "B",
+                "t": "Whether robots follow Asimov's zeroth law."
+              },
+              {
+                "l": "C",
+                "t": "How robots may make bad judgments."
+              },
+              {
+                "l": "D",
+                "t": "How robots should be programmed."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What does the author think of Asimov's three laws of robotics?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are apparently divorced from reality."
+              },
+              {
+                "l": "B",
+                "t": "They did not follow the coding system of robotics."
+              },
+              {
+                "l": "C",
+                "t": "They laid a solid foundation for robotics."
+              },
+              {
+                "l": "D",
+                "t": "They did not take moral issues into consideration."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What does the author say about Asimov's robots?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They know what is good or bad for human beings."
+              },
+              {
+                "l": "B",
+                "t": "They are programmed not to hurt human beings."
+              },
+              {
+                "l": "C",
+                "t": "They perform duties in their owners' best interest."
+              },
+              {
+                "l": "D",
+                "t": "They stop working when a moral issue is involved."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What does the author want to say by mentioning the word \"harm\" in Asimov's laws?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Abstract concepts are hard to program."
+              },
+              {
+                "l": "B",
+                "t": "It is hard for robots to make decisions."
+              },
+              {
+                "l": "C",
+                "t": "Robots may do harm in certain situations."
+              },
+              {
+                "l": "D",
+                "t": "Asimov's laws use too many vague terms."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What has the roboticist at the Bristol Robotics Laboratory found in his experiment?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Robots can be made as intelligent as human beings some day."
+              },
+              {
+                "l": "B",
+                "t": "Robots can have moral issues encoded into their programs."
+              },
+              {
+                "l": "C",
+                "t": "Robots can have trouble making decisions in complex scenarios."
+              },
+              {
+                "l": "D",
+                "t": "Robots can be programmed to perceive potential perils."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Our world now moves so fast that we seldom stop to see just how far we have come in just a few years. The latest iPhone 6s, for example, has a dual-core processor and fits nicely into your pocket. By comparison, you would expect to find a technological specification like this on your standard laptop in an office anywhere in the world. It's no wonder that new applications for the Internet of Things are moving ahead fast when almost every new device we buy has a plug on the end of it or a wireless connection to the internet. Soon, our current smartphone lifestyle will expand to create our own smart home lifestyle too. All researchers agree that close to 25 billion devices, things and sensors will be connected by 2020 which incidentally is also the moment that Millennials(千禧一代) are expected to make up 75 percent of our overall workforce, and the fully connected home will become a reality for large numbers of people worldwide. However, this is just the tip of the proverbial iceberg as smart buildings and even cities increasingly become the norm as leaders and business owners begin to wake up to the massive savings that technology can deliver through connected sensors and new forms of automation coupled with intelligent energy and facilities management. Online security cameras, intelligent lighting and a wealth of sensors that control both temperature and air quality are offering an unprecedented level of control, efficiency, and improvements to what were once classed necessary costs when running a business or managing a large building. We can expect that the ever-growing list of devices, systems and environments remains connected, always online and talking to each other. The big benefit will not only be in the housing of this enormous and rapidly growing amount of data, but will also be in the ability to run real time data analytics to extract actionable and ongoing knowledge. The biggest and most exciting challenge of this technology is how to creatively leverage this ever-growing amount of data to deliver cost savings, improvements and tangible benefits to both businesses and citizens of these smart cities. The good news is that most of this technology is already invented. Let's face it, it wasn't too long ago that the idea of working from anywhere and at anytime was some form of a distant Utopian(乌托邦式的) dream, and yet now we can perform almost any office-based task from any location in the world as long as we have access to the internet. It's time to wake up to the fact that making smart buildings, cities and homes will dramatically improve our quality of life in the years ahead.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the example of iPhone 6s serve to show?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The huge capacity of the smartphones people now use."
+              },
+              {
+                "l": "B",
+                "t": "The widespread use of smartphones all over the world."
+              },
+              {
+                "l": "C",
+                "t": "The huge impact of new technology on people's everyday life."
+              },
+              {
+                "l": "D",
+                "t": "The rapid technological progress in a very short period of time."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "What can we expect to see by the year 2020?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Apps for the Internet of Things."
+              },
+              {
+                "l": "B",
+                "t": "The popularization of smart homes."
+              },
+              {
+                "l": "C",
+                "t": "The emergence of Millennials."
+              },
+              {
+                "l": "D",
+                "t": "Total globalization of the world."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What will business owners do when they become aware of the benefits of the Internet of Things?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Employ fewer workers in their operations."
+              },
+              {
+                "l": "B",
+                "t": "Gain automatic control of their businesses."
+              },
+              {
+                "l": "C",
+                "t": "Invest in more smart buildings and cities."
+              },
+              {
+                "l": "D",
+                "t": "Embrace whatever new technology there is."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What is the most exciting challenge when we possess more and more data?",
+            "o": [
+              {
+                "l": "A",
+                "t": "How to turn it to profitable use."
+              },
+              {
+                "l": "B",
+                "t": "How to do real time data analysis."
+              },
+              {
+                "l": "C",
+                "t": "How to link the actionable systems."
+              },
+              {
+                "l": "D",
+                "t": "How to devise new ways to store it."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does the author think about working from anywhere and at anytime?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is feasible with a connection to the internet."
+              },
+              {
+                "l": "B",
+                "t": "It will thrive in smart buildings, cities and homes."
+              },
+              {
+                "l": "C",
+                "t": "It is still a distant Utopian dream for ordinary workers."
+              },
+              {
+                "l": "D",
+                "t": "It will deliver tangible benefits to both boss and worker."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "青海湖位于海拔3,205米、青海省省会西宁以西约100公里处，是中国最大的咸水湖，面积4,317平方公里， 最深处25.5米。有23条河注入湖中，其中大部分是季节性的。百分之八十的湖水源于五条主要河流。青海湖位 于跨越亚洲的几条候鸟迁徙路线的交叉处。许多鸟类把青海湖作为迁徙过程中的暂息地。湖的西侧是著名 的\"鸟岛\"，吸引着来自世界各地的观鸟者。每年夏天，游客们也来这里观看国际自行车比赛。",
+    "reference": "Located at an altitude of 3,205 meters and about 100 kilometers west of Xining, the capital of Qinghai Province, Qinghai Lake is the largest saltwater lake in China, with an area of 4,317 square kilometers and a maximum depth of 25.5 meters. There are 23 rivers flowing into the lake, most of which are seasonal. Eighty percent of the lake's water comes from five major rivers. Qinghai Lake lies at the crossroads of several bird migration routes spanning Asia. Many birds use Qinghai Lake as a stopover during their migration. On the western side of the lake lies the famous Bird Island, attracting birdwatchers from all over the world. Every summer, tourists also come here to watch the international cycling race."
+  }
+}

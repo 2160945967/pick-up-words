@@ -1,0 +1,1376 @@
+{
+  "id": "cet4-2017-6-2",
+  "level": "cet4",
+  "year": 2017,
+  "month": 6,
+  "set": 2,
+  "title": "2017年6月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an advertisement on your campus website to sell some of the course books you used at college. Your advertisement may include a brief description of their content, their condition and price, and your contact information. You should write at least 120 words but no more than 180 words.",
+    "sample": "Second-hand Course Books for Sale Are you searching for affordable course books for the new term? I am selling several textbooks I used at college, including An Introduction to Economics and College English Reading. Both of them are clearly written, well organized and perfect for freshmen.All the books are in excellent condition. I bought them only one year ago and kept them carefully, so there are almost no marks inside. They look nearly new, with clean pages and undamaged covers.The prices are very reasonable. Each book originally cost about sixty yuan, but now I am offering them at only twenty-five yuan each. If you buy both, you can take them home for just forty yuan.If you are interested, please feel free to contact me. You can email me at lucky2024@campus.com or call me at 123-4567-8901. Don't miss this great chance to get quality books at a low price!"
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The majority of drivers prefer to drive and park themselves."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Human drivers become easily distracted or tired while driving."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Most drivers feel uncertain about the safety of self-driving cars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Most drivers have test driven cars with automatic braking features."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their drivers would feel safe after getting used to the automatic devices."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They would be unpopular with drivers who only trust their own skills."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their increased comfort levels have boosted their sales."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are not actually as safe as automakers advertise.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Automakers and tech companies are working hard to offer the first true self-driving car. But 75% of drivers say they wouldn't feel safe in such a vehicle. Still, 60% of drivers would like to get some kind of self-driving feature, such as automatic braking or self-parking the next time they buy a new car. The attitudes are published in a new AAA survey of 1,800 drivers.",
+                "zh": "汽车制造商和科技公司正在努力推出首款真正的自动驾驶汽车。但75%的驾驶员表示他们在这样的车辆中不会感到安全。尽管如此,60%的驾驶员表示希望在下次购买新车时获得某种自动驾驶功能,例如自动制动或自动泊车。这些态度发布在AAA一项针对1800名驾驶员的新调查中。"
+              },
+              {
+                "en": "Advocates of self-driving cars argue they would be safer than cars driven by humans because they wouldn't get distracted or drive when tired.",
+                "zh": "自动驾驶汽车的倡导者认为,它们会比人类驾驶的汽车更安全,因为它们不会分心或在疲劳时驾驶。"
+              },
+              {
+                "en": "But those surveyed by AAA say they trust their own driving skills. Many feel the technology is too new and unproven.",
+                "zh": "但AAA调查的受访者表示他们相信自己的驾驶技能。许多人认为这项技术太新且未经验证。"
+              },
+              {
+                "en": "John Nielsen, AAA's managing director of automotive engineering and repair, said tests suggest drivers may be overestimating their own abilities. He also believes they will be more likely to trust self-driving cars as they become more familiar with features such as automatic braking or parking.",
+                "zh": "AAA汽车工程与维修部总监John Nielsen表示,测试表明驾驶员可能高估了自己的能力。他还认为,随着驾驶员对自动制动或泊车等功能越来越熟悉,他们会更可能信任自动驾驶汽车。"
+              },
+              {
+                "en": "He estimated that the \"comfort level\" will increase considerably in five to ten years.",
+                "zh": "他估计,\"舒适度\"将在五到十年内大幅提高。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Thefts of snowmobile dogs in Alaska."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A series of injuries to snowmobile drivers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Attacks on some Iditarod Race competitors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A serious accident in the Alaska sports event."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He stayed behind to look after his injured dogs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He has won the Alaska Iditarod Race four times."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He received a minor injury in the Iditarod Race."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has quit the competition in Alaska for good.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "One dog has been killed and multiple dogs have been injured by a snowmobile driver in what appears to be an intentional attack on competitors in the Iditarod Race in Alaska.",
+                "zh": "一名雪地摩托车驾驶员杀死了一只狗，并导致多只狗受伤，这似乎是对阿拉斯加Iditarod比赛参赛者的蓄意攻击。"
+              },
+              {
+                "en": "Aliy Zirkle was the first to report an attack. A snowmobile driver had repeatedly attempted to harm her and her team, and one of Zirkle's dogs had received a non-life-threatening injury. Zirkle reported the attack when she arrived in Nulato, Alaska, in the early hours of the morning. Then Jeff King, a four-time champion, reported a similar attack. His team was hit by a snowmobile driver, injuring several dogs and killing a 3-year-old male dog.",
+                "zh": "Aliy Zirkle是第一个报告遭到袭击的人。一名雪地摩托车驾驶员曾多次试图伤害她和她的狗队,Zirkle的一只狗受了非致命伤。Zirkle在凌晨抵达阿拉斯加Nulato时报告了这次袭击。随后,四届冠军Jeff King报告了类似的袭击。他的狗队被一名雪地摩托车驾驶员撞击,导致几只狗受伤,一只3岁的雄性犬死亡。"
+              },
+              {
+                "en": "Reporter Zachariah Hughes says that neither King nor Zirkle was injured. Although this incident very much alters the race of the two participants competing for a win, both are going to continue on their way toward the finishing line. Alaska State Troopers released a statement saying they've arrested Arnold Demoski, 26. He faces trial on several charges.",
+                "zh": "记者Zachariah Hughes称King和Zirkle均未受伤。尽管这一事件极大地改变了这两名争夺胜利的参赛者的比赛进程,但两人都将继续前往终点线。阿拉斯加州警方发布声明称他们已逮捕26岁的Arnold Demoski。他将面临多项指控的审判。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It sank into the sea due to overloading."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It ran into Nicaragua's Big Corn Island."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It disappeared between two large islands."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It turned over because of strong winds."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "13."
+                  },
+                  {
+                    "l": "B",
+                    "t": "25."
+                  },
+                  {
+                    "l": "C",
+                    "t": "30."
+                  },
+                  {
+                    "l": "D",
+                    "t": "32."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has helped with the rescue effort."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is being investigated by the police."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was drowned with the passengers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is among those people missing."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A tour boat turned over off the coast of Nicaragua, killing at least 13 people and leaving more passengers missing, officials said.",
+                "zh": "官员称,一艘游船在尼加拉瓜海岸附近倾覆,造成至少13人死亡,还有更多乘客失踪。"
+              },
+              {
+                "en": "The boat was carrying 32 people—25 Costa Ricans, four Americans and three Nicaraguans. The 13 dead were all Costa Rican, the Foreign Ministry said. The boat, traveling between Nicaragua's Big Corn Island and Little Corn Island, turned over Saturday near the larger island. Some passengers remain missing, the Costa Rican Foreign Ministry said, but did not specify how many. A local radio said an unspecified number of people were rescued, including the tour boat's owner, Hilario Blandon.",
+                "zh": "这艘船载有32人——25名哥斯达黎加人、4名美国人和3名尼加拉瓜人。外交部表示,13名遇难者均为哥斯达黎加人。该船周六在往返尼加拉瓜大玉米岛和小玉米岛之间航行时,在较大的岛屿附近倾覆。哥斯达黎加外交部表示,仍有部分乘客失踪,但未说明具体人数。当地一家电台称,包括游船船主Hilario Blandon在内的若干人获救,但未说明具体人数。"
+              },
+              {
+                "en": "Nicaraguan naval authorities had banned sea travel in the area because of bad weather and strong winds, but the tour boat proceeded anyway. Blandon, the boat's owner, has been arrested by Nicaraguan authorities, the state-run news agency said. Both he and a crew member are being investigated for unintentional murder and exposing people to danger, according to police.",
+                "zh": "尼加拉瓜海军当局因恶劣天气和强风已禁止该地区的海上航行,但这艘游船仍然继续前行。官方通讯社称,船主Blandon已被尼加拉瓜当局逮捕。警方称,他和一名船员正因过失杀人和危害他人安全接受调查。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "At a shopping centre."
+                  },
+                  {
+                    "l": "B",
+                    "t": "At a community college."
+                  },
+                  {
+                    "l": "C",
+                    "t": "At an accountancy firm."
+                  },
+                  {
+                    "l": "D",
+                    "t": "At an IT company."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Helping out with data input."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Arranging interviews."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Sorting application forms."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making phone calls."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He enjoys using computers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He needs the money badly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He wants to work in the city centre."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He has relevant working experience."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Purchase some business suits."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Learn some computer language."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Improve his programming skills."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Review some accountancy terms.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hi, Susan, you're looking very smart today.",
+                "zh": "M: 嗨，Susan，你今天看起来很精神。"
+              },
+              {
+                "en": "W: I always look smart, James. Actually, I'm on my way to a job interview.",
+                "zh": "W: 我一直都很精神，James。实际上，我正要去参加工作面试。"
+              },
+              {
+                "en": "M: What job? Oh, you mean, for the summer holidays?",
+                "zh": "M: 什么工作？哦，你是说暑假的工作吗？"
+              },
+              {
+                "en": "W: Yeah. There's only two weeks to go. I've got a second interview with that big foreign accountancy firm in the city centre. You know the one.",
+                "zh": "W: 对。只剩两周就放假了。我要去市中心那家大型外资会计师事务所进行第二轮面试。你知道的那家。"
+              },
+              {
+                "en": "M: That's fantastic.",
+                "zh": "M: 太棒了。"
+              },
+              {
+                "en": "W: The work is just helping out with data input, you know. But the pay isn't too bad. It might suit you too. I know they have at least two temporary positions available. And I don't think they have anyone else yet.",
+                "zh": "W: 工作就是帮忙做数据录入，你知道的。但薪水还不错。可能也适合你。我知道他们至少有两个临时职位空缺。而且我觉得他们还没找到其他人。"
+              },
+              {
+                "en": "M: Hmm. If they take you on, tell them you know a friend who'd be really good too. I really need the money and the experience would look good on my resume. Maybe we'll be working together—the dream team.",
+                "zh": "M: 嗯。如果他们录用你了，告诉他们你有个朋友也很优秀。我真的需要这笔钱，而且这段经历在我简历上也会很好看。也许我们能一起工作——梦之队。"
+              },
+              {
+                "en": "W: OK. We'll do. If the boss likes me, I'll mention it. It'll be good to have someone around who I know. I'll phone you afterwards. But perhaps you should put in an application anyway.",
+                "zh": "W: 好的。我会的。如果老板喜欢我，我会提一下。有个认识的人在身边也挺好的。我之后给你打电话。不过也许你还是应该自己递交一份申请。"
+              },
+              {
+                "en": "M: Thanks, Susan. That's great. Listen, do you want a lift to the city? I have my dad's car today and nothing else to do this morning.",
+                "zh": "M: 谢谢，Susan。太好了。听着，你要搭车去市里吗？我今天开着我爸的车，今天上午也没别的事。"
+              },
+              {
+                "en": "W: Sure. Thanks, James.",
+                "zh": "W: 当然。谢谢，James。"
+              },
+              {
+                "en": "M: Let's go then. The car's over there.",
+                "zh": "M: 那我们走吧。车在那边。"
+              },
+              {
+                "en": "W: By the way, how's your knowledge of accountancy? The interviewer may ask you about it.",
+                "zh": "W: 顺便问一下，你对会计了解多少？面试官可能会问你相关的问题。"
+              },
+              {
+                "en": "M: No problem. I think I can survive. I might just have to review a few accountancy terms. Maybe you can give me a practice interview first.",
+                "zh": "M: 没问题。我觉得我能应付。我可能只需要复习一些会计术语。也许你可以先给我做个模拟面试。"
+              },
+              {
+                "en": "W: Of course. Let's go then. Don't want to be late.",
+                "zh": "W: 当然。那我们走吧。可不想迟到。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are keen on high technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are poor at technology skills."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They often listen to National Public Radio."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They feel superior in science and technology."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Japanese."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Germans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Poles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Americans."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Emailing."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Texting."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Science."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Literacy."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is undergoing a drastic reform."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It lays emphasis on creative thinking."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has much room for improvement."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It prioritizes training of practical skills."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: There's new data out today that confirms that many Americans are not good at math. And when it comes to everyday technology skills, we are dead last when compared to other developed countries. Here's Gabrielle Emanuel of National Public Radio.",
+                "zh": "W: 今天有新数据证实，很多美国人数学不好。而且在日常技术技能方面，与其他发达国家相比，我们排在最后。以下是National Public Radio的Gabrielle Emanuel的报道。"
+              },
+              {
+                "en": "M: Let's start with the bad news that Americans are terrible at technology skills—using email, naming a file on a computer, using a link on a webpage, or just texting someone.",
+                "zh": "M: 先说坏消息，美国人的技术技能很糟糕——使用电子邮件、在电脑上命名文件、使用网页上的链接，或者只是给别人发短信。"
+              },
+              {
+                "en": "W: No country scored below the U.S.?",
+                "zh": "W: 没有哪个国家的得分比美国还低吗？"
+              },
+              {
+                "en": "M: Only one country. Poland performed as poorly as we did. Who came out first? Japan did the best and then Finland. If you look at data about reading and math, you'll notice something interesting. Younger adults who went to college or graduate school were doing pretty well. In literacy, they were actually doing better than their peers in other countries.",
+                "zh": "M: 只有一个国家。波兰的表现和我们一样差。谁排第一？日本表现最好，然后是芬兰。如果你看看阅读和数学方面的数据，你会注意到一些有趣的事情。上过大学或研究生院的年轻人表现得相当不错。在识字能力方面，他们实际上比其他国家的同龄人做得更好。"
+              },
+              {
+                "en": "W: So that's a bit of good news.",
+                "zh": "W: 所以这算是个好消息。"
+              },
+              {
+                "en": "M: But when you look at Americans who have a high school diploma, they look a lot like other countries' high school dropouts. We have a lot of work to do. That is especially true when it comes to math. You go to the store and there's a sale. Buy one; get the second one half off. You decide to buy two. How much do you pay?",
+                "zh": "M: 但当你看美国高中毕业生时，他们看起来很像其他国家的高中辍学生。我们有很多工作要做。在数学方面尤其如此。你去商店，那里有促销。买一件，第二件半价。你决定买两件。你要付多少钱？"
+              },
+              {
+                "en": "W: You mean high school graduates can't do this task in general?",
+                "zh": "W: 你是说一般来说高中毕业生做不了这个题？"
+              },
+              {
+                "en": "M: You're right. What does that tell us about our education system? Well, it tells us that we need to think about the preparedness of our students as they are leaving high school.",
+                "zh": "M: 没错。这告诉我们关于教育系统什么？嗯，它告诉我们需要考虑学生离开高中时的准备程度。"
+              },
+              {
+                "en": "W: Right. And schools, employers, in fact we all need to do something about it. Thank you, Gabrielle.",
+                "zh": "W: 对。而且学校、雇主，实际上我们所有人都需要对此做点什么。谢谢你，Gabrielle。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have small roots."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They grow white flowers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They taste like apples."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They come from Central Africa."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They turned from white to purple in color."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They became popular on the world market."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They became an important food for humans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They began to look like modern-day carrots."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were found quite nutritious."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There were serious food shortages."
+                  },
+                  {
+                    "l": "C",
+                    "t": "People discovered their medicinal value."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Farm machines helped lower their prices.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Wild carrots probably evolved with the other flowering plants about 360 million years ago. Like apples, carrots are native to Central Asia. That's why horses, which also come from Central Asia, like both apples and carrots so much.",
+                "zh": "野生胡萝卜大概在三亿六千万年前与其他开花植物一起进化而来。和苹果一样,胡萝卜原产于中亚。这就是为什么同样来自中亚的马如此喜欢苹果和胡萝卜。"
+              },
+              {
+                "en": "With wild carrots, the roots are white, small and skinny, so you'd have to pick a lot of wild carrots to get enough to eat. Doctors used carrot seeds and roots as medicine, on the theory that foods that taste bad must be good for you.",
+                "zh": "野生胡萝卜的根是白色的,又小又细,所以你得采摘很多野生胡萝卜才能获得足够的食物。医生将胡萝卜种子和根用作药物,依据的理论是味道不好的食物一定对你有益。"
+              },
+              {
+                "en": "Around 800 AD, people in Central Asia managed to develop a new kind of carrot—a purple carrot—that attracted more interest from international traders. Then, in the late 1500s, food scientists in the Netherlands cultivated large, straight, sweet, red carrots like the ones we eat today. But people still mostly fed carrots to horses, donkeys and pigs, and didn't eat them themselves. In the 1600s, people in China used carrots as medicine, but they also ate carrots boiled in soup. The red color was popular for Chinese New Year celebrations.",
+                "zh": "公元800年左右,中亚人成功培育出一种新的胡萝卜——紫色胡萝卜——引起了国际贸易商更多的兴趣。然后,在16世纪末,荷兰的食品科学家培育出我们今天吃的那种又大又直又甜的红色胡萝卜。但人们仍然主要把胡萝卜喂给马、驴和猪,自己并不食用。在17世纪,中国人将胡萝卜用作药物,但他们也煮汤食用胡萝卜。红色在中国新年庆祝活动中很受欢迎。"
+              },
+              {
+                "en": "But carrots got their biggest boost during the two world wars, when food shortages forced people to eat them, and governments told everyone how healthy carrots were. Today, cooler countries grow most of the world's carrots. Machines do most of the planting and picking, and carrots are easy to store and ship, so they are cheap almost everywhere.",
+                "zh": "但胡萝卜在两次世界大战期间获得了最大的推动,当时食物短缺迫使人们食用胡萝卜,政府也告诉每个人胡萝卜有多健康。如今,较寒冷的国家种植了世界上大部分胡萝卜。机器完成了大部分种植和采摘工作,胡萝卜易于储存和运输,因此几乎在任何地方都很便宜。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She could update her family any time she liked."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She could call up her family whenever she liked"
+                  },
+                  {
+                    "l": "C",
+                    "t": "She could locate her friends wherever they were."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She could download as many pictures as she liked."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She liked to inform her friends about her success."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She enjoyed reading her friends' status updates."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She felt quite popular among them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She felt she was a teenager again."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She could barely respond to all her 500 Facebook friends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She spent more time updating her friends than her family."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She could barely balance Facebook updates and her work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She didn't seem to be doing as well as her Facebook friends.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Katherine loved Facebook. With Facebook she could stay connected with her family no matter how far away they were. She could see their photos and read their status updates. With Facebook she could keep her relatives up-to-date on what she was doing. Another thing Katherine loved about Facebook was that she didn't have to think about time zones when updating family. Whenever she called her parents or other relatives, she always had to think about the time difference so that she wouldn't wake someone up or call when she knew they were at church. Facebook was so convenient.",
+                "zh": "Katherine热爱Facebook。通过Facebook，无论家人相隔多远，她都能与他们保持联系。她可以看到他们的照片，阅读他们的状态更新。通过Facebook，她可以让亲戚们及时了解她在做什么。Katherine喜欢Facebook的另一个原因是，更新动态时她不必考虑时区问题。每当她给父母或其他亲戚打电话时，她总是要考虑时差，以免吵醒某人或在她知道他们去教堂时打电话。Facebook太方便了。"
+              },
+              {
+                "en": "When Katherine joined Facebook, some of her classmates at high school started to add her as a friend. At first, this didn't bother her. She loved learning about the success of people she knew when she was just a teenager. She loved finding out people were getting married, having babies, and traveling.",
+                "zh": "当Katherine加入Facebook时，她高中的一些同学开始添加她为好友。起初，这并没有困扰她。她喜欢了解那些她十几岁时认识的人取得的成功。她喜欢发现人们正在结婚、生孩子和旅行。"
+              },
+              {
+                "en": "Soon, however, Katherine found herself comparing herself with the people she was reading about on Facebook. It began to make her feel bad that some people seemed to be doing so much better than she was. She was also spending a lot of time on Facebook. It took a lot of time and energy to keep up with everyone's status updates.",
+                "zh": "然而不久之后，Katherine发现自己开始将自己与她在Facebook上读到的那些人进行比较。这开始让她感觉不好，因为有些人似乎过得比她好得多。她还在Facebook上花费了大量时间。跟进每个人的状态更新需要花费大量的时间和精力。"
+              },
+              {
+                "en": "Katherine started to think. She looked at the list of over 500 friends she had on Facebook and realized some of them were not really friends at all.",
+                "zh": "Katherine开始思考。她看着自己在Facebook上超过500个好友的列表，意识到其中一些人根本不是真正的朋友。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have strong muscles."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They live a longer life than horses."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They eat much less in winter."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They can work longer than donkeys."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was a pet of a Spanish king."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was bought by George Washington."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was brought over from Spain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was donated by a U.S. ambassador."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They met and exchanged ideas on animal breeding."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They participated in a mule-driving competition."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They showed and traded animals in the market."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They fed mules with the best food they could find."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The wider use of horses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The arrival of tractors."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A shrinking animal trade."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A growing donkey population."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Do you know where a mule comes from? It is the child of a donkey and a horse. Mules have strong muscles like horses, but they eat less, can work longer, and are gentler, like donkeys.",
+                "zh": "你知道骡子是从哪里来的吗?它是驴和马的后代。骡子像马一样有强壮的肌肉,但它们吃得更少,能工作更长时间,并且像驴一样更温顺。"
+              },
+              {
+                "en": "George Washington was the first person in the United States to own mules. He had heard that mules made good farm animals and he contacted the U. S. ambassador in Spain to ask about them. In 1785, King Charles III of Spain sent Washington a male donkey as a gift. That male donkey became the father of the mule industry in the U.S.",
+                "zh": "George Washington是美国第一个拥有骡子的人。他听说骡子是很好的农场动物,于是联系了美国驻西班牙大使询问相关情况。1785年,西班牙国王Charles三世送给Washington一头公驴作为礼物。那头公驴成为了美国骡子产业之父。"
+              },
+              {
+                "en": "Every April, Maury County holds a Mule Day celebration. Held in Columbia, Tennessee, Mule Day had its beginnings as \"Breeder's Day\" in the 1840s. Farmers and farm animal breeders would bring their animals to market every April to show, buy, and trade. This was an important business before the days of tractors, when many families made a living from farming and mules were used as work animals. Eventually, tractors began to replace mules, making them less in demand.",
+                "zh": "每年四月,Maury County都会举办骡子日庆典。骡子日在田纳西州Columbia举行,其起源可以追溯到19世纪40年代的\"育种者日\"。农民和农场动物饲养者每年四月都会把他们的动物带到市场上展示、购买和交易。在拖拉机出现之前,这是一项重要的生意,当时许多家庭以农业为生,骡子被用作劳动动物。最终,拖拉机开始取代骡子,使骡子的需求量减少。"
+              },
+              {
+                "en": "A parade was added to Mule Day in 1934 to attract more people. Over the years other activities have been added, and today more than 200,000 people show up each year to watch and participate. If you visit during Mule Day celebrations, you might see mule-driving contests, square dances, horse shows or even tree-cutting competitions.",
+                "zh": "1934年,骡子日增加了游行活动以吸引更多人。多年来又增加了其他活动,如今每年有超过20万人前来观看和参与。如果你在骡子日庆典期间访问,你可能会看到赶骡比赛、方块舞、马术表演甚至伐木比赛。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "As if you needed another reason to hate the gym, it now turns out that exercise can exhaust not only your muscles, but also your eyes. Fear not, however, for coffee can stimulate them again. During"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "exercise, our muscles tire as they run out of fuel and build up waste products. Muscle performance can also be affected by a"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "called \"central fatigue,\" in which an imbalance in the body's chemical messengers prevents the central nervous system from directing muscle movements"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ". It was not known, however, whether central fatigue might also affect motor systems not directly"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "in the exercise itself, such as those that move the eyes. To find out, researchers gave 11 volunteer cyclists a carbohydrate(碳水化合物的)"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "either with a moderate dose of caffeine(咖啡因), which is known to stimulate the central nervous system, or as a placebo(安慰 剂) without, during 3 hours of"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ". After exercising, the scientists tested the cyclists with eye-tracking cameras to see how well their brains could still"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "their visual system. The team found that exercise reduced the speed of rapid eye movements by about 8%,"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "their ability to capture new visual information. The caffeine, the equivalent of two strong cups of coffee, was"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "to reverse this effect, with some cyclists even displaying"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "eye movement speeds. So it might be a good idea to get someone else to drive you home after that marathon."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "cautiously"
+        },
+        {
+          "l": "B",
+          "w": "commit"
+        },
+        {
+          "l": "C",
+          "w": "control"
+        },
+        {
+          "l": "D",
+          "w": "cycling"
+        },
+        {
+          "l": "E",
+          "w": "effectively"
+        },
+        {
+          "l": "F",
+          "w": "increased"
+        },
+        {
+          "l": "G",
+          "w": "involved"
+        },
+        {
+          "l": "H",
+          "w": "limited"
+        },
+        {
+          "l": "I",
+          "w": "phenomenon"
+        },
+        {
+          "l": "J",
+          "w": "preventing"
+        },
+        {
+          "l": "K",
+          "w": "sensitive"
+        },
+        {
+          "l": "L",
+          "w": "slowing"
+        },
+        {
+          "l": "M",
+          "w": "solution"
+        },
+        {
+          "l": "N",
+          "w": "sufficient"
+        },
+        {
+          "l": "O",
+          "w": "vigorous"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "O"
+        },
+        {
+          "n": 27,
+          "a": "I"
+        },
+        {
+          "n": 28,
+          "a": "E"
+        },
+        {
+          "n": 29,
+          "a": "G"
+        },
+        {
+          "n": 30,
+          "a": "M"
+        },
+        {
+          "n": 31,
+          "a": "D"
+        },
+        {
+          "n": 32,
+          "a": "C"
+        },
+        {
+          "n": 33,
+          "a": "J"
+        },
+        {
+          "n": 34,
+          "a": "N"
+        },
+        {
+          "n": 35,
+          "a": "F"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Team spirit",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Teams have become the basic building blocks of organizations. Recruitment advertisements routinely call for \"team players\". Business schools grade their students in part on their performance in group projects. Office managers knock down walls to encourage team building. Teams are as old as civilization, of course: even Jesus had 12 co-workers. But a new report by Deloitte, \"Global Human Capital Trends\", based on a survey of more than 7,000 executives in over 130 countries, suggests that the fashion for teamwork has reached a new high. Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on(开始) it; and for the most part, restructuring meant putting more emphasis on teams."
+        },
+        {
+          "l": "B",
+          "t": "Companies are abandoning conventional functional departments and organising employees into cross- disciplinary teams that focus on particular products, problems or customers. These teams are gaining more power to run their own affairs. They are also spending more time working with each other rather than reporting upwards. Deloitte argues that a new organisational form is on the rise: a network of teams is replacing the conventional hierarchy(等级体制)."
+        },
+        {
+          "l": "C",
+          "t": "The fashion for teams is driven by a sense that the old way of organising people is too rigid for both the modern marketplace and the expectations of employees. Technological innovation places greater value on agility(灵活性). John Chambers, chairman of Cisco Systems Inc., a worldwide leader in electronics products, says that \"we compete against market transitions(过渡), not competitors. Product transitions used to take five or seven years; now they take one or two.\" Digital technology also makes it easier for people to co-ordinate their activities without resorting to hierarchy. The \"millennials\"(千禧一代) who will soon make up half the workforce in rich countries were raised from nursery school onwards to work in groups."
+        },
+        {
+          "l": "D",
+          "t": "The fashion for teams is also spreading from the usual corporate suspects (such as GE and IBM) to some more unusual ones. The Cleveland Clinic, a hospital operator, has reorganised its medical staff into teams to focus on particular treatment areas; consultants, nurses and others collaborate closely instead of being separated by speciality(专业) and rank. The US Army has gone the same way. In his book, Team of Teams, General Stanley McChrystal describes how the army's hierarchical structure hindered its operations during the early stages of the Iraq war. His solution was to learn something from the rebels it was fighting: decentralising authority to self-organising teams."
+        },
+        {
+          "l": "E",
+          "t": "A good rule of thumb is that as soon as generals and hospital administrators jump on a management bandwagon, it is time to ask questions. Leigh Thompson of Kellogg School of Management in Illinois warns that, \"Teams are not always the answer—teams may provide insight, creativity and knowledge in a way that a person working independently cannot; but teamwork may also lead to confusion, delay and poor decision- making.\" The late Richard Hackman of Harvard University once argued, \"I have no question that when you have a team, the possibility exists that it will generate magic, producing something extraordinary… But don't count on it.\""
+        },
+        {
+          "l": "F",
+          "t": "Hackman (who died in 2013) noted that teams are hindered by problems of co-ordination and motivation that chip away at the benefits of collaboration. High-flyers forced to work in teams may be undervalued and free- riders empowered. Group-think may be unavoidable. In a study of 120 teams of senior executives, he discovered that less than 10% of their supposed members agreed on who exactly was on the team. If it is hard enough to define a team's membership, agreeing on its purpose is harder still."
+        },
+        {
+          "l": "G",
+          "t": "Profound changes in the workforce are making teams trickier to manage. Teams work best if their members have a strong common culture. This is hard to achieve when, as is now the case in many big firms, a large proportion of staff are temporary contractors. Teamwork improves with time: America's National Transportation Safety Board found that 73% of the incidents in its civil-aviation database occurred on a crew's first day of flying together. However, as Amy Edmondson of Harvard points out, organisations increasingly use \"team\" as a verb rather than a noun: they form teams for specific purposes and then quickly disband them."
+        },
+        {
+          "l": "H",
+          "t": "The least that can be concluded from this research is that companies need to think harder about managing teams. They need to rid their minds of sentimentalism(感情用事): the most successful teams have leaders who are able to set an overall direction and take immediate action. They need to keep teams small and focused: giving in to pressure to be more \"inclusive\" is a guarantee of dysfunction. Jeff Bezos, Amazon's boss, says that \"If I see more than two pizzas for lunch, the team is too big.\" They need to immunize teams against group-think: Hackman argued that the best ones contain \"deviants\"(离经叛道者) who are willing to do something that may be upsetting to others."
+        },
+        {
+          "l": "I",
+          "t": "A new study of 12,000 workers in 17 countries by Steelcase, a furniture-maker which also does consulting, finds that the best way to ensure employees are \"engaged\" is to give them more control over where and how they do their work―which may mean liberating them from having to do everything in collaboration with others."
+        },
+        {
+          "l": "J",
+          "t": "However, organisations need to learn something bigger than how to manage teams better: they need to be in the habit of asking themselves whether teams are the best tools for the job. Teambuilding skills are in short supply: Deloitte reports that only 12% of the executives they contacted feel they understand the way people work together in networks and only 21% feel confident in their ability to build cross-functional teams. Loosely managed teams can become hotbeds of distraction―employees routinely complain that they can't get their work done because they are forced to spend too much time in meetings or compelled to work in noisy offices. Even in the age of open-plan offices and social networks some work is best left to the individual."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Successful team leaders know exactly where the team should go and are able to take prompt action.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "Decentralisation of authority was also found to be more effective in military operations.",
+          "a": "D"
+        },
+        {
+          "n": 38,
+          "s": "In many companies, the conventional form of organisation is giving way to a network of teams.",
+          "a": "B"
+        },
+        {
+          "n": 39,
+          "s": "Members of poorly managed teams are easily distracted from their work.",
+          "a": "J"
+        },
+        {
+          "n": 40,
+          "s": "Teamwork is most effective when team members share the same culture.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "According to a report by Deloitte, teamwork is becoming increasingly popular among companies.",
+          "a": "A"
+        },
+        {
+          "n": 42,
+          "s": "Some team members find it hard to agree on questions like membership and the team's purpose.",
+          "a": "F"
+        },
+        {
+          "n": 43,
+          "s": "Some scholars think teamwork may not always be reliable, despite its potential to work wonders.",
+          "a": "E"
+        },
+        {
+          "n": 44,
+          "s": "To ensure employees' commitment, it is advisable to give them more flexibility as to where and how they work.",
+          "a": "I"
+        },
+        {
+          "n": 45,
+          "s": "Product transitions take much less time now than in the past.",
+          "a": "C"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Shoppers in the UK are spending less money on toilet paper to save money, research has shown. Penny-pinching UK consumers choose cheaper products from discounters such as Aldi and Lidl rather than luxury alternatives. This has wiped 6% off the value of the soft tissue paper market in the UK. It has shrunk from £1.19 billion in 2011 to £1.12 billion in 2015, according to a new report from market research company Mintel. Furthermore, the future of the market looks far from rosy, with sales expected to fall further to £1.11 billion in 2016. In the last year alone, despite an increase in the UK population and a subsequent rise in the number of households, sales of toilet paper fell by 2%, with the average household reducing their toilet roll spending from £43 in 2014 to £41 in 2015. Overall, almost three in five people say they try to limit their usage of paper—including facial tissue and kitchen roll―to save money. \"Strength, softness and thickness remain the leading indicators of toilet paper quality, with just a small proportion of consumers preferring more luxurious alternatives, such as those with flower patterns or perfume,\" said Mintel analyst Jack Duckett. \"These extra features are deemed unnecessary by the majority of shoppers, which probably reflects how these types of products are typically more expensive than regular toilet paper, even when on special offer.\" While consumers are spending less on toilet paper, they remain fussy—in theory at least—when it comes to paper quality. Top of Britons' toilet paper wish list is softness (57%) followed by strength (45%) and thickness (36%). One in 10 buyers rank toilet rolls made from recycled paper among their top considerations, highlighting how overall the environment is much less of a consideration for shoppers than product quality. In a challenge for manufacturers, 81% of paper product users said they would consider buying recycled toilet tissue if it were comparable in quality to standard paper.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "The market sales of toilet paper have decreased because_____.",
+            "o": [
+              {
+                "l": "A",
+                "t": "Britons have cut their spending on it"
+              },
+              {
+                "l": "B",
+                "t": "its prices have gone up over the years"
+              },
+              {
+                "l": "C",
+                "t": "its quality has seen marked improvement"
+              },
+              {
+                "l": "D",
+                "t": "Britons have developed the habit of saving"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the author think of the future of the tissue paper market in the UK?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will expand in time."
+              },
+              {
+                "l": "B",
+                "t": "It will remain gloomy."
+              },
+              {
+                "l": "C",
+                "t": "It will experience ups and downs."
+              },
+              {
+                "l": "D",
+                "t": "It will recover as population grows."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What does Jack Duckett say about toilet paper?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Special offers would promote its sales."
+              },
+              {
+                "l": "B",
+                "t": "Consumers are loyal to certain brands."
+              },
+              {
+                "l": "C",
+                "t": "Luxurious features add much to the price."
+              },
+              {
+                "l": "D",
+                "t": "Consumers have a variety to choose from."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What do we learn about Britons concerning toilet paper?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are particular about the quality of toilet paper."
+              },
+              {
+                "l": "B",
+                "t": "They emphasize the strength of toilet paper the most."
+              },
+              {
+                "l": "C",
+                "t": "They prefer cheap toilet paper to recycled toilet paper."
+              },
+              {
+                "l": "D",
+                "t": "They reject using toilet paper with unnecessary features."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What can we infer from the last paragraph?",
+            "o": [
+              {
+                "l": "A",
+                "t": "More and more Britons buy recycled toilet paper to protect the environment."
+              },
+              {
+                "l": "B",
+                "t": "Toilet paper manufacturers are facing a great challenge in promoting its sales."
+              },
+              {
+                "l": "C",
+                "t": "Toilet paper manufacturers compete with one another to improve product quality."
+              },
+              {
+                "l": "D",
+                "t": "Environmental protection is not much of a concern when Britons buy toilet paper."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "\"One of the reasons I find this topic very interesting is because my mom was a smoker when I was younger,\" says Lindson-Hawley, who studies tobacco and health at the University of Oxford. By studying about 700 adult smokers, she found out that her mom quit the right way—by stopping abruptly and completely. In her study, participants were randomly(随机地) assigned to two groups. One had to quit abruptly on a given day, going from about a pack a day to zero. The other cut down gradually over the course of two weeks. People in both groups used nicotine(尼古丁) patches before they quit, in addition to a second form of nicotine replacement, like gum or spray. They also had talk therapy with a nurse before and after quit day. Six months out, more people who had quit abruptly had stuck with it—more than one-fifth of them, compared to about one-seventh in the other group. Although these numbers appear low, it is much higher than if people try without support. And the quit rates were particularly convincing given that before the study started, most of the people had said they'd rather cut down gradually before quitting. \"If you're training for a marathon, you wouldn't expect to turn up and just be able to run it. And I think people see that for smoking as well. They think, 'Well, if I gradually reduce, it's like practice,'\" says Lindson-Hawley. But that wasn't the case. Instead of giving people practice, the gradual reduction likely gave them cravings(瘾) and withdrawal symptoms before they even reached quit day, which could be why fewer people in that group actually made it to that point. \"Regardless of your stated preference, if you're ready to quit, quitting abruptly is more effective,\" says Dr. Gabriela Ferreira. \"When you can quote a specific number like a fifth of the patients were able to quit, that's compelling. It gives them the encouragement, I think, to really go for it,\" Ferreira says. People rarely manage to quit the first time they try. But at least, she says, they can maximize the odds of success.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does Lindson-Hawley say about her mother?",
+            "o": [
+              {
+                "l": "A",
+                "t": "She quit smoking with her daughter's help."
+              },
+              {
+                "l": "B",
+                "t": "She succeeded in quitting smoking abruptly."
+              },
+              {
+                "l": "C",
+                "t": "She was also a researcher of tobacco and health."
+              },
+              {
+                "l": "D",
+                "t": "She studied the smoking patterns of adult smokers."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What kind of support did smokers receive to quit smoking in Lindson-Hawley's study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They were given physical training."
+              },
+              {
+                "l": "B",
+                "t": "They were looked after by physicians."
+              },
+              {
+                "l": "C",
+                "t": "They were encouraged by psychologists."
+              },
+              {
+                "l": "D",
+                "t": "They were offered nicotine replacements."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "How does Dr. Gabriela Ferreira view the result of Lindson-Hawley's experiment?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is idealized."
+              },
+              {
+                "l": "B",
+                "t": "It is unexpected."
+              },
+              {
+                "l": "C",
+                "t": "It is encouraging."
+              },
+              {
+                "l": "D",
+                "t": "It is misleading."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "The idea of \"a marathon\" (Line 2, Para. 5) illustrates the popular belief that quitting smoking",
+            "o": [
+              {
+                "l": "A",
+                "t": "is something few can accomplish"
+              },
+              {
+                "l": "B",
+                "t": "needs some practice first"
+              },
+              {
+                "l": "C",
+                "t": "requires a lot of patience"
+              },
+              {
+                "l": "D",
+                "t": "is a challenge at the beginning"
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What happens when people try to quit smoking gradually?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They find it even more difficult."
+              },
+              {
+                "l": "B",
+                "t": "They are simply unable to make it."
+              },
+              {
+                "l": "C",
+                "t": "They show fewer withdrawal symptoms."
+              },
+              {
+                "l": "D",
+                "t": "They feel much less pain in the process."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "长江是亚洲最长、世界上第三长的河流。长江流经多种不同的生态系统，是诸多濒危物种的栖息地，灌溉 了中国五分之一的土地。长江流域(river basin )居住着中国三分之一的人口。长江在中国历史、文化和经济上 起着很大的作用。长江三角洲(delta)产出多达20%的中国国民生产总值。几千年来，长江一直被用于供水、运 输和工业生产。长江上还坐落着世界最大的水电站。",
+    "reference": "The Yangtze River is the longest river in Asia and the third longest in the world. The Yangtze flows through diverse ecosystems, is home to many endangered species, and irrigates one fifth of China's land. One third of China's population lives in the Yangtze River basin. The Yangtze plays an important role in China's history, culture and economy. The Yangtze River Delta produces as much as 20% of China's GNP. For thousands of years, the Yangtze has been used for water supply, transportation and industrial production. There is also the world's largest hydropower station on the Yangtze."
+  }
+}

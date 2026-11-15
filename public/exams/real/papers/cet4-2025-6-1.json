@@ -1,0 +1,1408 @@
+{
+  "id": "cet4-2025-6-1",
+  "level": "cet4",
+  "year": 2025,
+  "month": 6,
+  "set": 1,
+  "title": "2025年6月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: Suppose your university is seeking students' opinions on the necessity of making College Chinese a compulsory course. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+    "sample": "The question of whether College Chinese should be a compulsory course has sparked heated discussion on campus. In my view, making it compulsory is both necessary and wise.Admittedly, some students argue that Chinese is their mother tongue and needs no further study. Yet this view overlooks two facts. First, a solid command of Chinese sharpens our thinking and expression. Many science majors write reports full of grammatical errors and muddled logic, which weakens their careers. A required course would help them communicate clearly. What's more, classical Chinese carries our cultural heritage. Through reading poems and essays, students inherit values and a sense of identity that no other subject offers.Therefore, I firmly believe College Chinese deserves a place as a compulsory course. It is not a burden but an investment in both our language ability and our cultural roots."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By slapping some butter on it."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By enhancing its nourishment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By growing it in South Dakota."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By cooking it in vegetable oil."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To introduce their corn to tourists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To attend an honorary ceremony."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To share experience with other corn growers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To exhibit their corn at the state's Corn Palace.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Everything changed for 7-year-old Tariq when he slapped some butter on an ear of corn. He knew it tasted good, but butter made it better. His passion for produce got him a position as South Dakota's official Corn Ambassador.",
+                "zh": "当7岁的Tariq在一根玉米上抹了些黄油时，一切都改变了。他知道玉米本来就好吃,但黄油让它变得更美味。他对农产品的热情为他赢得了南达科他州官方玉米大使的职位。"
+              },
+              {
+                "en": "Tariq's profession of love for his favorite vegetable earned him the name \"the Corn Kid\". This was after his online interview attracted millions of views and was made into a song. South Dakota is one of the top corn producers in America. The corn provides nourishment across the globe. Tariq said, \"Not everyone has to like corn, but everyone should definitely try it, especially with butter.\" Tariq and his family were invited to South Dakota to attend the honorary ceremony at the state's Corn Palace. Officials wanted to highlight South Dakota's two largest industries: tourism and agriculture. Tariq couldn't believe his eyes when he saw the palace made of corn.",
+                "zh": "Tariq对他最喜爱的蔬菜表白的热情为他赢得了\"玉米小子\"的称号。这是在他的网络访谈吸引了数百万次观看并被制作成一首歌曲之后。南达科他州是美国顶级玉米生产州之一。这些玉米为全球提供营养。Tariq说:\"不是每个人都必须喜欢玉米,但每个人都绝对应该尝试一下,尤其是配上黄油。\"Tariq和他的家人受邀前往南达科他州参加在该州玉米宫举行的荣誉仪式。官员们希望突出南达科他州最大的两个产业:旅游业和农业。当Tariq看到用玉米建造的宫殿时,简直不敢相信自己的眼睛。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Stole mail several times."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Forged postal keys illegally."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Attacked postmen on multiple occasions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Broke a number of postal collection boxes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A sentence for life."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Loss of all their possessions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Twenty-three years' hard labor."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Up to fifteen years in prison.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Two arrests were announced Thursday. The arrests were in connection with a string of mail thefts from U.S. Postal Service's collection boxes in Marion County and for the possession of a stolen postal key, according to the Department of Justice.",
+                "zh": "周四宣布了两起逮捕行动。据司法部称,这些逮捕与Marion County美国邮政管理局收集箱的一系列邮件盗窃案以及持有被盗邮政钥匙有关。"
+              },
+              {
+                "en": "Jordan Jax and Tarod Goodman, both 23, were arrested after evidence gathered in an investigation showed the pair stole mail on multiple occasions using a postal key, according to a news release.",
+                "zh": "据新闻稿称,23岁的Jordan Jax和Tarod Goodman在调查中收集的证据显示两人多次使用邮政钥匙盗窃邮件后被逮捕。"
+              },
+              {
+                "en": "Jax and Goodman stole mail for around four months. Investigators reviewed videos of the collection boxes; the video showed the two men loading the stolen mail into Jax's vehicle. Investigators were also able to recover the key that was used to open the collection boxes.",
+                "zh": "Jax和Goodman盗窃邮件约四个月。调查人员查看了收集箱的监控视频;视频显示两名男子将被盗邮件装入Jax的车辆。调查人员还找回了用于打开收集箱的钥匙。"
+              },
+              {
+                "en": "Jax and Goodman each face up to five years in federal prison in the mail thefts and up to ten years for possession of the postal key.",
+                "zh": "Jax和Goodman各自面临邮件盗窃罪最高五年联邦监禁,以及持有邮政钥匙罪最高十年监禁。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It escapes regulation and misleads consumers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It ignores economically feasible recycling options."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It creates waste and severely impacts the environment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It produces clothes affordable only to a tiny minority."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To cut consumers' expenses in buying quality clothes."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To enable the whole fast-fashion industry to be sustainable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To incentivize manufacturers to be more consumer-friendly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To urge manufacturers and consumers to reduce waste."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Recognizing the impact on consumers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Identifying the source of the problem."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Abandoning the current business model."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Establishing powerful regulatory bodies."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Can fast-fashion be sustainable? Researchers think yes. Identifying why the fast-fashion business model creates waste and determining whether regulators can establish incentives for consumers and manufacturers are steps to reduce waste.",
+                "zh": "快时尚能否实现可持续发展？研究人员认为可以。确定快时尚商业模式为何会造成浪费，以及判断监管机构能否建立激励机制来引导消费者和制造商，是减少浪费的关键步骤。"
+              },
+              {
+                "en": "Recently, the clothing industry has come under attack for creating a waste problem with serious environmental consequences. In the absence of environmentally and economically feasible recycling options, fast-fashion manufacturers pump out low-quality clothes produced in high volumes that are worn only a few times and then discarded.",
+                "zh": "近年来，服装行业因制造严重的环境后果的废物问题而受到抨击。在缺乏环境和经济上可行的回收选择的情况下，快时尚制造商大量生产低质量的服装，这些服装只穿几次就被丢弃。"
+              },
+              {
+                "en": "The researchers put forth policy contributions, ranging from sustainable disposal of leftover stock to production tax to incentivize both manufacturers and consumers to be more waste conscious.",
+                "zh": "研究人员提出了一系列政策建议，从可持续处置剩余库存到征收生产税，以激励制造商和消费者更加注重减少浪费。"
+              },
+              {
+                "en": "In order to devise effective policies to curb the environmental impact of the clothing industry, it is important to identify the source of the problem in the supply chain. Manufacturers, consumers, and regulatory bodies can then take an informed approach to recognize the environmental impact of fast-fashion and to design an ecosystem to reduce waste, incentivize innovation, and create new business models to manage waste.",
+                "zh": "为了制定有效的政策来遏制服装行业对环境的影响，确定供应链中问题的根源至关重要。然后，制造商、消费者和监管机构可以采取知情的方法来认识快时尚的环境影响，并设计一个生态系统来减少浪费、激励创新以及创建新的商业模式来管理废物。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The city's rush-hour traffic is intolerable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She cannot avoid rush-hour traffic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The local government is inefficient."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The city is too big to move around easily."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Upgrading subway carriages."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Increasing the number of bus routes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Air conditioning the city's subway."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Learning from other big cities."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He suffers from rush-hour crowding too."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is fortunate to live very near to work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He takes a half-hour bus ride to work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is going to move closer to his office."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Recommend to her a good house near his office."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Send her his housing agent's telephone number."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Tell her exactly what kind of property to look for."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Make sure the agent finds something good for her.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hey Mary, you seem to be very much annoyed. What happened?",
+                "zh": "M: 嘿，Mary，你看起来很烦恼。怎么了?"
+              },
+              {
+                "en": "W: Rush hour in this city is killing me.",
+                "zh": "W: 这个城市的高峰期快把我逼疯了。"
+              },
+              {
+                "en": "M: Ah, yes. Rush hour is terrible, especially in the morning between 8 and 9. But what else can you expect in a city this big?",
+                "zh": "M: 啊，是的。高峰期确实很糟糕，尤其是早上8点到9点之间。但在这么大的城市里你还能指望什么呢?"
+              },
+              {
+                "en": "W: Well, I think the local government could help improve things. I mean, getting rid of rush hour may be impossible, but it could be made more tolerable, don't you think?",
+                "zh": "W: 嗯，我觉得当地政府可以帮忙改善一下。我的意思是，消除高峰期可能不太可能，但可以让它变得更能忍受一些，你不觉得吗?"
+              },
+              {
+                "en": "M: Um… but I'm not sure how.",
+                "zh": "M: 嗯……但我不太确定怎么做。"
+              },
+              {
+                "en": "W: Well, for example, the subway system could have air conditioning. I know many cities in the world have air conditioning in their subway, so why can't we? It gets so hot in the summer. I can hardly breathe down there. And add to that the rush-hour crowds with strangers packed close together in the subway carriages, the whole thing is just horrible.",
+                "zh": "W: 嗯，比如说，地铁系统可以装空调。我知道世界上很多城市的地铁都有空调，那我们为什么不能有呢?夏天的时候太热了。我在下面几乎喘不过气来。再加上高峰期的人群，陌生人在地铁车厢里挤在一起，整个事情简直太可怕了。"
+              },
+              {
+                "en": "M: Ah, yes, you are completely right. The trains here are too old. The government should definitely invest in new ones with air conditioning. I guess I'm fortunate I take the bus instead.",
+                "zh": "M: 啊，是的，你说得完全对。这里的列车太旧了。政府绝对应该投资购买带空调的新列车。我想我很幸运，我坐公交车。"
+              },
+              {
+                "en": "W: Oh, that's much better.",
+                "zh": "W: 哦，那好多了。"
+              },
+              {
+                "en": "M: Yeah, it's more convenient. Bus No. 36 goes straight from my house to the office. It's a 30-minute ride and I don't have to make any changes.",
+                "zh": "M: 是啊，更方便。36路公交车从我家直达办公室。30分钟的车程，而且不用换乘。"
+              },
+              {
+                "en": "W: That sounds nice. I tell you, my current commute is killing me. Maybe I should move closer to the office.",
+                "zh": "W: 听起来不错。告诉你，我现在的通勤快把我逼疯了。也许我应该搬到离办公室近一点的地方。"
+              },
+              {
+                "en": "M: Well, I know a great housing agent. I found the flat I'm living in now through him. And I love it.",
+                "zh": "M: 嗯，我认识一个很棒的房产中介。我现在住的公寓就是通过他找到的。我很喜欢。"
+              },
+              {
+                "en": "W: Hmm, could you send me his number, please?",
+                "zh": "W: 嗯，你能把他的号码发给我吗?"
+              },
+              {
+                "en": "M: Sure thing. Just tell him exactly what you are looking for and I'm sure he will find something good.",
+                "zh": "M: 当然可以。只要告诉他你具体在找什么，我相信他会找到好房子的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He was remembered for the scar on his cheek."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He received a heart operation a few days ago."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He used to wear a sad face in school."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He had some plastic surgery done."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The man's deep sympathy for Johnny."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The man's use of the expression 'fixed'."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The man's covering up of what happened."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The man's good memory of his childhood."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It gave him a noticeable smartness."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It made him appear even more manly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It seemed to give him a certain uniqueness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It seemed to make up for his physical defects."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Liberal."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Hostile."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Indifferent."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Critical."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Did you hear about Johnny?",
+                "zh": "M: 你听说Johnny的事了吗？"
+              },
+              {
+                "en": "W: No. Why? Is he okay?",
+                "zh": "W: 没有。怎么了？他还好吗？"
+              },
+              {
+                "en": "M: He had some plastic surgery done.",
+                "zh": "M: 他做了整形手术。"
+              },
+              {
+                "en": "W: What? Why?",
+                "zh": "W: 什么？为什么？"
+              },
+              {
+                "en": "M: Do you remember he had a scar on his face?",
+                "zh": "M: 你还记得他脸上有道疤吗？"
+              },
+              {
+                "en": "W: Yes, of course. He always had that. I've known him since primary school, and I always remember him having that on his cheek.",
+                "zh": "W: 记得，当然记得。他一直都有那道疤。我从小学就认识他了，一直记得他脸颊上有那道疤。"
+              },
+              {
+                "en": "M: Well, he had it fixed.",
+                "zh": "M: 嗯，他把它修复了。"
+              },
+              {
+                "en": "W: Fixed? What do you mean? You can't fix a scar.",
+                "zh": "W: 修复？什么意思？疤痕是修复不了的。"
+              },
+              {
+                "en": "M: You know what I mean? He had an operation done on it, plastic surgery, in order to cover it and make it less noticeable.",
+                "zh": "M: 你懂我的意思吧？他做了个手术，整形手术，用来遮盖疤痕，让它不那么明显。"
+              },
+              {
+                "en": "W: Oh, well, that's ridiculous, isn't it? It was noticeable, sure. But it wasn't an ugly scar. It never occurred to me that he should have it taken care of like that.",
+                "zh": "W: 哦，这太荒唐了，不是吗？那道疤确实挺明显的。但它并不丑。我从来没想过他应该那样处理它。"
+              },
+              {
+                "en": "M: I agree. I can understand some scars and physical defects can be ugly and distracting, but not Johnny's. In fact, I thought it added character… like it gave him a certain uniqueness.",
+                "zh": "M: 我同意。我能理解有些疤痕和身体缺陷可能很丑、很扎眼，但Johnny的不是。事实上，我觉得那道疤为他增添了个性……让他有了某种独特性。"
+              },
+              {
+                "en": "W: He must have felt differently though. He must have felt self-conscious and insecure, perhaps.",
+                "zh": "W: 但他肯定想法不一样。他可能觉得难为情、不自信吧。"
+              },
+              {
+                "en": "M: No, no, that's not the reason. He was totally fine with his scar. As you said, he had had it for most of his life.",
+                "zh": "M: 不，不，不是那个原因。他对自己的疤完全没问题。就像你说的，他大半辈子都带着那道疤。"
+              },
+              {
+                "en": "W: Then why did he have the operation?",
+                "zh": "W: 那他为什么要做手术？"
+              },
+              {
+                "en": "M: Because his girlfriend wanted him to.",
+                "zh": "M: 因为他女朋友想让他做。"
+              },
+              {
+                "en": "W: What? That's so superficial and selfish of her. If Johnny's girlfriend doesn't like him for who he is, then she does not deserve to be his girlfriend.",
+                "zh": "W: 什么？她也太肤浅、太自私了。如果Johnny的女朋友不喜欢真实的他，那她就不配做他女朋友。"
+              },
+              {
+                "en": "M: You are right. So he is insane to give in to her like that. But when I told him, he said he loves her and would just do what she wants him to.",
+                "zh": "M: 你说得对。所以他那样向她妥协简直疯了。但当我跟他说的时候，他说他爱她，愿意做她想让他做的事。"
+              },
+              {
+                "en": "W: What a fool he is.",
+                "zh": "W: 他真是个傻瓜。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Through deliberation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Through evolution."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Through invention."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Through collaboration."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "With people imitating sounds around them."
+                  },
+                  {
+                    "l": "B",
+                    "t": "With people interacting with animals close by."
+                  },
+                  {
+                    "l": "C",
+                    "t": "With people showing each other things nearby."
+                  },
+                  {
+                    "l": "D",
+                    "t": "With people trying to string sounds together."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Making sounds can free one's hands for doing other things."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Making sounds proves markedly easier than sign languages."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Making sounds enables one to express their ideas more explicitly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making sounds helps one communicate with people they can't see.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Talking is unique to humans. An animal might make 10 different sounds, but an adult human knows more than 20,000 words. Additionally, we're the only animal that expresses thoughts in full sentences. Researchers don't think language was invented; instead, they think it evolved. How did talking evolve? There are two main theories.",
+                "zh": "说话是人类独有的能力。动物可能会发出10种不同的声音,但成年人掌握的词汇超过20,000个。此外,我们是唯一能用完整句子表达思想的动物。研究人员认为语言不是被发明出来的,而是进化而来的。说话是如何进化的?有两种主要理论。"
+              },
+              {
+                "en": "The first theory is that language started with people making different sounds, mostly imitating the things around them, like animal calls, nature sounds, and the sounds of tools. Perhaps they made the sound of wind to comment on the weather or imitated the sound of a bird to tell a friend that there was a bird nearby. Then over hundreds of thousands of years, those sounds turned into words that people began to learn as part of their language. At some point, people started stringing the words together to form sentences.",
+                "zh": "第一种理论认为,语言起源于人们发出不同的声音,主要是模仿周围的事物,比如动物叫声、自然界的声音以及工具的声音。也许他们发出风的声音来评论天气,或者模仿鸟叫声来告诉朋友附近有一只鸟。然后在数十万年的时间里,这些声音演变成了词汇,人们开始将其作为语言的一部分来学习。在某个时刻,人们开始将词汇串联起来形成句子。"
+              },
+              {
+                "en": "The other main theory, which is more recent, is that people started off by gesturing—pointing at things with their hands and imitating actions using their bodies. Eventually these gestures turned into a full sign language. This theory guesses that after developing sign languages, people eventually started making sounds along with their gestures. At some point, they switched to mostly making sounds that became words instead of just using their bodies. The reason they switched to making sounds, the theory goes, is that talking out loud lets you communicate with someone even when you can't see them.",
+                "zh": "另一种主要理论更为近期,认为人们最初是通过手势——用手指向事物并用身体模仿动作来交流的。最终这些手势演变成了完整的手语。这个理论推测,在发展出手语之后,人们最终开始在做手势的同时发出声音。在某个时刻,他们转变为主要发出声音形成词汇,而不仅仅是使用身体。该理论认为,他们转向发出声音的原因是,出声说话可以让你即使在看不见对方的情况下也能进行交流。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Well disciplined."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Quite confident."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Somewhat selfish."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Highly intelligent."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "When they wanted to have a competitive team member."
+                  },
+                  {
+                    "l": "B",
+                    "t": "When they were looking for a cooperative workmate."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When they found collaboration essential to them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "When they were seeking someone to help them."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Avoid frightening competitors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Make clear their social goal."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Adopt persuasive strategies."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Consider the consequences.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Is it a good idea to display luxury brands and other signals of status? It depends on the situation. Studies have shown that people who appear to be wealthy tend to be considered more intelligent, disciplined, and competent than those who do not. But new research found that people believe someone who shows off their social status cares more about benefiting themselves than helping others. This means people are less willing to collaborate with them. Modesty may be key when cooperation is essential, but the researchers also found that in some cases, status signaling has advantages.",
+                "zh": "展示奢侈品牌和其他地位象征是个好主意吗？这取决于具体情况。研究表明,看起来富有的人往往被认为比那些看起来不富有的人更聪明、更自律、更有能力。但新研究发现,人们认为炫耀社会地位的人更关心自身利益而非帮助他人。这意味着人们不太愿意与他们合作。当合作至关重要时,谦逊可能是关键,但研究人员也发现,在某些情况下,地位信号具有优势。"
+              },
+              {
+                "en": "Experiments showed that participants were less likely to choose someone who signals their wealth or status to join a group seeking cooperative members. But participants were more likely to choose that person when they're looking for a competitive team member. These findings suggest that people should change how they present themselves depending on their social goal.",
+                "zh": "实验表明,当参与者寻找合作型成员加入团队时,他们不太可能选择那些展示财富或地位的人。但当他们寻找竞争型团队成员时,参与者更有可能选择那个人。这些发现表明,人们应该根据自己的社交目标来改变展示自己的方式。"
+              },
+              {
+                "en": "This is the era of social media. People can easily share their wealth and status to large audiences, but they need to consider the consequences. Posting about luxury purchases and expensive vacations online may help you to persuade others and frighten competitors, but it could also signal to potential friends or future employers that you are unlikely to think about the needs of others. This makes things tricky for people who may want to impress others while also demonstrating that they are a team player.",
+                "zh": "这是社交媒体的时代。人们可以轻松地向广大受众分享自己的财富和地位,但他们需要考虑后果。在网上发布关于奢侈品购买和昂贵假期的内容可能有助于你说服他人并威慑竞争对手,但它也可能向潜在朋友或未来雇主发出信号,表明你不太可能考虑他人的需求。这使得那些既想给他人留下深刻印象又想表明自己是团队合作者的人处境尴尬。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Much evidence of humans capturing animals."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More images of animals than humans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Fewer images of buildings than animals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Little proof of human fascination with animals."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were open to the public."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were primarily native."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were kept by royalty."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were hardly injured."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To enable the public to watch animals close by."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To introduce to Egyptians animals from Punt."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To protect the endangered animals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To show off her riches and power."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was part of the royal estate."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was a shelter for wild animals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was the kingdom's best-equipped zoo."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was the first public exhibit of animals."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Human fascination with animals goes back as far as humans do. Of the oldest cave paintings discovered, some are up to 40,000 years old, and there are more images of animals than humans. At some point, humans began to capture and hold animals.",
+                "zh": "人类对动物的迷恋可以追溯到人类诞生之初。在已发现的最古老洞穴壁画中,有些距今已有4万年之久,其中动物图像多于人类图像。在某个时期,人类开始捕获和饲养动物。"
+              },
+              {
+                "en": "The first-known collections were held by royalty and were not open to the public. In Egypt, researchers have found buildings from around 3500 B.C., containing the remains of animals, including elephants, which were not native to Egypt. But life wasn't easy for these animals. They probably had short lives, and their remains show evidence of severe injuries.",
+                "zh": "已知最早的动物收藏由王室持有,不对公众开放。在埃及,研究人员发现了约公元前3500年的建筑,其中存有动物遗骸,包括并非埃及本土物种的大象。但这些动物的生活并不轻松。它们的寿命可能很短,其遗骸显示出严重受伤的痕迹。"
+              },
+              {
+                "en": "The first public exhibit of animals may have been created by Egypt's Queen Hatshepsut around 1480 B.C. Researchers think the zoo was started with animals brought home from a far-off land known as Punt. It's unclear why the Queen built the zoo, but it might have been to show off her wealth and power.",
+                "zh": "首个向公众展出的动物园可能由埃及女王Hatshepsut于公元前1480年左右建造。研究人员认为该动物园始于从一个名为Punt的遥远之地带回的动物。女王建造动物园的原因尚不清楚,但可能是为了炫耀她的财富和权力。"
+              },
+              {
+                "en": "Early zoos are found all over the world. In China, Emperor Wenwang is said to have built a \"Garden of Intelligence\" around 1060 B.C. It included deer, birds, and many fish. In England, King Henry I set up a collection of animals in about 1110 as part of the royal estate. His collection included tigers and lions. This collection eventually moved to the Tower of London in 1235. The collection stayed at that location for 600 years.",
+                "zh": "早期动物园遍布世界各地。在中国,据说周文王于公元前1060年左右建造了一座\"灵囿\",其中包括鹿、鸟类和许多鱼类。在英国,亨利一世国王于1110年左右在皇家庄园内设立了动物收藏。他的收藏包括老虎和狮子。这个收藏最终于1235年迁至伦敦塔。该收藏在那里保留了600年。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Psychologists have long been interested in how we construct our identities and the sorts of strategies that we use to present ourselves in society. New findings suggest that the kinds of"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "and strategic self- presentation behaviour we see in adults appear at a much younger age than"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "known. Research shows that a child's awareness of social standing comes from adults. Like grown-ups, kids want to be"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "by those they admire. Interactive experiences may provide opportunities for children to learn about what"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "a desirable reputation and the kinds of strategies that are effective for"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "a good reputation in their social environment. Five-year-olds aren't just aware of their reputations, they also behave strategically to alter their outward image. They will"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "their behaviour in order to appear moral or socially good in the eyes of key observers. While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "and use the fact that different attributes are valuable at different times to different"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ". It's important for us to further consider where in this process children succeed in controlling their reputation and where they"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ". A question to think about is, \"What happens even earlier than age five?\" Children don't just show up to the first day of kindergarten and have the idea of reputation pop"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "into existence. The logical question to ask is, \"What happens even earlier?\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "accepted"
+        },
+        {
+          "l": "B",
+          "w": "audiences"
+        },
+        {
+          "l": "C",
+          "w": "building"
+        },
+        {
+          "l": "D",
+          "w": "complex"
+        },
+        {
+          "l": "E",
+          "w": "constitutes"
+        },
+        {
+          "l": "F",
+          "w": "deputies"
+        },
+        {
+          "l": "G",
+          "w": "previously"
+        },
+        {
+          "l": "H",
+          "w": "revolving"
+        },
+        {
+          "l": "I",
+          "w": "samples"
+        },
+        {
+          "l": "J",
+          "w": "selected"
+        },
+        {
+          "l": "K",
+          "w": "solemn"
+        },
+        {
+          "l": "L",
+          "w": "struggle"
+        },
+        {
+          "l": "M",
+          "w": "suddenly"
+        },
+        {
+          "l": "N",
+          "w": "understand"
+        },
+        {
+          "l": "O",
+          "w": "vary"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "D"
+        },
+        {
+          "n": 27,
+          "a": "G"
+        },
+        {
+          "n": 28,
+          "a": "A"
+        },
+        {
+          "n": 29,
+          "a": "E"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "O"
+        },
+        {
+          "n": 32,
+          "a": "N"
+        },
+        {
+          "n": 33,
+          "a": "B"
+        },
+        {
+          "n": 34,
+          "a": "L"
+        },
+        {
+          "n": 35,
+          "a": "M"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Getting young minds into design",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Recently, a leading design federation in the UK warned that the UK could face a creative skills shortage, after the latest figures revealed a drop of almost 10 percent in students studying Design and Technology. These figures showed that the number of pupils that sat exams in Design and Technology fell 10 percent from 204,788 to 185,279 last year."
+        },
+        {
+          "l": "B",
+          "t": "Chief executive John Kampfner of the Creative Industries Federation thinks that this drop in figures has worrying implications for the skills pipeline in Britain's hugely successful arts and creative industries. He said, \"We already have skills shortages in many jobs such as animation(动画制作) and special effects.\" He added: \"Engineering, which requires a similar mix of creative and technical skills, also has recruitment problems.\""
+        },
+        {
+          "l": "C",
+          "t": "Many other designers and architects have expressed concern over the future supply of home-grown talent for UK firms, and industry bodies have pointed out that there has been a lack of roots-level support. However, if these designers had visited the Design Museum shop in London earlier this year their fears may have been eased. With £10 to spend, they could have bought a fascinating children's toy called \"Dazzle Racer\". An automotive cylinder(圆柱体), it included a wind-up, elastic(有弹性的)-band-powered mechanism, minimal parts, all 100 percent recycled, and lots of stickers. It was good fun, simple, eye-catching and very original."
+        },
+        {
+          "l": "D",
+          "t": "Well, you'd expect the Design Museum to commission and make some interesting items, but this one was different. Designed by a group of six Year 9 and Year 10 boys from Finchley Catholic High School, the toy was the winning entry in the museum's 2015 Design Ventura competition, which brings the business of design to life for students aged 13 to 16 by challenging them to develop a new creative, sustainable and commercially feasible product for the Design Museum shop and attracts hundreds of entries nationwide."
+        },
+        {
+          "l": "E",
+          "t": "\"We did Design Ventura in my previous school,\" says Liam Hourican, Finchley Catholic High School's design technology curriculum leader. \"Then when I changed schools four years ago, I introduced it here because it helps to develop so many skills.\""
+        },
+        {
+          "l": "F",
+          "t": "The theme for last year's competition was \"Move\", and Hourican began with three groups working in lunch breaks and after school before selecting the group with the most innovative idea. Each participating school may submit just one proposal. \"It's the taking part and doing the work which is important,\" he says. \"And I never dreamt we'd win.\""
+        },
+        {
+          "l": "G",
+          "t": "Catherine Ritman Smith, head of learning at the Design Museum, is expecting around 10,000 participants aged 13 to 16 to take part this year and says that the project—funded by Deutsche Bank as part of its youth engagement programme Born To Be—is the biggest event in the museum's calendar. \"We started Design Ventura with around 800 young people in 2010 and it has grown steadily since,\" she says. \"Teachers like it because the skills are all transferable and it helps to validate the value of design as a subject,\" she explains, telling me that nearly 600 schools have taken part so far."
+        },
+        {
+          "l": "H",
+          "t": "So how does the competition work? A single-word theme is announced in the summer. This year it is \"Change\". Schools work with groups to produce imaginative design ideas for a product in simple materials that could sell for £10 in the Design Museum shop. Participating schools then register by November and eventually submit their design idea. Along the way there is training and support for teachers and tutoring for students from designers. An additional bonus is when the winners see their design on sale in the spring of the following year."
+        },
+        {
+          "l": "I",
+          "t": "Hourican and his pupils have happy memories of spending a whole day at the museum, having been selected as one of 10 shortlisted schools to present their idea to a panel of judges, including designer Jasper Conran. Then they worked with the Kin Design Studio in Shoreditch, met designers at their school and attended a lunch with Deutsche Bank employees. The students helped to make decisions and there were plenty of discussions—they changed the product's name, for example."
+        },
+        {
+          "l": "J",
+          "t": "\"One of the really useful things about this competition,\" says Hourican, \"is that there's a commercial element because the product is going on sale for real and the boys had to learn about budgeting and marketing, as well as designing their game.\" Profits go to charity. \"The winning team chooses where it wants the profits to go,\" says Ritman Smith. \"The Finchley Catholic High School product raised about £1,000 for Great Ormond Street Hospital.\" Winning entries in past years have included a make-your-own cloth kit called Dove Bunting and a threefold, wallet-sized travel game with goals at each end, called Badoiiing."
+        },
+        {
+          "l": "K",
+          "t": "It costs the schools nothing to participate in Design Ventura; the professional designers provide their services for free. Among them are architect Asif Khan, a Design Museum trustee who has worked as designer-in- residence at the museum, helping emerging architects. He has recently been commissioned to design the new Museum of London building in Smithfield."
+        },
+        {
+          "l": "L",
+          "t": "Another is television presenter and interior designer Naomi Cleaver, who is one of the competition's judges. \"I'm very keen to encourage young people,\" she says, observing that design brings together other subjects such as literature, art, history, geography and science. \"Now that design education is limited in the curriculum, I'm all in favour of competitions such as Design Ventura, which helps to bring the standard curriculum to life,\" says Cleaver. \"And the judging day is terrific fun. Some of these students are very imaginative. One group presented their idea in the form of a puppet show and we see some marvelous demonstration models. I'm always impressed by the levels of confidence and the support the students get from their teachers.\""
+        },
+        {
+          "l": "M",
+          "t": "Ritman Smith adds: \"Design technology has become a tricky subject to make a case for, and we've heard of departments closing in some schools. We find that if pupils take part in Design Ventura in Year Nine it can be the trigger which leads them to opt for it at General Certificate of Secondary Education, so we are helping to keep alive something which is crucial to industry and entrepreneurship.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "During the course of preparing for Design Ventura, teachers receive training and support while students get tutoring from designers.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "A visit to the Design Museum shop in London can reduce the designers' fears about the future supply of talents educated in Britain.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "One of Design Ventura's judges says the competition adds vigour to the standard curriculum in schools.",
+          "a": "L"
+        },
+        {
+          "n": 39,
+          "s": "Enrollment in Design and Technology decreased by nearly ten percent last year in the UK.",
+          "a": "A"
+        },
+        {
+          "n": 40,
+          "s": "Participation of ninth graders in Design Ventura can motivate them to choose design technology as their subject.",
+          "a": "M"
+        },
+        {
+          "n": 41,
+          "s": "Design Ventura is welcomed by teachers because it helps to prove the worth of design as a school subject.",
+          "a": "G"
+        },
+        {
+          "n": 42,
+          "s": "The schools don't have to pay anything to take part in the Design Ventura competition.",
+          "a": "K"
+        },
+        {
+          "n": 43,
+          "s": "Participants in Design Ventura are challenged to create sustainable and marketable products.",
+          "a": "D"
+        },
+        {
+          "n": 44,
+          "s": "Students benefit from Design Ventura because they can learn about budgeting and marketing in addition to game design.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "According to an officer of the Creative Industries Federation, there is difficulty now in recruiting engineers in the UK.",
+          "a": "B"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "New research suggests that pandas may be at risk of dying out because they are too comfortable. Experts say too much happiness can stop the bears from searching for new mates. Environmentalists have long believed that building roads or homes near the bears may threaten their survival by \"reducing or fragmenting their natural: habitats\", The Times reported. But the new research suggests that a \"modest degree of discomfort and fragmentation\" may actually help preserve panda populations. The research was conducted by scientists from Michigan State University. It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity. For their study—outlined in a paper in the journal Conservation Biology—the team looked at genetic diversity and spread among a Chinese panda population. The ideal level of perfectly livable habitat was found to be only 80% of an area, with the remainder either too harsh or too affected by human activity. The experts concluded that pandas should ideally \"be happy enough to thrive, but not so content that they don't want to move around and find new mates\". Their conclusions about what The Guardian described as this \"sweet spot\" are in line with the so-called Goldilocks principle: that there can be just the right amount of something. The concept has been applied to a wide range of disciplines, from developmental psychology to economics and engineering. Claudio Sillero, a professor of conservation biology at Oxford University, told the newspaper that the new findings could have implications beyond panda conservation. \"Most large animals that eat meat live in increasingly fragmented landscapes,\" said Sillero, who was not involved in the research. \"It may well be that the messy nature of their relationship with human efforts induces more animals to scatter or travel further, and might result in greater genetic connectivity and enhanced population persistence.\" The most recent count of pandas found that there were more than 1,800 left in the wild, putting them on the list of vulnerable, but not endangered, species.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from new research about pandas?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are losing habitat due to the building of roads and houses."
+              },
+              {
+                "l": "B",
+                "t": "They have stopped seeking new mates for reproduction."
+              },
+              {
+                "l": "C",
+                "t": "They may not adapt to the fragmentation of their habitat."
+              },
+              {
+                "l": "D",
+                "t": "They may cease to exist as a result of enjoying too good a life."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 47,
+            "s": "What can we conclude from the new research by scientists at Michigan State University?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Environmentalists' long-time belief regarding panda conservation may be misleading."
+              },
+              {
+                "l": "B",
+                "t": "Housing development near pandas' homes may threaten their survival."
+              },
+              {
+                "l": "C",
+                "t": "Pandas' natural habitats are becoming less suitable for reproduction."
+              },
+              {
+                "l": "D",
+                "t": "The increased panda population is attributed to the fragmentation of their habitat."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What is the experts' conclusion regarding pandas?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is urgent to provide an ideal habitat for them to thrive."
+              },
+              {
+                "l": "B",
+                "t": "It is very important to preserve their genetic diversity."
+              },
+              {
+                "l": "C",
+                "t": "Their chances of finding new mates have a lot to do with their habitat."
+              },
+              {
+                "l": "D",
+                "t": "Their environment for survival has been continuously worsening."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What can we infer from the passage about the Goldilocks principle?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It needs to be confirmed by more studies on pandas."
+              },
+              {
+                "l": "B",
+                "t": "It applies to the preservation of pandas too."
+              },
+              {
+                "l": "C",
+                "t": "It has implications for future panda research."
+              },
+              {
+                "l": "D",
+                "t": "It can be used to locate the right spot for pandas."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What can the new findings do according to Professor Sillero?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Help discover new ways for the conservation of pandas."
+              },
+              {
+                "l": "B",
+                "t": "Help remove pandas from the list of endangered species."
+              },
+              {
+                "l": "C",
+                "t": "Shed light on the conservation of most large meat-eating animals."
+              },
+              {
+                "l": "D",
+                "t": "Show the complexity of interactions between humans and animals."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "With those born with natural talents, it feels as if they excel without really trying. But what about those of us who don't have a natural talent? We've been told all our lives that if you work hard, you too can succeed. But with the release of Angela Duckworth's Grit, we are given a new key to success. \"As much as talent counts, effort counts twice,\" says Duckworth in Grit. She introduces a new concept that talent may be overrated, and if you want real success, what you need is grit, the perfect combination of passion and persistence. Even if you have natural talent, it's nothing without grit. Duckworth says grit is the difference between success and failure. A person who has grit is more likely to succeed than a person who does not. When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn. If you want that new job, you have to learn the job skills, then the interview skills, then the dress part—and you must be perfect at all of them. Grit is different because it tells us that perfection isn't the goal. Grit lifts the unreasonable expectations off our shoulders. Grit tells us that the door is open wider than we first thought possible. Grit allows us to redefine our goals. Think about it: what's something you've always wanted to do, but gave up because you \"don't have the skills for it\"? What's something you love but aren't good at? The real workings of grit are to have sustainable passion and continue to try. Effort means more than your natural ability. Even if you haven't mastered a skill, grit tells you that you can still succeed if you can transform your passion into action. In a way, Duckworth is giving new hope to people who have shut the doors on their dreams. She is saying it is possible that you can accomplish anything. If at first you fail, then try one more time with grit.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the passage say about people born with natural talents?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They seem to outdo others without hard work."
+              },
+              {
+                "l": "B",
+                "t": "They appear to know all the secrets to success."
+              },
+              {
+                "l": "C",
+                "t": "They feel it only too logical to succeed."
+              },
+              {
+                "l": "D",
+                "t": "They are bound to excel effortlessly."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What does Duckworth say about talent?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is a new concept much too overrated."
+              },
+              {
+                "l": "B",
+                "t": "It proves necessary for big achievements."
+              },
+              {
+                "l": "C",
+                "t": "It plays a lesser role in one's success."
+              },
+              {
+                "l": "D",
+                "t": "It is a guarantee for real success in life."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What does the passage say about people thinking of attaining success?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are puzzled how to present their best to the employer."
+              },
+              {
+                "l": "B",
+                "t": "They are burdened by their expectation of perfection."
+              },
+              {
+                "l": "C",
+                "t": "They will try hard to land a job that fits their skills best."
+              },
+              {
+                "l": "D",
+                "t": "They will find themselves lacking in all the skills they need."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "How does the author think grit can be helpful to us?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It allows us to know what we are good at."
+              },
+              {
+                "l": "B",
+                "t": "It opens our eyes to new opportunities."
+              },
+              {
+                "l": "C",
+                "t": "It focuses our attention on what we do."
+              },
+              {
+                "l": "D",
+                "t": "It lets us reconsider the goals to achieve."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What message does Duckworth try to convey in her book Grit?",
+            "o": [
+              {
+                "l": "A",
+                "t": "We should perfect ourselves to ensure success."
+              },
+              {
+                "l": "B",
+                "t": "We should stay persistent even in face of failures."
+              },
+              {
+                "l": "C",
+                "t": "We can never master a skill without constant practice."
+              },
+              {
+                "l": "D",
+                "t": "We can never expect to reach our goals without passion."
+              }
+            ],
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "被誉为\"杂交水稻(hybrid rice)之父\"的袁隆平和他的科研团队克服重重困难,研发出了一种超级杂交水稻。 这项技术获得了举世公认的巨大成功。通过这项技术的应用,水稻抗旱抗病能力更强,能适应不同的气候和土壤 条件,产量可提高20-30%。超级杂交水稻营养丰富,口感更佳。目前,这项技术已经在许多国家得到广泛应用,为 全球粮食安全做出了重大贡献。",
+    "reference": "Yuan Longping, known as the father of hybrid rice, and his research team, overcoming numerous difficulties, developed a super hybrid rice. This technology has achieved great success recognized worldwide. With the application of this technology, the rice has stronger resistance to drought and disease and can adapt to different climates and soil conditions, and its yield can increase by 20 to 30 percent. Super hybrid rice is rich in nutrition and tastes better. Currently, this technology has been widely applied in many countries, making great contributions to global food security."
+  }
+}

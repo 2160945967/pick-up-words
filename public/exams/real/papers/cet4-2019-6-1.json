@@ -1,0 +1,1276 @@
+{
+  "id": "cet4-2019-6-1",
+  "level": "cet4",
+  "year": 2019,
+  "month": 6,
+  "set": 1,
+  "title": "2019年6月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a news report to your campus newspaper on a visit to a local farm organized by your Student Union. You should write at least 120 words but no more than 180 words.",
+    "sample": "Last Saturday, a group of students from our university paid a visit to Green Valley Farm on the outskirts of the city. The trip was organized by our Student Union to bring campus life closer to nature and rural work.During the visit, participants were led around the farm by an experienced farmer. They watched how vegetables were planted, fed the chickens and sheep, and even tried picking ripe strawberries themselves. Many students said it was their first time to see how the food on their tables was actually produced. The fresh air and the busy scene left everyone excited and curious.When the trip ended, students agreed that they had gained far more than a pleasant day out. They learned to respect farmers' hard work and to value every grain of food. The Student Union announced that more such activities would be arranged, so that students could learn beyond textbooks and grow through real experience."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He set a record by swimming to and from an island."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He celebrated his ninth birthday on a small island."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He visited a prison located on a faraway island."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He swam around an island near San Francisco."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He doubled the reward."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He set him an example."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He cheered him on all the way."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He had the event covered on TV.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A 9-year-old Central California boy braved strong currents and cold water to swim from San Francisco to Alcatraz Island and back. A California television station in Fresno reported Tuesday that James Savage set a record as the youngest swimmer to make the journey to the former prison. The TV station reported that by completing the swim, the fourth-grade student from Los Banos broke a record previously held by a 10-year-old boy. James said that waves in the San Francisco Bay hitting him in the face 30 minutes into his swim made him want to give up. His father said he had offered his son $100 as a reward; to encourage his struggling son, he doubled it to $200. James pushed forward, making it to Alcatraz Island and back in a little more than two hours. Alcatraz is over a mile from the mainland.",
+                "zh": "加州中部一名9岁男孩勇敢地在强水流和冰冷的海水中游泳，从旧金山游到恶魔岛再游回来。加州Fresno的一家电视台周二报道称，James Savage创下了完成这段前往这座前监狱旅程的最年轻游泳者纪录。该电视台报道称，通过完成这次游泳，这名来自Los Banos的四年级学生打破了此前由一名10岁男孩保持的纪录。James说，在他游泳30分钟后，旧金山湾的海浪拍打他的脸，让他想要放弃。他的父亲说，他曾向儿子提供100美元作为奖励；为了鼓励苦苦挣扎的儿子，他把奖金翻倍到200美元。James奋力前进，在两个多小时内游到恶魔岛并返回。恶魔岛距离大陆超过一英里。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To end the one-child policy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To encourage late marriage."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To increase working efficiency."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To give people more time to travel."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They will not be welcomed by young people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They will help to popularize early marriage."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They will boost China's economic growth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They will not come into immediate effect.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "On the 1st of January, new regulations will come into effect which eliminate an annual leave bonus for people who put off marrying until the age of 23 for women, and 25 for men, the South China Morning Post reports. The holiday bonus was designed to encourage young people to delay getting married in line with China's one-child policy. But with that policy now being abolished, this holiday incentive is no longer necessary, the government says. In Shanghai, a young couple at a marriage registration office told the paper that they decided to register their marriage as soon as possible to take advantage of the existing policy, because an extra holiday was a big deal for them. In Beijing, one registration office had about 300 couples seeking to get married the day after the changes were announced, rather than the usual number of between 70 and 80. But one lawyer tells the paper that the changes still have to be adopted by local governments and these procedures take time. So people who are rushing to register for marriage can relax.",
+                "zh": "据《南华早报》报道,1月1日起新规定将生效,取消对推迟到女性23岁、男性25岁结婚的人员的年假奖励。这项假期奖励旨在鼓励年轻人推迟结婚以符合中国的独生子女政策。但政府表示,随着该政策现已废止,这一假期激励措施不再必要。在上海,一对在婚姻登记处的年轻夫妇告诉该报,他们决定尽快登记结婚以利用现行政策,因为额外假期对他们来说是件大事。在北京,一家登记处在变更宣布后的第二天有约300对夫妇寻求结婚登记,而非通常的70到80对。但一位律师告诉该报,这些变更仍需由地方政府采纳,这些程序需要时间。因此急于登记结婚的人们可以放松。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cleaning service in great demand all over the world."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Two ladies giving up well-paid jobs to do cleaning."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A new company to clean up the mess after parties."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cleaners gainfully employed at nights and weekends."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It takes a lot of time to prepare."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It leaves the house in a mess."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It makes party goers exhausted."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It creates noise and misconduct."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Hire an Australian lawyer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Visit the U.S. and Canada."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Settle a legal dispute."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Expand their business."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Everyone loves a good house party, but the cleaning-up the next morning isn't as enjoyable. Now, however, a New Zealand-based start-up company aims to bring messy homes—and even splitting headaches—back to normal. The properly-named start-up Morning-After Maids was launched about a month ago in Auckland by roommates Rebecca Foley and Catherine Ashurst. Aside from cleaning-up, the two will also cook breakfast and even get coffee and painkillers for recovering merrymakers. Although they are both gainfully employed, they fit cleaning jobs into their nights and weekends, which is when their service is in most demand anyway. Besides being flooded with requests from across the country, Foley and Ashurst have also received requests from the U.S. and Canada to provide services there. They are reportedly meeting with lawyers to see how best to take the business forward.",
+                "zh": "每个人都喜欢一场精彩的家庭派对，但第二天早上的清理工作就没那么令人愉快了。然而现在，一家新西兰初创公司旨在让凌乱的家——甚至是剧烈的头痛——恢复正常。这家名副其实的初创公司Morning-After Maids大约一个月前由室友Rebecca Foley和Catherine Ashurst在奥克兰创立。除了清理之外，两人还会做早餐，甚至为恢复中的狂欢者准备咖啡和止痛药。尽管她们都有稳定的工作，但她们会在晚上和周末安排清洁工作，而这也是她们的服务需求最旺盛的时候。除了收到来自全国各地的大量请求外，Foley和Ashurst还收到了来自美国和加拿大提供服务的请求。据报道，她们正在与律师会面，研究如何最好地推进业务。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He had a driving lesson."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He got his driver's license."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He took the driver's theory exam."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He passed the driver's road test."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He was not well prepared."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He did not get to the exam in time."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was not used to the test format."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He did not follow the test procedure."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are tough."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are costly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are helpful."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are too short."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Pass his road test the first time."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Test-drive a few times on highways."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Find an experienced driving instructor."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Earn enough money for driving lessons.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Kyle, how did your driver's theory exam go? It was yesterday, right?",
+                "zh": "W: Kyle,你的驾驶理论考试怎么样?是昨天考的,对吧?"
+              },
+              {
+                "en": "M: Yes. I prepared as much as I could, but I was so nervous since it was my second try. The people who worked at the test center were very kind, though. We had a little conversation which calmed me down a bit, and that was just what I needed. Then, after the exam, they printed out my result, but I was afraid to open it until I was outside. It was such a relief to pass.",
+                "zh": "M: 是的。我尽可能做了准备,但我还是很紧张,因为这是我第二次考了。不过考试中心的工作人员都很友善。我们聊了一会儿,这让我平静了一些,这正是我需要的。然后,考试结束后,他们打印出了我的成绩,但我不敢打开,直到走到外面才看。通过考试真是让我松了一口气。"
+              },
+              {
+                "en": "W: Congratulations! I knew you could do it! I guess you underestimated how difficult it would be the first time, didn't you? I hear a lot of people make that mistake and go in underprepared, but good job in passing the second time. I'm so proud of you. Now, all you have to do next is your road test. Have you had any lessons yet?",
+                "zh": "W: 恭喜你!我就知道你能行!我猜你第一次低估了考试的难度,是不是?我听说很多人都犯这个错误,准备不足就去考试了,不过第二次就通过了,干得好。我真为你感到骄傲。现在,你接下来要做的就是路考了。你上过课了吗?"
+              },
+              {
+                "en": "M: Yes, thanks. I'm so happy to be actually on the road now. I've only had two driving lessons so far, and my instructor is very understanding. So I'm really enjoying it. And I can't wait for my next session, although the lessons are rather expensive, £20 an hour. And the instructor says I'll need about 30 to 40 lessons in total. That's what—six to eight hundred pounds. So this time I'll need to make a lot more effort and hopefully will be successful the first time.",
+                "zh": "M: 上过了,谢谢。我很高兴现在终于能上路了。到目前为止我只上了两节驾驶课,我的教练很体贴。所以我真的很享受。我等不及下一节课了,虽然课程相当贵,每小时20英镑。教练说我总共需要大约30到40节课。那就是——六百到八百英镑。所以这次我需要付出更多努力,希望能第一次就成功。"
+              },
+              {
+                "en": "W: Well, good luck.",
+                "zh": "W: 嗯,祝你好运。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Where the woman studies."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The acceptance rate at Leeds."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Leeds' tuition for international students."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How to apply for studies at a university."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Apply to an American university."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Do research on higher education."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Perform in a famous musical."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Pursue postgraduate studies."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His favorable recommendations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His outstanding musical talent."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His academic excellence."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His unique experience."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Do a master's degree."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Settle down in England."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Travel widely."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Teach overseas."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Emma, I got accepted to the University of Leeds. Since you're going to university in England, do you know how much it is for international students to study there?",
+                "zh": "M: Emma，我被利兹大学录取了。既然你要去英国上大学，你知道国际学生在那里学习要花多少钱吗？"
+              },
+              {
+                "en": "W: Congratulations! Yes, I believe for international students, you'll have to pay around £13,000 a year. It's just a bit more than the local students.",
+                "zh": "W: 恭喜你！是的，我记得国际学生每年要付大约13,000英镑。这只比本地学生多一点。"
+              },
+              {
+                "en": "M: Okay, so that's about $17,000 for the tuition and fees. Anyway, I'm only going to be there for a year, doing my master's. So it's pretty good. If I stayed in the U.S., it'd take two years and cost at least $50,000 in tuition alone. Also, I have a good chance of winning a scholarship at Leeds, which would be pretty awesome, the benefits of being a music genius.",
+                "zh": "M: 好的，那学费和杂费大概是17,000美元。不管怎样，我只会在那里待一年，读硕士。所以挺不错的。如果我留在美国，要读两年，光学费就至少要50,000美元。而且，我在利兹很有机会拿到奖学金，那就太棒了，这就是音乐天才的好处。"
+              },
+              {
+                "en": "W: Yeah, I heard you're a talented piano player. So you're doing a postgraduate degree now? I'm still in my last year, graduating next June. Finally, I'll be done with my studies, and could go on to earning loads of money.",
+                "zh": "W: 是啊，我听说你是个很有才华的钢琴演奏者。所以你现在在读研究生学位？我还在读最后一年，明年六月毕业。终于要完成学业了，可以去挣大钱了。"
+              },
+              {
+                "en": "M: Are you still planning on being a teacher? No money in that job then.",
+                "zh": "M: 你还打算当老师吗？那份工作可没什么钱赚。"
+              },
+              {
+                "en": "W: You'd be surprised. I'm still going to be a teacher. But the plan is to work at an international school overseas, after I get a year or so of the experience in England. It's better pay, and I get to travel, which reminds me I'm late for my class and I've got some documents I need to print out first. I'd better run.",
+                "zh": "W: 你会惊讶的。我还是要当老师。但计划是在英国获得一年左右的经验后，去海外的国际学校工作。薪水更高，而且我还能旅行，这提醒我上课要迟到了，我还有些文件需要先打印出来。我得赶紧走了。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They help farmers keep diseases in check."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Many species remain unknown to scientists."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Only a few species cause trouble to humans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They live in incredibly well-organized colonies."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are larger than many other species."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can cause damage to people's homes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can survive a long time without water."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They like to form colonies in electrical units."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Deny them access to any food."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Keep doors and windows shut."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Destroy their colonies close by."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Refrain from eating sugary food.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Scientists have identified thousands of known ant species around the world—and only a few of them bug humans. Most ants live in the woods or out in nature. There, they keep other creatures in check, distribute seeds, and clean dead and decaying materials from the ground. A very small percentage of ants do harm to humans. But those are incredibly challenging to control. They are small enough to easily slip inside your house, live in colonies that number in the tens of thousands to the hundreds of thousands, and reproduce quickly. That makes them good at getting in, and hard to kick out. Once they settle in, these insects start affecting your home. In addition to biting ants, other species can cause different kinds of damage. Some, like carpenter ants, can undermine a home's structure, while others interfere with electrical units. Unfortunately, our homes are very attractive to ants, because they provide everything the colony needs to survive, such as food, water, and shelter. So how can we prevent ants from getting into our homes? Most important of all, avoid giving ants any access to food, particularly sugary food, because ants have a sweet tooth. We also need to clean up spills as soon as they occur and store food in airtight containers. Even garbage attracts ants, so empty your trash as often as possible, and store your outside garbage in a lidded can, well away from doors and windows.",
+                "zh": "科学家已在全球范围内识别出数千种已知的蚂蚁物种，其中只有少数会侵扰人类。大多数蚂蚁生活在树林或自然环境中。在那里,它们控制其他生物的数量,传播种子,并清理地面上的死亡和腐烂物质。只有极小比例的蚂蚁会对人类造成危害。但这些蚂蚁极难控制。它们体型小到足以轻易溜进你的房子,生活在数量达数万到数十万只的群体中,且繁殖迅速。这使得它们善于入侵,却难以驱逐。一旦它们定居下来,这些昆虫就开始影响你的家。除了叮咬人的蚂蚁外,其他物种还会造成不同种类的损害。有些蚂蚁,如木匠蚁,会破坏房屋结构,而其他蚂蚁则会干扰电气设备。不幸的是,我们的家对蚂蚁非常有吸引力,因为它们提供了蚁群生存所需的一切,如食物、水和庇护所。那么我们如何防止蚂蚁进入我们的家呢?最重要的是,避免让蚂蚁接触到任何食物,特别是含糖食物,因为蚂蚁喜欢甜食。我们还需要在溢洒发生后立即清理,并将食物储存在密封容器中。即使是垃圾也会吸引蚂蚁,所以要尽可能频繁地清空垃圾,并将室外垃圾存放在带盖的垃圾桶中,远离门窗。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The function of the human immune system."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The cause of various auto-immune diseases."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The viruses that may infect the human immune system."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The change in people's immune system as they get older."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Report their illnesses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Offer blood samples."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Act as research assistants."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Help to interview patients."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Strengthening people's immunity to infection."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Better understanding patients' immune system."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Helping improve old people's health conditions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Further reducing old patients' medical expenses.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "My research focus is on what happens to our immune system as we age. So the job of the immune system is to fight infections. It also protects us from viruses and from auto-immune diseases. We know that as we get older, it's easier for us to get infections. So, older adults have more chances of falling ill. This is evidence that our immune system really doesn't function so well when we age. In most of our work when we're looking at older adults who've got an illness, we always have to have health controls. So we work very closely with a great group of volunteers called \"The 1,000 Elders.\" These volunteers are all 65 or over but in good health. They come to the university to provide us with blood samples, to be interviewed and to help us carry out a whole range of research. The real impact of our research is going to be on health in old age. At the moment we're living much longer, life expectancy is increasing at two years for every decade. That means an extra five hours a day. I want to make sure that older adults are still able to enjoy their old age and that they're not spending time in hospital with infections, feeling unwell and being generally weak. We want people to be healthy even when they are old.",
+                "zh": "我的研究重点是随着年龄增长我们的免疫系统会发生什么变化。免疫系统的作用是对抗感染。它还保护我们免受病毒和自身免疫性疾病的侵害。我们知道随着年龄增长,我们更容易受到感染。因此,老年人有更多机会生病。这证明了当我们衰老时,免疫系统确实功能不太好。在我们的大部分工作中,当我们研究患病的老年人时,我们总是必须有健康对照组。因此我们与一个名为'千位长者'的优秀志愿者团体密切合作。这些志愿者都在65岁或以上但身体健康。他们来到大学为我们提供血液样本,接受访谈,并帮助我们开展各种研究。我们研究的真正影响将体现在老年健康上。目前我们的寿命更长了,预期寿命每十年增加两年。这意味着每天额外增加五个小时。我想确保老年人仍然能够享受他们的晚年,而不是把时间花在医院里应对感染、感觉不适和普遍虚弱。我们希望人们即使在年老时也能保持健康。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His students had trouble getting on with each other."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A lot of kids stayed at school to do their homework."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His students were struggling to follow his lessons."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A group of kids were playing chess after school."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Visit a chess team in Nashville."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Join the school's chess team."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Participate in a national chess competition."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Receive training for a chess competition."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Most of them come from low-income families."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Many have become national chess champions."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A couple of them have got involved in crimes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many became chess coaches after graduation."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Actions speak louder than words."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Think twice before taking action."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Translate their words into action."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Take action before it gets too late."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "When Ted Komada started teaching 14 years ago at Killip Elementary, he didn't know how to manage a classroom and was struggling to connect with students. He noticed a couple of days after school that a group of kids would get together to play chess. \"I know how to play chess. Let me go and show these kids how to do it,\" he said. Now Komada coaches the school's chess team. The whole program started as a safe place for kids to come after school. And this week dozens of those students are getting ready to head out to Nashville Tennessee, to compete with about 5,000 other young people at the SuperNationals of chess. The competition only happens every four years and the last time the team went, they won the third place in the nation. Komada says chess gives him, and his students, control. The school has the highest number of kids from low-income families. Police frequent the area day and night, as two months ago, a young man was shot just down the street. Komada likes to teach his students that they should think about their move before they do it. The lessons prove valuable outside the classroom as well. Many parents see these lessons translate into the real world. Students are more likely to think about their actions and see whether they will lead to trouble.",
+                "zh": "14年前Ted Komada开始在Killip小学任教时，他不知道如何管理课堂，也很难与学生建立联系。他注意到放学后有几天，一群孩子会聚在一起下国际象棋。\"我会下国际象棋，让我去教这些孩子怎么下，\"他说。现在Komada执教学校的国际象棋队。整个项目最初是作为孩子们放学后的一个安全场所。本周，数十名学生正准备前往田纳西州Nashville，与大约5000名其他年轻人一起参加国际象棋SuperNationals比赛。这项赛事每四年才举办一次，上次该队参赛时，他们赢得了全国第三名。Komada说，国际象棋给了他和他的学生掌控感。这所学校拥有最多来自低收入家庭的孩子。警察日夜频繁巡逻该地区，因为两个月前，就在街道下面有一名年轻人遭到枪击。Komada喜欢教导学生在行动之前要思考自己的举动。这些教训在课堂之外也证明是有价值的。许多家长看到这些教训转化到现实世界中。学生更可能思考自己的行为，并考虑这些行为是否会导致麻烦。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The center of American automobile innovation has in the past decade moved 2,000 miles away. It has"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "from Detroit to Silicon Valley, where self-driving vehicles are coming into life. In a"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "to take production back to Detroit, Michigan lawmakers have introduced"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "that could make their state the best place in the country, if not the world, to develop self-driving vehicles and put them on the road. \"Michigan's"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "in auto research and development is under attack from several states and countries which desire to"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "our leadership in transportation. We can't let that happen,\" says Senator Mike Kowall, the lead"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "of four bills recently introduced. If all four bills pass as written, they would"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "a substantial update of Michigan's 2013 law that allowed the testing of self-driving vehicles in limited conditions. Manufacturers would have nearly total freedom to test their self-driving technology on public roads. They would be allowed to send groups of self-driving cars on cross-state road trips, and even set up on-demand"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "of self-driving cars, like the one General Motors and Lyft are building. Lawmakers in Michigan clearly want to make the state ready for the commercial application of self-driving technology. In"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ", California, home of Silicon Valley, recently proposed far more"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "rules that would require human drivers to be ready to take the wheel, and ban commercial use of self-driving technology."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "bid"
+        },
+        {
+          "l": "B",
+          "w": "contrast"
+        },
+        {
+          "l": "C",
+          "w": "deputy"
+        },
+        {
+          "l": "D",
+          "w": "dominance"
+        },
+        {
+          "l": "E",
+          "w": "fleets"
+        },
+        {
+          "l": "F",
+          "w": "knots"
+        },
+        {
+          "l": "G",
+          "w": "legislation"
+        },
+        {
+          "l": "H",
+          "w": "migrated"
+        },
+        {
+          "l": "I",
+          "w": "replace"
+        },
+        {
+          "l": "J",
+          "w": "represent"
+        },
+        {
+          "l": "K",
+          "w": "restrictive"
+        },
+        {
+          "l": "L",
+          "w": "reward"
+        },
+        {
+          "l": "M",
+          "w": "significant"
+        },
+        {
+          "l": "N",
+          "w": "sponsor"
+        },
+        {
+          "l": "O",
+          "w": "transmitted"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "H"
+        },
+        {
+          "n": 27,
+          "a": "A"
+        },
+        {
+          "n": 28,
+          "a": "G"
+        },
+        {
+          "n": 29,
+          "a": "D"
+        },
+        {
+          "n": 30,
+          "a": "I"
+        },
+        {
+          "n": 31,
+          "a": "N"
+        },
+        {
+          "n": 32,
+          "a": "J"
+        },
+        {
+          "n": 33,
+          "a": "E"
+        },
+        {
+          "n": 34,
+          "a": "B"
+        },
+        {
+          "n": 35,
+          "a": "K"
+        }
+      ]
+    },
+    "matching": {
+      "title": "How Work Will Change When Most of Us Live to 100",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Today in the United States there are 72,000 centenarians(百岁老人). Worldwide, probably 450,000. If current trends continue, then by 2050 there will be more than a million in the US alone. According to the work of Professor James Vaupel and his co-researchers, 50% of babies born in the US in 2007 have a life expectancy of 104 or more. Broadly the same holds for the UK, Germany, France, Italy and Canada, and for Japan 50% of 2007 babies can expect to live to 107."
+        },
+        {
+          "l": "B",
+          "t": "Understandably, there are concerns about what this means for public finances given the associated health and pension challenges. These challenges are real, and society urgently needs to address them. But it is also important to look at the wider picture of what happens when so many people live for 100 years. It is a mistake to simply equate longevity(长寿) with issues of old age. Longer lives have implications for all of life, not just the end of it."
+        },
+        {
+          "l": "C",
+          "t": "Our view is that if many people are living for longer, and are healthier for longer, then this will result in an inevitable redesign of work and life. When people live longer, they are not only older for longer, but also younger for longer. There is some truth in the saying that \"70 is the new 60\" or \"40 the new 30.\" If you age more slowly over a longer time period, then you are in some sense younger for longer."
+        },
+        {
+          "l": "D",
+          "t": "But the changes go further than that. Take, for instance, the age at which people make commitments such as buying a house, getting married, having children, or starting a career. These are all fundamental commitments that are now occurring later in life. In 1962, 50% of Americans were married by age 21. By 2014, that milestone(里程碑) had shifted to age 29."
+        },
+        {
+          "l": "E",
+          "t": "While there are numerous factors behind these shifts, one factor is surely a growing realization for the young that they are going to live longer. Options are more valuable the longer they can be held. So if you believe you will live longer, then options become more valuable, and early commitment becomes less attractive. The result is that the commitments that previously characterized the beginning of adulthood are now being delayed, and new patterns of behavior and a new stage of life are emerging for those in their twenties."
+        },
+        {
+          "l": "F",
+          "t": "Longevity also pushes back the age of retirement, and not only for financial reasons. Yes, unless people are prepared to save a lot more, our calculations suggest that if you are now in your mid-40s, then you are likely to work until your early 70s; and if you are in your early 20s, there is a real chance you will need to work until your late 70s or possibly even into your 80s. But even if people are able to economically support a retirement at 65, over thirty years of potential inactivity is harmful to cognitive( 认知的) and emotional vitality. Many people may simply not want to do it."
+        },
+        {
+          "l": "G",
+          "t": "And yet that does not mean that simply extending our careers is appealing. Just lengthening that second stage of full-time work may secure the financial assets needed for a 100-year life, but such persistent work will inevitably exhaust precious intangible assets such as productive skills, vitality, happiness, and friendship."
+        },
+        {
+          "l": "H",
+          "t": "The same is true for education. It is impossible that a single shot of education, administered in childhood and early adulthood, will be able to support a sustained, 60-year career. If you factor in the projected rates of technological change, either your skills will become unnecessary, or your industry outdated. That means that everyone will, at some point in their life, have to make a number of major reinvestments in their skills."
+        },
+        {
+          "l": "I",
+          "t": "It seems likely, then, that the traditional three-stage life will evolve into multiple stages containing two, three, or even more different careers. Each of these stages could potentially be different. In one the focus could be on building financial success and personal achievement, in another on creating a better work/life balance, still another on exploring and understanding options more fully, or becoming an independent producer, yet another on making a social contribution. These stages will span sectors, take people to different cities, and provide foundation for building a wide variety of skills."
+        },
+        {
+          "l": "J",
+          "t": "Transitions between stages could be marked with sabbaticals(休假) as people find time to rest and recharge their health, re-invest in their relationships, or improve their skills. At times, these breaks and transitions will be self-determined, at others they will be forced as existing roles, firms, or industries cease to exist."
+        },
+        {
+          "l": "K",
+          "t": "A multi-stage life will have profound changes not just in how you manage your career, but also in your approach to life. An increasingly important skill will be your ability to deal with change and even welcome it. A three-stage life has few transitions, while a multi-stage life has many. That is why being self-aware, investing in broader networks of friends, and being open to new ideas will become even more crucial skills."
+        },
+        {
+          "l": "L",
+          "t": "These multi-stage lives will create extraordinary variety across groups of people simply because there are so many ways of sequencing the stages. More stages mean more possible sequences."
+        },
+        {
+          "l": "M",
+          "t": "With this variety will come the end of the close association of age and stage. In a three-stage life, people leave university at the same time and the same age, they tend to start their careers and family at the same age, they proceed through middle management all roughly the same time, and then move into retirement within a few years of each other. In a multi-stage life, you could be an undergraduate at 20, 40, or 60; a manager at 30, 50, or 70; and become an independent producer at any age."
+        },
+        {
+          "l": "N",
+          "t": "Current life structures, career paths, educational choices, and social norms are out of tune with the emerging reality of longer lifespans. The three-stage life of full-time education, followed by continuous work, and then complete retirement may have worked for our parents or even grandparents, but it is not relevant today. We believe that to focus on longevity as primarily an issue of aging is to miss its full implications. Longevity is not necessarily about being older for longer. It is about living longer, being older later, and being younger longer."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "An extended lifespan in the future will allow people to have more careers than now.",
+          "a": "I"
+        },
+        {
+          "n": 37,
+          "s": "Just extending one's career may have both positive and negative effects.",
+          "a": "G"
+        },
+        {
+          "n": 38,
+          "s": "Nowadays, many Americans have on average delayed their marriage by some eight years.",
+          "a": "D"
+        },
+        {
+          "n": 39,
+          "s": "Because of their longer lifespan, young people today no longer follow the pattern of life of their parents or grandparents.",
+          "a": "N"
+        },
+        {
+          "n": 40,
+          "s": "More people will be expected to live over 100 by the mid-21st century.",
+          "a": "A"
+        },
+        {
+          "n": 41,
+          "s": "A longer life will cause radical changes in people's approach to life.",
+          "a": "K"
+        },
+        {
+          "n": 42,
+          "s": "Fast technological change makes it necessary for one to constantly upgrade their skills.",
+          "a": "H"
+        },
+        {
+          "n": 43,
+          "s": "Many people may not want to retire early because it would do harm to their mental and emotional well- being.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "The close link between age and stage may cease to exist in a multi-stage life.",
+          "a": "M"
+        },
+        {
+          "n": 45,
+          "s": "People living a longer and healthier life will have to rearrange their work and life.",
+          "a": "C"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "In the classic marriage vow(誓约), couples promise to stay together in sickness and in health. But a new study finds that the risk of divorce among older couples rises when the wife—not the husband—becomes seriously ill. \"Married women diagnosed with a serious health condition may find themselves struggling with the impact of their disease while also experiencing the stress of divorce,\" said researcher Amelia Karraker. Karraker and co-author Kenzie Latham analyzed 20 years of data on 2,717 marriages from a study conducted by Indiana University since 1992. At the time of the first interview, at least one of the partners was over the age of 50. The researchers examined how the onset(发生) of four serious physical illnesses affected marriages. They found that, overall, 31% of marriages ended in divorce over the period studied. The incidence of new chronic(慢 性的) illness onset increased over time as well, with more husbands than wives developing serious health problems. \"We found that women are doubly vulnerable to marital break-up in the face of illness,\" Karraker said. \"They're more likely to be widowed, and if they're the ones who become ill, they're more likely to get divorced.\" While the study didn't assess why divorce is more likely when wives but not husbands become seriously ill, Karraker offers a few possible reasons. \"Gender norms and social expectations about caregiving may make it more difficult for men to provide care to sick spouses,\" Karraker said. \"And because of the imbalance in marriage markets, especially in older ages, divorced men have more choices among prospective partners than divorced women.\" Given the increasing concern about health care costs for the aging population, Karraker believes policymakers should be aware of the relationship between disease and risk of divorce. \"Offering support services to spouses caring for their other halves may reduce marital stress and prevent divorce at older ages,\" she said. \"But it's also important to recognize that the pressure to divorce may be health- related and that sick ex-wives may need additional care and services to prevent worsening health and increased health costs.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What can we learn about marriage vows from the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may not guarantee a lasting marriage."
+              },
+              {
+                "l": "B",
+                "t": "They are as binding as they used to be."
+              },
+              {
+                "l": "C",
+                "t": "They are not taken seriously any more."
+              },
+              {
+                "l": "D",
+                "t": "They may help couples tide over hard times."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What did Karraker and co-author Kenzie Latham find about elderly husbands?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are generally not good at taking care of themselves."
+              },
+              {
+                "l": "B",
+                "t": "They can become increasingly vulnerable to serious illnesses."
+              },
+              {
+                "l": "C",
+                "t": "They can develop different kinds of illnesses just like their wives."
+              },
+              {
+                "l": "D",
+                "t": "They are more likely to contract serious illnesses than their wives."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What does Karraker say about women who fall ill?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are more likely to be widowed."
+              },
+              {
+                "l": "B",
+                "t": "They are more likely to get divorced."
+              },
+              {
+                "l": "C",
+                "t": "They are less likely to receive good care."
+              },
+              {
+                "l": "D",
+                "t": "They are less likely to bother their spouses."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "Why is it more difficult for men to take care of their sick spouses according to Karraker?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are more accustomed to receiving care."
+              },
+              {
+                "l": "B",
+                "t": "They find it more important to make money for the family."
+              },
+              {
+                "l": "C",
+                "t": "They think it more urgent to fulfill their social obligations."
+              },
+              {
+                "l": "D",
+                "t": "They expect society to do more of the job."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What does Karraker think is also important?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Reducing marital stress on wives."
+              },
+              {
+                "l": "B",
+                "t": "Stabilizing old couples' relations."
+              },
+              {
+                "l": "C",
+                "t": "Providing extra care for divorced women."
+              },
+              {
+                "l": "D",
+                "t": "Making men pay for their wives' health costs."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "If you were like most children, you probably got upset when your mother called you by a sibling's(兄弟姐 妹的) name. How could she not know you? Did it mean she loved you less? Probably not. According to the first research to tackle this topic head-on, misnaming the most familiar people in our life is a common cognitive(认知的) error that has to do with how our memories classify and store familiar names. The study, published online in April in the journal Memory and Cognition, found that the \"wrong\" name is not random but is invariably fished out from the same relationship pond: children, siblings, friends. The study did not examine the possibility of deep psychological significance to the mistake, says psychologist David Rubin, \"but it does tell us who's in and who's out of the group.\" The study also found that within that group, misnamings occurred where the names shared initial or internal sounds, like Jimmy and Joanie or John and Bob. Physical resemblance between people was not a factor. Nor was gender. The researchers conducted five separate surveys of more than 1,700 people. Some of the surveys included only college students; others were done with a mixed-age population. Some asked subjects about incidents where someone close to them—family or friend—had called them by another person's name. The other surveys asked about times when subjects had themselves called someone close to them by the wrong name. All the surveys found that people mixed up names within relationship groups such as grandchildren, friends and siblings but hardly ever crossed these boundaries. In general, the study found that undergraduates were almost as likely as old people to make this mistake and men as likely as women. Older people and women made the mistake slightly more often, but that may be because grandparents have more grandchildren to mix up than parents have children. Also, mothers may call on their children more often than fathers, given traditional gender norms. There was no evidence that errors occurred more when the misnamer was frustrated, tired or angry.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "How might people often feel when they were misnamed?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Unwanted."
+              },
+              {
+                "l": "B",
+                "t": "Unhappy."
+              },
+              {
+                "l": "C",
+                "t": "Confused."
+              },
+              {
+                "l": "D",
+                "t": "Indifferent."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What did David Rubin's research find about misnaming?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is related to the way our memories work."
+              },
+              {
+                "l": "B",
+                "t": "It is a possible indicator of a faulty memory."
+              },
+              {
+                "l": "C",
+                "t": "It occurs mostly between kids and their friends."
+              },
+              {
+                "l": "D",
+                "t": "It often causes misunderstandings among people."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "What is most likely the cause of misnaming?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Similar personality traits."
+              },
+              {
+                "l": "B",
+                "t": "Similar spellings of names."
+              },
+              {
+                "l": "C",
+                "t": "Similar physical appearance."
+              },
+              {
+                "l": "D",
+                "t": "Similar pronunciation of names."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What did the surveys of more than 1,700 subjects find about misnaming?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It more often than not hurts relationships."
+              },
+              {
+                "l": "B",
+                "t": "It hardly occurs across gender boundaries."
+              },
+              {
+                "l": "C",
+                "t": "It is most frequently found in extended families."
+              },
+              {
+                "l": "D",
+                "t": "It most often occurs within a relationship group."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "Why do mothers misname their children more often than fathers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They suffer more frustrations."
+              },
+              {
+                "l": "B",
+                "t": "They become worn out more often."
+              },
+              {
+                "l": "C",
+                "t": "They communicate more with their children."
+              },
+              {
+                "l": "D",
+                "t": "They generally take on more work at home."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "灯笼起源于东汉，最初主要用于照明。在唐代，人们用红灯笼来庆祝安定的生活。从那时起，灯笼在中国 的许多地方流行起来。灯笼通常用色彩鲜艳的薄纸制作，形状和尺寸各异。在中国传统文化中，红灯笼象征生 活美满和生意兴隆，通常在春节、元宵节和国庆等节日期间悬挂。如今，世界上许多其他地方也能看到红灯 笼。",
+    "reference": "Lanterns originated in the Eastern Han Dynasty, and were mainly used for lighting at first. In the Tang Dynasty, people used red lanterns to celebrate a stable life. Since then, lanterns have become popular in many parts of China. Lanterns are usually made of brightly colored thin paper and come in various shapes and sizes. In traditional Chinese culture, red lanterns symbolize a happy life and a prosperous business, and are usually hung up during festivals such as the Spring Festival, the Lantern Festival and National Day. Today, red lanterns can also be seen in many other parts of the world."
+  }
+}

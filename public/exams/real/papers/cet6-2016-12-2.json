@@ -1,0 +1,1389 @@
+{
+  "id": "cet6-2016-12-2",
+  "level": "cet6",
+  "year": 2016,
+  "month": 12,
+  "set": 2,
+  "title": "2016年12月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on innovation. Your essay should include the importance of innovation and measures to be taken to encourage innovation. You are required to write at least 150 words but no more than 200 words.",
+    "sample": "Innovation, the ability to create something new and valuable, has become the driving force of our age. Its importance can hardly be overstated. For an individual, the courage to think differently opens doors that routine never could. For a company, a single fresh idea may decide whether it leads the market or is left behind. And for a nation, continuous innovation in science and technology is the very engine of long-term prosperity and competitiveness.Given such significance, effective measures should be taken to encourage innovation. First, schools and universities ought to reward curiosity rather than mere memorisation, allowing students to question and explore. Second, companies and governments should tolerate failure, since no breakthrough is ever reached without trial and error. Finally, a sound reward system that protects patents and honours creative talent can motivate more people to devote themselves to invention.In conclusion, innovation is not a luxury but a necessity. Only when society truly values creativity and builds an environment that nurtures it can we keep moving forward."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were all good at cooking."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were particular about food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were proud of their cuisine."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were fond of bacon and eggs."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His parents."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His friends."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His schoolmates."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His parents' friends."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "No tea was served with the meal."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was the real English breakfast."
+                  },
+                  {
+                    "l": "C",
+                    "t": "No one of the group ate it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was a little overcooked."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was full of excitement."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was really extraordinary."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was a risky experience."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was rather disappointing.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Guess what? The worst food I've ever had was in France.",
+                "zh": "M: 你猜怎么着？我吃过的最难吃的东西是在法国吃的。"
+              },
+              {
+                "en": "W: Really? That's odd. I thought the French were all good cooks.",
+                "zh": "W: 真的吗？这很奇怪。我以为法国人个个都是好厨师呢。"
+              },
+              {
+                "en": "M: Yes. That's right. I suppose it's really like anywhere else, though. You know, some places are good. Some bad. But it's really all our own fault.",
+                "zh": "M: 是的，没错。不过我想，实际上哪里都一样。你知道，有些地方好，有些地方差。但说到底，这完全是我们自己的错。"
+              },
+              {
+                "en": "W: What do you mean?",
+                "zh": "W: 你这是什么意思？"
+              },
+              {
+                "en": "M: Well, it was the first time I'd been to France. This was years ago when I was at school, I went there with my parents' friends, from my father's school. They'd hired a coach to take them to Switzerland.",
+                "zh": "M: 嗯，那是我第一次去法国。那是很多年前的事，那时我还在上学。我跟我父母在我父亲学校的朋友们一起去的。他们租了一辆大巴，送他们去瑞士。"
+              },
+              {
+                "en": "W: A school trip?",
+                "zh": "W: 学校旅行？"
+              },
+              {
+                "en": "M: Right. Most of them had never been abroad before. We'd crossed the English Channel at night, and we set off through France, and breakfast time arrived, and the coach driver had arranged for us to stop at this little cafe. There we all were, tired and hungry, and then we made the great discovery.",
+                "zh": "M: 对。他们中的大多数人以前从没出过国。我们晚上横渡了英吉利海峡，然后出发穿过法国。到了吃早餐的时候，司机安排我们在一家小咖啡馆停下来。我们一行人又累又饿，然后有了一个重大发现。"
+              },
+              {
+                "en": "W: What was that?",
+                "zh": "W: 发现了什么？"
+              },
+              {
+                "en": "M: Bacon and eggs.",
+                "zh": "M: 培根和鸡蛋。"
+              },
+              {
+                "en": "W: Fantastic! The real English breakfast.",
+                "zh": "W: 太棒了！真正的英式早餐。"
+              },
+              {
+                "en": "M: Yes. Anyway, we didn't know any better—so we had it, and ugh…!",
+                "zh": "M: 是啊。总之，我们也不知道还有更好的选择，所以就吃了，结果，呃……！"
+              },
+              {
+                "en": "W: What was it like? Disgusting?",
+                "zh": "W: 味道怎么样？很恶心吗？"
+              },
+              {
+                "en": "M: Oh, it was incredible! They just got a bowl and put some fat in it. And then they put some bacon in the fat, broke an egg over the top and put the whole lot in the oven for about ten minutes.",
+                "zh": "M: 哦，简直不可思议！他们拿了一个碗，在里面放了些油脂。然后把一些培根放进油脂里，在上面打了一个鸡蛋，再把整碗东西放进烤箱烤了大约十分钟。"
+              },
+              {
+                "en": "W: In the oven! You're joking. You can't cook bacon and eggs in the oven!",
+                "zh": "W: 放进烤箱！你在开玩笑吧。培根和鸡蛋怎么能放进烤箱里做呢！"
+              },
+              {
+                "en": "M: Well, they must have done it that way. It was hot, but it wasn't cooked. There was just this egg floating about in gallons of fat and raw bacon.",
+                "zh": "M: 嗯，他们肯定就是那样做的。东西是热的，但并没有熟。只见一个鸡蛋漂浮在几加仑的油脂和生培根里。"
+              },
+              {
+                "en": "W: Did you actually eat it?",
+                "zh": "W: 你们真的吃了吗？"
+              },
+              {
+                "en": "M: No! Nobody did. They all wanted to turn round and go home. You know, back to teabags and fish and chips. You can't blame them really. Anyway, the next night we were all given another foreign speciality.",
+                "zh": "M: 没有！没人吃。他们全都想掉头回家。你知道，回去吃茶包泡的茶和炸鱼薯条。其实也不能怪他们。总之，第二天晚上，我们又被端上了另一种外国特色菜。"
+              },
+              {
+                "en": "W: What was that?",
+                "zh": "W: 那是什么？"
+              },
+              {
+                "en": "M: Snails. That really finished them off. Lovely holiday that was!",
+                "zh": "M: 蜗牛。这下他们彻底受不了了。那假期过得可真愉快啊！"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The woman's relationship with other shops."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The business success of the woman's shop."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The key to running a shop at a low cost."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The woman's earnings over the years."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Improve its customer service."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Expand its business scale."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Keep down its expenses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Upgrade the goods it sells."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are sold at lower prices than in other shops."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are very popular with the local residents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are delivered free of charge."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are in great demand."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To follow the custom of the local shopkeepers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To attract more customers in the neighborhood."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To avoid being put out of business in competition."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To maintain friendly relationships with other shops."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: You say your shop has been doing well. Could you give me some idea of what \"doing well\" means in facts and figures?",
+                "zh": "M: 你说你的店经营得不错。能不能用一些具体的事实和数字说明一下“经营得不错”是什么意思？"
+              },
+              {
+                "en": "W: Well, \"doing well\" means averaging £1,200 or more a week for about 7 years, making almost a quarter of a million pounds. And \"doing well\" means your earnings are rising. Last year, we did slightly over 50,000 and this year, we hope to do more than 60,000. So, that's good if we continue to rise.",
+                "zh": "W: 嗯，“经营得不错”是指大约7年来，每周平均收入1,200英镑或更多，总共赚了将近25万英镑。而且，“经营得不错”还意味着收入在不断增加。去年我们的收入略高于5万英镑，而今年我们希望能超过6万英镑。所以，只要收入继续增长，那就是件好事。"
+              },
+              {
+                "en": "M: Now, that's gross earnings, I assume. What about your expenses?",
+                "zh": "M: 我想，那是毛收入吧。那你们的开支呢？"
+              },
+              {
+                "en": "W: Yes, that's gross. The expenses, of course, go up steadily. And since we've moved to this new shop, the expenses have increased greatly, because it's a much bigger shop. So I couldn't say exactly what our expenses are. They are something in the region of six or seven thousand pounds a year, which is not high. Commercially speaking, it's fairly low, and we try to keep our expenses as low as we can.",
+                "zh": "W: 对，那是毛收入。当然，开支也在稳步增加。自从我们搬到这家新店以后，开支大幅增加了，因为店面大得多了。所以我没法准确说出我们的开支是多少。每年大约是六七千英镑，这并不算高。从商业角度来说，这个数额相当低，而且我们尽量把开支控制在最低水平。"
+              },
+              {
+                "en": "M: And your prices are much lower than the same goods in shops round about. How do the local shopkeepers feel about having a shop doing so well in their midst?",
+                "zh": "M: 而且你们的价格比附近商店里同样商品的价格低得多。当地店主对自己中间有一家经营得这么好的商店，有什么看法？"
+              },
+              {
+                "en": "W: Perhaps a lot of them don't realize how well we are doing, because we don't make a point of publicizing. That was a lesson we learned very early on. We were very friendly with all local shopkeepers and we happened to mention to a local shopkeeper how much we had made that week. He was very unhappy and never as friendly again. So we make a point of never publicizing the amount of money we make. But we are on very good terms with all the shops. None of them have ever complained that we are putting them out of business or anything like that. I think it's a nice friendly relationship. Maybe if they did know what we made, perhaps they wouldn't be so friendly.",
+                "zh": "W: 也许他们中的很多人并不知道我们经营得有多好，因为我们从来不刻意宣传。这是我们很早就学到的一课。当时我们和所有当地店主的关系都很友好，有一次我们碰巧告诉一位当地店主那周赚了多少钱。他非常不高兴，从此再也没有像以前那样友好了。所以我们从来不公开宣传自己赚了多少钱。不过，我们和所有商店的关系都很好。他们从来没有抱怨过我们要把他们挤垮之类的事情。我觉得这是一种友好融洽的关系。也许如果他们知道我们的收入，他们可能就不会这么友好了。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 12 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can be used to deliver messages in times of emergency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They deliver pollutants from the ocean to their nesting sites."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They carry plant seeds and spread them to faraway places."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are on the verge of extinction because of pollution."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They migrate to the Arctic Circle during the summer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They originate from Devon Island in the Arctic area."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They travel as far as 400 kilometers in search of food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have the ability to survive in extreme weathers."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were carried by the wind."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They had become more poisonous."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were less than on the continent."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They poisoned some of the fulmars."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The threats humans pose to Arctic seabirds."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The diminishing colonies for Arctic seabirds."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The harm Arctic seabirds may cause to humans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The effects of the changing climate on Arctic seabirds.\n\nQuestions 13 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Birds are famous for carrying things around. Some, like homing pigeons, can be trained to deliver messages and packages. Other birds unknowingly carry seeds that cling to them for the ride.",
+                "zh": "鸟类以四处携带东西而闻名。有些鸟，比如信鸽，可以经过训练来递送信息和包裹。另一些鸟则在不知不觉中携带着附着在它们身上的种子四处传播。"
+              },
+              {
+                "en": "Canadian scientists have found a worrisome, new example of the power that birds have to spread stuff around. Way up north in the Canadian Arctic, seabirds are picking up dangerous chemicals in the ocean and delivering them to ponds near where the birds live.",
+                "zh": "加拿大科学家发现了一个令人担忧的新例子，说明鸟类具有将物质传播到各处的能力。在加拿大北极地区遥远的北方，海鸟从海洋中沾染上危险化学物质，并将这些物质带到鸟类栖息地附近的池塘里。"
+              },
+              {
+                "en": "Some 10,000 pairs of the birds, called fulmars, a kind of Arctic seabird, make their nests on Devon Island, north of the Arctic Circle. The fulmars travel some 400 kilometers over the sea to find food. When they return home, their droppings end up all around their nesting sites, including in nearby ponds.",
+                "zh": "大约有一万对被称为暴风鹱的鸟在北极圈以北的德文岛上筑巢，它们是一种北极海鸟。暴风鹱会飞越大约400公里的海域寻找食物。当它们回到栖息地时，排泄物会散落在筑巢地点周围，包括附近的池塘中。"
+              },
+              {
+                "en": "Previously, scientists noticed pollutants arriving in the Arctic with the wind. Salmon also carry dangerous chemicals as the fish migrate between rivers and the sea. The bodies of fish and other meat-eaters can build up high levels of the chemicals.",
+                "zh": "此前，科学家注意到污染物会随风进入北极地区。鲑鱼在河流与海洋之间洄游时，也会携带危险化学物质。鱼类和其他食肉动物的体内可能会积累高浓度的这些化学物质。"
+              },
+              {
+                "en": "To test the polluting power of fulmars, researchers collected samples of deposit from 11 ponds on Devon Island. In ponds closest to the colony, the results showed there were far more pollutants than in ponds less affected by the birds. The pollutants in the ponds appear to come from fish that fulmars eat when they're out on the ocean.",
+                "zh": "为了测试暴风鹱造成污染的能力，研究人员采集了德文岛上11个池塘的沉积物样本。结果显示，距离鸟群栖息地最近的池塘中，污染物远多于受鸟类影响较小的池塘。池塘中的污染物似乎来自暴风鹱在海上活动时捕食的鱼类。"
+              },
+              {
+                "en": "People who live, hunt, or fish near bird colonies need to be careful, the researchers say. The birds don't mean to cause harm, but the chemicals they carry can cause major problems.",
+                "zh": "研究人员说，居住在鸟类栖息地附近，或在附近捕猎、捕鱼的人需要提高警惕。这些鸟并非有意造成伤害，但它们携带的化学物质可能引发严重问题。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 13 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has decreased."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has been exaggerated."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has become better understood."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has remained basically the same."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It develops more easily in centenarians not actively engaged."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is now the second leading cause of death for centenarians."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has had no effective cure so far."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It calls for more intensive research."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They care more about their physical health."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their quality of life deteriorates rapidly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their minds fall before their bodies do."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They cherish their life more than ever."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In recent years, the death rate among American centenarians—people who have lived to age 100 or older—has decreased, dropping 14 percent for women and 20 percent for men from 2008 to 2014. The leading causes of death in this age group are also changing.",
+                "zh": "近年来，美国百岁老人（活到100岁或以上的人）的死亡率有所下降，2008年至2014年间，女性下降了14%，男性下降了20%。这一年龄组的主要死因也在发生变化。"
+              },
+              {
+                "en": "In 2000, the top five causes of death for centenarians were heart disease, stroke, flu, cancer and Alzheimer's disease. But by 2014, the death rate from Alzheimer's disease for this age group had more than doubled—increasing from 3.8 percent to 8.5 percent—making the progressive brain disease the second leading cause of death for centenarians.",
+                "zh": "2000年，百岁老人的五大死因依次为心脏病、中风、流感、癌症和阿尔茨海默病。但到2014年，这一年龄组因阿尔茨海默病死亡的比例增加了一倍多，从3.8%上升到8.5%，使这种进行性脑部疾病成为百岁老人的第二大死因。"
+              },
+              {
+                "en": "One reason for the rise in deaths from Alzheimer's disease in this group may be that developing this condition remains possible even after people beat the odds of dying from other diseases such as cancer. People physically fit enough to survive over 100 years ultimately give in to diseases such as Alzheimer's which affect the mind and cognitive function. In other words, it appears that their minds give out before their bodies do.",
+                "zh": "这一群体中因阿尔茨海默病死亡人数上升的一个原因可能是，即使人们战胜了癌症等其他疾病带来的死亡风险，仍有可能患上这种疾病。身体足够健康、能够活过100岁的人，最终会屈服于阿尔茨海默病等影响思维和认知功能的疾病。换言之，情况似乎是他们的心智先于身体衰退。"
+              },
+              {
+                "en": "On the other hand, the death rate from flu dropped from 7.4 percent in 2000 to 4.1 percent in 2014. That pushed flu from the third leading cause of death to the fifth.",
+                "zh": "另一方面，流感导致的死亡比例从2000年的7.4%下降到2014年的4.1%。这使流感从第三大死因降至第五位。"
+              },
+              {
+                "en": "Overall, the total number of centenarians is going up. In 2014, there were 72,197 centenarians, compared to 50,281 in 2000. But because this population is getting larger, the number of deaths in this group is also increasing—18,434 centenarians died in 2000, whereas 25,914 died in 2014.",
+                "zh": "总体而言，百岁老人的总人数正在增加。2014年，百岁老人有72,197人，而2000年为50,281人。但由于这一人口群体规模不断扩大，该群体中的死亡人数也在增加——2000年有18,434名百岁老人去世，而2014年去世人数为25,914人。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are focused more on attraction than love."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were done by his former colleague at Yale."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were carried out over a period of some thirty years."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They form the basis on which he builds his theory of love."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The relationship cannot last long if no passion is involved."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Intimacy is essential but not absolutely indispensable to love."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is not love if you don't wish to maintain the relationship."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Romance is just impossible without mutual understanding."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Which of them is considered most important."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether it is true love without commitment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "When the absence of any one doesn't affect the relationship."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How the relationship is to be defined if any one is missing.\n\nQuestions 19 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Okay. So let's get started. And to start things off I think what we need to do is consider a definition. I'm going to define what love is but then most of the experiments I'm going to talk about are really focused more on attraction than love. And I'm going to pick a definition from a former colleague, Robert Sternberg, who is now the dean at Tufts University but was here on our faculty at Yale for nearly thirty years. And he has a theory of love that argues that it's made up of three components: intimacy, passion, and commitment, or what is sometimes called decision-commitment. And these are relatively straightforward. He argued that you don't have love if you don't have all three of these elements.",
+                "zh": "好。那么我们开始吧。首先，我认为我们需要考虑一个定义。我将定义什么是爱，但我接下来要谈的大多数实验，其实更多地关注的是吸引力，而不是爱。我将采用我以前的一位同事罗伯特·斯滕伯格的定义。他现在是塔夫茨大学的院长，但曾在耶鲁大学任教将近三十年。他有一套关于爱的理论，认为爱由三个要素组成：亲密、激情和承诺，或者有时称为决定—承诺。这些概念都相对容易理解。他认为，如果不具备这三个要素，就不能称之为爱。"
+              },
+              {
+                "en": "Intimacy is the feeling of closeness, of connectedness with someone, of bonding. Operationally, you could think of intimacy as you share secrets, you share information with this person that you don't share with anybody else. Okay. That's really what intimacy is, the bond that comes from sharing information that isn't shared with other people. The second element is passion. Passion is the drive that leads to romance. You can think of it as physical attraction. And Sternberg argues that this is a required component of a love relationship. The third element of love in Sternberg's theory is what he calls decision/commitment, the decision that one is in a love relationship, the willingness to label it as such, and a commitment to maintain that relationship at least for some period of time. Sternberg would argue it's not love if you don't call it love and if you don't have some desire to maintain the relationship. So if you have all three of these, intimacy, passion and commitment, in Sternberg's theory, you have love.",
+                "zh": "亲密，是指与某人感到亲近、相互联结以及建立纽带的感觉。从实际操作的角度来说，你可以把亲密理解为：你们彼此分享秘密，向这个人透露一些不会与其他任何人分享的信息。好，这实际上就是亲密：通过分享不与他人分享的信息而形成的纽带。第二个要素是激情。激情是促成浪漫关系的驱动力。你可以把它理解为身体上的吸引力。斯滕伯格认为，这是恋爱关系中不可或缺的一个要素。按照斯滕伯格的理论，爱的第三个要素是他所称的决定／承诺，即决定自己处于一段恋爱关系之中，愿意将其称为恋爱关系，并承诺至少在一段时间内维持这段关系。斯滕伯格会认为，如果你不称其为爱，而且没有维持这段关系的某种愿望，那就不是爱。因此，如果你同时具备亲密、激情和承诺这三个要素，按照斯滕伯格的理论，你就拥有了爱。"
+              },
+              {
+                "en": "Now what's interesting about the theory is what do you have if you only have one out of three or two out of three? What do you have and how is it different if you have a different two out of three? What's interesting about this kind of theorizing is it gives rise to many different combinations that can be quite interesting when you break them down and start to look them carefully. So what I've done is I've taken Sternberg's three elements of love, intimacy, passion and commitment, and I've listed out the different kinds of relationships you would have if you had zero, one, two or three out of the three elements.",
+                "zh": "现在，这套理论有趣的地方在于：如果三个要素中你只有一个，或者只有两个，你拥有的是什么？如果三个要素中有两个，但具体是哪两个不同，那么情况又有什么区别？这种理论探讨的有趣之处在于，当你把这些组合拆解开来并开始仔细观察时，会产生许多相当有趣的不同组合。因此，我所做的是把斯滕伯格关于爱的三个要素——亲密、激情和承诺——列出来，并罗列出当你具备这三个要素中的零个、一个、两个或三个时，会形成的不同类型的关系。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Social work as a profession."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The history of social work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Academic degrees required of social work applicants."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The aim of the National Association of Social Workers."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They try to change people's social behavior."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They help enhance the well-being of the underprivileged."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They raise people's awareness of the environment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They create a lot of opportunities for the unemployed."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have all received strict clinical training."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They all have an academic degree in social work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are all members of the National Association."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have all made a difference through their work."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The promotion of social workers' social status."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The importance of training for social workers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Ways for social workers to meet people's needs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Social workers' job options and responsibilities.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Hi! I am Elizabeth Hoffler, Master of Social Work. I am a social worker, a lobbyist, and a special assistant to the executive director at the National Association of Social Workers. Today we are going to be talking about becoming a social worker. Social work is the helping profession. Its primary mission is to enhance human well-being and help meet the basic needs of all people, with a particular focus on those who are vulnerable, oppressed, and living in poverty. We often deal with complex human needs. Social work is different from other professions, because we focus on the person and environment. We deal with the external factors that impact a person's situation and outlook. And we create opportunity for assessment and intervention, to help clients and communities cope effectively with their reality and change that reality when necessary.",
+                "zh": "你好！我是伊丽莎白·霍夫勒，社会工作硕士。我是一名社会工作者、游说员，也是美国全国社会工作者协会执行主任的特别助理。今天我们将谈谈如何成为一名社会工作者。社会工作是一项助人职业。其首要使命是增进人类福祉，帮助满足所有人的基本需求，尤其关注弱势群体、受压迫者以及生活贫困的人。我们经常应对复杂的人类需求。社会工作不同于其他职业，因为我们关注个人及其所处的环境。我们处理影响个人处境和看法的外部因素，并为评估和干预创造机会，帮助服务对象和社区有效应对现实，并在必要时改变现实。"
+              },
+              {
+                "en": "In thousands of ways social workers help other people, people from every age, every background, across the country. Wherever needed, social workers come to help. The most well-known aspect of the profession is that of a social safety net. We help guide people to critical resources and counsel them on life-changing decisions. There are more than 600,000 professional social workers in the country, and we all either have a bachelor's degree, a master's degree, or a PhD in Social Work. There are more clinically trained social workers than clinically trained psychiatrists, psychologists, and psychiatric nurses combined.",
+                "zh": "社会工作者通过成千上万种方式帮助他人，帮助来自全国各地、各个年龄段和各种背景的人。无论哪里有需要，社会工作者都会前去提供帮助。这一职业最为人熟知的方面是社会安全网的作用。我们帮助人们找到重要资源，并就那些会改变人生的决定为他们提供咨询。全国有超过六十万名专业社会工作者，我们都拥有社会工作学士学位、硕士学位或博士学位。接受过临床专业训练的社会工作者人数，比接受过临床专业训练的精神科医生、心理学家和精神科护士的总人数还多。"
+              },
+              {
+                "en": "Throughout this series you will learn more about the profession, the necessary steps to get a social work degree, the rich history of social work, and the many ways that social workers help others. Later in this series, you will hear from Stacy Collins and Mel Wilson, fellow social workers at the National Association of Social Workers. Stacy is going to walk you through the step-by-step process of becoming a social worker, and Mel will tell you about the range of options you have once you get your social work degree, as well as the high standards of responsibility that social workers must adhere to.",
+                "zh": "在本系列中，你将进一步了解这一职业、取得社会工作学位所需的步骤、社会工作的丰富历史，以及社会工作者帮助他人的多种方式。在本系列后面的部分，你将听到美国全国社会工作者协会的社会工作者同事斯泰西·柯林斯和梅尔·威尔逊的介绍。斯泰西将逐步带你了解成为社会工作者的过程，梅尔则会告诉你取得社会工作学位后可以选择的各种发展方向，以及社会工作者必须遵守的高标准责任要求。"
+              },
+              {
+                "en": "The National Association of Social Workers represents nearly 145,000 social workers across the country. Our mission is to promote, protect, and advance the social work profession. We hope you enjoy this series about how you can make a difference by becoming a social worker. Next, we are going to talk about choosing social work.",
+                "zh": "美国全国社会工作者协会代表着全国近十四万五千名社会工作者。我们的使命是推动、保护并促进社会工作职业的发展。我们希望你喜欢这个关于如何通过成为一名社会工作者来产生影响的系列节目。接下来，我们将讨论如何选择社会工作。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To fight childhood obesity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To help disadvantaged kids."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To encourage kids to play more sports."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To urge kids to follow their role models."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They best boost product sales when put online."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are most effective when appearing on TV."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are becoming more and more prevalent."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They impress kids more than they do adults."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Always place kids' interest first."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Do what they advocate in public."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Message positive behaviors at all times."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Pay attention to their image before children."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Today, I'd like to talk about what happens when celebrity role models get behind healthy habits but at the same time, promote junk food. Currently, there's mounting criticism of Michelle Obama's \"Let's Move!\" campaign, which fights childhood obesity by encouraging youngsters to become more physically active, and has signed on singer Beyonce, and basketball player Shaquille O'Neal, both of whom also endorse sodas, which are a major contributor to the obesity epidemic. Now there's a lot more evidence of how powerful a celebrity—especially a professional athlete—can be in influencing children's behavior.",
+                "zh": "今天，我想谈谈当名人偶像支持健康习惯的同时，却又推广垃圾食品时会发生什么。目前，对米歇尔·奥巴马发起的“Let's Move!”运动的批评越来越多。该运动通过鼓励年轻人增加体育活动来应对儿童肥胖问题，并邀请了歌手碧昂丝和篮球运动员沙奎尔·奥尼尔加入；然而，这两人也都为汽水代言，而汽水是肥胖流行的重要诱因。现在，有越来越多的证据表明，名人，尤其是职业运动员，能够对儿童的行为产生多么大的影响。"
+              },
+              {
+                "en": "In a report published by the Rudd Center for Food Policy & Obesity at Yale University, researchers studied 100 professional athletes and their endorsement contracts. The team focused on athletes since they are theoretically the best role models for active, healthy lifestyles for children. After sorting the deals by category, they determined that among the 512 brands associated with the athletes, most involved sporting goods, followed closely by food and beverage brands. Sports drinks, which are often high in sugar and calories, made up most of the food and drink deals, with soft drinks and fast food filling out the remainder. Of the 46 beverages endorsed by professional athletes, 93% relied exclusively on sugar for all of their calories.",
+                "zh": "耶鲁大学鲁德食品政策与肥胖中心发表的一份报告中，研究人员对100名职业运动员及其代言合同进行了研究。研究团队之所以关注运动员，是因为从理论上说，他们最适合成为儿童积极、健康生活方式的榜样。在按类别整理这些交易后，研究人员确定，在与这些运动员相关的512个品牌中，大多数属于体育用品，其次是食品和饮料品牌。运动饮料通常含有较高的糖分和热量，占食品和饮料类代言的大多数，其余则由软饮料和快餐构成。在职业运动员代言的46种饮料中，93%的饮料完全依靠糖分提供全部热量。"
+              },
+              {
+                "en": "It's no surprise that high-profile athletes can influence children's eating behaviors, but the scientists were able to quantify how prevalent these endorsements are in the children's environment. Advertisements featuring professional athletes and their endorsed products tend to get impressive exposure, on TV, radio, in print and online. And in 2010, the researchers reported that children ages 12 to 17 saw more athlete-endorsed food and beverage brand commercials than adults.",
+                "zh": "高知名度的运动员能够影响儿童的饮食行为，这并不令人意外，但科学家得以量化这些代言在儿童生活环境中的普遍程度。以职业运动员及其代言产品为主题的广告往往能在电视、广播、印刷媒体和网络上获得惊人的曝光率。此外，研究人员在2010年报告称，12至17岁的儿童看到的运动员代言食品和饮料品牌广告，比成年人看到的更多。"
+              },
+              {
+                "en": "One reason any campaign wants a popular celebrity spokesperson is because kids are attracted to them no matter what they are doing. We can't expect kids to turn off that admiration when the same person is selling sugar. At best, kids might be confused. At worst, they'll think the messages about soda are the same as the messages about water, but those two beverages aren't the same.",
+                "zh": "任何一项运动都希望请受欢迎的名人担任代言人，其中一个原因是，无论名人在做什么，孩子都会被他们吸引。我们不能指望孩子在同一个人开始销售含糖饮料时，就停止对他的崇拜。最好的情况是，孩子可能会感到困惑；最糟糕的情况是，他们会认为关于汽水的信息与关于水的信息相同，但这两种饮料并不一样。"
+              },
+              {
+                "en": "If children are turning to athletes as role models, it's in their best interest if their idols are consistent. Consistent messaging of positive behaviors will show healthier lifestyles for kids to follow.",
+                "zh": "如果孩子把运动员视为榜样，那么他们的偶像保持一致，对孩子来说才是最有益的。始终如一地传递积极行为的信息，将向孩子展示值得效仿的更健康生活方式。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The tree people in the Lord of the Rings—the Ents—can get around by walking. But for real trees, it's harder to uproot. Because they're literally rooted into the ground, they are unable to leave and go"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ". When a tree first starts growing in a certain area, it's likely that the"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "envelope—the temperature, humidity, rainfall patterns and so on—suits it. Otherwise, it would be unable to grow from a seedling. But as it"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ", these conditions may change and the area around it may no longer be suitable for its"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": ". When that happens, many trees like walnuts, oaks and pines, rely"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "on so-called \"scatter hoarders,\" such as birds, to move their seeds to new localities. Many birds like to store food for the winter, which they"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "retrieve. When the birds forget to retrieve their food—and they do sometimes—a seedling has a chance to grow. The bird Clark's nutcracker, for example, hides up to 100,000 seeds per year, up to 30 kilometers away from the seed source, and has a very close symbiotic(共生的) relationship with several pine species, most"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "the whitebark pine. As trees outgrow their ideal"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "in the face of climate change, these flying ecosystem engineers could be a big help in"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "trees. It's a solution for us—getting birds to do the work is cheap and effective—and it could give"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "oaks and pines the option to truly \"make like a tree and leave.\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "ages"
+        },
+        {
+          "l": "B",
+          "w": "breathing"
+        },
+        {
+          "l": "C",
+          "w": "climatic"
+        },
+        {
+          "l": "D",
+          "w": "elsewhere"
+        },
+        {
+          "l": "E",
+          "w": "exclusively"
+        },
+        {
+          "l": "F",
+          "w": "forever"
+        },
+        {
+          "l": "G",
+          "w": "fruitful"
+        },
+        {
+          "l": "H",
+          "w": "habitats"
+        },
+        {
+          "l": "I",
+          "w": "legacy"
+        },
+        {
+          "l": "J",
+          "w": "notably"
+        },
+        {
+          "l": "K",
+          "w": "offspring"
+        },
+        {
+          "l": "L",
+          "w": "replanting"
+        },
+        {
+          "l": "M",
+          "w": "subsequently"
+        },
+        {
+          "l": "N",
+          "w": "vulnerable"
+        },
+        {
+          "l": "O",
+          "w": "withdraws"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "D"
+        },
+        {
+          "n": 27,
+          "a": "C"
+        },
+        {
+          "n": 28,
+          "a": "A"
+        },
+        {
+          "n": 29,
+          "a": "K"
+        },
+        {
+          "n": 30,
+          "a": "E"
+        },
+        {
+          "n": 31,
+          "a": "M"
+        },
+        {
+          "n": 32,
+          "a": "J"
+        },
+        {
+          "n": 33,
+          "a": "H"
+        },
+        {
+          "n": 34,
+          "a": "L"
+        },
+        {
+          "n": 35,
+          "a": "N"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The American Workplace Is Broken. Here's How We Can Start Fixing It.",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Americans are working longer and harder hours than ever before. 83% of workers say they're stressed about their jobs, nearly 50% say work-related stress is interfering with their sleep, and 60% use their smartphones to check in with work outside of normal working hours. No wonder only 13% of employees worldwide feel engaged in their occupation."
+        },
+        {
+          "l": "B",
+          "t": "Glimmers( 少许) of hope, however, are beginning to emerge in this bruising environment: Americans are becoming aware of the toll their jobs take on them, and employers are exploring ways to alleviate the harmful effects of stress and overwork. Yet much more work remains to be done. To call stress an epidemic isn't an exaggeration. The 83% of American employees who are stressed about their jobs—up from 73% just a year before—say that poor compensation and an unreasonable workload are their number-one sources of stress. And if you suspected that the workplace had gotten more stressful than it was just a few decades ago, you're right. Stress levels increased 18% for women and 24% for men from 1983 to 2009. Stress is also starting earlier in life, with some data suggesting that today's teens are even more stressed than adults."
+        },
+        {
+          "l": "C",
+          "t": "Stress is taking a significant toll on our health, and the collective public health cost may be enormous. Occupational stress increases the risk of heart attack and diabetes, accelerates the aging process, decreases longevity, and contributes to depression and anxiety, among numerous other negative health outcomes. Overall, stress-related health problems account for up to 90% of hospital visits, many of them preventable. Your job is \"literally killing you,\" as The Washington Post put it. It's also hurting our relationships. Working parents say they feel stressed, tired, rushed and short on quality time with their children, friends and partners."
+        },
+        {
+          "l": "D",
+          "t": "Seven in 10 workers say they struggle to maintain work-life balance. As technology (and with it, work emails) seeps(渗入) into every aspect of our lives, work-life balance has become an almost meaningless term. Add a rapidly changing economy and an uncertain future to this 24/7 connectivity, and you've got a recipe for overwork, according to Phyllis Moen. \"There's rising work demand coupled with the insecurity of mergers, takeovers, downsizing and other factors,\" Moen said. \"Part of the work-life issue has to talk about uncertainty about the future.\""
+        },
+        {
+          "l": "E",
+          "t": "These factors have converged to create an increasingly impossible situation with many employees overworking to the point of burnout. It's not only unsustainable for workers, but also for the companies that employ them. Science has shown a clear correlation between high stress levels in workers and absenteeism(旷 工), reduced productivity, disengagement and high turnover. Too many workplace policies effectively prohibit employees from developing a healthy work-life balance by barring them from taking time off, even when they need it most."
+        },
+        {
+          "l": "F",
+          "t": "The U.S. trails far behind every wealthy nation and many developing ones that have family-friendly work policies including paid parental leave, paid sick days and breast-feeding support, according to a 2007 study. The U.S. is also the only advanced economy that does not guarantee workers paid vacation time, and it's one of only two countries in the world that does not offer guaranteed paid maternity leave. But even when employees are given paid time off, workplace norms and expectations that pressure them to overwork often prevent them from taking it. Fulltime employees who do have paid vacation days only use half of them on average."
+        },
+        {
+          "l": "G",
+          "t": "Our modern workplaces also operate based on outdated time constraints. The practice of clocking in for an eight-hour workday is a leftover from the days of the Industrial Revolution, as reflected in the then-popular saying, \"Eight hours labor, eight hours recreation, eight hours rest.\""
+        },
+        {
+          "l": "H",
+          "t": "We've held on to this workday structure—but thanks to our digital devices, many employees never really clock out. Today, the average American spends 8.8 hours at work daily, and the majority of working professionals spend additional hours checking in with work during evenings, weekends and even vacations. The problem isn't the technology itself, but that the technology is being used to create more flexibility for the employer rather than the employee. In a competitive work environment, employers are able to use technology to demand more from their employees rather than motivating workers with flexibility that benefits them."
+        },
+        {
+          "l": "I",
+          "t": "In a study published last year, psychologists coined the term \"workplace telepressure\" to describe an employee's urge to immediately respond to emails and engage in obsessive thoughts about returning an email to one's boss, colleagues or clients. The researchers found that telepressure is a major cause of stress at work, which over time contributes to physical and mental burnout. Of the 300 employees participating in the study, those who experienced high levels of telepressure were more likely to agree with statements assessing burnout, like \"I've no energy for going to work in the morning,\" and to report feeling fatigued and unfocused. Telepressure was also correlated with sleeping poorly and missing work."
+        },
+        {
+          "l": "J",
+          "t": "Harvard Business School professor Leslie Perlow explains that when people feel the pressure to be always \"on,\" they find ways to accommodate that pressure, including altering their schedules, work habits and interactions with family and friends. Perlow calls this vicious cycle the \"cycle of responsiveness\": Once bosses and colleagues experience an employee's increased responsiveness, they increase their demands on the employee's time. And because a failure to accept these increased demands indicates a lack of commitment to one's work, the employee complies."
+        },
+        {
+          "l": "K",
+          "t": "To address skyrocketing employee stress levels, many companies have implemented workplace wellness programs, partnering with health care providers that have created programs to promote employee health and well-being. Some research does suggest that these programs hold promise. A study of employees at health insurance provider Aetna revealed that roughly one quarter of those taking in-office yoga and mindfulness classes reported a 28% reduction in their stress levels and a 20% improvement in sleep quality. These less- stressed workers gained an average of 62 minutes per week of productivity. While yoga and meditation(静思) are scientifically proven to reduce stress levels, these programs do little to target the root causes of burnout and disengagement. The conditions creating the stress are long hours, unrealistic demands and deadlines, and work-life conflict."
+        },
+        {
+          "l": "L",
+          "t": "Moen and her colleagues may have found the solution. In a 2011 study, she investigated the effects of implementing a Results Only Work Environment (ROWE) on the productivity and well-being of employees at Best Buy's corporate headquarters."
+        },
+        {
+          "l": "M",
+          "t": "For the study, 325 employees spent six months taking part in ROWE, while a control group of 334 employees continued with their normal workflow. The ROWE participants were allowed to freely determine when, where and how they worked—the only thing that mattered was that they got the job done. The results were striking. After six months, the employees who participated in ROWE reported reduced work-family conflict and a better sense of control of their time, and they were getting a full hour of extra sleep each night. The employees were less likely to leave their jobs, resulting in reduced turnover. It's important to note that the increased flexibility didn't encourage them to work around the clock. \"They didn't work anywhere and all the time—they were better able to manage their work,\" Moen said. \"Flexibility and control is key,\" she continued."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Workplace norms pressure employees to overwork, deterring them from taking paid time off.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "The overwhelming majority of employees attribute their stress mainly to low pay and an excessive workload.",
+          "a": "B"
+        },
+        {
+          "n": 38,
+          "s": "According to Moen, flexibility gives employees better control over their work and time.",
+          "a": "M"
+        },
+        {
+          "n": 39,
+          "s": "Flexibility resulting from the use of digital devices benefits employers instead of employees.",
+          "a": "H"
+        },
+        {
+          "n": 40,
+          "s": "Research finds that if employees suffer from high stress, they will be less motivated, less productive and more likely to quit.",
+          "a": "E"
+        },
+        {
+          "n": 41,
+          "s": "In-office wellness programs may help reduce stress levels, but they are hardly an ultimate solution to the problem.",
+          "a": "K"
+        },
+        {
+          "n": 42,
+          "s": "Health problems caused by stress in the workplace result in huge public health expenses.",
+          "a": "C"
+        },
+        {
+          "n": 43,
+          "s": "If employees respond quickly to their job assignments, the employer is likely to demand more from them.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "With technology everywhere in our life, it has become virtually impossible for most workers to keep a balance between work and life.",
+          "a": "D"
+        },
+        {
+          "n": 45,
+          "s": "In America today, even teenagers suffer from stress, and their problem is even more serious than grown-ups'.",
+          "a": "B"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Dr. Donald Sadoway at MIT started his own battery company with the hope of changing the world's energy future. It's a dramatic endorsement for a technology most people think about only when their smartphone goes dark. But Sadoway isn't alone in trumpeting energy storage as a missing link to a cleaner, more efficient, and more equitable energy future. Scientists and engineers have long believed in the promise of batteries to change the world. Advanced batteries are moving out of specialized markets and creeping into the mainstream, signaling a tipping point for forward-looking technologies such as electric cars and rooftop solar panels. The ubiquitous(无所不在的) battery has already come a long way, of course. For better or worse, batteries make possible our mobile-first lifestyles, our screen culture, our increasingly globalized world. Still, as impressive as all this is, it may be trivial compared with what comes next. Having already enabled a communications revolution, the battery is now poised to transform just about everything else. The wireless age is expanding to include not just our phones, tablets, and laptops, but also our cars, homes, and even whole communities. In emerging economies, rural communities are bypassing the wires and wooden poles that spread power. Instead, some in Africa and Asia are seeing their first lightbulbs illuminated by the power of sunlight stored in batteries. Today, energy storage is a $33 billion global industry that generates nearly 100 gigawatt-hours of electricity per year. By the end of the decade, it's expected to be worth over $50 billion and generate 160 gigawatt-hours, enough to attract the attention of major companies that might not otherwise be interested in a decidedly pedestrian technology. Even utility companies, which have long viewed batteries and alternative forms of energy as a threat, are learning to embrace the technologies as enabling rather than disrupting. Today's battery breakthroughs come as the world looks to expand modern energy access to the billion or so people without it, while also cutting back on fuels that warm the planet. Those simultaneous challenges appear less overwhelming with increasingly better answers to a centuries-old question: how to make power portable. To be sure, the battery still has a long way to go before the nightly recharge completely replaces the weekly trip to the gas station. A battery-powered world comes with its own risks, too. What happens to the centralized electric grid, which took decades and billions of dollars to build, as more and more people become \"prosumers,\" who produce and consume their own energy onsite? No one knows which—if any—battery technology will ultimately dominate, but one thing remains clear. The future of energy is in how we store it.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What does Dr. Sadoway think of energy storage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It involves the application of sophisticated technology."
+              },
+              {
+                "l": "B",
+                "t": "It is the direction energy development should follow."
+              },
+              {
+                "l": "C",
+                "t": "It will prove to be a profitable business."
+              },
+              {
+                "l": "D",
+                "t": "It is a technology benefiting everyone."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What is most likely to happen when advanced batteries become widely used?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Mobile-first lifestyles will become popular."
+              },
+              {
+                "l": "B",
+                "t": "The globalization process will be accelerated."
+              },
+              {
+                "l": "C",
+                "t": "Communications will take more diverse forms."
+              },
+              {
+                "l": "D",
+                "t": "The world will undergo revolutionary changes."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "In some rural communities of emerging economies, people have begun to ___________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "find digital devices simply indispensable"
+              },
+              {
+                "l": "B",
+                "t": "communicate primarily by mobile phone"
+              },
+              {
+                "l": "C",
+                "t": "light their homes with stored solar energy"
+              },
+              {
+                "l": "D",
+                "t": "distribute power with wires and wooden poles"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "Utility companies have begun to realize that battery technologies ___________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "benefit their business"
+              },
+              {
+                "l": "B",
+                "t": "transmit power faster"
+              },
+              {
+                "l": "C",
+                "t": "promote innovation"
+              },
+              {
+                "l": "D",
+                "t": "encourage competition"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What does the author imply about the centralized electric grid?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It might become a thing of the past."
+              },
+              {
+                "l": "B",
+                "t": "It might turn out to be a \"prosumer\"."
+              },
+              {
+                "l": "C",
+                "t": "It will be easier to operate and maintain."
+              },
+              {
+                "l": "D",
+                "t": "It will have to be completely transformed."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "More than 100 years ago, American sociologist W. E. B. Du Bois was concerned that race was being used as a biological explanation for what he understood to be social and cultural differences between different populations of people. He spoke out against the idea of \"white\" and \"black\" as distinct groups, claiming that these distinctions ignored the scope of human diversity. Science would favor Du Bois. Today, the mainstream belief among scientists is that race is a social construct without biological meaning. In an article published in the journal Science, four scholars say racial categories need to be phased out. \"Essentially, I could not agree more with the authors,\" said Svante Pääbo, a biologist and director of the Max Planck Institute for Evolutionary Anthropology in Germany. In one example that demonstrated genetic differences were not fixed along racial lines, the full genomes(基因组) of James Watson and Craig Venter, two famous American scientists of European ancestry, were compared to that of a Korean scientist, Seong-Jin Kim. It turned out that Watson and Venter shared fewer variations in their genetic sequences than they each shared with Kim. Michael Yudell, a professor of public health at Drexel University in Philadelphia, said that modern genetics research is operating in a paradox: on the one hand, race is understood to be a useful tool to illuminate human genetic diversity, but on the other hand, race is also understood to be a poorly defined marker of that diversity. Assumptions about genetic differences between people of different races could be particularly dangerous in a medical setting. \"If you make clinical predictions based on somebody's race, you're going to be wrong a good chunk of the time,\" Yudell told Live Science. In the paper, he and his colleagues used the example of cystic fibrosis, which is underdiagnosed in people of African ancestry because it is thought of as a \"white\" disease. So what other variables could be used if the racial concept is thrown out? Yudell said scientists need to get more specific with their language, perhaps using terms like \"ancestry\" or \"population\" that might more precisely reflect the relationship between humans and their genes, on both the individual and population level. The researchers also acknowledged that there are a few areas where race as a construct might still be useful in scientific research: as a political and social, but not biological, variable. \"While we argue phasing out racial terminology(术语) in the biological sciences, we also acknowledge that using race as a political or social category to study racism, although filled with lots of challenges, remains necessary given our need to understand how structural inequities and discrimination produce health disparities(差 异) between groups.\" Yudell said.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "Du Bois was opposed to the use of race as ________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "a basis for explaining human genetic diversity"
+              },
+              {
+                "l": "B",
+                "t": "an aid to understanding different populations"
+              },
+              {
+                "l": "C",
+                "t": "an explanation for social and cultural differences"
+              },
+              {
+                "l": "D",
+                "t": "a term to describe individual human characteristics"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "The study by Svante Pääbo served as an example to show ________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "modern genetics research is likely to fuel racial conflicts"
+              },
+              {
+                "l": "B",
+                "t": "race is a poorly defined marker of human genetic diversity"
+              },
+              {
+                "l": "C",
+                "t": "race as a biological term can explain human genetic diversity"
+              },
+              {
+                "l": "D",
+                "t": "genetics research should consider social and cultural variables"
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "The example of the disease cystic fibrosis underdiagnosed in people of African ancestry demonstrates that\n ________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "it is absolutely necessary to put race aside in making diagnosis"
+              },
+              {
+                "l": "B",
+                "t": "it is important to include social variables in genetics research"
+              },
+              {
+                "l": "C",
+                "t": "racial categories for genetic diversity could lead to wrong clinical predictions"
+              },
+              {
+                "l": "D",
+                "t": "discrimination against black people may cause negligence in clinical treatment"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What is Yudell's suggestion to scientists?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They should be more precise with the language they use."
+              },
+              {
+                "l": "B",
+                "t": "They refrain from using politically sensitive terms."
+              },
+              {
+                "l": "C",
+                "t": "They throw out irrelevant concepts in their research."
+              },
+              {
+                "l": "D",
+                "t": "They examine all possible variables in their research."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What can be inferred from Yudell's remark in the last paragraph?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Clinging to racism prolongs inequity and discrimination."
+              },
+              {
+                "l": "B",
+                "t": "Physiological disparities are quite striking among races."
+              },
+              {
+                "l": "C",
+                "t": "Doing away with racial discrimination is challenging."
+              },
+              {
+                "l": "D",
+                "t": "Racial terms are still useful in certain fields of study."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "随着中国经济的蓬勃发展，学汉语的人数迅速增加，使汉语成了世界上人们最爱学的语言之一。近年来， 中国大学在国际上的排名也有了明显的提高。由于中国教育的巨大进步，中国成为最受海外学生欢迎的留学目 的地之一就不足为奇了。2015年，近四十万国际学生蜂拥来到中国学习。他们学习的科目已不再限于中国语言 和文化，而包括科学与工程。在全球教育市场上，美国和英国仍占主导地位，但中国正在迅速赶上。",
+    "reference": "With the booming of China's economy, the number of people learning Chinese is rising rapidly, making Chinese one of the most popular languages to learn in the world. In recent years, the international rankings of Chinese universities have also risen significantly. Thanks to the great progress in China's education, it is no surprise that China has become one of the most popular destinations for overseas study among international students. In 2015, nearly 400,000 international students flocked to China to study. The subjects they study are no longer limited to Chinese language and culture, but also include science and engineering. In the global education market, the US and the UK still dominate, but China is catching up rapidly."
+  }
+}

@@ -1,0 +1,1373 @@
+{
+  "id": "cet6-2017-12-1",
+  "level": "cet6",
+  "year": 2017,
+  "month": 12,
+  "set": 1,
+  "title": "2017年12月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on the saying \"Respect others, and you will be respected. \" you can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+    "sample": "The saying \"Respect others, and you will be respected\" concisely captures a truth about human relationships: respect is not a one-way gift but a mutual exchange. I firmly agree that only by treating others with courtesy can we earn their goodwill in return.A telling example is my former teammate, Li Ming. When our group project stalled, he never dismissed anyone's ideas; instead, he listened patiently and acknowledged every contribution. As a result, the whole team trusted him and willingly followed his lead. His respect for others was repaid with the cooperation he received. Had he been arrogant and rude, the team would surely have turned against him.This case reveals a simple yet powerful chain: respect given is respect returned. Since dignity is mutual, we should not wait passively to be respected, but take the first step to value those around us. Once we do, a warm cycle of mutual respect will naturally take shape."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "they reward businesses that eliminate food waste."
+                  },
+                  {
+                    "l": "B",
+                    "t": "they prohibit the sale of foods that have gone stale."
+                  },
+                  {
+                    "l": "C",
+                    "t": "they facilitate the donation of unsold foods to the needy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "they forbid businesses to produce more foods than needed."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "it imposed penalties on businesses that waste food."
+                  },
+                  {
+                    "l": "B",
+                    "t": "it passed a law aiming to stop overproduction."
+                  },
+                  {
+                    "l": "C",
+                    "t": "it voted against food import from outside Europe."
+                  },
+                  {
+                    "l": "D",
+                    "t": "it prohibited the promotion of bulk food sales."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "it has warned its people against possible food shortages."
+                  },
+                  {
+                    "l": "B",
+                    "t": "it has warned its people against possible food shortages."
+                  },
+                  {
+                    "l": "C",
+                    "t": "it has started a nationwide campaign against food waste."
+                  },
+                  {
+                    "l": "D",
+                    "t": "it has banned supermarkets from dumping edible foods."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "the confusion over food expiration labels."
+                  },
+                  {
+                    "l": "B",
+                    "t": "the surplus resulting from overproduction."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Americans' habit of buying food in bulk."
+                  },
+                  {
+                    "l": "D",
+                    "t": "a lack of regulation on food consumption.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: And now, for the lighter side of the news, Europe is setting an example for the rest of the world when it comes to food waste.",
+                "zh": "M: 现在，让我们来关注一下新闻中较为轻松的一面：在应对食物浪费方面，欧洲正在为世界其他地区树立榜样。"
+              },
+              {
+                "en": "W: That's right, John. This week, the Italian government passed legislation that aims to dramatically reduce the amount of food wasted in the country. New laws have been put into place that would make it easier for farms and supermarkets to donate unsold foods to those who are in need.",
+                "zh": "W: 没错，约翰。本周，意大利政府通过了一项旨在大幅减少该国食物浪费量的法律。新法律已经实施，这将使农场和超市更容易把未售出的食物捐赠给有需要的人。"
+              },
+              {
+                "en": "M: Yes, in addition to this, businesses will now be rewarded for successful efforts to cut food waste.",
+                "zh": "M: 是的，除此之外，今后企业如果成功减少食物浪费，还将获得奖励。"
+              },
+              {
+                "en": "W: Italy is not the only country to focus on reducing food waste. Just earlier this year, the European Parliament voted in favor of legislation that would stop grocery giants from unfair trading practices that result in overproduction, thus creating waste.",
+                "zh": "W: 意大利并不是唯一一个致力于减少食物浪费的国家。就在今年早些时候，欧洲议会投票支持一项法律，该法律将制止大型食品零售商采取导致过度生产、进而造成浪费的不公平贸易行为。"
+              },
+              {
+                "en": "M: In France, the government has banned supermarkets from throwing away edible foods and imposed harsh penalties on businesses that fail to comply with the regulations.",
+                "zh": "M: 在法国，政府已经禁止超市丢弃可食用的食物，并对不遵守规定的企业施加严厉处罚。"
+              },
+              {
+                "en": "W: While there is still much progress to be made, other countries could learn a thing or two from the example set by France and Italy. In the United States, up to 40% of all food goes uneaten, despite the fact that one in seven American households lacks regular access to good food. One major cause of this problem is the confusion over food expiration labels, which are currently not regulated by the government.",
+                "zh": "W: 尽管还有很多工作要做，但其他国家可以从法国和意大利树立的榜样中学到一些经验。在美国，尽管每七个美国家庭中就有一个无法经常获得充足的食物，但所有食物中仍有多达40%无人食用。造成这一问题的一个主要原因，是人们对食品保质期标签的困惑，而这些标签目前并未受到政府监管。"
+              },
+              {
+                "en": "M: All this could change soon. This wave of new laws in Europe will definitely put more pressure on lawmakers to reduce food waste here. We turn now to a spokesperson from Harvard University's Food Law and Policy Clinic for more on the story. And now, let's welcome Professor Edward Baker to speak to us.",
+                "zh": "M: 这一切可能很快就会改变。欧洲这股新法律浪潮无疑会给这里的立法者施加更大压力，促使他们减少食物浪费。现在，让我们听听哈佛大学食品法律与政策诊所的一位发言人对这件事的更多介绍。现在，让我们欢迎 Edward Baker 教授为我们讲话。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "it has started a week-long promotion campaign."
+                  },
+                  {
+                    "l": "B",
+                    "t": "it has just launched its annual anniversary sales."
+                  },
+                  {
+                    "l": "C",
+                    "t": "it offers regular weekend sales all the year round."
+                  },
+                  {
+                    "l": "D",
+                    "t": "it specializes in the sale of ladies' designer dresses."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "price reductions for its frequent customers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "coupons for customers with bulk purchases."
+                  },
+                  {
+                    "l": "C",
+                    "t": "free delivery of purchases for senior customers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "price adjustments within seven days of purchase."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Mail a gift card to her."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Allow her to buy on credit."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Credit it to her account."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Give her some coupons."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "refunding for goods returned."
+                  },
+                  {
+                    "l": "B",
+                    "t": "free installing of appliances."
+                  },
+                  {
+                    "l": "C",
+                    "t": "prolonged goods warranty."
+                  },
+                  {
+                    "l": "D",
+                    "t": "complimentary tailoring."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Thank you for calling Saks Fifth Avenue Department Store. How can I be of assistance to you today?",
+                "zh": "M: 感谢您致电萨克斯第五大道百货商店。请问今天有什么可以帮您？"
+              },
+              {
+                "en": "W: Hello, I was in your store this past weekend and bought a few items. Yesterday, my friend told me that the annual anniversary sales had begun. It turned out she bought the same sweater as I did, but for a much lower price.",
+                "zh": "W: 您好，我上周末到过你们店里，买了几件东西。昨天，我朋友告诉我一年一度的店庆促销已经开始了。后来我才知道，她买了和我一样的毛衣，但价格比我买的低很多。"
+              },
+              {
+                "en": "M: Yes. Our anniversary sales started on Monday. We do offer price adjustments within 7 days of purchase to ensure our customers' satisfaction. You said you did the purchase here this past weekend?",
+                "zh": "M: 是的。我们的店庆促销从周一开始。为了确保顾客满意，我们提供购买后7天内的价格调整服务。您刚才说您是上周末在这里购买的吗？"
+              },
+              {
+                "en": "W: Yes. I was shopping in your store last Sunday afternoon.",
+                "zh": "W: 是的。我上周日下午在你们店里购物。"
+              },
+              {
+                "en": "M: That would definitely fall within the price adjustment window. Do you have an account with us? We can credit your account directly with the difference if you wish. Otherwise, we can send a gift card by mail if you prefer.",
+                "zh": "M: 那肯定在价格调整期限内。您在我们这里有账户吗？如果您愿意，我们可以直接把差价存入您的账户。否则，如果您更 prefer，我们也可以邮寄一张礼品卡给您。"
+              },
+              {
+                "en": "W: Crediting my account would be wonderful. Thank you. Now that you mention there is a sale going on, I do remember a dress I quite liked when I was in the shop on Sunday. Is it on offer as well?",
+                "zh": "W: 把钱存入我的账户就太好了。谢谢。既然您提到现在正在促销，我确实想起了周日在店里时看中了一条裙子。那条裙子也在促销吗？"
+              },
+              {
+                "en": "M: Yes, ma'am. All the new arrivals are fifteen to twenty percent off. In addition to the sale, we are running a promotion for complimentary tailoring if you need it.",
+                "zh": "M: 是的，女士。所有新品都打八折到八五折。除了促销活动之外，如果您有需要，我们还提供免费修改服务。"
+              },
+              {
+                "en": "W: That's good news. The dress really caught my eye but I did have some concerns about the length. How long will the alterations take?",
+                "zh": "W: 那太好了。那条裙子确实很吸引我，但我对长度有些顾虑。修改需要多长时间？"
+              },
+              {
+                "en": "M: Our tailoring department guarantees alterations to be completed within 5 working days. If you'd like, I can set one aside for you. If you are able to come this afternoon, you can give your name to the sales manager and they will be able to assist you.",
+                "zh": "M: 我们的裁缝部保证在5个工作日内完成修改。如果您愿意，我可以为您留一条。如果您今天下午能过来，只要把您的姓名告诉销售经理，他们就能为您提供帮助。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "they are thin, tall, and unlike real human beings."
+                  },
+                  {
+                    "l": "B",
+                    "t": "they have more than twenty different hair textures."
+                  },
+                  {
+                    "l": "C",
+                    "t": "they have twenty-four different body shapes in total."
+                  },
+                  {
+                    "l": "D",
+                    "t": "they represent people from virtually all walks of life."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "they do not reflect young girls' aspirations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "they are not sold together with the original."
+                  },
+                  {
+                    "l": "C",
+                    "t": "their flat feet do not appeal to adolescents."
+                  },
+                  {
+                    "l": "D",
+                    "t": "their body shapes have not changed much."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "in toy stores"
+                  },
+                  {
+                    "l": "B",
+                    "t": "in shopping malls."
+                  },
+                  {
+                    "l": "C",
+                    "t": "on the internet"
+                  },
+                  {
+                    "l": "D",
+                    "t": "at Barbie shops\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Barbie dolls have a particular look to them. They're thin, tall, long-legged … and virtually unlike any real human being. Although over the years Barbie has had more than 180 different careers—including football coach, sign language teacher, ambassador, president and astronaut—her body shape hasn't changed much.",
+                "zh": "芭比娃娃有着独特的外形。她们身材纤细、高挑、双腿修长……几乎不像任何真实的人类。多年来，芭比曾从事过180多种不同职业，包括足球教练、手语教师、大使、总统和宇航员，但她的体形并没有太大变化。"
+              },
+              {
+                "en": "Last year Mattel, the company that makes Barbie dolls, added some Barbies to its line that have different skin tones and hair textures. There are now Barbies with one of seven skin tones, 22 eye colours and 24 hair styles to choose from. Last year Mattel also gave Barbie a flat foot, rather than forcing her to be \"in heels\" all the time like the original Barbie is.",
+                "zh": "去年，生产芭比娃娃的美泰公司在其产品系列中增加了一些拥有不同肤色和发质的芭比娃娃。现在，消费者可以选择拥有七种肤色之一、22种眼睛颜色和24种发型的芭比娃娃。去年，美泰还让芭比拥有了平底脚，而不是像最初的芭比那样一直被迫“穿着高跟鞋”。"
+              },
+              {
+                "en": "Now they are introducing new Barbies with three slightly different body shapes, while the original, tall and thin Barbies will continue to be sold.",
+                "zh": "现在，他们正在推出三种略有不同体形的新款芭比娃娃，而原有的高挑纤细款芭比仍将继续销售。"
+              },
+              {
+                "en": "In a statement on its website, the company says it wants Barbies to look more like real people, and to give \"girls everywhere … infinitely more ways to spark their imagination and play out their stories.\"",
+                "zh": "该公司在其网站的一份声明中表示，他们希望芭比娃娃看起来更像真实的人，并为“世界各地的女孩……提供无限多种方式来激发想象力、演绎她们自己的故事”。"
+              },
+              {
+                "en": "Although many people say the new Barbies are a step in the right direction, some people say they don't go far enough. They say that the new body shapes could be even more different from the original, tall, thin Barbies.",
+                "zh": "尽管许多人表示，新款芭比娃娃朝着正确的方向迈进了一步，但也有人认为它们还不够。他们说，新款芭比的体形还可以与原有的高挑纤细款芭比有更大的差异。"
+              },
+              {
+                "en": "Sales of Barbie dolls have been falling \"every year since 2012,\" according to CBC News.",
+                "zh": "据 CBC News 报道，芭比娃娃的销量“自2012年以来每年都在下降”。"
+              },
+              {
+                "en": "The toys aren't in stores yet but they will be sold online at the Barbie website, starting this week, for $9.99.",
+                "zh": "这些玩具目前还没有在商店出售，但从本周开始，它们将在芭比官网上以9.99美元的价格进行线上销售。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "moveable metal type began to be used in printing"
+                  },
+                  {
+                    "l": "B",
+                    "t": "Chinese printing technology was first introduced"
+                  },
+                  {
+                    "l": "C",
+                    "t": "The earliest known book was published"
+                  },
+                  {
+                    "l": "D",
+                    "t": "metal type was imported from Korea"
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "it had more than a hundred printing presses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "it was the biggest printer in the 16th century."
+                  },
+                  {
+                    "l": "C",
+                    "t": "it helped the German people become literate."
+                  },
+                  {
+                    "l": "D",
+                    "t": "it produced some 20 million volumes in total"
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "it pushed handwritten books out of circulation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "it boosted the circulation of popular works."
+                  },
+                  {
+                    "l": "C",
+                    "t": "it made writing a very profitable career."
+                  },
+                  {
+                    "l": "D",
+                    "t": "it provided readers with more choices."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "it accelerated the extinction of the Latin language."
+                  },
+                  {
+                    "l": "B",
+                    "t": "it standardized the publication of grammar books."
+                  },
+                  {
+                    "l": "C",
+                    "t": "turned translation into a welcome profession."
+                  },
+                  {
+                    "l": "D",
+                    "t": "it promoted the growth of national languages"
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The earliest printed book we know today appeared in China in the year 868, and metal type was in use in Korea at the beginning of the fifteenth century, but it was in Germany around the year 1450 that a printing press using movable metal type was invented. Capitalism turned printing from an invention into an industry. Right from the start, book printing and publishing were organized on capitalist lines. The biggest sixteenth-century printer, Plantin of Antwerp, had twenty-four printing presses and employed more than a hundred workers. Only a small fraction of the population was literate, but the production of books grew at an extraordinary speed. By 1500 some twenty million volumes had already been printed.",
+                "zh": "我们今天所知的最早的印刷书籍于868年出现在中国，而金属活字在15世纪初已在朝鲜使用；但是，大约在1450年，德国发明了使用金属活字的印刷机。资本主义把印刷从一项发明变成了一个产业。从一开始，书籍印刷和出版就按照资本主义方式组织起来。16世纪最大的印刷商、安特卫普的普朗坦拥有24台印刷机，雇用了100多名工人。当时只有一小部分人口识字，但书籍的生产却以惊人的速度增长。到1500年，已经印刷了大约2000万册书籍。"
+              },
+              {
+                "en": "The immediate effect of printing was to increase the circulation of works that were already popular in a handwritten form, while less popular works went out of circulation. Publishers were interested only in books that would sell fairly quickly in sufficient numbers to cover the costs of production and make a profit. Thus, while printing enormously increased access to books by making cheap, high-volume production possible, it also reduced choice.",
+                "zh": "印刷术产生的直接影响，是增加了那些原本以手抄形式已经广受欢迎的作品的流通，而不太受欢迎的作品则停止流通。出版商只对那些能够在较短时间内以足够数量售出，从而收回生产成本并获得利润的书籍感兴趣。因此，印刷术使低价、大批量生产成为可能，极大地增加了人们接触书籍的机会，但同时也减少了选择。"
+              },
+              {
+                "en": "The great cultural impact of printing was that it facilitated the growth of national languages. Most early books were printed in Latin, but the market for Latin was limited, and in its pursuit of larger markets the book trade soon produced translations into the national languages emerging at the time. Printing indeed played a key role in standardizing and stabilizing these languages by fixing them in print, and producing dictionaries and grammar books.",
+                "zh": "印刷术产生的重大文化影响，在于它促进了民族语言的发展。早期的大多数书籍都是用拉丁文印刷的，但拉丁文的市场有限。为了开拓更大的市场，图书贸易很快就开始把书籍翻译成当时正在兴起的民族语言。印刷术通过将这些语言固定在印刷文本中，并编纂词典和语法书，确实在使它们标准化和稳定化方面发挥了关键作用。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It promoted the growth of national languages"
+                  },
+                  {
+                    "l": "B",
+                    "t": "They spend an average of one year finding a job."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They become stuck in the same job for decades."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They choose a job without thinking it through."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "see if there will be chances for promotion."
+                  },
+                  {
+                    "l": "B",
+                    "t": "find out what job choices are available."
+                  },
+                  {
+                    "l": "C",
+                    "t": "watch a film about ways of job hunting."
+                  },
+                  {
+                    "l": "D",
+                    "t": "decide which job is most attractive to you."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "the qualifications you have."
+                  },
+                  {
+                    "l": "B",
+                    "t": "the pay you are going to get."
+                  },
+                  {
+                    "l": "C",
+                    "t": "the culture of your target company."
+                  },
+                  {
+                    "l": "D",
+                    "t": "the work environment you will be in.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "You dream about being a movie star. You'll live in a big house in Hollywood, go to the Oscars every year—and win! You'll be rich and famous. Wait a minute, you also hate having your photo taken, and you're very shy, so how could you ever become a movie star?",
+                "zh": "你梦想成为一名电影明星。你将住在好莱坞的一所大房子里，每年参加奥斯卡颁奖典礼——而且还会获奖！你会变得富有而出名。不过等一下，你还讨厌别人给你拍照，而且你非常害羞，那么你怎么可能成为电影明星呢？"
+              },
+              {
+                "en": "Choosing the right career can be hard. Many people graduate from school or college not knowing what to do with their lives, and get a job without really thinking about it. For some, things work out fine, but others often find themselves stuck in a job they hate. Your working life lasts an average of forty years, so it's important to find a job you like and feel enthusiastic about. Luckily, there are many ways you can get help to do this.",
+                "zh": "选择合适的职业可能很难。许多人从学校或大学毕业时，并不知道自己一生想做什么，于是没有真正认真考虑就找了一份工作。对有些人来说，事情进展得很顺利，但另一些人常常发现自己被困在一份讨厌的工作中。你的职业生涯平均会持续四十年，因此找到一份自己喜欢并且愿意为之投入热情的工作非常重要。幸运的是，你可以通过许多方式获得帮助来做到这一点。"
+              },
+              {
+                "en": "The Australian website, www.careersonline.com, compares choosing a career with going to the movies. Before you see a movie, you find out what films are showing. The site suggests you should do the same with your career—find out what jobs are available and what your options are. Next, decide which movie you like best. If you're not a romantic person, you won't want to see a love story. In other words, with your career, you should decide which job will suit your personality. Finally, decide how to get movie tickets, and find out where the theater is before you go. With your career, you need to find information about where you can work, and how to get a job in that profession.",
+                "zh": "澳大利亚网站 www.careersonline.com 将选择职业比作看电影。在看电影之前，你会先了解正在上映哪些影片。该网站建议你在选择职业时也应这样做——了解有哪些工作可供选择，以及你有哪些选择。接下来，决定你最喜欢哪部电影。如果你不是一个浪漫的人，就不会想看爱情故事。换句话说，在选择职业时，你应该决定哪种工作适合你的性格。最后，决定如何购买电影票，并在出发前弄清楚电影院在哪里。在选择职业时，你需要了解可以在哪里工作，以及如何在这一行业找到工作。"
+              },
+              {
+                "en": "So, how do you start? Begin by asking yourself some questions. Some jobs require you to have certain life experiences: Have you traveled overseas? Do you have any extra certificates besides your degree, such as a first aid license, for example? Your physical state and build can also affect which jobs you can do. A person, for example, who is allergic to cats would probably never become an animal doctor. Flight attendants, firefighters, and police officers have to be over a certain height, and be physically fit. Your personality matters, too. Are you outgoing or shy? If you like working alone, a job that requires lots of teamwork might not suit you.",
+                "zh": "那么，你该如何开始呢？先问自己一些问题。有些工作要求你具备某些生活经历：你去过海外吗？除了学位之外，你是否还持有其他证书，例如急救证书？你的身体状况和体格也会影响你能够从事哪些工作。例如，一个对猫过敏的人可能永远不会成为一名动物医生。空乘人员、消防员和警察必须达到一定身高，并且身体健康。你的性格也很重要。你是外向还是害羞？如果你喜欢独自工作，那么一份需要大量团队合作的工作可能不适合你。"
+              },
+              {
+                "en": "Choosing a career can take time and a lot of thought. However, when you know you can look forward to working in your dream job, you'll be glad you thought it through.",
+                "zh": "选择职业可能需要时间，也需要认真思考。然而，当你知道自己可以期待从事梦想中的工作时，你会庆幸自己曾经认真考虑过。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is as important as Christmas for African-Americans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a cultural festival founded for African-Americans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is an ancient festival celebrated by African-Americans."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a religious festival celebrated by African-Americans."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "to urge African-Americans to do more for society."
+                  },
+                  {
+                    "l": "B",
+                    "t": "to call on African-Americans to worship their gods."
+                  },
+                  {
+                    "l": "C",
+                    "t": "to help African-Americans to realize their goals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "to remind African-Americans of their sufferings."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "faith in self-determination."
+                  },
+                  {
+                    "l": "B",
+                    "t": "the first fruits of the harvest."
+                  },
+                  {
+                    "l": "C",
+                    "t": "unity and cooperative economics."
+                  },
+                  {
+                    "l": "D",
+                    "t": "creative work and achievement."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "they recite a principle."
+                  },
+                  {
+                    "l": "B",
+                    "t": "they take a solemn oath."
+                  },
+                  {
+                    "l": "C",
+                    "t": "they drink wine from the unity cup."
+                  },
+                  {
+                    "l": "D",
+                    "t": "they call out their ancestors' names.\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Kwanzaa is a cultural festival during which African-Americans celebrate and reflect upon their rich heritage as the products of two worlds. It begins December 26th and lasts for seven days.",
+                "zh": "宽扎节是一个文化节日，非裔美国人在此期间庆祝并反思他们作为两个世界的产物所拥有的丰富遗产。节日从12月26日开始，持续七天。"
+              },
+              {
+                "en": "Kwanzaa is a cultural festival during which African-Americans celebrate and reflect upon their rich heritage as the products of two worlds. It begins December 26th and lasts for seven days.",
+                "zh": "宽扎节是一个文化节日，非裔美国人在此期间庆祝并反思他们作为两个世界的产物所拥有的丰富遗产。节日从12月26日开始，持续七天。"
+              },
+              {
+                "en": "After conducting extensive research in which he studied the festivals of many African groups of people, he decided that the new holiday should be a harvest or \"first fruits\" celebration, incorporating ideas from many different harvest traditions. Kwanzaa is a Kiswahili word meaning \"the first fruits of the harvest.\"",
+                "zh": "在进行了广泛研究、考察了许多非洲族群的节庆之后，他决定这个新节日应当是一个丰收节或“初熟果实”庆典，融入许多不同丰收传统中的理念。Kwanzaa是斯瓦希里语，意为“丰收的初熟果实”。"
+              },
+              {
+                "en": "The East African language of Kiswahili was chosen as the official language of Kwanzaa because it is a non-tribal language, spoken by a large portion of the African population. Also, its pronunciation is easy. Kwanzaa is based on seven principles which are unity, self-determination, collective work and responsibility, cooperative economics, purpose, creativity and faith. One principle is highlighted each day of the holiday.",
+                "zh": "东非语言斯瓦希里语被选为宽扎节的官方语言，因为它不属于任何部族，并且有相当一部分非洲人口使用这种语言。此外，它的发音很容易。宽扎节以七项原则为基础，分别是团结、自决、集体工作与责任、合作经济、宗旨、创造力和信仰。节日期间每天突出一项原则。"
+              },
+              {
+                "en": "In preparation for the celebration, a straw mat is placed on the table, along with a candle holder with seven candles, one black, three red, and three green. The black candle represents the African-American people, the red is for their struggles, and the green represents their hopes for the future. Other items placed on the table are a variety of fruit, ears of corn, gifts, and a communal unity cup for pouring and sharing drinks.",
+                "zh": "为庆祝节日，人们会在桌上铺一张草席，并摆放一个插有七支蜡烛的烛台，其中一支黑色、三支红色、三支绿色。黑色蜡烛代表非裔美国人，红色代表他们所经历的斗争，绿色代表他们对未来的希望。桌上还会摆放各种水果、玉米穗、礼物，以及一个用于倒取和分享饮料的团结杯。"
+              },
+              {
+                "en": "Each day of Kwanzaa, usually before the evening meal, family and friends gather around the table and someone lights a candle, beginning with the black. After that, candles are lit alternately from left to right. While the candle is being lit, a principle is recited; then each person present takes a turn to speak about the importance that principle has to himself or herself.",
+                "zh": "宽扎节期间的每一天，通常在晚餐前，家人和朋友都会围坐在桌旁，由一人点燃蜡烛，先点黑色蜡烛。随后，蜡烛从左至右交替点燃。点燃蜡烛时，人们会诵读一项原则；然后，在场的每个人轮流谈论这项原则对自己的重要性。"
+              },
+              {
+                "en": "Next the ceremony focuses on remembering those who have died. A selected person pours water or juice from the unity cup into a bowl. That person then drinks from the cup and raises it high saying \"Harambee\" which means \"Let's all pull together.\" All repeat \"Harambee\" seven times and each person drinks from the cup. Then names of African-American leaders and heroes are called out, and everyone reflects upon the great things these people did. The ceremony is followed by a meal, and then singing and perhaps listening to African music.",
+                "zh": "接下来，仪式将重点转向缅怀逝者。一名指定人员将团结杯中的水或果汁倒入碗中，然后从杯中饮用，并高高举起杯子说：“Harambee”，意思是“让我们同心协力”。所有人重复七遍“Harambee”，并且每个人都从杯中饮用。随后，人们会念出非裔美国人领袖和英雄的名字，大家一起回想这些人所做出的伟大贡献。仪式结束后是用餐，接着唱歌，也可能聆听非洲音乐。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is one of the world's most healthy diets."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It contains large amounts of dairy products."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It began to impact the world in recent years."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It consists mainly of various kinds of seafood."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It involved 13,000 researchers from Asia, Europe and America."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was conducted in seven mid-eastern countries in the 1950s."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is regarded as one of the greatest researches of its kind."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has drawn the attention of medical doctors the world over."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "they care much about their health."
+                  },
+                  {
+                    "l": "B",
+                    "t": "they eat foods with little fat."
+                  },
+                  {
+                    "l": "C",
+                    "t": "they use little oil in cooking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "they have lower mortality rates."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The Mediterranean diet is based upon the eating patterns of traditional cultures in the Mediterranean region.",
+                "zh": "地中海饮食以地中海地区传统文化的饮食模式为基础。"
+              },
+              {
+                "en": "Several noted nutritionists and research projects have concluded that this diet is one of the most healthful in the world in terms of preventing such illnesses as heart disease and cancer, and increasing life expectancy.",
+                "zh": "一些知名营养学家和研究项目得出结论认为，就预防心脏病和癌症等疾病以及延长预期寿命而言，这种饮食是世界上最有益健康的饮食之一。"
+              },
+              {
+                "en": "The countries that have inspired the Mediterranean diet all surround the Mediterranean Sea. These cultures have eating habits that developed over thousands of years. In Europe, parts of Italy, Greece, Portugal, Spain, and southern France adhere to principles of the Mediterranean diet, as do Morocco and Tunisia in North Africa. Parts of the Balkan region and Turkey follow the diet, as well as Middle Eastern countries like Lebanon and Syria. The Mediterranean region is warm and sunny, and produces large supplies of fresh fruits and vegetables almost year round that people eat many times a day. Wine, bread, olive oil, and nuts are other staples of the region, and the Mediterranean Sea has historically yielded abundant quantities of fish.",
+                "zh": "启发了地中海饮食的国家都环绕着地中海。这些文化的饮食习惯经过数千年的发展而形成。在欧洲，意大利、希腊、葡萄牙、西班牙的部分地区以及法国南部遵循地中海饮食的原则，北非的摩洛哥和突尼斯也是如此。巴尔干地区的部分地区和土耳其遵循这种饮食，黎巴嫩和叙利亚等中东国家也是如此。地中海地区温暖而阳光充足，几乎全年都能大量产出新鲜水果和蔬菜，人们每天要多次食用这些食物。葡萄酒、面包、橄榄油和坚果是该地区的其他主食，而地中海历来盛产大量鱼类。"
+              },
+              {
+                "en": "International interest in the therapeutic qualities of the Mediterranean diet began back in the late 1950s, when medical researchers started to link the occurrence of heart disease with diet. Dr. Ancel Keys performed an epidemiological analysis of diets around the world. Entitled the Seven Countries Study, it is considered one of the greatest studies of its kind ever performed. In it, Keys gathered data on heart disease and its potential causes from nearly 13,000 men in Greece, Italy, Croatia, Serbia, Japan, Finland, the Netherlands, and the United States. The study was conducted over a period of decades. It concluded that the Mediterranean people in the study enjoyed some significant health advantages. The Mediterranean groups had lower mortality rates in all age brackets and from all causes, particularly from heart disease. The study also showed that the Mediterranean diet is as high or higher in fat than other diets, obtaining up to 40% of all its calories from fat. It has, however, different patterns of fat intake. Mediterranean cooking uses smaller amounts of saturated fat and higher amounts of unsaturated fat, mostly in the form of olive oil. Saturated fats are fats that are found principally in meat and dairy products, although some nuts and vegetable oils also contain them. Saturated fats are used by the body to make cholesterol, and high levels of cholesterol have since been directly related to heart disease.",
+                "zh": "国际社会对地中海饮食疗效的兴趣始于20世纪50年代末，当时医学研究人员开始将心脏病的发生与饮食联系起来。Ancel Keys博士对世界各地的饮食进行了流行病学分析。这项名为“七国研究”的研究被认为是有史以来同类研究中最重要的研究之一。在这项研究中，Keys收集了来自希腊、意大利、克罗地亚、塞尔维亚、日本、芬兰、荷兰和美国的近13,000名男性的心脏病及其潜在病因数据。这项研究历时数十年。研究得出结论，参与研究的地中海地区居民享有一些显著的健康优势。地中海地区各组人群在所有年龄段以及各种死因中的死亡率都较低，尤其是心脏病死亡率较低。研究还表明，地中海饮食中的脂肪含量与其他饮食一样高，或更高，其总热量的最高可达40%来自脂肪。不过，它的脂肪摄入模式有所不同。地中海烹饪使用较少的饱和脂肪和较多的不饱和脂肪，其中大部分以橄榄油的形式摄入。饱和脂肪主要存在于肉类和乳制品中，不过一些坚果和植物油也含有饱和脂肪。人体利用饱和脂肪制造胆固醇，而高胆固醇水平后来被证实与心脏病存在直接关联。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "In the past 12 months, Nigeria has suffered from a shrinking economy, a sliding currency, and a prolonged fuel shortage. Now, Africa's largest economy is facing a food crisis as major tomato fields have been destroyed by an insect, leading to a nationwide shortage and escalating prices. The insect, Tutaabsoluta, has destroyed 80% of farms in Kaduna, Nigeria's largest tomato producing state, leading the government there to declare a state of"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ". The insect, also known as the tomato leaf miner, devastates crops by"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "on fruits and digging into and moving through stalks. It"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "incredibly quickly, breeding up to 12 generations per year if conditions are favorable. It is believed to have"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "in South America in the early 1900s, and later spread to Europe before crossing over to sub-Saharan Africa. In Nigeria, where tomatoes are a staple of local diets, the insect's effects are devastating. Retail prices for a"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "of tomatoes at local markets have risen from $0.50 to $2.50. Farmers are reporting steep losses and a new $20 million tomato-paste factory has"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "production due to the shortages. Given the moth's ability also to attack crops like pepper and potatoes, Audu Ogbeh, Nigeria's minister of agriculture, has warned that the pest may \"create serious problems for food"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "\" in the country. Ogbeh says experts are investigating how to control the pest's damage and prevent its spread, which has gone largely"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "until now. Despite being the continent's second-largest producer of tomatoes, Nigeria is"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "on $1 billion worth of tomato-paste imports every year, as around 75% of the local harvest goes to waste thanks to a lack of proper storage facilities. A further"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "in local supplies is yet another unwelcome setback to the industry."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "dependent"
+        },
+        {
+          "l": "B",
+          "w": "Embarking"
+        },
+        {
+          "l": "C",
+          "w": "emergency"
+        },
+        {
+          "l": "D",
+          "w": "feeding"
+        },
+        {
+          "l": "E",
+          "w": "grazes"
+        },
+        {
+          "l": "F",
+          "w": "halted"
+        },
+        {
+          "l": "G",
+          "w": "handful"
+        },
+        {
+          "l": "H",
+          "w": "multitude"
+        },
+        {
+          "l": "I",
+          "w": "originated"
+        },
+        {
+          "l": "J",
+          "w": "reduction"
+        },
+        {
+          "l": "K",
+          "w": "reproduces"
+        },
+        {
+          "l": "L",
+          "w": "security"
+        },
+        {
+          "l": "M",
+          "w": "terror"
+        },
+        {
+          "l": "N",
+          "w": "unchecked"
+        },
+        {
+          "l": "O",
+          "w": "untouch"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "C"
+        },
+        {
+          "n": 27,
+          "a": "D"
+        },
+        {
+          "n": 28,
+          "a": "K"
+        },
+        {
+          "n": 29,
+          "a": "I"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "L"
+        },
+        {
+          "n": 33,
+          "a": "N"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "J"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Who's really addicting you to Technology?",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "\"Nearly everyone I know is addicted in some measure to the internet,\" wrote Tony Schwartz in The New York Times. It's a common complaint these days. A steady stream of similar headlines accuses the Net and its offspring apps, social media sites and online games of addicting us to distraction."
+        },
+        {
+          "l": "B",
+          "t": "There's little doubt that nearly everyone who comes in contact with the Net has difficulty disconnecting. Many of us, like Schwartz, struggle to stay focused on tasks that require more concentration than it takes to post a status update. As one person ironically put it in the comments section of Schwartz's online article, \"As I was reading this very excellent article, I stopped at least half a dozen times to check my email.\""
+        },
+        {
+          "l": "C",
+          "t": "There's something different about this technology: it is both invasive and persuasive. But who's at fault for its overuse? To find solutions, it's important to understand what we're dealing with. There are four parties conspiring to keep you connected: the tech, your boss, your friends and you."
+        },
+        {
+          "l": "D",
+          "t": "The technologies themselves and their makers are the easiest suspects to blame for our diminishing attention spans. Nicholas Carr, author of The Shallows: what the internet is doing to our brains, wrote, \"The Net is designed to be an interruption system, a machine geared to dividing attention.\""
+        },
+        {
+          "l": "E",
+          "t": "Online services like Facebook, Twitter and the like, are called out as masters of manipulation—making products so good that people can't stop using them. After studying these products for several years, I wrote a book about how they do it. I learned it all starts with the business model. Since these services rely on advertising revenue, the more frequently you use them, the more money they make. It's no wonder these companies employ teams of people focused on engineering their services to be as engaging as possible. These products aren't habit-forming by chance; it's by design. They have an incentive to keep us hooked."
+        },
+        {
+          "l": "F",
+          "t": "However, as good as these services are, there are simple steps we can take to keep them at bay. For example, we can change how often we receive the distracting notifications that trigger our urge to check. According to Adam Marchick, CEO of mobile marketing company Kahuna, less than 15 percent of smartphone users ever bother to adjust their notification settings—meaning the remaining 85 percent of us default to the app makers' every preset trigger. Google and Apple have made it far too difficult to adjust these settings so it's up to us to take steps to ensure we set these triggers to suit our own needs, not the needs of the app makers."
+        },
+        {
+          "l": "G",
+          "t": "While companies like Facebook harvest attention to generate revenue from advertisers, other technologies have no such agenda. Take email, for example. This system couldn't care less how often you use it. Yet to many, email is the most habit-forming medium of all. We check email at all hours of the day—we're obsessed. But why? Because that's what the boss wants. For almost all white-collar jobs, email is the primary tool of corporate communication. A slow response to a message could hurt not only your reputation but also your livelihood."
+        },
+        {
+          "l": "H",
+          "t": "Your friends are also responsible. Think about this familiar scene. People gathered around a table, enjoying food and each other's company. There's laughter and a bit of kidding. Then, during an interval in the conversation, someone takes out their phone to check who knows what. Barely anyone notices and no one says a thing."
+        },
+        {
+          "l": "I",
+          "t": "Now imagine the same dinner, but instead of checking their phone, the person belches(打嗝) loudly. Everyone notices. Unless the meal takes place in a beer house, this is considered bad manners. The impolite act violates the basic rules of etiquette. One has to wonder: why don't we apply the same social norms to checking phones during meals, meetings and conversations as we do to other antisocial behaviors? Somehow, we accept it and say nothing when someone offends."
+        },
+        {
+          "l": "J",
+          "t": "The reality is taking one's phone out at the wrong time is worse than belching because, unlike other minor offenses, checking tech is contagious. Once one person looks at their phone, other people feel compelled to do the same, starting a chain reaction. The more people are on their phones, the fewer people are talking until finally you are the only one left not reading email or checking Twitter. From a societal perspective, phone checking is less like belching in public and more like another bad habit. Our phones are like cigarettes— something to do when we're anxious, bored or when our fingers need something to toy with. Seeing others enjoy a smoke, or sneak a quick glance, is too tempting to resist and soon everyone is doing it."
+        },
+        {
+          "l": "K",
+          "t": "The technology, your boss, and your friends, all influence how often you find yourself using (or overusing) these gadgets. But there's still someone who deserves scrutiny—the person holding the phone."
+        },
+        {
+          "l": "L",
+          "t": "I have a confession. Even though I study habit-forming technology for a living, disconnecting is not easy for me. I'm online far more than I'd like. Like Schwartz and so many others, I often find myself distracted and off task. I wanted to know why so I began self-monitoring to try to understand my behavior. That's when I discovered an uncomfortable truth. I use technology as an escape. When I'm doing something I'd rather not do, or when I'm someplace I'd rather not be, I use my phone to port myself elsewhere. I found that this ability to instantly shift my attention was often a good thing, like when passing time on public transportation. But frequently my tech use was not so benign. When I faced difficult work, like thinking through an article idea or editing the same draft for the hundredth time, for example, a more sinister screen would draw me in. I could easily escape discomfort, temporarily, by answering emails or browsing the web under the pretense of so-called \"research.\" Though I desperately wanted to lay blame elsewhere, I finally had to admit that my bad habits had less to do with new-age technology and more to do with old-fashioned procrastination(拖延)."
+        },
+        {
+          "l": "M",
+          "t": "It's easy to blame technology for being so distracting, but distraction is nothing new. Aristotle and Socrates debated nature of \"akrasia\"—our tendency to do things against our interests. If we're honest with ourselves, tech is just another way to occupy our time and minds. If we weren't on our devices, we'd likely do something similarly unproductive."
+        },
+        {
+          "l": "N",
+          "t": "Personal technology is indeed more engaging than ever, and there's no doubt companies are engineering their products and services to be more compelling and attractive. But would we want it any other way? The intended result of making something better is that people use it more. That's not necessarily a problem, that's progress."
+        },
+        {
+          "l": "O",
+          "t": "These improvements don't mean we shouldn't attempt to control our use of technology. In order to make sure it doesn't control us, we should come to terms with the fact that it's more than the technology itself that's responsible for our habits. Our workplace culture, social norms and individual behaviors all play a part. To put technology in its place, we must be conscious not only of how technology is changing, but also of how it is changing us."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Online services are so designed that the more they are used, the more profit they generate.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "The author admits using technology as an escape from the task at hand.",
+          "a": "L"
+        },
+        {
+          "n": 38,
+          "s": "Checking phones at dinners is now accepted as normal but not belching.",
+          "a": "I"
+        },
+        {
+          "n": 39,
+          "s": "To make proper use of technology, we should not only increase our awareness of how it is changing but also how it is impacting us.",
+          "a": "O"
+        },
+        {
+          "n": 40,
+          "s": "Most of us find it hard to focus on our immediate tasks because of internet distractions.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "when one person starts checking their phone, the others will follow suit.",
+          "a": "J"
+        },
+        {
+          "n": 42,
+          "s": "The great majority of smartphone users don't take the trouble to adjust their settings to suit their own purposes.",
+          "a": "F"
+        },
+        {
+          "n": 43,
+          "s": "The internet is regarded by some as designed to distract our attention.",
+          "a": "D"
+        },
+        {
+          "n": 44,
+          "s": "The author attributes his tech addiction chiefly to his habit of putting off doing what he should do right away.",
+          "a": "L"
+        },
+        {
+          "n": 45,
+          "s": "White-collar workers check email round the clock because it is required by their employers.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "You may have heard that Coca-Cola once contained an ingredient capable of sparking particular devotion in consumers: cocaine. The \"Coca\" in the name referred to the extracts of coca leaf that the drink's originator, chemist John Pemberton, mixed with his sugary syrup(浆汁). At the time, coca leaf extract mixed with wine was a common tonic(滋补品), and Pemberton's sweet brew was a way to get around local laws prohibiting the sale of alcohol. But the other half of the name presents another ingredient, less infamous(名声不好的), perhaps, but also strangely potent: the kola nut. In West Africa, people have long chewed kola nuts as stimulants, because they contain caffeine that also occurs naturally in tea, coffee, and chocolate. They also have heart stimulants. Historian Paul Lovejoy relates that the cultivation of kola nuts in West Africa is hundreds of years old. The leafy, spreading trees were planted on graves and as part of traditional rituals. Even though the nuts, which need to stay moist, can be somewhat delicate to transport, traders carried them hundreds of miles throughout the forests and grasslands. Europeans did not know of them until the 1500s, when Portuguese ships arrived on the coast of what is now Sierra Leone. And while the Portuguese took part in the trade, ferrying nuts down the coast along with other goods, by 1620, when English explorer Richard Jobson made his way up the Gambia, the nuts were still peculiar to his eyes. By the late 19th century, kola nuts were being shipped by the tonne to Europe and the US. Many made their way into medicines, intended as a kind of energy boost. One such popular medicinal drink was Vin Mariani, a French product consisting of coca extract mixed with red wine. It was created by a French chemist, Angelo Mariani, in 1863. So when Pemberton created his drink, it represented an ongoing trend. When cocaine eventually fell from grace as a beverage ingredient, kola-extract colas became popular. The first year it was available, Coca-Cola averaged nine servings a day across all the Atlanta soda fountains where it was sold. As it grew more popular, the company sold rights to bottle the soda, so it could travel easily. Today about 1.9 billion Cokes are purchased daily. It's become so iconic that attempts to change its taste in 1985 —sweetening it in a move projected to boost sales—proved disastrous, with widespread anger from consumers. \"Coca-Cola Classic\" returned to store shelves just three months after the \"New Coke\" was released. These days, the Coca-Cola recipe is a closely guarded secret. But it's said to no longer contain kola nut extract, relying instead on artificial imitations to achieve the flavour.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn about chemist John Pemberton?",
+            "o": [
+              {
+                "l": "A",
+                "t": "He used a strangely potent ingredient in a food supplement."
+              },
+              {
+                "l": "B",
+                "t": "He created a drink containing alcohol without breaking law."
+              },
+              {
+                "l": "C",
+                "t": "He became notorious because of the coca drink he developed."
+              },
+              {
+                "l": "D",
+                "t": "He risked breaking local law to make a drink with coca leaves."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What does the passage say about kola nuts?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their commercial value was first discovered by Portuguese settlers."
+              },
+              {
+                "l": "B",
+                "t": "They contain some kind of energy boost not found in any other food."
+              },
+              {
+                "l": "C",
+                "t": "Many were shipped to Europe in the late 19th century for medicinal use."
+              },
+              {
+                "l": "D",
+                "t": "They were strange to the Europeans when first imported from West Africa."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "How come kola-extract colas became popular?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Cocaine had become notorious."
+              },
+              {
+                "l": "B",
+                "t": "Alcoholic drinks were prohibited."
+              },
+              {
+                "l": "C",
+                "t": "Fountains were set up to sell them."
+              },
+              {
+                "l": "D",
+                "t": "Rights were sold to bottle the soda."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What is known about the taste of Coca-Cola?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It was so designed as to create addiction in consumers."
+              },
+              {
+                "l": "B",
+                "t": "It still relies on traditional kola nut extract."
+              },
+              {
+                "l": "C",
+                "t": "It has become more popular among the old."
+              },
+              {
+                "l": "D",
+                "t": "It has remained virtually unchanged since its creation."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What is the passage mainly about?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The evolution of Coca-Cola."
+              },
+              {
+                "l": "B",
+                "t": "The success story of Coca-Cola."
+              },
+              {
+                "l": "C",
+                "t": "The medicinal value of Coca-Cola."
+              },
+              {
+                "l": "D",
+                "t": "The business strategy of Coca-Cola."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Twenty years ago, the Urban Land Institute defined the two types of cities that dominated the US landscape: smaller cities that operated around standard 9-5 business hours and large metropolitan areas that ran all 24 hours of the day. Analyzing and comparing cities using the lens of this basic divide gives interesting context to how investment capital flows and housing prices have shifted. In recent years, many mid-sized cities have begun to adopt a middle-of-the-road approach incorporating the excitement and opportunity of large cities with small cities' quiet after midnight. These 18-hour cities are beginning to make waves in real estate rankings and attract more real estate investment. What is underlying this new movement in real estate, and why do these cities have so much appeal? 18-hour cities combine the best of 24-hour and 9-5 cities, which contributes to downtown revitalization. For decades, many downtown cores in small to mid-sized cities were abandoned after work hours by workers who lived in the suburbs. Movement out of city centers was widespread, and downtown tenants were predominantly made up of the working poor. This generated little commerce for downtown businesses in the evenings, which made business and generating tax revenue for municipal upkeep difficult. With the rise of a new concept in urban planning that aims to make life easier and more convenient, however, increasing popularity for urban areas that caused the real estate pushes, in major cities like San Francisco or New York, has inspired a type of forward thinking urbanity and policy in smaller cities. Transforming downtown areas so that they incorporate modern housing and improved walkability to local restaurants, retail, and entertainment—especially when combined with improved infrastructure for cyclists and public transit—makes them appeal to a more affluent demographic. These adjustments encourage employers in the knowledge and talent industries to keep their offices downtown. Access to foot traffic and proximity to transit allow the type of entertainment-oriented businesses such as bars and restaurants to stay open later, which attracts both younger, creative workers and baby boomers nearing retirement alike. Because of their smaller size, most keep hours that allow people to enjoy themselves, then have some quiet after midnight, as opposed to large major cities like New York, where the buzz of activity is ongoing. These 18-hour cities are rapidly on the rise and offer great opportunities for homeowner investment. In many of these cities such as Denver, a diverse and vigorous economy attracted to the urban core has offered stable employment for residents. The right urban mix has propped up home occupancy, increased property values, and attracted significant investment capital.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn about American cities twenty years ago?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They were divided into residential and business areas."
+              },
+              {
+                "l": "B",
+                "t": "Their housing prices were linked with their prosperity."
+              },
+              {
+                "l": "C",
+                "t": "There was a clear divide between large and small cities."
+              },
+              {
+                "l": "D",
+                "t": "They were places where large investment capital flowed."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What can be inferred from the passage about 18-hour cities?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They especially appeal to small businesses."
+              },
+              {
+                "l": "B",
+                "t": "They have seen a rise in property prices."
+              },
+              {
+                "l": "C",
+                "t": "They have replaced quiet with excitement."
+              },
+              {
+                "l": "D",
+                "t": "They have changed America's landscape."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "Years ago, many downtown cores in small to mid-sized cities__________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "had hardly any business activity"
+              },
+              {
+                "l": "B",
+                "t": "were crowded in business hours"
+              },
+              {
+                "l": "C",
+                "t": "exhibited no signs of prosperity"
+              },
+              {
+                "l": "D",
+                "t": "looked deserted in the evenings"
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "What characterizes the new downtown areas in 18-hour cities?",
+            "o": [
+              {
+                "l": "A",
+                "t": "A sudden emergence of the knowledge industry."
+              },
+              {
+                "l": "B",
+                "t": "Flooding in of large crowds of migrant workers."
+              },
+              {
+                "l": "C",
+                "t": "Modernized housing and improved infrastructure."
+              },
+              {
+                "l": "D",
+                "t": "More comfortable life and greater upward mobility."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What have 18-hour cities brought to the local residents?",
+            "o": [
+              {
+                "l": "A",
+                "t": "More chances for promotion."
+              },
+              {
+                "l": "B",
+                "t": "Healthier living environment."
+              },
+              {
+                "l": "C",
+                "t": "Greater cultural diversity."
+              },
+              {
+                "l": "D",
+                "t": "Better job opportunities."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "太湖是中国东部的一个淡水湖,占地面积2250平方公里,是中国第三大淡水湖,仅次于鄱阳和洞庭。太湖约有 90个岛屿,大小从几平方米到几平方公里不等。太湖以其独特的\"太湖石\"而闻名,太湖石常用于装饰中国传统园 林。太湖也以高产的捕鱼业闻名。自上世纪70年代后期以来,捕捞鱼蟹对沿湖的居民来说极为重要,并对周边地 区的经济作出了重大贡献。太湖地区是中国陶瓷( ceramics)业基地之一,其中宜兴的陶瓷厂家生产举世闻名的宜 兴紫砂壶( clay teapot)。",
+    "reference": "Lake Taihu, a freshwater lake in eastern China covering an area of 2,250 square kilometers, is the third largest freshwater lake in China, after Poyang and Dongting. There are about 90 islands in Lake Taihu, ranging in size from a few square meters to several square kilometers. Lake Taihu is famous for its unique Taihu stones, which are often used to decorate traditional Chinese gardens. Lake Taihu is also famous for its productive fishing industry. Since the late 1970s, catching fish and crabs has been extremely important to the residents along the lake and has made significant contributions to the economy of the surrounding areas. The Taihu area is one of the ceramics bases in China, where the ceramics manufacturers in Yixing produce the world-famous Yixing clay teapots."
+  }
+}

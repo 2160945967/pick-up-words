@@ -1,0 +1,1377 @@
+{
+  "id": "cet6-2024-6-2",
+  "level": "cet6",
+  "year": 2024,
+  "month": 6,
+  "set": 2,
+  "title": "2024年6月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays more and more college students have come to realize social practice and academic learning are equally important.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. (You should copy the sentence given in quotes at the beginning of your essay.)",
+    "sample": "Nowadays more and more college students have come to realize social practice and academic learning are equally important. Rather than treating them as rivals competing for limited time, an increasing number of us regard the two as partners that reinforce each other, and I firmly share this view.Academic learning equips us with theories, while social practice tests and deepens them. Knowledge that never leaves the textbook easily fades, yet once applied, it truly takes root. Take my own experience as an example. After studying marketing principles for a whole semester, I joined a campus start-up and helped promote its products online. Only then did the abstract concepts suddenly make sense, and in return the real feedback from customers pushed me back to my books with sharper questions. Learning guided my practice, and practice enriched my learning.Therefore, academic study and social practice are two wheels of the same cart, and neither can be spared. Only by letting them go hand in hand can college students grow into capable talents that society genuinely needs."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Read numerous comments users put online."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Blended all his food without using a machine."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Searched for the state-of-the-art models of blenders."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Did thorough research on the price of kitchen appliances."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Eating any blended food."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Buying a blender herself."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Using machines to do her cooking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making soups and juices for herself."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cooking every meal creatively in the kitchen."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Paying due attention to his personal hygiene."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Eating breakfast punctually every morning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making his own fresh fruit juice regularly."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "One-tenth of it is sugar."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It looks healthy and attractive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "One's fancy may be tickled by it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It contains an assortment of nutrients.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I've just bought a new blender.",
+                "zh": "M: 我刚买了一台新搅拌机。"
+              },
+              {
+                "en": "W: What's that?",
+                "zh": "W: 那是什么？"
+              },
+              {
+                "en": "M: A blender, you know, a machine that blends food.",
+                "zh": "M: 搅拌机，你知道，就是一种用来搅拌食物的机器。"
+              },
+              {
+                "en": "W: Uh, yes, of course, the electric kitchen appliance.",
+                "zh": "W: 呃，知道，当然知道，就是那种电动厨房用具。"
+              },
+              {
+                "en": "M: Exactly, this one is state-of-the-art. I've been meaning to buy one for a while, and I did thorough research on which specific model to get. I read through maybe hundreds of online user reviews. Anyway, it's amazing.",
+                "zh": "M: 没错，这台是最先进的。我想买一台已经有一段时间了，而且还认真研究了到底该买哪个具体型号。我大概看了上百条网上的用户评价。总之，它太棒了。"
+              },
+              {
+                "en": "W: Really? What could be so special about it? I mean it's just a blender.",
+                "zh": "W: 真的吗？它到底有什么特别的？我的意思是，它不就是一台搅拌机吗？"
+              },
+              {
+                "en": "M: Well, basically, it's just a very good one. It feels heavy and sturdy and well made. It also has lots of power and can easily cut and crush practically anything. This way, the soups and juices I make come out really fine and smooth, with no lumpy bits.",
+                "zh": "M: 嗯，基本上，它就是一台非常好的搅拌机。拿在手里感觉很重、很结实，做工也很好。它的功率也很大，几乎什么东西都能轻松切碎、碾碎。这样一来，我做出来的汤和果汁都特别细腻顺滑，没有结块。"
+              },
+              {
+                "en": "W: Um, I see. I've never thought of getting one myself. It sounds like the kind of thing that, for me personally, I would rarely use.",
+                "zh": "W: 嗯，我明白了。我从来没想过自己也买一台。听起来，这种东西对我个人来说应该很少会用到。"
+              },
+              {
+                "en": "M: I've never had one before, and now that I do. I use it all the time. I make a fresh fruit juice in the morning, maybe not every morning, but three or four times a week, and it feels fantastic. It's a really healthy habit.",
+                "zh": "M: 我以前从来没有搅拌机，但现在有了以后，我一直在用。我早上会做新鲜果汁，也不是每天早上都做，但每周会做三四次，而且感觉特别棒。这真是个非常健康的习惯。"
+              },
+              {
+                "en": "W: I can imagine that must feel quite satisfying. I can picture you getting all creative in the kitchen and trying out a multitude of different ingredient combinations, and it's obviously going to be healthier than buying packaged juice from a supermarket.",
+                "zh": "W: 我能想象那一定很令人满足。我都能想象你在厨房里发挥创意，尝试各种各样的食材组合，而且这显然会比从超市买包装果汁更健康。"
+              },
+              {
+                "en": "M: It's so much healthier. It's not even close. Did you know that store-bought juice is like 10% sugar?",
+                "zh": "M: 健康多了，根本不是一个级别的。你知道吗，商店里买的果汁含糖量大约是百分之十？"
+              },
+              {
+                "en": "W: Right, so then you bought it for the health benefits?",
+                "zh": "W: 好吧，所以你买它主要是为了健康方面的好处？"
+              },
+              {
+                "en": "M: Mostly yes. Basically, it allows me to have a more varied diet with a far wider assortment of nutrients, because it's not only fruit in my morning juices you see. I can also throw in vegetables, nuts, yogurts, cereals, anything that tickles my fancy.",
+                "zh": "M: 主要是的。基本上，它让我能拥有更加多样化的饮食，摄入种类丰富得多的营养，因为你看，我早上的果汁里可不只是水果。我还可以加蔬菜、坚果、酸奶、谷物，任何我喜欢的东西都行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How he has made himself popular as the mayor of Berkton."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How the residents will turn Berkton into a tourist attraction."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How charming he himself considers the village of Berkton to be."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How he has led people of Berkton to change the village radically."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was developed only to a limited extent."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was totally isolated as a sleepy village."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was relatively unknown to the outside."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was endowed with rare natural resources."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All the properties in Berkton were designed by the same architect."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The majority of residents lived in harmony with their neighbours."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The majority of residents enjoyed cosy housing conditions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "All the houses in Berkton looked aesthetically similar."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have helped boost the local economy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have made the residents unusually proud."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have contributed considerably to its popularity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have brought happiness to everyone in the village."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Today we have a very interesting guest. Mr. Thomas Benjamin Grimm, the mayor of Berkton, is here to talk about his job and responsibilities overseeing this charming village. Mr. Grimm, thank you for being here.",
+                "zh": "W: 今天我们请到了一位非常有趣的嘉宾。伯克顿的市长托马斯·本杰明·格里姆先生来到这里，和我们谈谈他的工作，以及负责管理这个迷人的村庄所承担的责任。格里姆先生，感谢您今天来到这里。"
+              },
+              {
+                "en": "M: Thank you for having me.",
+                "zh": "M: 谢谢您的邀请。"
+              },
+              {
+                "en": "W: I'd like to start by stating the obvious. Berkton has become one of the most popular tourist destinations in the country, and this has happened under your watch. Just how did you achieve this?",
+                "zh": "W: 我想先从一个显而易见的事实说起。伯克顿已经成为全国最受欢迎的旅游目的地之一，而这一切都是在您的任期内发生的。您究竟是如何做到的？"
+              },
+              {
+                "en": "M: The achievement belongs to all the residents of Berkton. It was a shared effort where everybody pitched in for the communal good.",
+                "zh": "M: 这项成就属于伯克顿的所有居民。这是大家共同努力的结果，每个人都为公共利益贡献了自己的力量。"
+              },
+              {
+                "en": "W: But how did this change happen? In about 10 years, Berkton has gone from a relatively unheard-of sleepy village to a must-see destination.",
+                "zh": "W: 但这种变化是如何发生的呢？大约10年的时间里，伯克顿从一个相对默默无闻、寂静沉睡的村庄，变成了一个必游之地。"
+              },
+              {
+                "en": "M: Yes, the change has truly been remarkable. Berkton was always fortunate to be endowed with such a beautiful natural allure. The Ambury Hills above the village remain untouched by human development, and the Sonora Valley just below it is equally stunning. The transformation commenced in a town hall meeting in spring 2008 over 10 years ago now, when an overwhelming majority of neighbors voted in favor of \"Motion 836\". This legislative proposal essentially set out to harmonize the aesthetic appearance of all the houses in Berkton. The idea was that if all the properties looked a certain way with shared design features, then a village as a whole would look more beautiful. And it worked.",
+                "zh": "M: 是的，这种变化确实非常显著。伯克顿一直很幸运，拥有如此美丽的自然风光。村庄上方的安布里山丘仍未受到人类开发，而下方的索诺拉谷同样美不胜收。这场转变始于十多年前，也就是2008年春天的一次市政厅会议。当时，绝大多数居民投票赞成了“第836号动议”。这项立法提案的核心目标，是让伯克顿所有房屋的外观风格协调统一。这个想法是，如果所有房产都采用某种统一的外观和共同的设计元素，那么整个村庄看起来就会更加美丽。事实证明，这确实奏效了。"
+              },
+              {
+                "en": "W: It certainly did. I'm looking now at a before-and-after photo, and the change is truly remarkable. It's hard to believe it's the same place. And how do the neighbors feel now?",
+                "zh": "W: 确实如此。我现在正在看一张改造前后的照片，这种变化真的非常显著。很难相信这是同一个地方。那么，居民们现在对此有什么感受呢？"
+              },
+              {
+                "en": "M: Great pride, I would say.",
+                "zh": "M: 我想，他们感到非常自豪。"
+              },
+              {
+                "en": "W: But what about the multitudes of visitors now crowding the streets? Is everyone happy about that?",
+                "zh": "W: 但现在有成群的游客挤满街道，这又怎么样呢？大家对此都感到满意吗？"
+              },
+              {
+                "en": "M: The tourists we receive are a blessing, as they have completely revitalized our local economy. Every visitor is warmly welcome.",
+                "zh": "M: 我们迎来的游客是上天的恩赐，因为他们让我们的地方经济彻底恢复了活力。每一位游客都会受到热情欢迎。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have created the smallest remote-controlled walking robot in the world."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are going to publish their research findings in the journal Science Robotics."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are the first to build a robot that can bend, crawl, walk, turn and even jump."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are engaged in research on a remote-controlled robot which uses special power."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It changes its shape by complex hardware."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is operated by a special type of tiny motor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It moves from one place to another by memory."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is powered by the elastic property of its body."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Replace humans in exploratory tasks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Perform tasks in tightly confined spaces."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Explore the structure of clogged arteries."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Assist surgeons in highly complex surgery.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Researchers in the US have created a remote-controlled robot that is so small it can walk on the top of a US penny. In research published in the journal Science Robotics, a team at Northwestern University said the crab-like robot is 0.5mm wide. Researchers described it as the smallest-ever remote-controlled walking robot.",
+                "zh": "美国研究人员研制出一种遥控机器人，小到可以在一枚美国一美分硬币的顶部行走。在《科学机器人学》杂志发表的一项研究中，西北大学的一个团队表示，这种蟹状机器人宽度仅为0.5毫米。研究人员称，这是迄今为止最小的遥控行走机器人。"
+              },
+              {
+                "en": "The tiny robot can bend, twist, crawl, walk, turn, and even jump without the use of complex hardware or special power. The engineers said this is because the robot is powered by the elastic property of its body. To construct the robot, the researchers used a shape-memory alloy material that transforms to its remembered shape when heated.",
+                "zh": "这种微型机器人无需复杂的硬件或特殊动力，就能弯曲、扭转、爬行、行走、转弯，甚至跳跃。工程师表示，这是因为机器人依靠其身体的弹性特性驱动。为了制造这种机器人，研究人员使用了一种形状记忆合金材料，这种材料受热后会恢复到其记忆中的形状。"
+              },
+              {
+                "en": "Using a laser, the team is able to heat the robot at specific parts of its body, causing it to change shape. As the robot deforms and goes back to its original shape, it creates movement from one place to another. \"Because these structures are so tiny, the rate of cooling is very fast,\" project lead Professor John A. Rogers said. \"In fact, reducing the sizes of these robots allows them to run faster.\"",
+                "zh": "团队利用激光加热机器人身体的特定部位，使其发生形变。当机器人变形并恢复到原来的形状时，就会产生从一个地方移动到另一个地方的运动。项目负责人约翰·A·罗杰斯教授说：“由于这些结构非常微小，冷却速度非常快。事实上，缩小这些机器人的尺寸可以使它们运行得更快。”"
+              },
+              {
+                "en": "While the research is still in the exploratory phase, the team believes that technology could lead to micro-sized robots that can perform practical tasks in tightly confined spaces. \"You might imagine micro-robots as agents to repair or assemble small structures or machines in industry or as surgical assistants to clear clogged arteries, to stop internal bleeding, or to eliminate cancerous tumours—all in minimally invasive procedures,\" Rogers said.",
+                "zh": "尽管这项研究仍处于探索阶段，但团队相信，这项技术可能促成能够在极其狭窄空间内执行实际任务的微型机器人。罗杰斯说：“你可以设想，微型机器人可作为执行者，在工业领域维修或组装微小的结构或机器；也可以作为手术助手，在微创手术中清除堵塞的动脉、止住内出血或消除癌性肿瘤。”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She threw up in the bathroom."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She slept during the entire ride."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She dozed off for a few minutes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She boasted of her marathon race."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are mostly immune to cognitive impairment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can sleep soundly during a rough ride at sea."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are genetically determined to need less sleep."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They constitute about 13 percent of the population."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Whether there is a way to reach elite status."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether it is possible to modify one's genes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether having a baby impacts one's passion."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether one can train themselves to sleep less."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is in fact quite possible to nurture a passion for sleep."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Babies can severely disrupt their parents' sleep patterns."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Being forced to rise early differs from being an early bird."
+                  },
+                  {
+                    "l": "D",
+                    "t": "New parents are forced to jump out of bed at the crack of dawn."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I don't want to boast or anything, but I have always considered myself something of an elite sleeper. Given the opportunity, I will sleep for marathon stretches, and can doze through the most extreme situations. On one very rough ferry crossing, on the route to the Isles of Scilly, for example, my traveling companion spent the entire 3-hour-ride throwing up in the bathroom, while I dozed happily on a plastic chair.",
+                "zh": "我不想自夸什么的，但我一直认为自己算得上是睡眠精英。只要有机会，我就会一睡数小时，甚至在最极端的情况下也能打瞌睡。例如，在一次前往锡利群岛的航线上，渡轮经历了一段非常颠簸的航程，我的同伴在整个3小时的旅途中都待在卫生间里呕吐，而我却惬意地坐在塑料椅上打盹。"
+              },
+              {
+                "en": "Unfortunately, it has come to my attention that I am not an elite sleeper after all. It seems I am just lazy, because elite sleepers are defined as the approximately 3 percent of the population who are biologically programmed to need less sleep than the rest of us. According to a study that came out in March, elite sleepers have rare genetic changes, which means they can sleep fewer hours than mere mortals, without any risk of cognitive decline.",
+                "zh": "遗憾的是，我最近才意识到自己终究算不上睡眠精英。看来我只是懒，因为睡眠精英的定义是：约占总人口3%、在生理上注定比我们其他人需要更少睡眠的人。根据一项于3月公布的研究，睡眠精英存在罕见的基因变化，这意味着他们睡眠时间少于普通人，却不会面临认知能力下降的风险。"
+              },
+              {
+                "en": "It may not be possible to change your own genes, but can you train yourself to need less sleep? Is there a non-biological way to reach elite sleeper status? I have spent the past year trying to answer that question. Not for fun, I should add, but because having a baby has severely disrupted my sleep, for which I still have a great passion.",
+                "zh": "改变自己的基因或许不可能，但你能训练自己减少睡眠需求吗？有没有一种非生物学的方法可以成为睡眠精英？过去一年里，我一直在努力回答这个问题。需要补充说明的是，这并不是为了好玩，而是因为生孩子严重打乱了我的睡眠，而我至今仍然非常热爱睡觉。"
+              },
+              {
+                "en": "For a while, I assumed I'd be forced to become one of those people who jump out of bed at the crack of dawn. After a year of tough scientific study, however, I have discovered being forced to get up early in the morning is very different from being an early bird.",
+                "zh": "有一段时间，我以为自己不得不变成那种天一亮就从床上跳起来的人。然而，经过一年的艰苦科学研究，我发现，被迫早起与早起的人是两回事。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "We have poor awareness of how many controversial issues are being debated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "No one knows better than yourself what you are thinking about at the moment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "No one can change your opinions more than those who speak in a convincing tone."
+                  },
+                  {
+                    "l": "D",
+                    "t": "We are likely to underestimate how much we can be swayed by a convincing article."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their belief about physical punishment changed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their memory pushed them toward a current belief."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The memory of their initial belief came back to them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their experiences of physical punishment haunted them."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They apparently have little to do with moderate beliefs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They don't reflect the change of view on physical punishment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may not apply to changes to extreme or deeply held beliefs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are unlikely to alter people's position without more evidence.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If you read an article about a controversial issue, do you think you'd realise if it had changed your beliefs? No one knows your own mind like you do—it seems obvious that you would know if your beliefs had shifted. And yet a new paper in the Quarterly Journal of Experimental Psychology suggests that we actually have very poor awareness of our own belief change, meaning that we will tend to underestimate how much we've been swayed by a convincing article.",
+                "zh": "如果你读了一篇有关争议性问题的文章，你认为自己会意识到它是否改变了你的信念吗？没有人比你更了解自己的想法——你似乎理所当然会知道自己的信念是否发生了变化。然而，《实验心理学季刊》发表的一篇新论文表明，我们实际上很难觉察到自己的信念变化，这意味着我们往往会低估自己受一篇有说服力的文章影响的程度。"
+              },
+              {
+                "en": "The researchers recruited over two hundred undergraduates across two studies and focused on their beliefs about whether physical punishment of kids is an effective form of discipline. The students reported their initial beliefs about whether physical punishment is an effective way to discipline a child on a scale from \"1\" completely disbelieve to \"9\" completely believe. Several weeks later they were given one of two research-based texts to read: each was several pages long and either presented the arguments and data in favour of physical punishment or against it. After this, the students answered some questions to test their comprehension and memory of the text. Then, the students again scored their belief about whether physical punishment is effective or not. Finally, the researchers asked them to recall what their belief had been at the start of the study.",
+                "zh": "研究人员在两项研究中招募了两百多名本科生，重点考察他们对于体罚孩子是否是一种有效管教方式的看法。学生们首先在“1”（完全不相信）到“9”（完全相信）的量表上报告自己对于体罚是否是管教孩子的有效方式的初始看法。几周后，他们被安排阅读两篇基于研究的文章中的一篇：每篇文章都有数页之长，分别陈述支持或反对体罚的论据和数据。读完后，学生们回答了一些问题，以测试他们对文章内容的理解和记忆。随后，学生们再次对自己认为体罚是否有效进行评分。最后，研究人员要求他们回忆研究开始时自己的看法。"
+              },
+              {
+                "en": "The students' belief about physical punishment changed when they read a text that argued against their own initial position. Crucially, the memory of their initial belief was shifted in the direction of their new belief—in fact, their memory was closer to their current belief than their original belief. The more their belief had changed, the larger this memory bias tended to be, suggesting the students were relying on their current belief to deduce the initial belief. The memory bias was unrelated to the measures of how well they'd understood or recalled the text, suggesting these factors didn't play a role in memory of initial belief or awareness of belief change.",
+                "zh": "当学生们读到一篇主张反对其最初立场的文章时，他们对于体罚的看法发生了变化。关键在于，他们对自己初始看法的记忆也朝着新看法的方向发生了偏移——事实上，他们记忆中的初始看法比起原先的看法，更接近当前的看法。他们的看法变化越大，这种记忆偏差通常也越大，这表明学生们可能是在依靠当前的看法来推断最初的看法。记忆偏差与他们对文章的理解程度或回忆程度无关，这说明这些因素并未影响他们对初始看法的记忆，也未影响他们对信念变化的觉察。"
+              },
+              {
+                "en": "The researchers concede that this research was about changes to mostly moderate beliefs—it's likely the findings would be different in the context of changes to extreme or deeply held beliefs. However, our beliefs on most topics are in the moderate range, and as we go about our daily lives reading informative material, these intriguing findings suggest we are mostly ignorant of how what we just read has updated and altered our own position.",
+                "zh": "研究人员承认，这项研究考察的是主要处于中等程度的信念变化——如果是在极端或根深蒂固的信念发生变化的情况下，研究结果很可能会有所不同。然而，我们对大多数问题的看法都处于中等范围，而且当我们在日常生活中阅读信息性材料时，这些耐人寻味的发现表明，我们大多没有意识到刚刚读到的内容如何更新并改变了自己的立场。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "American moms have been increasingly inclined to live alone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The American population has been on the rise in the past 25 years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "American motherhood has actually been on the decline."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The fertility rates in America have in fact been falling sharply."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More new mothers tend to take greater care of their children."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More new mothers are economically able to raise children."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A larger proportion of women take pride in their children."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A larger proportion of women really enjoy motherhood."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The meaning of motherhood has changed considerably."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More and more mothers go shopping to treat themselves."
+                  },
+                  {
+                    "l": "C",
+                    "t": "More mothers have adult children celebrating the holiday."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The number of American mothers has been growing steadily.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "As the American population grows, so does the number of American moms. But, more than a century after Mother's Day became an official holiday, even as that number increases, the share of the American population who are mothers is at the lowest point in a quarter century.",
+                "zh": "随着美国人口增长，美国母亲的人数也在增加。但是，在母亲节成为法定节日一个多世纪之后，尽管这一人数不断上升，母亲在美国总人口中所占的比例却处于四分之一世纪以来的最低点。"
+              },
+              {
+                "en": "It's frequently noted that fertility rates are falling sharply in richer countries. But the less-observed consequence of this trend is that the decline in births can also mean a decline in motherhood in America. According to my analysis of data from the Census Bureau, the decline of American motherhood is real, occurring very quickly, and may continue for some time yet.",
+                "zh": "人们经常注意到，较富裕国家的生育率正在急剧下降。然而，这一趋势一个较少被关注的后果是，出生人数减少也可能意味着美国母亲人数的减少。根据我对人口普查局数据的分析，美国母亲人数的下降确实存在，发生得非常迅速，而且可能还会持续一段时间。"
+              },
+              {
+                "en": "Not only are moms making up less of the population, but their characteristics are changing too, and in a way that might be linked to their proportional decline. Moms today tend to be older than in the past. Just looking at recent years, the change in age-specific birth rates has been drastic.",
+                "zh": "母亲不仅在总人口中所占的比例越来越低，她们的特征也在发生变化，而且这种变化可能与她们比例上的下降有关。如今的母亲往往比过去年长。仅从近几年来看，不同年龄段的生育率变化就十分显著。"
+              },
+              {
+                "en": "In just the past few years, the peak childbearing age range for American women has advanced from that of 25-29 to that of 30-34. Meanwhile, childbearing among women under 20 has fallen by half or more, while childbearing among women 35 and older is rising.",
+                "zh": "就在过去几年中，美国女性生育高峰年龄段已从25至29岁推移到30至34岁。同时，20岁以下女性的生育率下降了一半甚至更多，而35岁及以上女性的生育率正在上升。"
+              },
+              {
+                "en": "One positive consequence of this age shift is that a larger proportion of new mothers are economically prepared to raise children. Less positively, however, many women find that, as they age, they can't have as many kids as they would like. Plus, having children later in life can increase the risk of health complications. These finer points aside, one major consequence of the older-moms trend is that fewer years of a woman's life are spent as a mother. This means that, at any given time, a larger share of women, and thus of the whole population, will report not having children in government surveys. In other words, later motherhood means less motherhood.",
+                "zh": "这一年龄变化带来的一个积极后果是，新生母亲中有更大比例在经济上已做好抚养孩子的准备。然而，不那么积极的是，许多女性发现，随着年龄增长，她们无法生育自己希望拥有的那么多孩子。此外，晚年生育还会增加出现健康并发症的风险。撇开这些更细致的问题不谈，母亲年龄增长趋势的一个主要后果是，女性一生中作为母亲度过的年数减少了。这意味着，在任何特定时点，接受政府调查的女性中，以及因此在全部人口中，报告自己没有孩子的人所占比例都会更高。换句话说，晚育意味着较少的母亲经历。"
+              },
+              {
+                "en": "Even as motherhood rates decline, Mother's Day, of course, will endure. In fact, despite the demographic shift, retail spending on the holiday appears to be rising. It is hard to say if Mother's Day spending is rising more than one would expect, given that the American population keeps growing, but one factor might be that the proportion of women who are the mothers of adult children is rising. And those adult children may spend more generously when it comes to celebrating the moms they no longer live with.",
+                "zh": "即使母亲比例正在下降，母亲节当然仍将延续下去。事实上，尽管人口结构发生了变化，这一节日的零售消费似乎正在增加。很难说母亲节消费的增长是否超出了美国人口持续增长这一因素所能带来的预期，但其中一个原因可能是，成年子女的母亲在女性中的比例正在上升。而这些成年子女在庆祝那些已经不再与自己共同生活的母亲时，可能会更加慷慨。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Add to indoor toxic pollutants."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Absorb poisonous chemicals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Beautify the home environment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Soak up surrounding moisture."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "NASA did experiments in sealed containers resembling the super insulated offices of 1970s."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was based on experiments under conditions unlike those in most homes or offices."
+                  },
+                  {
+                    "l": "C",
+                    "t": "NASA conducted tests in outer space whose environment is different from ours."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It drew its conclusion without any contrastive data from other experiments."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Natural ventilation proves much more efficient for cleaning the air than houseplants."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Houseplants disperse chemical compounds more quickly with people moving around."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Natural ventilation turns out to be most effective with doors and windows wide open."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Houseplants in a normal environment rarely have any adverse impact on the air."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The root cause for misinterpretations of scientific findings."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The difficulty in understanding what's actually happening."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The steps to be taken in arriving at any conclusion with certainty."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The necessity of continually reexamining and challenging findings."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Since NASA published a paper in 1989 claiming that houseplants can soak up pollution and toxic chemicals, businesses and homeowners have increasingly invested in greenery to help clean their air. But, a new analysis suggests it could actually take more than 1,000 plants per square meter to gain a benefit any greater than simply opening a couple of windows.",
+                "zh": "自美国国家航空航天局（NASA）于1989年发表一篇论文，声称室内植物能够吸收污染物和有毒化学物质以来，企业和房主越来越多地投资于绿植，以帮助净化空气。然而，一项新的分析表明，要获得任何超过简单打开几扇窗户所能带来的益处，实际上可能需要每平方米摆放超过1000株植物。"
+              },
+              {
+                "en": "The problem lies in the fact that NASA conducted their tests in sealed containers that do not simulate the conditions in most people's homes or offices. The space agency was primarily concerned about keeping the air fresh for astronauts cut off in biospheres or space stations and helping to combat \"sick building syndrome\", which had become a problem due to the super insulated and energy efficient offices of the late 1970s. By the early 1980s, workers regularly complained of skin rashes, sleeplessness, headaches, and allergies as they breathed in toxic chemicals from paints and plastics.",
+                "zh": "问题在于，NASA是在密封容器中进行测试的，而这种环境并不能模拟大多数人家中或办公室的实际情况。该航天机构主要关注的是如何为被隔绝在生物圈或空间站中的宇航员保持空气清新，以及帮助应对“病态建筑综合征”。由于20世纪70年代末的办公室采用了高度隔热且节能的设计，这种综合征逐渐成为一个问题。到了20世纪80年代初，员工经常抱怨出现皮疹、失眠、头痛和过敏症状，因为他们吸入了来自油漆和塑料的有毒化学物质。"
+              },
+              {
+                "en": "NASA found that certain plants could remove chemicals from the air, and even today, garden centers recommend the plants for air cleaning properties. However, a new evaluation of dozens of studies spanning 30 years found that houseplants in a normal environment have little impact. In fact, natural ventilation is far better at cleaning the air. The researchers also calculated the clean air delivery rate for plants in the studies they analyzed and found that the rate at which plants disperse the compounds was well below the usual rate of air exchange in a normal building, caused by the movement of people coming and going, opening doors and windows.",
+                "zh": "NASA发现，某些植物能够去除空气中的化学物质，直到今天，园艺中心仍会因这些植物具有净化空气的功效而予以推荐。然而，一项对历时30年、涵盖数十项研究的新评估发现，在正常环境中，室内植物的影响微乎其微。事实上，自然通风在净化空气方面要有效得多。研究人员还计算了所分析研究中植物的清洁空气输送率，发现植物分散这些化合物的速率远低于普通建筑通常的空气交换速率；后者是由人员进出以及开关门窗等活动造成的。"
+              },
+              {
+                "en": "Many of the studies did show a reduction in the concentration of volatile organic compounds over time, which is likely why people have seized on them to praise the air purifying virtues of plants. But the researchers' calculation showed it would take 10 to 1,000 plants per square meter of floor space to compete with the air cleaning capacity of a building's air handling system or even just a couple of open windows in a house. In contrast, NASA's sealed experiment recommended one pot plant per 100 square feet.",
+                "zh": "许多研究确实显示，挥发性有机化合物的浓度会随着时间推移而降低，这可能就是人们抓住这一点来赞美植物净化空气功效的原因。但研究人员的计算表明，要与建筑空气处理系统，甚至住宅中仅仅打开几扇窗户的空气净化能力相匹敌，每平方米地面面积需要摆放10至1000株植物。相比之下，NASA的密封实验建议每100平方英尺摆放一盆植物。"
+              },
+              {
+                "en": "This is certainly an example of how scientific findings can be misleading or misinterpreted over time. But it's also a great example of how scientific research should continually reexamine and question findings to get closer to the ground truth of understanding what's actually happening.",
+                "zh": "这无疑说明，科学发现可能会随着时间推移而产生误导或被误解。但这也很好地体现了科学研究应当不断重新审视并质疑已有发现，从而更加接近对实际情况的真实理解。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The Sun Is Also a Star is a truly lovely story of love, romance, fate, and destiny. Natasha is a Jamaican-born immigrant living"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "in America, not by choice exactly. Her parents brought her over and created the situation she"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "to be out of. Daniel is an American born of Korean immigrants. He believes in true love, fate, and all that other nonsense that Natasha"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "through scientific reasoning. Daniel and Natasha meet by"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "on the streets of New York on the day that she is to be"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ". She doesn't tell him that but does allow him to keep her company while he tries to get her to fall in love with him over the course of the day. Natasha is me. I found her so similar to myself. She's scientifically-minded, practical, somewhat cynical, and always"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ". Her obsession with the universe through a scientific lens is infectious and I"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "Daniel seeing that too. Daniel is charming and passionate and has a way with words that even"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "Natasha's tough outer shell. By the end of the book I fell in love with both of them. I used to find romance stories to always be cheap or laughable. I think now I can see the value in escaping into a story of pure optimism. I got"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "in The Sun Is Also a Star and finished it cover to cover in a weekend. I couldn't wait to get to what I hoped would be a happy ending. It's nice every once in a while to give in to magic. It doesn't have to be a hard fantasy novel with actual spells, it can be the magic found between two people who just have that special something. That"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "that causes them to react and spark when they're near each other."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "adore"
+        },
+        {
+          "l": "B",
+          "w": "appraise"
+        },
+        {
+          "l": "C",
+          "w": "assaults"
+        },
+        {
+          "l": "D",
+          "w": "chemistry"
+        },
+        {
+          "l": "E",
+          "w": "coincidence"
+        },
+        {
+          "l": "F",
+          "w": "cracks"
+        },
+        {
+          "l": "G",
+          "w": "deported"
+        },
+        {
+          "l": "H",
+          "w": "dismisses"
+        },
+        {
+          "l": "I",
+          "w": "illegally"
+        },
+        {
+          "l": "J",
+          "w": "lost"
+        },
+        {
+          "l": "K",
+          "w": "perpetually"
+        },
+        {
+          "l": "L",
+          "w": "prescribed"
+        },
+        {
+          "l": "M",
+          "w": "shrewd"
+        },
+        {
+          "l": "N",
+          "w": "skeptical"
+        },
+        {
+          "l": "O",
+          "w": "strives"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "I"
+        },
+        {
+          "n": 27,
+          "a": "O"
+        },
+        {
+          "n": 28,
+          "a": "H"
+        },
+        {
+          "n": 29,
+          "a": "E"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "N"
+        },
+        {
+          "n": 32,
+          "a": "A"
+        },
+        {
+          "n": 33,
+          "a": "F"
+        },
+        {
+          "n": 34,
+          "a": "J"
+        },
+        {
+          "n": 35,
+          "a": "D"
+        }
+      ]
+    },
+    "matching": {
+      "title": "These are the habits to avoid if you want to make a behavior change",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "According to recent research, behavioral change involves physical changes in the brain. In the past decade, researchers have shown that when it comes to the duration of making a new behavior a deep-rooted habit there is not a simple answer. Even for the most productive and disciplined among us, undoing something that has become an automatic part of who we are takes more than an overnight effort. Once we've successfully made that change, we then have to make other adjustments to our lives to ensure that we continue to maintain it, which is often a whole other challenge in itself."
+        },
+        {
+          "l": "B",
+          "t": "At its core, success in changing and maintaining a behavior rarely occurs without the introduction of some sort of system. When there isn't the right framework in place, we face a greater likelihood of derailing our hard-earned progress. To ensure success in changing and maintaining a behavior, we should stay away from some detrimental habits."
+        },
+        {
+          "l": "C",
+          "t": "The first one to avoid is relying on willpower. Think about the last time you vowed to resist a temptation. Perhaps you didn't want to check your phone every 15 minutes, or you were determined not to reach for a chocolate bar at 3 p. m. Think about how difficult it must have been not to glance at your phone when it was within reach, or not to walk to the vending machine when your afternoon slump hit."
+        },
+        {
+          "l": "D",
+          "t": "The research on whether we have finite or infinite willpower is inconclusive, but experts do generally agree that you can't change and sustain a habit if you rely on your willpower alone. The old military saying \"You never rise to the occasion, you only sink to the level of training\" also applies to behavior change. The idea is simple—you repeat something so many times that it becomes automatic."
+        },
+        {
+          "l": "E",
+          "t": "Think about what else you can change about your surrounding that makes it easier for you to perform this change on a daily basis. This is called your \"cue.\" Basically, it's a trigger to perform that particular habit. If you don't want to reach for a sugary treat at 3 p. m. , have a box of herbal tea ready at your desk. When 3 p. m. comes around, that's your cue to pour yourself a cup of hot water and drink that tea, instead of walking to the vending machine."
+        },
+        {
+          "l": "F",
+          "t": "The second one to avoid is focusing on negative goals. Sometimes, it's not your process that lets you down, but the habit that you want to change in the first place. For starters, not eating chocolate to beat your afternoon slump is a harder goal than swapping chocolate for herbal tea when you reach the designated time. Your brain wants to find routines that have succeeded in the past and allow you to repeat those actions again in the future without having to think about them explicitly. However, this habit-learning system isn't so effective when it comes to learning not to do something. That's why rather than giving up something, think about introducing something in its place. Focus on actions you are going to take that will ultimately conflict with the behaviors you want to stop. When your attention is on doing something new, you give your habit system a chance to operate."
+        },
+        {
+          "l": "G",
+          "t": "The third one to avoid is using the same strategies in different circumstances. Because we are creatures of habit, it's natural to assume that when we do manage to adopt and sustain a desirable behavior, that same strategy will work when we want to make another behavior change. But that's not always the case. Sometimes, the system that got you to change one behavior might not work for another."
+        },
+        {
+          "l": "H",
+          "t": "Sometimes we become accustomed to relying on our guts when it comes to decision-making. This serves us well in certain situations, but can hinder us in others especially when we need to consider metrics and data, rather than letting our instinct override everything. For example, if you want to stop checking your email first thing in the morning, you might decide to substitute another activity in its place. But if you want to stop indulging in video games, simply deciding you will go for a run might not be as effective. You might need to introduce another reinforcement, such as meeting a friend and booking an exercise class together."
+        },
+        {
+          "l": "I",
+          "t": "The fourth one to avoid is not forgiving ourselves for slipping up. Of course, even the best-laid plans fail sometimes. You might have stuck to your screen-free nighttime routine for five days, and then a big project landed on your desk and you found yourself in bed with your laptop before you went to sleep. Or you prepared meals on Sunday and stuck to eating healthy dinners at home, but by Friday you found yourself so exhausted and opted to order greasy takeout. Life happens and even if your behavior change is small, every single day can prove pretty inflexible, and at some point your luck may run out, even if just for a day. The perfectionist in you might be screaming to abandon your goals altogether, but try to see it in the bigger picture. Just because you might have temporarily strayed off course doesn't mean you can't start afresh the next day."
+        },
+        {
+          "l": "J",
+          "t": "The final one to avoid is discounting small progress. There's a habit that many perfectionists tend to fall into when they try to establish a behavior change. They focus too much on the big goal and don't take the time to celebrate the small progress they make in the process. Your brain responds to rewards. The basal ganglia, the brain region linked to our performance of habits, is most active at the beginning of a behavior, when the habit is cued, and at the end, when it's rewarded. Say your goal is to run five miles three times a week, and this week you ran one mile on Monday, Wednesday, and Friday. Rather than focusing on how far you've gone toward your goal, think about how you can reward yourself for the progress you've made. It doesn't have to be big or expensive; it can be something as simple as making your favorite fruit juice after your run. Whatever your reward, it has to be more than just the activity itself to get you going."
+        },
+        {
+          "l": "K",
+          "t": "Initiating a new behavior usually seems like the hardest part of the process of change. However, people often fail to adequately prepare for maintaining it. One of the reasons for this is because we mistakenly believe the strategies we used to initiate the change will be equally effective in helping us continue the change. But they won't. Where changing a strongly deep-rooted habit requires changing our belief about that habit that penetrates deeply into our lives, continually manifesting that wisdom requires that we maintain a positive outlook. If our mood is low, the wisdom to behave differently seems to disappear and we go back to eating more and exercising less. The key, then, to maintaining new behaviors is to be happy! Which is why it's so hard to maintain new behaviors."
+        },
+        {
+          "l": "L",
+          "t": "Remember, overcoming the behavioral inertia that prevents us from implementing new changes, like eating a healthy diet or exercising, can benefit us in the long run and can improve our physical and mental health. No one was born with habits. They were all learned, and can all, therefore, be unlearned. The question is: how badly do you really want to change?"
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "There is general consensus among experts that willpower alone cannot guarantee one's success in changing and maintaining a habit.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "One need not abandon their goals completely just because they missed their target temporarily; they can start anew.",
+          "a": "I"
+        },
+        {
+          "n": 38,
+          "s": "Research shows it is quite another challenge to maintain a behavioral change after you have initiated it.",
+          "a": "A"
+        },
+        {
+          "n": 39,
+          "s": "It is wrong to assume the strategies we use to start a change of behavior will work equally well in helping maintain it.",
+          "a": "K"
+        },
+        {
+          "n": 40,
+          "s": "Sometimes, it may not be successful to simply substitute one activity with another to effect a change of habit; you may need extra reinforcement.",
+          "a": "H"
+        },
+        {
+          "n": 41,
+          "s": "One should introduce something new to replace an old habit instead of simply kicking it.",
+          "a": "F"
+        },
+        {
+          "n": 42,
+          "s": "Perfectionists focus too much on their big target and neglect celebrating the small gains they make in the process.",
+          "a": "J"
+        },
+        {
+          "n": 43,
+          "s": "It is of great benefit to us in the long term to conquer the inertia that stops us from making behavioral changes.",
+          "a": "L"
+        },
+        {
+          "n": 44,
+          "s": "The strategy that successfully changed one of your behaviors may not work for some other behavior of yours.",
+          "a": "G"
+        },
+        {
+          "n": 45,
+          "s": "Without a happy mood, it seems that our wisdom to adopt a different behavior vanishes.",
+          "a": "K"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "The \"American Dream\" promises that in the Land of Opportunity, any individual can climb the economic ladder and prosper through hard work and ambition alone. And yet, young Americans today are struggling to earn more than their parents did at the same age, and upward mobility in the US actually compares unfavourably to that of other industrialised nations. So why does the idea of the American Dream persist? A new study in the American Journal of Political Science identifies one factor that has been overlooked: the influence of reality TV. Reality shows have come to dominate US television over the past 20 years, notes Eunji Kim from Vanderbilt University. And the overwhelming majority of these have a \"rags-to-riches\" storyline: they feature ordinary Americans who work hard to achieve great economic success. And while these programmes are regularly among the most-watched shows, news broadcasts—which paint a more realistic view of the economic hardship faced by millions of Americans—get a much smaller proportion of the viewership. Rags-to-riches stories are ubiquitous(无处不在的) on TV—but does watching these programmes actually convince people that economic mobility is easily attainable? To find out, Kim's team had participants watch a 5- minute clip from a reality show with a rags-to-riches storyline. Control participants watched a clip from a reality show that didn't have a rags-to-riches story. After watching the shows, participants rated how much they agreed with four statements relating to the American Dream. The results showed that those who'd watched a rags-to-riches clip did indeed have a significantly greater belief in the American Dream. Interestingly, when participants were separated by party affiliation, this effect was significant among Republicans but not Democrats, suggesting that the kind of messages implicit in these TV shows may play into people's existing socioeconomic beliefs. Kim also conducted a survey of 3,000 US residents. They also rated the extent to which they believed success in life is related to various internal factors (such as ambition) and external factors (such as family wealth). Finally, they read a list of TV programmes and indicated which they regularly watched. Participants who were heavy viewers of rags-to-riches programmes or frequent viewers had a stronger belief in the American Dream than those who never watched such shows. Kim concludes that \"rags-to-riches entertainment media are an important cultural force that promotes and perpetuates beliefs in upward mobility\". And here's the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality. \"In this era of choice, entertainment media is what captures hearts and minds,\" Kim writes. \"Its political consequences are anything but trivial\".",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from the passage about young Americans of today?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They have greater ambitions than their parents."
+              },
+              {
+                "l": "B",
+                "t": "They find it difficult to achieve upward mobility."
+              },
+              {
+                "l": "C",
+                "t": "They have overtaken their parents in terms of earnings."
+              },
+              {
+                "l": "D",
+                "t": "They envy the opportunities in other industrialised nations."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What does Kim's team find about reality TV shows in America?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They reinterpret the essence of the popular rags-to-riches culture."
+              },
+              {
+                "l": "B",
+                "t": "They urge people to achieve economic success through hard work."
+              },
+              {
+                "l": "C",
+                "t": "They help strengthen people's conviction in the American Dream."
+              },
+              {
+                "l": "D",
+                "t": "They feature ordinary Americans striving for social recognition."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "What does the author say about news broadcasts in America?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They attract far fewer viewers than reality TV."
+              },
+              {
+                "l": "B",
+                "t": "They are bent on reporting the dark side of life."
+              },
+              {
+                "l": "C",
+                "t": "They stand in striking contrast with reality TV."
+              },
+              {
+                "l": "D",
+                "t": "They focus on Americans' economic hardships."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What can we infer from the passage about Republicans in general?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They believe strongly in the American Dream."
+              },
+              {
+                "l": "B",
+                "t": "They strive to climb the socio-economic ladder."
+              },
+              {
+                "l": "C",
+                "t": "They have a very strong affiliation with their party."
+              },
+              {
+                "l": "D",
+                "t": "They tend to watch more rags-to-riches TV shows."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What is stated about people who believe in upward mobility?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are likely to blame the government for their plight."
+              },
+              {
+                "l": "B",
+                "t": "They regard political consequences as anything but trivial."
+              },
+              {
+                "l": "C",
+                "t": "They respect individuals striving to climb the social ladder."
+              },
+              {
+                "l": "D",
+                "t": "They are less likely to approve of policies to fight inequality."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "When someone asks us 'what do you do?' we nearly always reply with our occupation. Work, for many of us, is much more than a job. It is the defining aspect of our identity. For many of us it is through our job that we can define ourselves. \"Without my job I don't know who I am,\" is a sentence that has been uttered on more than a handful of occasions from my office chair. Indeed, it can be one of the most challenging aspects I work on with clients who have lost or been forced into changing their jobs. This loss provokes an identity crisis much greater than the loss of the job itself. One of the things I have come to understand, however, is that our identity is much more complex than we recognise at first glance. If we take the time to reflect we might recognise that as well as our work we can also identify as a friend, a spouse, a son or daughter, a parent, a member of a sports team or religious community. We may recognise that we feel and act differently in these roles and relationships than we do at work. The passive daughter becomes an assertive leader at work. Furthermore, our identities at work are not static. They change over time. I myself have been a shop assistant, a waitress, a student, a graduate, and a clinical psychologist. At each stage my ability to adapt to and develop my career identity has been crucial to my wellbeing. Whilst we like to eliminate uncertainty in our lives at some level we have to manage uncertainty, especially in today's volatile and ever-shifting job market. How we see ourselves is central to the issue of our identity. When we tell ourselves \"I'm good at starting projects but not so great at seeing them through\" it can become part of our belief system. But if you have the unfortunate experience of an enforced job change you will need to examine those beliefs to see how grounded in reality they are. You will be required to ask yourself how helpful these beliefs are and consider personal change. We can change our beliefs, behaviours and emotional experience at any time through experimentation, practice and conscious self-discipline. In an age where career progression may lead us into new sectors it is ever more important to challenge our sense of self and explore whether you can create a new experience of your identity by changing the beliefs you hold about yourself in order to expand your career options. Ultimately it is you who define who you are. You are only your job if you let it be so.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn from the passage about one's loss of a job?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It compels them to visit a clinical psychologist."
+              },
+              {
+                "l": "B",
+                "t": "It offers them a chance to play different roles."
+              },
+              {
+                "l": "C",
+                "t": "It renders them puzzled about who they are."
+              },
+              {
+                "l": "D",
+                "t": "It forces them to redefine their life's goals."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What has the author come to understand about our identity?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is crucial to our emotional wellbeing."
+              },
+              {
+                "l": "B",
+                "t": "It plays a big role in many facets of life."
+              },
+              {
+                "l": "C",
+                "t": "It reflects our changing status in society."
+              },
+              {
+                "l": "D",
+                "t": "It is more complicated than it appears."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What does the passage say about our identities at work?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are essential to our self-esteem."
+              },
+              {
+                "l": "B",
+                "t": "They evolve with the passage of time."
+              },
+              {
+                "l": "C",
+                "t": "They overrule all other self-perceptions."
+              },
+              {
+                "l": "D",
+                "t": "They are key to understanding ourselves."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What do we have to do in today's ever-changing job market?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Strive to develop our social identity."
+              },
+              {
+                "l": "B",
+                "t": "Prepare for different career paths."
+              },
+              {
+                "l": "C",
+                "t": "Try to be assertive at all times."
+              },
+              {
+                "l": "D",
+                "t": "Learn to manage uncertainty."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What should we do to expand our career options?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Alter our perceptions of ourselves."
+              },
+              {
+                "l": "B",
+                "t": "Compare various job opportunities."
+              },
+              {
+                "l": "C",
+                "t": "Look into newly emerging sectors."
+              },
+              {
+                "l": "D",
+                "t": "Exercise self-discipline consciously."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国盛产竹子，是最早开发利用竹资源的国家。竹子在中国分布广泛，品种丰富。竹子实用性强，用于生 产和生活的许多方面，如筷子、桌椅的制作和桥梁、房屋的建造。中国人爱竹，自古以来就有无数文人以竹为 主题，创作了绚丽多彩的文学和绘画作品。竹子主干(stem) 笔直，象征正直的品格。竹子具有强大的生命力和 适应能力，无论环境多么恶劣，都能够顽强生存，因而寓意坚韧不拔的精神。几千年来，竹子一直被视为中华 民族品格的象征。",
+    "reference": "China abounds in bamboo and is among the first countries to develop and utilize bamboo resources. Bamboo is widely distributed across China and comes in a rich variety of species. Bamboo is highly practical and is used in many aspects of production and daily life, such as making chopsticks, tables and chairs, and building bridges and houses. The Chinese people love bamboo, and since ancient times countless scholars have created splendid literary and artistic works with bamboo as their theme. The straight stem of bamboo symbolizes an upright character. Bamboo has strong vitality and adaptability; no matter how harsh the environment is, it can survive tenaciously, thus symbolizing the spirit of perseverance. For thousands of years, bamboo has been regarded as a symbol of the character of the Chinese nation."
+  }
+}

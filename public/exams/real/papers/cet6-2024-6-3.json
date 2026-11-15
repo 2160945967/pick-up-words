@@ -1,0 +1,1386 @@
+{
+  "id": "cet6-2024-6-3",
+  "level": "cet6",
+  "year": 2024,
+  "month": 6,
+  "set": 3,
+  "title": "2024年6月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “There is a growing awareness of the importance of digital literacy and skills in today’s world.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. (You should copy the sentence given in quotes at the beginning of your essay. )",
+    "sample": "There is a growing awareness of the importance of digital literacy and skills in today’s world. As study, work and daily life move online, the ability to use digital tools wisely has become a basic survival skill rather than an optional advantage.This importance is easy to feel in real situations. During the pandemic, all my courses were shifted to online platforms, and only classmates who could navigate video meetings, submit assignments and search for reliable sources kept up with the pace. Those who struggled with the technology quickly fell behind, not because they were less clever, but because they lacked the digital skills the new setting demanded. The same gap appears in the job market, where employers now expect graduates to handle data, communicate online and tell trustworthy information from rumours.Therefore, digital literacy is no longer a bonus but a necessity. By actively learning to process information, protect our online safety and keep updating our skills, we can turn technology into a real advantage instead of a barrier."
+  },
+  "listening": {
+    "audio": "cet6-2024-6-2",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Read numerous comments users put online."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Blended all his food without using a machine."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Searched for the state-of-the-art models of blenders."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Did thorough research on the price of kitchen appliances."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Eating any blended food."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Buying a blender herself."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Using machines to do her cooking."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making soups and juices for herself."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cooking every meal creatively in the kitchen."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Paying due attention to his personal hygiene."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Eating breakfast punctually every morning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Making his own fresh fruit juice regularly."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "One-tenth of it is sugar."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It looks healthy and attractive."
+                  },
+                  {
+                    "l": "C",
+                    "t": "One's fancy may be tickled by it."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It contains an assortment of nutrients.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: I've just bought a new blender.",
+                "zh": "M: 我刚买了一台新搅拌机。"
+              },
+              {
+                "en": "W: What's that?",
+                "zh": "W: 那是什么？"
+              },
+              {
+                "en": "M: A blender, you know, a machine that blends food.",
+                "zh": "M: 搅拌机，你知道，就是一种用来搅拌食物的机器。"
+              },
+              {
+                "en": "W: Uh, yes, of course, the electric kitchen appliance.",
+                "zh": "W: 呃，知道，当然知道，就是那种电动厨房用具。"
+              },
+              {
+                "en": "M: Exactly, this one is state-of-the-art. I've been meaning to buy one for a while, and I did thorough research on which specific model to get. I read through maybe hundreds of online user reviews. Anyway, it's amazing.",
+                "zh": "M: 没错，这台是最先进的。我想买一台已经有一段时间了，而且还认真研究了到底该买哪个具体型号。我大概看了上百条网上的用户评价。总之，它太棒了。"
+              },
+              {
+                "en": "W: Really? What could be so special about it? I mean it's just a blender.",
+                "zh": "W: 真的吗？它到底有什么特别的？我的意思是，它不就是一台搅拌机吗？"
+              },
+              {
+                "en": "M: Well, basically, it's just a very good one. It feels heavy and sturdy and well made. It also has lots of power and can easily cut and crush practically anything. This way, the soups and juices I make come out really fine and smooth, with no lumpy bits.",
+                "zh": "M: 嗯，基本上，它就是一台非常好的搅拌机。拿在手里感觉很重、很结实，做工也很好。它的功率也很大，几乎什么东西都能轻松切碎、碾碎。这样一来，我做出来的汤和果汁都特别细腻顺滑，没有结块。"
+              },
+              {
+                "en": "W: Um, I see. I've never thought of getting one myself. It sounds like the kind of thing that, for me personally, I would rarely use.",
+                "zh": "W: 嗯，我明白了。我从来没想过自己也买一台。听起来，这种东西对我个人来说应该很少会用到。"
+              },
+              {
+                "en": "M: I've never had one before, and now that I do. I use it all the time. I make a fresh fruit juice in the morning, maybe not every morning, but three or four times a week, and it feels fantastic. It's a really healthy habit.",
+                "zh": "M: 我以前从来没有搅拌机，但现在有了以后，我一直在用。我早上会做新鲜果汁，也不是每天早上都做，但每周会做三四次，而且感觉特别棒。这真是个非常健康的习惯。"
+              },
+              {
+                "en": "W: I can imagine that must feel quite satisfying. I can picture you getting all creative in the kitchen and trying out a multitude of different ingredient combinations, and it's obviously going to be healthier than buying packaged juice from a supermarket.",
+                "zh": "W: 我能想象那一定很令人满足。我都能想象你在厨房里发挥创意，尝试各种各样的食材组合，而且这显然会比从超市买包装果汁更健康。"
+              },
+              {
+                "en": "M: It's so much healthier. It's not even close. Did you know that store-bought juice is like 10% sugar?",
+                "zh": "M: 健康多了，根本不是一个级别的。你知道吗，商店里买的果汁含糖量大约是百分之十？"
+              },
+              {
+                "en": "W: Right, so then you bought it for the health benefits?",
+                "zh": "W: 好吧，所以你买它主要是为了健康方面的好处？"
+              },
+              {
+                "en": "M: Mostly yes. Basically, it allows me to have a more varied diet with a far wider assortment of nutrients, because it's not only fruit in my morning juices you see. I can also throw in vegetables, nuts, yogurts, cereals, anything that tickles my fancy.",
+                "zh": "M: 主要是的。基本上，它让我能拥有更加多样化的饮食，摄入种类丰富得多的营养，因为你看，我早上的果汁里可不只是水果。我还可以加蔬菜、坚果、酸奶、谷物，任何我喜欢的东西都行。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How he has made himself popular as the mayor of Berkton."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How the residents will turn Berkton into a tourist attraction."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How charming he himself considers the village of Berkton to be."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How he has led people of Berkton to change the village radically."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was developed only to a limited extent."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was totally isolated as a sleepy village."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was relatively unknown to the outside."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was endowed with rare natural resources."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All the properties in Berkton were designed by the same architect."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The majority of residents lived in harmony with their neighbours."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The majority of residents enjoyed cosy housing conditions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "All the houses in Berkton looked aesthetically similar."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have helped boost the local economy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They have made the residents unusually proud."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They have contributed considerably to its popularity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have brought happiness to everyone in the village."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Today we have a very interesting guest. Mr. Thomas Benjamin Grimm, the mayor of Berkton, is here to talk about his job and responsibilities overseeing this charming village. Mr. Grimm, thank you for being here.",
+                "zh": "W: 今天我们请到了一位非常有趣的嘉宾。伯克顿的市长托马斯·本杰明·格里姆先生来到这里，和我们谈谈他的工作，以及负责管理这个迷人的村庄所承担的责任。格里姆先生，感谢您今天来到这里。"
+              },
+              {
+                "en": "M: Thank you for having me.",
+                "zh": "M: 谢谢您的邀请。"
+              },
+              {
+                "en": "W: I'd like to start by stating the obvious. Berkton has become one of the most popular tourist destinations in the country, and this has happened under your watch. Just how did you achieve this?",
+                "zh": "W: 我想先从一个显而易见的事实说起。伯克顿已经成为全国最受欢迎的旅游目的地之一，而这一切都是在您的任期内发生的。您究竟是如何做到的？"
+              },
+              {
+                "en": "M: The achievement belongs to all the residents of Berkton. It was a shared effort where everybody pitched in for the communal good.",
+                "zh": "M: 这项成就属于伯克顿的所有居民。这是大家共同努力的结果，每个人都为公共利益贡献了自己的力量。"
+              },
+              {
+                "en": "W: But how did this change happen? In about 10 years, Berkton has gone from a relatively unheard-of sleepy village to a must-see destination.",
+                "zh": "W: 但这种变化是如何发生的呢？大约10年的时间里，伯克顿从一个相对默默无闻、寂静沉睡的村庄，变成了一个必游之地。"
+              },
+              {
+                "en": "M: Yes, the change has truly been remarkable. Berkton was always fortunate to be endowed with such a beautiful natural allure. The Ambury Hills above the village remain untouched by human development, and the Sonora Valley just below it is equally stunning. The transformation commenced in a town hall meeting in spring 2008 over 10 years ago now, when an overwhelming majority of neighbors voted in favor of \"Motion 836\". This legislative proposal essentially set out to harmonize the aesthetic appearance of all the houses in Berkton. The idea was that if all the properties looked a certain way with shared design features, then a village as a whole would look more beautiful. And it worked.",
+                "zh": "M: 是的，这种变化确实非常显著。伯克顿一直很幸运，拥有如此美丽的自然风光。村庄上方的安布里山丘仍未受到人类开发，而下方的索诺拉谷同样美不胜收。这场转变始于十多年前，也就是2008年春天的一次市政厅会议。当时，绝大多数居民投票赞成了“第836号动议”。这项立法提案的核心目标，是让伯克顿所有房屋的外观风格协调统一。这个想法是，如果所有房产都采用某种统一的外观和共同的设计元素，那么整个村庄看起来就会更加美丽。事实证明，这确实奏效了。"
+              },
+              {
+                "en": "W: It certainly did. I'm looking now at a before-and-after photo, and the change is truly remarkable. It's hard to believe it's the same place. And how do the neighbors feel now?",
+                "zh": "W: 确实如此。我现在正在看一张改造前后的照片，这种变化真的非常显著。很难相信这是同一个地方。那么，居民们现在对此有什么感受呢？"
+              },
+              {
+                "en": "M: Great pride, I would say.",
+                "zh": "M: 我想，他们感到非常自豪。"
+              },
+              {
+                "en": "W: But what about the multitudes of visitors now crowding the streets? Is everyone happy about that?",
+                "zh": "W: 但现在有成群的游客挤满街道，这又怎么样呢？大家对此都感到满意吗？"
+              },
+              {
+                "en": "M: The tourists we receive are a blessing, as they have completely revitalized our local economy. Every visitor is warmly welcome.",
+                "zh": "M: 我们迎来的游客是上天的恩赐，因为他们让我们的地方经济彻底恢复了活力。每一位游客都会受到热情欢迎。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They have created the smallest remote-controlled walking robot in the world."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are going to publish their research findings in the journal Science Robotics."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are the first to build a robot that can bend, crawl, walk, turn and even jump."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are engaged in research on a remote-controlled robot which uses special power."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It changes its shape by complex hardware."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is operated by a special type of tiny motor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It moves from one place to another by memory."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is powered by the elastic property of its body."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Replace humans in exploratory tasks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Perform tasks in tightly confined spaces."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Explore the structure of clogged arteries."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Assist surgeons in highly complex surgery.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Researchers in the US have created a remote-controlled robot that is so small it can walk on the top of a US penny. In research published in the journal Science Robotics, a team at Northwestern University said the crab-like robot is 0.5mm wide. Researchers described it as the smallest-ever remote-controlled walking robot.",
+                "zh": "美国研究人员研制出一种遥控机器人，小到可以在一枚美国一美分硬币的顶部行走。在《科学机器人学》杂志发表的一项研究中，西北大学的一个团队表示，这种蟹状机器人宽度仅为0.5毫米。研究人员称，这是迄今为止最小的遥控行走机器人。"
+              },
+              {
+                "en": "The tiny robot can bend, twist, crawl, walk, turn, and even jump without the use of complex hardware or special power. The engineers said this is because the robot is powered by the elastic property of its body. To construct the robot, the researchers used a shape-memory alloy material that transforms to its remembered shape when heated.",
+                "zh": "这种微型机器人无需复杂的硬件或特殊动力，就能弯曲、扭转、爬行、行走、转弯，甚至跳跃。工程师表示，这是因为机器人依靠其身体的弹性特性驱动。为了制造这种机器人，研究人员使用了一种形状记忆合金材料，这种材料受热后会恢复到其记忆中的形状。"
+              },
+              {
+                "en": "Using a laser, the team is able to heat the robot at specific parts of its body, causing it to change shape. As the robot deforms and goes back to its original shape, it creates movement from one place to another. \"Because these structures are so tiny, the rate of cooling is very fast,\" project lead Professor John A. Rogers said. \"In fact, reducing the sizes of these robots allows them to run faster.\"",
+                "zh": "团队利用激光加热机器人身体的特定部位，使其发生形变。当机器人变形并恢复到原来的形状时，就会产生从一个地方移动到另一个地方的运动。项目负责人约翰·A·罗杰斯教授说：“由于这些结构非常微小，冷却速度非常快。事实上，缩小这些机器人的尺寸可以使它们运行得更快。”"
+              },
+              {
+                "en": "While the research is still in the exploratory phase, the team believes that technology could lead to micro-sized robots that can perform practical tasks in tightly confined spaces. \"You might imagine micro-robots as agents to repair or assemble small structures or machines in industry or as surgical assistants to clear clogged arteries, to stop internal bleeding, or to eliminate cancerous tumours—all in minimally invasive procedures,\" Rogers said.",
+                "zh": "尽管这项研究仍处于探索阶段，但团队相信，这项技术可能促成能够在极其狭窄空间内执行实际任务的微型机器人。罗杰斯说：“你可以设想，微型机器人可作为执行者，在工业领域维修或组装微小的结构或机器；也可以作为手术助手，在微创手术中清除堵塞的动脉、止住内出血或消除癌性肿瘤。”"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She threw up in the bathroom."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She slept during the entire ride."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She dozed off for a few minutes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She boasted of her marathon race."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are mostly immune to cognitive impairment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can sleep soundly during a rough ride at sea."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are genetically determined to need less sleep."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They constitute about 13 percent of the population."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Whether there is a way to reach elite status."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether it is possible to modify one's genes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether having a baby impacts one's passion."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether one can train themselves to sleep less."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is in fact quite possible to nurture a passion for sleep."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Babies can severely disrupt their parents' sleep patterns."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Being forced to rise early differs from being an early bird."
+                  },
+                  {
+                    "l": "D",
+                    "t": "New parents are forced to jump out of bed at the crack of dawn."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "I don't want to boast or anything, but I have always considered myself something of an elite sleeper. Given the opportunity, I will sleep for marathon stretches, and can doze through the most extreme situations. On one very rough ferry crossing, on the route to the Isles of Scilly, for example, my traveling companion spent the entire 3-hour-ride throwing up in the bathroom, while I dozed happily on a plastic chair.",
+                "zh": "我不想自夸什么的，但我一直认为自己算得上是睡眠精英。只要有机会，我就会一睡数小时，甚至在最极端的情况下也能打瞌睡。例如，在一次前往锡利群岛的航线上，渡轮经历了一段非常颠簸的航程，我的同伴在整个3小时的旅途中都待在卫生间里呕吐，而我却惬意地坐在塑料椅上打盹。"
+              },
+              {
+                "en": "Unfortunately, it has come to my attention that I am not an elite sleeper after all. It seems I am just lazy, because elite sleepers are defined as the approximately 3 percent of the population who are biologically programmed to need less sleep than the rest of us. According to a study that came out in March, elite sleepers have rare genetic changes, which means they can sleep fewer hours than mere mortals, without any risk of cognitive decline.",
+                "zh": "遗憾的是，我最近才意识到自己终究算不上睡眠精英。看来我只是懒，因为睡眠精英的定义是：约占总人口3%、在生理上注定比我们其他人需要更少睡眠的人。根据一项于3月公布的研究，睡眠精英存在罕见的基因变化，这意味着他们睡眠时间少于普通人，却不会面临认知能力下降的风险。"
+              },
+              {
+                "en": "It may not be possible to change your own genes, but can you train yourself to need less sleep? Is there a non-biological way to reach elite sleeper status? I have spent the past year trying to answer that question. Not for fun, I should add, but because having a baby has severely disrupted my sleep, for which I still have a great passion.",
+                "zh": "改变自己的基因或许不可能，但你能训练自己减少睡眠需求吗？有没有一种非生物学的方法可以成为睡眠精英？过去一年里，我一直在努力回答这个问题。需要补充说明的是，这并不是为了好玩，而是因为生孩子严重打乱了我的睡眠，而我至今仍然非常热爱睡觉。"
+              },
+              {
+                "en": "For a while, I assumed I'd be forced to become one of those people who jump out of bed at the crack of dawn. After a year of tough scientific study, however, I have discovered being forced to get up early in the morning is very different from being an early bird.",
+                "zh": "有一段时间，我以为自己不得不变成那种天一亮就从床上跳起来的人。然而，经过一年的艰苦科学研究，我发现，被迫早起与早起的人是两回事。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "We have poor awareness of how many controversial issues are being debated."
+                  },
+                  {
+                    "l": "B",
+                    "t": "No one knows better than yourself what you are thinking about at the moment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "No one can change your opinions more than those who speak in a convincing tone."
+                  },
+                  {
+                    "l": "D",
+                    "t": "We are likely to underestimate how much we can be swayed by a convincing article."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their belief about physical punishment changed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their memory pushed them toward a current belief."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The memory of their initial belief came back to them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their experiences of physical punishment haunted them."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They apparently have little to do with moderate beliefs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They don't reflect the change of view on physical punishment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may not apply to changes to extreme or deeply held beliefs."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are unlikely to alter people's position without more evidence.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If you read an article about a controversial issue, do you think you'd realise if it had changed your beliefs? No one knows your own mind like you do—it seems obvious that you would know if your beliefs had shifted. And yet a new paper in the Quarterly Journal of Experimental Psychology suggests that we actually have very poor awareness of our own belief change, meaning that we will tend to underestimate how much we've been swayed by a convincing article.",
+                "zh": "如果你读了一篇有关争议性问题的文章，你认为自己会意识到它是否改变了你的信念吗？没有人比你更了解自己的想法——你似乎理所当然会知道自己的信念是否发生了变化。然而，《实验心理学季刊》发表的一篇新论文表明，我们实际上很难觉察到自己的信念变化，这意味着我们往往会低估自己受一篇有说服力的文章影响的程度。"
+              },
+              {
+                "en": "The researchers recruited over two hundred undergraduates across two studies and focused on their beliefs about whether physical punishment of kids is an effective form of discipline. The students reported their initial beliefs about whether physical punishment is an effective way to discipline a child on a scale from \"1\" completely disbelieve to \"9\" completely believe. Several weeks later they were given one of two research-based texts to read: each was several pages long and either presented the arguments and data in favour of physical punishment or against it. After this, the students answered some questions to test their comprehension and memory of the text. Then, the students again scored their belief about whether physical punishment is effective or not. Finally, the researchers asked them to recall what their belief had been at the start of the study.",
+                "zh": "研究人员在两项研究中招募了两百多名本科生，重点考察他们对于体罚孩子是否是一种有效管教方式的看法。学生们首先在“1”（完全不相信）到“9”（完全相信）的量表上报告自己对于体罚是否是管教孩子的有效方式的初始看法。几周后，他们被安排阅读两篇基于研究的文章中的一篇：每篇文章都有数页之长，分别陈述支持或反对体罚的论据和数据。读完后，学生们回答了一些问题，以测试他们对文章内容的理解和记忆。随后，学生们再次对自己认为体罚是否有效进行评分。最后，研究人员要求他们回忆研究开始时自己的看法。"
+              },
+              {
+                "en": "The students' belief about physical punishment changed when they read a text that argued against their own initial position. Crucially, the memory of their initial belief was shifted in the direction of their new belief—in fact, their memory was closer to their current belief than their original belief. The more their belief had changed, the larger this memory bias tended to be, suggesting the students were relying on their current belief to deduce the initial belief. The memory bias was unrelated to the measures of how well they'd understood or recalled the text, suggesting these factors didn't play a role in memory of initial belief or awareness of belief change.",
+                "zh": "当学生们读到一篇主张反对其最初立场的文章时，他们对于体罚的看法发生了变化。关键在于，他们对自己初始看法的记忆也朝着新看法的方向发生了偏移——事实上，他们记忆中的初始看法比起原先的看法，更接近当前的看法。他们的看法变化越大，这种记忆偏差通常也越大，这表明学生们可能是在依靠当前的看法来推断最初的看法。记忆偏差与他们对文章的理解程度或回忆程度无关，这说明这些因素并未影响他们对初始看法的记忆，也未影响他们对信念变化的觉察。"
+              },
+              {
+                "en": "The researchers concede that this research was about changes to mostly moderate beliefs—it's likely the findings would be different in the context of changes to extreme or deeply held beliefs. However, our beliefs on most topics are in the moderate range, and as we go about our daily lives reading informative material, these intriguing findings suggest we are mostly ignorant of how what we just read has updated and altered our own position.",
+                "zh": "研究人员承认，这项研究考察的是主要处于中等程度的信念变化——如果是在极端或根深蒂固的信念发生变化的情况下，研究结果很可能会有所不同。然而，我们对大多数问题的看法都处于中等范围，而且当我们在日常生活中阅读信息性材料时，这些耐人寻味的发现表明，我们大多没有意识到刚刚读到的内容如何更新并改变了自己的立场。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "American moms have been increasingly inclined to live alone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The American population has been on the rise in the past 25 years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "American motherhood has actually been on the decline."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The fertility rates in America have in fact been falling sharply."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More new mothers tend to take greater care of their children."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More new mothers are economically able to raise children."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A larger proportion of women take pride in their children."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A larger proportion of women really enjoy motherhood."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The meaning of motherhood has changed considerably."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More and more mothers go shopping to treat themselves."
+                  },
+                  {
+                    "l": "C",
+                    "t": "More mothers have adult children celebrating the holiday."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The number of American mothers has been growing steadily.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "As the American population grows, so does the number of American moms. But, more than a century after Mother's Day became an official holiday, even as that number increases, the share of the American population who are mothers is at the lowest point in a quarter century.",
+                "zh": "随着美国人口增长，美国母亲的人数也在增加。但是，在母亲节成为法定节日一个多世纪之后，尽管这一人数不断上升，母亲在美国总人口中所占的比例却处于四分之一世纪以来的最低点。"
+              },
+              {
+                "en": "It's frequently noted that fertility rates are falling sharply in richer countries. But the less-observed consequence of this trend is that the decline in births can also mean a decline in motherhood in America. According to my analysis of data from the Census Bureau, the decline of American motherhood is real, occurring very quickly, and may continue for some time yet.",
+                "zh": "人们经常注意到，较富裕国家的生育率正在急剧下降。然而，这一趋势一个较少被关注的后果是，出生人数减少也可能意味着美国母亲人数的减少。根据我对人口普查局数据的分析，美国母亲人数的下降确实存在，发生得非常迅速，而且可能还会持续一段时间。"
+              },
+              {
+                "en": "Not only are moms making up less of the population, but their characteristics are changing too, and in a way that might be linked to their proportional decline. Moms today tend to be older than in the past. Just looking at recent years, the change in age-specific birth rates has been drastic.",
+                "zh": "母亲不仅在总人口中所占的比例越来越低，她们的特征也在发生变化，而且这种变化可能与她们比例上的下降有关。如今的母亲往往比过去年长。仅从近几年来看，不同年龄段的生育率变化就十分显著。"
+              },
+              {
+                "en": "In just the past few years, the peak childbearing age range for American women has advanced from that of 25-29 to that of 30-34. Meanwhile, childbearing among women under 20 has fallen by half or more, while childbearing among women 35 and older is rising.",
+                "zh": "就在过去几年中，美国女性生育高峰年龄段已从25至29岁推移到30至34岁。同时，20岁以下女性的生育率下降了一半甚至更多，而35岁及以上女性的生育率正在上升。"
+              },
+              {
+                "en": "One positive consequence of this age shift is that a larger proportion of new mothers are economically prepared to raise children. Less positively, however, many women find that, as they age, they can't have as many kids as they would like. Plus, having children later in life can increase the risk of health complications. These finer points aside, one major consequence of the older-moms trend is that fewer years of a woman's life are spent as a mother. This means that, at any given time, a larger share of women, and thus of the whole population, will report not having children in government surveys. In other words, later motherhood means less motherhood.",
+                "zh": "这一年龄变化带来的一个积极后果是，新生母亲中有更大比例在经济上已做好抚养孩子的准备。然而，不那么积极的是，许多女性发现，随着年龄增长，她们无法生育自己希望拥有的那么多孩子。此外，晚年生育还会增加出现健康并发症的风险。撇开这些更细致的问题不谈，母亲年龄增长趋势的一个主要后果是，女性一生中作为母亲度过的年数减少了。这意味着，在任何特定时点，接受政府调查的女性中，以及因此在全部人口中，报告自己没有孩子的人所占比例都会更高。换句话说，晚育意味着较少的母亲经历。"
+              },
+              {
+                "en": "Even as motherhood rates decline, Mother's Day, of course, will endure. In fact, despite the demographic shift, retail spending on the holiday appears to be rising. It is hard to say if Mother's Day spending is rising more than one would expect, given that the American population keeps growing, but one factor might be that the proportion of women who are the mothers of adult children is rising. And those adult children may spend more generously when it comes to celebrating the moms they no longer live with.",
+                "zh": "即使母亲比例正在下降，母亲节当然仍将延续下去。事实上，尽管人口结构发生了变化，这一节日的零售消费似乎正在增加。很难说母亲节消费的增长是否超出了美国人口持续增长这一因素所能带来的预期，但其中一个原因可能是，成年子女的母亲在女性中的比例正在上升。而这些成年子女在庆祝那些已经不再与自己共同生活的母亲时，可能会更加慷慨。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Add to indoor toxic pollutants."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Absorb poisonous chemicals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Beautify the home environment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Soak up surrounding moisture."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "NASA did experiments in sealed containers resembling the super insulated offices of 1970s."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was based on experiments under conditions unlike those in most homes or offices."
+                  },
+                  {
+                    "l": "C",
+                    "t": "NASA conducted tests in outer space whose environment is different from ours."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It drew its conclusion without any contrastive data from other experiments."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Natural ventilation proves much more efficient for cleaning the air than houseplants."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Houseplants disperse chemical compounds more quickly with people moving around."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Natural ventilation turns out to be most effective with doors and windows wide open."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Houseplants in a normal environment rarely have any adverse impact on the air."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The root cause for misinterpretations of scientific findings."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The difficulty in understanding what's actually happening."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The steps to be taken in arriving at any conclusion with certainty."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The necessity of continually reexamining and challenging findings."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Since NASA published a paper in 1989 claiming that houseplants can soak up pollution and toxic chemicals, businesses and homeowners have increasingly invested in greenery to help clean their air. But, a new analysis suggests it could actually take more than 1,000 plants per square meter to gain a benefit any greater than simply opening a couple of windows.",
+                "zh": "自美国国家航空航天局（NASA）于1989年发表一篇论文，声称室内植物能够吸收污染物和有毒化学物质以来，企业和房主越来越多地投资于绿植，以帮助净化空气。然而，一项新的分析表明，要获得任何超过简单打开几扇窗户所能带来的益处，实际上可能需要每平方米摆放超过1000株植物。"
+              },
+              {
+                "en": "The problem lies in the fact that NASA conducted their tests in sealed containers that do not simulate the conditions in most people's homes or offices. The space agency was primarily concerned about keeping the air fresh for astronauts cut off in biospheres or space stations and helping to combat \"sick building syndrome\", which had become a problem due to the super insulated and energy efficient offices of the late 1970s. By the early 1980s, workers regularly complained of skin rashes, sleeplessness, headaches, and allergies as they breathed in toxic chemicals from paints and plastics.",
+                "zh": "问题在于，NASA是在密封容器中进行测试的，而这种环境并不能模拟大多数人家中或办公室的实际情况。该航天机构主要关注的是如何为被隔绝在生物圈或空间站中的宇航员保持空气清新，以及帮助应对“病态建筑综合征”。由于20世纪70年代末的办公室采用了高度隔热且节能的设计，这种综合征逐渐成为一个问题。到了20世纪80年代初，员工经常抱怨出现皮疹、失眠、头痛和过敏症状，因为他们吸入了来自油漆和塑料的有毒化学物质。"
+              },
+              {
+                "en": "NASA found that certain plants could remove chemicals from the air, and even today, garden centers recommend the plants for air cleaning properties. However, a new evaluation of dozens of studies spanning 30 years found that houseplants in a normal environment have little impact. In fact, natural ventilation is far better at cleaning the air. The researchers also calculated the clean air delivery rate for plants in the studies they analyzed and found that the rate at which plants disperse the compounds was well below the usual rate of air exchange in a normal building, caused by the movement of people coming and going, opening doors and windows.",
+                "zh": "NASA发现，某些植物能够去除空气中的化学物质，直到今天，园艺中心仍会因这些植物具有净化空气的功效而予以推荐。然而，一项对历时30年、涵盖数十项研究的新评估发现，在正常环境中，室内植物的影响微乎其微。事实上，自然通风在净化空气方面要有效得多。研究人员还计算了所分析研究中植物的清洁空气输送率，发现植物分散这些化合物的速率远低于普通建筑通常的空气交换速率；后者是由人员进出以及开关门窗等活动造成的。"
+              },
+              {
+                "en": "Many of the studies did show a reduction in the concentration of volatile organic compounds over time, which is likely why people have seized on them to praise the air purifying virtues of plants. But the researchers' calculation showed it would take 10 to 1,000 plants per square meter of floor space to compete with the air cleaning capacity of a building's air handling system or even just a couple of open windows in a house. In contrast, NASA's sealed experiment recommended one pot plant per 100 square feet.",
+                "zh": "许多研究确实显示，挥发性有机化合物的浓度会随着时间推移而降低，这可能就是人们抓住这一点来赞美植物净化空气功效的原因。但研究人员的计算表明，要与建筑空气处理系统，甚至住宅中仅仅打开几扇窗户的空气净化能力相匹敌，每平方米地面面积需要摆放10至1000株植物。相比之下，NASA的密封实验建议每100平方英尺摆放一盆植物。"
+              },
+              {
+                "en": "This is certainly an example of how scientific findings can be misleading or misinterpreted over time. But it's also a great example of how scientific research should continually reexamine and question findings to get closer to the ground truth of understanding what's actually happening.",
+                "zh": "这无疑说明，科学发现可能会随着时间推移而产生误导或被误解。但这也很好地体现了科学研究应当不断重新审视并质疑已有发现，从而更加接近对实际情况的真实理解。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2024-6-2"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "A rainbow is a multi-colored, arc-shaped phenomenon that can appear in the sky. The colors of a rainbow are produced by the reflection and"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "of light through water droplets(小滴) present in the atmosphere. An observer may"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "a rainbow to be located either near or far away, but this phenomenon is not actually located at any specific spot. Instead, the appearance of a rainbow depends entirely upon the position of the observer in"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "to the direction of light. In essence, a rainbow is an"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "illusion. Rainbows present a"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "made up of seven colors in a specific order. In fact, school children in many English-speaking countries are taught to remember the name \"Roy G. Biv\" as an aid for remembering the colors of a rainbow and their order. \"Roy G. Biv\""
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "for: red, orange, yellow, green, blue, indigo, and violet. The outer edge of the rainbow arc is red, while the inner edge is violet. A rainbow is formed when light (generally sunlight) passes through water droplets"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "in the atmosphere. The light waves change direction as they pass through the water droplets, resulting in two processes: reflection and refraction(折射). When light reflects off a water droplet, it simply"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "back in the opposite direction from where it"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": ". When light refracts, it takes a different direction. Some individuals refer to refracted light as \"bent light waves.\" A rainbow is formed because white light enters the water droplet, where it bends in several different directions. When these bent light waves reach the other side of the water droplet, they reflect back out of the droplet instead of"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "passing through the water. Since the white light is separated inside of the water, the refracted light appears as separate colors to the human eye."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "bounces"
+        },
+        {
+          "l": "B",
+          "w": "completely"
+        },
+        {
+          "l": "C",
+          "w": "dispersion"
+        },
+        {
+          "l": "D",
+          "w": "eccentric"
+        },
+        {
+          "l": "E",
+          "w": "hanging"
+        },
+        {
+          "l": "F",
+          "w": "optical"
+        },
+        {
+          "l": "G",
+          "w": "originates"
+        },
+        {
+          "l": "H",
+          "w": "perceive"
+        },
+        {
+          "l": "I",
+          "w": "permeates"
+        },
+        {
+          "l": "J",
+          "w": "ponder"
+        },
+        {
+          "l": "K",
+          "w": "preceding"
+        },
+        {
+          "l": "L",
+          "w": "recklessly"
+        },
+        {
+          "l": "M",
+          "w": "relation"
+        },
+        {
+          "l": "N",
+          "w": "spectrum"
+        },
+        {
+          "l": "O",
+          "w": "stands"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "C"
+        },
+        {
+          "n": 27,
+          "a": "H"
+        },
+        {
+          "n": 28,
+          "a": "M"
+        },
+        {
+          "n": 29,
+          "a": "F"
+        },
+        {
+          "n": 30,
+          "a": "N"
+        },
+        {
+          "n": 31,
+          "a": "O"
+        },
+        {
+          "n": 32,
+          "a": "E"
+        },
+        {
+          "n": 33,
+          "a": "A"
+        },
+        {
+          "n": 34,
+          "a": "G"
+        },
+        {
+          "n": 35,
+          "a": "B"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Blame your worthless workdays on meeting recovery syndrome",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Phyllis Hartman knows what it's like to make one's way through the depths of office meeting hell. Managers at one of her former human resources jobs arranged so many meetings that attendees would fall asleep at the table or intentionally arrive late. With hours of her day blocked up with unnecessary meetings, she was often forced to make up her work during overtime. \"I was actually working more hours than I probably would have needed to get the work done,\" says Hartman, who is founder and president of PGHR Consulting in Pittsburgh, Pennsylvania."
+        },
+        {
+          "l": "B",
+          "t": "She isn't alone in her frustration. Between 11 million and 55 million meetings are held each day in the United States, costing most organisations between 7% and 15% of their personnel budgets. Every week, employees spend about six hours in meetings, while the average manager meets for a staggering 23 hours."
+        },
+        {
+          "l": "C",
+          "t": "And though experts agree that traditional meetings are essential for making certain decisions and developing strategy, some employees view them as one of the most unnecessary parts of the workday. The result is not only hundreds of billions of wasted dollars, but an annoyance of what organisational psychologists call \"meeting recovery syndrome (MRS)\": time spent cooling off and regaining focus after a useless meeting. If you run to the office kitchen to get some relief with colleagues after a frustrating meeting, you're likely experiencing meeting recovery syndrome."
+        },
+        {
+          "l": "D",
+          "t": "Meeting recovery syndrome is a concept that should be familiar to almost anyone who has held a formal job. It isn't ground-breaking to say workers feel fatigued after a meeting, but only in recent decades have scientists deemed the condition worthy of further investigation. With its links to organisational efficiency and employee wellbeing, MRS has attracted the attention of psychologists aware of the need to understand its precise causes and cures."
+        },
+        {
+          "l": "E",
+          "t": "Today, in so far as researchers can hypothesise, MRS is most easily understood as a slow renewal of finite mental and physical resources. When an employee sits through an ineffective meeting their brain power is essentially being drained away. Meetings drain vitality if they last too long, fail to engage employees or turn into one-sided lectures. The conservation of resources theory, originally proposed in 1989 by Dr Stevan Hobfoll, states that psychological stress occurs when a person's resources are threatened or lost. When resources are low, a person will shift into defence to conserve their remaining supply. In the case of office meetings, where some of employees' most valuable resources are their focus, alertness and motivation, this can mean an abrupt halt in productivity as they take time to recover."
+        },
+        {
+          "l": "F",
+          "t": "As humans, when we transition from one task to another on the job—say from sitting in a meeting to doing normal work—it takes an effortful cognitive switch. We must detach ourselves from the previous task and expend significant mental energy to move on. If we are already drained to dangerous levels, then making the mental switch to the next thing is extra tough. It's common to see people cyber-loafing after a frustrating meeting, going and getting coffee, interrupting a colleague and telling them about the meeting, and so on."
+        },
+        {
+          "l": "G",
+          "t": "Each person's ability to recover from horrible meetings is different. Some can bounce back quickly, while others carry their fatigue until the end of the workday. Yet while no formal MRS studies are currently underway, one can loosely speculate on the length of an average employee's lag time. Switching tasks in a non-MRS condition takes about 10 to 15 minutes. With MRS, it may take as long as 45 minutes on average. It's even worse when a worker has several meetings that are separated by 30 minutes. \"Not enough time to transition in a non-MRS situation to get anything done, and in an MRS situation, not quite enough time to recover for the next meeting,\" says researcher Joseph Allen. \"Then, add the compounding of back-to-back bad meetings and we may have an epidemic on our hands.\""
+        },
+        {
+          "l": "H",
+          "t": "In an effort to combat the side effects of MRS, Allen, along with researcher Joseph Mroz and colleagues at the University of Nebraska-Omaha, published a study detailing the best ways to avoid common traps, including a concise checklist of do's and don'ts applicable to any workplace. Drawing from around 200 papers to compile their comprehensive list, Mroz and his team may now hold a remedy to the largely undefined problem of MRS."
+        },
+        {
+          "l": "I",
+          "t": "Mroz says a good place to start is asking ourselves if our meetings are even necessary in the first place. If all that's on the agenda is a quick catch-up, or some non-urgent information sharing, it may better suit the group to send around an email instead. \"The second thing I would always recommend is keep the meeting as small as possible,\" says Mroz. \"If they don't actually have some kind of immediate input, then they can follow up later. They don't need to be sitting in this hour-long meeting.\" Less time in meetings would ultimately lead to more employee engagement in the meetings they do attend, which experts agree is a proven remedy for MRS."
+        },
+        {
+          "l": "J",
+          "t": "Employees also feel taxed when they are invited together to meetings that don't inspire participation, says Cliff Scott, professor of organisational science. It takes precious time for them to vent their emotions, complain and try to regain focus after a pointless meeting—one of the main traps of MRS. Over time as employees find themselves tied up in more and more unnecessary meetings—and thus dealing with increasing lag times from MRS—the waste of workday hours can feel insulting."
+        },
+        {
+          "l": "K",
+          "t": "Despite the relative scarcity of research behind the subject, Hartman has taught herself many of the same tricks suggested in Mroz's study, and has come a long way since her days of being stuck with unnecessary meetings. The people she invites to meetings today include not just the essential employees, but also representatives from every department that might have a stake in the issue at hand. Managers like her, who seek input even from non-experts to shape their decisions, can find greater support and cooperation from their workforce, she says."
+        },
+        {
+          "l": "L",
+          "t": "If an organisation were to apply all 22 suggestions from Mroz and Allen's findings, the most noticeable difference would be a stark decrease in the total number of meetings on the schedule, Mroz says. Less time in meetings would ultimately lead to increased productivity, which is the ultimate objective of convening a meeting. While none of the counter-MRS ideas have been tested empirically yet, Allen says one trick with promise is for employees to identify things that quickly change their mood from negative to positive. As simple as it sounds, finding a personal happy place, going there and then coming straight back to work might be key to facilitating recovery."
+        },
+        {
+          "l": "M",
+          "t": "Leaders should also see themselves as \"stewards of everyone else's valuable time\", adds Steven Rogelberg, author of The Surprising Science of Meetings. Having the skills to foresee potential traps and treat employees' endurance with care allows leaders to provide effective short-term deterrents to MRS."
+        },
+        {
+          "l": "N",
+          "t": "Most important, however, is for organisations to awaken to the concept of meetings being flexible, says Allen. By reshaping the way they prioritise employees' time, companies can eliminate the very sources of MRS in their tracks."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Although employees are said to be fatigued by meetings, the condition has not been considered worthy of further research until recently.",
+          "a": "D"
+        },
+        {
+          "n": 37,
+          "s": "Mroz and his team compiled a list of what to do and what not to do to remedy the problem of MRS.",
+          "a": "H"
+        },
+        {
+          "n": 38,
+          "s": "Companies can get rid of the root cause of MRS if they give priority to workers' time.",
+          "a": "N"
+        },
+        {
+          "n": 39,
+          "s": "If workers are exhausted to a dangerous degree, it is extremely hard for them to transition to the next task.",
+          "a": "F"
+        },
+        {
+          "n": 40,
+          "s": "Employees in America spend a lot of time attending meetings while the number of hours managers meet is several times more.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "Phyllis Hartman has learned by herself many of the ways Mroz suggested in his study and made remarkable success in freeing herself from unnecessary meetings.",
+          "a": "K"
+        },
+        {
+          "n": 42,
+          "s": "When meetings continue too long or don't engage employees, they deplete vitality.",
+          "a": "E"
+        },
+        {
+          "n": 43,
+          "s": "When the time of meetings is reduced, employees will be more engaged in the meetings they do participate in.",
+          "a": "I"
+        },
+        {
+          "n": 44,
+          "s": "Some employees consider meetings one of the most dispensable parts of the workday.",
+          "a": "C"
+        },
+        {
+          "n": 45,
+          "s": "According to Mroz, if all his suggestions were applied, a very obvious change would be a steep decrease in the number of meetings scheduled.",
+          "a": "L"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Sarcasm and jazz have something surprisingly in common: You know them when you hear them. Sarcasm is mostly understood through tone of voice, which is used to portray the opposite of the literal words. For example, when someone says, \"Well, that's exactly what I need right now,\" their tone can tell you it's not what they need at all. Most frequently, sarcasm highlights an irritation or is, quite simply, mean. If you want to be happier and improve your relationships, cut out sarcasm. Why? Because sarcasm is actually hostility disguised as humor. Despite smiling outwardly, many people who receive sarcastic comments feel put down and often think the sarcastic person is rude, or contemptible. Indeed, it's not surprising that the origin of the word sarcasm derives from the Greek word \"sarkazein\" which literally means \"to tear or strip the flesh off.\" Hence, it's no wonder that sarcasm is often preceded by the word \"cutting\" and that it hurts. What's more, since actions strongly determine thoughts and feelings, when a person consistently acts sarcastically it may only serve to heighten their underlying hostility and insecurity. After all, when you come right down to it, sarcasm can be used as a subtle form of bullying—and most bullies are angry, insecure, or cowardly. Alternatively, when a person stops voicing negative comments, especially sarcastic ones, they may soon start to feel happier and more self-confident. Also, other people in their life benefit even more because they no longer have to hear the emotionally hurtful language of sarcasm. Now, I'm not saying all sarcasm is bad. It may just be better used sparingly—like a potent spice in cooking. Too much of the spice, and the dish will be overwhelmed by it. Similarly, an occasional dash of sarcastic wit can spice up a chat and add an element of humor to it. But a big or steady serving of sarcasm will overwhelm the emotional flavor of any conversation and can taste very bitter to its recipient. So, tone down the sarcasm and work on clever wit instead, which is usually without any hostility and thus more appreciated by those you're communicating with. In essence, sarcasm is easy while true, harmless wit takes talent. Thus, the main difference between wit and sarcasm is that, as already stated, sarcasm is often hostility disguised as humor. It can be intended to hurt and is often bitter and biting. Witty statements are usually in response to someone's unhelpful remarks or behaviors, and the intent is to untangle and clarify the issue by emphasizing its absurdities. Sarcastic statements are expressed in a cutting manner; witty remarks are delivered with undisguised and harmless humor.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "Why does the author say sarcasm and jazz have something surprisingly in common?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Both are recognized when heard."
+              },
+              {
+                "l": "B",
+                "t": "Both have exactly the same tone."
+              },
+              {
+                "l": "C",
+                "t": "Both mean the opposite of what they appear to."
+              },
+              {
+                "l": "D",
+                "t": "Both have hidden in them an evident irritation."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "How do many people feel when they hear sarcastic comments?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They feel hostile towards the sarcastic person."
+              },
+              {
+                "l": "B",
+                "t": "They feel belittled and disrespected."
+              },
+              {
+                "l": "C",
+                "t": "They feel a strong urge to retaliate."
+              },
+              {
+                "l": "D",
+                "t": "They feel incapable of disguising their irritation."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What happens when a person consistently acts sarcastically?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They feel their dignity greatly heightened."
+              },
+              {
+                "l": "B",
+                "t": "They feel increasingly insecure and hostile."
+              },
+              {
+                "l": "C",
+                "t": "They endure hostility under the disguise of humor."
+              },
+              {
+                "l": "D",
+                "t": "They taste bitterness even in pleasant interactions."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What does the author say about people quitting sarcastic comments?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It makes others happier and more self-confident."
+              },
+              {
+                "l": "B",
+                "t": "It restrains them from being irritating and bullying."
+              },
+              {
+                "l": "C",
+                "t": "It benefits not only themselves but also those around them."
+              },
+              {
+                "l": "D",
+                "t": "It shields them from negative comments and outright hostility."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What is the chief difference between a speaker's wit and sarcasm?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their clarity."
+              },
+              {
+                "l": "B",
+                "t": "Their appreciation."
+              },
+              {
+                "l": "C",
+                "t": "Their emphasis."
+              },
+              {
+                "l": "D",
+                "t": "Their intention."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Variability is crucially important for learning new skills. Consider learning how to serve in tennis. Should you always practise serving from the exactly same location on the court, aiming at the same spot? Although practising in more variable conditions will be slower at first, it will likely make you a better tennis player in the end. This is because variability leads to better generalisation of what is learned. This principle is found in many domains, including speech perception and learning categories. For instance, infants will struggle to learn the category \"dog\" if they are only exposed to Chihuahuas, instead of many different kinds of dogs. \"There are over ten different names for this basic principle,\" says Limor Raviv, the senior investigator of a recent study. \"Learning from less variable input is often fast, but may fail to generalise to new stimuli.\" To identify key patterns and understand the underlying principles of variability effects, Raviv and her colleagues reviewed over 150 studies on variability and generalisation across fields, including computer science, linguistics, categorisation, visual perception and formal education. The researchers discovered that, across studies, the term variability can refer to at least four different kinds of variability, such as set size and scheduling. \"These four kinds of variability have never been directly compared —which means that we currently don't know which is most effective for learning,\" says Raviv. The impact of variability depends on whether it is relevant to the task or not. But according to the 'Mr. Miyagi principle', practising seemingly unrelated skills may actually benefit learning of other skills. But why does variability impact learning and generalisation? One theory is that more variable input can highlight which aspects of a task are relevant and which are not. Another theory is that greater variability leads to broader generalisations. This is because variability will represent the real world better, including atypical(非典型的) examples. A third reason has to do with the way memory works: when training is variable, learners are forced to actively reconstruct their memories. \"Understanding the impact of variability is important for literally every aspect of our daily life. Beyond affecting the way we learn language, motor skills, and categories, it even has an impact on our social lives,\" explains Raviv. \"For example, face recognition is affected by whether people grew up in a small community or in a larger community. Exposure to fewer faces during childhood is associated with diminished face memory.\" \"We hope this work will spark people's curiosity and generate more work on the topic,\" concludes Raviv. \"Our paper raises a lot of open questions. Can we find similar effects of variability beyond the brain, for instance, in the immune system?\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the passage say about infants learning the category \"dog\" if they are exposed to Chihuahuas only?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They will encounter some degree of difficulty."
+              },
+              {
+                "l": "B",
+                "t": "They will try to categorise other objects first."
+              },
+              {
+                "l": "C",
+                "t": "They will prefer Chihuahuas to other dog species."
+              },
+              {
+                "l": "D",
+                "t": "They will imagine Chihuahuas in various conditions."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What does Raviv say about the four different kinds of variability?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Which of them is most relevant to the task at hand is to be confirmed."
+              },
+              {
+                "l": "B",
+                "t": "Why they have an impact on learning is far from being understood."
+              },
+              {
+                "l": "C",
+                "t": "Why they have never been directly compared remains a mystery."
+              },
+              {
+                "l": "D",
+                "t": "Which of them is most conducive to learning is yet to be identified."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "How does one of the theories explain the importance of variability for learning new skills?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Learners regard variable training as typical of what happens in the real world."
+              },
+              {
+                "l": "B",
+                "t": "Learners receiving variable training are compelled to reorganise their memories."
+              },
+              {
+                "l": "C",
+                "t": "Learners pay attention to the relevant aspects of a task and ignore those irrelevant."
+              },
+              {
+                "l": "D",
+                "t": "Learners focus on related skills instead of wasting time and effort on unrelated ones."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 54,
+            "s": "What does the passage say about face recognition?",
+            "o": [
+              {
+                "l": "A",
+                "t": "People growing up in a small community may find it easy to remember familiar faces."
+              },
+              {
+                "l": "B",
+                "t": "Face recognition has a significant impact on literally every aspect of our social lives."
+              },
+              {
+                "l": "C",
+                "t": "People growing up in a large community can readily recognise any individual faces."
+              },
+              {
+                "l": "D",
+                "t": "The size of the community people grow up in impacts their face recognition ability."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What does Raviv hope to do with their research work?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Highlight which aspects of a task are relevant and which are not to learning a skill."
+              },
+              {
+                "l": "B",
+                "t": "Use the principle of variability in teaching seemingly unrelated skills in education."
+              },
+              {
+                "l": "C",
+                "t": "Arouse people's interest in variability and stimulate more research on the topic."
+              },
+              {
+                "l": "D",
+                "t": "Apply the principle of variability to such fields of study as the immune system."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "扇子自古以来就深受中国人喜爱，但现在已不只是消暑纳凉的工具，而更多地作为艺术品供人欣赏。许多 扇子造型优美、做工精良，并绘有山水、花鸟、人物等精美图案，具有很高的艺术价值。中国许多著名画家和 书法家喜欢在扇子上作诗绘画，展示其艺术品味。扇子常作为礼物赠予他人，表达美好的祝福和真挚的情感。 如今，扇子的实用功能已大为减弱， 但作为一种文化符号和艺术形式，扇子仍然在中国传统文化中扮演着重 要角色。",
+    "reference": "The fan has long been cherished by the Chinese people. Today, however, it is no longer merely a tool for keeping cool, but is more often appreciated as a work of art. Many fans, with graceful shapes and exquisite workmanship, are decorated with delicate patterns of landscapes, flowers and birds, and figures, and thus carry high artistic value. Many famous Chinese painters and calligraphers like to write poems and paint pictures on fans to display their artistic taste. Fans are often given to others as gifts to convey good wishes and sincere feelings. Today, although the practical function of fans has greatly weakened, the fan, as a cultural symbol and an art form, still plays an important role in traditional Chinese culture."
+  }
+}

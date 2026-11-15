@@ -1,0 +1,1296 @@
+{
+  "id": "cet4-2015-6-2",
+  "level": "cet4",
+  "year": 2015,
+  "month": 6,
+  "set": 2,
+  "title": "2015年6月 四级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay based on the picture below.You should start your essay with a brief description of the picture and then comment on the kid’s understanding of going to school. You should write at least 120 words but no more than 180 words.",
+    "sample": "The black-and-white cartoon presents a thought-provoking scene. On the left, a boy in a cap stares at his smartphone and asks a tall, startled adult beside him, \"Why am I going to school if my phone already knows everything?\" The child clearly believes that a device holding all the answers has made classrooms unnecessary.This innocent question reveals a common misunderstanding: the boy equates going to school with merely collecting facts. In his eyes, since a phone can instantly deliver any piece of information, education seems pointless. Yet he confuses \"having access to knowledge\" with \"truly possessing it.\" A phone can store data, but it cannot teach a person how to reason, question, cooperate or judge right from wrong.In fact, school shapes far more than our memory. It trains us to think independently, to communicate with others and to grow into responsible adults—abilities no search engine can hand out. Therefore, we should tell children like this boy that a smartphone is only a tool, while genuine learning still begins in the classroom."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Because too many passengers headed home."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Because there was a terrible train accident."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Because a rare snowfall delayed trains."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Because all trains were delayed."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Two weeks ago."
+                  },
+                  {
+                    "l": "B",
+                    "t": "40 days later."
+                  },
+                  {
+                    "l": "C",
+                    "t": "After the snowfall."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Next Monday.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Thousands of rail passengers in China were prevented from leaving after adverse weather delayed trains. In what's known as the world's largest annual mass migration, millions of people are heading back to families for the start of the Chinese New Year holiday, which is the most important of the traditional Chinese holidays. One stranded passenger says the train schedule has changed three times. He says at first it changed to 9 p.m. then 10 p.m., now it says it's delayed and the time of departure is undecided. More than 55,000 passengers were left stranded at this station in the south of the country after a rare snowfall delayed trains. Chinese travelers are expected to make 2.9 billion trips during the 40-day period which started two weeks ago. Most of those trips will fall around next Monday's Lunar New Year.",
+                "zh": "中国数千名铁路乘客因恶劣天气导致列车延误而无法离开。在这场被称为世界上规模最大的年度人口大迁徙中,数百万人正在返乡与家人团聚,迎接中国新年假期的开始,这是中国传统节日中最重要的节日。一名滞留乘客表示,列车时刻表已经改了三次。他说起初改到晚上9点,然后是晚上10点,现在显示延误,出发时间待定。由于罕见的降雪导致列车延误,超过55,000名乘客滞留在该国南部的这个车站。预计中国旅客将在两周前开始的40天春运期间出行29亿人次。这些出行大部分将集中在下周一的农历新年前后。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The United States."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Greek."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Iceland."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Netherlands."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The decline of happiness in the U.S."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The optimistic future of Asians and Africans."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The life satisfaction in different countries"
+                  },
+                  {
+                    "l": "D",
+                    "t": "The driving factors to happiness.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The United States has experienced a decline in happiness during the past ten years although it remains among the world's happiest countries. The World Happiness Report found that Americans showed \"significant decreases\" in happiness from 2005 to 2007 and again from 2013 to 2015. The happiest country in the world was Denmark, according to the report. The top 10 happiest countries also included Switzerland, Iceland, Norway, Finland, Canada, Netherlands, New Zealand, Australia and Sweden. Greece had the largest drop in the survey. Researchers blamed the drop on the debt crisis and high unemployment in the country. In 2014, the Pew Research Center compiled a life satisfaction poll. In that survey, a top conclusion was that richer countries were happier than poor countries. The Pew research said Asians and Africans are the most optimistic people about their futures. Money was a big factor driving happiness, but it was not the most important according to the Pew organization. The majority of those asked thought good health, quality education for their children and safety from crime were more important than wealth.",
+                "zh": "尽管美国仍然位列世界上最幸福的国家之列,但在过去十年中其幸福感有所下降。世界幸福报告发现,美国人的幸福感在2005年至2007年期间以及2013年至2015年期间均出现\"显著下降\"。根据该报告,世界上最幸福的国家是丹麦。幸福指数前十位的国家还包括瑞士、冰岛、挪威、芬兰、加拿大、荷兰、新西兰、澳大利亚和瑞典。希腊在调查中的降幅最大。研究人员将这一下降归咎于该国的债务危机和高失业率。2014年,皮尤研究中心编制了一份生活满意度调查。在该调查中,一个主要结论是富裕国家比贫穷国家更幸福。皮尤研究称,亚洲人和非洲人对自己的未来最为乐观。金钱是推动幸福感的一个重要因素,但根据皮尤组织的研究,它并非最重要的因素。大多数受访者认为,良好的健康状况、子女的优质教育以及免受犯罪侵害比财富更重要。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The types of gases released into the air."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The fast-rising sea level."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The causes of breaking-off of the glaciers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Climate impact on the temperature."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Stefan Rahmstorf from the Climate Impact Research Center."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Stefan Rahmstorf from the Potsdam Institute."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Robert Kopp from National Academy of Sciences."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Robert Kopp from Rutgers University."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Since two decades ago."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Since 20th century."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Since 1880."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Since 2800 years ago."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Scientists found sea levels are rising faster today than any time over the past 3,000 years. The sea level researchers gathered information going back 28 centuries. Their findings were released Monday by the Proceedings of the National Academy of Sciences. Robert Kopp, from Rutgers University in New Jersey, is the paper's lead author. He said the 20th century rise was \"extraordinary\" when compared to the past 3,000 years. And Kopp said, \"The rise over the last two decades has been even faster.\" When temperatures rise, so do sea levels. That is because snow and ice melt, or break off from glaciers. They flow into the sea. The increased water makes the sea levels rise. The best estimates show that temperatures around the Earth have risen more than a half-degree Celsius since 1880. Scientists say that most of that rise is because of emissions, or gases released into the air by machines that humans have built. And it is not going to get better. \"The water is going to rise,\" said Stefan Rahmstorf. He is a professor of ocean physics at the Potsdam Institute for Climate Impact Research in Germany and the study's co-author.",
+                "zh": "科学家发现，当今海平面上升速度比过去3000年中的任何时期都要快。海平面研究人员收集了可追溯至28个世纪的信息。他们的研究结果于周一由美国国家科学院院刊发布。来自新泽西州Rutgers大学的Robert Kopp是该论文的第一作者。他表示，与过去3000年相比,20世纪的海平面上升是\"非同寻常的\"。Kopp还说：\"过去二十年的上升速度甚至更快。\"当气温上升时，海平面也会上升。这是因为冰雪融化，或者从冰川上脱落。它们流入海洋。增加的水量使海平面上升。最佳估计显示，自1880年以来，地球周围的气温已上升超过0.5摄氏度。科学家表示，这种上升大部分是由于人类建造的机器向空气中释放的排放物或气体造成的。而且情况不会好转。\"海水将会上升，\"Stefan Rahmstorf说。他是德国波茨坦气候影响研究所的海洋物理学教授，也是该研究的共同作者。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They pollute the soil used to cover them."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are harmful to nearby neighborhoods."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The rubbish in them takes long to dissolve."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The gas they emit is extremely poisonous."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Growing population."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Packaging materials."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Changed eating habits."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Lower production cost."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By saving energy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By using less aluminum."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By reducing poisonous wastes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By making the most of materials."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "We are running out of natural resources soon."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Only combined efforts can make a difference."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The waste problem will eventually hurt all of us."
+                  },
+                  {
+                    "l": "D",
+                    "t": "All of us can actually benefit from recycling.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Why is it important to recycle?",
+                "zh": "W: 为什么回收利用很重要？"
+              },
+              {
+                "en": "M: There are many reasons. Recycling is one way to keep waste out of landfills. Landfills are places to dump waste, but they are unpopular because they can pollute the soil used to cover them and that's bad for people who may build new homes there. Recycling also reuses valuable raw materials such as aluminum and paper. Finally recycling can leave a lower garbage bill. Recycling lowers the amount of waste put into landfills. Therefore less money is spent for garbage disposal.",
+                "zh": "M: 原因有很多。回收利用是减少垃圾填埋场废物的一种方式。垃圾填埋场是倾倒废物的地方,但它们不受欢迎,因为会污染用于覆盖的土壤,这对可能在那里建新房的人来说很糟糕。回收利用还能重复使用铝和纸张等宝贵的原材料。最后,回收利用可以降低垃圾处理费用。回收利用减少了送往垃圾填埋场的废物量,因此垃圾处理的花费就更少了。"
+              },
+              {
+                "en": "W: How has recycling changed over the years?",
+                "zh": "W: 这些年来回收利用有什么变化？"
+              },
+              {
+                "en": "M: 10 or 20 years ago, you could buy milk in returnable, refillable glass bottles and many people recycled voluntarily. Now you buy milk and other products in plastic bottles or paper containers. Because of the high cost of disposing of these things in landfills, many city governments now have recycling programs.",
+                "zh": "M: 10年或20年前,你可以买装在可回收、可重复使用玻璃瓶里的牛奶,很多人会自愿回收。现在你买牛奶和其他产品都是塑料瓶或纸质容器。由于在垃圾填埋场处理这些东西的成本很高,现在许多市政府都有了回收利用项目。"
+              },
+              {
+                "en": "W: How does recycling help the environment?",
+                "zh": "W: 回收利用如何帮助环境？"
+              },
+              {
+                "en": "M: Recycling helps the environment mainly by saving energy. For example it takes 95% less energy to produce recycled aluminum than to produce new aluminum.",
+                "zh": "M: 回收利用主要通过节约能源来帮助环境。例如,生产回收铝比生产新铝少用95%的能源。"
+              },
+              {
+                "en": "W: Can one person really make a difference? If only a few people recycle, then what's the point?",
+                "zh": "W: 一个人真的能产生影响吗？如果只有少数人回收利用,那有什么意义呢？"
+              },
+              {
+                "en": "M: If not you then who? If we combine our efforts, we can make a difference. Each of us contributes to the waste problem. All the millions of tons of waste that go into landfills started as an old pair of slippers, a broken TV set or a used magazine that came from somebody's house, maybe yours.",
+                "zh": "M: 如果不是你,那是谁呢？如果我们齐心协力,就能产生影响。我们每个人都在制造废物问题。所有进入垃圾填埋场的数百万吨废物,最初都是一双旧拖鞋、一台坏电视或一本用过的杂志,来自某人的家里,也许就是你家。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Miami."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Vancouver."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Bellingham."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Boston."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To get information on one-way tickets to Canada."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To inquire about the price of \"Super Saver\" seats."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To get advice on how to fly as cheaply as possible."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To inquire about the shortest route to drive home."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Join a tourist group."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Choose a major airline."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Avoid trips in public holidays."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Book tickets as early as possible."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By coach."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By car."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By bike."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By train."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Could you please give me information on airfares from Miami to Bellingham, Washington? We'd like advice on how to fly as cheaply as possible.",
+                "zh": "W: 您能给我提供一下从迈阿密到华盛顿州贝灵汉的机票信息吗？我们想了解怎样才能尽可能便宜地飞过去。"
+              },
+              {
+                "en": "M: Let's see. I wouldn't advise you to pay the normal one-way economy class fare of 555 dollars. If you can fly on a Tuesday or Wednesday and buy your tickets at least 21 days in advance, I suggest you book a round-trip excursion flight.",
+                "zh": "M: 让我看看。我不建议您支付555美元的普通单程经济舱票价。如果您能在周二或周三飞，并且至少提前21天购票，我建议您预订往返特惠航班。"
+              },
+              {
+                "en": "W: But we may not need the return tickets.",
+                "zh": "W: 但我们可能不需要回程票。"
+              },
+              {
+                "en": "M: That's alright! Even if you don't use them, you should be able to save 89 dollars over the one-way fare. Of course I'd recommend early booking, you ought to try to reserve the \"Super Saver\" seats, there are only a few of them and they are 15% cheaper than the others.",
+                "zh": "M: 没关系！即使您不使用回程票,也能比单程票价节省89美元。当然我建议提前订票,您应该尝试预订\"超级特惠\"座位,这种座位数量很少,比其他座位便宜15%。"
+              },
+              {
+                "en": "W: That sounds like a good idea.",
+                "zh": "W: 听起来是个好主意。"
+              },
+              {
+                "en": "M: Wait, to save another 100 dollars or so, why don't you book a flight to Vancouver Canada?",
+                "zh": "M: 等等,要再节省100美元左右,您为什么不订飞往加拿大温哥华的航班呢?"
+              },
+              {
+                "en": "W: But that's farther than we want to go.",
+                "zh": "W: 但那比我们想去的地方还远。"
+              },
+              {
+                "en": "M: I know, but you can take a bus from Vancouver back to Bellingham and still save money. And if you are travelling with children, you might be able to get a discount if you fly economy class, but they don't get any discount. But to take advantage of the airline's guaranteed fare policy, you'd have to make reservations and pay for your tickets at least 6 weeks in advance. Should I begin to search for available seats?",
+                "zh": "M: 我知道,但您可以从温哥华坐大巴回贝灵汉,还是能省钱。而且如果您带着孩子旅行,乘坐经济舱可能会有折扣,但他们没有任何折扣。不过要享受航空公司的保证票价政策,您必须至少提前6周预订并支付机票。我要开始查找可用座位吗?"
+              },
+              {
+                "en": "W: No, thank you.",
+                "zh": "W: 不用了,谢谢。"
+              },
+              {
+                "en": "M: Excuse me?",
+                "zh": "M: 什么?"
+              },
+              {
+                "en": "W: I may call you back if we don't decide to drive.",
+                "zh": "W: 如果我们不决定开车去的话,可能会再打电话给您。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "There are mysterious stories behind his works."
+                  },
+                  {
+                    "l": "B",
+                    "t": "There are many misunderstandings about him."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His works have no match worldwide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His personal history is little known."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He moved to Stratford-on-Avon in his childhood."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He failed to go beyond grammar school."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was a member of the town council."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He once worked in a well-known acting company."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Writers of his time had no means to protect their works."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Possible sources of clues about him were lost in a fire."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His works were adapted beyond recognition."
+                  },
+                  {
+                    "l": "D",
+                    "t": "People of his time had little interest in him.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "What makes a person famous? This is a mystery that many people have carefully thought about. All kinds of myths surround the lives of well-known people. Most people are familiar with the works of William Shakespeare, one of the greatest English writers of the 16th and 17th centuries. Yet how many know Shakespeare, the person, the man behind the works? After centuries of research, scholars are still trying to discover Shakespeare's personal history. It is not easily found in his writings. Authors of the time could not protect their works. An acting company, for example, could change a play if they wanted to. Nowadays, writers have copyrights to protect their work. Many myths arose about Shakespeare. Some said he had no formal education. Others believed that he began his career by tending the horses of wealthy men. All of these myths are interesting, but are they true? Probably not. Shakespeare's father was a respected man in Stratford-upon-Avon, a member of the town council. He sent young William to grammar school. Most people of Elizabethan times did not continue beyond grammar school. So Shakespeare did have at least an average education. Some parts of Shakespeare's life will always remain unknown. The Great London Fire of 1666 burned many important documents that could've been a source of clues. We'll always be left with many questions and few facts.",
+                "zh": "是什么让一个人成名？这是许多人仔细思考过的一个谜。各种各样的传说围绕着知名人士的生活。大多数人都熟悉William Shakespeare的作品，他是16世纪和17世纪最伟大的英国作家之一。然而有多少人了解Shakespeare这个人，了解作品背后的那个男人？经过几个世纪的研究，学者们仍在试图发现Shakespeare的个人历史。在他的作品中不容易找到这些信息。当时的作者无法保护自己的作品。例如，一个剧团可以随意修改剧本。如今，作家拥有版权来保护他们的作品。关于Shakespeare产生了许多传说。有人说他没有受过正规教育。还有人认为他的职业生涯始于为富人看马。所有这些传说都很有趣，但它们是真的吗？可能不是。Shakespeare的父亲是Stratford-upon-Avon一位受人尊敬的人，是镇议会的成员。他送年轻的William去文法学校读书。伊丽莎白时代的大多数人不会继续接受文法学校以上的教育。所以Shakespeare确实至少受过普通教育。Shakespeare生活的某些部分将永远不为人知。1666年的伦敦大火烧毁了许多重要文献，这些文献本可以成为线索的来源。我们将永远面对许多问题和很少的事实。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It shows you have been ignoring your health."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can seriously affect your thinking process."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is an early warning of some illness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a symptom of too much pressure."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Reduce our workload."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Control our temper."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Use painkillers for relief."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Avoid masking symptoms."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Lying down and having some sleep."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Rubbing and pressing one's back."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Going out for a walk."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Listening to light music.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Almost everyone suffers from a headache occasionally. But some people suffer from repeated, frequent headaches. A headache is important because it can be the first warning of a serious condition that could probably be controlled if discovered early. If a person removes the warning, day after day, with a painkiller, he or she may pass the point of easy control. The professional name for covering up a symptom is \"masking\". A headache specialist once said, \"Masking symptoms is not the best way of treatment. Sometimes it is wiser to stand still than to advance in darkness.\" A headache often interferes needlessly with a normal, happy living. The employee with a headache does less work. In a flash of temper, he or she may upset his fellow workers or customers, causing a direct or indirect loss to the organization. The mother with a headache suffers and disturbs the family. She upsets her husband and children. Rest, quiet and fresh airs stop many common headaches. Lying down and possibly falling asleep may help. One can often handle tension headaches by rubbing and pressing the neck muscles. Heat from an electric pad or a warm bed can also help. Because hunger may be overlooked as a headache source, one must make a habit of regular meals. If the meal must be postponed for more than an hour, a snack helps to avoid a hunger headache.",
+                "zh": "几乎每个人都偶尔会头痛。但有些人会反复频繁地头痛。头痛很重要，因为它可能是严重疾病的第一个预警信号，如果及早发现，这种疾病可能是可以控制的。如果一个人日复一日地用止痛药消除这个预警信号，他或她可能会错过容易控制的时机。掩盖症状的专业术语是\"掩蔽\"。一位头痛专家曾说过：\"掩蔽症状不是最好的治疗方法。有时候静止不动比在黑暗中前进更明智。\"头痛常常不必要地干扰正常、快乐的生活。患头痛的员工工作效率较低。在一时冲动中,他或她可能会惹恼同事或客户,给组织造成直接或间接的损失。患头痛的母亲既受苦又扰乱家庭。她会让丈夫和孩子心烦意乱。休息、安静和新鲜空气可以止住许多常见的头痛。躺下并可能入睡会有所帮助。人们通常可以通过按摩和按压颈部肌肉来缓解紧张性头痛。电热垫或温暖床铺的热量也有帮助。因为饥饿可能被忽视为头痛的根源,所以必须养成定时进餐的习惯。如果用餐必须推迟一个多小时,吃点小吃有助于避免饥饿性头痛。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Depending heavily on loans."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having no budget plans at all."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Spending beyond one's means."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Leaving no room for large bills."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many of them can be cut."
+                  },
+                  {
+                    "l": "B",
+                    "t": "All of them have to be covered."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Their payment cannot be delayed."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They eat up most of the family income."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Rent a house instead of buying one."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Discuss the problem in the family."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Make a conservation plan."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Move to a cheaper place."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Financial issues plaguing a family."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Difficulty in making both ends meet."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Family budget problems and solutions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "New ways to boost family income."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If your paychecks seem to be disappearing into thin air, you may be stuck in money traps, but don't despair. Most people can get unstuck without going bankrupt. The biggest budget mistake is no budget at all. As one reader put it, we just put all the bills in a pile, then try to decide which to pay. As she and others have learned however, the money usually runs out before the bills do. The same problem plagues many who do have a budget. In letter after letter, we read, \"It looks good on paper, but it never seems to work.\" Why not? Often because the budgets are unrealistic. The solution: make a detailed record of where all your money goes now, then study it carefully. Look for expenses that can be cut back, and don't give up in the face of high fixed expenses. Many of these can be reduced too. In fact, it's often easier to save on essentials than on enjoyable extras. If housing takes more than 25% of your income, for example, consider moving to a cheaper place or renting out an extra room. If utility bills are high, get the whole family involved in a conservation plan. Some bills can be eliminated altogether. When one mother realized that cable TV was costing her five hundred dollars a year, she decided that network TV wasn't so bad. If you question every expense, you can find a few that can be reduced.",
+                "zh": "如果你的薪水似乎凭空消失了,你可能陷入了金钱陷阱,但不要绝望。大多数人无需破产就能摆脱困境。最大的预算错误就是根本没有预算。正如一位读者所说,我们只是把所有账单堆成一堆,然后试图决定支付哪些。然而,正如她和其他人所了解到的,钱通常在账单付完之前就用光了。同样的问题也困扰着许多确实有预算的人。在一封又一封信中,我们读到:\"纸面上看起来不错,但似乎从来没有奏效过。\"为什么不行呢?通常是因为预算不切实际。解决方案是:详细记录你现在所有的钱都花在哪里,然后仔细研究。寻找可以削减的开支,不要在面对高额固定支出时放弃。其中许多支出也可以减少。事实上,在必需品上省钱往往比在享受型额外开支上省钱更容易。例如,如果住房支出超过收入的25%,可以考虑搬到更便宜的地方或出租一间多余的房间。如果水电费很高,让全家人都参与到节约计划中来。有些账单可以完全取消。当一位母亲意识到有线电视每年花费她五百美元时,她决定网络电视也没那么糟糕。如果你质疑每一笔开支,你就能找到一些可以减少的支出。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "It's our guilty pleasure: Watching TV is the most common everyday activity, after work and sleep, in many parts of the world. Americans view five hours of TV each day, and while we know that spending so much time sitting"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "can lead to obesity(肥胖症) and other diseases, researchers have now quantified just how"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "being a couch potato can be. In an analysis of data from eight large"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "published studies, a Harvard-led group reported in the Journal of the American Medical Association that for every two hours per day spent channel"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": ", the risk of developing Type 2 diabetes Journal of the American Medical Association(糖尿病) rose 20% over 8.5 years, the risk of heart disease increased 15% over a"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": ", and the odds of dying prematurely"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "13% during a seven-year follow-up. All of these"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "are linked to a lack of physical exercise. But compared with other sedentary( 久坐的) activities, like knitting, viewing TV may be especially"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "at promoting unhealthy habits. For one, the sheer number of hours we pass watching TV dwarfs the time we spend on anything else. And other studies have found that watching ads for beer and popcorn may make you more likely to"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "them. Even so, the authors admit that they didn't compare different sedentary activities to"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "whether TV watching was linked to a greater risk of diabetes, heart disease or early death compared with, say, reading."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "climbed"
+        },
+        {
+          "l": "B",
+          "w": "consume"
+        },
+        {
+          "l": "C",
+          "w": "decade"
+        },
+        {
+          "l": "D",
+          "w": "determine"
+        },
+        {
+          "l": "E",
+          "w": "effective"
+        },
+        {
+          "l": "F",
+          "w": "harmful"
+        },
+        {
+          "l": "G",
+          "w": "outcomes"
+        },
+        {
+          "l": "H",
+          "w": "passively"
+        },
+        {
+          "l": "I",
+          "w": "previously"
+        },
+        {
+          "l": "J",
+          "w": "resume"
+        },
+        {
+          "l": "K",
+          "w": "suffered"
+        },
+        {
+          "l": "L",
+          "w": "surfing"
+        },
+        {
+          "l": "M",
+          "w": "term"
+        },
+        {
+          "l": "N",
+          "w": "terminals"
+        },
+        {
+          "l": "O",
+          "w": "twisting"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "H"
+        },
+        {
+          "n": 27,
+          "a": "F"
+        },
+        {
+          "n": 28,
+          "a": "I"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "C"
+        },
+        {
+          "n": 31,
+          "a": "A"
+        },
+        {
+          "n": 32,
+          "a": "G"
+        },
+        {
+          "n": 33,
+          "a": "E"
+        },
+        {
+          "n": 34,
+          "a": "B"
+        },
+        {
+          "n": 35,
+          "a": "D"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The Changes Facing Fast Food",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Fast-food firms have to be a thick-skinned bunch. Health experts regularly criticise them severely for selling food that makes people fat. Critics even complain that McDonald's, whose logo symbolises calorie excess, should not have been allowed to sponsor the World Cup. These are things fast-food firms have learnt to cope with. But not perhaps for much longer. The burger business faces more pressure from regulators at a time when it is already adapting strategies in response to shifts in the global economy."
+        },
+        {
+          "l": "B",
+          "t": "Fast food was once thought to be recession-proof. When consumers need to cut spending, the logic goes, cheap meals like Big Macs and Whoppers become even more attractive. Such \"trading down\" proved true for much of the latest recession, when fast-food companies picked up customers who could no longer afford to eat at casual restaurants. Traffic was boosted in America, the home of fast food, with discounts and promotions, such as $1 menus and cheap combination meals."
+        },
+        {
+          "l": "C",
+          "t": "As a result, fast-food chains have weathered the recession better than their more expensive competitors. In 2009 sales at full-service restaurants in America fell by more than 6%, but total sales remained about the same at fast-food chains. In some markets, such as Japan, France and Britain, total spending on fast food increased. Same-store sales in America at McDonald's, the world's largest fast-food company, did not decline throughout the downturn. Panera Bread, an American fast-food chain known for its fresh ingredients, performed well, too, because it offers higher-quality food at lower prices than restaurants."
+        },
+        {
+          "l": "D",
+          "t": "But not all fast-food companies have been as fortunate. Many, such as Burger King, have seen sales fall. In a severe recession, while some people trade down to fast food, many others eat at home more frequently to save money. David Palmer, an analyst at UBS, a bank, says smaller fast-food chains in America, such as Jack in the Box and Carl's Jr., have been hit particularly hard in this downturn because they are competing with the global giant McDonald, which increased spending on advertising by more than 7% last year as others cut back."
+        },
+        {
+          "l": "E",
+          "t": "Some fast-food companies also sacrificed their own profits by trying to give customers better value. During the recession companies set prices low, hoping that once they had tempted customers through the door they would be persuaded to order more expensive items. But in many cases that strategy did not work. Last year Burger franchisees(特许经营人) sued(起诉) the company over its double-cheeseburger promotion, claiming it was unfair for them to be required to sell these for $1 when they cost $1.10 to make. In May a judge ruled in favour of Burger King. Nevertheless, the company may still be cursing its decision to promote cheap choices over more expensive ones because items on its \"value menu\" now account for around 20% of all sales, up from 12% last October."
+        },
+        {
+          "l": "F",
+          "t": "Analysts expect the fast-food industry to grow modestly this year. But the downturn is making companies rethink their strategies. Many are now introducing higher-priced items to entice(引诱) consumers away from $1specials. RFC, a division of Yum! Brands, which also owns Taco Bell and Pizza Hut, has launched a chicken sandwich that costs around $5. And in May Burger King introduced barbecue(烧烤) pork ribs at $7 for eight."
+        },
+        {
+          "l": "G",
+          "t": "Companies are also trying to get customers to buy new and more items, including drinks. McDonald's started selling better coffee as a challenge to Starbucks. Its \"McCafe\" line now accounts for an estimated 6% of sales in America. Starbucks has sold rights to its Seattle's Best coffee brand to Burger King, which will start selling it later this year."
+        },
+        {
+          "l": "H",
+          "t": "As fast-food companies shift from \"super-size\" to \"more buys\", they need to keep customer traffic high throughout the day. Many see breakfast as a big opportunity, and not just for fatty food. McDonald's will start selling porridge(粥) in America next year. Breakfast has the potential to be very profitable, says Sara Senatore of Bernstein, a research firm, because the margins can be high. Fast-food companies are also adding midday and late-night snacks, such as blended drinks and wraps. The idea is that by having a greater range of things on the menu, \"we can sell to consumers products they want all day,\" says Rick Carucci, the chief financial officer of Yum! Brands."
+        },
+        {
+          "l": "I",
+          "t": "But what about those growing waistlines? So far, fast-food firms have cleverly avoided government regulation. By providing healthy options, like salads and low-calorie sandwiches, they have at least given the impression of doing something about helping to fight obesity(肥胖症). These offerings are not necessarily loss-leaders, as they broaden the appeal of outlets to groups of diners that include some people who don't want to eat a burger. But customers cannot be forced to order salads instead of fries."
+        },
+        {
+          "l": "J",
+          "t": "In the future, simply offering a healthy option may not be good enough. \"Every packaged-food and restaurant company I know is concerned about regulation right now,\" says Mr. Palmer of UBS. America's health-reform bill, which Congress passed this year, requires restaurant chains with 20 or more outlets to put the calorie- content of items they serve on the menu. A study by the National Bureau of Economic Research, which tracked the effects on Starbucks of a similar calorie-posting law in New York City in 2007, found that the average calorie-count per transaction fell 6% and revenue increased 3% at Starbucks stores where a Dunkin Donuts outlet was nearby—a sign, it is said, that menu-labelling could favour chains that have more healthy offerings."
+        },
+        {
+          "l": "K",
+          "t": "In order to avoid other legislation in America and elsewhere, fast-food companies will have to continue innovating(创新). Walt Riker of McDonald's claims the change it has made in its menu means it offers more healthy items than it did a few years ago. \"We probably sell more vegetables, more milk, more salads, more apples than any restaurant business in the world,\" he says. But the recent proposal by a county in California to ban McDonald's from including toys in its high-calorie \"Happy Meals\", because legislators believe it attracts children to unhealthy food, suggests there is a lot more left to do."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Some people propose laws be made to stop McDonald's from attaching toys to its food specials for children.",
+          "a": "K"
+        },
+        {
+          "n": 37,
+          "s": "Fast-food firms may not be able to cope with pressures from food regulation in the near future.",
+          "a": "A"
+        },
+        {
+          "n": 38,
+          "s": "Burger King will start to sell Seattle's Best coffee to increase sales.",
+          "a": "G"
+        },
+        {
+          "n": 39,
+          "s": "Some fast-food firms provide healthy food to give the impression they are helping to tackle the obesity problem.",
+          "a": "I"
+        },
+        {
+          "n": 40,
+          "s": "During the recession, many customers turned to fast food to save money.",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "Many people eat out less often to save money in times of recession.",
+          "a": "D"
+        },
+        {
+          "n": 42,
+          "s": "During the recession, Burger King's promotional strategy of offering low-priced items often proved ineffective.",
+          "a": "E"
+        },
+        {
+          "n": 43,
+          "s": "Fast-food restaurants can make a lot of money by selling breakfast.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "Many fast-food companies now expect to increase their revenue by introducing higher-priced items.",
+          "a": "F"
+        },
+        {
+          "n": 45,
+          "s": "A newly-passed law asks big fast-food chains to specify the calorie count of what they serve on the menu.",
+          "a": "J"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "If you think a high-factor sunscreen( 防晒霜) keeps you safe from harmful rays, you may be wrong. Research in this week's Nature shows that while factor 50 reduces the number of melanomas(黑瘤) and delays their occurrence, it can't prevent them. Melanomas are the most aggressive skin cancers. You have a higher risk if you have red or blond hair, fair skin, blue or green eyes, or sunburn easily, or if a close relative has had one. Melanomas are more common if you have periodic intense exposure to the sun. Other skin cancers are increasingly likely with long-term exposure. There is continuing debate as to how effective sunscreen is in reducing melanomas—the evidence is weaker than it is for preventing other types of skin cancer. A 2011 Australian study of 1,621 people found that people randomly selected to apply sunscreen daily had half the rate of melanomas of people who used cream as needed. A second study, comparing 1,167 people with melanomas to 1,101 who didn't have the cancer, found that using sunscreen routinely, alongside other protection such as hats, long sleeves or staying in the shade, did give some protection. This study said other forms of sun protection—not sunscreen—seemed most beneficial. The study relied on people remembering what they had done over each decade of their lives, so it's not entirely reliable. But it seems reasonable to think sunscreen gives people a false sense of security in the sun. Many people also don't use sunscreen properly—applying insufficient amounts, failing to reapply after a couple of hours and staying in the sun too long. It is sunburn that is most worrying—recent research shows five episodes of sunburn in the teenage years increase the risk of all skin cancers. The good news is that a combination of sunscreen and covering up can reduce melanoma rates, as shown by Australian figures from their slip-slop-slap campaign. So if there is a heat wave this summer, it would be best for us, too, to slip on a shirt, slop on(补上) sunscreen and slap on a hat.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What is people's common expectation of a high-factor sunscreen?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will delay the occurrence of skin cancer."
+              },
+              {
+                "l": "B",
+                "t": "It will protect them from sunburn."
+              },
+              {
+                "l": "C",
+                "t": "It will keep their skin smooth and fair."
+              },
+              {
+                "l": "D",
+                "t": "It will work for people of any skin color."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 47,
+            "s": "What does the research in Nature say about a high-factor sunscreen?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is ineffective in preventing melanomas."
+              },
+              {
+                "l": "B",
+                "t": "It is ineffective in case of intense sunlight."
+              },
+              {
+                "l": "C",
+                "t": "It is ineffective with long-term exposure."
+              },
+              {
+                "l": "D",
+                "t": "It is ineffective for people with fair skin."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 48,
+            "s": "What do we learn from the 2011 Australian study of 1,621 people?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Sunscreen should be applied alongside other protection measures."
+              },
+              {
+                "l": "B",
+                "t": "High-risk people benefit the most from the application of sunscreen."
+              },
+              {
+                "l": "C",
+                "t": "Irregular application of sunscreen does women more harm than good."
+              },
+              {
+                "l": "D",
+                "t": "Daily application of sunscreen helps reduce the incidence of melanomas."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 49,
+            "s": "What does the author say about the second Australian study?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It misleads people to rely on sunscreen for protection."
+              },
+              {
+                "l": "B",
+                "t": "It helps people to select the most effective sunscreen."
+              },
+              {
+                "l": "C",
+                "t": "It is not based on direct observation of the subjects."
+              },
+              {
+                "l": "D",
+                "t": "It confirms the results of the first Australian study."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 50,
+            "s": "What does the author suggest to reduce melanoma rates?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Using both covering up and sunscreen."
+              },
+              {
+                "l": "B",
+                "t": "Staying in the shade whenever possible."
+              },
+              {
+                "l": "C",
+                "t": "Using covering up instead of sunscreen."
+              },
+              {
+                "l": "D",
+                "t": "Applying the right amount of sunscreen."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Across the rich world, well-educated people increasingly work longer than the less-skilled. Some 65% of American men aged 62-74 with a professional degree are in the workforce, compared with 32% of men with only a high-school certificate. This gap is part of a deepening divide between the well-educated well-off and the unskilled poor. Rapid technological advance has raised the incomes of the highly skilled while squeezing those of the unskilled. The consequences, for individuals and society, are profound. The world is facing an astonishing rise in the number of old people, and they will live longer than ever before. Over the next 20 years the global population of those aged 65 or more will almost double, from 600 million to 1.1 billion. The experience of the 20th century, when greater longevity(长寿) translated into more years in retirement rather than more years at work, has persuaded many observers that this shift will lead to slower economic growth, while the swelling ranks of pensioners will create government budget problems. But the notion of a sharp division between the working young and the idle old misses a new trend, the growing gap between the skilled and the unskilled. Employment rates are falling among younger unskilled people, whereas older skilled folk are working longer. The divide is most extreme in America, where well- educated baby-boomers(二战后生育高峰期出生的美国人) are putting off retirement while many less-skilled younger people have dropped out of the workforce. Policy is partly responsible. Many European governments have abandoned policies that used to encourage people to retire early. Rising life expectancy(预期寿命), combined with the replacement of generous defined- benefit pension plans with less generous defined-contribution ones, means that even the better-off must work longer to have a comfortable retirement. But the changing nature of work also plays a big role. Pay has risen sharply for the highly educated, and those people continue to reap rich rewards into old age because these days the educated elderly are more productive than the preceding generation. Technological change may well reinforce that shift: the skills that complement computers, from management know-how to creativity, do not necessarily decline with age.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What is happening in the workforce in rich countries?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Younger people are replacing the elderly."
+              },
+              {
+                "l": "B",
+                "t": "Well-educated people tend to work longer."
+              },
+              {
+                "l": "C",
+                "t": "Unemployment rates are rising year after year."
+              },
+              {
+                "l": "D",
+                "t": "People with no college degree do not easily find work."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What has helped deepen the divide between the well-off and the poor?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Longer life expectancies."
+              },
+              {
+                "l": "B",
+                "t": "A rapid technological advance."
+              },
+              {
+                "l": "C",
+                "t": "Profound changes in the workforce."
+              },
+              {
+                "l": "D",
+                "t": "A growing number of the well-educated."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What do many observers predict in view of the experience of the 20th century?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Economic growth will slow down."
+              },
+              {
+                "l": "B",
+                "t": "Government budgets will increase."
+              },
+              {
+                "l": "C",
+                "t": "More people will try to pursue higher education."
+              },
+              {
+                "l": "D",
+                "t": "There will be more competition in the job market."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What is the result of policy changes in European countries?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Unskilled workers may choose to retire early."
+              },
+              {
+                "l": "B",
+                "t": "More people have to receive in-service training."
+              },
+              {
+                "l": "C",
+                "t": "Even wealthy people must work longer to live comfortably in retirement."
+              },
+              {
+                "l": "D",
+                "t": "People may be able to enjoy generous defined-benefits from pension plans."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 55,
+            "s": "What is characteristic of work in the 21st century?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Computers will do more complicated work."
+              },
+              {
+                "l": "B",
+                "t": "More will be taken by the educated young."
+              },
+              {
+                "l": "C",
+                "t": "Most jobs to be done will be the creative ones."
+              },
+              {
+                "l": "D",
+                "t": "Skills are highly valued regardless of age."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "据报道，今年中国快递服务(courier services)将递送大约 120 亿件包裹。这将使中国有可能超越美国成为 世界上最大的快递市场。大多数包裹里装着网上订购的物品。中国给数百万在线零售商以极具竞争力的价格销 售商品的机会。仅在 11 月 11日,中国消费者就从国内最大的购物平台购买了价值 90 亿美元的商品。中国有 不少这样的特殊购物日。因此,快递业在中国扩展就不足为奇了。",
+    "reference": "It is reported that China's courier services will deliver about 12 billion parcels this year. This will make it possible for China to overtake the US and become the largest courier market in the world. Most parcels contain goods ordered online. China offers millions of online retailers the chance to sell goods at competitive prices. On November 11 alone, Chinese consumers bought goods worth 9 billion dollars from the largest shopping platform in the country. There are many such special shopping days in China. Therefore, it is no surprise that the courier industry is expanding in China."
+  }
+}

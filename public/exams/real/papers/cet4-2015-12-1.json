@@ -1,0 +1,1356 @@
+{
+  "id": "cet4-2015-12-1",
+  "level": "cet4",
+  "year": 2015,
+  "month": 12,
+  "set": 1,
+  "title": "2015年12月 四级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on the saying “Learning is a daily experience and a lifetime mission.” You can cite examples to illustrate the importance of lifelong learning. You should write at least 120 words but no more than 180 words.",
+    "sample": "The saying “Learning is a daily experience and a lifetime mission” reveals two truths: knowledge is built up little by little in ordinary days, yet its pursuit never ends throughout our lives. In my view, only by treating learning as a lifelong journey can we stay competent in a changing world.A vivid example is my uncle, a factory worker who lost his job when machines replaced manual labour. Instead of giving up, he studied programming every evening, and two years later he became a software tester. His story shows that those who keep learning can keep pace with the times, while those who stop are left behind. In an age when technology updates almost daily, continuous learning is no longer a choice but a necessity.Therefore, we should never regard graduation as the end of study. Learning, as the saying goes, is both a daily habit and a mission that lasts a lifetime. Only by embracing it every single day can we broaden our horizons and enrich our lives."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "An abnormal winter snow storm."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The first warm front from Europe."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The frequent choking smog."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The unusual warm winter."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "From Saturday afternoon."
+                  },
+                  {
+                    "l": "B",
+                    "t": "From this Friday."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In the next spring."
+                  },
+                  {
+                    "l": "D",
+                    "t": "During the Christmas holiday.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Some unusual weather from around the world. Starting in the US state Washington, more than 63 centimeters of snow fell in just two days in some areas. The first big storm of the winter blanketed the Lake Tahoe area of Nevada with snow that had caused travel chaos for Christmas travelers. Meanwhile in Moscow, snow completely disappeared from the city's streets as warm air moved into the European part of Russia. An abnormally warm winter has brought flowers into bloom. Several types of plants that usually wake up in the spring have already bloomed, while hazardous smoke choked Beijing on Friday with pollution levels exceeding the index. Neighbouring cities were also hit by heavy air pollution. Weather forecasts say the pollution should ease from Saturday afternoon when as hoped a cold front in Beijing will disperse the smog.",
+                "zh": "来自世界各地的一些异常天气。首先是美国华盛顿州，部分地区在短短两天内降雪超过63厘米。今年冬季的第一场大风暴给Nevada州的太浩湖地区覆盖了厚厚的积雪，给圣诞节出行的旅客造成了交通混乱。与此同时在莫斯科，随着暖空气移入俄罗斯的欧洲部分，积雪从该市街道上完全消失。异常温暖的冬季使鲜花绽放。几种通常在春季苏醒的植物已经开花,而周五危险的烟雾笼罩北京，污染水平超出指数。邻近城市也遭受严重空气污染。天气预报称，污染情况应该会从周六下午开始缓解，届时预计北京的一股冷锋将驱散雾霾。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The project of free digital off-line resources in Nigeria."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The project of free video lessons in Nigeria."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The digital library in Ahmadu Bello University."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The non-profit organizations in Ahmadu Bello University."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Multimedia work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Digital documents."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Informative websites."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Computer software.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "More than 100 million people in Nigeria are not connected to the Internet. There are only a few networks that offer service and it is costly and undependable. Now, a new project provides a resource for off-line viewing at no cost. A non-profit organization called the WiderNet Project has developed the offline eGranary Digital Library. The service puts millions of digital documents, multimedia work and websites onto a server. The information is then available to students, medical workers, and researchers at no cost, whether there is Internet or not. Users can access informative websites that eGranary updates every day such as Wikipedia, Khan Academy, Project Gutenberg, MIT OpenCourseWare, and MIT BLOSSOMS (which is Math and Science video lessons for high school students). Other resources on the service include university and medical publications computer software, and educational games. Ahmadu Bello University is the largest university in Nigeria and the second largest in Africa. The university uses eGranary's digital educational resources. Kasa Mathias is head of the school's database department. He says students can access tens of thousands of educational materials without much problem.",
+                "zh": "尼日利亚有超过一亿人无法连接互联网。只有少数几家网络运营商提供服务，而且费用高昂且不可靠。现在，一个新项目免费提供离线浏览资源。一个名为WiderNet Project的非营利组织开发了离线eGranary数字图书馆。该服务将数百万份数字文档、多媒体作品和网站放到服务器上。无论是否有互联网，学生、医务工作者和研究人员都可以免费获取这些信息。用户可以访问eGranary每天更新的信息性网站，如Wikipedia、Khan Academy、Project Gutenberg、MIT OpenCourseWare和MIT BLOSSOMS（面向高中生的数学和科学视频课程）。该服务上的其他资源还包括大学和医学出版物、计算机软件以及教育游戏。Ahmadu Bello University是尼日利亚最大的大学，也是非洲第二大大学。该大学使用eGranary的数字教育资源。Kasa Mathias是该校数据库部门的负责人。他说学生可以毫无困难地访问数以万计的教育材料。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It hit another car."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was overspeed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It hit a driving bus in the road."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It hit a Lexus SUV."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "3 kilometers per hour."
+                  },
+                  {
+                    "l": "B",
+                    "t": "6 kilometers per hour."
+                  },
+                  {
+                    "l": "C",
+                    "t": "24 kilometers per hour."
+                  },
+                  {
+                    "l": "D",
+                    "t": "180 kilometers per hour."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Realities of speed and distance."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Accidents in the road."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Wheel and fender damage."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Driving buses in the road."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Google's self-driving car hit a small bump in the road. The driverless car had an accident February 14th in California. The accident was reported to the Department of Motor Vehicles in California on February 23rd. According to WIRED, a technology publication, the car changed traffic lanes and moved into the path of a bus. The driverless car was a Lexus SUV. When it hit the bus, the Google car was moving at around 3 kilometers per hour. The speed of the bus was 24 kilometers per hour at the time of the collision. No injuries were reported. The left front wheel and fender of the Google car were damaged. In a May 2015 monthly report Google said: \"We'll inevitably be involved in accidents; sometimes it's impossible to overcome the realities of speed and distance. In the six years of our project, we've been involved in 12 minor accidents during more than 1.8 million miles of autonomous and manual driving combined.\" Google has predicted the cars will be ready for the road by 2020.",
+                "zh": "Google的自动驾驶汽车遇到了一个小挫折。这辆无人驾驶汽车于2月14日在加州发生了事故。该事故于2月23日报告给加州机动车辆管理局。据科技出版物WIRED报道，这辆车变换车道时驶入了一辆公交车的行驶路线。这辆无人驾驶汽车是一辆Lexus SUV。撞上公交车时，Google汽车的行驶速度约为每小时3公里。碰撞发生时公交车的速度为每小时24公里。没有人员伤亡报告。Google汽车的左前轮和挡泥板受损。Google在2015年5月的月度报告中表示：\"我们不可避免地会卷入事故；有时无法克服速度和距离的现实情况。在我们项目的六年中，在超过180万英里的自动和手动驾驶里程中，我们已经历了12起轻微事故。\"Google预测这些汽车将在2020年前做好上路准备。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "From some of her friends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "From the wanted column."
+                  },
+                  {
+                    "l": "C",
+                    "t": "From a telephone directory."
+                  },
+                  {
+                    "l": "D",
+                    "t": "From a telephone directory."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She finished her secondary school."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She studied in a vocational college."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She graduated from an open university."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She received full-time education abroad."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She teaches an evening class."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She works as a tour guide."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is a policewoman."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is a shorthand-typist."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A job in a travel agency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A job in the government."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A job as a policewoman."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A job as a teacher.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Asen Employment Agency. Good morning!",
+                "zh": "M: Asen职业介绍所。早上好!"
+              },
+              {
+                "en": "W: Good morning! I wonder if you can help me. I'm looking for a job.",
+                "zh": "W: 早上好!不知道您能不能帮我。我在找工作。"
+              },
+              {
+                "en": "M: I'll see what we can do. Er, have you been to us before?",
+                "zh": "M: 我看看我们能做什么。呃,您以前来过我们这儿吗?"
+              },
+              {
+                "en": "W: No, but you've managed to get jobs for some of my friends, so I thought perhaps… you know.",
+                "zh": "W: 没有,但您给我的一些朋友找到了工作,所以我想也许……你知道的。"
+              },
+              {
+                "en": "M: Yes, I see. First of all, could you give me your full name?",
+                "zh": "M: 好的,我明白了。首先,能告诉我您的全名吗?"
+              },
+              {
+                "en": "W: Yes, of course. Susan Hollis.",
+                "zh": "W: 好的,当然可以。Susan Hollis。"
+              },
+              {
+                "en": "M: Good. And could I have your phone number?",
+                "zh": "M: 好的。能给我您的电话号码吗?"
+              },
+              {
+                "en": "W: Yes, 7788992.",
+                "zh": "W: 可以,7788992。"
+              },
+              {
+                "en": "M: Fine, and your date of birth please?",
+                "zh": "M: 好的,还有您的出生日期?"
+              },
+              {
+                "en": "W: February 3rd, 1980.",
+                "zh": "W: 1980年2月3日。"
+              },
+              {
+                "en": "M: Thank you. Now, education. Which school did you go to?",
+                "zh": "M: 谢谢。现在是教育经历。您上的哪所学校?"
+              },
+              {
+                "en": "W: I went to a secondary school in South town.",
+                "zh": "W: 我在南镇上的一所中学。"
+              },
+              {
+                "en": "M: And have you been to college?",
+                "zh": "M: 上过大学吗?"
+              },
+              {
+                "en": "W: No, I left full-time education when I was 18.",
+                "zh": "W: 没有,我18岁就离开全日制教育了。"
+              },
+              {
+                "en": "M: I see. Any qualifications?",
+                "zh": "M: 我明白了。有什么资格证书吗?"
+              },
+              {
+                "en": "W: Yes, I gained a shorthand and typing diploma at evening classes.",
+                "zh": "W: 有的,我在夜校拿到了速记和打字文凭。"
+              },
+              {
+                "en": "M: That's good! Now, where are you working at the moment?",
+                "zh": "M: 很好!那么,您现在在哪儿工作?"
+              },
+              {
+                "en": "W: Well, I've got a job as a shorthand-typist, but I'm not enjoying it very much and it doesn't pay very well.",
+                "zh": "W: 嗯,我现在有份速记打字员的工作,但我不太喜欢,而且工资也不高。"
+              },
+              {
+                "en": "M: I see. Have you applied for any other jobs?",
+                "zh": "M: 我明白了。您申请过其他工作吗?"
+              },
+              {
+                "en": "W: Yes, I thought I'd like to be a policewoman but they turned me down because I was too short.",
+                "zh": "W: 申请过,我本来想当警察,但他们拒绝了我,因为我太矮了。"
+              },
+              {
+                "en": "M: What would you like to do now then?",
+                "zh": "M: 那您现在想做什么呢?"
+              },
+              {
+                "en": "W: Well, I think I'd like to work in a travel agency.",
+                "zh": "W: 嗯,我想我想在旅行社工作。"
+              },
+              {
+                "en": "M: I see, I think the best thing is for me to see what we might find for you. And then…",
+                "zh": "M: 我明白了,我觉得最好的办法是我先看看能为您找到什么。然后……"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was interrupted for four years."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has been off and on for ten years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It helps enlarge his customer network."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It provides him with career opportunities."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Traditional setting."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Individualized service."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Social games."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Home-made beer."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The quality of beer."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The owner's attitude."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The atmosphere."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The right location."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It makes retirees feel useful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It helps old people kill time."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a profitable business."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a rather tough job."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Steve, can you tell me how long you've been a pub owner?",
+                "zh": "W: Steve，你能告诉我你做酒吧老板多久了吗？"
+              },
+              {
+                "en": "M: Well, four years, I suppose. I've been involved with pubs off and on for ten years. I've sort of done hotel work. And I've also run a restaurant pub and now I've got what you call a good old-fashioned pub. That is a public bar with all the social games going with it, which is what we've always wanted to have, you know.",
+                "zh": "M: 嗯，我想大概四年了。我断断续续做酒吧生意有十年了。我做过酒店方面的工作。我还经营过一家餐吧，现在我有的是你们所说的传统老式酒吧。就是那种有公共吧台，配有各种社交游戏的酒吧，这正是我们一直想要的，你知道的。"
+              },
+              {
+                "en": "W: It sounds like you've always worked in pubs but not always in this one.",
+                "zh": "W: 听起来你一直在酒吧工作，但不总是在这一家。"
+              },
+              {
+                "en": "M: No, no, I've worked in quite a variety of pubs.",
+                "zh": "M: 不是，不是，我在很多不同的酒吧工作过。"
+              },
+              {
+                "en": "W: What makes a good pub? I mean you said, you know, it has got a good variety of things.",
+                "zh": "W: 什么才算是好酒吧呢？我是说你刚才说，你知道的，它有很多好东西。"
+              },
+              {
+                "en": "M: Well, I think having the right customers to start with, selling the right beer, keeping it good, and most of all keeping a good attitude yourself even though you probably feel very tired. But the idea is if you generate it from your side, it's got to affect the other side if you're getting the right customers in.",
+                "zh": "M: 嗯，我觉得首先要有合适的顾客，卖合适的啤酒，保持啤酒的品质，最重要的是自己要保持良好的态度，即使你可能感觉非常累。但关键是如果你从自己这边释放出这种态度，它就会影响到另一边，如果你吸引到了合适的顾客的话。"
+              },
+              {
+                "en": "W: Yeah, I must say that's one thing that's always struck me about being a pub owner. I mean a lot of people seem to think that is a nice job, you know. Everybody says, \"Oh, I'd love to retire and get a country pub.\" But it seems to me that it's actually very hard work.",
+                "zh": "W: 是啊，我必须说这一点总是让我对酒吧老板这个职业印象深刻。我是说很多人似乎认为这是个不错的工作，你知道的。大家都说，\"哦，我想退休后开一家乡村酒吧。\"但在我看来，这实际上是非常辛苦的工作。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It helps the user to escape reality."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is becoming increasingly popular."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It hurts a person and those around them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It gives rise to serious social instability."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They take drugs to get high."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They use drugs just for fun."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They use drugs as medicine."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They keep drug use a secret."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is fatal to the user."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is hard to get rid of."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is the cause of various social problems."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is quite common in entertainment circles.\n\nQuestions 19 to 22 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "To help ourselves and others, it's important to know something about drugs. A drug is a chemical substance. It can bring about a physical, emotional or mental change in people. Alcohol and tobacco are drugs. Caffeine, a substance found in coffee and some soft drinks, is also a drug.",
+                "zh": "为了帮助自己和他人，了解一些关于药物的知识很重要。药物是一种化学物质。它能给人带来生理、情感或精神上的变化。酒精和烟草都是药物。咖啡因是一种存在于咖啡和一些软饮料中的物质，也是一种药物。"
+              },
+              {
+                "en": "Drug abuse is the use of a drug legal or illegal that hurts a person or someone close to him. A drug user is the person who takes the drug. There are many kinds of drug users. Experimental users may try drugs once or twice. They want to see what the effects will be. Recreational users take drugs to get high. They use drugs with friends or at parties to get into the mood of things. Regular users take drugs all the time. But they are often able to keep up with the normal routine of work. Dependent users can't relate to anything but drugs. Their whole life centers around drugs. They feel extreme mental or physical pain without drugs.",
+                "zh": "药物滥用是指对合法或非法药物的使用伤害了某人或其亲近的人。药物使用者是服用药物的人。药物使用者有很多种类。实验性使用者可能会尝试一两次药物。他们想看看会有什么效果。娱乐性使用者服用药物是为了获得快感。他们在朋友聚会或派对上使用药物来融入气氛。经常性使用者一直服用药物。但他们往往能够维持正常的工作日程。依赖性使用者除了药物之外无法与任何事物产生联系。他们的整个生活都围绕着药物。没有药物,他们会感到极度的精神或身体痛苦。"
+              },
+              {
+                "en": "It's not always easy to tell if someone is using drugs. In the early stages, drug use is often hard to see. Sometimes people like drugs or need drugs so much that they can't do without them. They are dependent upon drugs. Only a few kinds of drugs can cause physical dependence. But almost any drug, when it's misused, can make a person think he needs it all the time. By this time it's too late and the person is \"hooked\".",
+                "zh": "判断某人是否在使用药物并不总是容易的。在早期阶段,药物使用往往很难察觉。有时人们太喜欢药物或太需要药物,以至于离不开它们。他们对药物产生了依赖。只有少数几种药物会导致身体依赖。但几乎任何药物,当被滥用时,都能让人觉得自己时刻都需要它。到这个时候就太晚了,这个人已经\"上瘾\"了。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 22 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Taking up exercises after recovery."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Finding new ways to cure heart disease."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Going on a diet upon leaving the hospital."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Producing tasty healthy frozen food."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was carefully tested with consumers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was disapproved by many diet experts."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It was promoted by health organizations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was highly expected by the general public."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Competitive price."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Vigorous promotion."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Low expectations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Unique ingredients."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has a positive implication for consumers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It tricks the elders into impulse purchasing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It matches the food's dark green packaging."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It was suggested by the firm's vice-president.\n\nQuestions 23 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "According to Charles Harper, Chairman of ConAgra, the Healthy Choice line of frozen dinners began with his own heart attack. It had been brought on by years of eating anything he could get his hands on. As he lay in the hospital recovering, Harper imagined the line of healthy frozen foods—the tasty good. The Healthy Choice product line was carefully tested with consumers before being introduced to the general public. ConAgra's research and development staff spent a year working under the instruction, whatever the cost, don't sacrifice taste. The first test market results surprised even the ConAgra team. The low sodium, low fat frozen dinners sold much better than expected. According to the firm's vice-president of marketing and sales, \"We benefited from low expectations. The products were much better than people thought they would be.\" This finding supported ConAgra's decision to position the product against other high-quality frozen dinners rather than as a diet or health food. The new product brand's name and packaging were an important part of the development process. The name \"Healthy Choice\" was chosen for the positive implication it held for consumers. Because ConAgra felt the product would be an impulse purchase, it was important to make the item stand out in the freezer case. This was accomplished through the dark green packaging that not only differed from the competitors but also suggested freshness and richness in vitamins.",
+                "zh": "据ConAgra公司董事长Charles Harper称，Healthy Choice系列冷冻晚餐始于他自己的心脏病发作。这是多年来随手吃东西造成的。当他躺在医院康复时，Harper构想出了这一健康冷冻食品系列——美味可口的食品。Healthy Choice产品线在向公众推出之前经过了消费者的仔细测试。ConAgra的研发人员花了一年时间按照\"不惜任何代价，不要牺牲口味\"的指示工作。第一次试销市场的结果甚至令ConAgra团队感到惊讶。这种低钠、低脂的冷冻晚餐销量远超预期。据该公司营销和销售副总裁称，\"我们受益于较低的期望值。产品比人们预想的要好得多。\"这一发现支持了ConAgra将产品定位为与其他高品质冷冻晚餐竞争而非作为减肥或健康食品的决定。新产品品牌的名称和包装是开发过程的重要组成部分。选择\"Healthy Choice\"这个名称是因为它对消费者具有积极的暗示意义。由于ConAgra认为该产品将是冲动性购买，因此让商品在冷柜中脱颖而出非常重要。这是通过深绿色包装实现的，它不仅与竞争对手有所不同，还暗示了新鲜和富含维生素。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It will be abolished sooner or later."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is practiced in most of the states."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has to be approved by the Supreme Court."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has drawn a lot of criticism from overseas."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "What effect it might have on youngsters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "What type of criminals should receive it."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether there should be a minimum age limit for execution."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether the practice should be allowed to continue in future."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The court sentenced him to life in prison for killing two friends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The governor changed his death sentence to life in prison."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He was the first minor to be executed in South Carolina."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He was sentenced to death for a crime he committed as a minor."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In the United States, 36 states currently allow capital punishment for serious crimes such as murder. Americans have always argued about the death penalty. Today, there is a serious question about this issue: Should there be a minimum age limit for executing criminals? In other words, is it right for convicted murderers who kill when they are minors, that is under the age of 18, to receive the death penalty?",
+                "zh": "在美国，目前有36个州允许对谋杀等严重罪行实施死刑。美国人一直在争论死刑问题。今天，关于这个问题存在一个严肃的疑问：执行死刑是否应该有最低年龄限制？换句话说，被定罪的谋杀犯在未成年时，也就是18岁以下时杀人，判处死刑是否正确？"
+              },
+              {
+                "en": "In most other countries of the world, there is no capital punishment for minors. In the United States, though, each state makes its own decision. Of the 36 states that allow the death penalty, 30 permit the execution of minors.",
+                "zh": "在世界上大多数其他国家，对未成年人不实施死刑。然而在美国，每个州自行决定。在允许死刑的36个州中，有30个州允许对未成年人执行死刑。"
+              },
+              {
+                "en": "In the state of South Carolina, a convicted murderer was given the death penalty for a crime he committed while he was a minor. In 1977, when he was 17 years old, James Terry Roach and two friends cruelly murdered three people. Roach's lawyer fought the decision to execute him. The young murderer remained on death row for ten years while his lawyer appealed to the governor. The lawyer argued that it is wrong to execute a person for a crime he committed while he was a minor. In the United States, the governor of a state has the power to change a sentence from the death penalty to life in prison. Nonetheless, the governor of South Carolina refused to stop the execution. Roach was finally executed in 1986.",
+                "zh": "在南卡罗来纳州，一名被定罪的谋杀犯因其未成年时犯下的罪行而被判处死刑。1977年，当James Terry Roach 17岁时，他和两个朋友残忍地杀害了三个人。Roach的律师抗争这个处决他的判决。这名年轻的谋杀犯在死囚牢房待了十年，期间他的律师向州长上诉。律师辩称，对一个人在未成年时犯下的罪行而处决他是错误的。在美国，州长有权将死刑判决改为终身监禁。然而，南卡罗来纳州州长拒绝停止执行死刑。Roach最终于1986年被处决。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Question"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "to 35 are based on the following passage. Children do not think the way adults do. For most of the first year of life, if something is out of sight, it's out of mind. If you cover a baby's     26    toy with a piece of cloth, the baby thinks the toy has disappeared and stops looking for it. A 4-year-old may"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "that a sister has more fruit juice when it is only the shapes of the glasses that differ, not the"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "of juice. Yet children are smart in their own way. Like good little scientists, children are always testing their child- sized"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "about how things work. When your child throws her spoon on the floor for the sixth time as you try to feed her, and you say, \"That's enough! I will not pick up your spoon again!\" The child will"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "test your claim. Are you serious? Are you angry? What will happen if she throws the spoon again? She is not doing this to drive you"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "; rather, she is learning that her desires and yours can differ, and that sometimes those"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "are important and sometimes they are not. How and why does children's thinking change? In the 1920s, Swiss psychologist Jean Piaget proposed that children's cognitive(认知的) abilities unfold"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": ", like the blooming of a flower, almost independent of what else is"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "in their lives. Although many of his specific conclusions have been"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "or modified over the years, his ideas inspired thousands of studies by investigators all over the world."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "advocate"
+        },
+        {
+          "l": "B",
+          "w": "amount"
+        },
+        {
+          "l": "C",
+          "w": "confirmed"
+        },
+        {
+          "l": "D",
+          "w": "crazy"
+        },
+        {
+          "l": "E",
+          "w": "definite"
+        },
+        {
+          "l": "F",
+          "w": "differences"
+        },
+        {
+          "l": "G",
+          "w": "favorite"
+        },
+        {
+          "l": "H",
+          "w": "happening"
+        },
+        {
+          "l": "I",
+          "w": "immediately"
+        },
+        {
+          "l": "J",
+          "w": "naturally"
+        },
+        {
+          "l": "K",
+          "w": "Obtaining"
+        },
+        {
+          "l": "L",
+          "w": "Primarily"
+        },
+        {
+          "l": "M",
+          "w": "protest"
+        },
+        {
+          "l": "N",
+          "w": "rejected"
+        },
+        {
+          "l": "O",
+          "w": "theories"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "G"
+        },
+        {
+          "n": 27,
+          "a": "M"
+        },
+        {
+          "n": 28,
+          "a": "B"
+        },
+        {
+          "n": 29,
+          "a": "O"
+        },
+        {
+          "n": 30,
+          "a": "I"
+        },
+        {
+          "n": 31,
+          "a": "D"
+        },
+        {
+          "n": 32,
+          "a": "F"
+        },
+        {
+          "n": 33,
+          "a": "J"
+        },
+        {
+          "n": 34,
+          "a": "H"
+        },
+        {
+          "n": 35,
+          "a": "N"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The Perfect Essay",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Looking back on too many years of education, I can identify one truly impossible teacher. She cared about me, and my intellectual life, even when I didn't. Her expectations were high—impossibly so. She was an English teacher. She was also my mother."
+        },
+        {
+          "l": "B",
+          "t": "When good students turn in an essay, they dream of their instructor returning it to them in exactly the same condition, save for a single word added in the margin of the final page: \"Flawless\". This dream came true for me one afternoon in the ninth grade. Of course, I had heard that genius could show itself at an early age, so I was only slightly taken aback that I had achieved perfection at the tender age of 14. Obviously, I did what any professional writer would do; I hurried off to spread the good news. I didn't get very far. The first person I told was my mother."
+        },
+        {
+          "l": "C",
+          "t": "My mother, who is just shy of five feet tall, is normally incredibly soft-spoken, but on the rare occasion when she got angry, she was terrifying. I am not sure if she was more upset by my hubris(得意忘形) or by the fact that my English teacher had let my ego get so out of hand. In any event, my mother and her red pen showed me how deeply flawed a flawless essay could be. At the time, I am sure she thought she was teaching me about mechanics, transitions(过渡), structure, style and voice. But what I learned, and what stuck with me through my time teaching writing at Harvard, was a deeper lesson about the nature of creative criticism."
+        },
+        {
+          "l": "D",
+          "t": "First off, it hurts. Genuine criticism, the type that leaves a lasting mark on you as a writer, also leaves an existential imprint( 印记) on you as a person. I have heard people say that a writer should never take criticism personally. I say that we should never listen to these people."
+        },
+        {
+          "l": "E",
+          "t": "Criticism, at its best, is deeply personal, and gets to the heart of why we write the way we do. The intimate nature of genuine criticism implies something about who is able to give it, namely, someone who knows you well enough to show you how your mental life is getting in the way of good writing. Conveniently, they are also the people who care enough to see you through this painful realization. For me it took the form of my first, and I hope only, encounter with writer's block—I was not able to produce anything for three years."
+        },
+        {
+          "l": "F",
+          "t": "Franz Kafka once said: \"Writing is utter solitude(独处), the descent into the cold abyss(深渊) of oneself.\" My mother's criticism had shown me that Kafka is right about the cold abyss, and when you make the introspective(内省的) descent that writing requires you are not always pleased by what you find. But, in the years that followed, her sustained tutoring suggested that Kafka might be wrong about the solitude. I was lucky enough to find a critic and teacher who was willing to make the journey of writing with me. \"It is a thing of no great difficulty,\" according to Plutarch, \"to raise objections against another man's speech, it is a very easy matter; but to produce a better in its place is a work extremely troublesome.\" I am sure I wrote essays in the later years of high school without my mother's guidance, but I can't recall them. What I remember, however, is how she took up the \"extremely troublesome\" work of ongoing criticism."
+        },
+        {
+          "l": "G",
+          "t": "There are two ways to interpret Plutarch when he suggests that a critic should be able to produce \"a better in its place.\" In a straightforward sense, he could mean that a critic must be more talented than the artist she critiques(评论). My mother was well covered on this count. But perhaps Plutarch is suggesting something slightly different, something a bit closer to Marcus Cicero's claim that one should \"criticize by creation, not by finding fault.\" Genuine criticism creates a precious opening for an author to become better on his own terms—a process that is often extremely painful, but also almost always meaningful."
+        },
+        {
+          "l": "H",
+          "t": "My mother said she would help me with my writing, but first I had to help myself. For each assignment, I was to write the best essay I could. Real criticism is not meant to find obvious mistakes, so if she found any —the type I could have found on my own—I had to start from scratch. From scratch. Once the essay was \"flawless,\" she would take an evening to walk me through my errors. That was when true criticism, the type that changed me as a person, began."
+        },
+        {
+          "l": "I",
+          "t": "She criticized me when I included little-known references and professional jargon(行话). She had no patience for brilliant but irrelevant figures of speech. \"Writers can't bluff(虚张声势) their way through ignorance.\" That was news to me—I would need to find another way to structure my daily existence."
+        },
+        {
+          "l": "J",
+          "t": "She trimmed back my flowery language, drew lines through my exclamation marks and argued for the value of restraint in expression. \"John,\" she almost whispered. I leaned in to hear her: \"I can't hear you when you shout at me.\" So I stopped shouting and bluffing, and slowly my writing improved."
+        },
+        {
+          "l": "K",
+          "t": "Somewhere along the way I set aside my hopes of writing that flawless essay. But perhaps I missed something important in my mother's lessons about creativity and perfection. Perhaps the point of writing the flawless essay was not to give up, but to never willingly finish. Whitman repeatedly reworked \"Song of Myself\" between 1855 and 1891. repeatedly. We do our absolute best with a piece of writing, and come as close as we can to the ideal. And, for the time being, we settle. In critique, however, we are forced to depart, to give up the perfection we thought we had achieved for the chance of being even a little bit better. This is the lesson I took from my mother: If perfection were possible, it would not be motivating."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "The author was advised against the improper use of figures of speech.",
+          "a": "I"
+        },
+        {
+          "n": 37,
+          "s": "The author's mother taught him a valuable lesson by pointing out lots of flaws in his seemingly perfect essay.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "A writer should polish his writing repeatedly so as to get closer to perfection.",
+          "a": "K"
+        },
+        {
+          "n": 39,
+          "s": "Writers may experience periods of time in their life when they just can't produce anything.",
+          "a": "E"
+        },
+        {
+          "n": 40,
+          "s": "The author was not much surprised when his school teacher marked his essay as \"flawless\".",
+          "a": "B"
+        },
+        {
+          "n": 41,
+          "s": "Criticizing someone's speech is said to be easier than coming up with a better one.",
+          "a": "F"
+        },
+        {
+          "n": 42,
+          "s": "The author looks upon his mother as his most demanding and caring instructor.",
+          "a": "A"
+        },
+        {
+          "n": 43,
+          "s": "The criticism the author received from his mother changed him as a person.",
+          "a": "H"
+        },
+        {
+          "n": 44,
+          "s": "The author gradually improved his writing by avoiding fancy language.",
+          "a": "J"
+        },
+        {
+          "n": 45,
+          "s": "Constructive criticism gives an author a good start to improve his writing.",
+          "a": "G"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Could you reproduce Silicon Valley elsewhere, or is there something unique about it? It wouldn't be surprising if it were hard to reproduce in other countries, because you couldn't reproduce it in most of the US either. What does it take to make a Silicon Valley? It's the right people. If you could get the right ten thousand people to move from Silicon Valley to Buffalo, Buffalo would become Silicon Valley. You only need two kinds of people to create a technology hub(中心): rich people and nerds(痴迷科研的人). Observation bears this out. Within the US, towns have become startup hubs if and only if they have both rich people and nerds. Few startups happen in Miami, for example, because although it's full of rich people, it has few nerds. It's not the kind of place nerds like. Whereas Pittsburgh has the opposite problem: plenty of nerds, but no rich people. The top US Computer Science departments are said to be MIT, Stanford, Berkeley, and Carnegie-Mellon. MIT yielded Route 128. Stanford and Berkeley yielded Silicon Valley. But what did Carnegie-Mellon yield in Pittsburgh? And what happened in Ithaca, home of Cornell University, which is also high on the list? I grew up in Pittsburgh and went to college at Cornell, so I can answer for both. The weather is terrible, particularly in winter, and there's no interesting old city to make up for it, as there is in Boston. Rich people don't want to live in Pittsburgh or Ithaca. So while there're plenty of hackers(电脑迷) who could start startups, there's no one to invest in them. Do you really need the rich people? Wouldn't it work to have the government invest in the nerds? No, it would not. Startup investors are a distinct type of rich people. They tend to have a lot of experience themselves in the technology business. This helps them pick the right startups, and means they can supply advice and connections as well as money. And the fact that they have a personal stake in the outcome makes them really pay attention.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn about Silicon Valley from the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its success is hard to copy anywhere else."
+              },
+              {
+                "l": "B",
+                "t": "It is the biggest technology hub in the US."
+              },
+              {
+                "l": "C",
+                "t": "Its fame in high technology is incomparable."
+              },
+              {
+                "l": "D",
+                "t": "It leads the world in information technology."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "What makes Miami unfit to produce a Silicon Valley?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Lack of incentive for investment."
+              },
+              {
+                "l": "B",
+                "t": "Lack of the right kind of talents."
+              },
+              {
+                "l": "C",
+                "t": "Lack of government support."
+              },
+              {
+                "l": "D",
+                "t": "Lack of famous universities."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "In what way is Carnegie-Mellon different from Stanford, Berkeley and MIT?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its location is not as attractive to rich people."
+              },
+              {
+                "l": "B",
+                "t": "Its science departments are not nearly as good."
+              },
+              {
+                "l": "C",
+                "t": "It does not produce computer hackers and nerds."
+              },
+              {
+                "l": "D",
+                "t": "It does not pay much attention to business startups."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What does the author imply about Boston?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has pleasant weather all year round."
+              },
+              {
+                "l": "B",
+                "t": "It produces wealth as well as high-tech."
+              },
+              {
+                "l": "C",
+                "t": "It is not likely to attract lots of investors and nerds."
+              },
+              {
+                "l": "D",
+                "t": "It is an old city with many sites of historical interest."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What does the author say about startup investors?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are especially wise in making investments."
+              },
+              {
+                "l": "B",
+                "t": "They have good connections in the government."
+              },
+              {
+                "l": "C",
+                "t": "They can do more than providing money."
+              },
+              {
+                "l": "D",
+                "t": "They are rich enough to invest in nerds."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "It's nice to have people of like mind around. Agreeable people boost your confidence and allow you to relax and feel comfortable. Unfortunately, that comfort can hinder the very learning that can expand your company and your career. It's nice to have people agree, but you need conflicting perspectives to dig out the truth. If everyone around you has similar views, your work will suffer from confirmation bias(偏颇). Take a look at your own network. Do your contacts share your point of view on most subjects? If yes, it's time to shake things up. As a leader, it can be challenging to create an environment in which people will freely disagree and argue, but as the saying goes: From confrontation comes brilliance. It's not easy for most people to actively seek conflict. Many spend their lives trying to avoid arguments. There's no need to go out and find people you hate, but you need to do some self-assessment to determine where you have become stale in your thinking. You may need to start by encouraging your current network to help you identify your blind spots. Passionate, energetic debate does not require anger and hard feelings to be effective. But it does require moral strength. Once you have worthy opponents, set some ground rules so everyone understands responsibilities and boundaries. The objective of this debating game is not to win but to get to the truth that will allow you to move faster, farther, and better. Fierce debating can hurt feelings, particularly when strong personalities are involved. Make sure you check in with your opponents so that they are not carrying the emotion of the battles beyond the battlefield. Break the tension with smiles and humor to reinforce the idea that this is friendly discourse and that all are working toward a common goal. Reward all those involved in the debate sufficiently when the goals are reached. Let your sparring partners(拳击陪练) know how much you appreciate their contribution. The more they feel appreciated, the more they'll be willing to get into the ring next time.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What happens when you have like-minded people around you all the while?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It will help your company expand more rapidly."
+              },
+              {
+                "l": "B",
+                "t": "It will create a harmonious working atmosphere."
+              },
+              {
+                "l": "C",
+                "t": "It may prevent your business and career from advancing."
+              },
+              {
+                "l": "D",
+                "t": "It may make you feel uncertain about your own decisions."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 52,
+            "s": "What does the author suggest leaders do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Avoid arguments with business partners."
+              },
+              {
+                "l": "B",
+                "t": "Encourage people to disagree and argue."
+              },
+              {
+                "l": "C",
+                "t": "Build a wide and strong business network."
+              },
+              {
+                "l": "D",
+                "t": "Seek advice from their worthy competitors."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "What is the purpose of holding a debate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To find out the truth about an issue."
+              },
+              {
+                "l": "B",
+                "t": "To build up people's moral strength."
+              },
+              {
+                "l": "C",
+                "t": "To remove misunderstandings."
+              },
+              {
+                "l": "D",
+                "t": "To look for worthy opponents."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What advice does the author give to people engaged in a fierce debate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They listen carefully to their opponents' views."
+              },
+              {
+                "l": "B",
+                "t": "They show due respect for each other's beliefs."
+              },
+              {
+                "l": "C",
+                "t": "They present their views clearly and explicitly."
+              },
+              {
+                "l": "D",
+                "t": "They take care not to hurt each other's feelings."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "How should we treat our rivals after a successful debate?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Try to make peace with them."
+              },
+              {
+                "l": "B",
+                "t": "Try to make up the differences."
+              },
+              {
+                "l": "C",
+                "t": "Invite them to the ring next time."
+              },
+              {
+                "l": "D",
+                "t": "Acknowledge their contribution."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "中国父母往往过于关注孩子的学习，以至于不要他们帮忙做家务。他们对孩子的首要要求就是努力学习， 考得好，能上名牌大学。他们相信这是为孩子好，因为在中国这样竞争激烈的社会里，只有成绩好才能保证前 途光明。中国父母还认为， 如果孩子能在社会上取得大的成就，父母就会受到尊敬。因此，他们愿意牺牲自 己的时间、爱好和兴趣，为孩子提供更好的条件。",
+    "reference": "Chinese parents tend to pay so much attention to their children's study that they do not ask them to help with housework. Their primary requirement for their children is to study hard, do well in exams and get into a top university. They believe this is good for their children, because in such a competitive society as China, only good grades can guarantee a bright future. Chinese parents also believe that if their children can achieve great success in society, they themselves will be respected. Therefore, they are willing to sacrifice their own time, hobbies and interests to provide better conditions for their children."
+  }
+}

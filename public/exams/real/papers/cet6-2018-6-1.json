@@ -1,0 +1,1385 @@
+{
+  "id": "cet6-2018-6-1",
+  "level": "cet6",
+  "year": 2018,
+  "month": 6,
+  "set": 1,
+  "title": "2018年6月 六级 第1套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of building trust between employers and employees. You can cite examples to illustrate your views. You should write at least 150 words but no more than 200 words.",
+    "sample": "Trust is the invisible thread that holds a workplace together. In today's competitive business world, building mutual trust between employers and employees is not merely desirable but essential, for it shapes how effectively an organization performs and grows.On the one hand, trust boosts efficiency and reduces internal friction. When employers trust their staff with greater autonomy, employees feel respected and work with genuine initiative rather than fear. On the other hand, mutual trust strengthens loyalty and a sense of belonging. Take Google as an example: by granting engineers freedom to spend part of their time on personal projects, the company earned deep employee commitment, and this trust in turn gave birth to innovations such as Gmail. Clearly, when both sides believe in each other, cooperation replaces suspicion.In conclusion, trust between the two sides is the foundation of a healthy and productive workplace. Both employers and employees should therefore communicate openly and keep their promises, so that trust can take root and benefit everyone."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a typical salad."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a Spanish soup."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a weird vegetable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a kind of spicy food."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To make it thicker."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To make it more nutritious."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To add to its appeal."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To replace an ingredient."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It contains very little fat."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It uses olive oil in cooking."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It uses no artificial additives."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is mainly made of vegetables."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It does not go stale for two years."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It takes no special skill to prepare."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It comes from a special kind of pig."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a delicacy blended with bread.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: What's all that? Are you going to make a salad?",
+                "zh": "M：那都是些什么？你要做沙拉吗？"
+              },
+              {
+                "en": "W: No, I'm going to make a gazpacho.",
+                "zh": "W：不，我要做西班牙冷汤。"
+              },
+              {
+                "en": "M: What's that?",
+                "zh": "M：那是什么？"
+              },
+              {
+                "en": "W: Gazpacho is a cold soup from Spain. It's mostly vegetables. I guess you could call it a liquid salad.",
+                "zh": "W：西班牙冷汤是一种来自西班牙的冷汤，主要由蔬菜制成。我想你也可以把它叫作液体沙拉。"
+              },
+              {
+                "en": "M: Cold soup? Sounds weird.",
+                "zh": "M：冷汤？听起来真奇怪。"
+              },
+              {
+                "en": "W: It's delicious. Trust me. I tried it for the first time during my summer vacation in Spain. You see, in the south of Spain, it gets very hot in the summer, up to 40 degrees Celsius. So a cold gazpacho is very refreshing. The main ingredients are tomato, cucumber, bell peppers, olive oil and stale bread.",
+                "zh": "W：很好喝的，相信我。我第一次尝到它是在西班牙度暑假的时候。你知道，西班牙南部夏天非常炎热，最高可达40摄氏度。所以喝一碗冰凉的西班牙冷汤会让人感觉非常清爽。主要食材有西红柿、黄瓜、甜椒、橄榄油和不新鲜的面包。"
+              },
+              {
+                "en": "M: Stale bread? Surely you mean bread for dipping into the soup?",
+                "zh": "M：不新鲜的面包？你说的应该是蘸汤吃的面包吧？"
+              },
+              {
+                "en": "W: No. Bread is crushed and blended in like everything else. It adds texture and thickness to the soup.",
+                "zh": "W：不是。面包会和其他所有食材一样被碾碎并搅拌进去。它能增加汤的口感和浓稠度。"
+              },
+              {
+                "en": "M: Mm. And is it healthy?",
+                "zh": "M：嗯。那它健康吗？"
+              },
+              {
+                "en": "W: Sure. As I said earlier, it's mostly vegetables. You can also add different things if you like, such as hard-boiled egg or cured ham.",
+                "zh": "W：当然健康。正如我刚才说的，它主要是由蔬菜制成的。你也可以根据喜好加入不同的东西，比如水煮蛋或风干火腿。"
+              },
+              {
+                "en": "M: Cured ham? What's that?",
+                "zh": "M：风干火腿？那是什么？"
+              },
+              {
+                "en": "W: That's another Spanish delicacy. Have you never heard of it? It's quite famous.",
+                "zh": "W：那是另一种西班牙美食。你从来没听说过吗？它相当有名。"
+              },
+              {
+                "en": "M: No. Is it good too?",
+                "zh": "M：没有。它也很好吃吗？"
+              },
+              {
+                "en": "W: Oh, yeah, definitely. It's amazing. It's a little dry and salty, and it's very expensive because it comes from a special type of pig that only eats a special type of food. The ham is covered in salt to dry and preserve it, and left to hang for up to two years. It has a very distinct flavor.",
+                "zh": "W：哦，当然，绝对好吃。味道非常棒。它有一点干，也有点咸，而且非常贵，因为它来自一种只吃特定食物的特殊猪种。火腿上会裹满盐，以便脱水和保存，然后悬挂起来，最长可达两年。它有一种非常独特的味道。"
+              },
+              {
+                "en": "M: Mm. Sounds interesting. Where can I find some?",
+                "zh": "M：嗯。听起来很有意思。我在哪里能买到一些？"
+              },
+              {
+                "en": "W: It used to be difficult to get Spanish produce here. But it's now a lot more common. Most large supermarket chains have cured ham in little packets, but in Spain you can buy a whole leg.",
+                "zh": "W：以前在这里很难买到西班牙食品。不过现在已经常见多了。大多数大型连锁超市都有小包装的风干火腿，但在西班牙，你可以买到整条猪腿。"
+              },
+              {
+                "en": "M: A whole pig leg? Why would anybody want so much ham?",
+                "zh": "M：整条猪腿？为什么会有人想要这么多火腿？"
+              },
+              {
+                "en": "W: In Spain, many people buy a whole leg for special group events such as Christmas. They cut it themselves into very thin slices with a long flat knife.",
+                "zh": "W：在西班牙，很多人会为圣诞节之类的特殊集体活动买一整条猪腿。他们自己用一把又长又平的刀，把火腿切成非常薄的片。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They come in a great variety."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They do not make decent gifts."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They do not vary much in price."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They go well with Italian food."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "$30-$40."
+                  },
+                  {
+                    "l": "B",
+                    "t": "$40-$50."
+                  },
+                  {
+                    "l": "C",
+                    "t": "$50-$60."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Around $150."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are a healthy choice for elderly people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are especially popular among Italians."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They symbolize good health and longevity."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They go well with different kinds of food."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a wine imported from California."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is less spicy than all other red wines."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is far more expensive than he expected."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is Italy's most famous type of red wine."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hello, I wish to buy a bottle of wine.",
+                "zh": "M: 你好，我想买一瓶葡萄酒。"
+              },
+              {
+                "en": "W: Hi, yes. What kind of wine would you like?",
+                "zh": "W: 你好，可以。您想要什么类型的葡萄酒？"
+              },
+              {
+                "en": "M: I don't know. Sorry, I don't know much about wine.",
+                "zh": "M: 我不知道。不好意思，我不太了解葡萄酒。"
+              },
+              {
+                "en": "W: That's no problem at all. What's the occasion and how much would you like to spend?",
+                "zh": "W: 完全没问题。是什么场合？您想花多少钱？"
+              },
+              {
+                "en": "M: It's for my boss. It's his birthday. I know he likes wine, but I don't know what type. I also do not want anything too expensive, maybe mid-range. How much would you say is a mid-range bottle of wine approximately?",
+                "zh": "M: 是送给我老板的，今天是他的生日。我知道他喜欢葡萄酒，但不知道他喜欢什么类型的。我也不想买太贵的，可能中档的就行。您觉得一瓶中档葡萄酒大概多少钱？"
+              },
+              {
+                "en": "W: Well, it varies greatly. Our lowest prices are around $6 a bottle, but those are table wines. They are not very special. And I would not suggest them as a gift. On the other end, our most expensive bottles are over $150. If you are looking for something priced in the middle, I would say anything between $30 and $60 would make a decent gift. How does that sound?",
+                "zh": "W: 这个差别很大。我们最便宜的酒大约每瓶6美元，不过那些是佐餐酒，没什么特别的。我不建议把它们当作礼物。另一方面，我们最贵的酒每瓶超过150美元。如果您想找价格居中的，我觉得30到60美元之间的都可以作为一份不错的礼物。您觉得怎么样？"
+              },
+              {
+                "en": "M: Mm, yeah. I guess something in the vicinity of 30 or 40 would be good. Which type would you recommend?",
+                "zh": "M: 嗯，好吧。我想30或40美元左右的应该不错。您推荐哪种类型？"
+              },
+              {
+                "en": "W: I would say the safest option is always a red wine. They are generally more popular than whites, and can usually be paired with food more easily. Our specialty here is Italian wines, and these tend to be fruity with medium acidity. This one here is a Chianti, which is perhaps Italy's most famous type of red wine. Alternatively, you may wish to try and surprise your boss with something less common, such as this Zinfandel. The grapes are originally native to Croatia but this winery is in eastern Italy and it has a more spicy and peppery flavor. So to summarize, the Chianti is more classical and the Zinfandel more exciting. Both are similarly priced at just under $40.",
+                "zh": "W: 我觉得最稳妥的选择总是红葡萄酒。红葡萄酒通常比白葡萄酒更受欢迎，也通常更容易搭配食物。我们这里的特色是意大利葡萄酒，这类酒往往果香浓郁，酸度适中。这一款是基安蒂，也许是意大利最著名的红葡萄酒类型。或者，您也可以尝试用一些不太常见的酒给您的老板一个惊喜，比如这款仙粉黛。这种葡萄原产于克罗地亚，不过这家酒庄位于意大利东部，因此这款酒的味道更加辛辣，带有胡椒味。总结一下，基安蒂更经典，而仙粉黛更令人兴奋。两款酒的价格相近，都略低于40美元。"
+              },
+              {
+                "en": "M: I will go with Chianti then. Thanks.",
+                "zh": "M: 那我就选基安蒂吧。谢谢。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Learning others' secrets."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Searching for information."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Decoding secret messages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Spreading sensational news."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They helped the U.S. army in World War Ⅱ."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They could write down spoken codes promptly."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were assigned to decode enemy messages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were good at breaking enemy secret codes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Important battles fought in the Pacific War."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Decoding of secret messages in war times."
+                  },
+                  {
+                    "l": "C",
+                    "t": "A military code that was never broken."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Navajo Indians' contribution to code breaking.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Many people enjoy secret codes. The harder the code, the more some people will try to figure it out. In wartime, codes are especially important. They help the army send news about battles and the size of enemy forces. Neither side wants its code broken by the other.",
+                "zh": "许多人喜欢秘密代码。代码越复杂，就越会有人努力破解它。在战争时期，代码尤其重要。它们帮助军队传递有关战斗情况和敌军规模的消息。任何一方都不希望自己的代码被对方破解。"
+              },
+              {
+                "en": "One very important code was never broken. It was used during World War II by the Americans. It was a spoken code never written down. And it was developed and used by Navajo Indians. They were called \"the Navajo code talkers\". The Navajos created the code in their own language. Navajo is hard to learn and only a few people know it. So it was pretty certain that the enemy would not be able to understand the code talkers. In addition, the talkers used code words. They called a submarine an iron fish and a small bomb thrown by hand a potato. If they wanted to spell something, they used code words for letters of the alphabet. For instance, the letter A was ant or apple or ax.",
+                "zh": "有一种非常重要的代码始终未被破解。第二次世界大战期间，美国人使用了这种代码。这是一种只通过口头传递、从未记录下来的代码。它由纳瓦霍人开发并使用，他们被称为“纳瓦霍密码传话员”。纳瓦霍人用自己的语言创造了这种代码。纳瓦霍语很难学，只有少数人懂这种语言。因此，敌人几乎肯定无法听懂密码传话员的话。此外，传话员还使用代码词。他们把潜艇称为“铁鱼”，把用手投掷的小型炸弹称为“土豆”。如果需要拼写某个词，他们就使用代表字母表中各个字母的代码词。例如，字母 A 的代码词是蚂蚁、苹果或斧头。"
+              },
+              {
+                "en": "The code talkers worked mostly in the islands in the Pacific. One or two would be assigned to a group of soldiers. They would send messages by field telephone to the code talker in the next group. And he would relay the information to his commander. The code talkers played an important part in several battles. They helped troops coordinate their movements and attacks. After the war, the U.S. government honored them for what they had accomplished. Theirs was the most successful wartime code ever used.",
+                "zh": "密码传话员主要在太平洋的岛屿上工作。每个小组士兵中会分配一两名密码传话员。他们通过野战电话把消息传给下一个小组的密码传话员，然后由后者将信息转达给自己的指挥官。密码传话员在几场战斗中发挥了重要作用。他们帮助部队协调行动和进攻。战争结束后，美国政府因他们所取得的成就而对他们进行了表彰。他们使用的密码是战争期间使用过的最成功的密码。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "All services will be personalized."
+                  },
+                  {
+                    "l": "B",
+                    "t": "A lot of knowledge-intensive jobs will be replaced."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Technology will revolutionize all sectors of industry."
+                  },
+                  {
+                    "l": "D",
+                    "t": "More information will be available."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "In the robotics industry."
+                  },
+                  {
+                    "l": "B",
+                    "t": "In the information service."
+                  },
+                  {
+                    "l": "C",
+                    "t": "In the personal care sector."
+                  },
+                  {
+                    "l": "D",
+                    "t": "In high-end manufacturing."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They charge high prices."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They need lots of training."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They cater to the needs of young people."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They focus on customers' specific needs."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The rising demand in education and healthcare in the next 20 years."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The disruption caused by technology in traditionally well-paid jobs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The tremendous changes new technology will bring to people's lives."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The amazing amount of personal attention people would like to have."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "If you are young and thinking about your career, you'll want to know where you can make a living.",
+                "zh": "如果你还年轻，正在考虑自己的职业生涯，那么你会想知道自己在哪里能够谋生。"
+              },
+              {
+                "en": "Well, there's going to be a technological replacement of a lot of knowledge-intensive jobs in the next 20 years, particularly in the two largest sectors of the labor force with professional skills. One is teaching and the other, healthcare. You have so many applications and software and platforms that are going to come in and provide information and service in these two fields, which means a lot of healthcare and education sectors will be radically changed and a lot of jobs will be lost.",
+                "zh": "未来20年，许多知识密集型工作将被技术取代，尤其是劳动力中两个最大的专业技能领域：一个是教育，另一个是医疗保健。大量应用程序、软件和平台将进入这两个领域，提供信息和服务，这意味着医疗保健和教育行业中的许多方面都将发生根本性变化，大量工作岗位也将消失。"
+              },
+              {
+                "en": "Now, where will the new jobs be found? Well, the one sector of the economy that can't be easily duplicated by even smart technologies is the caring sector—the personal care sector. That is, you can't really get a robot to do a great massage or physical therapy, or you can't get the kind of personal attention you need with regard to therapy or any other personal service. There could be very high-end personal services. Therapists do charge a lot of money. I think there's no limit to the amount of personal attention and personal care people would like if they could afford it.",
+                "zh": "那么，新的工作岗位将在哪里出现呢？经济中有一个领域，即使是智能技术也难以轻易复制，那就是照护领域，也就是个人护理领域。换句话说，你很难让机器人完成高质量的按摩或物理治疗，也无法让机器人提供治疗或其他个人服务所需要的那种私人关注。高端个人服务可能会发展起来。治疗师的收费确实很高。我认为，只要人们负担得起，他们对私人关注和个人护理的需求是没有上限的。"
+              },
+              {
+                "en": "But the real question in the future is how come people afford these things if they don't have money, because they can't get a job that pays enough. That's why I wrote this book which is about how to reorganize the economy for the future when technology brings about destructive changes to what we used to consider high income work.",
+                "zh": "但未来真正的问题是，如果人们找不到薪酬足够高的工作、没有钱，他们怎么负担得起这些服务？这就是我写这本书的原因：当技术给我们过去认为的高收入工作带来破坏性变化时，如何为未来重新组织经济。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was the longest road in ancient Egypt."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It was constructed some 500 years ago."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It lay 8 miles from the monument sites."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It linked a stone pit to some waterways."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Saws used for cutting stone."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Traces left by early explorers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "An ancient geographical map."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Some stone tool segments."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To transport stones to block floods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To provide services for the stone pit."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To link the various monument sites."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To connect the villages along the Nile.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "American researchers have discovered the world's oldest paved road, a 4,600-year-old highway. It linked a stone pit in the Egyptian desert to waterways that carried blocks to monument sites along the Nile. The 8-mile road is at least 500 years older than any previously discovered road. It is the only paved road discovered in ancient Egypt, said geologist Thomas Bown of the United States Geological Survey. He reported the discovery on Friday. \"The road probably doesn't rank with the pyramids as a construction feat, but it is a major engineering achievement,\" said his colleague, geologist James Harrell of the University of Toledo. \"Not only is the road earlier than we thought possible, we didn't even think they built roads.\" The researchers also made a discovery in the stone pit at the northern end of the road: the first evidence that the Egyptians used rock saws. \"This is the oldest example of saws being used for cutting stone,\" said Bown's colleague James Hoffmeier of Wheaton College in Illinois.",
+                "zh": "美国研究人员发现了世界上最古老的铺砌道路，这是一条有4600年历史的公路。它连接着埃及沙漠中的一处采石场和水道，水道将石块运往尼罗河沿岸的纪念性建筑遗址。这条长约8英里的道路至少比此前发现的任何道路早500年。美国地质调查局地质学家托马斯·鲍恩说，这是在古埃及发现的唯一一条铺砌道路。他于周五报告了这一发现。“这条道路的建造成就或许无法与金字塔相提并论，但它是一项重大的工程成就，”他的同事、托莱多大学地质学家詹姆斯·哈勒尔说。“这条道路不仅比我们原先认为可能的年代还要早，我们甚至从未认为他们修建过道路。”研究人员还在道路北端的采石场中有了另一项发现：埃及人使用石锯的首个证据。“这是目前发现的使用锯切割石材的最早实例，”鲍恩的同事、伊利诺伊州惠顿学院的詹姆斯·霍夫迈尔说。"
+              },
+              {
+                "en": "\"That's two technologies we didn't know they had,\" Harrell said. \"And we don't know why they were both abandoned.\" The road was discovered in the Faiyum Depression, about 45 miles southwest of Cairo. Short segments of the road had been observed by earlier explorers, Bown said, but they failed to realize its significance or follow up on their observations. Bown and his colleagues stumbled across it while they were doing geological mapping in the region. The road was clearly built to provide services for the newly discovered stone pit. Bown and Harrell have found the camp that housed workers at the stone pit. The road appears today to go nowhere, ending in the middle of the desert. When it was built, its terminal was a dock on the shore of Lake Moeris, which had an elevation of about 66 feet above sea level, the same as the dock. Lake Moeris received its water from the annual floods of the Nile. At the time of the floods, the river and lake were at the same level and connected through a gap in the hills near the modern villages of el-Lahun and Hawara. Harrell and Bown believe that blocks were loaded onto barges during the dry season, then floated over to the Nile during the floods to be shipped off to the monument sites at Giza and Saqqara.",
+                "zh": "“这是我们此前不知道他们掌握的两项技术，”哈勒尔说。“而且我们不知道为什么这两项技术后来都被弃用了。”这条道路是在法尤姆洼地发现的，位于开罗西南约45英里处。鲍恩说，早期的探险者曾看到过这条道路的几小段，但他们没有意识到其重要性，也没有继续调查。鲍恩和他的同事在该地区进行地质测绘时偶然发现了它。这条道路显然是为新发现的采石场提供服务而修建的。鲍恩和哈勒尔已经找到了容纳采石场工人的营地。如今，这条道路看上去通向一个虚无之处，终止在沙漠中央。它建成时，道路的终点是莫里斯湖岸边的一座码头；湖面海拔约66英尺，码头也处于同一高度。莫里斯湖的水来自尼罗河每年的洪水。洪水期间，河流和湖泊处于同一水位，并通过现代埃尔拉洪村和哈瓦拉村附近山丘间的一道缺口相连。哈勒尔和鲍恩认为，石块会在旱季装上驳船，随后在洪水期间漂运到尼罗河，再运往吉萨和萨卡拉的纪念性建筑遗址。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Dr. Gong didn't give him any conventional tests."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Dr. Gong marked his office with a hand-painted sign."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Dr. Gong didn't ask him any questions about his pain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Dr. Gong slipped in needles where he felt no pain."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He had heard of the wonders acupuncture could work."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Dr. Gong was very famous in New York's Chinatown."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Previous medical treatments failed to relieve his pain."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He found the expensive medical tests unaffordable."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More and more patients ask for the treatment."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Acupuncture techniques have been perfected."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It doesn't need the conventional medical tests."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It does not have any negative side effects.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The thin, extremely sharp needles didn't hurt at all going in. Dr. Gong pierced them into my left arm, around the elbow that had been bothering me. Other needles were slipped into my left wrist and, strangely, into my right arm, and then into both my closed eyelids.",
+                "zh": "那些纤细而极其锋利的针刺入时一点也不疼。龚医生将它们刺入我的左臂，位置在一直困扰我的肘部周围。还有一些针被刺入我的左手腕，奇怪的是，还刺入了我的右臂，随后又刺入我紧闭的双眼皮。"
+              },
+              {
+                "en": "There wasn't any discomfort, just a mild warming sensation. However, I did begin to wonder what had driven me here, to the office of Dr. James Gong in New York's Chinatown. Then I remembered—the torturing pain in that left elbow. Several trips to a hospital and two expensive, uncomfortable medical tests had failed to produce even a diagnosis. \"Maybe you lean on your left arm too much,\" the doctor concluded, suggesting I see a bone doctor. During the hours spent waiting in vain to see a bone doctor, I decided to take another track and try acupuncture. A Chinese-American friend recommended Dr. Gong. I took the subway to Gong's second-floor office, marked with a hand-painted sign.",
+                "zh": "没有任何不适，只有轻微的温热感。然而，我开始思考究竟是什么促使我来到纽约唐人街的James Gong医生诊所。然后我想起来了——左肘那折磨人的疼痛。我去过几次医院，做过两项昂贵而令人不适的医学检查，却始终连诊断结果都没有得到。“也许你太经常倚靠左臂了，”医生下结论说，并建议我去看骨科医生。在等待骨科医生、却迟迟见不到他的几个小时里，我决定换一条路，试试针灸。一位华裔美国朋友向我推荐了龚医生。我乘地铁来到龚医生的诊所。诊所在二楼，门口挂着一块手绘招牌。"
+              },
+              {
+                "en": "Dr. Gong speaks English, but not often. Most of my questions to him were greeted with a friendly laugh, but I managed to let him know where my arm hurt. He asked me to go into a room, had me lie down on a bed, and went to work. In the next room, I learned, a woman dancer was also getting a treatment. As I lay there a while, I drifted into a dream-like state and fantasized about what she looked like.",
+                "zh": "龚医生会说英语，但并不常说。我问他的大多数问题都只得到他友善的笑声回应，不过我还是设法让他知道我的手臂哪里疼。他让我走进一个房间，叫我躺到床上，然后开始施治。我得知，隔壁房间里还有一位女舞蹈演员也在接受治疗。我在那里躺了一会儿，渐渐进入梦幻般的状态，并幻想着她长什么样。"
+              },
+              {
+                "en": "Acupuncturists today are as likely to be found on Park Avenue as on Mott Street. In all, there are an estimated 10,000 acupuncturists in the country. Nowadays, a lot of medical doctors have learned acupuncture techniques; so have a number of dentists. Reason? Patient demand. Few, though, can adequately explain how acupuncture works. Acupuncturists may say that the body has more than 800 acupuncture points. A life force called qi circulates through the body. Points on the skin are energetically connected to specific organs, body structures and systems. Acupuncture points are stimulated to balance the circulation of qi. \"The truth is, though acupuncture is at least 2,200 years old, nobody really knows what's happening,\" says Paul Zmiewski, a Ph.D. in Chinese studies who practices acupuncture in Philadelphia.",
+                "zh": "如今，在公园大道上和莫特街上一样，都有可能找到针灸师。据估计，全国共有一万名针灸师。如今，许多西医医生已经学会了针灸技术；一些牙医也学会了。原因是什么？患者的需求。不过，很少有人能够充分解释针灸是如何起作用的。针灸师可能会说，人体有八百多个针灸穴位。一种称为“气”的生命力在体内循环。皮肤上的穴位在能量上与特定的器官、身体结构和系统相连。通过刺激穴位，可以平衡气的流动。 “然而，事实是，尽管针灸至少已有2200年的历史，但没有人真正知道究竟发生了什么，”在费城行医的中国研究博士Paul Zmiewski说。"
+              },
+              {
+                "en": "After five treatments, there has been dramatic improvement in my arm, and the pain is a fraction of what it was. The mainly silent Dr. Gong finally even offered a diagnosis for what troubled me. \"Pinched nerve,\" he said.",
+                "zh": "经过五次治疗，我的手臂有了显著好转，疼痛只剩下原来的很小一部分。一直沉默寡言的龚医生最终甚至为困扰我的病痛作出了诊断。“神经受压，”他说。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were on the verge of breaking up."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They were compatible despite differences."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They quarreled a lot and never resolved their arguments."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They argued persistently about whether to have children."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Neither of them has any brothers or sisters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Neither of them won their parents' favor."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They weren't spoiled in their childhood."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They didn't like to be the apple of their parents' eyes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are usually good at making friends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to be adventurous and creative."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are often content with what they have."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They tend to be self-assured and responsible."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They enjoy making friends."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to be well adjusted."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are least likely to take initiative."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They usually have successful marriages."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Ronald and Lois, married for two decades, consider themselves a happy couple. But in the early years of their marriage, both were disturbed by persistent arguments that seem to fade away without ever being truly resolved. They uncovered clues to what was going wrong by researching a fascinating subject: how birth order affects not only your personality, but also how compatible you are with your mate!",
+                "zh": "罗纳德和洛伊丝结婚已有二十年，他们认为自己是一对幸福的夫妻。然而，在婚姻初期，双方都曾因持续不断的争吵而感到困扰，而这些争吵似乎总是在没有真正得到解决的情况下逐渐平息。他们通过研究一个引人入胜的课题，发现了问题所在的一些线索：出生顺序不仅会影响一个人的性格，还会影响他与配偶的契合程度！"
+              },
+              {
+                "en": "Ronald and Lois are only children, and \"onlies\" grow up accustomed to being the apple of their parents' eyes. Match two \"onlies\" and you have partners who subconsciously expect each other to continue fulfilling this expectation, while neither has much experience in the \"giving\" end.",
+                "zh": "罗纳德和洛伊丝都是独生子女，而独生子女从小就习惯成为父母的掌上明珠。两个独生子女结合在一起后，双方都会在潜意识中期望对方继续满足这一期待，但两人在“付出”方面都没有多少经验。"
+              },
+              {
+                "en": "Here's a list of common birth-order characteristics—and some thoughts on the best and worst marital matches for each.",
+                "zh": "下面列出了一些常见的出生顺序特征，以及关于每种类型最适合和最不适合的婚姻组合的一些看法。"
+              },
+              {
+                "en": "The oldest tends to be self-assured, responsible, a high achiever and relatively serious and reserved. He may be slow to make friends, perhaps content with only one companion. The best matches are with a youngest, an \"only,\" or a mate raised in a large family. The worst match is with another oldest child, since the two will be too sovereign to share a household comfortably.",
+                "zh": "长子通常自信、负责、成就突出，而且相对严肃、内向。他可能交友较慢，也许满足于只有一个伴侣。最适合他的对象是最小的孩子、独生子女，或是在大家庭中长大的人。最不适合的对象是另一个长子，因为两人都会过于独断，难以舒适地共同生活。"
+              },
+              {
+                "en": "The youngest child of the family thrives on attention and tends to be outgoing, adventurous, optimistic, creative and less ambitious than others in the family. He may lack self-discipline and have difficulty making decisions on his own. A youngest brother of brothers, often unpredictable and romantic, will match best with an oldest sister of brothers. The youngest sister of brothers is best matched with an oldest brother of sisters, who will happily indulge these traits.",
+                "zh": "家中最小的孩子在关注中茁壮成长，往往外向、喜欢冒险、乐观、有创造力，而且不像家中其他人那样有抱负。他可能缺乏自律，也难以独自做出决定。兄弟中的幼弟通常难以预测且富有浪漫情怀，与兄弟中的长姐最为般配。兄弟中的幼妹最适合与姐妹中的长兄结合，而后者会乐于迁就她的这些特点。"
+              },
+              {
+                "en": "The middle child is influenced by many variables; however, middles are less likely to take initiative and more anxious and self-critical than others. Middles often successfully marry other middles, since both are strong on tact, not so strong on aggressiveness and tend to crave affection.",
+                "zh": "中间出生的孩子会受到许多因素的影响；不过，中间出生的孩子较少主动采取行动，而且比其他人更加焦虑、自我苛责。中间出生的孩子常常能与另一个中间出生的孩子成功结婚，因为双方都很讲究 tact，却不太好强，并且往往渴望得到关爱。"
+              },
+              {
+                "en": "The only child is often most comfortable when alone. But since an \"only,\" tends to be a well-adjusted individual, she'll eventually learn to relate to any chosen spouse. The male only child expects his wife to make life easier without getting much in return. He is sometimes best matched with a younger sister of brothers. The female only child, who tends to be slightly more flexible, is well matched with an older man, who will indulge her tendency to test his love. Her worst match? Another \"only,\" of course.",
+                "zh": "独生子女通常在独处时最为自在。不过，由于独生子女往往是适应良好的人，她最终会学会与自己选择的任何配偶相处。男性独生子女希望妻子让生活变得轻松，却不愿给予太多回报。他有时与兄弟中的妹妹最为般配。女性独生子女往往更加灵活，适合与年长的男性结合，而后者会迁就她考验自己对他的爱这一倾向。她最不适合的对象呢？当然是另一个独生子女。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Scientists scanning and mapping the Giza pyramids say they've discovered that the Great Pyramid of Giza is not exactly even. But really not by much. This pyramid is the oldest of the world's Seven Wonders. The pyramid's exact size has"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "experts for centuries, as the \"more than 21 acres of hard, white casing stones\" that originally covered it were"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "long ago. Reporting in the most recent issue of the newsletter \"AERAGRAM,\" which"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "the work of the Ancient Egypt Research Associates, engineer Glen Dash says his team used a new measuring approach that involved finding any surviving"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "of the casing in order to determine where the original edge was. They found the east side of the pyramid to be a"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "of 5.5 inches shorter than the west side. The question that most"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "him, however, isn't how the Egyptians who designed and built the pyramid got it wrong 4,500 years ago, but how they got it so close to"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": ". \"We can only speculate as to how the Egyptians could have laid out these lines with such"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "using only the tools they had,\" Dash writes. He says his"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "is that the Egyptians laid out their design on a grid, noting that the Great Pyramid is oriented only"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "away from the cardinal directions (its north-south axis runs 3 minutes 54 seconds west of due north, while its east-west axis runs 3 minutes 51 seconds north of due east)—an amount that's \"tiny, but similar,\" archeologist Atlas Obscura points out."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "chronicles"
+        },
+        {
+          "l": "B",
+          "w": "complete"
+        },
+        {
+          "l": "C",
+          "w": "established"
+        },
+        {
+          "l": "D",
+          "w": "fascinates"
+        },
+        {
+          "l": "E",
+          "w": "hypothesis"
+        },
+        {
+          "l": "F",
+          "w": "maximum"
+        },
+        {
+          "l": "G",
+          "w": "momentum"
+        },
+        {
+          "l": "H",
+          "w": "mysteriously"
+        },
+        {
+          "l": "I",
+          "w": "perfect"
+        },
+        {
+          "l": "J",
+          "w": "precision"
+        },
+        {
+          "l": "K",
+          "w": "puzzled"
+        },
+        {
+          "l": "L",
+          "w": "remnants"
+        },
+        {
+          "l": "M",
+          "w": "removed"
+        },
+        {
+          "l": "N",
+          "w": "revelations"
+        },
+        {
+          "l": "O",
+          "w": "slightly"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "K"
+        },
+        {
+          "n": 27,
+          "a": "M"
+        },
+        {
+          "n": 28,
+          "a": "A"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "F"
+        },
+        {
+          "n": 31,
+          "a": "D"
+        },
+        {
+          "n": 32,
+          "a": "I"
+        },
+        {
+          "n": 33,
+          "a": "J"
+        },
+        {
+          "n": 34,
+          "a": "E"
+        },
+        {
+          "n": 35,
+          "a": "O"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Peer Pressure Has a Positive Side",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Parents of teenagers often view their children's friends with something like suspicion. They worry that the adolescent peer group has the power to push its members into behavior that is foolish and even dangerous. Such wariness is well founded: statistics show, for example, that a teenage driver with a same-age passenger in the car is at higher risk of a fatal crash than an adolescent driving alone or with an adult."
+        },
+        {
+          "l": "B",
+          "t": "In a 2005 study, psychologist Laurence Steinberg of Temple University and his co-author, psychologist Margo Gardner, then at Temple, divided 306 people into three age groups: young adolescents, with a mean age of 14; older adolescents, with a mean age of 19; and adults, aged 24 and older. Subjects played a computerized driving game in which the player must avoid crashing into a wall that materializes, without warning, on the roadway. Steinberg and Gardner randomly assigned some participants to play alone or with two same-age peers looking on."
+        },
+        {
+          "l": "C",
+          "t": "Older adolescents scored about 50 percent higher on an index of risky driving when their peers were in the room—and the driving of early adolescents was fully twice as reckless when other young teens were around. In contrast, adults behaved in similar ways regardless of whether they were on their own or observed by others. \"The presence of peers makes adolescents and youth, but not adults, more likely to take risks,\" Steinberg and Gardner concluded."
+        },
+        {
+          "l": "D",
+          "t": "Yet in the years following the publication of this study, Steinberg began to believe that this interpretation did not capture the whole picture. As he and other researchers examined the question of why teens were more apt to take risks in the company of other teenagers, they came to suspect that a crowd's influence need not always be negative. Now some experts are proposing that we should take advantage of the teen brain's keen sensitivity to the presence of friends and leverage it to improve education."
+        },
+        {
+          "l": "E",
+          "t": "In a 2011 study, Steinberg and his colleagues turned to functional MRI( 磁共振) to investigate how the presence of peers affects the activity in the adolescent brain. They scanned the brains of 40 teens and adults who were playing a virtual driving game designed to test whether players would brake at a yellow light or speed on through the crossroad."
+        },
+        {
+          "l": "F",
+          "t": "The brains of teenagers, but not adults, showed greater activity in two regions associated with rewards when they were being observed by same-age peers than when alone. In other words, rewards are more intense for teens when they are with peers, which motivates them to pursue higher-risk experiences that might bring a big payoff (such as the thrill of just making the light before it turns red). But Steinberg suspected this tendency could also have its advantages. In his latest experiment, published online in August, Steinberg and his colleagues used a computerized version of a card game called the Iowa Gambling Task to investigate how the presence of peers affects the way young people gather and apply information."
+        },
+        {
+          "l": "G",
+          "t": "The results: Teens who played the Iowa Gambling Task under the eyes of fellow adolescents engaged in more exploratory behavior, learned faster from both positive and negative outcomes, and achieved better performance on the task than those who played in solitude. \"What our study suggests is that teenagers learn more quickly and more effectively when their peers are present than when they're on their own,\" Steinberg says. And this finding could have important implications for how we think about educating adolescents."
+        },
+        {
+          "l": "H",
+          "t": "Matthew D. Lieberman, a social cognitive neuroscientist at the University of California, Los Angeles, and author of the 2013 book Social: Why Our Brains Are Wired to Connect, suspects that the human brain is especially skillful at learning socially significant information. He points to a classic 2004 study in which psychologists at Dartmouth College and Harvard University used functional MRI to track brain activity in 17 young men as they listened to descriptions of people while concentrating on either socially relevant cues (for example, trying to form an impression of a person based on the description) or more socially neutral information (such as noting the order of details in the description). The descriptions were the same in each condition, but people could better remember these statements when given a social motivation."
+        },
+        {
+          "l": "I",
+          "t": "The study also found that when subjects thought about and later recalled descriptions in terms of their informational content, regions associated with factual memory, such as the medial temporal lobe, became active. But thinking about or remembering descriptions in terms of their social meaning activated the dorsomedial prefrontal cortex—part of the brain's social network—even as traditional memory regions registered low levels of activity. More recently, as he reported in a 2012 review, Lieberman has discovered that this region may be part of a distinct network involved in socially motivated learning and memory. Such findings, he says, suggest that \"this network can be called on to process and store the kind of information taught in school—potentially giving students access to a range of untapped mental powers.\""
+        },
+        {
+          "l": "J",
+          "t": "If humans are generally geared to recall details about one another, this pattern is probably even more powerful among teenagers who are very attentive to social details: who is in, who is out, who likes whom, who is mad at whom. Their desire for social drama is not—or not only—a way of distracting themselves from their schoolwork or of driving adults crazy. It is actually a neurological(神经的) sensitivity, initiated by hormonal changes. Evolutionarily speaking, people in this age group are at a stage in which they can prepare to find a mate and start their own family while separating from parents and striking out on their own. To do this successfully, their brain prompts them to think and even obsess about others."
+        },
+        {
+          "l": "K",
+          "t": "Yet our schools focus primarily on students as individual entities. What would happen if educators instead took advantage of the fact that teens are powerfully compelled to think in social terms? In Social, Lieberman lays out a number of ways to do so. History and English could be presented through the lens of the psychological drives of the people involved. One could therefore present Napoleon in terms of his desire to impress or Churchill in terms of his lonely gloom. Less inherently interpersonal subjects, such as math, could acquire a social aspect through team problem solving and peer tutoring. Research shows that when we absorb information in order to teach it to someone else, we learn it more accurately and deeply, perhaps in part because we are engaging our social cognition."
+        },
+        {
+          "l": "L",
+          "t": "And although anxious parents may not welcome the notion, educators could turn adolescent recklessness to academic ends. \"Risk taking in an educational context is a vital skill that enables progress and creativity,\" wrote Sarah-Jayne Blakemore, a cognitive neuroscientist at University College London, in a review published last year. Yet, she noted, many young people are especially unwilling to take risks at school—afraid that one low test score or poor grade could cost them a spot at a selective university. We should assure such students that risk, and even peer pressure, can be a good thing—as long as it happens in the classroom and not in the car."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It is thought probable that the human brain is particularly good at picking up socially important information.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "It can be concluded from experiments that the presence of peers increases risk-taking by adolescents and youth.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "Students should be told that risk-taking in the classroom can be something positive.",
+          "a": "L"
+        },
+        {
+          "n": 39,
+          "s": "The urge of finding a mate and getting married accounts for adolescents' greater attention to social interactions.",
+          "a": "J"
+        },
+        {
+          "n": 40,
+          "s": "According to Steinberg, the presence of peers increases the speed and effectiveness of teenagers' learning.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "Teenagers' parents are often concerned about negative peer influence.",
+          "a": "A"
+        },
+        {
+          "n": 42,
+          "s": "Activating the brain's social network involved in socially motivated learning and memory may allow students to tap unused mental powers.",
+          "a": "I"
+        },
+        {
+          "n": 43,
+          "s": "The presence of peers intensifies the feeling of rewards in teens' brains.",
+          "a": "F"
+        },
+        {
+          "n": 44,
+          "s": "When we absorb information for the purpose of imparting it to others, we do so with greater accuracy and depth.",
+          "a": "K"
+        },
+        {
+          "n": 45,
+          "s": "Some experts are suggesting that we turn peer influence to good use in education.",
+          "a": "D"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil War, is now the setting for a different contest, one that is pitting rice farmers against two enemies: the rice-eating giant apple snail, and rising sea levels. What happens here will have a bearing on the future of European rice production and the overall health of southern European wetlands. Located on the Mediterranean just two hours south of Barcelona, the Ebro Delta produces 120 million kilograms of rice a year, making it one of the continent's most important rice-growing areas. As the sea creeps into these fresh-water marshes, however, rising salinity(盐分) is hampering rice production. At the same time, this sea-water also kills off the greedy giant apple snail, an introduced pest that feeds on young rice plants. The most promising strategy has become to harness one foe against the other. The battle is currently being waged on land, in greenhouses at the University of Barcelona. Scientists working under the banner \"Project Neurice\" are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes. \"The project has two sides,\" says Xavier Serrat, Neurice project manager and researcher at the University of Barcelona, \"the short-term fight against the snail—and a mid- to long-term fight against climate change. But the snail has given the project greater urgency.\" Originally from South America, the snails were accidentally introduced into the Ebro Delta by Global Aquatic Technologies, a company that raised the snails for fresh-water aquariums(水族馆), but failed to prevent their escape. For now, the giant apple snail's presence in Europe is limited to the Ebro Delta. But the snail continues its march to new territory, says Serrat. \"The question is not whether it will reach other rice-growing areas of Europe, but when.\" Over the next year and a half investigators will test the various strains of salt-tolerant rice they've bred. In 2018, farmers will plant the varieties with the most promise in the Ebro Delta and Europe's other two main rice- growing regions—along the Po in Italy, and France's Rhone. A season in the field will help determine which, if any, of the varieties are ready for commercialization. As an EU-funded effort, the search for salt-tolerant varieties of rice is taking place in all three countries. Each team is crossbreeding a local European short-grain rice with a long-grain Asian variety that carries the salt- resistant gene. The scientists are breeding successive generations to arrive at varieties that incorporate salt tolerance but retain about 97 percent of the European rice genome(基因组).",
+        "questions": [
+          {
+            "n": 46,
+            "s": "Why does the author mention the Spanish Civil War at the beginning of the passage?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It had great impact on the life of Spanish rice farmers."
+              },
+              {
+                "l": "B",
+                "t": "It is of great significance in the records of Spanish history."
+              },
+              {
+                "l": "C",
+                "t": "Rice farmers in the Ebro Delta are waging a battle of similar importance."
+              },
+              {
+                "l": "D",
+                "t": "Rice farmers in the Ebro Delta are experiencing as hard a time as in the war."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What may be the most effective strategy for rice farmers to employ in fighting their enemies?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Striking the weaker enemy first."
+              },
+              {
+                "l": "B",
+                "t": "Killing two birds with one stone."
+              },
+              {
+                "l": "C",
+                "t": "Eliminating the enemy one by one."
+              },
+              {
+                "l": "D",
+                "t": "Using one evil to combat the other."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 48,
+            "s": "What do we learn about \"Project Neurice\"?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Its goals will have to be realized at a cost."
+              },
+              {
+                "l": "B",
+                "t": "It aims to increase the yield of Spanish rice."
+              },
+              {
+                "l": "C",
+                "t": "Its immediate priority is to bring the pest under control."
+              },
+              {
+                "l": "D",
+                "t": "It tries to kill the snails with the help of climate change."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What does Neurice project manager say about the giant apple snail?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It can survive only on southern European wetlands."
+              },
+              {
+                "l": "B",
+                "t": "It will invade other rice-growing regions of Europe."
+              },
+              {
+                "l": "C",
+                "t": "It multiplies at a speed beyond human imagination."
+              },
+              {
+                "l": "D",
+                "t": "It was introduced into the rice fields on purpose."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What is the ultimate goal of the EU-funded program?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Cultivating ideal salt-resistant rice varieties."
+              },
+              {
+                "l": "B",
+                "t": "Increasing the absorbency of the Spanish rice."
+              },
+              {
+                "l": "C",
+                "t": "Introducing Spanish rice to the rest of Europe."
+              },
+              {
+                "l": "D",
+                "t": "Popularizing the rice crossbreeding technology."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Photography was once an expensive, laborious ordeal reserved for life's greatest milestones. Now, the only apparent cost to taking infinite photos of something as common as a meal is the space on your hard drive and your dining companion's patience. But is there another cost, a deeper cost, to documenting a life experience instead of simply enjoying it? \"You hear that you shouldn't take all these photos and interrupt the experience, and it's bad for you, and we're not living in the present moment,\" says Kristin Diehl, associate professor of marketing at the University of Southern California Marshall School of Business. Diehl and her fellow researchers wanted to find out if that was true, so they embarked on a series of nine experiments in the lab and in the field testing people's enjoyment in the presence or absence of a camera. The results, published in the Journal of Personality and Social Psychology, surprised them. Taking photos actually makes people enjoy what they're doing more, not less. \"What we find is you actually look at the world slightly differently, because you're looking for things you want to capture, that you may want to hang onto,\" Diehl explains. \"That gets people more engaged in the experience, and they tend to enjoy it more.\" Take sightseeing. In one experiment, nearly 200 participants boarded a double-decker bus for a tour of Philadelphia. Both bus tours forbade the use of cell phones but one tour provided digital cameras and encouraged people to take photos. The people who took photos enjoyed the experience significantly more, and said they were more engaged, than those who didn't. Snapping a photo directs attention, which heightens the pleasure you get from whatever you're looking at, Diehl says. It works for things as boring as archaeological(考古的) museums, where people were given eye- tracking glasses and instructed either to take photos or not. \"People look longer at things they want to photograph,\" Diehl says. They report liking the exhibits more, too. To the relief of Instagrammers(Instagram用户) everywhere, it can even make meals more enjoyable. When people were encouraged to take at least three photos while they ate lunch, they were more immersed in their meals than those who weren't told to take photos. Was it the satisfying click of the camera? The physical act of the snap? No, they found; just the act of planning to take a photo—and not actually taking it—had the same joy-boosting effect. \"If you want to take mental photos, that works the same way,\" Diehl says. \"Thinking about what you would want to photograph also gets you more engaged.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author say about photo-taking in the past?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It was a painstaking effort for recording life's major events."
+              },
+              {
+                "l": "B",
+                "t": "It was a luxury that only a few wealthy people could enjoy."
+              },
+              {
+                "l": "C",
+                "t": "It was a good way to preserve one's precious images."
+              },
+              {
+                "l": "D",
+                "t": "It was a skill that required lots of practice to master."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "Kristin Diehl conducted a series of experiments on photo-taking to find out _______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "what kind of pleasure it would actually bring to photo-takers"
+              },
+              {
+                "l": "B",
+                "t": "whether people enjoyed it when they did sightseeing"
+              },
+              {
+                "l": "C",
+                "t": "how it could help to enrich people's life experiences"
+              },
+              {
+                "l": "D",
+                "t": "whether it prevented people enjoying what they were doing"
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What do the results of Diehl's experiments show about people taking pictures?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are distracted from what they are doing."
+              },
+              {
+                "l": "B",
+                "t": "They can better remember what they see or do."
+              },
+              {
+                "l": "C",
+                "t": "They are more absorbed in what catches their eye."
+              },
+              {
+                "l": "D",
+                "t": "They can have a better understanding of the world."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What is found about museum visitors with the aid of eye-tracking glasses?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They come out with better photographs of the exhibits."
+              },
+              {
+                "l": "B",
+                "t": "They focus more on the exhibits when taking pictures."
+              },
+              {
+                "l": "C",
+                "t": "They have a better view of what are on display."
+              },
+              {
+                "l": "D",
+                "t": "They follow the historical events more easily."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "They follow the historical events more easily.",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is better to make plans before taking photos."
+              },
+              {
+                "l": "B",
+                "t": "Mental photos can be as beautiful as snapshots."
+              },
+              {
+                "l": "C",
+                "t": "Photographers can derive great joy from the click of the camera."
+              },
+              {
+                "l": "D",
+                "t": "Even the very thought of taking a photo can have a positive effect."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "过去，拥有一辆私家车对大部分中国人而言是件奢侈的事。如今，私家车在中国随处可见。汽车成了人们 生活中不可或缺的一部分，他们不仅开车上下班，还经常驾车出游。有些城市的汽车增长速度过快，以至于交 通拥堵和停车位不足的问题日益严峻，这些城市的市政府不得不出台新规，限制上路汽车的数量。由于空气污 染日益严重，现在越来越多的人选择购买新能源汽车，中国政府也采取了一些措施，支持新能源汽车的发展。",
+    "reference": "In the past, it was a luxury for most Chinese people to own a private car. Nowadays, private cars can be seen everywhere in China. Cars have become an indispensable part of people's daily life; they not only drive to and from work but also often drive out for trips. In some cities, the number of cars grows so fast that traffic congestion and a shortage of parking spaces have become increasingly serious, so the municipal governments have to introduce new rules to limit the number of cars on the road. Due to the worsening air pollution, more and more people now choose to buy new energy vehicles, and the Chinese government has also taken some measures to support the development of new energy vehicles."
+  }
+}

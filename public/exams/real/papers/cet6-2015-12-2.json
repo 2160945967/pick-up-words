@@ -1,0 +1,1389 @@
+{
+  "id": "cet6-2015-12-2",
+  "level": "cet6",
+  "year": 2015,
+  "month": 12,
+  "set": 2,
+  "title": "2015年12月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay based on the picture below. You should focus on the impact of social networking websites on reading. You are required to write at least 150 words but no more than 200 words.",
+    "sample": "As is vividly depicted in the picture, a man is talking proudly to a woman, his eyes wide open, claiming that he reads about three hours every day and that his favorite book is Facebook. Simple as it is, the drawing conveys a thought-provoking message: for many people today, so-called reading has quietly been replaced by scrolling through social networking websites.The implication behind this cartoon deserves our serious attention. On one hand, social platforms do bring us fragmented information, giving us the illusion that we are reading a great deal. On the other hand, such fragmented reading rarely leaves anything solid in our minds. Constant notifications keep shortening our attention span, so that few of us can sit down and finish a whole book. In this sense, what the man calls reading is far from genuine, in-depth reading.In my view, social networking websites are a double-edged sword rather than a substitute for books. We should make use of them to gather information, yet consciously reserve time for serious reading that truly nourishes the mind. Only by striking such a balance can we enjoy the convenience of the digital age without losing the depth that classic books offer."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He cooks dinner for the family occasionally."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He dines out from time to time with friends."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He shares some of the household duties."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He often goes back home late for dinner."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To take him to dinner."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To discuss an urgent problem."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To talk about a budget plan."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To pass on an important message."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Foreign investors are losing confidence in India's economy."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Many multinational enterprises are withdrawing from India."
+                  },
+                  {
+                    "l": "C",
+                    "t": "There is a sharp increase in India's balance of payment deficit."
+                  },
+                  {
+                    "l": "D",
+                    "t": "There are wild fluctuations in the international money market."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "JL Motors is a company with the business of bicycle sales."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The Indian rupee has been steady on the foreign exchange market."
+                  },
+                  {
+                    "l": "C",
+                    "t": "JL Motors is an Indian company with a promising prospect."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The man doesn't agree to the woman's proposal.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: Hello, Jane.",
+                "zh": "M：你好，简。"
+              },
+              {
+                "en": "W: Hello, Paul.",
+                "zh": "W：你好，保罗。"
+              },
+              {
+                "en": "M: Please come in. I'm just getting ready to go home. Susan is expecting me for dinner. I want it to be on time for a change.",
+                "zh": "M：请进。我正准备回家。苏珊正等着我吃晚饭呢。我这次可想准时到。"
+              },
+              {
+                "en": "W: Look, I'm terribly sorry to drop in at this time on Friday, Paul. But it is rather important.",
+                "zh": "W：听着，保罗，我很抱歉周五这个时候来打扰你。不过这件事相当重要。"
+              },
+              {
+                "en": "M: That's OK. What's the problem?",
+                "zh": "M：没关系。出什么问题了？"
+              },
+              {
+                "en": "W: Well, Paul, I won't keep you long. You see there is a problem with the exchange rates. The Indian rupee has taken a fall on the foreign exchange market. You see there has been a sharp increase in India's balance of payment deficit.",
+                "zh": "W：保罗，我不会耽误你太久。是这样的，汇率出了问题。印度卢比在外汇市场上已经下跌了。你看，印度的国际收支赤字大幅增加了。"
+              },
+              {
+                "en": "M: I see. That's serious, isn't it?",
+                "zh": "M：我明白了。这很严重，对吧？"
+              },
+              {
+                "en": "W: Well, as you know, there have been reports of unrest in India, and the prospects for the rupee look pretty gloomy.",
+                "zh": "W：嗯，你也知道，印度有发生动乱的报道，卢比的前景看起来相当不妙。"
+              },
+              {
+                "en": "M: And that's going to affect us, as if we didn't have enough problems on our hands.",
+                "zh": "M：而且这还会影响到我们，好像我们手头的问题还不够多似的。"
+              },
+              {
+                "en": "W: So I thought it would be wise to take out forward exchange cover to protect our position on the outstanding contracts.",
+                "zh": "W：所以我想，采取远期外汇保值来保护我们未完成合同中的利益，应该是明智之举。"
+              },
+              {
+                "en": "M: Just a minute. Forward exchange cover now what does that mean exactly?",
+                "zh": "M：等一下。远期外汇保值，具体是什么意思？"
+              },
+              {
+                "en": "W: Well, it means that JL Motors enters into a commitment to sell Indian rupees at the present rate.",
+                "zh": "W：意思是，JL Motors承诺按现行汇率卖出印度卢比。"
+              },
+              {
+                "en": "M: I see. And how would that benefit us?",
+                "zh": "M：我明白了。那这对我们有什么好处？"
+              },
+              {
+                "en": "W: Well, JL Motors won't lose out if the Indian rupee falls further.",
+                "zh": "W：这样一来，如果印度卢比进一步下跌，JL Motors就不会遭受损失。"
+              },
+              {
+                "en": "M: What will it cost, Jane?",
+                "zh": "M：这要花多少钱，简？"
+              },
+              {
+                "en": "W: A small percentage, about 1%. And that can be built into the price of the bike.",
+                "zh": "W：一小部分费用，大约百分之一。而且这笔费用可以计入摩托车的价格中。"
+              },
+              {
+                "en": "M: Well, I don't suppose there's much choice. All right, Jane. Let's put it into action.",
+                "zh": "M：嗯，我想我们也没有太多选择。好吧，简。就这么办吧。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They try to adapt to their changing roles."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They form a more realistic picture of life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They may not be prepared for a lifelong relationship."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They have unrealistic expectations about the other half."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He is lucky to be able to do what he loves."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is able to meet many interesting people."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He is able to forget all the troubles in his life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He is lucky to have visited many exotic places."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is stressful."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is all glamour."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is full of fun."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is challenging."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Amazed."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Bothered."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Puzzled."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Excited."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Charles, among other things, you're regarded as one of America's great masters of the blues, a musical idiom—that's essentially about loss, particularly the loss of romantic love. Why does love die?",
+                "zh": "W：查尔斯，除此之外，你还被誉为美国伟大的布鲁斯大师之一。布鲁斯是一种音乐风格，本质上讲述的是失去，尤其是失去浪漫爱情。爱情为什么会消亡？"
+              },
+              {
+                "en": "M: People often get into love affairs because they have unrealistic expectations about somebody. Then when the person doesn't turn out to be who they thought he or she was, they start thinking maybe I can change him or her. That kind of thinking is a mistake. Because when the dust settles, people are going to be pretty much what they are. It's a rare thing for anybody to be able to change who they really are. This creates a lot of problems.",
+                "zh": "M：人们常常因为对某个人抱有不切实际的期待而陷入恋情。后来，当这个人并不像他们原以为的那样时，他们就开始想，也许我可以改变他或她。这种想法是错误的。因为尘埃落定之后，人终究还是会成为他们本来的样子。很少有人能够改变自己真正的本性。这会造成很多问题。"
+              },
+              {
+                "en": "W: At 62, you continue to spend a large percentage of your life touring. What appeals to you about life on the road?",
+                "zh": "W：你已经62岁了，却仍然把人生中很大一部分时间花在巡演上。漂泊在外的生活有什么吸引你的地方？"
+              },
+              {
+                "en": "M: Music. I don't especially love life on the road, but I figure if you are lucky enough to be able to do what you truly love doing, you've got the ultimate in life.",
+                "zh": "M：音乐。我并不是特别喜欢巡演生活，但我觉得，如果你足够幸运，能够做自己真正热爱的事情，那就是人生中最好的状态。"
+              },
+              {
+                "en": "W: What's the most widely-held misconception about the life of a famous musician?",
+                "zh": "W：人们对著名音乐家的生活最普遍的误解是什么？"
+              },
+              {
+                "en": "M: People think it's all glamour. Actually we have the same troubles they do. Playing music doesn't mean life treats you any better.",
+                "zh": "M：人们以为那全都是光鲜亮丽。其实，我们和他们一样都有各种烦恼。演奏音乐并不意味着生活会对你更好。"
+              },
+              {
+                "en": "W: How do you feel about being recognized everywhere you go?",
+                "zh": "W：无论走到哪里都被人认出来，你有什么感受？"
+              },
+              {
+                "en": "M: You'd think I'd be used to it by now. But I still find it fascinating. You go to a little town in Japan, where nobody speaks English, yet they know you on sight and know all your music. I'm still amazed by the love people express for me and my music.",
+                "zh": "M：你会以为我到现在应该已经习惯了。但我仍然觉得这很奇妙。你去日本的一个小镇，那里没人会说英语，可他们一眼就能认出你，还知道你所有的音乐。人们对我和我的音乐所表达的爱，至今仍让我感到惊叹。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Learn to be respectful in a hierarchical organization."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Follow closely the fast development of technology."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Learn new ways of relating and working together."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Maintain the traditional organizational culture."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How the team is built to keep improving its performance."
+                  },
+                  {
+                    "l": "B",
+                    "t": "What type of personnel the team should be composed of."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How the team integrates with what it is supposed to serve."
+                  },
+                  {
+                    "l": "D",
+                    "t": "What qualifications team members should be equipped with."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "A team manager must set very clear and high objectives."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Teams must consist of members from different cultures."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Team members should be knowledgeable and creative."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A team manager should develop a certain set of skills.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Changing technology and markets have stimulated the team approach to management. Inflation, resource scarcity, reduced personnel levels and budget cuts have all underscored the need for better coordination in organizations. Team management provides for this coordination. Team management calls for new skills if personnel potential is to be fully realized. Although a team may be composed of knowledgeable people, they must learn new ways of relating and working together to solve cross-functional problems. When teams consist of experienced employees from hierarchical organizations who have been conditioned to traditional organizational culture, cooperation may not occur naturally. It may need to be created. Furthermore, the issue is not just how the team can function more effectively, but how it integrates with the overall organization, or society that it supposes it serves. A group of individuals is not automatically a team. Therefore, team building may be necessary in order to improve the group's performance. Casey, an expert in this field, suggests that the cooperation process within teams must be organized, promoted and managed. He believes that team cooperation results when members go beyond their individual capabilities, beyond what each is used to being and doing. Together, the team may then produce something new, unique and superior to that of any one member. For this to happen, he suggests the multi-cultural managers exhibit understanding of their own and others' cultural influences and limitations. They should also cultivate such skills as toleration of ambiguity, persistence and patience, as well as assertiveness. If a team manager exemplifies such qualities, then the team as a whole would be better able to realize their potential and achieve their objectives.",
+                "zh": "技术和市场的变化推动了团队管理方式的发展。通货膨胀、资源匮乏、人员编制缩减以及预算削减，都突显了组织内部加强协调的必要性。团队管理为这种协调提供了条件。如果要充分发挥人员的潜能，团队管理就需要新的技能。虽然一个团队可能由知识丰富的人组成，但他们必须学会新的相处和协作方式，以解决跨职能问题。当团队由来自层级组织、且已受传统组织文化影响的资深员工组成时，合作可能不会自然而然地发生，而是需要加以培育。此外，问题不仅在于团队如何更有效地运作，还在于团队如何与整个组织，或其自认为所服务的社会相融合。一群个人并不会自动成为一个团队。因此，为了提高团队的绩效，可能有必要进行团队建设。Casey 是这一领域的专家，他认为，团队内部的合作过程必须加以组织、推动和管理。他相信，当成员超越各自的个人能力，超越他们惯常的身份和行为方式时，团队合作才会产生。这样，团队就可能共同创造出某种新的、独特的、优于任何单个成员所能创造之物的成果。为实现这一点，他建议，多元文化背景的管理者应当理解自己和他人所受到的文化影响及其局限。他们还应培养容忍模糊性、坚持不懈和耐心等技能，同时也要具备自信坚定的表达能力。如果团队管理者能够以身作则，体现出这些品质，那么整个团队就会更有能力发挥自身潜能并实现目标。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Word-of-mouth advertising."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Distributing free trial products."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Prestige advertising."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Institutional advertising."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To sell a particular product."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To attract high-end consumers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To promote a specific service."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To build up their reputation."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By creating their own ads and commercials."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By buying media space in leading newspapers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By hiring their own professional advertising staff."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By using the services of large advertising agencies."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Conduct a large-scale survey on customer needs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Specify the objectives of the campaign in detail."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Pre-test alternative ads or commercials in certain regions."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Decide on what specific means of communication to employ."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Advertising informs consumers about the existence and benefits of products and services, and attempts to persuade them to buy them. The best form of advertising is probably word-of-mouth advertising which occurs when people tell their friends about the benefits of products or services that they have purchased. Yet virtually no providers of goods or services rely on this alone, but use paid advertising instead. Indeed, many organizations also use institutional or prestige advertising which is designed to build up their reputation rather than to sell particular products. Although large companies could easily set up their own advertising departments, write their own advertisements and buy media space themselves, they tend to use the services of large advertising agencies. These are likely to have more resources and more knowledge about all aspects of advertising and advertising media than a single company. It is also easier for a dissatisfied company to give its account to another agency than it would be to fire its own advertising staff. The client company generally gives the advertising agency an agreed budget, a statement of the objectives of the advertising campaign known as a brief and an overall advertising strategy concerning the message to be communicated to the target customers. The agency creates advertisements and develops a media plan, specifying which media will be used and in which proportions. Agencies often produce alternative ads or commercials that are pre-tested in newspapers, television stations etc., in different parts of the country before a final choice is made prior to a national campaign.",
+                "zh": "广告向消费者介绍产品和服务的存在及其益处，并试图说服他们购买。最好的广告形式或许是口碑广告，即人们向朋友讲述自己购买的产品或服务的好处。然而，实际上几乎没有商品或服务提供商仅依赖这种方式，而是采用付费广告。事实上，许多组织还使用旨在建立自身声誉、而非销售特定产品的机构广告或声誉广告。尽管大公司完全可以轻易设立自己的广告部门，撰写自己的广告并自行购买媒体版面，但它们往往会利用大型广告公司的服务。这些广告公司在广告的各个方面以及广告媒体方面，可能比单个公司拥有更多资源和知识。对一家不满意的公司来说，把业务交给另一家广告公司，也比解雇自己的广告员工更容易。客户公司通常会向广告公司提供一笔双方约定的预算、一份称为 brief 的广告活动目标说明，以及一项关于向目标客户传达何种信息的总体广告策略。广告公司负责创作广告并制定媒体计划，明确将使用哪些媒体以及各媒体所占的比例。广告公司通常会制作多个备选广告或商业广告，在最终选择并开展全国性宣传活动之前，先在全国不同地区的报纸、电视台等媒体上进行预先测试。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 19 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The effective communication among family members."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The principle of \"avoid adding trouble to others\"."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The mutual love and caring between parents and children."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Everyone's commitment to support each other."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Thinking before speaking."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Adopting empathy during communication."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Focusing on the present."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Listening attentively."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Adopting nonverbal signals."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Being aggressive or overly stressed."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Maintaining eye contact to show attentiveness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Keeping a suitable distance and respecting personal space."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To make sure you turn off your cell phones."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To respect people involved in the conversation."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To show you are an easy-going person."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To offer suggestions actively.\n\nQuestions 20 to 22 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Moderator:",
+                "zh": "主持人："
+              },
+              {
+                "en": "Hello, everybody. It is my honour to introduce our respectable speaker for today's lecture, Dr. Thomas Wood. Dr. Wood has written numerous articles and books on the topic of communication and how to communicate effectively. Welcome, Dr. Wood.",
+                "zh": "大家好。今天我很荣幸向大家介绍本次讲座的尊贵主讲人托马斯·伍德博士。伍德博士围绕沟通以及如何进行有效沟通撰写了大量文章和书籍。欢迎您，伍德博士。"
+              },
+              {
+                "en": "Dr. Wood:",
+                "zh": "伍德博士："
+              },
+              {
+                "en": "Good morning, everyone. I'm very glad to have a lecture with you. Today, I'd like to talk about how to communicate effectively. Effective communication is an essential component of human relationships, whether in the workplace, at school, among friends, between couples or within a household. Highly functional successful family groups tend to be those that communicate effectively, while the lack of such communication is frequently found in troubled families, according to a research company. Learning and practicing effective communication techniques is well worth the time and effort, resulting in stronger interpersonal ties and greater familial satisfaction. My tips are as follows:",
+                "zh": "大家早上好。我很高兴能和大家一起进行这次讲座。今天，我想谈谈如何进行有效沟通。有效沟通是人际关系中不可或缺的组成部分，无论是在工作场所、学校、朋友之间、情侣之间，还是家庭内部，都是如此。据一家研究公司称，高度协调、关系融洽且成功的家庭群体往往能够进行有效沟通，而缺乏这种沟通的情况则经常出现在问题家庭中。学习并练习有效的沟通技巧非常值得投入时间和精力，因为这会带来更牢固的人际关系和更高的家庭满意度。我的建议如下："
+              },
+              {
+                "en": "Think First, Speak Later. Few people would stand before an audience or class and present a speech without advance preparation. Gathering thoughts, ideas and information are critical for communicating in an organized and effective way. Setting priorities can be helpful, especially when preparing to discuss a complex issue. Furthermore, stepping away from a problem before discussing it allows time to gain objectivity, as well as empathy for the other person or persons involved.",
+                "zh": "先思考，后说话。很少有人会在没有提前准备的情况下站在听众或全班同学面前发表演讲。收集思想、观点和信息，对于以有条理且有效的方式进行沟通至关重要。设定优先事项会有所帮助，尤其是在准备讨论复杂问题时。此外，在讨论问题之前暂时抽身，可以留出时间获得客观的看法，同时也能设身处地地体谅相关的另一方或其他人。"
+              },
+              {
+                "en": "Be Fully Present. Effective communication is possible only in the present moment. Bringing past conflicts into the current discussion serves only to heighten negative emotions and be bad for a productive conversation. A sharp focus on the topic at hand is essential for clear and effective communication, and it is also helpful to keep outside distractions to a minimum. Text messages, phone calls and emails can all wait until a later time, and worries about work, school or other issues can be put on hold as well.",
+                "zh": "全神贯注于当下。有效沟通只有在当下这一刻才有可能实现。将过去的冲突带入当前的讨论，只会加剧负面情绪，不利于进行富有成效的谈话。将注意力集中在眼前的主题上，对于清晰而有效的沟通至关重要，同时，尽量减少外界干扰也很有帮助。短信、电话和电子邮件都可以稍后再处理，对工作、学校或其他问题的担忧也可以暂时搁置。"
+              },
+              {
+                "en": "Use Nonverbal Cues. Nonverbal cues such as facial expressions, body language and hand gestures play an important role in effective communication. Just as a badly chosen word or a raised voice can upset a listener and close the door to further dialogue, so too can an unintentionally aggressive nonverbal cue. One way to ensure that nonverbal signals don't undermine verbal communication is to remain calm and avoid becoming overly stressed during a discussion. Staying calm and maintaining a comfortable amount of eye contact while respecting personal space can increase receptivity.",
+                "zh": "运用非语言提示。面部表情、肢体语言和手势等非语言提示，在有效沟通中发挥着重要作用。正如措辞不当或提高嗓门会使听者感到不快，并关闭进一步对话的大门一样，无意中表现出的攻击性非语言提示也会产生同样的效果。确保非语言信号不会削弱语言沟通的一种方法，就是在讨论过程中保持冷静，避免压力过大。在尊重个人空间的同时保持冷静，并维持适度的眼神交流，可以提高对方的接受程度。"
+              },
+              {
+                "en": "Listen Actively. Effective communication includes the ability to listen well. In addition to avoiding obvious distractions such as cell phones and using body language to demonstrate attentiveness, it is also important to allow the other person to finish speaking before formulating our own response. Paraphrasing what the other person has said to make sure we have understood correctly and refraining from offering advice unless asked to do so are two more ways to listen effectively.",
+                "zh": "积极倾听。有效沟通包括良好的倾听能力。除了避免手机等明显的干扰，并通过肢体语言表现出专注之外，在组织自己的回应之前，允许对方把话说完也很重要。用自己的话复述对方所说的内容，以确保我们正确理解了对方的意思，以及除非对方提出要求，否则不要主动提供建议，这些也是有效倾听的两种方式。"
+              },
+              {
+                "en": "Thank you for listening. Hope this lecture will be helpful and you will be a better communicator.",
+                "zh": "感谢大家的聆听。希望这次讲座能对大家有所帮助，也希望大家能够成为更善于沟通的人。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 20 to 22 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The ability of speaking a certain kind of language."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The ability of mending things."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The ability of building a good relationship."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The ability of healing physical wounds."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Always feeling miserable when encountering difficulties."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Keeping calm though the child has made the house a mess."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Unwilling to offer a hand to those in troubles."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Feeling superior to everybody else."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Mental Health: Tool Case of the Mind"
+                  },
+                  {
+                    "l": "B",
+                    "t": "How to Gain Mental Health"
+                  },
+                  {
+                    "l": "C",
+                    "t": "Mental Health: The Key to Success"
+                  },
+                  {
+                    "l": "D",
+                    "t": "Be Careful of Mental Problems\n\nQuestions 23 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Mental health is our birthright. We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone. Mental health can't be learned, only reawakened. It is like an immune system of the body, which under stress or through lack of nutrition or exercise can be weakened, but which never leaves us. When we don't understand the value of mental health and we don't know how to gain access to it, mental health will remain hidden from us. Our mental health doesn't go anywhere; like the sun behind a cloud, it can be temporarily hidden from view, but it is fully capable of being restored in an instant.",
+                "zh": "心理健康是我们与生俱来的权利。我们不必学习如何保持心理健康；它如同我们的身体知道如何愈合伤口或修复骨折一样，已经内在于我们之中。心理健康无法通过学习获得，只能重新唤醒。它就像人体的免疫系统，在压力之下，或因缺乏营养和锻炼而变得虚弱，但从未离开我们。当我们不了解心理健康的价值，也不知道如何获得它时，心理健康就会继续对我们隐藏。我们的心理健康并没有消失；它就像云后的太阳，可能暂时隐而不见，但完全能够在瞬间恢复。"
+              },
+              {
+                "en": "Mental health is the seed that contains self-esteem—confidence in ourselves and an ability to trust in our common sense. It allows us to have perspective on our lives—the ability to not take ourselves too seriously, to laugh at ourselves, to see the bigger picture, and to see that things will work out. It's a form of innate or unlearned optimism. Mental health allows us to view others with sympathy if they are having troubles, with kindness if they are in pain, and with unconditional love no matter who they are. Mental health is the source of creativity for solving problems, resolving conflict, making our surroundings more beautiful, managing our home life, or coming up with a creative business idea or invention to make our lives easier. It gives us patience for ourselves and toward others as well as patience while driving, catching a fish, working on our car, or raising a child. It allows us to see the beauty that surrounds us each moment in nature, in culture, in the flow of our daily lives.",
+                "zh": "心理健康是承载自尊的种子——也就是对自己的信心，以及相信我们常识的能力。它使我们能够以更宏观的视角看待自己的生活——不把自己看得过于严肃，能够自嘲，能够看到全局，并看出事情终会有好的结果。这是一种与生俱来的、无需学习的乐观。心理健康使我们在他人遇到困难时能够以同情之心看待他们，在他们遭受痛苦时以善意相待，无论他们是谁都给予无条件的爱。心理健康是解决问题、化解冲突、美化周围环境、打理家庭生活，或想出具有创意的商业点子或发明来让生活更轻松的创造力源泉。它赋予我们对自己和他人的耐心，也让我们在开车、钓鱼、修理汽车或抚养孩子时保持耐心。它使我们能够在每一个当下，看到自然、文化以及日常生活流动中环绕着我们的美。"
+              },
+              {
+                "en": "Although mental health is the cure-all for living our lives, it is perfectly ordinary as you will see that it has been there to direct you through all your difficult decisions. Mental health has commonly been called conscience, instinct, wisdom, common sense, or the inner voice. We think of it simply as a healthy and helpful flow of intelligent thought. As you will come to see, knowing that mental health is always available and knowing to trust it allows us to slow down to the moment and live life happily.",
+                "zh": "虽然心理健康是我们生活中包治百病的良方，但它完全是平常而自然的；正如你将会看到的，它一直在引导你作出所有艰难的决定。心理健康通常被称为良知、直觉、智慧、常识或内在的声音。我们只是将它看作一种健康而有益的理性思维流。正如你将逐渐看到的，知道心理健康始终可以获得，并懂得信任它，就能让我们放慢脚步，回到当下，幸福地生活。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 23 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Studying hard for a relatively high degree."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Having enough knowledge about different careers."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Understanding the new trend of career planning."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Knowing more about yourself."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Ask for professional advice from experienced people."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Bring it down to a practical level."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Divide it into smaller and achievable goals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Find an objective standard to reevaluate your ability."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To help you to deal with new problems you may meet with in your career better."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To ensure that you achieve something big sometime in the future."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To shorten the time you are tangled up with tricky situations."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To accelerate the process of climbing up the social ladder."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "As career planning is very essential in your career, I would like to offer some tips about how to do career planning.",
+                "zh": "职业规划对你的职业生涯至关重要，因此我想就如何进行职业规划提供一些建议。"
+              },
+              {
+                "en": "Study yourself. This is the key to career planning. Understanding what you are like, what you value, and what kind of person you want to become is the foundation for all career planning. In studying yourself, you examine your strengths and weaknesses, your goals, and the trends in your personal development. The self-understanding that you gain enables you to imagine how certain occupations may best fit your personality, interests, abilities, and goals. All career decisions require us to learn both about ourselves and about work, and to integrate these two kinds of knowledge.",
+                "zh": "了解自己。这是职业规划的关键。了解自己是什么样的人、看重什么，以及想成为什么样的人，是进行一切职业规划的基础。在了解自己的过程中，你需要审视自己的优势和劣势、目标以及个人发展的趋势。通过自我了解，你能够设想哪些职业最适合你的个性、兴趣、能力和目标。所有职业决策都要求我们既了解自己，也了解工作，并将这两方面的知识结合起来。"
+              },
+              {
+                "en": "Make a list of short and long term career goals. Consider your individual skills, talents, interests and hobbies. You may realize that your daily struggle with new technologies is a source of frustration that you would like to eliminate. List all the goals you have for your work life.",
+                "zh": "列出短期和长期职业目标。考虑你的个人技能、才能、兴趣和爱好。你可能会意识到，每天应对新技术的困难让你感到沮丧，而你希望消除这种困扰。列出你对职业生活的所有目标。"
+              },
+              {
+                "en": "Assign a time frame to each goal. Some may be achievable in the near future. Others may require years of efforts. Many will probably lead to a series of goals that you must accomplish over time to reach your desired end result. If your ultimate goal is to have a managerial role, you may need to become a trainer first, then a supervisor.",
+                "zh": "为每个目标规定一个时间期限。有些目标可能在不久的将来就能实现，另一些则可能需要多年的努力。许多目标很可能会引出一系列你必须随着时间推移逐一完成的目标，才能达到理想的最终结果。如果你的最终目标是担任管理职务，那么你可能需要先成为培训师，然后再成为主管。"
+              },
+              {
+                "en": "Add specific action steps to your plan that will help you to achieve each goal. Research classes that may help you become more familiar with new technologies. Make a list of classes that you want to take, and then schedule a time to meet with your manager to discuss opportunities for pursuing this type of education.",
+                "zh": "在你的计划中加入具体的行动步骤，以帮助你实现每个目标。调查能够帮助你更加熟悉新技术的课程。列出你想参加的课程，然后安排时间与你的经理会面，讨论参加这类教育培训的机会。"
+              },
+              {
+                "en": "Write a detailed description of your end goals for each year over the next five years. By the end of the first year, you may want to have a few successful projects under your belt. As the second year comes to a close, you might want to be promoted to a higher position, and so on. Be clear about the changes that you want to see happen, when they should take place, and what steps you will take to get where you want to be.",
+                "zh": "详细写出未来五年中每一年要实现的最终目标。到第一年结束时，你可能希望已经成功完成几个项目。第二年即将结束时，你可能希望晋升到更高的职位，以此类推。明确你希望看到哪些变化发生、这些变化应在什么时候发生，以及你将采取哪些步骤来达到理想的位置。"
+              },
+              {
+                "en": "Career planning does not guarantee that all the problems, difficulties, or decision-making situations that you face in the future will be solved. Nor can any formula be given to do that. But career planning should help you to approach and cope better with new problems, such as deciding whether or not to enter educational or training programs, deciding whether or not to change jobs, and analyzing the difficulties you are having with a situation or a person.",
+                "zh": "职业规划不能保证你将来面临的所有问题、困难或需要作出决策的情况都能得到解决，也没有任何公式可以做到这一点。但是，职业规划应该能帮助你更好地应对和处理新的问题，例如决定是否参加教育或培训项目、决定是否换工作，以及分析你在处理某种情况或与某个人相处时遇到的困难。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "It seems to be a law in the technology industry that leading companies eventually lose their positions, often quickly and brutally. Mobile phone champion Nokia, one of Europe's biggest technology success stories, was no"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ", losing its market share in just a few years. In 2007, Nokia accounted for more than 40% of mobile phone sales"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ". But consumers' preferences were already"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "toward touch-screen smartphones. With the introduction of Apple's iPhone in the middle of that year, Nokia's market share"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "rapidly and revenue plunged. By the end of 2013, Nokia had sold its phone business to Microsoft. What sealed Nokia's fate was a series of decisions made by Stephen Elop in his position as CEO, which he"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "in October 2010. Each day that Elop spent in charge of Nokia, the company's market value declined by $23 million, making him, by the numbers, one of the worst CEOs in history. But Elop was not the only person at"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ". Nokia's board resisted change, making it impossible for the company to adapt to rapid shifts in the industry. Most"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": ", Jorma Ollila, who had led Nokia's transition from an industrial company to a technology giant, was too fascinated by the company's"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "success to recognize the change that was needed to sustain its competitiveness. The company also embarked on a"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "cost-cutting program, which included the elimination of thousands of jobs. This contributed to the"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "of the company's once-spirited culture, which had motivated employees to take risks and make miracles. Good leaders left the company, taking Nokia's sense of vision and direction with them. Not surprisingly, much of Nokia's most valuable design and programming talent left as well."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "assumed"
+        },
+        {
+          "l": "B",
+          "w": "bias"
+        },
+        {
+          "l": "C",
+          "w": "desperate"
+        },
+        {
+          "l": "D",
+          "w": "deterioration"
+        },
+        {
+          "l": "E",
+          "w": "exception"
+        },
+        {
+          "l": "F",
+          "w": "fault"
+        },
+        {
+          "l": "G",
+          "w": "incidentally"
+        },
+        {
+          "l": "H",
+          "w": "notably"
+        },
+        {
+          "l": "I",
+          "w": "previous"
+        },
+        {
+          "l": "J",
+          "w": "relayed"
+        },
+        {
+          "l": "K",
+          "w": "shifting"
+        },
+        {
+          "l": "L",
+          "w": "shrank"
+        },
+        {
+          "l": "M",
+          "w": "subtle"
+        },
+        {
+          "l": "N",
+          "w": "transmitting"
+        },
+        {
+          "l": "O",
+          "w": "worldwide"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "E"
+        },
+        {
+          "n": 27,
+          "a": "O"
+        },
+        {
+          "n": 28,
+          "a": "K"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "A"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "H"
+        },
+        {
+          "n": 33,
+          "a": "I"
+        },
+        {
+          "n": 34,
+          "a": "C"
+        },
+        {
+          "n": 35,
+          "a": "D"
+        }
+      ]
+    },
+    "matching": {
+      "title": "First-Generation College-Goers: Unprepared and Behind",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "When Nijay Williams entered college last fall as a first-generation student and Jamaican immigrant, he was academically unprepared for the rigors of higher education. Like many first-generation students, he enrolled in a medium-sized state university many of his high school peers were also attending, received a Pell Grant, and took out some small federal loans to cover other costs. Given the high price of room and board and the closeness of the school to his family, he chose to live at home and worked between 30 and 40 hours a week while taking a full class schedule."
+        },
+        {
+          "l": "B",
+          "t": "What Nijay didn't realize about his school—Tennessee State University—was its frighteningly low graduation rate a mere 29 percent for its first-generation students. At the end of his first year, Nijay lost his Pell Grant of over $5,000 after narrowly missing the 2.0 GPA cut-off, making it impossible for him to continue paying for school."
+        },
+        {
+          "l": "C",
+          "t": "Nijay represents a large and growing group of Americans: first-generation college students who enter school unprepared or behind. To make matters worse, these schools are ill-equipped to graduate these students— young adults who face specific challenges and obstacles. They typically carry financial burdens that outweigh those of their peers, are more likely to work while attending school, and often require significant academic remediation(补习)."
+        },
+        {
+          "l": "D",
+          "t": "Matt Rubinoff directs I'm First, a nonprofit organization launched last October to reach out to this specific population of students. He hopes to distribute this information and help prospective college-goers find the best post-secondary fit. And while Rubinoff believes there are a good number of four-year schools that truly care about these students and set aside significant resources and programs for them, he says that number isn't high enough."
+        },
+        {
+          "l": "E",
+          "t": "\"It's not only the selective and elite institutions that provide those opportunities for a small subset of this population,\" Rubinoff said, adding that a majority of first-generation undergraduates tend toward options such as online programs, two-year colleges, and commuter state schools. \"Unfortunately, there tends to be a lack of information and support to help students think bigger and broader.\""
+        },
+        {
+          "l": "F",
+          "t": "Despite this problem, many students are still drawn to these institutions—and two-year schools in particular. As a former high school teacher, I saw students choose familiar, cheaper options year after year. Instead of skipping out on higher education altogether, they chose community colleges or state schools with low bars for admittance."
+        },
+        {
+          "l": "G",
+          "t": "\"They underestimate themselves when selecting a university,\" said Dave Jarrat, a marketing executive for Inside Track, a for-profit organization that specializes in coaching low-income students and supporting colleges in order to help students thrive. \"The reality of it is that a lot of low-income kids could be going to elite universities on a full ride scholarship and don't even realize it.\""
+        },
+        {
+          "l": "H",
+          "t": "\"Many students are coming from a situation where no one around them has the experience of successfully completing higher education, so they are coming in questioning themselves and their college worthiness,\" Jarrat continued. That helps explain why, as I'm First's Rubinoff indicated, the schools to which these students end up resorting can end up being some of the poorest matches for them. The University of Tennessee in Knoxville offers one example of this dilemma. A flagship university in the South, the school graduates just 16 percent of its first-generation students, despite its overall graduation rate of 71 percent. Located only a few hours apart, the University of Tennessee and Tennessee State are worth comparing. Tennessee State's overall graduation rate is a tiny 39 percent, but at least it has a smaller gap between the outcomes for first-generation students and those of their peers."
+        },
+        {
+          "l": "I",
+          "t": "Still, the University of Tennessee deserves credit for being transparent. Many large institutions keep this kind of data secret—or at least make it incredibly difficult to find. The University of North Carolina at Chapel Hill, for instance, admits only that the graduation rate for its first-generation pupils is \"much lower\" than the percentage of all students who graduate within four years (81 percent)."
+        },
+        {
+          "l": "J",
+          "t": "It is actually quite difficult to find reliable statistics on the issue for many schools. Higher education institutions are, under federal law, required to report graduation rates, but these reports typically only include Pell recipient numbers—not necessarily rates specific to first-generation students. Other initiatives fail to break down the data, too. Imagine how intimidating it can be for prospective students unfamiliar with the complexities of higher education to navigate this kind of information and then identify which schools are the best fit."
+        },
+        {
+          "l": "K",
+          "t": "It was this lack of information that prompted the launch of I'm First in 2013, originally as an arm of its umbrella organization, the Center For Student Opportunity. \"If we can help to direct students to more of these types of campuses and help students to understand them to be realistic and accessible places, have them apply to these schools at greater frequency and ultimately get in and enroll, we are going to raise the success rate,\" Rubinoff said, citing a variety of colleges ranging from large state institutions to smaller private schools."
+        },
+        {
+          "l": "L",
+          "t": "Chelsea Jones, who now directs student programming at I'm First, was a first-generation college student at Howard. Like other students new to the intimidating higher-education world, she often struggled on her path to college. \"There wasn't really a college-bound culture at my high school,\" she said. \"I wanted to go to college but I didn't really know the process.\" Jones became involved with a college-access program through Princeton University in high school. Now, she attributes much of her understanding of college to that: \"But once I got to campus, it was a completely different ball game that no one really prepared me for.\""
+        },
+        {
+          "l": "M",
+          "t": "She was fortunate, though. Howard, a well-regarded historically black college, had an array of resources for its first-generation students, including matching kids with counselors, connecting first-generation students to one another, and TRIO, a national program that supported 200 students on Howard's campus. Still, Jones represents a small percentage of first-generation students who are able to gain entry into more elite universities, which are often known for robust financial aid packages and remarkably high graduation rates for first-generation students. (Harvard, for example, boasts a six-year graduation rate for underrepresented minority groups of 98 percent)."
+        },
+        {
+          "l": "N",
+          "t": "Christian Vazquez, a first-generation Yale graduate, is another exception, his success story setting him far apart from students such as Nijay. \"There is a lot of support at Yale, to an extent, after a while, there is too much support,\" he said, half-joking about the countless resources available at the school. Students are placed in small groups with counselors (trained seniors on campus); they have access to cultural and ethnic affinity(联系) groups, tutoring centers and also have a summer orientation specifically for first-generation students (the latter being one of the most common programs for students)."
+        },
+        {
+          "l": "O",
+          "t": "\"Our support structure was more like: 'You are going to get through Yale; you are going to do well,'\" he said, hinting at mentors(导师), staff, and professors who all provided significant support for students who lacked confidence about \"belonging\" at such a top institution."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Many first-generation college-goers have doubts about their abilities to get a college degree.",
+          "a": "H"
+        },
+        {
+          "n": 37,
+          "s": "First-generation college students tend to have much heavier financial burdens than their peers.",
+          "a": "C"
+        },
+        {
+          "n": 38,
+          "s": "The graduation rate of first-generation students at Nijay's university was incredibly low.",
+          "a": "B"
+        },
+        {
+          "n": 39,
+          "s": "Some top institutions like Yale seem to provide first-generation students with more support than they actually need.",
+          "a": "N"
+        },
+        {
+          "n": 40,
+          "s": "On entering college, Nijay Williams had no idea how challenging college education was.",
+          "a": "A"
+        },
+        {
+          "n": 41,
+          "s": "Many universities simply refuse to release their exact graduation rates for first-generation students.",
+          "a": "I"
+        },
+        {
+          "n": 42,
+          "s": "According to a marketing executive, many students from low-income families don't know they could have a chance of going to an elite university.",
+          "a": "G"
+        },
+        {
+          "n": 43,
+          "s": "Some elite universities attach great importance to building up the first-generation students' self-confidence.",
+          "a": "O"
+        },
+        {
+          "n": 44,
+          "s": "I'm First distributes information to help first-generation college-goers find schools that are most suitable for them.",
+          "a": "D"
+        },
+        {
+          "n": 45,
+          "s": "Elite universities tend to graduate first-generation students at a higher rate.",
+          "a": "M"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Saying they can no longer ignore the rising price of health care, some of the most influential medical groups in the nation are recommending that doctors weigh the costs, not just the effectiveness of treatments, as they make decisions about patient care. The shift, little noticed outside the medical establishment but already controversial inside it, suggests that doctors are starting to redefine their roles, from being concerned exclusively about individual patients to exerting influence on how healthcare dollars are spent. In practical terms, the new guidelines being developed could result in doctors choosing one drug over another for cost reasons or even deciding that a particular treatment—at the end of life, for example—is too expensive. In the extreme, some critics have said that making treatment decisions based on cost is a form of rationing. Traditionally, guidelines have heavily influenced the practice of medicine, and the latest ones are expected to make doctors more conscious of the economic consequences of their decisions, even though there's no obligation to follow them. Medical society guidelines are also used by insurance companies to help determine reimbursement(报销) policies. Some doctors see a potential conflict in trying to be both providers of patient care and financial overseers. \"There should be forces in society who should be concerned about the budget, but they shouldn't be functioning simultaneously as doctors,\" said Dr. Martin Samuels at a Boston hospital. He said doctors risked losing the trust of patients if they told patients, \"I'm not going to do what I think is best for you because I think it's bad for the healthcare budget in Massachusetts.\" Doctors can face some grim trade-offs. Studies have shown, for example, that two drugs are about equally effective in treating macular degeneration, an eye disease. But one costs $50 a dose and the other close to $2,000. Medicare could save hundreds of millions of dollars a year if everyone used the cheaper drug, Avastin, instead of the costlier one, Lucentis. But the Food and Drug Administration has not approved Avastin for use in the eye, and using it rather than the alternative, Lucentis, might carry an additional, although slight, safety risk. Should doctors consider Medicare's budget in deciding what to use? \"I think ethically(在道德层面上) we are just worried about the patient in front of us and not trying to save money for the insurance industry or society as a whole,\" said Dr. Donald Jensen. Still, some analysts say that there's a role for doctors to play in cost analysis because not many others are doing so. \"In some ways,\" said Dr. Daniel Sulmasy, \"it represents a failure of wider society to take up the issue.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do some most influential medical groups recommend doctors do?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Reflect on the responsibilities they are supposed to take."
+              },
+              {
+                "l": "B",
+                "t": "Pay more attention to the effectiveness of their treatments."
+              },
+              {
+                "l": "C",
+                "t": "Take costs into account when making treatment decisions."
+              },
+              {
+                "l": "D",
+                "t": "Readjust their practice in view of the cuts in health care."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What were doctors mainly concerned about in the past?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Specific medicines to be used."
+              },
+              {
+                "l": "B",
+                "t": "Effects of medical treatment."
+              },
+              {
+                "l": "C",
+                "t": "Professional advancement."
+              },
+              {
+                "l": "D",
+                "t": "Patients' trust."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What may the new guidelines being developed lead to?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The redefining of doctors' roles."
+              },
+              {
+                "l": "B",
+                "t": "Overuse of less effective medicines."
+              },
+              {
+                "l": "C",
+                "t": "Conflicts between doctors and patients."
+              },
+              {
+                "l": "D",
+                "t": "The prolonging of patients' suffering."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What risk do doctors see in their dual role as patient care providers and financial overseers?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may be involved in a conflict of interest."
+              },
+              {
+                "l": "B",
+                "t": "They may be forced to divide their attention."
+              },
+              {
+                "l": "C",
+                "t": "They may have to use less effective drugs."
+              },
+              {
+                "l": "D",
+                "t": "They may lose the respect of patients."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 50,
+            "s": "What do some experts say about doctors' involvement in medical cost analysis?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may add to doctors' already heavy workloads."
+              },
+              {
+                "l": "B",
+                "t": "It will help to save money for society as a whole."
+              },
+              {
+                "l": "C",
+                "t": "It results from society's failure to tackle the problem."
+              },
+              {
+                "l": "D",
+                "t": "It raises doctors' awareness of their social responsibilities."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Economic inequality is the \"defining challenge of our time,\" President Barack Obama declared in a speech last month to the Center for American Progress. Inequality is dangerous, he argued, not merely because it doesn't look good to have a large gap between the rich and the poor, but because inequality itself destroys upward mobility, making it harder for the poor to escape from poverty. \"Increased inequality and decreasing mobility pose a fundamental threat to the American Dream,\" he said. Obama is only the most prominent public figure to declare inequality Public Enemy No.1 and the greatest threat to reducing poverty in America. A number of prominent economists have also argued that it's harder for the poor to climb the economic ladder today because the rungs(横档) in that ladder have grown farther apart. For all the new attention devoted to the 1 percent, a new dataset from the Equality of Opportunity Project at Harvard and Berkeley suggests that, if we care about upward mobility overall, we're vastly exaggerating the dangers of the rich-poor gap. Inequality itself is not a particularly strong predictor of economic mobility, as sociologist Scott Winship noted in a recent article based on his analysis of this data. So what factors, at the community level, do predict if poor children will move up the economic ladder as adults? What explains, for instance, why the Salt Lake City metro area is one of the 100 largest metropolitan areas most likely to lift the fortunes of the poor and the Atlanta metro area is one of the least likely? Harvard economist Raj Chetty has pointed to economic and racial segregation, community density, the size of a community's middle class, the quality of schools, community religiosity, and family structure, which he calls the \"single strongest correlate of upward mobility.\" Chetty finds that communities like Salt Lake City, with high levels of two-parent families and religiosity, are much more likely to see poor children get ahead than communities like Atlanta, with high levels of racial and economic segregation. Chetty has not yet issued a comprehensive analysis of the relative predictive power of each of these factors. Based on my analyses of the data, of the factors that Chetty has highlighted, the following three seem to be most predictive of upward mobility in a given community: 1. Per-capita(人均) income growth 2. Prevalence of single mothers (where correlation is strong, but negative) 3. Per-capita local government spending In other words, communities with high levels of per-capita income growth, high percentages of two-parent families, and high local government spending—which may stand for good schools—are the most likely to help poor children relive the Horatio Alger's rags-to-riches story.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "How does Obama view economic inequality?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is the biggest obstacle to social mobility."
+              },
+              {
+                "l": "B",
+                "t": "It is the greatest threat to social stability."
+              },
+              {
+                "l": "C",
+                "t": "It is the No. 1 enemy of income growth."
+              },
+              {
+                "l": "D",
+                "t": "It is the most malicious social evil of our time."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "What do we learn about the inequality gap from Scott Winship's data analysis?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is fast widening across most parts of America."
+              },
+              {
+                "l": "B",
+                "t": "It is not a reliable indicator of economic mobility."
+              },
+              {
+                "l": "C",
+                "t": "It is not correctly interpreted."
+              },
+              {
+                "l": "D",
+                "t": "It is overwhelmingly ignored."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 53,
+            "s": "Compared with Atlanta, metropolitan Salt Lake City is said to _______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "have placed religious beliefs above party politics"
+              },
+              {
+                "l": "B",
+                "t": "have bridged the gap between the rich and the poor"
+              },
+              {
+                "l": "C",
+                "t": "offer poor children more chances to climb the social ladder"
+              },
+              {
+                "l": "D",
+                "t": "suffer from higher levels of racial and economic segregation"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What is strongly correlated with social mobility according to economist Raj Chetty?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Family structure."
+              },
+              {
+                "l": "B",
+                "t": "Racial equality."
+              },
+              {
+                "l": "C",
+                "t": "School education."
+              },
+              {
+                "l": "D",
+                "t": "Community density."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 55,
+            "s": "What does the author seem to suggest?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is important to increase the size of the middle class."
+              },
+              {
+                "l": "B",
+                "t": "It is highly important to expand the metropolitan areas."
+              },
+              {
+                "l": "C",
+                "t": "It is most imperative to focus our efforts on the elimination of income inequality."
+              },
+              {
+                "l": "D",
+                "t": "It is better to start from the community to help poor children move up the social ladder."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "在帮助国际社会于2030年前消除极端贫困过程中，中国正扮演着越来越重要的角色。 自20世纪70年代末 实施改革开放以来,中国已使多达四亿人摆脱了贫困。在未来五年中，中国将向其他发展中国家在减少贫困、 发展教育、农业现代化、环境保护和医疗保健等方面提供援助。 中国在减少贫困方面取得了显著进步,并在促 进经济增长方面做出了不懈努力,这将鼓励其他贫困国家应对自身发展中的挑战。在寻求具有自身特色的发展 道路时,这些国家可以借鉴中国的经验。",
+    "reference": "In helping the international community eliminate extreme poverty by 2030, China is playing an increasingly important role. Since the implementation of the reform and opening-up in the late 1970s, China has lifted as many as 400 million people out of poverty. In the next five years, China will provide assistance to other developing countries in such fields as poverty reduction, education development, agricultural modernization, environmental protection and health care. China has made remarkable progress in poverty reduction and unremitting efforts in promoting economic growth, which will encourage other poor countries to cope with the challenges in their own development. When seeking a development path with their own characteristics, these countries can draw on China's experience."
+  }
+}

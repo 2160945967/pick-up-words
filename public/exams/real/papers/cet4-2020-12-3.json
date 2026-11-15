@@ -1,0 +1,1305 @@
+{
+  "id": "cet4-2020-12-3",
+  "level": "cet4",
+  "year": 2020,
+  "month": 12,
+  "set": 3,
+  "title": "2020年12月 四级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1500,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7500
+  },
+  "writing": {
+    "prompt": "Directions: For this part , you are allowed 30 minutes to write on the topic Changes in the Way of Communication. You should write at least 120 words but no more than 180 words.",
+    "sample": "The way people communicate has changed dramatically over the past few decades. In the past, staying in touch meant writing letters or making phone calls, while nowadays a tap on the screen connects us instantly. In my view, this shift has reshaped our lives in profound ways.The most obvious change lies in speed and distance. Our parents used to wait days for a letter to arrive, whereas we now send messages, photos and even video calls across continents in seconds. Take my grandmother as an example: she once relied on the post office, but today she chats with me through instant messaging and social media every night. Such tools help families stay connected regardless of where they live.However, this convenience comes at a price. When face-to-face talk is replaced by screens, warmth and sincerity may fade away. Therefore, we should embrace new means of communication while still valuing genuine human contact. Only by balancing the two can we truly benefit from these changes."
+  },
+  "listening": {
+    "audio": "cet4-2020-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 and 2 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Many people have been attacked by Devil Firefish."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The Mediterranean is a natural habitat of Devil Firefish."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Invasive species are driving away certain native species."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A deadly fish has been spotted in the Mediterranean waters."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It could badly pollute the surrounding waters."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It could pose a threat to other marine species."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It could disrupt the food chains there."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It could add to greenhouse emissions.\n\nQuestions 3 and 4 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A poisonous fish which has a sting strong enough to kill a human is invading the Mediterranean, warn scientists. The International Union for Conservation of Nature has raised concerns after the poisonous fish was spotted in the waters around Turkey, Cyprus, and the eastern Mediterranean. Native to the South Pacific and Indian Ocean, the potentially deadly fish has poisonous hooks and a painful sting capable of killing people. Although fatalities are rare, the stings can cause extreme pain and stop people breathing. The fish, often known as Devil Firefish, is a highly invasive species, and environmentalists fear its arrival could endanger other types of marine life. After being spotted in the Mediterranean, a marine scientist says, \"The fish is spreading, and that's a cause for concern.\"",
+                "zh": "科学家警告称，一种毒刺强度足以致人死亡的有毒鱼类正在入侵地中海。国际自然保护联盟在土耳其、塞浦路斯和地中海东部水域发现这种有毒鱼类后表达了担忧。这种鱼原产于南太平洋和印度洋,具有潜在致命性,长有毒钩,其painful刺伤能够致人死亡。虽然死亡案例罕见,但被刺伤可导致剧烈疼痛并使人呼吸停止。这种鱼通常被称为Devil Firefish,是一种高度入侵性物种,环保人士担心其到来可能危及其他海洋生物。一位海洋科学家在地中海发现该鱼后表示:'这种鱼正在扩散,这是一个令人担忧的原因。'"
+              }
+            ]
+          },
+          {
+            "name": "Questions 3 and 4 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cars will not be allowed to enter the city."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Pedestrians will have free access to the city."
+                  },
+                  {
+                    "l": "C",
+                    "t": "About half of its city center will be closed to cars."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Buses will be the only vehicles allowed on its streets."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The unbearable traffic noise."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The worsening global warming."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The ever-growing cost of petrol."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The rising air pollution in Paris.\n\nQuestions 5 to 7 are based on the news report you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Almost half the center of Paris will be accessible only by foot or bicycle this Sunday to mark World Car-Free Day. This is in response to rising air pollution that made Paris the most polluted city in the world for a brief time. Mayor Anne Hidalgo promoted the first World Car-Free Day last year. Hidalgo also has supported a \"Paris Breathes\" day. On the first Sunday of every month, Paris clears traffic from eight lanes of the main road. About 400 miles of streets will be closed to cars. It is expected to bring significant reduction in pollution levels. Last year's car-free day showed a 40 percent drop in pollution levels in some parts of the city, according to an independent air pollution monitor, reports The Guardian—and sound levels dropped by 50 percent in the city's center.",
+                "zh": "本周日，巴黎市中心近一半的区域将仅允许步行或骑自行车通行，以纪念世界无车日。这是对日益严重的空气污染的回应，空气污染曾一度使巴黎成为世界上污染最严重的城市。市长Anne Hidalgo在去年推动了首个世界无车日。Hidalgo还支持\"巴黎呼吸\"日。每月的第一个周日,巴黎会清空主干道八条车道的交通。约400英里的街道将禁止汽车通行。预计这将显著降低污染水平。据《卫报》报道，根据一家独立空气污染监测机构的数据，去年的无车日使该市部分地区的污染水平下降了40%，市中心的噪音水平下降了50%。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 7 are based on the news report you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His house was burnt down in a fire."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Many of his possessions were stolen."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His good luck charm sank into the sea."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His fishing boat got wrecked on a rock."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Change his fishing locations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Find a job in a travel agency."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Sell the pearl he had kept for years."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Spend a few nights on a small island."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "His pearl could be displayed in a museum."
+                  },
+                  {
+                    "l": "B",
+                    "t": "His monstrous pearl was extremely valuable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The largest pearl in the world weighs 14 pounds."
+                  },
+                  {
+                    "l": "D",
+                    "t": "A New York museum has the world's biggest pearl."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "A Philippine fisherman was feeling down on his luck when a house fire forced him to clear out his possessions and change locations. Then a good luck charm that he had kept under his bed changed his life. The unidentified man had fished out a giant pearl from the ocean when his anchor got stuck on the rock while sailing off the coastal island in the Philippines ten years ago. When he was forced to sell it, the shocked tourist agent at Puerto Princesa told him that the 77-pound giant pearl that he'd kept hidden in his run-down wooden house was the biggest pearl in the world, which was valued at 76 million pounds. The pearl of Allah, which is currently on display in a New York museum only weighs 14 pounds. That is 5 times smaller than the pearl that the fisherman just handed in. The monstrous pearl measured at one foot wide and 2.2 feet long is going to be verified by local experts and international authorities before hopefully going on display to attract more tourists in the little town.",
+                "zh": "一名菲律宾渔民正感到时运不济，一场房屋火灾迫使他清理自己的财物并搬迁。然后，他一直放在床底下的一个幸运符改变了他的人生。十年前，这名身份不明的男子在菲律宾沿海岛屿附近航行时，锚卡在了岩石上，他从海里捞出了一颗巨型珍珠。当他被迫出售它时，Puerto Princesa的旅游代理震惊地告诉他，他藏在破旧木屋里的这颗重77磅的巨型珍珠是世界上最大的珍珠，价值7600万英镑。目前在纽约一家博物馆展出的Allah之珠仅重14磅，比这名渔民刚刚上交的珍珠小5倍。这颗巨大的珍珠宽1英尺、长2.2英尺，将由当地专家和国际权威机构进行验证，然后有望在这个小镇展出以吸引更多游客。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 8 to 11 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It boasts a fairly long history."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has over 50 business partners."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has 75 offices around the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It produces construction materials."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It was started by his father."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has about 50 employees."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is over 100 years old."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a family business."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Outdated product design."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Loss of competitive edge."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Shortage of raw material supply."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Legal disputes in many countries."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Introducing innovative marketing strategies."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Seeking new ways to increase its exports."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Providing training for its staff members."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Conducting a financial analysis for it.\n\nQuestions 12 to 15 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Mr. Smith, it's a pleasure meeting you.",
+                "zh": "W: Smith先生，很高兴见到您。"
+              },
+              {
+                "en": "M: Nice to meet you, too. What can I do for you?",
+                "zh": "M: 我也很高兴见到你。有什么我能帮你的吗？"
+              },
+              {
+                "en": "W: Well, I'm here to show you what our firm can do for you. Astra Consultants has branches in over 50 countries, offering different business services. We are a global company with 75 years of history, and our clients include some of the world's largest companies.",
+                "zh": "W: 嗯，我来这儿是想向您展示我们公司能为您做些什么。Astra咨询公司在50多个国家设有分支机构，提供各种商业服务。我们是一家拥有75年历史的全球性公司，我们的客户包括一些世界上最大的公司。"
+              },
+              {
+                "en": "M: Thank you, Mrs. Houston. I know Astra Consultants is a famous company. But you said you would show me what you could do for me. Well, what exactly can your firm do for my company?",
+                "zh": "M: 谢谢你，Houston女士。我知道Astra咨询公司是一家知名公司。但你说你要向我展示你们能为我做什么。那么，你们公司具体能为我的公司做些什么呢？"
+              },
+              {
+                "en": "W: We advise businesses on all matters, from market analysis to legal issues, anything a business like yours could need. Our firm offers expert advice. Could I ask you, Mr. Smith, to tell me a little about your company and the challenges you face? That way I could better respond as to how we can help you.",
+                "zh": "W: 我们为企业提供各方面的建议，从市场分析到法律问题，任何像您这样的企业可能需要的服务。我们公司提供专业建议。我能请您，Smith先生，跟我讲一讲您的公司以及您面临的挑战吗？这样我就能更好地回应我们如何能帮助您。"
+              },
+              {
+                "en": "M: Okay, sure. This is a family business started by my grandfather in 1950. We employ just over 100 people. We manufacture and export stone for buildings and other constructions. Our clients usually want a special kind of stone cut in a special design. And that's what we do in our factory. Our main challenge is that our national currency is rising, and we're losing competitive advantage to stone producers in India.",
+                "zh": "M: 好的，当然。这是我祖父在1950年创办的家族企业。我们雇佣了100多名员工。我们制造和出口用于建筑和其他建设的石材。我们的客户通常需要按特殊设计切割的特殊石材。这就是我们在工厂里做的事。我们面临的主要挑战是我们国家的货币在升值，我们正在失去相对于印度石材生产商的竞争优势。"
+              },
+              {
+                "en": "W: I see. That's very interesting. I would suggest that you let us first conduct a financial analysis of your company, together with an analysis of your competitors in India. That way we could offer the best advice on different ways forward for you.",
+                "zh": "W: 我明白了。这很有意思。我建议您让我们先对贵公司进行财务分析，同时分析您在印度的竞争对手。这样我们就能为您提供关于不同发展方向的最佳建议。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She is a real expert at house decorations."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She is really impressed by the man's house."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is well informed about the design business."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is attracted by the color of the sitting room."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "From a construction businessman."
+                  },
+                  {
+                    "l": "B",
+                    "t": "From his younger brother Greg."
+                  },
+                  {
+                    "l": "C",
+                    "t": "From home design magazines."
+                  },
+                  {
+                    "l": "D",
+                    "t": "From a professional interior designer."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The cost was affordable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The style was fashionable."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The effort was worthwhile."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The effect was unexpected."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She'd like him to talk with Jonathan about a new project."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She'd like to show him around her newly-renovated house."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She wants to discuss the house decoration budget with him."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She wants him to share his renovation experience with her."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Wow, congratulations, Simon! The place looks absolutely amazing!",
+                "zh": "W: 哇，恭喜你，Simon！这地方看起来太棒了！"
+              },
+              {
+                "en": "M: Really? You think so?",
+                "zh": "M: 真的吗？你真这么觉得？"
+              },
+              {
+                "en": "W: Of course. I love it. It looks like you had a professional interior designer. But you didn't, did you?",
+                "zh": "W: 当然了。我很喜欢。看起来像是请了专业室内设计师一样。但你没有吧，对吧？"
+              },
+              {
+                "en": "M: No. I did it all by myself with a little help from my brother Greg. He's actually in the construction business, which was really helpful.",
+                "zh": "M: 没有。我全是自己做的，我弟弟Greg帮了点忙。他其实是做建筑行业的，这真的帮了大忙。"
+              },
+              {
+                "en": "W: I honestly am impressed. I know I could probably repaint the walls in my house over a weekend or something, but not a full renovation. Where did you get your ideas? I wouldn't know where to start.",
+                "zh": "W: 我真的很佩服。我知道我可能可以在一个周末之类的时间把家里的墙重新刷一遍，但做不了全面翻修。你的想法是从哪儿来的？我都不知道从哪儿开始。"
+              },
+              {
+                "en": "M: Well, for a while now, I've been regularly buying home design magazines. Every now and then, I'd save a picture I liked. Believe it or not, I had a full notebook of magazine pages. Since my overall style was quite minimal, I thought and hoped a whole renovation wouldn't be too difficult. And sure enough, with Greg's help, it was very achievable.",
+                "zh": "M: 嗯，有一段时间了，我一直定期买家居设计杂志。时不时地，我会保存我喜欢的图片。信不信由你，我有满满一个笔记本的杂志页。因为我整体风格相当简约，我觉得也希望整体翻修不会太难。果然，有Greg的帮忙，这很容易实现。"
+              },
+              {
+                "en": "W: Was it very expensive? I've imagined a project like this could be.",
+                "zh": "W: 花费很贵吗？我想象这样的项目可能会很贵。"
+              },
+              {
+                "en": "M: Actually it was surprisingly affordable. I managed to sell a lot of my old furniture and put that extra money towards the new material. Greg was also able to get some discount materials from a recent project he was working on as well.",
+                "zh": "M: 实际上出乎意料地便宜。我设法卖掉了很多旧家具，把那笔额外的钱用在新材料上。Greg还能从他最近做的一个项目那里弄到一些打折的材料。"
+              },
+              {
+                "en": "W: Great. If you don't mind, I'd like to pick your brains a bit more. Jonathan and I are thinking of renovating our sitting room, not the whole house, not yet anyway. And we'd love to get some inspiration from your experience. Are you free to come over for a coffee early next week?",
+                "zh": "W: 太好了。如果你不介意的话，我想再向你请教一下。Jonathan和我正在考虑翻修我们的客厅，不是整个房子，至少现在还不是。我们很想从你的经验中获得一些灵感。下周初你有空过来喝杯咖啡吗？"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Paying hospital bills for emergency cases."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Doing research on ear, nose and throat diseases."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Removing objects from patients' noses and ears."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Providing routine care for small children."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Children aged one to four are often more curious than older children."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Five- to nine-year-olds are the most likely to put things in their ears."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Many children like to put foreign objects in their mouths."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Many children like to smell things they find or play with."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They want to attract attention."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tend to act out of impulse."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are unaware of the potential risks."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are curious about these body parts.\n\nQuestions 19 to 21 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Removing foreign objects from ears and noses costs England almost three million pounds a year, a study suggests. Children were responsible for the vast majority of cases—95% of objects removed from noses and 85% from ears. Every year an average of 1,218 nose and 2,479 ear removals took place between 2010 and 2016. According to England's Hospital Episode Statistics, children aged one to four were the most likely to need help from doctors for a foreign object in their nose. Five- to nine-year-olds come to the hospital with something in their ears the most. Jewellery items accounted for up to 40% of cases in both the ears and noses of children. Paper and plastic toys were the items removed next most from noses. Cotton buds and pencils were also found in ears. According to the study, the occurrence of foreign objects in children is generally attributed to curiosity. Children have an impulse to explore their noses and ears. This resulted in the accidental entry of foreign objects. Any ear, nose and throat surgeon has many weird stories about wonderful objects found in the noses and ears of children and adults. Batteries can pose a particular danger. In all cases prevention is better than cure. This is why many toys contain warnings about small parts. Recognizing problems early and seeking medical attention is important.",
+                "zh": "一项研究表明，从耳朵和鼻子中取出异物每年给英格兰造成近三百万英镑的费用。儿童占据了绝大多数病例——从鼻子中取出异物的病例占95%，从耳朵中取出的占85%。2010年至2016年期间，平均每年进行1218例鼻腔异物取出和2479例耳部异物取出。根据英格兰医院就诊统计数据，一至四岁的儿童最有可能因鼻腔异物需要医生帮助。五至九岁的儿童因耳朵异物来医院就诊的最多。珠宝饰品占儿童耳朵和鼻子异物病例的40%。从鼻子中取出次多的物品是纸张和塑料玩具。棉签和铅笔也在耳朵中被发现。根据该研究，儿童出现异物的情况通常归因于好奇心。儿童有探索鼻子和耳朵的冲动，这导致了异物的意外进入。任何耳鼻喉外科医生都有许多关于在儿童和成人鼻子和耳朵中发现奇异物品的离奇故事。电池可能会带来特别的危险。在所有情况下，预防胜于治疗。这就是为什么许多玩具包含关于小部件的警告。及早发现问题并寻求医疗救助非常重要。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It gave her a used bicycle."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It paid for her English lessons."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It delivered her daily necessities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It provided her with physical therapy."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Expanding bike-riding lessons."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Providing free public transport."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Offering walking tours to visitors."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Asking local people for donations."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is a sports club."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is a language school."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is a counseling center."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is a charity organization.\n\nQuestions 22 to 25 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Good morning. Today, I would like to talk to you about my charity ReBicycle. But before that, let me introduce someone. This is Leila Rahimi. She was so scared when she first moved to New Zealand that she struggled to leave the house and would spend days working up the courage to walk to the supermarket for basic supplies. After a few months of being quite down and unhappy, she was invited to join a local bike club. At this time, ReBicycle got involved and gave Leila a second-hand bicycle. Within weeks, her depression had begun to ease as she cycled. The bicycle totally changed her life, giving her hope and a true feeling of freedom. To date, ReBicycle has donated more than 200 bikes to those in need, and is now expanding bike-riding lessons as demand soars. With a bike, newcomers here can travel farther but for almost no cost. The three hours a day, they used to spend walking to and from English language lessons, have been reduced to just one hour. Our bike-riding lessons are so successful that we are urgently looking for more volunteers. Learning to ride a bike is almost always more difficult for an adult, and this can take days and weeks, rather than hours. So if any of you have some free time during the weekend, please come join us at ReBicycle and make a difference in someone's life.",
+                "zh": "早上好。今天,我想和大家谈谈我的慈善组织ReBicycle。但在此之前,让我介绍一个人。这位是Leila Rahimi。她刚搬到新西兰时非常害怕,以至于她很难走出家门,需要花好几天时间鼓起勇气走到超市购买基本生活用品。在情绪低落和不快乐了几个月之后,她受邀加入了当地的一个自行车俱乐部。这时,ReBicycle介入并给了Leila一辆二手自行车。几周之内,她的抑郁情绪开始缓解,因为她开始骑车了。自行车彻底改变了她的生活,给了她希望和真正的自由感。迄今为止,ReBicycle已向有需要的人捐赠了200多辆自行车,并且随着需求激增,现在正在扩大自行车骑行课程。有了自行车,这里的新移民可以走得更远,但几乎不需要花费任何成本。他们过去每天花三个小时步行往返英语课程,现在已经减少到只需一个小时。我们的自行车骑行课程非常成功,我们迫切需要更多志愿者。对成年人来说,学习骑自行车几乎总是更困难,这可能需要几天甚至几周的时间,而不是几个小时。所以如果你们中有人在周末有空闲时间,请来加入我们ReBicycle,为他人的生活带来改变。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "How animals deal with lack of gravity."
+                  },
+                  {
+                    "l": "B",
+                    "t": "How mice interact in a new environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "How low gravity affects the human body."
+                  },
+                  {
+                    "l": "D",
+                    "t": "How mice imitate human behavior in space."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They found the space in the cage too small to stay in."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They found it difficult to figure out where they were."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They were not used to the low-gravity environment."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were not sensitive to the changed environment."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They continued to behave as they did in the beginning."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They already felt at home in the new environment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They had found a lot more activities to engage in."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They tried everything possible to escape from the cage."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They changed their routines in space."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They began to eat less after some time."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They behaved as if they were on Earth."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They repeated their activities every day."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Thanks to the International Space Station, we know quite a bit about the effects of low gravity on the human body, but NASA scientists want to learn more. To that end, they have been studying how other species deal with low gravity, specifically focusing on mice. The results are both interesting and humorous. The scientists first sent some mice in a specially designed cage to the International Space Station. The cage allowed them to study the behavior of the mice remotely from Earth via video. As you'll notice in the video, the mice definitely seem uncomfortable at the beginning of the experiment. They move around clumsily, drifting within the small confines of the cage, and do their best to figure out which way is up, but without success. However, it's not long before the mice begin to catch on. They adapt remarkably well to their new environment and even use the lack of gravity to their advantage as they push themselves around the cage. That's when things really get wild. The eleventh day of the experiment shows the mice are not just dealing with the gravity change but actually seem to be enjoying it. Several of the mice are observed running around the cage walls. The scientists wanted to see whether the mice would continue doing the same kinds of activities they were observed doing on Earth. The study showed that the mice kept much of their routines intact, including cleaning themselves and eating when hungry.",
+                "zh": "多亏了国际空间站，我们对低重力环境对人体的影响有了相当多的了解，但NASA的科学家们想了解更多。为此，他们一直在研究其他物种如何应对低重力环境，特别关注小鼠。研究结果既有趣又幽默。科学家们首先将一些小鼠装在specially designed的笼子里送往国际空间站。这个笼子使他们能够通过视频从地球上远程研究小鼠的行为。正如你在视频中注意到的，小鼠在实验开始时显然感到不适。它们笨拙地移动，在笼子的狭小空间内漂浮，并尽最大努力搞清楚哪边是上，但没有成功。然而，没过多久小鼠就开始明白了。它们非常好地适应了新环境，甚至利用失重状态的优势在笼子里推动自己移动。这时事情变得非常有趣。实验的第十一天显示，小鼠不仅在应对重力变化，而且实际上似乎很享受它。观察到几只小鼠在笼子壁上奔跑。科学家们想看看小鼠是否会继续做在地球上观察到的同类活动。研究表明，小鼠基本保持了它们的日常习惯，包括清洁自己和饿了就吃东西。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet4-2020-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "The things people make, and the way they make them, determine how cities grow and decline, and influence how empires rise and fall. So, any disruption to the world's factories"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": ". And that disruption is surely coming. Factories are being digitised, filled with new sensors and new computers to make them quicker, more"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ", and more efficient. Robots are breaking free from the cages that surround them, learning new skills and new ways of working. And 3D printers have long"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "a world where you can make anything, anywhere, from a computerised design. That vision is"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "closer to reality. These forces will lead to cleaner factories, producing better goods at lower prices, personalised to our individual needs and desires. Humans will be"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "many of the dirty, repetitive, and dangerous jobs that have long been a"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "of factory life. Greater efficiency"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "means fewer people can do the same work. Yet factory bosses in many developed countries are worried about a lack of skilled human workers—and see"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "and robots as a solution. But economist Helena Leurent says this period of rapid change in manufacturing is a"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "opportunity to make the world a better place. \"Manufacturing is the one system where you have got the biggest source of innovation, the biggest source of economic growth, and the biggest source of great jobs in the past. You can see it changing. That's an opportunity to"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "that system differently, and if we can, it will have tremendous significance.\""
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "automation"
+        },
+        {
+          "l": "B",
+          "w": "concerns"
+        },
+        {
+          "l": "C",
+          "w": "enormously"
+        },
+        {
+          "l": "D",
+          "w": "fantastic"
+        },
+        {
+          "l": "E",
+          "w": "fascinated"
+        },
+        {
+          "l": "F",
+          "w": "feature"
+        },
+        {
+          "l": "G",
+          "w": "flexible"
+        },
+        {
+          "l": "H",
+          "w": "inevitably"
+        },
+        {
+          "l": "I",
+          "w": "interaction"
+        },
+        {
+          "l": "J",
+          "w": "leaning"
+        },
+        {
+          "l": "K",
+          "w": "matters"
+        },
+        {
+          "l": "L",
+          "w": "moving"
+        },
+        {
+          "l": "M",
+          "w": "promised"
+        },
+        {
+          "l": "N",
+          "w": "shape"
+        },
+        {
+          "l": "O",
+          "w": "spared"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "K"
+        },
+        {
+          "n": 27,
+          "a": "G"
+        },
+        {
+          "n": 28,
+          "a": "M"
+        },
+        {
+          "n": 29,
+          "a": "L"
+        },
+        {
+          "n": 30,
+          "a": "O"
+        },
+        {
+          "n": 31,
+          "a": "F"
+        },
+        {
+          "n": 32,
+          "a": "H"
+        },
+        {
+          "n": 33,
+          "a": "A"
+        },
+        {
+          "n": 34,
+          "a": "D"
+        },
+        {
+          "n": 35,
+          "a": "N"
+        }
+      ]
+    },
+    "matching": {
+      "title": "The History of the Lunch Box",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "It was made of shiny, bright pink plastic with a Little Mermaid sticker on the front, and I carried it with me nearly every single day. My lunch box was one of my first prized possessions, a proud statement to everyone in my kindergarten: \"I love Mermaid-Ariel on my lunch box.\""
+        },
+        {
+          "l": "B",
+          "t": "That bulky container served me well through my first and second grades, until the live-action version of 101 Dalmatians hit theaters, and I needed the newest red plastic box with characters like Pongo and Perdita on the front. I know I'm not alone here—I bet you loved your first lunchbox, too."
+        },
+        {
+          "l": "C",
+          "t": "Lunch boxes have been connecting kids to cartoons and TV shows and super-heroes for decades. But it wasn't always that way. Once upon a time, they weren't even boxes. As schools have changed in the past century, the midday meal container has evolved right along with them."
+        },
+        {
+          "l": "D",
+          "t": "Let's start back at the beginning of the 20th century—the beginning of the lunch box story, really. While there were neighborhood schools in cities and suburbs, one-room schoolhouses were common in rural areas. As grandparents have been saying for generations, kids would travel miles to school in the countryside (often on foot)."
+        },
+        {
+          "l": "E",
+          "t": "\"You had kids in rural areas who couldn't go home from school for lunch, so bringing your lunch wrapped in a cloth, in oiled paper, in a little wooden box or something like that was a very long-standing rural tradition,\" says Paula Johnson, head of food history section at the Smithsonian National Museum of American History in Washington, D.C."
+        },
+        {
+          "l": "F",
+          "t": "City kids, on the other hand, went home for lunch and came back. Since they rarely carried a meal, the few metal lunch buckets on the market were mainly for tradesmen and factory workers."
+        },
+        {
+          "l": "G",
+          "t": "After World War II, a bunch of changes reshaped schools—and lunches. More women joined the workforce. Small schools consolidated into larger ones, meaning more students were farther away from home. And the National School Lunch Act in 1946 made cafeterias much more common. Still, there wasn't much of a market for lunch containers—yet. Students who carried their lunch often did so in a re-purposed bucket or tin of some kind."
+        },
+        {
+          "l": "H",
+          "t": "And then everything changed in the year of 1950. You might as well call it the Year of the Lunch Box, thanks in large part to a genius move by a Nashville-based manufacturer, Aladdin Industries. The company already made square metal meal containers, the kind workers carried, and some had started to show up in the hands of school kids."
+        },
+        {
+          "l": "I",
+          "t": "But these containers were really durable, lasting years on end. That was great for the consumer, not so much for the manufacturer. So executives at Aladdin hit on an idea that would harness the newfound popularity of television. They covered lunch boxes with striking red paint and added a picture of TV and radio cowboy Hopalong Cassidy on the front."
+        },
+        {
+          "l": "J",
+          "t": "The company sold 600,000 units the first year. It was a major \"Ah-ha!\" moment, and a wave of other manufacturers jumped on board to capitalize on new TV shows and movies. \"The Partridge Family, the Addams Family, the Six Million Dollar Man, the Bionic Woman—everything that was on television ended up on a lunch box,\" says Allen Woodall. He's the founder of the Lunch Box Museum in Columbus, Georgia. \"It was a great marketing tool because kids were taking that TV show to school with them, and then when they got home they had them captured back on TV,\" he says."
+        },
+        {
+          "l": "K",
+          "t": "And yes, you read that right: There is a lunch box museum, right near the Chattahoochee River. Woodall has more than 2,000 items on display. His favorite? The Green Hornet lunch box, because he used to listen to the radio show back in the 1940s."
+        },
+        {
+          "l": "L",
+          "t": "The new trend was also a great example of planned obsolescence, that is, to design a product so that it will soon become unfashionable or impossible to use and will need replacing. Kids would beg for a new lunch box every year to keep up with the newest characters, even if their old lunchbox was perfectly usable."
+        },
+        {
+          "l": "M",
+          "t": "The metal lunch box craze lasted until the mid-1980s, when plastic took over. Two theories exist as to why. The first—and most likely—is that plastic had simply become cheaper. The second theory—possibly an urban myth—is that concerned parents in several states proposed bans on metal lunch boxes, claiming kids were using them as \"weapons\" to hit one another. There's a lot on the internet about a state-wide ban in Florida, but a few days worth of digging by a historian at the Florida State Historical Society found no such legislation. Either way, the metal lunch box was out."
+        },
+        {
+          "l": "N",
+          "t": "The last few decades have brought a new lunch box revolution, of sorts. Plastic boxes changed to lined cloth sacks, and eventually, globalism brought tiffin containers from India and bento boxes from Japan. Even the old metal lunch boxes have regained popularity. \"I don't think the heyday(鼎盛时期) has passed,\" says D.J. Jayasekara, owner and founder of lunchbox.com, a retailer in Pasadena, California. \"I think it has evolved. The days of the ready-made, 'you stick it in a lunchbox and carry it to school' are kind of done.\""
+        },
+        {
+          "l": "O",
+          "t": "The introduction of backpacks changed the lunch box scene a bit, he adds. Once kids started carrying book bags, that bulky traditional lunch box was hard to fit inside. \"But you can't just throw a sandwich in a backpack,\" Jayasekara says. \"It still has to go into a container.\" That is, in part, why smaller and softer containers have taken off—they fit into backpacks."
+        },
+        {
+          "l": "P",
+          "t": "And don't worry—whether it's a plastic bento box or a cloth bag, lunch containers can still easily be covered with popular culture. \"We keep pace with the movie industries so we can predict which characters are going to be popular for the coming months,\" Jayasekara says. \"You know, kids are kids.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Lunch containers were not necessary for school kids in cities.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "Putting TV characters on lunch boxes proved an effective marketing strategy.",
+          "a": "J"
+        },
+        {
+          "n": 38,
+          "s": "Smaller lunch boxes are preferred because they fit easily into backpacks.",
+          "a": "O"
+        },
+        {
+          "n": 39,
+          "s": "Lunch boxes have evolved along with the transformation of schools.",
+          "a": "C"
+        },
+        {
+          "n": 40,
+          "s": "Around the beginning of the nineteen fifties, some school kids started to use metal meal containers.",
+          "a": "H"
+        },
+        {
+          "n": 41,
+          "s": "School kids are eager to get a new lunch box every year to stay in fashion.",
+          "a": "L"
+        },
+        {
+          "n": 42,
+          "s": "Rural kids used to walk a long way to school in the old days.",
+          "a": "D"
+        },
+        {
+          "n": 43,
+          "s": "The author was proud of using a lunch box in her childhood.",
+          "a": "A"
+        },
+        {
+          "n": 44,
+          "s": "The most probable reason for the popularity of plastic lunch boxes is that they are less expensive.",
+          "a": "M"
+        },
+        {
+          "n": 45,
+          "s": "The durability of metal meal containers benefited consumers.",
+          "a": "I"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "A growing number of U.S. bike riders are attracted to electric bikes for convenience, health benefits and their fun factor. Although ebikes first appeared in the 90s, cheaper options and longer-lasting batteries are breathing new life into the concept. Established bike companies and startups are embracing ebikes to meet demand. About 34 million ebikes were sold worldwide last year, according to data from eCycleElectric Consultants. Most were sold in Europe and China, where the bikes already have exploded in popularity. Recently, the U.S. market has grown to 263,000 bikes, a 25% gain from the prior year. The industry is benefiting from improved batteries as suppliers over the years developed technology for laptops, smartphones and electric cars. In 2004, the price of batteries used on ebikes fell, spurring European sales. But lower cost options are emerging, too. This month, three U.S. bikeshare companies, Motivate, LimeBike and Spin, announced electric bicycles will be added to their fleets. New York-based Jump Bikes is already operating an electric bikeshare in Washington, D.C., and is launching in San Francisco Thursday. Rides cost $2 for 30 minutes. The system works like existing dockless bikeshare systems, where riders unlock bikes through a smartphone app. \"This is the beginning of a long-term shift away from regular pedal(踏板) to electric bikes,\" said Jump Bikes CEO Ryan Rzepecki. \"When people first jump on an ebike, their face lights up. It's exciting and joyful in a way that you don't get from a regular bike.\" Two years ago, CEO Chris Cocalis of Pivot Cycles, which sells high-end mountain bikes, found that U.S. bike shops weren't interested in stocking ebikes. Some retailers warned Cocalis that they'd drop the brand if it came out with an electric bike. Now that sales are taking off, the vast majority of bike dealers are asking Cocalis when he'll make an ebike available. \"There's tremendous opportunity to get a generation of people for whom suffering isn't their thing,\" Cocalis said. \"Ebike riders get the enjoyable part of cycling without the massive suffering of climbing huge hills.\"",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn from the passage about ebikes?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their health benefits and fun values outweigh their cost."
+              },
+              {
+                "l": "B",
+                "t": "They did not catch public attention in the United States until the 1990s."
+              },
+              {
+                "l": "C",
+                "t": "They did not become popular until the emergence of improved batteries."
+              },
+              {
+                "l": "D",
+                "t": "Their widespread use is attributable to people's environmental awareness."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "What brought about the boost in ebike sales in Europe at the beginning of the century?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Updated technology of bike manufacture."
+              },
+              {
+                "l": "B",
+                "t": "The falling prices of ebike batteries."
+              },
+              {
+                "l": "C",
+                "t": "Changed fashion in short-distance travel."
+              },
+              {
+                "l": "D",
+                "t": "The rising costs for making electric cars."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What is the prospect of the bike industry according to Ryan Rzepecki?",
+            "o": [
+              {
+                "l": "A",
+                "t": "More will be invested in bike battery research."
+              },
+              {
+                "l": "B",
+                "t": "The sales of ebikes will increase."
+              },
+              {
+                "l": "C",
+                "t": "It will profit from ebike sharing."
+              },
+              {
+                "l": "D",
+                "t": "It will make a difference in people's daily lives."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 49,
+            "s": "What prevented Chris Cocalis from developing ebikes sooner?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Retailers' refusal to deal in ebikes."
+              },
+              {
+                "l": "B",
+                "t": "High profits from conventional bikes."
+              },
+              {
+                "l": "C",
+                "t": "Users' concern about risks of ebike riding."
+              },
+              {
+                "l": "D",
+                "t": "His focus on selling costly mountain bikes."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 50,
+            "s": "What makes Chris Cocalis believe there is a greater opportunity for ebike sales?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The further lowering of ebike prices."
+              },
+              {
+                "l": "B",
+                "t": "The public's concern for their health."
+              },
+              {
+                "l": "C",
+                "t": "The increasing interest in mountain climbing."
+              },
+              {
+                "l": "D",
+                "t": "The younger generation's pursuit of comfortable riding."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "The terms \"global warming\" and \"climate change\" are used by many, seemingly interchangeably. But do they really mean the same thing? Scientists shaped the history of the terms while attempting to accurately describe how humans continue to alter the planet. Later, political strategists adopted the terms to influence public opinion. In 1975, geochemist Wallace Broecker introduced the term \"climate change\" in an article published by Science. In 1979, a National Academy of Sciences report used the term \"global warming\" to define increases in the Earth's average surface temperature, while \"climate change\" more broadly referred to the numerous effects of this increase, such as sea-level rise and ocean acidification(酸化). During the following decades, some industrialists and politicians launched a campaign to sow doubt in the minds of the American public about the ability of fossil-fuel use, deforestation and other human activities to influence the planet's climate. Word use played a critical role in developing that doubt. For example, the language and polls expert Frank Luntz wrote a memo encouraging the use of \"climate change\" because the phrase sounded less scary than \"global warming,\" reported the Guardian. However, Luntz's recommendation wasn't necessary. A Google Ngram Viewer chart shows that by 1993 climate change was already more commonly used in books than global warming. By the end of the next decade both words were used more frequently, and climate change was used nearly twice as often as global warming. NASA used the term \"climate change\" because it more accurately reflects the wide range of changes to the planet caused by increasing amounts of greenhouse gases in the atmosphere. The debate isn't new. A century ago, chemist Svante Arrhenius started one of the first debates over the potential for humans to influence the planet's climate. Arrhenius calculated the capability of carbon dioxide to trap heat in the Earth's atmosphere, but other chemists disagreed. Some argued that humans weren't producing enough greenhouse gases, while others claimed the effects would be tiny. Now, of course, we know that whatever you call it, human behavior is warming the planet, with grave consequences ahead.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "Why did politicians use the two terms \"global warming\" and \"climate change\"?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To sway public opinion of the impact of human activities on Earth."
+              },
+              {
+                "l": "B",
+                "t": "To more accurately describe the consequences of human activities."
+              },
+              {
+                "l": "C",
+                "t": "To win more popular votes in their campaign activities."
+              },
+              {
+                "l": "D",
+                "t": "To assure the public of the safety of existing industries."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 52,
+            "s": "As used in a National Academy of Sciences report, the term \"climate change\" differs from \"global warming\"\n in that_________.",
+            "o": [
+              {
+                "l": "A",
+                "t": "it sounds less vague"
+              },
+              {
+                "l": "B",
+                "t": "it looks more scientific"
+              },
+              {
+                "l": "C",
+                "t": "it covers more phenomena"
+              },
+              {
+                "l": "D",
+                "t": "it is much closer to reality"
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 53,
+            "s": "What did industrialists of the late 20th century resort to in order to mislead Americans?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Made-up survey results."
+              },
+              {
+                "l": "B",
+                "t": "False research findings."
+              },
+              {
+                "l": "C",
+                "t": "Hired climate experts."
+              },
+              {
+                "l": "D",
+                "t": "Deliberate choice of words."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 54,
+            "s": "Why did NASA choose the term \"climate change\"?",
+            "o": [
+              {
+                "l": "A",
+                "t": "To obtain more funds."
+              },
+              {
+                "l": "B",
+                "t": "For greater precision."
+              },
+              {
+                "l": "C",
+                "t": "For political needs."
+              },
+              {
+                "l": "D",
+                "t": "To avoid debate."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What is the author's final conclusion?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Global warming is the more accurate term."
+              },
+              {
+                "l": "B",
+                "t": "Accuracy of terminology matters in science."
+              },
+              {
+                "l": "C",
+                "t": "Human activities have serious effects on Earth."
+              },
+              {
+                "l": "D",
+                "t": "Politics interferes with serious scientific debate."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "鱼是春节前夕餐桌上不可或缺的一道菜,因为汉语中\"鱼\"字的发音与\"余\"字的发音相同。正由于这个象征性 的意义,春节期间鱼也作为礼物送给亲戚朋友。鱼的象征意义据说源于中国传统文化。中国人有节省的传统,他 们认为节省得愈多,就感到愈为安全。今天,尽管人们愈来愈富裕了,但他们仍然认为节省是一种值得弘扬的美 德。",
+    "reference": "Fish is an indispensable dish on the dinner table on the Spring Festival Eve, because the Chinese character 鱼 (fish) has the same pronunciation as 余 (surplus). Because of this symbolic meaning, fish is also given as a gift to relatives and friends during the Spring Festival. The symbolic meaning of fish is said to originate from traditional Chinese culture. The Chinese have a tradition of being thrifty, and they believe that the more they save, the more secure they feel. Today, although people are getting richer and richer, they still believe that thrift is a virtue worth promoting."
+  }
+}

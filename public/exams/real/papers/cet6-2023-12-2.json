@@ -1,0 +1,1357 @@
+{
+  "id": "cet6-2023-12-2",
+  "level": "cet6",
+  "year": 2023,
+  "month": 12,
+  "set": 2,
+  "title": "2023年12月 六级 第2套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence “Nowadays parents are increasingly aware that allowing kids more freedom to explore and learn on their own helps foster their independence and boost their confidence.” You can make comments, cite examples or use your personal experiences to develop your essay.You should write at least 150 words but no more than 200 words(not including the sentence given).",
+    "sample": "Nowadays parents are increasingly aware that allowing kids more freedom to explore and learn on their own helps foster their independence and boost their confidence. This shift in parenting reflects a valuable truth: children grow strongest not when every step is arranged for them, but when they are trusted to try, fail, and try again.To begin with, freedom teaches independence in a way no lecture ever could. A child who is allowed to plan a weekend trip, cook a simple meal, or solve a quarrel with friends gradually learns to rely on his own judgment. Take my younger cousin, for example. When his mother stopped correcting his every homework mistake and let him check the answers himself, his grades slowly improved, and, more importantly, he began tackling new problems without fear. Each small success became a brick building his confidence.In this way, granting children the room to explore freely is not a risk but a wise investment. As a result, they mature into adults who dare to think, decide, and stand on their own feet."
+  },
+  "listening": {
+    "audio": "",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Renting a car instead of driving their own."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Surfing online to check out the best deals."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Exploring more summer holiday resorts."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Spending their holidays in a novel way."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He once owned a van."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He was well travelled."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He did not find holiday homes appealing."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He did not like to be locked into one place."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Ensure the safety of passengers."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Drive under any weather condition."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Receive instructions via computers."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Generate their own electricity."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Having one's basic needs covered while away from home."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Enjoying the freedom to choose where to go and work."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Slowing down in one's increasingly hectic life."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Riding one's mountain bike on vacation.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: So, I've been thinking, this summer, instead of our usual holiday rental, I'd like to try renting a camper van and exploring a bit more.",
+                "zh": "W: 我一直在想，今年夏天，我们不如不租平常那种度假屋，试试租一辆露营车，到处多探索一下。"
+              },
+              {
+                "en": "M: A camper van? You mean to spend the summer living out of a car?",
+                "zh": "M: 露营车？你的意思是整个夏天都住在车里？"
+              },
+              {
+                "en": "W: Yes, a camper van. And no, it's nothing like living out of a car. These are proper vans with full-size beds to sleep in. Some even have kitchens. This way, we wouldn't have to be locked into one place during our holiday. We'd be able to visit so many more places and travel at our own pace. The rates of most hotels and holiday homes really soar in the summer anyway. We'd probably save a lot of money as well.",
+                "zh": "W: 对，露营车。不过，这跟住在车里完全不是一回事。这种车是真正的厢式车，里面有全尺寸的床可以睡，有些甚至还带厨房。这样一来，度假的时候我们就不用被固定在一个地方了。我们可以多去很多地方，按照自己的节奏旅行。反正夏天大多数酒店和度假屋的价格都会大幅上涨。这样我们可能还能省下一大笔钱。"
+              },
+              {
+                "en": "M: I think my grandfather had a van like that. It doesn't sound that appealing to me.",
+                "zh": "M: 我觉得我爷爷以前就有一辆那样的车。听起来对我没那么有吸引力。"
+              },
+              {
+                "en": "W: Today's camper vans are completely different. These days, they're equipped with all the modern comforts. I've seen quite a few with solar panels that provide electricity for when you're stopped. This way, you can still use your computer or charge your phone. And most even have Wi-Fi, so if the weather's not great, you could stream videos.",
+                "zh": "W: 现在的露营车完全不一样了。如今，它们都配备了各种现代化的舒适设施。我见过不少装有太阳能电池板的露营车，停车时可以用来供电。这样你仍然可以使用电脑或给手机充电。而且大多数车甚至还配有 Wi-Fi，所以如果天气不太好，你还可以在线看视频。"
+              },
+              {
+                "en": "M: I'm warming up to the idea. Keep talking.",
+                "zh": "M: 我开始有点接受这个想法了。继续说。"
+              },
+              {
+                "en": "W: Loads of people are committing to this trend full time. Check it out online. Lots of people stream videos of their alternative lifestyles and actually earn a salary. Imagine having that kind of freedom to go anywhere you want and work from anywhere in the world.",
+                "zh": "W: 现在有很多人全职投入这种生活方式。你可以上网看看。很多人把自己的另类生活方式拍成视频直播，实际上还能赚到工资。想想看，要是能拥有那样的自由，想去哪儿就去哪儿，还能在世界任何地方工作，那该多好。"
+              },
+              {
+                "en": "M: Okay, we can consider it. As long as the basic needs like toilet and showers are covered, I'm definitely in. Do you think there will be enough room for my mountain bike? What about food delivery? Will we be able to order at the van? Will there be enough space for the dog? We wouldn't want to leave him behind.",
+                "zh": "M: 好吧，我们可以考虑一下。只要厕所和淋浴之类的基本需求能得到满足，我肯定参加。你觉得我的山地车有足够的地方放吗？那食物配送呢？我们能在露营车这里点外卖吗？狗狗有足够的空间吗？我们可不想把它丢在家里。"
+              },
+              {
+                "en": "W: Slow down. Glad you're excited about it. Let's start by looking at what's available first.",
+                "zh": "W: 别急。很高兴你这么兴奋。我们先看看现在有哪些选择吧。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She has missed several important appointments lately."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Her job performance has worsened over the past month."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She has lagged behind most of her co-workers in output."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Her physical health has deteriorated these past few weeks."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Serious health issues."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Disturbance of her mind."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Some problems at home."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Penalty for curtailed output."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The woman's work proficiency."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The woman's whole-hearted support."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His engaging personality."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His management capability."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The woman will resume her work in two weeks."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The man will be back at his 100% in a couple of weeks."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The woman will be off work on the next two Mondays."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The man will help the woman get back to her usual self."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: You wanted to see me?",
+                "zh": "W: 你找我？"
+              },
+              {
+                "en": "M: Yes, I'll get straight to the point. Over the past month or so, it has become apparent that your performance has dipped. You've been late to work several times these past few weeks, which is very uncharacteristic of you. But what really concerns me is your curtailed output. Lately, you seem to be constantly one step behind. What's going on?",
+                "zh": "M: 是的，我就直说了。过去一个月左右，很明显你的工作表现有所下滑。最近几周你迟到过好几次，这很不像平时的你。但真正让我担心的是你的工作产出减少了。最近你似乎总是慢人一步。到底怎么回事？"
+              },
+              {
+                "en": "W: I'm sorry. I'm going through some unfortunate family issues at the moment. It's a personal matter, so if you don't mind, I much prefer we don't get into it. Nevertheless, I expect it to have all blown over in another month or so.",
+                "zh": "W: 对不起。我最近正面临一些不幸的家庭问题。这是私事，所以如果你不介意的话，我很希望我们不要谈这个。不过，我预计再过一个月左右，一切应该就会平息下来。"
+              },
+              {
+                "en": "M: Do you need some time off?",
+                "zh": "M: 你需要请一段时间假吗？"
+              },
+              {
+                "en": "W: Actually, yes. Would it be possible to take the next two Mondays off? I was deliberating whether I should ask for this, but now that we're here…",
+                "zh": "W: 其实，是的。下两个星期一我可以请假吗？我之前一直在犹豫要不要提出这个请求，不过既然我们现在谈到这儿了……"
+              },
+              {
+                "en": "M: Sure thing. But if you needed some leave, why didn't you ask for it earlier?",
+                "zh": "M: 当然可以。但如果你需要休假，为什么不早点申请呢？"
+              },
+              {
+                "en": "W: I'm not sure why. I guess I kind of felt bad asking for it.",
+                "zh": "W: 我也不知道为什么。我想我只是觉得提出休假请求不太好。"
+              },
+              {
+                "en": "M: You shouldn't feel bad asking for leave, especially if you need it.",
+                "zh": "M: 你不应该因为请假而感到不好意思，尤其是在你确实需要休假的时候。"
+              },
+              {
+                "en": "W: I know. You're right. I'm sorry.",
+                "zh": "W: 我知道。你说得对。对不起。"
+              },
+              {
+                "en": "M: Look, you've been with us almost five years and I personally really value your proficiency at your job. It makes my job far easier. In addition, I can assure you that management as a whole also holds you in high regard.",
+                "zh": "M: 听着，你在我们这儿工作快五年了，而我个人确实非常看重你的工作能力。这让我的工作轻松多了。另外，我可以向你保证，管理层整体上也非常认可你。"
+              },
+              {
+                "en": "W: Thank you.",
+                "zh": "W: 谢谢。"
+              },
+              {
+                "en": "M: What I need is for you to be back at your 100%. Are you sure taking two Mondays off will suffice?",
+                "zh": "M: 我需要的是你恢复到百分之百的状态。你确定只休两个星期一就够了吗？"
+              },
+              {
+                "en": "W: It'll be enough. I'm sure of it.",
+                "zh": "W: 够了。我确定。"
+              },
+              {
+                "en": "M: Okay, good. So this is what we're going to do. You will take those days off, and I expect that you will gradually come back to your usual self. Then in two months' time, we will catch up again to see how you are faring.",
+                "zh": "M: 好，那就好。我们这样安排：你把那几天休掉，我希望你能逐渐恢复到平时的状态。两个月后，我们再聊一次，看看你目前的情况。"
+              },
+              {
+                "en": "W: Sounds good. Thank you for your understanding.",
+                "zh": "W: 听起来不错。谢谢你的理解。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It can have an impact on our moods and emotions."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It can enable us to live a healthier and longer life."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It can improve our financial status significantly."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It can help us achieve better work performance."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "One's health tends to differ before and after marriage."
+                  },
+                  {
+                    "l": "B",
+                    "t": "One's health status is related to one's social background."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The wealthier one's spouse is, the healthier one becomes."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The spouse's level of education can impact one's health."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They benefited a lot from their career achievements."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They showed interest in their spouse's occupations."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They had much in common with their spouses."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They had more education than their spouses.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "There are many factors that impact our health. These include our finances, our emotions and the way we work. Education is one such factor. Research suggests that higher levels of education can lead to better health and even greater longevity. But what about the education of your partner? New research seeks to answer this question. Researchers use data from a longitudinal study. The data came from surveys first administered to high school seniors in 1957. The surveys ended in 2011. The team found that a person whose spouse had a higher level of education tended to report better health. This remained the case when adjusting for other factors, such as participants' own education, social background and health status before and after marriage. The authors suggest that high levels of education provide shared social, intellectual, emotional and financial resources. These include things like higher levels of emotional intelligence, particular skills or knowledge, or more money. The researchers concede that an individual's own level of education is clearly important for their health, but they assert that individuals also can reap the benefits of their partner's education. It is noteworthy that the effects vary by gender. For women, health was more closely correlated to their spouse's education than for men. The team suggests this may be related to the time period of the study. Women in this sample had lower levels of education and lower occupational achievements than the men. The researchers' hypothesis is that this made the husband's resources more likely to have a shared impact.",
+                "zh": "有许多因素会影响我们的健康，包括我们的经济状况、情绪以及工作方式。教育就是其中一个因素。研究表明，较高的教育水平可能带来更好的健康状况，甚至更长的寿命。那么，伴侣的教育水平又会怎样呢？一项新的研究试图回答这个问题。研究人员使用了一项纵向研究的数据。这些数据来自1957年首次对高中毕业生进行的调查，调查于2011年结束。研究团队发现，配偶受教育程度较高的人往往会报告更好的健康状况。在对其他因素进行调整后，这一情况依然成立，这些因素包括参与者自身的教育程度、社会背景，以及婚前和婚后的健康状况。研究作者认为，较高的教育水平能够提供共享的社会、智力、情感和经济资源。这些资源包括更高的情商、特定的技能或知识，或者更多的钱。研究人员承认，个人自身的教育水平显然对其健康很重要，但他们指出，个人也能从伴侣的教育水平中获益。值得注意的是，这些影响因性别而异。对女性而言，健康状况与配偶教育水平的相关性比男性更密切。研究团队认为，这可能与研究所处的时代有关。该样本中的女性教育水平较低，职业成就也低于男性。研究人员的假设是，这使得丈夫所拥有的资源更有可能对夫妻双方产生共同影响。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Eliminating their root cause."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Forecasting flood risks accurately."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Identifying the cities' geological features."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Finding out the changing climate patterns."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To validate his hypothesis about the gravity of floods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To determine the frequency of high tides causing floods."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To improve his mathematical flooding model."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To see the feasibility of his project on flooding."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To study the consequences of high tides on flooded areas."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To teach local citizens how to collect data of incoming floods."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To forecast rapid floods in real time."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To classify the flooding data processed."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They set up Internet-connected water-level sensors."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They tracked the rising tides with video-cameras."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They used newly-developed supercomputing facilities."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They observed the direction of water flow on the spot."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Climate scientists predict that many parts of the world will be increasingly prone to floods. This is a serious risk to human lives and property. So understanding and accurately forecasting flood risks is a key challenge for vulnerable cities around the globe. In 2017, Derek Loftis of the Virginia Institute of Marine Science started a project called Catch the King. It uses a smartphone app to collect the data of ordinary citizens during high tides. He'll use those data to validate and improve his mathematical flooding model, called TideWatch. Loftis's mission is to know where the water goes before it goes there. But collecting necessary data and then processing that information quickly enough to make usable forecasts is anything but easy. Accurate flood forecasts require an understanding of the situation on the ground. By the early 2000s, supercomputing had advanced enough that scientists could integrate weather forecasting models with such measurements. But they still didn't have the critically important ability to forecast fast-moving floods in real time. So, in 2017, Loftis and colleagues set up a group of 28 Internet-connected water-level sensors throughout the flood risk community of Norfolk, Virginia. The new sensors relayed rough measurements about water height and movement to a computer at the Virginia Institute. Along with those sensors, hundreds of local citizens take photos of rising tides and transmit them in real time to the institute. Scientists hope that the data collected by these citizens can help sharpen the ability to forecast exactly when and where damaging floods will occur.",
+                "zh": "气候科学家预测，世界许多地区将越来越容易发生洪水。这对人类生命和财产构成严重风险。因此，了解并准确预测洪水风险，是全球易受影响城市面临的关键挑战。2017年，弗吉尼亚海洋科学研究所的德里克·洛夫蒂斯启动了一个名为“Catch the King”的项目。该项目利用一款智能手机应用，在高潮期间收集普通市民提供的数据。他将利用这些数据验证并改进自己的数学洪水模型，该模型名为“TideWatch”。洛夫蒂斯的使命，是在水流到某处之前弄清楚它将流向哪里。然而，收集必要的数据，并随后足够迅速地处理这些信息，以便做出可用的预报，绝非易事。准确的洪水预报需要了解地面实际情况。到21世纪初，超级计算技术已经发展到足以让科学家将天气预报模型与此类测量数据结合起来。但他们仍然不具备实时预测快速移动洪水这一至关重要的能力。因此，2017年，洛夫蒂斯和同事在弗吉尼亚州诺福克的洪水风险社区内设置了一个由28个联网水位传感器组成的网络。新传感器将有关水位高度和移动情况的粗略测量结果传送到弗吉尼亚海洋科学研究所的一台计算机上。除了这些传感器之外，数百名当地市民还拍摄潮水上涨的照片，并将照片实时传送给该研究所。科学家希望，这些市民收集的数据能够帮助提高预测能力，从而准确预报破坏性洪水将在何时何地发生。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To argue about the value of a college degree."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To debate the validity of current survey data."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To account for the drastic decline in employment among men."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To compare men without college degrees with those who have."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The increase in women taking up jobs."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The issue of changing job requirements."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The factor of wages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The impact of inflation."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Men's unwillingness to accept low wages in times of growing inflation."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The wage gap between those with college degrees and those without."
+                  },
+                  {
+                    "l": "C",
+                    "t": "More jobs requiring their holders to have a college degree nowadays."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The sharp decline in marriage among men with no college degrees.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Now, it's become something of a ritual to debate the value of a college degree, but as Current Population Survey data show, there has been a sharp decline in employment among men without college degrees compared with those who have them. This decline began in the 1960s and has become more serious over time.",
+                "zh": "如今，讨论大学学位价值已经成了某种惯例，但正如当前人口调查数据显示的那样，与拥有大学学位的男性相比，没有大学学位的男性就业率出现了大幅下降。这种下降始于20世纪60年代，并且随着时间推移变得更加严重。"
+              },
+              {
+                "en": "What has actually caused this decline? Well, economists have been working to ascertain the roots of the decline for decades and have come up with several theories. One popular theory is that it's a case of too low wages for jobs that don't require a degree. An alternate theory is that there were more jobs not requiring a college degree in the past than now.",
+                "zh": "究竟是什么导致了这种下降？几十年来，经济学家一直在努力探究其根源，并提出了几种理论。一种流行的理论认为，这是因为不要求大学学位的工作薪资过低。另一种理论则认为，过去不要求大学学位的工作比现在更多。"
+              },
+              {
+                "en": "A recent working paper from the National Bureau of Economic Research reviewed those theories and put forward additional hypotheses about the causes of the problem. Let's look at that paper now. First, the researchers considered the issue of wages. As the wage gap has grown between those with college degrees and those without, economists have suggested that men aren't as interested in taking some of the less lucrative jobs. While the authors of the paper found truth in this explanation, they assert that low wages can't be the only factor, as wages for men without college degrees, adjusting for inflation, haven't changed much since the 1960s, making it hard to see why fewer men seem willing to accept those wages.",
+                "zh": "美国国家经济研究局最近的一篇工作论文审视了这些理论，并进一步提出了有关这一问题成因的其他假设。现在让我们来看看这篇论文。首先，研究人员考察了工资问题。由于大学毕业者与未获得大学学位者之间的工资差距不断扩大，经济学家认为，男性对从事一些收入较低的工作不再那么感兴趣。虽然论文作者发现这种解释有一定道理，但他们断言，低工资不可能是唯一因素，因为没有大学学位男性的工资按通货膨胀调整后，自20世纪60年代以来并没有太大变化，这使人们难以理解为什么似乎有更少的男性愿意接受这样的工资。"
+              },
+              {
+                "en": "This leads to the second theory, that more jobs require a college degree today than in the past. Indeed, that theory seems valid, because in America today, 2/3 of jobs are filled by workers with at least some college education. However, the authors of the paper argue that there are other factors amplifying the problem.",
+                "zh": "这就引出了第二种理论，即如今比过去有更多的工作要求求职者拥有大学学位。事实上，这一理论似乎是成立的，因为在今天的美国，三分之二的工作由至少接受过部分大学教育的劳动者担任。然而，论文作者认为，还有其他因素加剧了这一问题。"
+              },
+              {
+                "en": "They identified two new potential explanations: the first being the tremendous decline in marriage among men without college degrees since the 1960s; and the second being the increase in women participating in the workforce that was concurrent with the decline in marriage. These two changes mean that men might not have families to support, or if they do, their wives might be doing more of the providing, both of which might remove the financial incentive to work. The authors of the paper concede that research on the subject isn't complete, but they argue that their work supports the value of a college education.",
+                "zh": "他们找出了两种新的潜在解释：第一，自20世纪60年代以来，没有大学学位男性的结婚率大幅下降；第二，女性参与劳动力市场的比例有所上升，而这一变化与结婚率下降同时发生。这两种变化意味着，男性可能没有需要供养的家庭；即使有，他们的妻子也可能承担了更多供养家庭的责任，而这两种情况都可能削弱男性工作的经济激励。论文作者承认，对这一问题的研究尚未完成，但他们认为，其研究成果支持接受大学教育的价值。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "More and more people attach importance to protecting endangered animals."
+                  },
+                  {
+                    "l": "B",
+                    "t": "More and more people prioritize animal welfare when buying things to wear."
+                  },
+                  {
+                    "l": "C",
+                    "t": "An increasing number of people demand to free animals being kept in cages."
+                  },
+                  {
+                    "l": "D",
+                    "t": "An increasing number of people follow the latest trend of becoming vegetarians."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Avoided the use of leather and fur."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Labelled all their products as vegan."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Refrained from using chemicals in their products."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Utilized a silk substitute made from mushrooms."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Whether they actually signify a substantial change."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Whether they effectively protect animals at large."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Whether they can be considered sustainable."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Whether they can be regarded as ethical.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "While an increasing number of people are trying to eat less meat, a market research team has found in its latest fashion and sustainability report that the trend is now spreading from kitchen to closet. It found animal welfare came top of a list of issues that people considered before buying clothes, with 42% saying it was important to them. The researchers of the team predicted that the next year would see a boom in animal-free shoe collections, since they heard shoppers of all ages say they would buy footwear designated as \"vegan\", meaning the goods were produced without using any animal or animal part.",
+                "zh": "尽管越来越多的人正在努力少吃肉，但一个市场研究团队在其最新的时尚与可持续发展报告中发现，这一趋势如今正从厨房蔓延到衣柜。报告发现，在人们购买服装前考虑的一系列问题中，动物福利位居首位，42%的人表示这对他们很重要。该团队的研究人员预测，明年不使用动物材料的鞋类系列将迎来蓬勃发展，因为他们听到各个年龄段的消费者都表示愿意购买标有“纯素”字样的鞋类，这意味着这些商品的生产没有使用任何动物或动物的一部分。"
+              },
+              {
+                "en": "As well as being on trend, and with a much better ring to it than synthetic leather, the vegan label does convey an important extra distinction. If you label something as vegan, then the whole product needs to be animal free. That means checking things like the glue that holds the shoe together, for example, and the chemicals used for finishing them. At the top end, some of the world-renowned fashion designers have avoided leather and fur for some time. In fact, some of the companies are now exploring a leather substitute and a silk replacement made from mushrooms.",
+                "zh": "除了符合潮流，而且比“合成皮革”听起来悦耳得多之外，“纯素”这一标签确实传达了一个重要的额外区别。如果将某件商品标为纯素，那么整件产品都必须不含动物成分。这意味着，例如，需要检查用于粘合鞋子的胶水，以及用于进行表面处理的化学品。在高端领域，一些世界知名的时装设计师已经有一段时间不再使用皮革和皮草。事实上，其中一些公司如今正在探索用蘑菇制成的皮革替代品和丝绸替代品。"
+              },
+              {
+                "en": "The Animal Free Product Society says they've seen a boom in products registered with the vegan trademark. In 2018, there were 119. So far this year, it says an unprecedented 1,956 have been registered. New products are being added daily. There are fur coats that are vegan, plastic vegan belts and shoes made from tree bark or natural rubber labelled vegan. These new products aren't coming at an extra cost to consumers though. Vegan boots cost the same as the leather originals. New Look, one of the first reputable store chains to use the vegan trademark, prices ballet shoes at £7.99 and a vegan laptop handbag at £29.99, comparable with its other products.",
+                "zh": "Animal Free Product Society表示，他们看到注册纯素商标的产品数量激增。2018年，这类产品有119件。截至今年目前为止，该协会称已有创纪录的1,956件产品完成注册。每天都有新产品加入其中。标为纯素的产品包括皮草大衣、塑料制纯素腰带，以及用树皮或天然橡胶制成的鞋子。不过，这些新产品并没有让消费者承担额外费用。纯素靴子的价格与原皮革靴子相同。New Look是最早使用纯素商标的知名连锁店之一，其芭蕾舞鞋售价为7.99英镑，纯素笔记本电脑手提包售价为29.99英镑，与其他产品的价格相当。"
+              },
+              {
+                "en": "This signifies a change. In the past, ethical products, whether they were fair trade or organic, came at a premium. However, it is unclear whether these new products can be considered ethical. The debate over durability, crop-growing impacts, pollution and recyclability is a complicated one, not to mention the ethics around the working conditions for people making the products, whatever the component materials. Environmental campaigners advise that the best approach is to buy less, never mind what the item is made of.",
+                "zh": "这标志着一种变化。过去，无论是公平贸易产品还是有机产品，伦理类商品的价格都更高。然而，这些新产品是否可以被视为符合伦理标准，尚不明确。关于耐用性、作物种植的影响、污染和可回收性的争论十分复杂，更不用说无论所用材料为何，生产这些产品的工人的工作条件所涉及的伦理问题了。环保人士建议，最好的做法是少买东西，不管商品是由什么制成的。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The era we live in is the most peaceful in history."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The world has seen more violence in recent years."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The environmental welfare has worsened in the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The belief is less prevalent that the world is going to hell."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They were actually not in their right mind."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They believed the world was deteriorating."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They did not wish to live in the previous century."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They were convinced by the statistics presented to them."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The subjectivity of mass media."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The current state of affairs."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Our psychological biases."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Our ancestors' influence."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Spreading exciting news around us far and wide."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Vacuuming up depressing or enraging stories."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Calculating dangerous risks to our survival."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Paying attention to negative information."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "By the end of 2016, anyone who had been paying even passing attention to the news headlines was highly likely to conclude that everything was terrible, and that the world was going to hell. It was easy to feel depressed by the wars in different parts of the world, the spread of deadly viruses or terror attacks.",
+                "zh": "到2016年底，任何哪怕只是偶尔关注新闻头条的人，都极有可能得出这样的结论：一切都糟透了，世界正走向毁灭。世界各地的战争、致命病毒的传播或恐怖袭击，很容易让人感到沮丧。"
+              },
+              {
+                "en": "Yet, 2016 was the best year in the history of humanity. Child mortality was roughly half what it was as recently as 1990. And 300,000 more people gained access to electricity each day. Every single measure of material and environmental welfare in America, Europe, Asia, Africa and the world as a whole has improved rather than deteriorated. We are living in history's most peaceful era, with violence of all kinds in steep decline. Those are the facts. So why aren't we all optimists?",
+                "zh": "然而，2016年却是人类历史上最好的一年。儿童死亡率大约只有就在1990年时的一半。每天还有30万人获得了用电的机会。在美国、欧洲、亚洲、非洲以及全世界范围内，衡量物质和环境福祉的每一项指标都在改善，而不是恶化。我们正生活在人类历史上最和平的时代，各种形式的暴力都在急剧减少。这些都是事实。那么，我们为什么没有全都成为乐观主义者呢？"
+              },
+              {
+                "en": "In a 2015 survey for YouGov, 65% of British people and 81% of the French said they thought the world was getting worse. However, according to numerous sensible statistics, these people are simply wrong. Nobody in their right mind should wish to have lived in a previous century. Yet people do. Why?",
+                "zh": "在YouGov于2015年进行的一项调查中，65%的英国人和81%的法国人表示，他们认为世界正在变得越来越糟。然而，根据大量合理的统计数据，这些人的看法显然是错误的。任何心智正常的人都不应希望自己生活在过去的某个世纪。然而，人们确实会有这样的愿望。为什么？"
+              },
+              {
+                "en": "Our prevailing mood of despair is irrational. It says more about us than it does about how things really are. It is best explained as the result of various psychological biases that served a purpose for our evolutionary ancestors—but now, in a media-saturated era, constantly mislead us. Once upon a time, it was of great survival value to be worried about everything that could go wrong. This is what makes bad news especially compelling.",
+                "zh": "我们普遍的绝望情绪是不理性的。它更多地反映了我们自身，而不是事物真实的状况。对这种情绪最好的解释是：它源于各种曾为我们进化时期的祖先发挥过作用的心理偏差，但如今在媒体充斥的时代，这些心理偏差却不断误导我们。曾几何时，对所有可能出错的事情保持担忧具有极大的生存价值。正因如此，坏消息尤其引人关注。"
+              },
+              {
+                "en": "In our evolutionary past, it was a very good thing that our attention could be easily seized by negative information, since it might well indicate a dangerous risk to our own survival. The caveman who always assumed there was a lion behind the next rock would usually be wrong, but he'd be much more likely to survive and reproduce than one who always assumed the opposite. But that was all before newspapers, television and the internet. In today's hyper connected times, our addiction to bad news just leads us to vacuum up depressing or enraging stories from across the globe. Whether these news stories threaten us or not, we conclude that things are much worse than they actually are. Really good news, on the other hand, can be a lot harder to spot in a newspaper because predictable daily events by definition aren't news.",
+                "zh": "在我们的进化史中，我们的注意力很容易被负面信息吸引是一件非常有益的事，因为这些信息很可能意味着对自身生存构成的危险。那个总是假定下一块岩石后面有一头狮子的穴居人通常会判断错误，但与总是假定情况相反的人相比，他存活并繁衍后代的可能性要大得多。但那是在报纸、电视和互联网出现以前。如今，在这个高度互联的时代，我们对坏消息的沉迷只会让我们从全球各地吸纳令人沮丧或愤怒的故事。无论这些新闻是否真的对我们构成威胁，我们都会得出这样的结论：事情比实际情况糟糕得多。另一方面，真正的好消息在报纸上往往更难被发现，因为可预见的日常事件按定义来说并不算新闻。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": []
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "Our brains respond to language expressing facts differently than they do to words conveying possibility, scientists at New York University have recently found. Their work offers new insights into the impact word choice has on how we"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "between statements expressing what is real versus what is merely possible. The researchers assert their findings are important because we are presented with false information all the time. Some of this is"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": ", as is the case with deceptive advertisements, but the problem is"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": "by individuals who believe they are sharing correct information. Thus, it is more important than ever to separate the factual from the possible or merely"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "in how we communicate. This is especially true as the study makes clear that information presented as fact"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "special responses in our brains, which are distinct from when we process the same content with clear indicators of"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": ". In their new study, the scientists intended to"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "how the brain computes possibilities as expressed by words such as \"may,\" \"might,\" and \"if.\" The researchers compared brain responses to statements expressing factual"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "and those expressing possibility. \"There is a monster under my bed\" exemplifies a factual statement. \"I will stay home,\" is also factual. This is opposed to statements that express possibility, like \"There might be a monster under my bed,\" or \"If it rains, I will stay home.\" The results of the study showed that factual language"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "a rapid increase in brain activity, with the brain responding more powerfully and showing more engagement with factual phrases compared to those communicating possibility. Thus, facts rule when it comes to the brain. Brain regions involved in processing"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "rapidly distinguish facts from possibilities. Further, these regions respond in a much more robust fashion to factual statements."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "activated"
+        },
+        {
+          "l": "B",
+          "w": "aggravated"
+        },
+        {
+          "l": "C",
+          "w": "ascertain"
+        },
+        {
+          "l": "D",
+          "w": "deliberate"
+        },
+        {
+          "l": "E",
+          "w": "differentiate"
+        },
+        {
+          "l": "F",
+          "w": "discourse"
+        },
+        {
+          "l": "G",
+          "w": "evokes"
+        },
+        {
+          "l": "H",
+          "w": "inhibit"
+        },
+        {
+          "l": "I",
+          "w": "manuscript"
+        },
+        {
+          "l": "J",
+          "w": "marvels"
+        },
+        {
+          "l": "K",
+          "w": "remnants"
+        },
+        {
+          "l": "L",
+          "w": "scenarios"
+        },
+        {
+          "l": "M",
+          "w": "speculative"
+        },
+        {
+          "l": "N",
+          "w": "unanimous"
+        },
+        {
+          "l": "O",
+          "w": "uncertainty"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "E"
+        },
+        {
+          "n": 27,
+          "a": "D"
+        },
+        {
+          "n": 28,
+          "a": "B"
+        },
+        {
+          "n": 29,
+          "a": "M"
+        },
+        {
+          "n": 30,
+          "a": "G"
+        },
+        {
+          "n": 31,
+          "a": "O"
+        },
+        {
+          "n": 32,
+          "a": "C"
+        },
+        {
+          "n": 33,
+          "a": "L"
+        },
+        {
+          "n": 34,
+          "a": "A"
+        },
+        {
+          "n": 35,
+          "a": "F"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Treasure Fever",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "Most visitors come to Cape Canaveral, on the northeast coast of Florida, for the tourist attractions. It's home to the second-busiest cruise ship port in the world and is a gateway to the cosmos. Nearly 1.5 million visitors flock here every year to watch rockets, spacecraft, and satellites blast off into the solar system from Kennedy Space Center Visitor Complex. Nearly 64 kilometers of undeveloped beach and 648 square kilometers of protected refuge fan out from the cape's sandy shores."
+        },
+        {
+          "l": "B",
+          "t": "Yet some of Cape Canaveral's most legendary attractions lie unseen, wedged under the sea's surface in mud and sand, for this part of the world has a reputation as a deadly ship trap. Over the centuries, dozens of majestic Old World sailing ships smashed and sank on this irregular stretch of windy Florida coast. They were vessels built for war and commerce, crossing the globe carrying everything from coins to cannons, boxes of silver and gold, chests of jewels and porcelain, and pearls from the Caribbean."
+        },
+        {
+          "l": "C",
+          "t": "Cape Canaveral contains one of the greatest concentrations of colonial shipwrecks in the world. In recent years, advances in radar, diving, detection equipment, computers, and GPS have transformed the hunt. The naked eye might see a pile of rocks, but technology can reveal the precious artifacts(人工制品) that lie hidden on the ocean floor."
+        },
+        {
+          "l": "D",
+          "t": "As technology renders the seabed more accessible, the hunt for treasure-filled ships has drawn a fresh tide of salvors(打捞人员) and their investors—as well as marine archaeologists(考古学家) wanting to bring to light the lost relics. But of late, when salvors have found vessels, their rights have been challenged in court. The big question: who should have control of these treasures?"
+        },
+        {
+          "l": "E",
+          "t": "High-stakes fights over shipwrecks pit archaeologists against treasure hunters in a vicious cycle of accusations. Archaeologists regard themselves as protectors of history, and they see salvors as careless destroyers. Salvors feel they do the hard work of searching for ships, only to have them stolen from under them when discovered. This kind of clash inevitably takes place on a grand scale. Aside from the salvors, their investors, and the maritime archaeologists who serve as expert witnesses, the battles sweep in local and international governments and organizations like UNESCO that work to protect under-water heritage. The court cases that ensue stretch on for years. Are finders keepers, or do the ships belong to the countries that made them and sent them sailing centuries ago? Where once salvors and archaeologists worked side by side, now they belong to opposing, and equally contemptuous, tribes."
+        },
+        {
+          "l": "F",
+          "t": "Nearly three million vessels lie wrecked on the Earth's ocean floor—from old canoes to the Titanic—and likely less than one percent have been explored. Some—like an ancient Roman ship found off Antikythera, Greece, dated between 70 and 60 BC and carrying astonishingly sophisticated gears and dials for navigating by the sun—are critical to a new understanding of our past. No wonder there is an eternal stirring among everybody from salvors to scholars to find them."
+        },
+        {
+          "l": "G",
+          "t": "In May 2016, a salvor named Bobby Pritchett, president of Global Marine Exploration (GME) in Tampa, Florida, announced that he had discovered scattered remains of a ship buried a kilometer off Cape Canaveral. Over the prior three years, he and his crew had obtained 14 state permits to survey a nearly 260-square- kilometer area off the cape; they worked 250 days a year, backed by investor funds of, he claims, US $4 million. It was hard work. Crew members were up at dawn, dragging sensors from their expedition vessels back and forth, day in and day out, year after year, to detect metal of any kind. Using computer technology, Pritchett and his crew created intricate, color-coded maps marked with the GPS coordinates of thousands of finds, all invisible under a meter of sand."
+        },
+        {
+          "l": "H",
+          "t": "One day in 2015, the magnetometer(磁力计) picked up metal that turned out to be an iron cannon; when the divers blew the sand away, they also discovered a more precious bronze cannon with markings indicating French royalty and, not far off, a famous marble column carved with the coat of arms of France, known from historical paintings. The discovery was cause for celebration. The artifacts indicated the divers had likely found the wreck of La Trinité, a 16th-century French vessel that had been at the center of a bloody battle between France and Spain that changed the fate of the United States of America."
+        },
+        {
+          "l": "I",
+          "t": "And then the legal storm began, with GME and Pritchett pitted against Florida and France. The Sunken Military Craft Act of 2004, a US federal act, protects any vessel that was on a military mission, allowing the originating country to claim their ship even centuries later. In 2018, two long years after Pritchett's discovery, the federal district court ruled in favor of France. For Pritchett, the decision was devastating. Millions of dollars of investor funding and years of labor were lost."
+        },
+        {
+          "l": "J",
+          "t": "But this is far from the first time a salvor has lost all rights to a discovery. In 2012, for instance, Spain won a five-year legal battle against Odyssey Marine Exploration, which had hauled 594,000 gold and silver coins from a Spanish wreck off the coast of Portugal across the Atlantic to the United States. \"Treasure hunters can be naive,\" says attorney David Concannon, who has had several maritime archaeologists as clients and represented two sides in the battles over the Titanic for 20 years. \"Many treasure hunters don't understand they are going to have to fight for their rights against a government that has an endless supply of money for legal battles that treasure hunters are likely to lose.\""
+        },
+        {
+          "l": "K",
+          "t": "Putting an inflated price on artifacts rather than viewing them as cultural and historical treasures that transcend any price is what irritates many archaeologists. For the archaeologist, everything in a wreck matters —hair, fabric, a fragment of a newspaper, rat bones-all things speak volumes. Archaeologists don't want artifacts ending up in a private collection instead of taking humanity on a journey of understanding."
+        },
+        {
+          "l": "L",
+          "t": "George Bass is one of the pioneers of under-water archaeology, and a researcher at Texas A&M University. He has testified in court against treasure hunters, but says archaeology is not without its own serious problems. He believes archaeologists need to do a better job themselves instead of routinely criticizing treasure hunters. \"Archaeology has a terrible reputation for not publishing enough on its excavations(发掘) and finds,\" he says. Gathering data, unearthing and meticulously preserving and examining finds, verifying identity and origin, piecing together the larger story, and writing and publishing a comprehensive paper or book can take decades. A bit cynically, Bass describes colleagues who never published because they waited so long they became ill or died. Who is more at fault, Bass asks, the professional archaeologist who carefully excavates a site and never publishes on it or the treasure hunter who locates a submerged wreck, salvages part, conserves part, and publishes a book on the operation?"
+        },
+        {
+          "l": "M",
+          "t": "Pritchett concedes that his find deserves careful excavation and preservation. \"I think what I found should go in a museum,\" he says. \"But I also think I should get paid for what I found.\" Indeed, it's a bit of a mystery why governments, archaeologists, and treasure hunters can't work together—and why salvors aren't at least given a substantial finder's fee before the original owner takes possession of the vessel and its artifacts."
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "Exploration of shipwrecks on the sea floor is crucial in updating our understanding of humanity's past.",
+          "a": "F"
+        },
+        {
+          "n": 37,
+          "s": "Quite a number of majestic ships sailing from Europe to America were wrecked off the Florida coast over the centuries.",
+          "a": "B"
+        },
+        {
+          "n": 38,
+          "s": "Pritchett suffered a heavy loss when a US district court ruled against him.",
+          "a": "I"
+        },
+        {
+          "n": 39,
+          "s": "Recently, people who found treasures in shipwrecks have been sued over their rights to own them.",
+          "a": "D"
+        },
+        {
+          "n": 40,
+          "s": "Pritchett claims he got support of millions of dollars from investors for his shipwreck exploration.",
+          "a": "G"
+        },
+        {
+          "n": 41,
+          "s": "One pioneer marine scientist thinks archaeologists should make greater efforts to publish their findings.",
+          "a": "L"
+        },
+        {
+          "n": 42,
+          "s": "With technological advancement in recent years, salvors now can detect the invaluable man-made objects lying buried under the sea.",
+          "a": "C"
+        },
+        {
+          "n": 43,
+          "s": "According to a lawyer, many treasure hunters are susceptible to loss because they are unaware they face a financially stronger opponent in court.",
+          "a": "J"
+        },
+        {
+          "n": 44,
+          "s": "Salvors of treasures in sunken ships and marine archaeologists are now hostile to each other.",
+          "a": "E"
+        },
+        {
+          "n": 45,
+          "s": "Archaeologists want to see artifacts help humans understand their past instead of being sold to private collectors at an outrageous price.",
+          "a": "K"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "Could you get by without using the internet for four and a half years? That's exactly what singer and actress Selena Gomez has done in a bid to improve her mental health. She has spoken extensively about the relationship between her social media usage and her mental wellbeing, recalling feeling like \"an addict\" when she became Instagram's most followed user in 2016. \"Taking a break from social media was the best decision that I've ever made for my mental health\", says she. \"The unnecessary hate and comparisons went away once I put my phone down.\" Ditching the web at large, however, is a far more subtle and complicated prospect. The increasing digitisation of our society means that everything from paying a gas bill to plotting a route to a friend's house and even making a phone call is at the mercy of your internet connection. Actively opting out of using the internet becomes a matter of privilege. Ms Gomez's multi-millionaire status has allowed her to take the \"social\" out of social media, so she can continue to leverage her enormous fame while keeping the trolls(恶意挑衅的帖子) at bay. The fact that she's still the second most-followed woman on Instagram suggests it's entirely possible to maintain a significant web profile to promote various projects—by way of a dedicated team—without being exposed to the cruel comments, hate mail and rape or death threats. It goes without saying that this is fundamentally different from how the rest of us without beauty deals and films to publicise use the likes of Instagram, TikTok and Twitter, but even the concept of a digital detox(戒瘾) requires having a device and connectivity to choose to disconnect from. The UK's digital divide has worsened over the past two years, leaving poorer families without broadband connections in their homes. Digital exclusion is a major threat to wider societal equality in the UK, so witnessing companies like Facebook championing the metaverse(元宇宙) as the next great frontier when school children are struggling to complete their homework feels particularly irritating. Consequently, it's worth bearing in mind that while deleting all social media accounts will undoubtedly make some feel infinitely better, many other people benefit from the strong sense of community that sharing platforms can breed. Internet access will continue to grow in importance as we edge further towards web 3.0, and greater resources and initiatives are needed to provide the underprivileged with the connectivity they desperately need to learn, work and live. It's crucial that people who feel that social media is having a detrimental effect on their mental health are allowed to switch off and for those living in digital exclusion to be able to switch on in the first place.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What do we learn about singer and actress Selena Gomez in the past four and a half years?",
+            "o": [
+              {
+                "l": "A",
+                "t": "She has had worsening mental problems."
+              },
+              {
+                "l": "B",
+                "t": "She has won Instagram's most followers."
+              },
+              {
+                "l": "C",
+                "t": "She has refrained from using social media."
+              },
+              {
+                "l": "D",
+                "t": "She has succeeded in a bid on the internet."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 47,
+            "s": "Why does actively opting out of using the internet become a matter of privilege?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Most people find it subtle and complicated to give up using the internet."
+              },
+              {
+                "l": "B",
+                "t": "Most people can hardly ditch the web while avoiding hate and comparisons."
+              },
+              {
+                "l": "C",
+                "t": "Most people can hardly get by without the internet due to growing digitisation."
+              },
+              {
+                "l": "D",
+                "t": "Most people have been seriously addicted to the web without being aware of it."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 48,
+            "s": "Why does the author say \"witnessing companies…feels particularly irritating\"(Lines 2-4, Para. 6)?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The UK digital divide would further worsen due to the metaverse."
+              },
+              {
+                "l": "B",
+                "t": "The concept of the metaverse is believed to be still quite illusory."
+              },
+              {
+                "l": "C",
+                "t": "School children would be drawn farther away from the real world."
+              },
+              {
+                "l": "D",
+                "t": "Most families in the UK do not have stable broadband connections."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 49,
+            "s": "What is worth bearing in mind concerning social media platforms?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They are conducive to promoting societal equality."
+              },
+              {
+                "l": "B",
+                "t": "They help many people feel connected with others."
+              },
+              {
+                "l": "C",
+                "t": "They provide a necessary device for a digital detox."
+              },
+              {
+                "l": "D",
+                "t": "They create a virtual community on the internet."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What does the author think is really important for those living in digital exclusion?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Having access to the internet."
+              },
+              {
+                "l": "B",
+                "t": "Edging further towards web 3.0."
+              },
+              {
+                "l": "C",
+                "t": "Getting more educational resources."
+              },
+              {
+                "l": "D",
+                "t": "Opening more social media accounts."
+              }
+            ],
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Psychologists have long been in disagreement as to whether competition is a learned or a genetic component of human behavior. Whatever it is, you cannot but recognize the effect competition is exerting in academics and many other areas of contemporary life. Psychologically speaking, competition has been seen as an inevitable consequence of human drives. According to Sigmund Freud, humans are born screaming for attention and full of organic drives for fulfillment in various areas. Initially, we compete for the attention of our parents. Thereafter, we are at the mercy of a battle between our base impulses for self-fulfillment and social and cultural norms which prohibit pure indulgence. Current work in anthropology(人类学) has suggested, however, that this view of the role of competition in human behavior may be incorrect. Thomas Hobbes, one of the great philosophers of the seventeenth century, is perhaps best remembered for his characterization of the \"natural world,\" that is, the world before the imposition of the will of humanity, as being \"nasty, brutish, and short.\" This image of the pre-rational world is still widely held, reinforced by Charles Darwin's highly influential work, The Origin of Species, which established the doctrine of natural selection. This doctrine, which takes for granted that those species best able to adapt to and master the natural environment in which they live will survive, has suggested that the struggle for survival is an inherent human trait which determines a person's success. Darwin's theory has even been summarized as \"survival of the fittest\"—a phrase Darwin himself never used—further highlighting competition's role in success. As it has often been pointed out, however, there is nothing in the concept of natural selection that suggests that competition is the most successful strategy for \"survival of the fittest.\" Darwin asserted in The Origin of Species that the struggles he was describing should be viewed as metaphors and could easily include dependence and cooperation. Many studies have been conducted to test the importance placed on competition as opposed to other values, such as cooperation—by various cultures, and generally conclude that Americans uniquely praise competition as natural, inevitable, and desirable. In 1937, the world-renowned anthropologist Margaret Mead published Cooperation and Competition among Primitive Peoples, based on her studies of several societies that did not prize competition, and, in fact, seemed at times to place a negative value on it. One such society was the Zuni Indians of Arizona, and they, Mead found, valued cooperation far more than competition. After studying dozens of such cultures, Mead's final conclusion was that competitiveness is a culturally created aspect of human behavior, and that its prevalence in a particular society is relative to how that society values it.",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What does the author think is easy to see in many areas of contemporary life?",
+            "o": [
+              {
+                "l": "A",
+                "t": "The disagreement on the inevitability of competition."
+              },
+              {
+                "l": "B",
+                "t": "The consequence of psychological investigation."
+              },
+              {
+                "l": "C",
+                "t": "The effect of human drives."
+              },
+              {
+                "l": "D",
+                "t": "The impact of competition."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 52,
+            "s": "According to psychology, what do people strive to do following the initial stage of their life?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Fulfill individual needs without incurring adverse effects of human drives."
+              },
+              {
+                "l": "B",
+                "t": "Indulge in cultural pursuits while keeping their base impulses at bay."
+              },
+              {
+                "l": "C",
+                "t": "Gain extensive recognition without exposing pure indulgence."
+              },
+              {
+                "l": "D",
+                "t": "Satisfy their own desires while observing social conventions."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 53,
+            "s": "What do we learn about the \"natural world\" characterized by Thomas Hobbes?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It gets misrepresented by philosophers and anthropologists."
+              },
+              {
+                "l": "B",
+                "t": "It gets distorted in Darwin's The Origin of Species."
+              },
+              {
+                "l": "C",
+                "t": "It is free from the rational intervention of humans."
+              },
+              {
+                "l": "D",
+                "t": "It is the pre-rational world rarely appreciated nowadays."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 54,
+            "s": "What can we conclude from Darwin's assertion in The Origin of Species?",
+            "o": [
+              {
+                "l": "A",
+                "t": "All species inherently depend on others for survival."
+              },
+              {
+                "l": "B",
+                "t": "Struggles for survival do not exclude mutual support."
+              },
+              {
+                "l": "C",
+                "t": "Competition weighs as much as cooperation as a survival strategy."
+              },
+              {
+                "l": "D",
+                "t": "The strongest species proves to be the fittest in natural selection."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 55,
+            "s": "What conclusion did Margaret Mead reach after studying dozens of different cultures?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It is characteristic of humans to be competitive."
+              },
+              {
+                "l": "B",
+                "t": "Americans are uniquely opposed to cooperation."
+              },
+              {
+                "l": "C",
+                "t": "Competition is relatively more prevalent in Western societies."
+              },
+              {
+                "l": "D",
+                "t": "People's attitude towards competition is actually culture-bound."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "随着经济与社会的发展，中国人口结构发生了显著变化，逐渐步入老龄化社会。中国老年人口将持续增 加，人口老龄化趋势将更加明显。为了应对人口老龄化带来的种种挑战，国家正积极采取措施，加大对养老的 支持。通过改革社会保障(social security)制度，政府不断增加社会保障经费，逐步扩大社会保障覆盖范围，使 更多老年人受益。政府还鼓励各种社会团体为老年人提供服务。在政府和社会团体的共同努力下，老年人将生 活得更加幸福。",
+    "reference": "With the development of the economy and society, China’s population structure has undergone remarkable changes and is gradually entering an aging society. China’s elderly population will continue to increase, and the trend of population aging will become more pronounced. To cope with the various challenges brought by population aging, the country is actively taking measures to increase its support for elderly care. By reforming the social security system, the government keeps increasing social security funding and gradually expanding its coverage, so that more elderly people can benefit. The government also encourages various social organizations to provide services for the elderly. With the joint efforts of the government and social organizations, the elderly will live a happier life."
+  }
+}

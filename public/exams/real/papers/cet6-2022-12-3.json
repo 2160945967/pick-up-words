@@ -1,0 +1,1398 @@
+{
+  "id": "cet6-2022-12-3",
+  "level": "cet6",
+  "year": 2022,
+  "month": 12,
+  "set": 3,
+  "title": "2022年12月 六级 第3套",
+  "timing": {
+    "writing": 1800,
+    "listening": 1800,
+    "reading": 2400,
+    "translation": 1800,
+    "total": 7800
+  },
+  "writing": {
+    "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence“Today increasing importance is being attached to cultivating college students'team spirit.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+    "sample": "Today increasing importance is being attached to cultivating college students' team spirit. Both universities and future employers have realized that few achievements today are the work of a single hand, so this quality truly deserves our attention.There are convincing reasons behind this trend. First, almost every modern task, from a laboratory experiment to a business start-up, demands that people with different strengths pool their efforts; without cooperation, even talented individuals can accomplish little. Second, working in a team teaches students to communicate patiently, respect different opinions, and share responsibility, all of which are qualities that textbooks alone can never provide. A student who once relied only on personal effort, for instance, may finally learn to trust others after completing a group project together.For these reasons, team spirit should never be treated as something optional. Colleges ought to design more group tasks, and students themselves should step out of their comfort zones and embrace cooperation, because it is teamwork that turns scattered abilities into real strength."
+  },
+  "listening": {
+    "audio": "cet6-2022-12-1",
+    "sections": [
+      {
+        "key": "A",
+        "name": "短篇新闻",
+        "clips": [
+          {
+            "name": "Questions 1 to 4 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 1,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "She hasn't started writing it."
+                  },
+                  {
+                    "l": "B",
+                    "t": "She hasn't decided on a topic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "She is proofreading the first draft."
+                  },
+                  {
+                    "l": "D",
+                    "t": "She is working on the references."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 2,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He lent many books to the man for reference."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He offered the man advice on resource hunting"
+                  },
+                  {
+                    "l": "C",
+                    "t": "He published a lot in a number of reputable journals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He told the man to be selective when using e-resources."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 3,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He didn't think her dissertation topic viable."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He wasn't interested in her dissertation topic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He didn't want her to rush through her dissertation."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He wasn't specific about the length of her dissertation."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 4,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Change her research methodology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Narrow down her dissertation topic."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Consult her professor more."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Follow the man's advice.\n\nQuestions 5 to 8 are based on the conversation you have just heard."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "M: How's your dissertation going? I'm proofreading my first draft and will submit it to my professor tomorrow.",
+                "zh": "M: 你的学位论文写得怎么样了？我正在校对初稿，明天准备提交给教授。"
+              },
+              {
+                "en": "W: Oh, I haven't even started writing mine yet, so I'm really worried about finishing by the end of next semester.",
+                "zh": "W: 哦，我连写都还没开始写呢，所以我真的很担心下学期末能不能写完。"
+              },
+              {
+                "en": "M: You mean you haven't even begun yours yet? The final draft is due in five months.",
+                "zh": "M: 你是说你连动笔都还没动？终稿还有五个月就要交了。"
+              },
+              {
+                "en": "W: Of course I've started it, but I can't get to the writing yet as I haven't found enough resources to use, so I'm still researching the topic.",
+                "zh": "W: 我当然已经开始了，但我还没找到足够的资料可用，所以还没法开始写，目前还在研究这个课题。"
+              },
+              {
+                "en": "M: Maybe the problem is the way you're doing your research. I started by talking to my professor about where to look for information, and based on that, I found books in the library and a lot of reputable journal articles on the Internet.",
+                "zh": "M: 也许问题出在你做研究的方式上。我是先找教授聊了聊去哪里查找资料，然后根据建议在图书馆找到了书，还在网上找到了许多权威期刊的文章。"
+              },
+              {
+                "en": "W: I've tried all that, but don't have enough to write the dissertation as my department's minimum length is 70 pages. I think the problem is that my topic isn't viable. And honestly, my professor did warn me at the beginning that I might not be able to find enough material. But I was so interested in the topic that I didn't let his advice turn me.",
+                "zh": "W: 这些我都试过了，但资料还是不够写论文，因为我们系要求的最低篇幅是70页。我觉得问题在于我的选题不可行。说实话，我教授刚开始确实警告过我可能找不到足够的材料，但当时我对这个课题太感兴趣了，所以没听他的劝告。"
+              },
+              {
+                "en": "M: Well, I suggest you find a new topic. After all, our professors are here to guide us, so it's best to listen to them.",
+                "zh": "M: 嗯，我建议你换个新选题。毕竟教授是来指导我们的，最好还是听他们的建议。"
+              },
+              {
+                "en": "W: In retrospect, I wish I had listened to him, but I didn't. And now I don't want to give up my topic as I've already invested so much time and energy.",
+                "zh": "W: 回想起来，我真希望当时听了他的话，但我没听。而且现在我已经投入了这么多时间和精力，不想放弃我的选题。"
+              },
+              {
+                "en": "M: If you're committed to your current topic, maybe you could make some adjustments rather than abandon it completely. What is your topic?",
+                "zh": "M: 如果你坚持用现在的选题，也许你可以做些调整，而不是彻底放弃它。你的课题是什么？"
+              },
+              {
+                "en": "W: It's \"Depictions of Femininity in Folklore from the South of the Country\".",
+                "zh": "W: 是《国内南方民间传说中对女性形象的刻画》。"
+              },
+              {
+                "en": "M: That's pretty narrow. You could find more material if you made the topic broader, maybe by including other kinds of depictions.",
+                "zh": "M: 那范围确实挺窄的。如果你把选题范围放宽一点，比如把其他类型的刻画也包含进来，应该能找到更多资料。"
+              },
+              {
+                "en": "W: Broadening the topic is a great idea, I'll start by including folklore from other regions of the country.",
+                "zh": "W: 放宽选题范围是个好主意，我就从纳入国内其他地区的民间传说开始吧。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 5 to 8 are based on the conversation you have just heard.",
+            "questions": [
+              {
+                "n": 5,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He has translated 12 books."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He is a well-known nutritionist."
+                  },
+                  {
+                    "l": "C",
+                    "t": "His books sell well worldwide."
+                  },
+                  {
+                    "l": "D",
+                    "t": "His latest book sold a million copies."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 6,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The desire of Americans to try exotic cuisines."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The demand for information about food safety."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The fact that over half of Americans are overweight."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The fact that science books are difficult to read."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 7,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The general public."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Those who are overweight."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Those who want to lose weight."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The medical community."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 8,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Switch to a vegetarian diet."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Follow a personalized diet."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Adhere to doctors' advice."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Cut carbohydrate intake."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "W: Today, on Book Talk, we are lucky enough to host John Robbins and discuss his new book, Why Americans Are Fat and How We Can Lose Weight. John isn't just a respected writer; he's also one of the rare celebrity authors writing about science today.",
+                "zh": "W: 今天，在《图书访谈》节目中，我们非常荣幸地邀请到约翰·罗宾斯，和我们一起讨论他的新书《为什么美国人肥胖以及我们如何减肥》。约翰不仅是一位受人尊敬的作家，也是如今少数几位撰写科学类书籍的知名作家之一。"
+              },
+              {
+                "en": "M: Thanks for having me, Rebecca, but I'm hardly a celebrity.",
+                "zh": "M: 谢谢你的邀请，丽贝卡，不过我实在算不上什么名人。"
+              },
+              {
+                "en": "W: That's very modest of you to say, considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages. What makes people so fascinated with your work?",
+                "zh": "W: 考虑到你的四本书在全球总共售出了七百万册，而且被翻译成了十二种不同的语言，你这么说可真谦虚。是什么让人们对你的作品如此着迷呢？"
+              },
+              {
+                "en": "M: Well, people read my books because more than 60% of Americans are overweight, or obese. And other countries are facing similar problems. Basically, we all want to know how to fix things.",
+                "zh": "M: 嗯，人们读我的书，是因为超过百分之六十的美国人超重或肥胖。其他国家也面临着类似的问题。基本上，我们都想知道该如何解决这些问题。"
+              },
+              {
+                "en": "W: We certainly do. I've read your new book, and it's fabulous, especially when it comes to the way you make difficult science easy for laymen to understand. That's no small achievement.",
+                "zh": "W: 我们当然想知道。我读过你的新书，觉得非常精彩，尤其是你把艰深的科学知识讲得通俗易懂这一点。这可不是一件容易做到的事。"
+              },
+              {
+                "en": "M: I'm glad to hear you find my work accessible, because I was worried when I wrote it that discussing the science might make the book more suited for a specialist audience. My last book was written primarily for the medical community. But this time, I want to help ordinary people take control of their weight.",
+                "zh": "M: 听到你觉得我的作品通俗易懂，我很高兴，因为写这本书时，我担心讨论科学内容会让它更适合专业读者阅读。我的上一本书主要是写给医学界人士看的。但这一次，我想帮助普通人掌控自己的体重。"
+              },
+              {
+                "en": "W: And how do you suggest they do that? Can you give us the basics of your advice for people who want to lose weight?",
+                "zh": "W: 那你建议他们怎么做呢？能不能简单介绍一下你对想减肥的人所提出的建议？"
+              },
+              {
+                "en": "M: Briefly, I argue that every person needs to consider their metabolism and eat what suits their body's needs. I don't advocate one single diet. Some people should eat more carbohydrates than others. And different people need different amounts of protein and fat.",
+                "zh": "M: 简单地说，我认为每个人都需要考虑自己的新陈代谢，吃适合自己身体需要的食物。我不主张所有人都采用同一种饮食方式。有些人应该比其他人摄入更多碳水化合物。而且，不同的人对蛋白质和脂肪的需求量也各不相同。"
+              },
+              {
+                "en": "W: But you do have some recommendations for everyone, including eating ten servings of vegetables and three of fruit a day. We'll talk about those recommendations next, but now we need to take a short break for a message from our sponsor.",
+                "zh": "W: 不过，你确实也给所有人提出了一些建议，包括每天吃十份蔬菜和三份水果。接下来我们会谈谈这些建议，不过现在我们要暂时休息一下，听一段赞助商提供的信息。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "B",
+        "name": "长对话",
+        "clips": [
+          {
+            "name": "Questions 9 to 11 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 9,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The rate of their growth increased dramatically."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The growth of their new brain cells doubled."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They began to show signs of depression."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They began to get irritated and restless."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 10,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "To avoid them in the future."
+                  },
+                  {
+                    "l": "B",
+                    "t": "To warn others against them."
+                  },
+                  {
+                    "l": "C",
+                    "t": "To make good sense of them."
+                  },
+                  {
+                    "l": "D",
+                    "t": "To reflect on their causes."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 11,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Produce a surprising healing effect."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Weaken one's immunity in the long run."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Make people more susceptible to illness."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Provide protection against mental illnesses.\n\nQuestions 12 to 15 are based on the passage you have just heard."
+                  }
+                ],
+                "a": "C"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Stress is often depicted as negative, but research shows that moderate amounts of it can be beneficial for your brain and your body.",
+                "zh": "压力通常被描绘成负面的事物，但研究表明，适度的压力有益于大脑和身体。"
+              },
+              {
+                "en": "First, the benefits for the brain. Studies have shown that short periods of stress can actually bolster cognitive functioning. Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells. The rats also did better on a memory test later on. Scientists think the same thing happens in humans. But how does stress improve memory? It's simple. When your brain cells multiply, your memory can improve. Viewed from a biological perspective, this makes sense, because animals that are better at remembering dangerous situations can avoid them in the future. If an animal encounters a predator and escapes, for example, it's important to remember where and when that encounter happened. Experts assert that the same principle applies to humans.",
+                "zh": "首先来看压力对大脑的益处。研究表明，短时间的压力实际上能够增强认知功能。研究人员发现，让大鼠处于有压力的环境中仅几个小时，就能使新脑细胞的增长速度提高一倍。之后，这些大鼠在记忆测试中的表现也更好。科学家认为，人类身上也会发生同样的情况。但是，压力是如何改善记忆力的呢？原因很简单。当你的脑细胞增多时，你的记忆力可能会得到改善。从生物学角度来看，这是合理的，因为更善于记住危险情境的动物能够在未来避开这些情境。例如，如果一只动物遇到捕食者并成功逃脱，那么记住这次遭遇发生的地点和时间就十分重要。专家断言，同样的原理也适用于人类。"
+              },
+              {
+                "en": "Now, let's turn to how stress benefits the body. This may come as a surprise to laymen. But experts say that stress can keep you from getting sick. Scientists concede that chronic stress can make you more prone to illness. But research shows that short periods of stress can actually provide some protection against getting sick, because it increases your immune functioning. One study shows that rats that experienced brief stress had a surge of immune cell response, which makes the immune system better prepared to fight illness. For humans, there's even evidence that experiencing stress before getting vaccinated could help make vaccines more effective.",
+                "zh": "现在，我们来看看压力如何有益于身体。这对普通人来说可能令人意外。但专家表示，压力可以使你不易生病。科学家承认，长期压力会使人更容易患病。但研究表明，短时间的压力实际上能够提供一定的防病保护，因为它会增强免疫功能。一项研究显示，经历短暂压力的大鼠，其免疫细胞反应会激增，从而使免疫系统更好地准备对抗疾病。对于人类，甚至有证据表明，在接种疫苗前经历压力可能有助于提高疫苗的有效性。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 12 to 15 are based on the passage you have just heard.",
+            "questions": [
+              {
+                "n": 12,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Placing their own interests over their staff's."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Being overwhelmed by their daily routines."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Lacking the ability to relate to their staff."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Spending too much time handling email."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 13,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Their leadership may be challenged."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their companies may go bankrupt."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Unexpected events may occur."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Major problems may result."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 14,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Keep an eye on their employees."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Motivate and inspire their team."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Sacrifice some of the immediate goals."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Have greater ambition in overall planning."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 15,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Cultivate self-control."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Filter their email boxes."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Respond only after work."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Check only when necessary."
+                  }
+                ],
+                "a": "A"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "For many managers and people who work in leadership positions, dealing with emails is a dilemma. It's likely the \"unpredictable, uncontrollable and ongoing nature of day-to-day email in terms of volume, importance and urgency\" contributes to their levels of anxiety and to diminished leadership skills.",
+                "zh": "对于许多管理者和担任领导职务的人来说，处理电子邮件是一个两难困境。日常电子邮件在数量、重要性和紧迫性方面“不可预测、不可控制且持续不断”的特性，很可能会加剧他们的焦虑程度并削弱其领导能力。"
+              },
+              {
+                "en": "That's because it's not unusual for many leaders to prioritize email management over people management. An obsession with managing their inbox prevents them from dealing with their employees. As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect.",
+                "zh": "这是因为许多领导者将电子邮件管理置于人员管理之上并不罕见。对管理收件箱的痴迷使他们无法顾及员工。结果，他们忽视了最初可能只是轻微的问题，直到不幸的是，由于疏忽，这些问题不可避免地演变成了重大问题或危机。"
+              },
+              {
+                "en": "As leaders, they are expected to motivate and inspire their team in pursuit of longer-term strategic goals and also, less ambitiously but more practically, to monitor their daily output, to set clear expectations and to give regular feedback.",
+                "zh": "作为领导者，人们期望他们能够激励和鼓舞团队去追求更长期的战略目标；同时，虽然抱负没那么远大但更为实际的是，监督团队的日常工作产出、设定明确的期望并提供定期反馈。"
+              },
+              {
+                "en": "When presented with a choice between the appeal of their inbox and other more important activities, many sacrifice the latter. Daily email demands have a negative impact on their goal progress. This is because leaders must divert resources from other tasks to check, filter and respond to emails.",
+                "zh": "当面临收件箱的吸引力与其他更为重要的活动之间的选择时，许多人牺牲了后者。日常电子邮件需求对他们的目标推进产生了负面影响。这是因为领导者必须从其他任务中抽调资源来检查、过滤和回复电子邮件。"
+              },
+              {
+                "en": "The solution is cultivating self-control which is like a muscle—it can be strengthened or improved over time through exercise. Some suggestions include making space in your diary for the only periods during which you'll be checking emails, setting a timer for yourself so you don't become distracted by your inbox for too long, turning off email alerts so you're not interrupted by them.",
+                "zh": "解决方案是培养自控力，自控力就像肌肉一样——随着时间的推移，可以通过锻炼得到加强或改善。一些建议包括：在日程表中预留出专门用于检查电子邮件的时间段；给自己设置定时器，以免长时间被收件箱分散注意力；关闭电子邮件提醒，以免被其打扰。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "C",
+        "name": "听力篇章",
+        "clips": [
+          {
+            "name": "Questions 16 to 18 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 16,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "The key to increasing healthy food supply."
+                  },
+                  {
+                    "l": "B",
+                    "t": "The best way to improve marketing research."
+                  },
+                  {
+                    "l": "C",
+                    "t": "The impact of advertisements on consumption."
+                  },
+                  {
+                    "l": "D",
+                    "t": "The importance of the appearance of food."
+                  }
+                ],
+                "a": "D"
+              },
+              {
+                "n": 17,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "By focusing on the nutrients in different foods."
+                  },
+                  {
+                    "l": "B",
+                    "t": "By emphasizing the diversity of food."
+                  },
+                  {
+                    "l": "C",
+                    "t": "By stressing pleasing aesthetics of food."
+                  },
+                  {
+                    "l": "D",
+                    "t": "By winning the support of marketing professors."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 18,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They can attract customers with the healthy qualities of their products."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They can boost sales of healthy foods by making them visually appealing."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They can turn to marketing professors for advice."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They can rely on advertising for sales promotion.\n\nQuestions 19 to 21 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "In last week's lecture, we talked about the problems caused by poor eating habits, focusing on how medical professionals are trying to solve these problems. Today, we'll continue with the topic, but focus on research from a different field—marketing.",
+                "zh": "在上周的讲座中，我们讨论了不良饮食习惯所造成的问题，重点关注医疗专业人员如何努力解决这些问题。今天，我们将继续这一主题，但把重点放在另一个领域的研究上——市场营销。"
+              },
+              {
+                "en": "Now, what can marketing tell us about improving nutrition? Well, a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices.",
+                "zh": "那么，关于改善营养状况，市场营销能告诉我们什么呢？一组市场营销学教授研究了食物视觉形象的重要性，以及这种视觉形象如何影响人们对食物的选择。"
+              },
+              {
+                "en": "Those marketing experts assert that the impact of the appearance of food is greater than we might presume, and might hold the key to encouraging better eating. So how important is the appearance of food?",
+                "zh": "这些市场营销专家断言，食物外观的影响比我们可能设想的更大，而且可能是鼓励人们改善饮食的关键。那么，食物的外观究竟有多重要呢？"
+              },
+              {
+                "en": "Research shows that just seeing an appealing photograph of a hamburger in an advertisement, for example, can cause individuals to imagine the taste or smell of that hamburger. This can make them more likely to purchase and consume it. Of course, that's the point of advertisements. So isn't that a good thing?",
+                "zh": "研究表明，例如，仅仅看到广告中一张诱人的汉堡包照片，就可能使人们联想到汉堡包的味道或气味。这会让他们更有可能购买并食用它。当然，这正是广告的目的。那么，这难道不是一件好事吗？"
+              },
+              {
+                "en": "Well, the marketing professors argue that this is actually a problem, because the combination of pleasing aesthetics of and easy access to unhealthy foods, such as hamburgers and pizza, may be contributing to a worldwide health crisis. In fact, statistics show that 39% of all adults in the world weigh too much and another 13% are obese.",
+                "zh": "市场营销学教授们认为，实际上这恰恰是一个问题，因为汉堡包和披萨等不健康食品令人愉悦的外观与其易于获得相结合，可能正在助长一场全球性的健康危机。事实上，统计数据显示，全世界有39%的成年人超重，另有13%的人肥胖。"
+              },
+              {
+                "en": "Now, as we discussed last time, medical professionals have tried to fight the obesity epidemic by focusing on the nutrients found in different foods, emphasizing things like carbohydrate, fat, sugar and calorie content. But they've had limited success.",
+                "zh": "正如我们上次讨论的那样，医疗专业人员曾试图通过关注不同食物所含的营养成分来应对肥胖症流行，强调碳水化合物、脂肪、糖和卡路里含量等因素。但他们取得的成效有限。"
+              },
+              {
+                "en": "The marketing professors believe that the real solution to obesity is making food look appealing and focusing on the pleasure of both looking at and eating that food. That pleasure can be used as a tool to promote healthy food choices. In fact, the research done by the team showed that associating healthy food with pleasant images, experiences and emotions led to greater interest in purchasing or eating it. \"This is a better strategy,\" they claim, than reminding consumers that a certain food is good for them. But are they right?",
+                "zh": "市场营销学教授们认为，解决肥胖问题的真正办法，是让食物看起来更有吸引力，并关注人们观看和食用这些食物时所获得的愉悦感。这种愉悦感可以被用作促进健康食品选择的工具。事实上，该团队开展的研究表明，将健康食品与令人愉悦的图像、体验和情感联系起来，会使人们对购买或食用这种食品产生更大的兴趣。他们声称，与提醒消费者某种食物对身体有益相比，“这是一种更好的策略”。但他们说得对吗？"
+              },
+              {
+                "en": "Well, the researchers cited a marketing campaign designed to reverse the sales decline of carrots. The campaign didn't emphasize the carrots' healthy qualities, but embraced their beauty and the pleasure derived from eating them. For example, the ads focused on the bright, beautiful orange color and crisp texture of the carrots. The campaign led to an impressive increase in product sales of more than 10%. The researchers believe that other companies could bolster sales of healthy foods with similar ads, depicting their products as attractive and a source of pleasure.",
+                "zh": "研究人员举例介绍了一项旨在扭转胡萝卜销量下滑的市场营销活动。该活动没有强调胡萝卜的健康特性，而是展现了它们的美感以及食用它们所带来的愉悦感。例如，广告重点突出胡萝卜明亮美丽的橙色和爽脆的口感。这项活动使产品销量大幅增加了10%以上。研究人员认为，其他公司也可以通过类似的广告来促进健康食品的销售，将其产品描绘成具有吸引力且能带来愉悦的食品。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 19 to 21 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 19,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It has witnessed a spectacular surge in demand."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It has met much criticism from environmentalists."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It has seen more small businesses offering environment-friendly products."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It has experienced increasingly fierce competition among global companies."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 20,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Consumers now know much more about technology."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Their mass production has sharply reduced the price"
+                  },
+                  {
+                    "l": "C",
+                    "t": "Consumers tend to favor all that is novel."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Their quality has been greatly improved."
+                  }
+                ],
+                "a": "A"
+              },
+              {
+                "n": 21,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Purchasing only this kind of products for home cleaning."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Writing positive comments about them on social media."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Demonstrating on TV how effective these products are."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Telling one another about their incomparable virtues.\n\nQuestions 22 to 25 are based on the recording you have just heard."
+                  }
+                ],
+                "a": "B"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "The household cleaning products industry really began to take off in the 1950s. Prior to that, resourceful housewives who had grown up in a less prosperous era relied on substances that they used in their kitchens such as vinegar used to clean windows.",
+                "zh": "家居清洁用品行业真正开始蓬勃发展是在20世纪50年代。在此之前，那些成长于经济不太繁荣时代、富有创造力的家庭主妇，依靠厨房里使用的物质，例如用醋清洁窗户。"
+              },
+              {
+                "en": "Today, the household cleaning products industry is worth billions of dollars a year and is dominated by large global companies. In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business too.",
+                "zh": "如今，家居清洁用品行业每年的产值达数十亿美元，并由大型跨国公司主导。然而，近年来，许多国家都见证了提供更环保清洁产品的小型企业和公司的数量激增，而且它们的生意也做得很好。"
+              },
+              {
+                "en": "One reason for this is that consumers are becoming more aware of environment and sustainability issues. They also want to make their home a safe place, free from toxic chemicals. The third reason is people's awareness of and knowledge about technology has never been greater. In the past, people might have been skeptical of a new product claimed to be able to achieve amazing cleaning results, but they now have faith in technology's ability to do what was once thought impossible.",
+                "zh": "其中一个原因是消费者越来越意识到环境和可持续性问题。他们还希望把家变成一个没有有毒化学物质的安全场所。第三个原因是，人们对技术的认识和了解从未像现在这样深入。过去，人们可能会对一种声称能够取得惊人清洁效果的新产品持怀疑态度，但如今，他们相信技术有能力做到那些曾经被认为不可能的事情。"
+              },
+              {
+                "en": "There is perhaps no better example of this than a patented cloth sold by one company, which remarkably uses only water rather than traditional cleaning products. The company claims its cloth lifts, traps and removes dirt and bacteria. And considering that people don't see these products in shops, or advertised on TV or in the press, it has been a pretty steep rise.",
+                "zh": "或许没有什么比某家公司销售的一种获得专利的抹布更能说明这一点了。这种抹布非常特别，只使用水，而不是传统的清洁产品。该公司声称，这种抹布能够提起、吸附并清除污垢和细菌。考虑到人们既不会在商店里看到这些产品，也不会在电视、报刊或杂志上看到它们的广告，它们的增长速度着实非常快。"
+              },
+              {
+                "en": "Many of the people behind these companies began testing the viability of their products by selling them at local markets. Then, in many cases, customers are doing the marketing for these products by leaving threads of comments on social media, praising their virtues. There are also TV shows and books dedicated to maintaining home tidiness and cleanliness and the benefits of having a clean home.",
+                "zh": "这些公司背后的许多人都是通过在当地市场销售产品，开始测试产品是否具有可行性的。随后，在许多情况下，顾客通过在社交媒体上留下大量评论、称赞这些产品的优点，为它们进行营销。此外，还有专门介绍保持家庭整洁、清洁以及拥有一个干净家庭的益处的电视节目和书籍。"
+              },
+              {
+                "en": "Having a safe and clean home might be one thing people feel they can control in an increasingly out-of-control world. And there are social media celebrities. One woman in Britain has become a social media sensation with more than two million followers for her cleaning tips page.",
+                "zh": "在一个越来越失控的世界里，拥有一个安全而干净的家，可能是人们觉得自己能够掌控的一件事。而且，还有社交媒体名人。英国有一名女性凭借她的清洁技巧页面成为社交媒体红人，粉丝数量超过两百万。"
+              }
+            ]
+          },
+          {
+            "name": "Questions 22 to 25 are based on the recording you have just heard.",
+            "questions": [
+              {
+                "n": 22,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "Increasing cleaners' workload."
+                  },
+                  {
+                    "l": "B",
+                    "t": "Blocking the fountains' works."
+                  },
+                  {
+                    "l": "C",
+                    "t": "Breaking a time-honored ritual."
+                  },
+                  {
+                    "l": "D",
+                    "t": "Polluting the fountains' water."
+                  }
+                ],
+                "a": "B"
+              },
+              {
+                "n": 23,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "They are occasionally retrieved by curious tourists."
+                  },
+                  {
+                    "l": "B",
+                    "t": "They are regularly donated to charity organizations."
+                  },
+                  {
+                    "l": "C",
+                    "t": "They are mostly used for the fountains' maintenance."
+                  },
+                  {
+                    "l": "D",
+                    "t": "They are usually used as wages for fountain cleaners."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 24,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "It is invested in a series of businesses."
+                  },
+                  {
+                    "l": "B",
+                    "t": "It is used exclusively for its maintenance."
+                  },
+                  {
+                    "l": "C",
+                    "t": "It is used to run a supermarket for the needy."
+                  },
+                  {
+                    "l": "D",
+                    "t": "It is estimated to be about $40,000 a month."
+                  }
+                ],
+                "a": "C"
+              },
+              {
+                "n": 25,
+                "s": "",
+                "o": [
+                  {
+                    "l": "A",
+                    "t": "He was arrested for stealing money from four fountain cleaners."
+                  },
+                  {
+                    "l": "B",
+                    "t": "He was sentenced to 34 years' imprisonment."
+                  },
+                  {
+                    "l": "C",
+                    "t": "He collected rare coins from around the world."
+                  },
+                  {
+                    "l": "D",
+                    "t": "He stole a lot of money from a fountain with a magnetic stick."
+                  }
+                ],
+                "a": "D"
+              }
+            ],
+            "transcript": [
+              {
+                "en": "Throwing spare change into a fountain is a time-honored ritual: throw a penny into the water, and your wish might come true. But all that money has to go somewhere. Otherwise, the growing piles of pennies, quarters and euros could clog up the fountains' works. Today, I'm going to talk about where all the coins go.",
+                "zh": "把多余的零钱扔进喷泉是一种历史悠久的仪式：把一枚硬币扔进水里，你的愿望就可能实现。但所有这些钱都必须有去处。否则，越积越多的便士、25美分硬币和欧元硬币可能会堵塞喷泉的内部装置。今天，我要讲讲这些硬币最终都去了哪里。"
+              },
+              {
+                "en": "Well, the coins collected can go to all sorts of different places—from fountain maintenance to charity or public service. In New York City, for example, coins collected from fountains in public parks often go towards the fountains' maintenance itself, though entrepreneurs who don't mind getting their hands wet often get to it first. There are over 50 beautiful decorative display fountains in New York City parks. They are cleaned by the parks' staff every few weeks. But most of the coins have already been removed by entrepreneurial New Yorkers and there is not a significant amount left to be collected.",
+                "zh": "收集到的硬币可以被用于各种不同的地方，例如喷泉维护、慈善事业或公共服务。以纽约市为例，从公共公园喷泉中收集的硬币通常会用于喷泉本身的维护，不过那些不介意把手弄湿的投机者往往会先下手。纽约市的公园里有50多座漂亮的装饰性展示喷泉。公园工作人员每隔几周会对它们进行清洁。但大多数硬币早已被纽约的投机者取走，剩下可收集的数量并不多。"
+              },
+              {
+                "en": "Other cities, though, can pull in a much more serious haul. Take for example, Rome's famous Trevi fountain: for hundreds of years, visitors have thrown coins over their shoulder into the fountain to ensure that they will return. So many tourists toss in coins that Roman officials have the fountain cleaned every night, reportedly getting as much as $4,000 in loose change from around the world each day. Most of the money collected each night goes towards running a supermarket for the needy. And collecting that cash is serious business. Roman officials have been known to be tough on anyone caught skimming coins from the fountain. In one case in 2005, police arrested four fountain cleaners after they were spotted slipping coins into their own pockets after collecting them. Authorities finally caught one notorious thief named Thomas Morgan and banned him from the fountain after he fished out thousands of dollars in change over 34 years using a magnetic stick.",
+                "zh": "不过，其他城市的喷泉可能会带来多得多的收入。以罗马著名的特莱维喷泉为例：数百年来，游客一直将硬币从肩后抛入喷泉，以确保自己将来还会回来。如此多的游客往里投硬币，以至于罗马官员每天晚上都会安排清理喷泉，据报道，每天能从中获得多达4,000美元的世界各地零钱。每晚收集到的大部分钱都用于运营一家为贫困者服务的超市。而收集这些现金是一项严肃的工作。众所周知，罗马官员会严厉对待任何被发现从喷泉中偷取硬币的人。2005年就发生过一起案件：警方发现四名喷泉清洁工在收集硬币后把硬币偷偷塞进自己的口袋，随后将他们逮捕。最终，当局抓住了一名臭名昭著的小偷Thomas Morgan，并禁止他进入喷泉区域；在34年间，他曾用一根磁力棒从喷泉中捞出数千美元的零钱。"
+              },
+              {
+                "en": "For the most part, money collected from privately-owned fountains in the United States also goes to charity. The fountain in New York City's Bryant Park is owned and operated by a not-for-profit corporation, which puts the cash collected by cleaners towards the fountain's own maintenance. Tens of thousands of dollars in coins removed from wishing wells, fountains and ponds in Florida's Walt Disney World are donated each year to support foster children living in the state. Whether or not your wish comes true after tossing a coin into a fountain, you can rest assured knowing that the change is likely going to someone who needs it.",
+                "zh": "在美国，从私人拥有的喷泉中收集到的钱大多也会捐给慈善机构。纽约市布莱恩特公园的喷泉由一家非营利公司所有并运营，清洁工收集到的现金会被用于喷泉本身的维护。佛罗里达州华特迪士尼世界的许愿井、喷泉和池塘中每年取出的数万美元硬币，都会被捐出，用于帮助生活在该州的寄养儿童。无论你把硬币扔进喷泉后愿望是否实现，你都可以放心，因为这些零钱很可能会流向需要帮助的人。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "transcript": [],
+    "shared": "cet6-2022-12-1"
+  },
+  "reading": {
+    "banked": {
+      "passage": [
+        {
+          "t": "American colleges and universities are using 64 percent less coal than they did a decade ago, burning 700,000 tons last year, down from 2 million tons in 2008, the U.S. Energy Information Administration (EIA) said in a report"
+        },
+        {
+          "n": 26
+        },
+        {
+          "t": "yesterday. All 57 schools that were burning coal in 2008 are using less now, and 20 have"
+        },
+        {
+          "n": 27
+        },
+        {
+          "t": "coal completely, EIA found. Most universities have turned to natural gas as a"
+        },
+        {
+          "n": 28
+        },
+        {
+          "t": ", with state funding backing the fuel switch. While academic institutions use less than 0.1 percent of U.S. coal burned for power, campus coal use has a history dating back to the 1800s when"
+        },
+        {
+          "n": 29
+        },
+        {
+          "t": "to power was scarce. Many universities still operate their own power plants. The Public Utility Regulatory Policies Act of 1978 encouraged more electricity generation by allowing institutions to sell"
+        },
+        {
+          "n": 30
+        },
+        {
+          "t": "power to utilities. But EIA noted many coal-fired universities have signed onto the American College and University Presidents Climate Commitment, which was launched in 2007. About 665 schools are part of the program, which aims to"
+        },
+        {
+          "n": 31
+        },
+        {
+          "t": "greenhouse gas emissions. Thirty percent of the participants have pledged to be carbon"
+        },
+        {
+          "n": 32
+        },
+        {
+          "t": "within 20 years. The Sierra Club's Beyond Coal campaign, which also leads campaigns for universities to withdraw their"
+        },
+        {
+          "n": 33
+        },
+        {
+          "t": "in coal and other fossil fuels, lists 22 schools that have pledged to move \"beyond coal,\" including Clemson University, Indiana University, Ohio University, Penn State University, the University of Louisville and the University of Tennessee, Knoxville. The largest coal use"
+        },
+        {
+          "n": 34
+        },
+        {
+          "t": "at colleges were in Michigan, Missouri, Tennessee and Indiana. Indiana's universities alone cut coal"
+        },
+        {
+          "n": 35
+        },
+        {
+          "t": "by 81 percent between 2008 and 2015. During the same period, Michigan made an 80 percent cut and Tennessee cut back by 94 percent at state institutions."
+        }
+      ],
+      "bank": [
+        {
+          "l": "A",
+          "w": "abandoned"
+        },
+        {
+          "l": "B",
+          "w": "access"
+        },
+        {
+          "l": "C",
+          "w": "consumption"
+        },
+        {
+          "l": "D",
+          "w": "contrive"
+        },
+        {
+          "l": "E",
+          "w": "duplications"
+        },
+        {
+          "l": "F",
+          "w": "investments"
+        },
+        {
+          "l": "G",
+          "w": "mobilized"
+        },
+        {
+          "l": "H",
+          "w": "negligent"
+        },
+        {
+          "l": "I",
+          "w": "neutral"
+        },
+        {
+          "l": "J",
+          "w": "reductions"
+        },
+        {
+          "l": "K",
+          "w": "released"
+        },
+        {
+          "l": "L",
+          "w": "replacement"
+        },
+        {
+          "l": "M",
+          "w": "slash"
+        },
+        {
+          "l": "N",
+          "w": "surplus"
+        },
+        {
+          "l": "O",
+          "w": "void"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "a": "K"
+        },
+        {
+          "n": 27,
+          "a": "A"
+        },
+        {
+          "n": 28,
+          "a": "L"
+        },
+        {
+          "n": 29,
+          "a": "B"
+        },
+        {
+          "n": 30,
+          "a": "N"
+        },
+        {
+          "n": 31,
+          "a": "M"
+        },
+        {
+          "n": 32,
+          "a": "I"
+        },
+        {
+          "n": 33,
+          "a": "F"
+        },
+        {
+          "n": 34,
+          "a": "J"
+        },
+        {
+          "n": 35,
+          "a": "C"
+        }
+      ]
+    },
+    "matching": {
+      "title": "Classical music aims to evolve, build audiences without alienating old guard",
+      "paragraphs": [
+        {
+          "l": "A",
+          "t": "In 1913, classical music sparked a riot in Paris. Igor Stravinsky was introducing his revolutionary \"Rite of Spring\" ballet to the world, with its discordant melodies and unorthodox choreography(编舞), and the purists in the crowd expressed their disapproval loud and clear. It might have been classical music's version of the time Bob Dylan went electric at the Newport Folk Festival. \"The noise, fighting, and shouting in the audience got so loud,\" NPR's music reporter Miles Hoffman said of the Stravinsky debut, \"that the choreographer had to shout out the numbers to the dancers so that they knew what they were supposed to do.\""
+        },
+        {
+          "l": "B",
+          "t": "It's difficult to imagine a similar disturbance occurring today within America's sacred symphony halls. In fact, it's hard to picture any kind of disruptive activity at all (unless someone's cell phone happens to go off, and then you'd better watch your back). A mannerly aura(氛围) hangs over most classical proceedings, and many of the genre's biggest supporters would have it no other way."
+        },
+        {
+          "l": "C",
+          "t": "Today, Western audiences for classical music and opera and ballet are almost always well dressed, older, respectful, achingly silent and often very wealthy (one has to be able to afford most tickets). But as many of America's most storied \"highbrow\"( 高雅的) institutions struggle financially—the Philadelphia Orchestra's much-publicized rebound from bankruptcy is just one recent example—classical music fans and theorists are wondering how the medium can weave itself into the 21st century's cultural fabric without sacrificing its integrity."
+        },
+        {
+          "l": "D",
+          "t": "For example, should we feel OK \"clapping\" during classical music events, even if nobody else is? Why shouldn't we cheer for something great, like we do at a rock concert? The Huffington Post recently ran a Great Debate on this issue and many commenters came out on the side of silence. \"There is no more rewarding experience in life than being part of an audience where everybody is leaning forward in silence, thoroughly carried away by a great performance of a masterpiece,\" one commenter wrote. \"Why is it so difficult for folks to develop an appreciation and understanding for the mannerisms and traditions of classical music?\" asked another."
+        },
+        {
+          "l": "E",
+          "t": "The truth is that classical music audiences weren't always so polite. Robert Greenberg, an award-winning composer, said that when Beethoven first performed his 7th Symphony, audiences forced the orchestra to perform encores(重演) of certain movements immediately, applauding wildly. And in the last few decades, he said, many audiences at opera performances have abandoned pretenses, yelling \"Bravo\" when they feel like it."
+        },
+        {
+          "l": "F",
+          "t": "\"I don't think there's anything wrong with an audience showing their enthusiasm for a proper moment by applauding, showing their joy,\" Greenberg said, noting that the stuffiness in concert halls is \"one aspect of contemporary concert etiquette\" he doesn't understand. \"Instead of waiting half an hour to show enthusiasm, why not show it every eight or nine minutes?\""
+        },
+        {
+          "l": "G",
+          "t": "Until the rules about behavior and clothing change, it's hard to imagine multitudes of young people filling concert halls on their own accord. They're probably more likely to head to Central Park to watch a free performance with a bottle of wine and their friends. \"I think anyone should be able to come into a performance dressed any way they like, and be comfortable any way they like, sitting in that seat ready to enjoy themselves,\" Greenberg said. \"Because it's enjoyable.\""
+        },
+        {
+          "l": "H",
+          "t": "Greenberg stressed that he doesn't want people to start respecting the music less, and he's not suggesting that we \"dumb down\" the experience. Rather, it's about opening up \"access.\" When operas first instituted subtitles(字幕) during shows, he said, many purists didn't like the idea, believing that the audience should instead study the works before attending. But now it's commonplace to find titles on the seatback in front of you—choose a language, sit back, and understand what's going on."
+        },
+        {
+          "l": "I",
+          "t": "Allison Vulgamore, president of the Philadelphia Orchestra, is certainly looking to the future. She says certain \"classics concerts\" dedicated to the old masters will always exist, but not every program has to feature Beethoven and Brahms—or even a stage and seats. \"We're trying to introduce different kinds of concerts in different ways,\" she said. \"We are an interactive society now, where people like to learn.\""
+        },
+        {
+          "l": "J",
+          "t": "As the Philadelphia Orchestra rebounds from its financial straits, it is also aiming to experiment, without alienating the loyalists. Vulgamore pointed to Cirque de la Symphonie, a recent offering in which jugglers(玩 杂耍的人) and acrobats(杂技演员) interacted with musicians. An upcoming collaboration with New York City's Ridge Theatre, meanwhile, will feature a \"suspended dance installation\" and other theatrical elements occurring in conjunction with an orchestral piece."
+        },
+        {
+          "l": "K",
+          "t": "The orchestra also continues to offer $25 annual memberships to Philadelphia students, who can buy rush tickets to every concert on the schedule. \"Students line up for the concerts they want, and we get roughly 300 or 350 kids a night coming to these. They take any of the open seats available, 5 minutes before the concert starts,\" Vulgamore said. \"It's like the running of the bulls, that energy when the doors open.\""
+        },
+        {
+          "l": "L",
+          "t": "Greenberg thinks that youthful energy needs to be harvested. Conductors don't have to be arrogant and untouchable—they can be accessible. Perhaps there could even be a \"bit of humor\" about them, he suggested, and an abandoning of pretension within the high-art institutions themselves. \"On one hand, these organizations are all saying the same thing: we want more general audiences, to break down cultural barriers,\" he said. \"But then they come up with some very snooty(目中无人的) thing that makes you crazy.\""
+        },
+        {
+          "l": "M",
+          "t": "John Terauds, a critic who has covered Toronto's classical music scene extensively, also wants to do away with the stuffiness. He suggested that the warmer an audience is, the better the musicians themselves will respond. \"But the producer or organizer has to let everyone know it's OK,\" he said. \"It's OK to enjoy yourself.\" At the Toronto Symphony Orchestra, for example, conductor Peter Oundjian often stops between pieces, taking a moment to talk about the composer or the music in a very amiable way. And some nights, Terauds said, \"at least a third\" of the audience consists of students who have purchased cheaper tickets. On these nights, the energy of the room drastically shifts. It becomes a less intimidating place."
+        },
+        {
+          "l": "N",
+          "t": "Back in February, Terauds wrote on his blog about how going to classical performances can be intimidating. Certain people \"think they have to dress up,\" he wrote. \"They think they have to know something about the music before they go. And, I'm sure, sitting in a seat, trembling in fear that this might be the wrong time to applaud, is also one of the factors.\""
+        },
+        {
+          "l": "O",
+          "t": "Everyone in the classical world agrees on the need for increased \"accessibility,\" but achieving it is often easier said than done. Nowadays, there are unknown, unorthodox opera singers wowing(博得……的喝彩) viewers on TV programs like \"America's Got Talent\" and \"The Voice\". What can higher institutions do with any of that? And if they appeal to these outlets, do they risk compromising the integrity or the intelligence of the music?"
+        },
+        {
+          "l": "P",
+          "t": "Vulgamore seems to understand this. She thinks an organization can have it both ways, claiming the new while keeping the old. And as she reorganizes the Philadelphia Orchestra, she will attempt to do just that. \"The world's most respected musicians brought together as an orchestra will always exist,\" she said. \"But it's essential that we be willing to experiment and fail.\""
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "s": "It was not a rare occurrence that audiences behaved wildly while listening to classical music.",
+          "a": "E"
+        },
+        {
+          "n": 37,
+          "s": "Some high-art institutions don't actually mean it when they say they want more general audiences.",
+          "a": "L"
+        },
+        {
+          "n": 38,
+          "s": "The theatre was in chaos when an unconventional ballet was first put on stage in the capital of France.",
+          "a": "A"
+        },
+        {
+          "n": 39,
+          "s": "According to one critic, the audience's warm response would encourage the musicians to do a better job.",
+          "a": "M"
+        },
+        {
+          "n": 40,
+          "s": "Many commenters argued for the audience enjoying classical music quietly.",
+          "a": "D"
+        },
+        {
+          "n": 41,
+          "s": "What appears on the seatback screen makes it unnecessary for the audience to study the works beforehand.",
+          "a": "H"
+        },
+        {
+          "n": 42,
+          "s": "It is generally accepted that there should be no disturbance from the audience during classical music performance.",
+          "a": "B"
+        },
+        {
+          "n": 43,
+          "s": "Higher institutions will be concerned about compromising the integrity of classical music if they have to resort to the television medium.",
+          "a": "O"
+        },
+        {
+          "n": 44,
+          "s": "Heavily discounted rush tickets help attract many young students to attend classical concerts.",
+          "a": "K"
+        },
+        {
+          "n": 45,
+          "s": "The formalities of high-art theatres can intimidate some people attending a performance.",
+          "a": "N"
+        }
+      ]
+    },
+    "careful": [
+      {
+        "t": "One",
+        "passage": "How can one person enjoy good health, while another person looks old before her time? Humans have been asking this question for thousands of years, and recently, it's becoming clearer and clearer to scientists that the differences between people's rates of aging lie in the complex interactions among genes, social relationships, environments and lifestyles. Even though you were born with a particular set of genes, the way you live can influence how they express themselves. Some lifestyle factors may even turn genes on or shut them off. Deep within the genetic heart of all our cells are telomeres, or repeating segments of noncoding DNA that live at the ends of the chromosomes(染色体). They form caps at the ends of the chromosomes and keep the genetic material together. Shortening with each cell division, they help determine how fast a cell ages. When they become too short, the cell stops dividing altogether. This isn't the only reason a cell can age—there are other stresses on cells we don't yet understand very well—but short telomeres are one of the major reasons human cells grow old. We've devoted most of our careers to studying telomeres, and one extraordinary discovery from our labs is that telomeres can actually lengthen. Scientists have learned that several thought patterns appear to be unhealthy for telomeres, and one of them is cynical hostility. Cynical hostility is defined by high anger and frequent thoughts that other people cannot be trusted. Someone with hostility doesn't just think, \"I hate to stand in long lines\"; they think, \"Others deliberately sped up and beat me to my rightful position in the line!\"—and then get violently agitated. People who score high on measures of cynical hostility tend to get more heart disease, metabolic disease and often die at younger ages. They also have shorter telomeres. In a study of British civil servants, men who scored high on measures of cynical hostility had shorter telomeres than men whose hostility scores were low. The most hostile men were 30% more likely to have short telomeres. What this means: aging is a dynamic process that could possibly be accelerated or slowed—and, in some aspects, even reversed. To an extent, it has surprised us and the rest of the scientific community that telomeres do not simply carry out the commands issued by your genetic code. Your telomeres are listening to you. The foods you eat, your response to challenges, the amount of exercise you get, and many other factors appear to influence your telomeres and can prevent premature aging at the cellular level. One of the keys to enjoying good health is simply doing your part to foster healthy cell renewal.",
+        "questions": [
+          {
+            "n": 46,
+            "s": "What have scientists come to know better today?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Why people age at different rates."
+              },
+              {
+                "l": "B",
+                "t": "How genes influence the aging process."
+              },
+              {
+                "l": "C",
+                "t": "How various genes express themselves in aging."
+              },
+              {
+                "l": "D",
+                "t": "Why people have long been concerned about aging."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 47,
+            "s": "Why are some lifestyle factors considered extremely important?",
+            "o": [
+              {
+                "l": "A",
+                "t": "They may shorten the process of cell division."
+              },
+              {
+                "l": "B",
+                "t": "They may determine how genes function."
+              },
+              {
+                "l": "C",
+                "t": "They may affect the lifespan of telomeres."
+              },
+              {
+                "l": "D",
+                "t": "They may account for the stresses on cells."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 48,
+            "s": "What have the author and his colleagues discovered about telomeres?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Their number affects the growth of cells."
+              },
+              {
+                "l": "B",
+                "t": "Their length determines the quality of life."
+              },
+              {
+                "l": "C",
+                "t": "Their shortening process can be reversed."
+              },
+              {
+                "l": "D",
+                "t": "Their health impacts the division of cells."
+              }
+            ],
+            "a": "C"
+          },
+          {
+            "n": 49,
+            "s": "What have scientists learned about cynical hostility?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may lead to confrontational thought patterns."
+              },
+              {
+                "l": "B",
+                "t": "It may produce an adverse effect on telomeres."
+              },
+              {
+                "l": "C",
+                "t": "It may cause people to lose their temper frequently."
+              },
+              {
+                "l": "D",
+                "t": "It may stir up agitation among those in long lines."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 50,
+            "s": "What do we learn from the last paragraph about the process of aging?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It may vary from individual to individual."
+              },
+              {
+                "l": "B",
+                "t": "It challenges scientists to explore further."
+              },
+              {
+                "l": "C",
+                "t": "It depends on one's genetic code."
+              },
+              {
+                "l": "D",
+                "t": "It may be controlled to a degree."
+              }
+            ],
+            "a": "D"
+          }
+        ]
+      },
+      {
+        "t": "Two",
+        "passage": "Scientists have created by accident an enzyme(酶) that breaks down plastic drinks bottles. The breakthrough could help solve the global plastic pollution crisis by enabling for the first time the full recycling of bottles. The new research was spurred by the discovery in 2016 of the first bacterium that had naturally evolved to eat plastic at a waste dump in Japan. Scientists have now revealed the detailed structure of the crucial enzyme produced by the bug. An international team then adjusted the enzyme to see how it had evolved, but tests showed they had accidentally made the molecule even better at breaking down the plastic used for drinks bottles. \"What actually turned out was we improved the enzyme, which was a bit of a shock,\" said head researcher Prof. McGeehan, at the University of Portsmouth, UK. Currently, the enzyme takes a few days to start breaking down the plastic, far faster than the centuries it takes in the oceans, but the researchers are optimistic this can be speeded up even further and become a viable large-scale process. \"What we are hoping to do is use this enzyme to turn this plastic back into its original components, so we can literally recycle it back to plastic,\" said McGeehan. \"It means we won't need to dig up any more oil and, fundamentally, it should reduce the amount of plastic in the environment.\" About 1 million plastic bottles are sold each minute around the globe and, with just 14% recycled, many end up in the oceans where they have polluted even the remotest parts, harming marine life and potentially people who eat sea food. \"Plastic is incredibly resistant to degradation,\" said McGeehan. \"It is one of these wonder materials that has been made a little bit too well.\" Currently those bottles that are recycled can only be turned into opaque fibres for clothing or carpets, while the new enzyme indicates a way to recycle old clear plastic bottles back into new clear plastic bottles. \"You are always up against the fact oil is cheap, so plastic is cheap,\" said McGeehan. \"It is so easy for manufacturers to generate more of that stuff, rather than even try to recycle, but I believe there is a public interest here: perception is changing so much that companies are starting to look at how they can properly recycle these bottles.\" Prof. Adisa Azapagic, at the University of Manchester in the UK, agreed the enzyme could be useful but added: \"A full life-cycle assessment would be needed to ensure that the technology does not solve one environmental problem—waste—at the expense of others, including additional greenhouse gas emissions.\"",
+        "questions": [
+          {
+            "n": 51,
+            "s": "What do we learn from the passage about an enzyme scientists have created?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It was identified during a lab experiment accident."
+              },
+              {
+                "l": "B",
+                "t": "It may make full recycling of plastic bottles a reality."
+              },
+              {
+                "l": "C",
+                "t": "It was a breakthrough made with persistent efforts."
+              },
+              {
+                "l": "D",
+                "t": "It may initiate a radical reform in plastic industry."
+              }
+            ],
+            "a": "B"
+          },
+          {
+            "n": 52,
+            "s": "What does the passage say about the bug that produces the important enzyme?",
+            "o": [
+              {
+                "l": "A",
+                "t": "It has a natural ability to consume plastics."
+              },
+              {
+                "l": "B",
+                "t": "It is a bacterium that reproduces at a high rate."
+              },
+              {
+                "l": "C",
+                "t": "It is essential to the recycling of plastic bottles."
+              },
+              {
+                "l": "D",
+                "t": "It has a chemical structure unknown to scientists."
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 53,
+            "s": "By adjusting the enzyme produced by the bug, the scientists_______.",
+            "o": [
+              {
+                "l": "A",
+                "t": "made it more effective by chance"
+              },
+              {
+                "l": "B",
+                "t": "discovered an extraordinary chemical"
+              },
+              {
+                "l": "C",
+                "t": "altered its basic molecular composition"
+              },
+              {
+                "l": "D",
+                "t": "found its evolutionary process sped up"
+              }
+            ],
+            "a": "A"
+          },
+          {
+            "n": 54,
+            "s": "What does Prof. McGeehan say about the recycling of plastic bottles?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Manufacturers are implementing it on an increasingly larger scale."
+              },
+              {
+                "l": "B",
+                "t": "It generates huge business opportunities for plastic manufacturers."
+              },
+              {
+                "l": "C",
+                "t": "It has aroused persistent interest among the general public."
+              },
+              {
+                "l": "D",
+                "t": "Manufacturers are beginning to explore ways of doing it."
+              }
+            ],
+            "a": "D"
+          },
+          {
+            "n": 55,
+            "s": "What is Prof. Adisa Azapagic's advice concerning the application of the enzyme?",
+            "o": [
+              {
+                "l": "A",
+                "t": "Developing technologies to address greenhouse gas emissions."
+              },
+              {
+                "l": "B",
+                "t": "Considering the extra cost involved in producing the enzyme."
+              },
+              {
+                "l": "C",
+                "t": "Assessing its possible negative impact on the environment."
+              },
+              {
+                "l": "D",
+                "t": "Studying the full life cycle of the enzyme as the first step."
+              }
+            ],
+            "a": "C"
+          }
+        ]
+      }
+    ]
+  },
+  "translation": {
+    "source": "云贵高原(the Yunnan-Guizhou Plateau)大部分位于云南、贵州省境内，总面积约50万平方公里，平均海拔 2000-4000米，是中国第四大高原。云贵高原西高东低，河流众多，形成了许多又深又陡的峡谷(canyon)。 峡 谷中许多地方土壤肥沃，非常有利于多种农作物生长。 云贵高原独特的自然环境造就了生物和文化的多样 性。它是中国森林和矿产资源类型十分丰富的地区，也是古人类起源的重要地区。云贵高原是中国少数民族数 量最多的地区，各民族都保留了自己丰富多彩的文化传统。",
+    "reference": "Located mostly in Yunnan Province and Guizhou Province, the Yunnan-Guizhou Plateau, with a total area of about 500,000 square kilometers and an average altitude of 2,000 to 4,000 meters, is the fourth largest plateau in China. High in the west and low in the east, the plateau is crisscrossed by numerous rivers, which have carved out many deep and steep canyons. In many parts of these canyons, the soil is fertile, which is highly favorable for the growth of various crops. The unique natural environment of the Yunnan-Guizhou Plateau has given rise to rich biological and cultural diversity. It is a region rich in various types of forest and mineral resources in China, and it is also an important area for the origin of ancient humans. The Yunnan-Guizhou Plateau is home to the largest number of ethnic minorities in China, where each ethnic group has preserved its own rich and colorful cultural traditions."
+  }
+}
