@@ -43,7 +43,7 @@ const RESOURCES = [
     id: 'stardict',
     parts: [
       ['stardict.7z.001', VOL],
-      ['stardict.7z.002', 56_979_524],
+      ['stardict.7z.002', 48_027_537],
     ],
     place: [['stardict.db', path.join(ROOT, 'stardict.db')]],
   },
