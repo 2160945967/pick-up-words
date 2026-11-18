@@ -42,7 +42,7 @@ export function buildGradingEntry(a: BuildGradingArgs): Record<string, unknown> 
     return {
         schema: GRADING_SCHEMA,
         ts: now,
-        appVersion: a.appVersion ?? '2.0.2',
+        appVersion: a.appVersion ?? '2.1.0',
         mode: a.mode,
         word: a.word,
         source: a.source,
