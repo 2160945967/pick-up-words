@@ -21,6 +21,10 @@ export interface DownloadProgress {
   downloaded: number;
   total: number;
   percent: number;
+  /** 实时下载速度（字节/秒），暂停或未下载时为 0 */
+  speedBps: number;
+  /** downloading=下载中（有实时速度）；paused=已暂停/断点可续传（速度为 0） */
+  status: 'downloading' | 'paused';
 }
 
 type ProgressCallback = (progress: DownloadProgress) => void;
@@ -31,6 +35,45 @@ const doneListeners: DoneCallback[] = [];
 
 /** 内存中的下载进度缓存，供前端轮询使用 */
 const downloadProgressMap = new Map<string, DownloadProgress>();
+
+/** 网速采样：每个资源保留最近一段时间的 {时间, 已下载字节}，用于滑动窗口计算实时速度 */
+interface SpeedSample { t: number; bytes: number; }
+const speedSamples = new Map<string, SpeedSample[]>();
+const SPEED_WINDOW_MS = 2000;
+/** 超过该速率（字节/毫秒，约 500 MB/s）视为采样不连续，重置窗口避免瞬时虚高 */
+const SPEED_DISCONTINUITY_BPMS = 500 * 1024;
+
+function resetSpeedSamples(assetId: string): void {
+  speedSamples.delete(assetId);
+  const cur = downloadProgressMap.get(assetId);
+  if (cur) cur.speedBps = 0;
+}
+
+/** 记录一次进度采样并返回当前滑动窗口平均速度（字节/秒） */
+function recordSpeed(assetId: string, downloaded: number): number {
+  const now = Date.now();
+  let samples = speedSamples.get(assetId);
+  if (!samples) {
+    samples = [];
+    speedSamples.set(assetId, samples);
+  }
+  const last = samples[samples.length - 1];
+  if (last) {
+    const dt = now - last.t;
+    const db = downloaded - last.bytes;
+    // 回退（服务端不支持 Range 重新开始）或瞬时跳变过快 → 重置窗口
+    if (db < 0 || (dt > 0 && db / dt > SPEED_DISCONTINUITY_BPMS)) {
+      samples.length = 0;
+    }
+  }
+  samples.push({ t: now, bytes: downloaded });
+  while (samples.length > 1 && now - samples[0].t > SPEED_WINDOW_MS) samples.shift();
+  if (samples.length < 2) return 0;
+  const first = samples[0];
+  const dt = (now - first.t) / 1000;
+  if (dt <= 0) return 0;
+  return Math.max(0, (downloaded - first.bytes) / dt);
+}
 
 export function onProgress(cb: ProgressCallback): () => void {
   progressListeners.push(cb);
@@ -48,19 +91,50 @@ export function onDone(cb: DoneCallback): () => void {
   };
 }
 
-/** 获取指定资源的当前下载进度 */
+/** 获取指定资源的当前下载进度（含磁盘上的断点续传状态） */
 export function getDownloadProgress(assetId: string): DownloadProgress | undefined {
-  return downloadProgressMap.get(assetId);
+  const live = downloadProgressMap.get(assetId);
+  if (live) return live;
+  if (isAssetDownloaded(assetId)) return undefined;
+  const partial = getAssetPartialProgress(assetId);
+  if (partial) {
+    return {
+      assetId,
+      downloaded: partial.downloaded,
+      total: partial.total,
+      percent: partial.percent,
+      speedBps: 0,
+      status: 'paused',
+    };
+  }
+  return undefined;
 }
 
-/** 获取所有进行中的下载进度 */
+/** 获取所有下载进度：进行中的实时进度 + 磁盘上可续传的断点（暂停态） */
 export function getAllDownloadProgress(): Map<string, DownloadProgress> {
-  return new Map(downloadProgressMap);
+  const result = new Map<string, DownloadProgress>(downloadProgressMap);
+  for (const asset of getAllAssets()) {
+    if (result.has(asset.id)) continue;
+    if (isAssetDownloaded(asset.id)) continue;
+    const partial = getAssetPartialProgress(asset.id);
+    if (partial) {
+      result.set(asset.id, {
+        assetId: asset.id,
+        downloaded: partial.downloaded,
+        total: partial.total,
+        percent: partial.percent,
+        speedBps: 0,
+        status: 'paused',
+      });
+    }
+  }
+  return result;
 }
 
 function emitProgress(assetId: string, downloaded: number, total: number) {
   const percent = total > 0 ? Math.round((downloaded / total) * 1000) / 10 : 0;
-  const p: DownloadProgress = { assetId, downloaded, total, percent };
+  const speedBps = recordSpeed(assetId, downloaded);
+  const p: DownloadProgress = { assetId, downloaded, total, percent, speedBps, status: 'downloading' };
   downloadProgressMap.set(assetId, p);
   for (const cb of progressListeners) {
     try { cb(p); } catch {}
@@ -68,10 +142,14 @@ function emitProgress(assetId: string, downloaded: number, total: number) {
 }
 
 function emitDone(assetId: string, success: boolean, error?: string) {
-  if (success) {
-    const current = downloadProgressMap.get(assetId);
-    if (current) {
-      downloadProgressMap.set(assetId, { ...current, downloaded: current.total, percent: 100 });
+  resetSpeedSamples(assetId);
+  const current = downloadProgressMap.get(assetId);
+  if (current) {
+    if (success) {
+      downloadProgressMap.set(assetId, { ...current, downloaded: current.total, percent: 100, speedBps: 0 });
+    } else {
+      // 失败时保留已下载字节数，标记为可续传的暂停态
+      downloadProgressMap.set(assetId, { ...current, speedBps: 0, status: 'paused' });
     }
   }
   for (const cb of doneListeners) {
@@ -163,8 +241,9 @@ export function deleteAsset(assetId: string): { success: boolean; message: strin
       }
     }
 
-    // 清理内存中的进度状态
+    // 清理内存中的进度状态与网速采样
     downloadProgressMap.delete(assetId);
+    resetSpeedSamples(assetId);
 
     return { success: true, message: deleted ? '已删除资源' : '资源不存在于下载目录' };
   } catch (e: any) {
@@ -184,7 +263,22 @@ export function pauseAssetDownload(assetId: string): boolean {
   if (controller) {
     controller.abort();
     activeDownloadControllers.delete(assetId);
+    // 保留进度，标记为暂停态，前端据此显示“继续下载”
+    const cur = downloadProgressMap.get(assetId);
+    if (cur) {
+      downloadProgressMap.set(assetId, { ...cur, speedBps: 0, status: 'paused' });
+    }
+    resetSpeedSamples(assetId);
     console.log(`[asset-manager] 已暂停资源下载: ${assetId}`);
+    return true;
+  }
+  // 没有活动控制器：说明当前没有真正在下载。若进度图里仍残留“下载中”的陈旧条目
+  // （例如下载异常退出时未归一化），兜底归一为“暂停”态，让前端回到“继续下载”，无需重启
+  const stale = downloadProgressMap.get(assetId);
+  if (stale && stale.status !== 'paused') {
+    downloadProgressMap.set(assetId, { ...stale, speedBps: 0, status: 'paused' });
+    resetSpeedSamples(assetId);
+    console.log(`[asset-manager] 归一化残留下载进度为暂停态: ${assetId}`);
     return true;
   }
   return false;
@@ -220,8 +314,19 @@ export async function downloadAsset(assetId: string): Promise<void> {
   try {
     // 分卷资源
     if (asset.parts && asset.parts.length > 0) {
-      await downloadMultipartAsset(asset, controller.signal);
-      return;
+      try {
+        await downloadMultipartAsset(asset, controller.signal);
+        return;
+      } catch (err: any) {
+        // 用户主动暂停：pauseAssetDownload 已把进度归一为“暂停”态，直接抛出即可
+        if (err.name === 'AbortError' || err.message?.includes('aborted')) {
+          throw err;
+        }
+        // 兜底：任何未在 downloadUrl 内归一化的异常（如解压失败、未知错误），
+        // 都标记为可续传的暂停态，避免进度残留“下载中”导致会话内无法继续
+        emitDone(assetId, false, err.message || String(err));
+        throw err;
+      }
     }
 
     // 单文件资源
@@ -263,8 +368,12 @@ export async function downloadAsset(assetId: string): Promise<void> {
         }
         console.warn(`[asset-manager] 从 ${url} 下载 ${assetId} 失败:`, err.message || err);
         lastError = err;
-        // 当前 URL 失败时，下一次循环换个 URL 重新下载
-        try { fs.unlinkSync(tmpFile); } catch {}
+        // 保留 .tmp 断点供下次续传；仅当临时文件异常超过预期大小时才清理，避免追加到损坏文件
+        try {
+          if (fs.existsSync(tmpFile) && asset.size > 0 && fs.statSync(tmpFile).size > asset.size) {
+            fs.unlinkSync(tmpFile);
+          }
+        } catch {}
       }
     }
 
@@ -368,7 +477,10 @@ function downloadUrl(
         }
       }
       if (res.statusCode !== 200 && res.statusCode !== 206) {
-        reject(new Error(`下载失败，HTTP ${res.statusCode}: ${url}`));
+        const msg = `下载失败，HTTP ${res.statusCode}: ${url}`;
+        // 归一化进度：标记为可续传的暂停态，避免残留“下载中”导致会话内无法继续
+        emitDone(assetId, false, msg);
+        reject(new Error(msg));
         return;
       }
 
@@ -504,7 +616,73 @@ export async function downloadRequiredAssets(): Promise<void> {
   }
 }
 
-/** 获取当前所有资源的状态 */
-export function getAssetsStatus(): Array<AssetItem & { downloaded: boolean }> {
-  return getAllAssets().map(a => ({ ...a, downloaded: isAssetAvailable(a.id) }));
+/** 扫描磁盘上的临时下载文件，计算某个资源的断点续传进度（未完成时返回） */
+export function getAssetPartialProgress(
+  assetId: string
+): { downloaded: number; total: number; percent: number } | null {
+  const asset = getAssetById(assetId);
+  if (!asset) return null;
+
+  const total = asset.size || 0;
+  let downloaded = 0;
+  let found = false;
+
+  try {
+    if (asset.parts && asset.parts.length > 0) {
+      const partDir = path.join(ASSETS_DIR, '.downloads', asset.id);
+      for (const part of asset.parts) {
+        const partFile = path.join(partDir, part.filename);
+        const tmpFile = `${partFile}.tmp`;
+        if (fs.existsSync(partFile) && fs.statSync(partFile).size === part.size) {
+          downloaded += part.size;
+          found = true;
+        } else if (fs.existsSync(tmpFile)) {
+          const sz = fs.statSync(tmpFile).size;
+          downloaded += sz;
+          if (sz > 0) found = true;
+        }
+      }
+    } else {
+      const tmpFile = path.join(ASSETS_DIR, `${asset.localPath}.tmp`);
+      if (fs.existsSync(tmpFile)) {
+        downloaded = fs.statSync(tmpFile).size;
+        if (downloaded > 0) found = true;
+      }
+    }
+  } catch {
+    return null;
+  }
+
+  if (!found || downloaded <= 0) return null;
+  const effTotal = total > 0 ? total : downloaded;
+  if (downloaded >= effTotal) return null; // 已下完但最终文件未就位的异常态不算断点
+  return {
+    downloaded,
+    total: effTotal,
+    percent: Math.round((downloaded / effTotal) * 1000) / 10,
+  };
+}
+
+/** 获取当前所有资源的状态（含断点续传信息） */
+export function getAssetsStatus(): Array<
+  AssetItem & {
+    downloaded: boolean;
+    partial: boolean;
+    partialDownloaded: number;
+    partialTotal: number;
+    partialPercent: number;
+  }
+> {
+  return getAllAssets().map(a => {
+    const downloaded = isAssetAvailable(a.id);
+    const partial = downloaded ? null : getAssetPartialProgress(a.id);
+    return {
+      ...a,
+      downloaded,
+      partial: !!partial,
+      partialDownloaded: partial?.downloaded ?? 0,
+      partialTotal: partial?.total ?? 0,
+      partialPercent: partial?.percent ?? 0,
+    };
+  });
 }

@@ -24,7 +24,7 @@ const OFFICIAL_TIMING: Record<ReadingLevel, OfficialTiming> = {
 
 // ---------------- 数据类型（对应构建 JSON 短键） ----------------
 interface RQuestion { n: number; s: string; o: string[]; a: string; e: string; zs: string; zo: string[] }
-interface RArticle { n: number; t: string; p: string[]; q: RQuestion[]; zt: string; zp: string[] }
+interface RArticle { n: number; t: string; p: string[]; q: RQuestion[]; zt: string; zp: string[]; src?: string }
 interface ReadingFile { level: string; label: string; count: number; articles: RArticle[] }
 
 interface LQuestion { n: number; s: string; o: string[]; a: string }
@@ -47,7 +47,8 @@ interface RealClip { name: string; questions: RealQ[]; transcript: RealTranscrip
 interface RealSection { key: string; name: string; clips: RealClip[] }
 interface RealListening { audio: string; sections: RealSection[]; transcript: unknown[] }
 interface RealBankItem { l: string; w: string }
-interface RealBanked { passage: string; bank: RealBankItem[]; questions: { n: number; a: string }[] }
+interface RealBankedSeg { t?: string; n?: number }
+interface RealBanked { passage: RealBankedSeg[] | string; bank: RealBankItem[]; questions: { n: number; a: string }[] }
 interface RealParagraph { l: string; t: string }
 interface RealMatching { title: string; paragraphs: RealParagraph[]; questions: { n: number; s: string; a: string }[] }
 interface RealCareful { t: string; passage: string; questions: RealQ[] }
@@ -769,6 +770,30 @@ function realMark(n: number, correct: string): string {
     const ok = answers[n] === correct;
     return `<span class="ex-q-mark ${ok ? 'ex-mark-ok' : 'ex-mark-no'}">${ok ? '✓ 正确' : '✗ 错误'}</span>`;
 }
+
+// ---- 选词填空原文渲染 ----
+const BANK_OPEN = '\uE001';
+const BANK_CLOSE = '\uE002';
+function bankedAnswerWord(b: RealBanked, n: number): string {
+    const q = b.questions.find(x => x.n === n);
+    if (!q || !q.a) return '';
+    return b.bank.find(x => x.l === q.a)?.w || '';
+}
+/** 渲染选词填空原文：空格用 ____ 占位（不显示题号），交卷后填入正确答案；去掉被误并入的 "Questions 26 to 35..." 头部 */
+function renderBankedPassage(b: RealBanked): string {
+    if (!Array.isArray(b.passage)) return esc(String(b.passage || ''));
+    let raw = b.passage.map(s => (s.t != null ? esc(s.t) : BANK_OPEN + s.n + BANK_CLOSE)).join('');
+    const headerRe = new RegExp(
+        '^\\s*Questions?\\s*(?:' + BANK_OPEN + '\\d+' + BANK_CLOSE + '|\\d+)\\s*(?:to|and|–|-)\\s*\\d+\\s+are based on the following passage\\.?\\s*', 'i');
+    raw = raw.replace(headerRe, '');
+    return raw.replace(new RegExp(BANK_OPEN + '(\\d+)' + BANK_CLOSE, 'g'), (_m, nStr) => {
+        const n = Number(nStr);
+        const word = bankedAnswerWord(b, n);
+        return submitted
+            ? `<span class="ex-bank-slot ex-bank-filled">${esc(word)}</span>`
+            : `<span class="ex-bank-slot">____</span>`;
+    });
+}
 function renderRealMcq(q: RealQ): string {
     const opts = q.o.map(o => realOptHtml(q.n, o.l, o.t, q.a)).join('');
     return `<div class="ex-q" data-qn="${q.n}">
@@ -813,7 +838,7 @@ function renderRealBanked(paper: RealPaper): string {
       <div class="ex-opts">${b.bank.map(it => realOptHtml(q.n, it.l, it.w, q.a)).join('')}</div></div>`).join('');
     return `<div class="ex-real-block glass">
       <h3 class="ex-block-title">🔤 选词填空（词汇理解）</h3>
-      <div class="ex-real-passage">${esc(b.passage)}</div>${bank}${qs}</div>`;
+      <div class="ex-real-passage">${renderBankedPassage(b)}</div>${bank}${qs}</div>`;
 }
 function renderRealMatching(paper: RealPaper): string {
     const m = paper.reading.matching;
@@ -1005,13 +1030,18 @@ function renderReadingList(): void {
     view = 'reading-list';
     const f = readingCache[readingLevel];
     if (!f) return;
-    const items = f.articles.map((a, i) => `
+    // 题库只展示模拟题（真题放到「文章练习」中练习）；保留原下标保证 data-pos 定位正确
+    const items = f.articles.map((a, i) => {
+        if (a.src === 'real') return '';
+        return `
       <button class="ex-list-item" data-action="open-reading" data-pos="${i}">
         <span class="ex-list-no${isCompleted(readingDoneKey(readingLevel, a.n)) ? ' ex-list-done' : ''}">${a.n}</span>
         <span class="ex-list-title">${esc(a.t)}</span>
-      </button>`).join('');
+      </button>`;
+    }).join('');
+    const mockCount = f.articles.filter(a => a.src !== 'real').length;
     render(wrapList(
-        f.label, `${f.count} 篇`,
+        f.label, `${mockCount} 篇`,
         `<button class="btn ex-primary" data-action="random-reading">随机一篇</button>`,
         'reading-jump', items));
 }
@@ -1083,7 +1113,8 @@ function wrapList(title: string, meta: string, randomBtn: string, jumpId: string
 async function openReading(pos: number, review: boolean = false): Promise<void> {
     let f = readingCache[readingLevel];
     if (!f) { await openReadingList(readingLevel); f = readingCache[readingLevel]; if (!f) return; }
-    readingPos = Math.max(0, Math.min(pos, f.articles.length - 1));
+    const mockCount = f.articles.filter(a => a.src !== 'real').length;
+    readingPos = Math.max(0, Math.min(pos, mockCount - 1));
     const key = readingDoneKey(readingLevel, f.articles[readingPos].n);
     if (review) {
         const saved = getSavedAnswers(key);
@@ -1629,7 +1660,10 @@ async function onClick(e: MouseEvent): Promise<void> {
             break;
         case 'random-reading': {
             const f = readingCache[readingLevel];
-            if (f) await openReading(Math.floor(Math.random() * f.articles.length));
+            if (f) {
+                const mockCount = f.articles.filter(a => a.src !== 'real').length;
+                await openReading(Math.floor(Math.random() * mockCount));
+            }
             break;
         }
         case 'random-listening': {

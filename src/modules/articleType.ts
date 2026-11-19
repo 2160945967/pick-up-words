@@ -10,17 +10,23 @@ const BASE_URL = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 const EXAM_URL = `${BASE_URL}/exams`;
 const PAGE_ID = 'article-type-page';
 
-interface RArticle { n: number; t: string; p: string[] }
+interface RArticle { n: number; t: string; p: string[]; src?: string; section?: string; paperTitle?: string; year?: number }
 interface ReadingFile { level: string; label: string; count: number; articles: RArticle[] }
 type Level = 'cet4' | 'cet6';
 type Mode = 'follow' | 'dictation';
+type SrcFilter = 'all' | 'mock' | 'real';
 type View = 'home' | 'list' | 'practice';
 
 // ---------------- 模块状态 ----------------
 let view: View = 'home';
 let level: Level = 'cet4';
 let mode: Mode = 'follow';
+let srcFilter: SrcFilter = loadSrcFilter();
 const cache: Partial<Record<Level, ReadingFile>> = {};
+const counts: Record<Level, { mock: number; real: number; total: number }> = {
+    cet4: { mock: 0, real: 0, total: 0 },
+    cet6: { mock: 0, real: 0, total: 0 },
+};
 
 let articlePos = 0;
 let sentences: string[] = [];
@@ -53,13 +59,35 @@ function norm(s: string): string {
     return s.trim().toLowerCase().replace(/\s+/g, ' ');
 }
 
+function loadSrcFilter(): SrcFilter {
+    try {
+        const v = localStorage.getItem('at-src-filter');
+        return v === 'mock' || v === 'real' ? v : 'all';
+    } catch { return 'all'; }
+}
+function saveSrcFilter(v: SrcFilter): void {
+    try { localStorage.setItem('at-src-filter', v); } catch { /* ignore */ }
+}
+function isReal(a: RArticle): boolean { return a.src === 'real'; }
+async function prefetchCounts(): Promise<void> {
+    for (const lv of ['cet4', 'cet6'] as Level[]) {
+        try {
+            if (!cache[lv]) cache[lv] = await fetchJson<ReadingFile>(`${EXAM_URL}/reading/${lv}.json`);
+            const f = cache[lv]!;
+            const real = f.articles.filter(isReal).length;
+            counts[lv] = { mock: f.articles.length - real, real, total: f.articles.length };
+        } catch { /* 留空，首页回退文案 */ }
+    }
+    if (view === 'home') renderHome();
+}
+
 // ---------------- 首页 ----------------
 function renderHome(): void {
     view = 'home';
     render(`
     <div class="at-home">
       <h1>文章练习</h1>
-      <p class="at-home-sub">把阅读真题整篇逐句敲出来，训练整句拼写与记忆。素材与「模拟题」同源（四级 199 篇、六级 200 篇）。</p>
+      <p class="at-home-sub">把阅读素材整篇逐句敲出来，训练整句拼写与记忆。覆盖「模拟题」与「历年真题」（仔细阅读 / 长篇匹配 / 选词填空），列表内可按来源筛选。</p>
       <div class="at-mode-info">
         <div class="at-mode-card glass">
           <span class="at-mode-icon">⌨️</span>
@@ -75,12 +103,12 @@ function renderHome(): void {
       <div class="at-level-cards">
         <div class="at-level-card glass">
           <h2>CET-4 阅读</h2>
-          <p>199 篇 · 句子相对短</p>
+          <p>${counts.cet4.total ? `${counts.cet4.total} 篇（模拟 ${counts.cet4.mock} · 真题 ${counts.cet4.real}）` : '加载中…'} · 句子相对短</p>
           <button class="btn ex-primary" data-action="at-list" data-level="cet4">进入四级文章</button>
         </div>
         <div class="at-level-card glass">
           <h2>CET-6 阅读</h2>
-          <p>200 篇 · 句子更长</p>
+          <p>${counts.cet6.total ? `${counts.cet6.total} 篇（模拟 ${counts.cet6.mock} · 真题 ${counts.cet6.real}）` : '加载中…'} · 句子更长</p>
           <button class="btn ex-primary" data-action="at-list" data-level="cet6">进入六级文章</button>
         </div>
       </div>
@@ -112,19 +140,35 @@ function renderList(): void {
     view = 'list';
     const f = cache[level];
     if (!f) return;
-    const items = f.articles.map((a, i) => `
+    const realCount = f.articles.filter(isReal).length;
+    const mockCount = f.articles.length - realCount;
+    const showAll = srcFilter === 'all';
+    // data-pos 用全量下标，保证筛选后 startPractice 仍能定位到正确文章
+    const items = f.articles.map((a, i) => {
+        if (!showAll && (srcFilter === 'real') !== isReal(a)) return '';
+        const real = isReal(a);
+        return `
       <button class="ex-list-item" data-action="at-open" data-pos="${i}">
         <span class="ex-list-no">${a.n}</span>
         <span class="ex-list-title">${escapeHtml(a.t)}</span>
-      </button>`).join('');
+        <span class="at-src-badge ${real ? 'real' : 'mock'}">${real ? '真题' : '模拟题'}</span>
+      </button>`;
+    }).join('');
+    const shown = showAll ? f.articles.length : (srcFilter === 'real' ? realCount : mockCount);
     render(`
     <div class="ex-list-page">
       <div class="ex-topbar">
         <button class="btn ex-ghost" data-action="at-home">‹ 返回</button>
         <div class="ex-topbar-title">
           <h1>${escapeHtml(f.label)} · 文章练习</h1>
-          <span class="ex-topbar-meta">${f.count} 篇</span>
+          <span class="ex-topbar-meta">${shown} 篇（模拟 ${mockCount} · 真题 ${realCount}）</span>
         </div>
+      </div>
+      <div class="at-mode-switch glass">
+        <span>素材来源</span>
+        <button class="at-switch-btn ${srcFilter === 'all' ? 'active' : ''}" data-action="at-src" data-src="all">全部</button>
+        <button class="at-switch-btn ${srcFilter === 'mock' ? 'active' : ''}" data-action="at-src" data-src="mock">模拟题</button>
+        <button class="at-switch-btn ${srcFilter === 'real' ? 'active' : ''}" data-action="at-src" data-src="real">历年真题</button>
       </div>
       <div class="at-mode-switch glass">
         <span>练习方式</span>
@@ -402,6 +446,11 @@ async function onClick(e: MouseEvent): Promise<void> {
             mode = (node.dataset.mode as Mode) || 'follow';
             renderList();
             break;
+        case 'at-src':
+            srcFilter = (node.dataset.src as SrcFilter) || 'all';
+            saveSrcFilter(srcFilter);
+            renderList();
+            break;
         case 'at-open':
             startPractice(Number(node.dataset.pos));
             break;
@@ -423,6 +472,7 @@ export function initArticleType(): void {
     const box = el();
     if (!box) return;
     renderHome();
+    void prefetchCounts();
     box.addEventListener('click', (e: MouseEvent) => {
         void onClick(e);
     });

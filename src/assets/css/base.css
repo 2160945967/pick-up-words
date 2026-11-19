@@ -327,6 +327,8 @@ body.dark-mode .exam-category-card select option {
     flex: 1;
     margin-left: 280px;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     transition: margin-left 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -336,14 +338,14 @@ body.sidebar-collapsed .main-content {
 
 /* 底部版权页脚 */
 .app-footer {
-    margin-top: 20px;
-    padding: 18px 32px;
+    margin-top: 36px;
+    padding: 30px 32px 34px;
     background: var(--bg-light);
     border-top: 1px solid var(--border-color);
     text-align: center;
     color: var(--text-gray);
     font-size: 13px;
-    line-height: 1.8;
+    line-height: 1.9;
 }
 
 .app-footer-line {
@@ -512,6 +514,8 @@ body.sidebar-collapsed .main-content {
     max-width: 1500px;
     margin: 0 auto;
     padding: 32px;
+    flex: 1 1 auto;
+    width: 100%;
 }
 
 .content-page {

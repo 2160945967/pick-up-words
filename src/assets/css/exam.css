@@ -350,6 +350,16 @@ html.dark-mode .ex-sim-duration input[type=number]::-webkit-outer-spin-button {
 }
 .ex-bank-word strong { color: var(--primary-blue); margin-right: 4px; }
 
+/* 选词填空原文空格占位 / 交卷填答案 */
+.ex-bank-slot {
+    display: inline-block; min-width: 48px; text-align: center;
+    border-bottom: 2px solid var(--border-color); color: var(--text-gray);
+    margin: 0 2px; padding: 0 4px;
+}
+.ex-bank-slot.ex-bank-filled {
+    color: var(--primary-blue); border-bottom-color: var(--primary-blue); font-weight: 600;
+}
+
 /* 长篇段落 */
 .ex-match-paras { margin-bottom: 16px; display: grid; gap: 8px; }
 .ex-match-par {

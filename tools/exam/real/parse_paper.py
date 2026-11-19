@@ -277,6 +277,20 @@ def parse_reading(region: str) -> dict:
     }
 
 
+# 选词填空：误并入正文的 "Questions 26 to 35 ... following passage." 头部
+_BANKED_QUESTION_HEAD_RE = re.compile(
+    r"^\s*Questions?\s*(?:[\u2000-\u200A\s]*\d{2}[\u2000-\u200A\s]*)\s*"
+    r"(?:to|and|.|-)\s*\d+\s+are based on the following passage\.?\s*",
+    re.I,
+)
+# 真正的填空题号：数字两侧留白各至少含一个特殊排版空格（U+2000-U+200A），
+# 以区别于普通空格包围的正文数字（如 "of 30 studies"）。
+_BANKED_BLANK_CAND_RE = re.compile(
+    r"[ \u2000-\u200A]*[\u2000-\u200A][ \u2000-\u200A]*\b(\d{2})\b"
+    r"[ \u2000-\u200A]*[\u2000-\u200A][ \u2000-\u200A]*"
+)
+
+
 def _parse_banked(block: str) -> dict:
     ph = _shared_placeholder(block)
     if ph:
@@ -302,12 +316,14 @@ def _parse_banked(block: str) -> dict:
         raise PaperParseError(f"选词填空词库数量={len(bank)}，应为 15")
     bank.sort(key=lambda b: b["l"])
 
-    # 文章：剥离 Section/Directions 头部，按 26-35 编号切分
-    # 正文可能含普通数字（如 "past 30 years"），贪心按 26→35 顺序选取空号
+    # 文章：剥离 Section/Directions 头部，再去掉误并入的 "Questions ..." 头部
     ptext = _strip_directions(passage_raw).replace("\n", " ")
+    ptext = _BANKED_QUESTION_HEAD_RE.sub("", ptext)
+    # 仅把"被特殊排版空格包围"的题号识别为空号，贪心按 26→35 顺序选取，
+    # 避免普通空格包围的正文数字（如 "of 30 studies"）被误切。
     expected = 26
     blank_matches = []
-    for m in re.finditer(r"\b(2[6-9]|3[0-5])\b", ptext):
+    for m in _BANKED_BLANK_CAND_RE.finditer(ptext):
         n = int(m.group(1))
         if n == expected:
             blank_matches.append((n, m))

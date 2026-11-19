@@ -37,6 +37,15 @@
     color: #fff; border-color: transparent; font-weight: 600;
 }
 
+/* 列表项来源徽章（真题/模拟题） */
+.at-src-badge {
+    flex-shrink: 0; font-size: 11px; padding: 2px 8px; border-radius: 999px;
+    border: 1px solid var(--border-color); color: var(--text-gray); white-space: nowrap;
+}
+.at-src-badge.real {
+    color: var(--primary-blue); border-color: rgba(52, 152, 219, .4); background: rgba(52, 152, 219, .08);
+}
+
 /* 练习页进度条 */
 .at-progress {
     height: 6px; border-radius: 999px; background: var(--box-bg-accent);

@@ -73,6 +73,7 @@ wordbooks.json
 dev-screenshots/
 trae-demo-task1/
 .trae/
+.trae-html-share-packages/
 gitee-assets/
 
 # Package lock optional

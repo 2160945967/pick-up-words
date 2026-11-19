@@ -6536,3 +6536,37 @@ EnToZh 单词分支改为：先把词书 meanings 与 ECDict `extraMeanings` 合
 - 音频：后端路由、下载与前端播放已闭环（98 套可播放、54 套无音频）。剩余 54 套（2015–2018、2026 期）CET通 404，若后续找到可用音频源再补，重跑 `build_manifest.py` 即可翻转；当前无音频不影响题目与原文练习。
 - `download.py`（面向 Gitee、受 403 阻塞）待评估改造或废弃；其职责已被 `download_audio.py` 覆盖，可考虑删除。
 - 推送已完成：第二步提交 `2d1d0b7`（164 文件、212064 行新增）已 fast-forward 推送到 Gitee 与 GitHub 的 main，两远程 tip 一致；令牌走临时 URL 未写入 git 配置。**Gitee 仓库当前 849.2MB、已超 819MB 推荐配额（提示用量超 80%）**，本次推送成功，但后续体积继续增长存在被限制的风险，需留意。
+
+## 42. 阅读真题并入文章练习、资源下载断点续传（2026-11-19）
+
+### 42.1 阅读数据合并真题（`build_reading.py`）
+- 模拟题 399 篇（CET4 199 / CET6 200）之后，从 `public/exams/real/papers` 提取真题阅读：每套卷取 仔细阅读 ×2 + 长篇匹配 ×1 + 选词填空 ×1（选词填空用答案把空格还原为完整文章）。
+- 真题文章带 `src='real'` 与 `section / paperId / year / month / set / paperTitle`，编号接在模拟题之后。
+- 结果：CET4 479 篇（模拟 199 + 真题 280）、CET6 479 篇（模拟 200 + 真题 279），问题数 1995，校验异常 0。
+- `reconstruct_banked`：把 seg 序列用答案填空，去除私有区占位符与被误并入的 “Questions … are based on …” 头部。
+
+### 42.2 文章练习来源筛选（`articleType.ts`）
+- `RArticle` 增加 `src / section / paperTitle / year`；新增 `srcFilter: all / mock / real`，用 localStorage（`at-src-filter`）持久化。
+- `prefetchCounts` 预取两级数量（模拟 / 真题 / 总数），首页与列表显示统计；列表项加来源徽章。
+- `data-pos` 始终用全量下标，筛选后仍能正确定位文章。
+
+### 42.3 题库只显示模拟题、选词填空原文渲染（`exam.ts`）
+- 阅读列表过滤 `src==='real'`，真题统一放到「文章练习」；`openReading` / 随机一篇用 `mockCount` 做边界（真题追加在末尾，前 `mockCount` 个下标全为模拟题）。
+- 新增 `renderBankedPassage`：选词填空原文空格用 `____` 占位、交卷后填入正确答案，并去掉误并入的头部；配套 `.ex-bank-slot` 样式。
+
+### 42.4 资源下载断点续传与网速显示（`asset-manager.ts` / `settings.ts`）
+- `DownloadProgress` 增加 `speedBps` 与 `status`；用 2 秒滑动窗口采样计算实时网速，字节回退或瞬时跳变时重置窗口。
+- 单文件与分卷下载均支持 `.tmp` 断点：发 `Range` 续传、206 追加写入；服务端不支持 Range 返回 200 时删除临时文件重下。`getAssetPartialProgress` 扫描磁盘断点，状态接口返回 `partial` 信息。
+- 失败 / 暂停统一归一为 `paused` 态，前端显示“继续”；设置页配套网速与断点进度 UI。
+
+### 42.5 验证记录
+- 渲染层 tsc、主进程 tsc 均 0 错误；vitest 18 文件 191 项通过；`vite build` 成功；CSP hash 与历史一致（`sha256-PoyqLBnYiOhXKSOvv68bZtowmhKgBk9d2pOMEjn43uY=`）。
+- `build_reading.py` 复跑幂等，无额外差异；`dist` 已镜像到 `static`，文件名与字节数一致。
+- `.gitignore` 增加 `.trae-html-share-packages/`。
+
+### 42.6 选词填空数据缺陷根因修复（2026-11-19）
+- 缺陷现象：部分真题选词填空原文被错误切分——“Questions 26 to 35…”头部题号、正文合法数字（如 “of 30 studies”）被误当成空号，导致原文头部混入、空号错位。
+- 根因与修复（`parse_paper.py` `_parse_banked`）：真正填空题号两侧留白含特殊排版空格（U+2000–U+200A），正文数字两侧只有普通空格（U+0020）。新增候选正则仅识别被特殊空格包围的题号，先去除残留 Questions 头部，再按 26→35 顺序匹配，空号异常即报错。
+- 全量重建 152 篇后，仅 7 篇 banked 数据真正变化（cet4-2015-12-1/2/3、cet4-2016-12-1/2/3、cet6-2019-6-1），每篇仅 `reading.banked.passage` 内部变化。
+- 行尾修复（`build_real.py`）：Windows 文本模式 `write_text` 会把 LF 写成 CRLF、导致全库行尾变化；`write_paper` 改用 `write_bytes` 输出，保持仓库 LF。
+- 还原文章粘连修复（`build_reading.py` `reconstruct_banked`）：空号两侧留白在切分时被消耗，答案词还原后与相邻单词粘连；按相邻字符补回空格（开引号/开括号后不补前导，闭标点/引号/括号前不补后置，破折号 U+2014 保留两侧空格），再折叠空白。139 篇真题 banked 文章验证无占位符残留、无标点空格错误。

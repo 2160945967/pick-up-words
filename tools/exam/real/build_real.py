@@ -245,8 +245,9 @@ def _apply_keys(paper: dict, keys: dict[int, str]) -> None:
 def write_paper(paper: dict) -> Path:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     target = OUT_DIR / f"{paper['id']}.json"
-    target.write_text(
-        json.dumps(paper, ensure_ascii=False, indent=2), encoding="utf-8"
+    # write_bytes 不做换行转换，保持仓库约定的 LF（json.dumps 内的换行即 \n）
+    target.write_bytes(
+        json.dumps(paper, ensure_ascii=False, indent=2).encode("utf-8")
     )
     return target
 

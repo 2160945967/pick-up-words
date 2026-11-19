@@ -1,12 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-构建模拟题-阅读 结构化数据。
+构建阅读 结构化数据（模拟题 + 历年真题）。
 源: resource/模拟题/CET46_Complete.md  (399 篇, 连续编号 ## 文章 N.)
 难度分界(用户拍板 + 长度统计支持):
     文章 1-199   -> CET-4
     文章 200-399 -> CET-6
+真题追加: public/exams/real/papers/{cet4,cet6}-*.json
+    每套卷提取 仔细阅读(2) + 长篇匹配(1) + 选词填空(1, 用答案填空还原为完整文章)，
+    追加到对应级别末尾，带 src='real' / section / paperId 等元信息，编号接在模拟题之后。
 输出: public/exams/reading/cet4.json, cet6.json
-每篇: 英文正文 / 5 题(题干+ABCD) / 答案字母+中文解析 / 中文文章翻译 / 中文题目翻译
+模拟题每篇: 英文正文 / 5 题(题干+ABCD) / 答案字母+中文解析 / 中文文章翻译 / 中文题目翻译
 """
 import json
 import re
@@ -15,6 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "resource" / "模拟题" / "CET46_Complete.md"
 OUT_DIR = ROOT / "public" / "exams" / "reading"
+REAL_DIR = ROOT / "public" / "exams" / "real" / "papers"  # 历年真题卷
 
 OPT_RE = re.compile(r"^\s*([A-D])\)\s+(.*)$")
 QHEAD_RE = re.compile(r"^\s*(\d+)\.\s+(.*)$")
@@ -197,6 +201,133 @@ def parse_article(num, title, body):
     }
 
 
+# ---------- 历年真题阅读文章追加 ----------
+_OPEN = "\uE001"
+_CLOSE = "\uE002"
+_HEADER_RE = re.compile(
+    r"^\s*Questions?\s*(?:" + _OPEN + r"\d+" + _CLOSE + r"|\d+)\s*(?:to|and|–|-)\s*\d+\s+are based on the following passage\.?\s*",
+    re.IGNORECASE,
+)
+
+
+def _banked_word_of(banked):
+    bank = {it["l"]: it["w"] for it in banked.get("bank", [])}
+    return {q["n"]: bank.get(q.get("a", ""), "") for q in banked.get("questions", [])}
+
+
+def reconstruct_banked(banked):
+    """把选词填空的 seg 序列还原为完整文章：用答案填空、去掉内嵌题号与被误并入的头部。"""
+    if not banked or banked.get("shared") or not isinstance(banked.get("passage"), list):
+        return None
+    word_of = _banked_word_of(banked)
+    raw = "".join(
+        s["t"] if "t" in s else _OPEN + str(s["n"]) + _CLOSE for s in banked["passage"]
+    )
+    raw = _HEADER_RE.sub("", raw)
+    # 空号两侧留白在解析切分时被消耗，这里按相邻字符补回空格：
+    # 前导——开引号/开括号后不补，其余（字母数字、闭标点、撇号、破折号）补；
+    # 后置——字母数字或破折号前补，闭标点/引号/括号前不补。
+    no_lead = set("\"([{")
+    def _pad(m):
+        n = int(m.group(1))
+        word = word_of.get(n, "")
+        prev = raw[m.start() - 1] if m.start() > 0 else ""
+        nxt = raw[m.end()] if m.end() < len(raw) else ""
+        lead = " " if (prev and prev not in no_lead) else ""
+        tail = " " if (nxt and (nxt.isalnum() or nxt == "\u2014")) else ""
+        return lead + word + tail
+    raw = re.sub(_OPEN + r"(\d+)" + _CLOSE, _pad, raw)
+    return re.sub(r"\s+", " ", raw).strip()
+
+
+def _real_q(q, with_options=False):
+    return {
+        "n": q["n"],
+        "s": q.get("s", "") if with_options else "",
+        "o": [x.get("t", "") for x in q.get("o", [])] if with_options else ["", "", "", ""],
+        "a": q.get("a", ""),
+        "e": "",
+        "zs": "",
+        "zo": ["", "", "", ""],
+    }
+
+
+def gen_real_articles(paper):
+    reading = paper.get("reading")
+    if not reading or reading.get("shared"):
+        return []
+    out = []
+    meta = {
+        "src": "real",
+        "paperId": paper["id"],
+        "year": paper.get("year"),
+        "month": paper.get("month"),
+        "set": paper.get("set"),
+        "paperTitle": paper["title"],
+    }
+    careful = reading.get("careful")
+    if isinstance(careful, list):
+        for i, cp in enumerate(careful):
+            if not cp or not cp.get("passage"):
+                continue
+            out.append({
+                **meta,
+                "section": "careful",
+                "t": f"{paper['title']} · 仔细阅读 {i + 1}",
+                "p": [cp["passage"]],
+                "q": [_real_q(q, with_options=True) for q in cp.get("questions", [])],
+            })
+    matching = reading.get("matching")
+    if matching and not matching.get("shared") and isinstance(matching.get("paragraphs"), list):
+        paras = [p.get("t", "") for p in matching["paragraphs"] if p.get("t")]
+        if paras:
+            title = f"{paper['title']} · 长篇匹配"
+            if matching.get("title"):
+                title += f" · {matching['title']}"
+            out.append({
+                **meta,
+                "section": "matching",
+                "t": title,
+                "p": paras,
+                "q": [_real_q(q) for q in matching.get("questions", [])],
+            })
+    banked_text = reconstruct_banked(reading.get("banked"))
+    if banked_text and re.search(r"[a-zA-Z]", banked_text):
+        out.append({
+            **meta,
+            "section": "banked",
+            "t": f"{paper['title']} · 选词填空",
+            "p": [banked_text],
+            "q": [_real_q(q) for q in reading["banked"].get("questions", [])],
+        })
+    return out
+
+
+def append_real_articles(cet4, cet6):
+    """从 public/exams/real/papers 追加真题阅读文章到对应级别（src='real'，编号接在模拟题之后）。"""
+    if not REAL_DIR.exists():
+        return
+    for level, articles in (("cet4", cet4), ("cet6", cet6)):
+        papers = []
+        for fp in REAL_DIR.glob(f"{level}-*.json"):
+            try:
+                p = json.loads(fp.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            if p and p.get("reading") and not p["reading"].get("shared"):
+                papers.append(p)
+        papers.sort(key=lambda x: (x.get("year", 0), x.get("month", 0), x.get("set", 0)), reverse=True)
+        real = []
+        for p in papers:
+            real.extend(gen_real_articles(p))
+        start = max((a["n"] for a in articles), default=0)
+        n = start
+        for a in real:
+            n += 1
+            a["n"] = n
+        articles.extend(real)
+
+
 def main():
     text = SRC.read_text(encoding="utf-8")
     # 切篇
@@ -228,6 +359,7 @@ def main():
     articles.sort(key=lambda x: x[0])
     cet4 = [a for n, a in articles if n <= 199]
     cet6 = [a for n, a in articles if n >= 200]
+    append_real_articles(cet4, cet6)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     payload4 = {"level": "cet4", "label": "CET-4 阅读理解", "count": len(cet4),
@@ -239,7 +371,9 @@ def main():
     (OUT_DIR / "cet6.json").write_text(
         json.dumps(payload6, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
-    print(f"总篇数: {len(articles)}  CET4: {len(cet4)}  CET6: {len(cet6)}")
+    _r4 = sum(1 for a in cet4 if a.get("src") == "real")
+    _r6 = sum(1 for a in cet6 if a.get("src") == "real")
+    print(f"总篇数: {len(articles)}  CET4: {len(cet4)} (真题 {_r4})  CET6: {len(cet6)} (真题 {_r6})")
     print(f"问题数: {sum(len(a['q']) for _,a in articles)} (期望 {len(articles)*5})")
     print(f"正文内嵌注释清洗: 删除四级词注释 {CLEAN_STATS['removed']} 处，保留超纲注释 {CLEAN_STATS['kept']} 处")
     print(f"校验异常: {len(problems)}")

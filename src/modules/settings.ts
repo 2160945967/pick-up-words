@@ -912,6 +912,11 @@ interface AssetStatusItem {
     required: boolean;
     size: number;
     downloaded: boolean;
+    /** 磁盘上存在未完成的临时下载文件，可断点续传 */
+    partial?: boolean;
+    partialDownloaded?: number;
+    partialTotal?: number;
+    partialPercent?: number;
 }
 
 interface AssetProgressItem {
@@ -919,6 +924,10 @@ interface AssetProgressItem {
     downloaded: number;
     total: number;
     percent: number;
+    /** 实时下载速度（字节/秒） */
+    speedBps?: number;
+    /** downloading=下载中；paused=已暂停/可续传 */
+    status?: 'downloading' | 'paused';
 }
 
 let assetDownloadPollTimer: ReturnType<typeof setInterval> | null = null;
@@ -932,6 +941,14 @@ function formatBytes(bytes: number): string {
     const sizes = ['B', 'KB', 'MB', 'GB'];
     const i = Math.floor(Math.log(bytes) / Math.log(k));
     return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + ' ' + sizes[i];
+}
+
+/** 格式化网速，例如 2.3 MB/s / 512 KB/s；为 0 时返回空串 */
+function formatSpeed(bps: number): string {
+    if (!bps || bps <= 0) return '';
+    const mb = bps / (1024 * 1024);
+    if (mb >= 1) return `${mb.toFixed(1)} MB/s`;
+    return `${Math.round(bps / 1024)} KB/s`;
 }
 
 function getAssetNameById(assetId: string): string {
@@ -977,9 +994,10 @@ function getOrCreateAssetItemEl(container: HTMLElement, asset: AssetStatusItem):
 }
 
 function handleAssetActionClick(assetId: string): void {
-    const isPaused = assetDownloadingState.get(assetId) === false;
+    const cached = assetStatusCache.find(a => a.id === assetId);
+    // 已暂停 或 磁盘上存在断点 → 走“继续下载”分支（后端会自动从 .tmp 续传）
+    const isPaused = assetDownloadingState.get(assetId) === false || cached?.partial === true;
     if (isPaused) {
-        // 继续下载
         assetDownloadingState.set(assetId, true);
         void startAssetDownload(assetId, true);
     } else {
@@ -1004,6 +1022,8 @@ function updateAssetDownloadUI(assets: AssetStatusItem[]): void {
         const pauseBtn = item.querySelector('.asset-pause-btn') as HTMLButtonElement;
         const deleteBtn = item.querySelector('.asset-delete-btn') as HTMLButtonElement;
         const area = item.querySelector('.asset-progress-area') as HTMLElement;
+        const fill = item.querySelector('.asset-progress-fill') as HTMLElement;
+        const text = item.querySelector('.asset-progress-text') as HTMLElement;
 
         nameEl.textContent = asset.name;
         sizeEl.textContent = formatBytes(asset.size);
@@ -1030,13 +1050,21 @@ function updateAssetDownloadUI(assets: AssetStatusItem[]): void {
             deleteBtn.style.display = asset.required ? 'none' : 'inline-block';
             area.style.display = 'none';
         } else {
-            const isPaused = assetDownloadingState.get(asset.id) === false;
+            const isPaused = assetDownloadingState.get(asset.id) === false || asset.partial === true;
             statusEl.textContent = isPaused ? '已暂停' : '未下载';
             statusEl.className = 'asset-status not-downloaded';
             actionBtn.textContent = isPaused ? '继续' : '下载';
             actionBtn.disabled = false;
             pauseBtn.style.display = 'none';
             deleteBtn.style.display = 'none';
+            // 存在断点时显示进度条（无网速），让用户一眼看到可续传进度
+            if (asset.partial && asset.partialPercent && asset.partialPercent > 0) {
+                area.style.display = 'flex';
+                fill.style.width = `${asset.partialPercent}%`;
+                text.textContent = `${asset.partialPercent}%`;
+            } else {
+                area.style.display = 'none';
+            }
         }
     });
 }
@@ -1056,15 +1084,27 @@ function updateAssetProgress(progressMap: Record<string, AssetProgressItem>): vo
         const statusEl = item.querySelector('.asset-status') as HTMLElement;
 
         if (progress.percent > 0 && progress.percent < 100) {
+            const isPaused = progress.status === 'paused';
             area.style.display = 'flex';
             fill.style.width = `${progress.percent}%`;
-            text.textContent = `${progress.percent}%`;
-            assetDownloadingState.set(assetId, true);
-            actionBtn.textContent = '下载中';
-            actionBtn.disabled = true;
-            pauseBtn.style.display = 'inline-block';
-            statusEl.textContent = '下载中';
-            statusEl.className = 'asset-status not-downloaded';
+            const speed = formatSpeed(progress.speedBps || 0);
+            text.textContent = speed ? `${progress.percent}% · ${speed}` : `${progress.percent}%`;
+            if (isPaused) {
+                // 断点/暂停态：显示进度但不显示网速，按钮切换为“继续”
+                assetDownloadingState.set(assetId, false);
+                actionBtn.textContent = '继续';
+                actionBtn.disabled = false;
+                pauseBtn.style.display = 'none';
+                statusEl.textContent = '已暂停';
+                statusEl.className = 'asset-status not-downloaded';
+            } else {
+                assetDownloadingState.set(assetId, true);
+                actionBtn.textContent = '下载中';
+                actionBtn.disabled = true;
+                pauseBtn.style.display = 'inline-block';
+                statusEl.textContent = '下载中';
+                statusEl.className = 'asset-status not-downloaded';
+            }
         } else if (progress.percent >= 100) {
             area.style.display = 'none';
             assetDownloadingState.delete(assetId);
