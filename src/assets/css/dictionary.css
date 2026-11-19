@@ -178,7 +178,7 @@
     padding: 12px 20px;
     cursor: pointer;
     border-bottom: 1px solid #f0f0f0;
-    transition: all 0.2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 #suggestions-dropdown > div:hover,
@@ -384,7 +384,7 @@ body.dark-mode .examples-section {
 }
 
 .example-item {
-    transition: all 0.2s ease;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
     cursor: default;
 }
 
@@ -428,7 +428,7 @@ body.dark-mode .example-sentence {
     text-decoration: none;
     border-bottom: 1px dotted var(--primary-blue);
     padding-bottom: 1px;
-    transition: all 0.2s ease;
+    transition: color 0.2s ease, background-color 0.2s ease;
 }
 
 /* 词根/形近词区域的可点击单词链接（颜色在 base.css 中统一定义） */
@@ -663,7 +663,7 @@ body.dark-mode .result-wb-select {
     margin-left: 4px;
     border-radius: 3px;
     opacity: 0.6;
-    transition: all 0.15s ease;
+    transition: color 0.15s ease, opacity 0.15s ease, background-color 0.15s ease, transform 0.15s ease;
 }
 
 /* 例句区域 */

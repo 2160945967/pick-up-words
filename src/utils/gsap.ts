@@ -68,13 +68,12 @@ export function animateCardExit(el: HTMLElement, onDone?: () => void): void {
         onDone?.();
         return;
     }
+    // 仅动画合成属性（transform/opacity），零 layout：
+    // 卡片在虚拟列表内为绝对定位，其尺寸变化本就不推动兄弟节点，无需 height/margin/padding 动画
     gsapCore.to(el, {
         opacity: 0,
         x: '-120%',
-        height: 0,
-        margin: 0,
-        padding: 0,
-        duration: 0.4,
+        duration: 0.35,
         ease: 'power2.in',
         onComplete: () => {
             el.remove();
@@ -765,40 +764,6 @@ function forceRepaint(el: HTMLElement): void {
     void el.offsetHeight;
     el.style.display = prev;
     void el.offsetHeight;
-}
-
-function forceRepaintDeep(el: HTMLElement): void {
-    const selectors = [
-        '.setting-item', '.wordlist-item', '.stat-item', '.history-item',
-        '#result', '#quiz-container', '#review-quiz-container',
-        '#quiz-question', '#review-question', '.quiz-option',
-        '.word-detail', '.related-words', '.example-box',
-        '.search-container', '#translation-container',
-        '.stats-container', '.exam-category-card', '.network-status',
-        '.modal-content', '.setting-desc', '.errorbook-sort-controls',
-        '#search-history-items'
-    ];
-    const children = el.querySelectorAll(selectors.join(',')) as NodeListOf<HTMLElement>;
-    children.forEach(child => {
-        const prevDisplay = child.style.display;
-        child.style.display = 'none';
-        void child.offsetHeight;
-        child.style.display = prevDisplay;
-        void child.offsetHeight;
-    });
-    forceRepaint(el);
-}
-
-function forceRepaintDeepMultiFrame(el: HTMLElement, frames: number = 3): void {
-    let count = 0;
-    const tick = () => {
-        forceRepaintDeep(el);
-        count++;
-        if (count < frames) {
-            requestAnimationFrame(tick);
-        }
-    };
-    requestAnimationFrame(tick);
 }
 
 export function animatePageEnter(page: HTMLElement | null): void {

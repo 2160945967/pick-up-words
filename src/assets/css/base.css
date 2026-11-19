@@ -68,7 +68,8 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 6px;
     cursor: pointer;
-    transition: all 0.25s ease;
+    transition: background-color 0.25s ease, border-color 0.25s ease, color 0.25s ease,
+                transform 0.25s ease, filter 0.25s ease;
 }
 
 .sidebar-toggle:hover {
@@ -173,7 +174,8 @@ body.sidebar-collapsed.show-expand-btn .sidebar-expand-btn {
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
     cursor: pointer;
-    transition: all 0.25s ease;
+    transition: background-color 0.25s ease, border-color 0.25s ease,
+                transform 0.25s ease, filter 0.25s ease;
     user-select: none;
 }
 
@@ -243,7 +245,7 @@ body.sidebar-collapsed.show-expand-btn .sidebar-expand-btn {
     font-size: 13px;
     font-weight: 600;
     letter-spacing: 0.5px;
-    transition: all 0.25s ease;
+    transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
     box-shadow: 0 2px 8px rgba(231, 76, 60, 0.25);
 }
 
@@ -276,7 +278,7 @@ body.sidebar-collapsed.show-expand-btn .sidebar-expand-btn {
     font-size: 13px;
     box-shadow: none;
     cursor: pointer;
-    transition: all 0.25s ease;
+    transition: border-color 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
     outline: none;
 }
 
@@ -1219,7 +1221,7 @@ input[type="radio"] {
     vertical-align: middle;
     margin-right: 10px;
     position: relative;
-    transition: all 0.2s ease;
+    transition: border-color 0.2s ease, background-color 0.2s ease;
     flex-shrink: 0;
 }
 
@@ -1332,7 +1334,8 @@ body.dark-mode .stat-item:hover {
 
 .filter-btn, .sort-btn {
     border-radius: 8px;
-    transition: all 0.2s ease;
+    transition: border-color 0.2s ease, background-color 0.2s ease, color 0.2s ease,
+                transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .badge, .quiz-progress-badge, .wordbook-count-badge {
@@ -1650,7 +1653,7 @@ body.dark-mode .help-tooltip::after {
     font-size: 13px;
     color: var(--text-gray);
     border-radius: 0;
-    transition: all 0.15s ease;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
     white-space: nowrap;
     border-left: 3px solid transparent;
     font-weight: 500;

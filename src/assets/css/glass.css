@@ -1,9 +1,12 @@
 /* 毛玻璃效果 — 直接应用到主要容器
  * 性能策略：
- * - 仅顶层容器（直接在背景之上）挂 backdrop-filter:blur
+ * - 仅固定/悬浮容器（sidebar/navbar/弹窗/下拉等）挂 backdrop-filter:blur，
+ *   它们不随主内容滚动，模糊结果可被合成层缓存
+ * - 主内容大面板 .content-page 不挂 blur：它随主内容滚动，blur 会在每帧全屏重算，
+ *   是滚动掉帧的主要来源；改用提高不透明度的半透明背景补偿，视觉无差异
  * - 嵌套元素用半透明背景，不重复 blur，避免 GPU 叠加开销和文字发虚
  * - 不将 backdrop-filter 纳入 transition，防止主题切换时文字虚化
- * - Electron/Chromium 桌面端 GPU 加速，性能无压力
+ * - Electron/Chromium 桌面端 GPU 加速，固定容器的模糊开销可接受
  *
  * 权重策略：
  * - 顶层玻璃容器保留 !important（必须防止组件CSS破坏毛玻璃层）
@@ -68,9 +71,11 @@
 /* ==================== 主内容面板（直接在背景之上）：中等模糊 ==================== */
 
 .content-page.active {
-    background: rgba(255, 255, 255, 0.72) !important;
-    backdrop-filter: blur(16px) saturate(180%);
-    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    /* 背景不透明度提高以补偿移除模糊：该面板在浅色背景上 blur 本就几乎不可见，
+       移除 backdrop-filter 消除滚动时每帧的全屏模糊重算，是滚动掉帧的主要优化点 */
+    background: rgba(255, 255, 255, 0.88) !important;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
     border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
@@ -272,10 +277,10 @@ body.dark-mode .modal-content {
 
 html.dark-mode .content-page.active,
 body.dark-mode .content-page.active {
-    background: rgba(28, 30, 36, 0.94) !important;
+    background: rgba(28, 30, 36, 0.96) !important;
     border: 1px solid rgba(255, 255, 255, 0.06);
-    backdrop-filter: blur(16px) saturate(180%);
-    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
 }
 
 /* 深色模式 - 主内容区嵌套元素：边框微调（背景由CSS变量自动切换） */

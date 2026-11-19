@@ -41,29 +41,6 @@ import { warmupStructuredBook } from './utils/structuredBook';
 import { initPopupSelects } from './utils/popupSelect';
 import { initErrorReport } from './utils/errorReport';
 
-// 毛玻璃滚动降级（停止滚动 150ms 后恢复）
-function initGlassScrollDegradation(): void {
-    let isScrolling = false;
-    let scrollTimer: ReturnType<typeof setTimeout> | null = null;
-
-    function getActiveGlass(): NodeListOf<Element> {
-        const activePage = document.querySelector('.content-page.active');
-        return activePage ? activePage.querySelectorAll('.glass') : document.querySelectorAll('.glass');
-    }
-
-    window.addEventListener('scroll', () => {
-        if (!isScrolling) {
-            getActiveGlass().forEach(el => el.classList.add('glass-scroll'));
-            isScrolling = true;
-        }
-        if (scrollTimer) clearTimeout(scrollTimer);
-        scrollTimer = setTimeout(() => {
-            getActiveGlass().forEach(el => el.classList.remove('glass-scroll'));
-            isScrolling = false;
-        }, 150);
-    }, { passive: true });
-}
-
 // 全局函数注册表供动态 HTML 中的 onclick 调用
 import { setupGlobalRegistry, initActionDelegation } from './global-registry';
 import './a11y/focusTrap';
@@ -152,9 +129,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 1. 应用主题
     applyTheme();
-
-    // 1.5 毛玻璃滚动降级逻辑
-    initGlassScrollDegradation();
 
     // 2. 初始化导航栏
     setupNavbar();

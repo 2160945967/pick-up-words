@@ -164,7 +164,7 @@
 
 │       │   ├── base.css          # 基础样式重置、布局、按钮、输入框
 
-│       │   ├── glass.css         # 毛玻璃效果（backdrop-filter + 滚动降级）
+│       │   ├── glass.css         # 毛玻璃效果（固定容器 backdrop-filter，主内容面板不挂 blur）
 
 │       │   ├── dictionary.css    # 词典页面专用样式
 
@@ -867,10 +867,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 &#x20;   applyTheme();
 
-&#x20;   // 1.5 毛玻璃滚动降级逻辑（只扫描当前激活页面内的 .glass，避免 DOM 变大后全局扫描）
-
-&#x20;   initGlassScrollDegradation();
-
 &#x20;   // 2. 初始化导航栏
 
 &#x20;   setupNavbar();
@@ -960,7 +956,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 ```
 
-初始化流程严格按顺序执行：主题应用 → 毛玻璃降级 → 导航栏 → 网络检测 → 各功能模块 → Vue 组件。`pageHandlers` 对象用于解决模块间的循环依赖问题。
+初始化流程严格按顺序执行：主题应用 → 导航栏 → 网络检测 → 各功能模块 → Vue 组件。`pageHandlers` 对象用于解决模块间的循环依赖问题。
 
 **全局函数注册表注册**：
 
@@ -2720,99 +2716,33 @@ html.dark-mode, body.dark-mode {
 
 ### 4.3 毛玻璃效果（glass.css）
 
+毛玻璃按「是否随主内容滚动」区分处理，核心是避免滚动时每帧全屏重算模糊。
 
+**固定/悬浮容器与弹窗：保留 backdrop-filter**。它们不随主内容滚动，模糊结果可被合成层缓存，GPU 开销可接受：
 
 ```
-.glass {
-
-&#x20;   background: rgba(255, 255, 255, 0.85);
-
-&#x20;   backdrop-filter: blur(16px) saturate(180%);
-
-&#x20;   -webkit-backdrop-filter: blur(16px) saturate(180%);
-
-&#x20;   border: 1px solid rgba(255, 255, 255, 0.12);
-
-&#x20;   border-radius: 14px;
-
-&#x20;   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08), 0 0 0 0.5px rgba(255, 255, 255, 0.2);
-
+.sidebar, .navbar, .sidebar-expand-btn, #suggestions-dropdown {
+    backdrop-filter: blur(20px) saturate(180%);
 }
+#back-to-top   { backdrop-filter: blur(12px) saturate(180%); }
+.modal-overlay { backdrop-filter: blur(8px); }
+.modal-content { backdrop-filter: blur(24px) saturate(180%); }
+```
 
-html.dark-mode .glass, body.dark-mode .glass {
+**主内容大面板：不挂 blur，改用提高不透明度的半透明背景**。`.content-page.active` 随主内容滚动，若挂 `blur(16px)` 会在每一帧对整个面板区域重新计算模糊，是滚动掉帧的主要来源；该面板在浅色柔和背景上模糊本就几乎不可见，故移除 backdrop-filter 并提高背景不透明度补偿，视觉无差异：
 
-&#x20;   background: rgba(20, 20, 20, 0.85);
-
-&#x20;   backdrop-filter: blur(18px) saturate(150%);
-
-&#x20;   border: 1px solid rgba(255, 255, 255, 0.08);
-
-&#x20;   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
-
+```
+.content-page.active {
+    background: rgba(255, 255, 255, 0.88) !important;
+    backdrop-filter: none;
+}
+html.dark-mode .content-page.active {
+    background: rgba(28, 30, 36, 0.96) !important;
+    backdrop-filter: none;
 }
 ```
 
-**滚动降级**：当容器滚动时，移除 backdrop-filter 改为半透明纯色：
-
-
-
-```
-.glass-scroll:not(.navbar) {
-
-&#x20;   background: rgba(32, 32, 32, 0.5) !important;
-
-&#x20;   border: 1px solid rgba(255, 255, 255, 0.1);
-
-&#x20;   backdrop-filter: none;
-
-&#x20;   -webkit-backdrop-filter: none;
-
-}
-```
-
-**毛玻璃滚动降级逻辑**（main.ts）：
-
-
-
-```
-function initGlassScrollDegradation(): void {
-
-&#x20;   let isScrolling = false;
-
-&#x20;   let scrollTimer: ReturnType\<typeof setTimeout> | null = null;
-
-&#x20;   function getActiveGlass(): NodeListOf\<Element> {
-
-&#x20;       const activePage = document.querySelector('.content-page.active');
-
-&#x20;       return activePage ? activePage.querySelectorAll('.glass') : document.querySelectorAll('.glass');
-
-&#x20;   }
-
-&#x20;   window.addEventListener('scroll', () => {
-
-&#x20;       if (!isScrolling) {
-
-&#x20;           getActiveGlass().forEach(el => el.classList.add('glass-scroll'));
-
-&#x20;           isScrolling = true;
-
-&#x20;       }
-
-&#x20;       if (scrollTimer) clearTimeout(scrollTimer);
-
-&#x20;       scrollTimer = setTimeout(() => {
-
-&#x20;           getActiveGlass().forEach(el => el.classList.remove('glass-scroll'));
-
-&#x20;           isScrolling = false;
-
-&#x20;       }, 150);
-
-&#x20;   }, { passive: true });
-
-}
-```
+**嵌套元素不重复 blur**：已模糊容器内部的子元素用半透明背景并显式 `backdrop-filter: none`，避免 GPU 叠加开销和文字发虚。`prefers-reduced-motion: reduce` 时，所有固定容器的 backdrop-filter 也统一降级为 none。
 
 **弹窗统一圆角**：所有弹窗内容容器（静态的 7 个 `.modal-content` 弹窗、`book-picker` 选书弹窗、popupSelect 选择器，以及 global.ts 的 confirm/alert/prompt、dictionary.ts 的句子单词本弹窗）统一使用 `border-radius: var(--radius-modal)`（16px）。基础规则定义在 base.css 的 `.modal-content`（同时 `overflow: hidden` 裁剪内部 header / 滚动区，防止背景顶破圆角；内容超高的说明类弹窗内联 `overflow-y: auto` 仍可滚动），bookpicker.css 等局部样式只引用同一变量，不再各写圆角值。
 
@@ -3962,7 +3892,7 @@ export async function apiPostForm\<T = any>(url: string, formData: FormData): Pr
 
 * **CSS 渲染隔离**：`.content-page.rendered:not(.active)` 使用 `content-visibility: auto; contain: strict;`，降低后台页面的渲染 / 合成开销。
 
-* **全局滚动监听瘦身**：`initGlassScrollDegradation()` 只扫描当前激活页面内的 `.glass` 元素，避免 DOM 累积后每次滚动都遍历全页。
+* **动画/滚动渲染瘦身**：移除主内容面板 `.content-page` 的 backdrop-filter（滚动时每帧全屏重算模糊的主要来源），改用提高不透明度的半透明背景；删除无效的 `initGlassScrollDegradation`（其添加的 `.glass-scroll` 无任何 CSS 规则）；全项目 `transition: all` 改为显式属性，卡片退场动画改为只动 transform/opacity 的纯合成动画，避免每帧重排。
 
 * **主进程内存兜底**：渲染进程内存超过 1024MB 时，IPC 通知前端释放一半后台页面。
 
