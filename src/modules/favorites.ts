@@ -1,7 +1,6 @@
 // Favorites page: favorites list, filter, sort, remove
 
 import { appState, jumpToWord } from '../global';
-import { updateStudyStats } from './stats';
 import { getErrorbookItemType } from './errorbook';
 import { normalizeCaseByType, updateWordbookSelect } from './wordbook';
 import { SortBy, FilterType } from '../types/enums';

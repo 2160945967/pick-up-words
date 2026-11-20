@@ -11,6 +11,7 @@ import {
 } from '../utils/structuredBook';
 import { escapeHtml, openModal, closeModal, appState } from '../global';
 import { updateWordSourceSelect } from './wordbook';
+import { safeParse } from '../utils/storage';
 
 const SELECT_ID = 'word-source';
 const MODAL_ID = 'book-picker-modal';
@@ -39,12 +40,10 @@ function getSelect(): HTMLSelectElement | null {
 
 function getPracticedSet(): Set<string> {
     const practiced = new Set<string>();
-    const answered = JSON.parse(localStorage.getItem('quizAnsweredWords') || '[]') as string[];
+    const answered = safeParse<string[]>('quizAnsweredWords', []);
     answered.forEach(w => practiced.add(w));
-    try {
-        const history = JSON.parse(localStorage.getItem('learningHistory') || '{}') as Record<string, unknown>;
-        Object.keys(history).forEach(w => practiced.add(w));
-    } catch { /* ignore */ }
+    const history = safeParse<Record<string, unknown>>('learningHistory', {});
+    Object.keys(history).forEach(w => practiced.add(w));
     return practiced;
 }
 

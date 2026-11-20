@@ -149,12 +149,6 @@ function getSavedAnswers(key: string): Record<number, string> | null {
     if (v && typeof v === 'object' && (v as ExamRecord).answers) return { ...(v as ExamRecord).answers };
     return null;
 }
-/** 读取某篇 / 套上次作答用时（秒）；无记录返回 null */
-function getSavedElapsed(key: string): number | null {
-    const v = loadCompleted()[key];
-    if (v && typeof v === 'object' && Number.isFinite((v as ExamRecord).elapsed)) return (v as ExamRecord).elapsed as number;
-    return null;
-}
 function readingDoneKey(level: string, n: number | string): string { return `reading:${level}:${n}`; }
 function listeningDoneKey(id: string): string { return `listening:${id}`; }
 function realWholeKey(id: string): string { return `real:whole:${id}`; }
@@ -1569,7 +1563,6 @@ function onPick(node: HTMLElement): void {
     node.classList.add('ex-opt-selected');
     // 更新交卷进度
     const total = totalQuestions();
-    const done = answeredCount();
     const bar = el().querySelector('.ex-submit-bar');
     if (bar) {
         bar.innerHTML = submitBarHtml(total);

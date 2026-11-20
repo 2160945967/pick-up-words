@@ -1,7 +1,7 @@
 // 复习模式：与测验模式相同的显示和判断逻辑，仅单词来源不同
 
-import { appState, showConfirm, showAlert, escapeForJsString, escapeHtml } from '../global';
-import { PronunciationType, QuizMode } from '../types/enums';
+import { appState, showConfirm, showAlert, escapeHtml } from '../global';
+import { QuizMode } from '../types/enums';
 import { playPronunciation, playCorrectSound, playWrongSound, playCompleteSound, playClickSound } from '../utils/audio';
 import { formatDefinitionHtml, normalizeNewlines } from '../utils/translation';
 import { initErrorbookVue } from './errorbook';
@@ -48,7 +48,6 @@ let reviewAnswerSubmitted = false;
 // 防止 checkQuizAnswer 异步期间用户重复按 Enter 触发并发判定
 let reviewIsChecking = false;
 let reviewQuizInitialized = false;
-let reviewShortcutsRemove: (() => void) | null = null;
 let reviewEscHandler: ((e: KeyboardEvent) => void) | null = null;
 let reviewSession: SessionState | null = null;
 
@@ -113,14 +112,14 @@ export function initReviewQuiz(): void {
             });
         }
 
-        // 复习模式全局快捷键（只绑定一次）
-        reviewShortcutsRemove = setupGlobalShortcuts(
+        // 复习模式全局快捷键（只绑定一次，内部按容器可见性守卫，无需解绑）
+        setupGlobalShortcuts(
             '#review-quiz-container',
             'review-answer',
             () => reviewShowAnswer(),
             (word) => playPronunciation(appState.settings.pronunciationType, word),
             () => reviewWords[reviewIndex]?.word
-        ).remove;
+        );
 
         // Esc 全局快捷键（只绑定一次）
         reviewEscHandler = function(e: KeyboardEvent) {

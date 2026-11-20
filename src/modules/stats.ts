@@ -81,7 +81,7 @@ export function updateStudyStats(): void {
     }
 
     let errorWords = 0;
-    for (const word in appState.errorbook) {
+    for (const _word in appState.errorbook) {
         errorWords++;
     }
     appState.studyStats.errorWords = errorWords;

@@ -289,7 +289,13 @@ export function initSettings(): void {
 export function loadSettings(): void {
     const savedSettings = localStorage.getItem('quizSettings');
     if (savedSettings) {
-        const parsed = JSON.parse(savedSettings);
+        let parsed: Record<string, unknown>;
+        try {
+            parsed = JSON.parse(savedSettings);
+        } catch {
+            // 设置损坏时回退默认值，避免中断启动
+            parsed = {};
+        }
         // 合并默认设置和已保存的设置，确保新字段有默认值
         Object.assign(appState.settings, {
             pronunciationType: PronunciationType.US,
@@ -1462,13 +1468,6 @@ function applyShifts(newTargetIndex: number): void {
     }
 }
 
-function clearShifts(): void {
-    if (!drag) return;
-    drag.items.forEach(el => {
-        el.style.transform = '';
-    });
-}
-
 // 给单个可排序容器绑定 pointer 事件（originalRects 用相对容器坐标，滚动时不会变化）
 function bindSortableEvents(container: HTMLElement, containerKey: string): void {
 
@@ -1510,7 +1509,6 @@ function bindSortableEvents(container: HTMLElement, containerKey: string): void 
             } as DOMRect;
         });
 
-        const sourceRect = originalRects[sourceIndex];
         // offsetX/Y 用 viewport 坐标（因为 ghost 用 fixed 定位，跟随鼠标 viewport 坐标）
         const clientSourceRect = item.getBoundingClientRect();
         const offsetX = e.clientX - clientSourceRect.left;

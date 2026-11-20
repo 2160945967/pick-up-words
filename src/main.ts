@@ -7,7 +7,6 @@ import {
     initWordbookAndErrorbookSearch,
     jumpToWord,
     navigateToWord,
-    updateWordSourceSelector,
     pageHandlers,
     appState,
     initSidebarCollapse,

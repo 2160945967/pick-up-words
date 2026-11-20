@@ -1,6 +1,6 @@
 // 测验页面：模式选择、题目生成、答案检查（仅测验模式，不使用艾宾浩斯）
 
-import { appState, openModal, showAlert, showConfirm, escapeForJsString, escapeHtml } from '../global';
+import { appState, openModal, showAlert, showConfirm, escapeHtml } from '../global';
 import { QuizMode, QuizOrder } from '../types/enums';
 import { playPronunciation } from '../utils/audio';
 import { formatDefinitionHtml } from '../utils/translation';
@@ -8,7 +8,7 @@ import { initErrorbookVue } from './errorbook';
 import { updateStudyStats, incrementStudyDay, updateTomorrowWords } from './stats';
 import { loadSettings, saveQuizSettings } from './settings';
 import { loadWordbooks, updateWordSourceSelect, getSourceProgress, getSourceWordList, normalizeCaseByType } from './wordbook';
-import { setupImeHandling, setupEnterSubmission, setupGlobalShortcuts, setupInputCooldown, getRandomMeanings } from '../utils/quizCommon';
+import { setupImeHandling, setupEnterSubmission, setupInputCooldown } from '../utils/quizCommon';
 import { updateFavoritesDisplay } from './favorites';
 import { animateCorrectFeedback, animateErrorShake, showToast } from '../utils/gsap';
 import { playCorrectSound, playWrongSound, playCompleteSound, playClickSound } from '../utils/audio';
@@ -16,8 +16,8 @@ import { apiTranslate } from '../utils/api';
 import { selectMeaningsForQuestion, buildMeaningDisplayHtml, checkQuizAnswer, zhMeaningMatch, splitEcdictTranslation, updateMeaningWeights, type CheckAnswerResult } from '../utils/quizHelper';
 import { safeParse } from '../utils/storage';
 import { computeFsrs, decideFsrsGrade, type FsrsGrade } from '../utils/scheduler';
-import { applyLeech, getLeechWords, getLeechCount, clearLeech } from '../utils/leech';
-import { TypingTracker, getTypingStats, keyAccuracy, charsPerMinute, resetTypingStats } from '../utils/typingStats';
+import { applyLeech, getLeechWords, clearLeech } from '../utils/leech';
+import { TypingTracker } from '../utils/typingStats';
 import { buildGradingEntry, logGrading } from '../utils/gradingLog';
 import {
     recordWordLearned, getStreakData, getTodayEntry, fireCelebration,
@@ -40,7 +40,7 @@ import type { QuizWordData } from '../utils/quizSession';
 import { notifyActivity, backupNow } from '../utils/backup';
 import {
     isStructuredSource, collectBookWords, toQuizWord,
-    getSourceWordListSync, ensureIndexLoaded,
+    ensureIndexLoaded,
 } from '../utils/structuredBook';
 
 export function initQuiz(): void {
@@ -224,11 +224,6 @@ export function initQuiz(): void {
 
 export async function nextQuestion(): Promise<void> {
     await generateQuestion();
-}
-
-interface WordMeaning {
-    part: string;
-    definition: string;
 }
 
 // 从释义中随机选择释义（使用公共模块）
@@ -621,8 +616,6 @@ export function showDueWordsCondition(): void {
 let quizTotalCount = 0;
 let quizAnsweredCount = 0;
 let quizAnsweredWords: Set<string> = new Set();
-let quizAnswerSubmitted = false; // 标记用户是否提交了答案（区别于手动点"显示答案"）
-let quizLastAnswerCorrect = false; // 上一题答对还是答错
 let answerCommitted = false; // 当前题是否已落库（防重复提交/双写）
 let _showAnswerEnterHandler: ((e: KeyboardEvent) => void) | null = null;
 let quizSession: SessionState | null = null;
@@ -1099,7 +1092,6 @@ export async function generateQuestion(): Promise<void> {
     typingTracker = new TypingTracker(appState.currentQuizWord.word, isEnglishTyping);
     lastInputValue = '';
 
-    quizAnswerSubmitted = false; // 重置提交标记
     answerCommitted = false; // 新题允许落库一次
 
     // 如果没有释义，尝试获取翻译（不管是不是句子）
@@ -1601,183 +1593,186 @@ export async function checkAnswer(): Promise<void> {
 
     appState.isProcessingAnswer = true;
 
-    const answerInput = document.getElementById('quiz-answer') as HTMLInputElement;
-    if (!answerInput) { appState.isProcessingAnswer = false; return; }
-    const answer = answerInput.value.trim();
-    const feedback = document.getElementById('quiz-feedback') as HTMLElement;
-    const isSentence = appState.currentQuizWord.word.includes(' ') || appState.currentQuizWord.isSentence;
+    try {
+        const answerInput = document.getElementById('quiz-answer') as HTMLInputElement;
+        if (!answerInput) { appState.isProcessingAnswer = false; return; }
+        const answer = answerInput.value.trim();
+        const feedback = document.getElementById('quiz-feedback') as HTMLElement;
+        const isSentence = appState.currentQuizWord.word.includes(' ') || appState.currentQuizWord.isSentence;
 
-    if (!answer) {
-        feedback.textContent = '请输入答案';
+        if (!answer) {
+            feedback.textContent = '请输入答案';
+            feedback.className = 'quiz-feedback-partial';
+            appState.isProcessingAnswer = false;
+            return;
+        }
+
+        let result: CheckAnswerResult = { isCorrect: false, isPartial: false };
+
+        // 逐片段语义判别可能耗时数秒：先给「正在判别」反馈，结果出来后被成功 / 部分 / 错误分支覆盖
+        feedback.textContent = '正在判别答案…';
         feedback.className = 'quiz-feedback-partial';
-        appState.isProcessingAnswer = false;
-        return;
-    }
 
-    let result: CheckAnswerResult = { isCorrect: false, isPartial: false };
+        // 统一调用 checkQuizAnswer 处理所有模式的答案检查
+        result = await checkQuizAnswer(
+            answer,
+            appState.currentQuizWord.word,
+            appState.currentQuizWord.meanings || [],
+            appState.currentQuizMode,
+            isSentence,
+            (appState.currentQuizWord as QuizWordData).answers,
+            (appState.currentQuizWord as QuizWordData).extraMeanings,
+            { semanticEnabled: appState.settings.semanticSimilarityEnabled !== false }
+        );
 
-    // 逐片段语义判别可能耗时数秒：先给「正在判别」反馈，结果出来后被成功 / 部分 / 错误分支覆盖
-    feedback.textContent = '正在判别答案…';
-    feedback.className = 'quiz-feedback-partial';
-
-    // 统一调用 checkQuizAnswer 处理所有模式的答案检查
-    result = await checkQuizAnswer(
-        answer,
-        appState.currentQuizWord.word,
-        appState.currentQuizWord.meanings || [],
-        appState.currentQuizMode,
-        isSentence,
-        (appState.currentQuizWord as QuizWordData).answers,
-        (appState.currentQuizWord as QuizWordData).extraMeanings,
-        { semanticEnabled: appState.settings.semanticSimilarityEnabled !== false }
-    );
-
-    // 判题日志（全本地、失败静默）：阶段 0 先记录可取得字段，
-    // 语义分数明细与 gradedGrade 随阶段 1（注入化 / grade 集中）补全。
-    {
-        const srcEl = document.getElementById('word-source') as HTMLSelectElement | null;
-        const wd = appState.currentQuizWord as QuizWordData;
-        let gradedGrade: FsrsGrade | null = null;
-        if (appState.settings.scheduler === 'fsrs') {
-            // 此时 errorCount 反映本轮此前的错误次数（本次答错的 ++ 在其后），
-            // 与 recordLearningHistory 的评分口径一致。
-            const hist = safeParse<Record<string, { card?: { reps?: number } }>>('learningHistory', {});
-            const oldCard = hist[wd.word]?.card;
-            gradedGrade = decideFsrsGrade({
-                isCorrect: result.isCorrect,
-                errorCountThisRound: appState.errorCount,
-                oldReps: oldCard ? Number(oldCard.reps) : undefined,
+        // 判题日志（全本地、失败静默）：阶段 0 先记录可取得字段，
+        // 语义分数明细与 gradedGrade 随阶段 1（注入化 / grade 集中）补全。
+        {
+            const srcEl = document.getElementById('word-source') as HTMLSelectElement | null;
+            const wd = appState.currentQuizWord as QuizWordData;
+            let gradedGrade: FsrsGrade | null = null;
+            if (appState.settings.scheduler === 'fsrs') {
+                // 此时 errorCount 反映本轮此前的错误次数（本次答错的 ++ 在其后），
+                // 与 recordLearningHistory 的评分口径一致。
+                const hist = safeParse<Record<string, { card?: { reps?: number } }>>('learningHistory', {});
+                const oldCard = hist[wd.word]?.card;
+                gradedGrade = decideFsrsGrade({
+                    isCorrect: result.isCorrect,
+                    errorCountThisRound: appState.errorCount,
+                    oldReps: oldCard ? Number(oldCard.reps) : undefined,
+                });
+            }
+            const entry = buildGradingEntry({
+                mode: appState.currentQuizMode,
+                word: wd.word,
+                source: srcEl ? srcEl.value : '',
+                targetMeanings: collectCorrectMeanings(wd),
+                userInput: answer,
+                result,
+                cloze: appState.settings.showExampleInQuiz === true,
+                semanticEnabled: appState.settings.semanticSimilarityEnabled !== false,
+                gradedGrade,
             });
-        }
-        const entry = buildGradingEntry({
-            mode: appState.currentQuizMode,
-            word: wd.word,
-            source: srcEl ? srcEl.value : '',
-            targetMeanings: collectCorrectMeanings(wd),
-            userInput: answer,
-            result,
-            cloze: appState.settings.showExampleInQuiz === true,
-            semanticEnabled: appState.settings.semanticSimilarityEnabled !== false,
-            gradedGrade,
-        });
-        void logGrading(entry);
-    }
-
-    if (result.isCorrect) {
-        // 完全正确
-        feedback.textContent = '回答正确！';
-        feedback.className = 'quiz-feedback-success';
-        animateCorrectFeedback(feedback);
-        pulseTypeArea(true);
-        playCorrectSound();
-
-        quizAnswerSubmitted = true;
-        quizLastAnswerCorrect = true;
-        commitCurrentAnswer(true); // 答对即落库，避免答最后一词按 Esc 丢失
-
-        (document.getElementById('quiz-answer') as HTMLInputElement).value = '';
-
-        if (!isSentence) {
-            playPronunciation(appState.settings.pronunciationType, appState.currentQuizWord.word);
+            void logGrading(entry);
         }
 
-        if (appState.errorbook[appState.currentQuizWord.word]) {
-            appState.errorbook[appState.currentQuizWord.word].correctCount++;
+        if (result.isCorrect) {
+            // 完全正确
+            feedback.textContent = '回答正确！';
+            feedback.className = 'quiz-feedback-success';
+            animateCorrectFeedback(feedback);
+            pulseTypeArea(true);
+            playCorrectSound();
+
+            commitCurrentAnswer(true); // 答对即落库，避免答最后一词按 Esc 丢失
+
+            (document.getElementById('quiz-answer') as HTMLInputElement).value = '';
+
+            if (!isSentence) {
+                playPronunciation(appState.settings.pronunciationType, appState.currentQuizWord.word);
+            }
+
+            if (appState.errorbook[appState.currentQuizWord.word]) {
+                appState.errorbook[appState.currentQuizWord.word].correctCount++;
+
+                if (appState.currentQuizMode !== QuizMode.Dictation) {
+                    const eb = appState.errorbook[appState.currentQuizWord.word];
+                    eb.meaningWeights = updateMeaningWeights(
+                        eb.meaningWeights,
+                        appState.currentQuizMeanings.map(m => m.definition),
+                        true
+                    );
+                }
+
+                if (appState.errorbook[appState.currentQuizWord.word].correctCount >= appState.settings.errorCorrectCount) {
+                    delete appState.errorbook[appState.currentQuizWord.word];
+                }
+
+                localStorage.setItem('errorbook', JSON.stringify(appState.errorbook));
+                initErrorbookVue();
+                updateStudyStats();
+            }
+
+            setTimeout(() => {
+                appState.isProcessingAnswer = false;
+                showAnswer(false);
+            }, 500);
+
+            // 回答正确后滚动到测验区域，确保能看到答案
+            scrollToQuizArea();
+        } else if (result.isPartial) {
+            // 部分正确，用户还可以继续尝试，不算答过
+            feedback.textContent = '对了一部分哦，再检查检查';
+            feedback.className = 'quiz-feedback-partial';
+            if (appState.currentQuizMode === QuizMode.EnToZh && !isSentence) {
+                renderZhCheck(result);
+            }
+
+            appState.isProcessingAnswer = false;
+        } else {
+            // 完全错误
+            appState.errorCount++;
+
+            // 听力卡壳词追踪：记录到卡壳词列表
+            if (appState.currentQuizMode === QuizMode.ListeningStuck) {
+                markAsListeningStuck(appState.currentQuizWord);
+            }
+
+            if (!appState.errorbook[appState.currentQuizWord.word]) {
+                appState.errorbook[appState.currentQuizWord.word] = {
+                    errorCount: 1,
+                    correctCount: 0,
+                    addedTime: new Date().getTime(),
+                    meaningWeights: {}
+                };
+            } else {
+                appState.errorbook[appState.currentQuizWord.word].errorCount++;
+                if (!appState.errorbook[appState.currentQuizWord.word].addedTime) {
+                    appState.errorbook[appState.currentQuizWord.word].addedTime = new Date().getTime();
+                }
+            }
 
             if (appState.currentQuizMode !== QuizMode.Dictation) {
                 const eb = appState.errorbook[appState.currentQuizWord.word];
                 eb.meaningWeights = updateMeaningWeights(
                     eb.meaningWeights,
                     appState.currentQuizMeanings.map(m => m.definition),
-                    true
+                    false
                 );
-            }
-
-            if (appState.errorbook[appState.currentQuizWord.word].correctCount >= appState.settings.errorCorrectCount) {
-                delete appState.errorbook[appState.currentQuizWord.word];
             }
 
             localStorage.setItem('errorbook', JSON.stringify(appState.errorbook));
             initErrorbookVue();
             updateStudyStats();
-        }
 
-        setTimeout(() => {
-            appState.isProcessingAnswer = false;
-            showAnswer(false);
-        }, 500);
-
-        // 回答正确后滚动到测验区域，确保能看到答案
-        scrollToQuizArea();
-    } else if (result.isPartial) {
-        // 部分正确，用户还可以继续尝试，不算答过
-        feedback.textContent = '对了一部分哦，再检查检查';
-        feedback.className = 'quiz-feedback-partial';
-        if (appState.currentQuizMode === QuizMode.EnToZh && !isSentence) {
-            renderZhCheck(result);
-        }
-
-        appState.isProcessingAnswer = false;
-    } else {
-        // 完全错误
-        appState.errorCount++;
-        quizAnswerSubmitted = true;
-
-        // 听力卡壳词追踪：记录到卡壳词列表
-        if (appState.currentQuizMode === QuizMode.ListeningStuck) {
-            markAsListeningStuck(appState.currentQuizWord);
-        }
-
-        if (!appState.errorbook[appState.currentQuizWord.word]) {
-            appState.errorbook[appState.currentQuizWord.word] = {
-                errorCount: 1,
-                correctCount: 0,
-                addedTime: new Date().getTime(),
-                meaningWeights: {}
-            };
-        } else {
-            appState.errorbook[appState.currentQuizWord.word].errorCount++;
-            if (!appState.errorbook[appState.currentQuizWord.word].addedTime) {
-                appState.errorbook[appState.currentQuizWord.word].addedTime = new Date().getTime();
+            // 错题自动播放发音：根据设置中的阈值决定（0 表示不自动播放）
+            const autoPlayThreshold = Number(appState.settings.autoPlayPronunciationAfterErrors) || 0;
+            if (autoPlayThreshold > 0 && appState.errorCount >= autoPlayThreshold && !isSentence) {
+                playPronunciation(appState.settings.pronunciationType, appState.currentQuizWord.word);
             }
+
+            if (appState.currentQuizMode === QuizMode.ListeningStuck) {
+                feedback.textContent = '已标记为听力卡壳词，按Enter查看答案并继续';
+            } else if (appState.errorCount >= 2) {
+                feedback.textContent = '拼写错误，请检查拼写';
+            } else {
+                feedback.textContent = '回答错误，请再试一次';
+            }
+            feedback.className = 'quiz-feedback-error';
+            animateErrorShake(feedback);
+            pulseTypeArea(false);
+            playWrongSound();
+
+            if (appState.currentQuizMode === QuizMode.EnToZh && !isSentence) {
+                renderZhCheck(result);
+            }
+
+            appState.isProcessingAnswer = false;
         }
-
-        if (appState.currentQuizMode !== QuizMode.Dictation) {
-            const eb = appState.errorbook[appState.currentQuizWord.word];
-            eb.meaningWeights = updateMeaningWeights(
-                eb.meaningWeights,
-                appState.currentQuizMeanings.map(m => m.definition),
-                false
-            );
-        }
-
-        localStorage.setItem('errorbook', JSON.stringify(appState.errorbook));
-        initErrorbookVue();
-        updateStudyStats();
-
-        // 错题自动播放发音：根据设置中的阈值决定（0 表示不自动播放）
-        const autoPlayThreshold = Number(appState.settings.autoPlayPronunciationAfterErrors) || 0;
-        if (autoPlayThreshold > 0 && appState.errorCount >= autoPlayThreshold && !isSentence) {
-            playPronunciation(appState.settings.pronunciationType, appState.currentQuizWord.word);
-        }
-
-        if (appState.currentQuizMode === QuizMode.ListeningStuck) {
-            feedback.textContent = '已标记为听力卡壳词，按Enter查看答案并继续';
-        } else if (appState.errorCount >= 2) {
-            feedback.textContent = '拼写错误，请检查拼写';
-        } else {
-            feedback.textContent = '回答错误，请再试一次';
-        }
-        feedback.className = 'quiz-feedback-error';
-        animateErrorShake(feedback);
-        pulseTypeArea(false);
-        playWrongSound();
-
-        if (appState.currentQuizMode === QuizMode.EnToZh && !isSentence) {
-            renderZhCheck(result);
-        }
-
+    } catch (err) {
+        // 判题或后续处理抛错时，确保答题标志不会永久卡死；错误向上抛出由调用方处理
         appState.isProcessingAnswer = false;
+        throw err;
     }
 }
 
@@ -1993,8 +1988,6 @@ export function showAnswer(manual: boolean = false): void {
     updateSpellingFeedback();
     requestAnimationFrame(() => quizAnswerInput.focus());
 
-    quizAnswerSubmitted = true;
-    quizLastAnswerCorrect = false;
     commitCurrentAnswer(false); // 手动揭晓视为答错；答对路径已在 checkAnswer 提交，guard 防双写
 
     const quizFavBtn = document.getElementById('quiz-fav-btn') as HTMLButtonElement | null;
@@ -2151,7 +2144,6 @@ function buildRoundTypingHtml(): string {
 function showQuizResult(): void {
     if (!quizSession) return;
     // 离开默写轮，恢复正常标记（全局已测词集合未被改动）
-    const wasDictation = isDictationRound;
     isDictationRound = false;
     endSessionComplete(quizSession);
     // 一轮完成：立即备份最终状态

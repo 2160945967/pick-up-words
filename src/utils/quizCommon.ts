@@ -1,7 +1,6 @@
 // 测验/复习公共逻辑：IME 输入法处理、快捷键、防抖、释义选择
 
 import { appState } from '../global';
-import { playPronunciation } from './audio';
 import { QuizMode } from '../types/enums';
 
 // 为输入框绑定中文输入法处理

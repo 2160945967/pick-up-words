@@ -5,7 +5,7 @@ import * as net from 'net';
 import { initDatabases } from './services/database';
 import { initTTS } from './services/tts';
 import { setupRoutes, warmSystemWordbooksCache } from './api/routes';
-import { ROOT_DIR, APP_ROOT_DIR, CACHE_DIR, USER_DATA_DIR, ASSETS_DIR, resolveAssetPath } from './utils/helpers';
+import { ROOT_DIR, APP_ROOT_DIR, CACHE_DIR, USER_DATA_DIR, ASSETS_DIR, resolveAssetPath, errorResponse } from './utils/helpers';
 import { downloadRequiredAssets } from './services/asset-manager';
 import { autoResumePronunciationDownloads } from './services/pronunciation-downloader';
 import { preloadModel as preloadSemanticModel } from './services/semanticSimilarity';
@@ -96,6 +96,16 @@ async function start() {
   });
 
   setupRoutes(app);
+
+  // 全局错误兜底：路由内部漏 catch 的异常统一返回 500，避免请求一直挂起
+  app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
+    if (res.headersSent) {
+      next(err);
+      return;
+    }
+    console.error('Unhandled route error:', err);
+    res.status(500).json(errorResponse('Internal Server Error', 500));
+  });
 
   app.use(express.static(STATIC_DIR));
 

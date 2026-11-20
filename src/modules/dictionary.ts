@@ -1,13 +1,13 @@
 // 词典页面：搜索、查词、翻译、发音、语音输入、搜索建议、查词历史
 
-import { appState, switchPage, navigateToWord, jumpToWord, isWordJumping, isCrossPageJumping, onWordJumpDone, getWordJumpElapsed, pageHandlers, escapeHtml, escapeForJsString } from '../global';
+import { appState, switchPage, navigateToWord, isWordJumping, isCrossPageJumping, onWordJumpDone, pageHandlers, escapeHtml } from '../global';
 import { updateStudyStats } from './stats';
 import { loadSettings } from './settings';
 import { updateAllWordbookSelectors, normalizeCaseByType } from './wordbook';
 
 import { updateFavoritesDisplay } from './favorites';
 import { getRegistry } from '../global-registry';
-import { apiGet, apiPost, apiTranslate } from '../utils/api';
+import { apiGet, apiTranslate } from '../utils/api';
 import { parseMeanings, normalizeNewlines, formatDefinitionHtml, fallbackPart } from '../utils/translation';
 import { showToast, animateResultShow } from '../utils/gsap';
 import { safeParse } from '../utils/storage';
@@ -605,7 +605,6 @@ async function searchChineseWords(keyword: string): Promise<void> {
 
 // 先查词典，没有就翻译
 export async function searchOrTranslate(text: string): Promise<void> {
-    const resultDiv = document.getElementById('result');
     const translationContainer = document.getElementById('translation-container');
     const chineseResultDiv = document.getElementById('chinese-search-result');
     const wordElement = document.getElementById('word');
@@ -773,7 +772,7 @@ export function buildEnhancedHtml(enhanced: {
     roots?: Array<{ root: string; info: { meaning?: string; class?: string; example?: string[] } }>;
     similar_words?: string[];
     resemble_groups?: Array<{ explanation: string[] }>;
-}, word: string): string {
+}): string {
     let html = '';
     if (!enhanced) return html;
 
@@ -972,7 +971,7 @@ export function displayResult(data: WordData): void {
     }
 
     // 构建增强信息HTML
-    const enhancedHtml = buildEnhancedHtml(data.enhanced, data.word);
+    const enhancedHtml = buildEnhancedHtml(data.enhanced);
 
     let meaningsHtml = '';
     data.meanings.forEach((meaning: WordMeaning) => {
@@ -1316,8 +1315,6 @@ export function toggleSentenceFavorites(): void {
         const itemText = typeof item === 'string' ? item : ((item as any).word || (item as any).text);
         return itemText === text;
     });
-
-    const sentenceFavBtn = document.getElementById('add-sentence-to-favorites') as HTMLElement;
 
     if (index === -1) {
         appState.favorites.push({ text: text, translation: translation, type: 'sentence', timestamp: Date.now() });
@@ -1719,9 +1716,6 @@ export async function translateText(text: string): Promise<void> {
     const searchInput = document.getElementById('search-input') as HTMLInputElement;
     const translationResult = document.getElementById('translation-result') as HTMLElement;
     const translationContainer = document.getElementById('translation-container') as HTMLElement;
-    const wordElement = document.getElementById('word');
-    const phoneticElement = document.getElementById('phonetic');
-    const meaningsElement = document.getElementById('meanings');
 
     if (!text) {
         text = searchInput.value.trim();

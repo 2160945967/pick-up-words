@@ -13,7 +13,6 @@ interface WordbookWordItem {
 // Wordbook management: create/rename/delete wordbooks, word list, Vue virtual list, import/export, wordbook selector
 
 import { appState, systemWordbooks, jumpToWord, currentSection, showAlert, showConfirm, showPrompt } from '../global';
-import { updateStudyStats } from './stats';
 import { getErrorbookItemType } from './errorbook';
 import { getItemText } from './favorites';
 import { SortBy, FilterType, WordSource, ContentType, PageSection } from '../types/enums';
@@ -441,7 +440,11 @@ export async function loadWordbooks(): Promise<void> {
         // 从localStorage加载作为后备
         const savedWordbooks = localStorage.getItem('wordbooks');
         if (savedWordbooks) {
-            appState.wordbooks = JSON.parse(savedWordbooks);
+            try {
+                appState.wordbooks = JSON.parse(savedWordbooks);
+            } catch {
+                // 本地单词本也损坏时保留当前值，避免在 catch 中再次抛错
+            }
         }
     } finally {
         wordbookListAbortController = null;
@@ -542,7 +545,7 @@ export async function updateAllWordbookSelectors(): Promise<void> {
 }
 
 function refreshDictionaryInlineSelectors(): void {
-    const buildOptions = (selectedVal?: string | null): string => {
+    const buildOptions = (): string => {
         let html = '<option value="" disabled>选择单词本</option>';
         for (const name in appState.wordbooks) {
             if (name.startsWith('sys_')) continue;
@@ -1317,7 +1320,7 @@ export async function updateSelectedWordbookDisplay(): Promise<void> {
 export function initWordbookVue(): void {
     if (appState.wordbookVueInstance) return;
 
-    const { createApp, ref, reactive, computed, nextTick, watch } = (window as any).Vue;
+    const { createApp } = (window as any).Vue;
 
     const app = createApp({
         render: wordbookRender,
@@ -1436,7 +1439,7 @@ export function initWordbookVue(): void {
                 this.dragIndex = index;
                 (e.target as HTMLElement).classList.add('dragging');
             },
-            onDragOver(e: DragEvent, index: number) {
+            onDragOver(_e: DragEvent, index: number) {
                 this.overIndex = index;
             },
             onDragEnd() {

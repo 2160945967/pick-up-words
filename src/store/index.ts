@@ -5,8 +5,6 @@ import {
     SortBy,
     FilterType,
     WordSource,
-    ContentType,
-    PageSection,
     GradeLevel,
     SchedulerAlgo,
 } from '../types/enums';
@@ -204,14 +202,6 @@ function getDefaultState(): AppState {
         errorbookVueInstance: null,
         wordbookSearchInitialized: false,
     };
-}
-
-function pathMatches(prefix: string[], target: string[]): boolean {
-    if (prefix.length !== target.length) return false;
-    for (let i = 0; i < prefix.length; i++) {
-        if (String(prefix[i]) !== String(target[i])) return false;
-    }
-    return true;
 }
 
 // 判断某个路径是否应持久化，返回对应的 localStorage key（若有）

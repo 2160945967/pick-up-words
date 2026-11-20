@@ -146,10 +146,6 @@
 
 │   │   ├── quizHelper.ts         # 测验答案检查与释义选择
 
-│   │   ├── regex.ts              # 常用正则表达式模式
-
-│   │   ├── generator.ts          # 数据生成：Fisher-Yates 洗牌、艾宾浩斯间隔计算
-
 │   │   └── storage.ts            # localStorage 读写封装
 
 │   │   └── popupSelect.ts        # 通用弹窗式下拉选择器（select 隐藏为状态载体，按钮触发居中弹窗）
@@ -3372,6 +3368,8 @@ PRONUNCIATIONS\_DIR // 发音文件目录（优先 USER\_DATA\_DIR，回退 APP\
 
 * **发音批量下载**：`/api/pronunciations/download/*` 系列接口管理离线发音包的全量下载，支持暂停 / 恢复 / 取消，与 TTS 缓存目录共享。
 
+* **全局错误兜底**：`server.ts` 在所有路由之后注册四参数错误中间件，路由内部漏 catch 的异常统一返回 500（`errorResponse`）；若已发送响应头则交给 Express 默认处理，避免请求挂起。
+
 ### 5.3 服务层（electron/services/）
 
 #### database.ts
@@ -4960,33 +4958,7 @@ class LRUCache\<T> {
 | `stats.d.ts`   | StudyStatsData 接口                                                                                |
 | `global.d.ts`  | 全局类型声明（window.electronAPI 等）                                                                     |
 
-### 16.2 正则表达式工具（regex.ts）
-
-`src/utils/regex.ts` 提供常用的正则模式：
-
-
-
-* 词性匹配：`/^([a-zA-Z]+\.)\s*(.*)$/`
-
-* 领域标签：`/^\[([^\]]+)\]\s*(.*)$/`
-
-* 中文字符检测：`/[\u4e00-\u9fff]/`
-
-* 释义分隔符：`/[；;，,]/`
-
-### 16.3 生成器工具（generator.ts）
-
-`src/utils/generator.ts` 提供数据生成辅助函数：
-
-
-
-* Fisher-Yates 洗牌算法（用于测验随机排序）
-
-* 艾宾浩斯复习间隔计算
-
-* 学习历史按天分组
-
-### 16.4 localStorage 工具（storage.ts）
+### 16.2 localStorage 工具（storage.ts）
 
 `src/utils/storage.ts` 提供类型安全的 localStorage 读写：
 
